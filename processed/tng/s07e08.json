@@ -1,0 +1,1534 @@
+{
+  "airdate": 752734800,
+  "scenes": [
+    {
+      "dialogue": [
+        {
+          "character": "PICARD",
+          "line": "Captain's log, stardate 47304.2. The Enterprise has arrived at Kesprytt Three in order to evaluate an unusual request on the part of the Kes for associate membership in the Federation.",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "unknown"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "CRUSHER",
+          "line": "This morning she was fifteen minutes late. That's the third time this week. Jean-Luc, you don't have the slightest idea what I'm talking about, do you."
+        },
+        {
+          "character": "PICARD",
+          "line": "No. I'm really sorry. I don't."
+        },
+        {
+          "character": "CRUSHER",
+          "line": "I've been telling you about Nurse Ogawa and Ensign Markson for the last fifteen minutes."
+        },
+        {
+          "character": "PICARD",
+          "line": "You have? I'm really sorry."
+        },
+        {
+          "character": "CRUSHER",
+          "line": "Are you worried about this mission with the Kes?"
+        },
+        {
+          "character": "PICARD",
+          "line": "Not worried exactly. This notion of admitting half of their planet to the Federation while leaving the other half out."
+        },
+        {
+          "character": "CRUSHER",
+          "line": "First of all, the Kes are not half the planet, they're nearly three quarters of it. And the Prytt are not being left out. They themselves simply don't want to have contact with anyone from the outside. not the Federation or anyone else."
+        },
+        {
+          "character": "PICARD",
+          "line": "Every member of the Federation entered as a unified world, and that unity said something about them. That they had resolved certain social and political differences and they were now ready to become part of a larger community."
+        },
+        {
+          "character": "CRUSHER",
+          "line": "By all indications, the Kes are a very unified, very progressive people."
+        },
+        {
+          "character": "PICARD",
+          "line": "But the Prytt are not. They are reclusive to the point of xenophobia."
+        },
+        {
+          "character": "CRUSHER",
+          "line": "Well, think about Earth. What if one of the old nation states, say Australia, had decided not to join the World Government in twenty one fifty? Would that have disqualified us as a Federation member?"
+        },
+        {
+          "character": "PICARD",
+          "line": "That analogy is not exactly"
+        },
+        {
+          "character": "RIKER",
+          "line": "Riker to Captain.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "PICARD",
+          "line": "Go ahead, Number One."
+        }
+      ],
+      "location": "Picard's quarters"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "RIKER",
+          "line": "We've received word from Ambassador Mauric. He's ready to see you and Doctor Crusher."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "PICARD",
+          "line": "Inform him we're on our way. Thank you for breakfast."
+        },
+        {
+          "character": "CRUSHER",
+          "line": "Wait until tomorrow. I have something very special planned. It's a Vulcan dish. That's all I'll say."
+        }
+      ],
+      "location": "Picard's quarters"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "WORF",
+          "line": "Captain. Doctor. I have the coordinates of Ambassador Mauric's chambers."
+        },
+        {
+          "character": "PICARD",
+          "line": "Let's not keep them waiting, Mister Worf."
+        },
+        {
+          "character": "WORF",
+          "line": "Enterprise to Kes Security Relay Station One. We're ready to commence transport."
+        },
+        {
+          "character": "KES",
+          "line": "Acknowledged, Enterprise. We have lowered our defense shield.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "WORF",
+          "line": "Confirmed."
+        },
+        {
+          "character": "PICARD",
+          "line": "Energize."
+        },
+        {
+          "character": "KES",
+          "line": "This is Security Relay Station One. We are ready to receive your Captain and Medical Officer.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "WORF",
+          "line": "This is the Enterprise. We have completed the transport sequence. You should have them."
+        },
+        {
+          "character": "KES",
+          "line": "Negative, Enterprise. They are not here.",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "Transporter room"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "PICARD",
+          "line": "Beverly. Beverly."
+        },
+        {
+          "character": "CRUSHER",
+          "line": "What happened?"
+        },
+        {
+          "character": "PICARD",
+          "line": "I don't know."
+        },
+        {
+          "character": "CRUSHER",
+          "line": "The last thing I remember we were beginning to transport."
+        },
+        {
+          "character": "PICARD",
+          "line": "I would assume we must be on Kesprytt. We're in some kind of prison cell. The question is, why? I can't imagine that Ambassador Mauric would have any reason to detain us."
+        },
+        {
+          "character": "CRUSHER",
+          "line": "Jean-Luc."
+        },
+        {
+          "character": "PICARD",
+          "line": "What is it?"
+        },
+        {
+          "character": "CRUSHER",
+          "line": "Let me see."
+        },
+        {
+          "character": "PICARD",
+          "line": "What?"
+        },
+        {
+          "character": "CRUSHER",
+          "line": "It looks like an implant. It seems to be connected directly to the brainstem."
+        },
+        {
+          "character": "PICARD",
+          "line": "Some kind of coercive device?"
+        },
+        {
+          "character": "CRUSHER",
+          "line": "Whatever it is I doubt it's designed for our health."
+        },
+        {
+          "character": "PICARD",
+          "line": "What is going on here?"
+        },
+        {
+          "character": "CRUSHER",
+          "line": "If you tell us why you've taken us hostage, we might be able to"
+        },
+        {
+          "character": "LORIN",
+          "line": "You are not hostages. You are prisoners."
+        },
+        {
+          "character": "PICARD",
+          "line": "Prisoners on whose authority?"
+        },
+        {
+          "character": "LORIN",
+          "line": "You are being held under the authority of the Prytt Security Ministry. The charges are conspiring with the enemy."
+        },
+        {
+          "character": "PICARD",
+          "line": "Enemy? You mean the Kes."
+        },
+        {
+          "character": "LORIN",
+          "line": "We're not fools. We are aware of the Federation attempt to establish a military alliance with the Kes. It will not be tolerated."
+        },
+        {
+          "character": "PICARD",
+          "line": "Your information is incorrect. We have no plans to enter into any"
+        },
+        {
+          "character": "LORIN",
+          "line": "There is no point in trying to mislead us, Captain. The devices which have been implanted in your cerebral cortexes will soon be calibrated to your psi-wave pattern. At that time, we will be able to get all the information we need."
+        },
+        {
+          "character": "PICARD",
+          "line": "And then you'll diskover that we're telling the truth."
+        },
+        {
+          "character": "LORIN",
+          "line": "We shall see."
+        }
+      ],
+      "location": "Cell"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "DATA",
+          "line": "There is nothing wrong with the transporter. I have run a complete diagnostic of all the targeting components."
+        },
+        {
+          "character": "RIKER",
+          "line": "Then what happened to the Captain and Doctor Crusher?"
+        },
+        {
+          "character": "WORF",
+          "line": "Commander. The Transporter sensor log shows an unusual concentration of antigraviton particles in the emitter coil."
+        },
+        {
+          "character": "DATA",
+          "line": "A concentration of antigraviton particles suggests a tractor beam. It might have deflected the transporter beam to a different set of coordinates."
+        },
+        {
+          "character": "RIKER",
+          "line": "Is there a way to locate those coordinates?"
+        },
+        {
+          "character": "DATA",
+          "line": "The tractor beam originated somewhere in the Prytt Alliance."
+        },
+        {
+          "character": "WORF",
+          "line": "Why does the Prytt want Captain Picard and Doctor Crusher?"
+        },
+        {
+          "character": "RIKER",
+          "line": "I don't know. And it's not going to be easy to find out. The Prytt have consistently refused all outside contact. We're going to have to work through the Kes. Contact Ambassador Mauric. Tell him I want a meeting right now."
+        },
+        {
+          "character": "WORF",
+          "line": "Aye, sir."
+        }
+      ],
+      "location": "Transporter room"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "PICARD",
+          "line": "What?"
+        },
+        {
+          "character": "CRUSHER",
+          "line": "What?"
+        },
+        {
+          "character": "PICARD",
+          "line": "You're staring at me."
+        },
+        {
+          "character": "CRUSHER",
+          "line": "I was just thinking about how to get out of here."
+        },
+        {
+          "character": "PICARD",
+          "line": "There may be a structural flaw that would allow us to escape."
+        },
+        {
+          "character": "CRUSHER",
+          "line": "Right."
+        },
+        {
+          "character": "PICARD",
+          "line": "Beverly, the important thing during any confinement is to think positively and not give up hope. There is a way out of every box, there is a solution to every puzzle. It's just a matter of finding it."
+        },
+        {
+          "character": "PICARD",
+          "line": "Damn."
+        },
+        {
+          "character": "CRUSHER",
+          "line": "Well, at least this means we won't starve to death."
+        },
+        {
+          "character": "PICARD",
+          "line": "It means they plan on keeping us here for a while."
+        },
+        {
+          "character": "CRUSHER",
+          "line": "I'm beginning to think negatively, Jean-Luc."
+        },
+        {
+          "character": "CRUSHER",
+          "line": "My tricorder!"
+        },
+        {
+          "character": "PICARD",
+          "line": "Does it work?"
+        },
+        {
+          "character": "CRUSHER",
+          "line": "Yes. Except something's been added to the main directory."
+        },
+        {
+          "character": "PICARD",
+          "line": "It's a map."
+        },
+        {
+          "character": "CRUSHER",
+          "line": "An escape route. That guard must be working for the Kes."
+        },
+        {
+          "character": "PICARD",
+          "line": "Possibly. Or it could be part of a very carefully laid trap."
+        },
+        {
+          "character": "CRUSHER",
+          "line": "If you ask me, I'd like to take my chances out there."
+        },
+        {
+          "character": "PICARD",
+          "line": "Agreed. Is there a way to open the cell door?"
+        },
+        {
+          "character": "CRUSHER",
+          "line": "Yes, the code's been entered."
+        }
+      ],
+      "location": "Cell"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "MAURIC",
+          "line": "Commander, on behalf of my government, I would like to take this opportunity to present my profound apologies regarding this unfortunate incident."
+        },
+        {
+          "character": "RIKER",
+          "line": "That's very kind, Ambassador. But I don't think anyone here holds you or the Kes government responsible for what's happened."
+        },
+        {
+          "character": "TROI",
+          "line": "Our primary concern is not to assign blame, but to recover our missing officers."
+        },
+        {
+          "character": "MAURIC",
+          "line": "I agree. We are prepared to insert a hostage rescue team into the Prytt capital city on three hours notice."
+        },
+        {
+          "character": "RIKER",
+          "line": "Ambassador, we have not even attempted a diplomatic effort yet. I would rather not use force until we've exhausted all other options."
+        },
+        {
+          "character": "MAURIC",
+          "line": "I don't believe there is any diplomatic option, Commander. We have no formal relations with the Prytt. No ambassadors. There's simply no way to contact them."
+        },
+        {
+          "character": "TROI",
+          "line": "Surely you must have some means of communication in case of a planetary emergency."
+        },
+        {
+          "character": "MAURIC",
+          "line": "We have never had need of such a system."
+        },
+        {
+          "character": "WORF",
+          "line": "We can determine their communications frequencies and establish a link."
+        },
+        {
+          "character": "MAURIC",
+          "line": "Allow me to be blunt. The Prytt are a fanatical, xenophobic people, with little regard for civilized diskourse. Even if you do establish communications link with them, it will be a complete waste of time."
+        },
+        {
+          "character": "TROI",
+          "line": "How long has it been since your last diplomatic contact?"
+        },
+        {
+          "character": "MAURIC",
+          "line": "Almost a century."
+        },
+        {
+          "character": "TROI",
+          "line": "Then it's possible they may have changed over the years."
+        },
+        {
+          "character": "MAURIC",
+          "line": "We have had other less formal contacts with the Prytt. Contacts we cannot diskuss. But I can assure you, they have changed very little."
+        },
+        {
+          "character": "RIKER",
+          "line": "With all due respect, Ambassador, I think I should try to communicate with the Prytt before I sanction the use of force."
+        },
+        {
+          "character": "MAURIC",
+          "line": "Of course, Commander. In the meantime, I will continue making preparations for a rescue attempt."
+        },
+        {
+          "character": "RIKER",
+          "line": "Agreed."
+        },
+        {
+          "character": "MAURIC",
+          "line": "I do have one request. We believe that the Prytt obtained their information about the transport of your captain and doctor through a breach in our communications network. If I could set up a base of operations here on the Enterprise, I'd feel much more secure."
+        },
+        {
+          "character": "RIKER",
+          "line": "Mister Worf will help you."
+        },
+        {
+          "character": "MAURIC",
+          "line": "Thank you, Lieutenant."
+        }
+      ],
+      "location": "Observation lounge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "MAURIC",
+          "line": "You first."
+        }
+      ],
+      "location": "Corridor"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "WORF",
+          "line": "Is there a problem, Ambassador?"
+        },
+        {
+          "character": "MAURIC",
+          "line": "Probably not. Simply securing the area."
+        },
+        {
+          "character": "WORF",
+          "line": "I can assure you there is no need."
+        },
+        {
+          "character": "MAURIC",
+          "line": "I'm sure you're right. Yes, this will do very nicely."
+        },
+        {
+          "character": "WORF",
+          "line": "As Security Chief of the Enterprise, I would be glad to assist you in any way possible."
+        },
+        {
+          "character": "MAURIC",
+          "line": "There's no need. We'll take care of everything. Thank you, Lieutenant."
+        }
+      ],
+      "location": "Kes quarters"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "PICARD",
+          "line": "There must be a lava flow or a underground hot spring somewhere near here."
+        },
+        {
+          "character": "CRUSHER",
+          "line": "It's a lava flow. It's about thirty meters below us. It says we should go this way. I smell gas."
+        },
+        {
+          "character": "CRUSHER",
+          "line": "This whole chamber is filled with pockets of a methanogenic compound."
+        },
+        {
+          "character": "PICARD",
+          "line": "Can we get through it?"
+        },
+        {
+          "character": "CRUSHER",
+          "line": "I think so."
+        },
+        {
+          "character": "PICARD",
+          "line": "What did you say?"
+        },
+        {
+          "character": "CRUSHER",
+          "line": "I didn't say anything. There might be a fairly regular pattern to these eruptions. We should be able to navigate out way through them if we're careful."
+        },
+        {
+          "character": "PICARD",
+          "line": "Say when."
+        },
+        {
+          "character": "CRUSHER",
+          "line": "Now."
+        },
+        {
+          "character": "PICARD",
+          "line": "The eruptions have stopped."
+        },
+        {
+          "character": "CRUSHER",
+          "line": "The gas is building up!"
+        }
+      ],
+      "location": "Cave"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "DATA",
+          "line": "I have scanned the entire Prytt communications system. This appears to be the primary access module for the central government."
+        },
+        {
+          "character": "RIKER",
+          "line": "Can you determine which of the comm. links is connected to the Prime Minister's office?"
+        },
+        {
+          "character": "DATA",
+          "line": "I believe so, sir. However, the Prytt have no link designed for extraterritorial communication. Our hail may come as a quite surprise to them."
+        },
+        {
+          "character": "RIKER",
+          "line": "Well, they're going to have to adjust. Open a channel."
+        },
+        {
+          "character": "PRYTT",
+          "line": "This is Prime Minister Horath's headquarters. How can I be of service?",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "RIKER",
+          "line": "This is Commander William T. Riker, Federation starship Enterprise. I know this may seem an unusual way"
+        },
+        {
+          "character": "PRYTT",
+          "line": "The Enterprise? You mean the ship in orbit?",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "RIKER",
+          "line": "That's right."
+        },
+        {
+          "character": "PRYTT",
+          "line": "Why are you on this comm. link?",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "RIKER",
+          "line": "We're having trouble contacting your government directly. We had to start somewhere. If you would let me talk to your"
+        },
+        {
+          "character": "PRYTT",
+          "line": "Did you get authorisation for this communication from the Security Ministry?",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "RIKER",
+          "line": "As I said, we're having trouble contacting you"
+        },
+        {
+          "character": "PRYTT",
+          "line": "I cannot participate in an unauthorized communication. This transmission is terminated.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "RIKER",
+          "line": "Not very friendly, are they?"
+        },
+        {
+          "character": "DATA",
+          "line": "No, sir."
+        },
+        {
+          "character": "WORF",
+          "line": "Sir, we are being hailed. It is the Prytt Security Council."
+        },
+        {
+          "character": "RIKER",
+          "line": "Well, it looks like we got someone's attention. On screen."
+        },
+        {
+          "character": "LORIN",
+          "line": "Enterprise, this is Security Minister Lorin. You will immediately cease all attempts at communication with our people.",
+          "modifier": "screen"
+        },
+        {
+          "character": "RIKER",
+          "line": "Minister, we've been attempting to contact someone in your government. It appears that you have detained two of our officers. We would like to diskuss the situation."
+        },
+        {
+          "character": "LORIN",
+          "line": "There is nothing to diskuss. If you do not terminate these transmissions, we will be forced to take aggressive action against your ship.",
+          "modifier": "screen"
+        },
+        {
+          "character": "WORF",
+          "line": "Their weapon systems pose no threat to the Enterprise."
+        },
+        {
+          "character": "RIKER",
+          "line": "Just the same, let's keep the shields up for the time being."
+        },
+        {
+          "character": "WORF",
+          "line": "Aye, sir."
+        },
+        {
+          "character": "MAURIC",
+          "line": "Is there a problem, Commander?"
+        },
+        {
+          "character": "RIKER",
+          "line": "Our efforts with the Prytt just ran into a wall."
+        },
+        {
+          "character": "MAURIC",
+          "line": "I'm sorry. But perhaps this will brighten your spirits. We have freed your Captain and doctor."
+        },
+        {
+          "character": "RIKER",
+          "line": "What?"
+        },
+        {
+          "character": "MAURIC",
+          "line": "They were being held in prison just outside the Prytt capital. One of our operatives was able to arrange their escape."
+        },
+        {
+          "character": "WORF",
+          "line": "Where are they now?"
+        },
+        {
+          "character": "MAURIC",
+          "line": "Well, they should be en route to the Kes border. Our operative provided them with a detailed map and instructions on where to go."
+        },
+        {
+          "character": "RIKER",
+          "line": "How will you get them across the border?"
+        },
+        {
+          "character": "MAURIC",
+          "line": "At the moment, that information is confidential, but trust us, we do have a plan."
+        },
+        {
+          "character": "RIKER",
+          "line": "Ambassador, I'm afraid I must insist that you provide us with more information."
+        },
+        {
+          "character": "MAURIC",
+          "line": "I understand your concern, of course, but I would feel more comfortable diskussing these operational details in a less public environment."
+        },
+        {
+          "character": "RIKER",
+          "line": "Certainly. We can step into the Ready room."
+        },
+        {
+          "character": "MAURIC",
+          "line": "I would prefer the quarters you provided me. They're safer."
+        },
+        {
+          "character": "RIKER",
+          "line": "All right."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "PICARD",
+          "line": "There's no way out of here."
+        },
+        {
+          "character": "CRUSHER",
+          "line": "Maybe we took a wrong turn."
+        },
+        {
+          "character": "CRUSHER",
+          "line": "So am I."
+        },
+        {
+          "character": "PICARD",
+          "line": "What?"
+        },
+        {
+          "character": "CRUSHER",
+          "line": "I'm thirsty too."
+        },
+        {
+          "character": "PICARD",
+          "line": "I didn't say anything about being thirsty."
+        },
+        {
+          "character": "CRUSHER",
+          "line": "I heard you. You said, I'm very thirsty."
+        },
+        {
+          "character": "PICARD",
+          "line": "I was thinking about it, but I didn't say anything."
+        },
+        {
+          "character": "CRUSHER",
+          "line": "You were thinking it?"
+        },
+        {
+          "character": "PICARD",
+          "line": "The transceivers. Lorin said that they would align themselves to our psi-wave patterns."
+        },
+        {
+          "character": "CRUSHER",
+          "line": "The implants must be transmitting our thoughts. What am I thinking?"
+        },
+        {
+          "character": "PICARD",
+          "line": "I don't know."
+        },
+        {
+          "character": "CRUSHER",
+          "line": "I can't hear your thoughts, either. Maybe it was a fluke."
+        },
+        {
+          "character": "PICARD",
+          "line": "Well, right now we have more immediate concerns. Does your map show us a way out of here?"
+        },
+        {
+          "character": "CRUSHER",
+          "line": "Yes, we need to go up."
+        }
+      ],
+      "location": "Tunnel"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "CRUSHER",
+          "line": "There's a ledge about thirty meters up. That should lead to another tunnel that connects up to the surface."
+        },
+        {
+          "character": "PICARD",
+          "line": "Right."
+        },
+        {
+          "character": "PICARD",
+          "line": "I heard that. They were not words exactly. A sudden sense of fear. A sense of fear of heights."
+        },
+        {
+          "character": "CRUSHER",
+          "line": "So much for that being a fluke."
+        },
+        {
+          "character": "PICARD",
+          "line": "It was a strange sensation. Suddenly having these thoughts appear in my mind."
+        },
+        {
+          "character": "CRUSHER",
+          "line": "If you sensed a fear of heights, you sensed pretty accurately."
+        },
+        {
+          "character": "PICARD",
+          "line": "Come on, you've done this before. It's just like on a holodeck. One step at a time, just climbing steadily and slowly."
+        },
+        {
+          "character": "CRUSHER",
+          "line": "Right."
+        }
+      ],
+      "location": "Cavern"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "RIKER",
+          "line": "I see you've done some redecorating."
+        },
+        {
+          "character": "MAURIC",
+          "line": "Just a few pieces of equipment necessary for security reasons. You understand?"
+        },
+        {
+          "character": "RIKER",
+          "line": "Certainly."
+        },
+        {
+          "character": "AIDE",
+          "line": "He is all right."
+        },
+        {
+          "character": "RIKER",
+          "line": "How do you plan to get our people out of Prytt territory?"
+        },
+        {
+          "character": "MAURIC",
+          "line": "You must realize that everything I'm about to say cannot leave this room. For some time, we have had certain friends among the Prytt. Citizens who realize that the long struggle between our two peoples can only end when the Prytt government is made to see reason."
+        },
+        {
+          "character": "RIKER",
+          "line": "You've recruited a few Prytt spies."
+        },
+        {
+          "character": "MAURIC",
+          "line": "That's a crude, but accurate term. These friends will be waiting for your Captain and Doctor when they reach the village of Ohn Kor near the Kes border. The map we provided your officers will take them to a tavern there."
+        },
+        {
+          "character": "RIKER",
+          "line": "Forgive me, Ambassador, but is it wise to send two human fugitives in Starfleet uniforms into a Prytt village?"
+        },
+        {
+          "character": "MAURIC",
+          "line": "The danger is minimal. Our operatives control almost the whole village. Once contact has been made with Captain Picard and Doctor Crusher, our friends will escort them across the border into Kes."
+        },
+        {
+          "character": "RIKER",
+          "line": "I would still feel better if they could rendezvous with your operatives in a less public place."
+        },
+        {
+          "character": "MAURIC",
+          "line": "Commander, I assure you we know what we're doing. We've had a great deal of experience dealing with the Prytt. We'd hardly risk the safety of your people. After all, we still hope you will recommend our entrance into the Federation."
+        }
+      ],
+      "location": "Kes quarters"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "PICARD",
+          "line": "One of us is hungry."
+        },
+        {
+          "character": "CRUSHER",
+          "line": "That would be me."
+        },
+        {
+          "character": "PICARD",
+          "line": "Do you mind thinking of something else. You're making me hungry."
+        },
+        {
+          "character": "CRUSHER",
+          "line": "What do you want me to think about?"
+        },
+        {
+          "character": "PICARD",
+          "line": "Something other than a large bowl of vegetable soup."
+        },
+        {
+          "character": "CRUSHER",
+          "line": "My grandmother used to make it, with peas, carrots and"
+        },
+        {
+          "character": "PICARD",
+          "line": "Beverly!"
+        },
+        {
+          "character": "CRUSHER",
+          "line": "I'm sorry."
+        },
+        {
+          "character": "PICARD",
+          "line": "I am not being unreasonable."
+        },
+        {
+          "character": "CRUSHER",
+          "line": "I didn't say that you were. I may have thought it, but there's a difference."
+        },
+        {
+          "character": "PICARD",
+          "line": "You're right. We can't react to every random thought that crosses the other person's mind. Isn't astonishing, though, how much clutter there is in a consciousness. Odd memories coming to the surface. Bits of half-remembered songs."
+        },
+        {
+          "character": "CRUSHER",
+          "line": "Stray day dreams, scattered minutiae. I wonder how true telepaths sift through it all. How can they really get to what someone's thinking if the minds keeps churning all this flotsam to the surface? That is not funny."
+        },
+        {
+          "character": "PICARD",
+          "line": "I just wanted to see if you were still listening."
+        },
+        {
+          "character": "CRUSHER",
+          "line": "I think our link is getting stronger."
+        },
+        {
+          "character": "PICARD",
+          "line": "Maybe if we put some distance between us, that might weaken it. Not that I'm growing tired of hearing your most intimate thoughts."
+        },
+        {
+          "character": "CRUSHER",
+          "line": "Certainly not."
+        },
+        {
+          "character": "CRUSHER",
+          "line": "Jean-Luc."
+        },
+        {
+          "character": "PICARD",
+          "line": "What happened?"
+        },
+        {
+          "character": "CRUSHER",
+          "line": "I was suddenly overcome with a wave of nausea."
+        },
+        {
+          "character": "PICARD",
+          "line": "Me, too."
+        },
+        {
+          "character": "CRUSHER",
+          "line": "There's nothing wrong with either of us. Maybe the air is toxic."
+        },
+        {
+          "character": "PICARD",
+          "line": "The same thing. But when you moved back toward me it got better. Well, it seems as if we're stuck with each other."
+        },
+        {
+          "character": "PICARD",
+          "line": "What is it?"
+        },
+        {
+          "character": "CRUSHER",
+          "line": "I'm not sure whether we should go over this hill or that one. The topography on this map is a little vague."
+        },
+        {
+          "character": "PICARD",
+          "line": "Let me see. This way."
+        },
+        {
+          "character": "CRUSHER",
+          "line": "You don't really know, do you?"
+        },
+        {
+          "character": "PICARD",
+          "line": "What?"
+        },
+        {
+          "character": "CRUSHER",
+          "line": "I mean, you're acting like you know exactly which way to go, but you're only guessing. Do you do this all the time?"
+        },
+        {
+          "character": "PICARD",
+          "line": "No, but there are times when it is necessary for a captain to give the appearance of confidence."
+        },
+        {
+          "character": "CRUSHER",
+          "line": "I'm sorry. I'm sorry. I just couldn't resist."
+        },
+        {
+          "character": "PICARD",
+          "line": "I'm beginning to realize that you seem to always have some acerbic remark on the tip of your tongue."
+        },
+        {
+          "character": "CRUSHER",
+          "line": "Well at least I've trained myself not to say it anymore. When I was a little girl, my mouth was always landing me in trouble with my parents, my teachers."
+        },
+        {
+          "character": "PICARD",
+          "line": "Your friends. There was someone called Tom Norris?"
+        },
+        {
+          "character": "CRUSHER",
+          "line": "That's right. I had one date with him which I brought to an abrupt halt with the words, is that a beard or"
+        },
+        {
+          "character": "BOTH",
+          "line": "Is your face dirty?"
+        },
+        {
+          "character": "PICARD",
+          "line": "There's something more. You're laughing, but actually you're embarrassed by that incident."
+        },
+        {
+          "character": "CRUSHER",
+          "line": "Yes. I thought I was being cute but I really hurt him. That was a long time ago. I learned a valuable lesson."
+        },
+        {
+          "character": "PICARD",
+          "line": "This sharing of thoughts and feelings is quite compelling."
+        },
+        {
+          "character": "CRUSHER",
+          "line": "Very. We'd better get going."
+        },
+        {
+          "character": "CRUSHER",
+          "line": "I don't think so, either. Maybe we can find another way to reach the village."
+        },
+        {
+          "character": "PICARD",
+          "line": "No. It's several kilometers to find another way around that ridge. The border is just two kilometers east of here. There's a forcefield protecting it, but we can find some way to deal with that when we get there. Come on."
+        }
+      ],
+      "location": "Planet surface"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "AIDE",
+          "line": "All right."
+        },
+        {
+          "character": "RIKER",
+          "line": "Is something wrong?"
+        },
+        {
+          "character": "MAURIC",
+          "line": "Have a seat. Captain Picard and Doctor Crusher didn't show up at the designated rendezvous point."
+        },
+        {
+          "character": "RIKER",
+          "line": "Do you know what happened to them?"
+        },
+        {
+          "character": "MAURIC",
+          "line": "No. We have no idea what happened to them. We find it strange that your officers should follow the escape plan so precisely and then fail to make the crucial rendezvous with our operatives."
+        },
+        {
+          "character": "WORF",
+          "line": "It is possible they have been recaptured."
+        },
+        {
+          "character": "MAURIC",
+          "line": "Our sources would have informed us instantly if that had happened. Of course, if they weren't captured, if they simply made a different rendezvous, we might not ever know about it."
+        },
+        {
+          "character": "RIKER",
+          "line": "A different rendezvous? I'm not sure I know what you mean."
+        },
+        {
+          "character": "MAURIC",
+          "line": "Of course not. How could you know if your Captain and Doctor were meeting secretly with the Prytt? Meeting in order to set up a military alliance with the Federation."
+        },
+        {
+          "character": "RIKER",
+          "line": "What?"
+        },
+        {
+          "character": "MAURIC",
+          "line": "It was a clever scheme. First, you pretend to lose your officers during transport, then you ask us for help and get us to expose several of our undercover operatives in the process. But what you didn't expect was for us to get your people out of prison so quickly. They needed more time. They needed more time to plot the destruction of the Kes with their new Prytt friends."
+        },
+        {
+          "character": "RIKER",
+          "line": "This is ridiculous. You're beginning to see conspiracies everywhere. We were invited here by the Kes. Why would we ally ourselves with the Prytt?"
+        },
+        {
+          "character": "MAURIC",
+          "line": "Indeed, why?"
+        },
+        {
+          "character": "RIKER",
+          "line": "You can believe what you like. We're going to find our people with or without your help."
+        },
+        {
+          "character": "MAURIC",
+          "line": "Then I believe it's time for us to be leaving the Enterprise."
+        },
+        {
+          "character": "RIKER",
+          "line": "Fine. Make sure you take all this junk with you."
+        }
+      ],
+      "location": "Kes quarters"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "PICARD",
+          "line": "No luck?"
+        },
+        {
+          "character": "CRUSHER",
+          "line": "I'm beginning to think there's not a single thing on this planet we can eat."
+        },
+        {
+          "character": "PICARD",
+          "line": "Well, by this time tomorrow we could be back on the Enterprise and you can plant yourself in front of a replicator with a knife and fork."
+        },
+        {
+          "character": "CRUSHER",
+          "line": "Remember that Vulcan dish I promised you for breakfast? I was just. You hate having breakfast with me."
+        },
+        {
+          "character": "PICARD",
+          "line": "That's not true."
+        },
+        {
+          "character": "CRUSHER",
+          "line": "Yes, it is. When I said breakfast, I heard you say, I hate that."
+        },
+        {
+          "character": "PICARD",
+          "line": "That's not quite what I meant."
+        },
+        {
+          "character": "CRUSHER",
+          "line": "Well, then what did you mean?"
+        },
+        {
+          "character": "PICARD",
+          "line": "It's just that I don't like"
+        },
+        {
+          "character": "CRUSHER",
+          "line": "What I've been choosing for breakfast recently."
+        },
+        {
+          "character": "PICARD",
+          "line": "You see, I think that breakfast should be a simple meal and recently you've been ordering these elaborate things."
+        },
+        {
+          "character": "CRUSHER",
+          "line": "Coffee and croissants, that's all you really want, isn't it? Coffee and croissants. Well why didn't you just say so?"
+        },
+        {
+          "character": "PICARD",
+          "line": "I didn't think it was important. You don't like those elaborate meals either."
+        },
+        {
+          "character": "CRUSHER",
+          "line": "No, I usually prefer something simple myself but I thought you might enjoy more variety. Well, I guess it's Coffee and croissants for both of us from now on."
+        },
+        {
+          "character": "BOTH",
+          "line": "I love firelight."
+        },
+        {
+          "character": "PICARD",
+          "line": "There's something about the flame, the smell of the smoke. It's always seemed to me to be intoxicating, somehow."
+        },
+        {
+          "character": "CRUSHER",
+          "line": "I remember when Jack and I took Wesley on his first camping trip to Balfour Lake. Wesley kept throwing manta leaves in the fire, watching them pop. Jack kept telling him. What? Jean-Luc, I heard you. Don't push it away. When I said Jack and I, I felt this sudden wave of something. I didn't know you felt that way."
+        },
+        {
+          "character": "PICARD",
+          "line": "Didn't you?"
+        },
+        {
+          "character": "CRUSHER",
+          "line": "I guess I always knew that there was an attraction between us right from the start, but I never knew how strongly you felt. Why didn't you ever tell me you were in love with me?"
+        },
+        {
+          "character": "PICARD",
+          "line": "You were married to my best friend. At first I thought it was harmless infatuation. Something hormonal rather than emotional."
+        },
+        {
+          "character": "CRUSHER",
+          "line": "Then when the months went by and the three of us began spending more time together."
+        },
+        {
+          "character": "PICARD",
+          "line": "I realized that it was something else, and it wasn't right. But although I would never act on it, I couldn't help the way I felt."
+        },
+        {
+          "character": "CRUSHER",
+          "line": "And when Jack died you felt guilty."
+        },
+        {
+          "character": "PICARD",
+          "line": "I felt guilty before he died> Having feelings like that for my best friend's wife. And then later, after the accident, I promised myself that I would never tell you know how I felt. It would be like betraying my friend"
+        },
+        {
+          "character": "CRUSHER",
+          "line": "That's why you didn't want me on the Enterprise seven years ago."
+        },
+        {
+          "character": "PICARD",
+          "line": "I didn't know how I would react. And then, little by little, I realized that I didn't have those feelings any more. Twenty years is, after all, a long time."
+        },
+        {
+          "character": "CRUSHER",
+          "line": "And now we're friends."
+        },
+        {
+          "character": "PICARD",
+          "line": "Yes, friends."
+        },
+        {
+          "character": "CRUSHER",
+          "line": "Well, we still have a lot of ground to cover tomorrow. We should get some sleep."
+        },
+        {
+          "character": "PICARD",
+          "line": "Right."
+        }
+      ],
+      "location": "Camp"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "RIKER",
+          "line": "Ambassador, thank you for coming."
+        },
+        {
+          "character": "MAURIC",
+          "line": "Commander."
+        },
+        {
+          "character": "RIKER",
+          "line": "We're going to clear up this misunderstanding once and for all. Hail Minister Lorin, please."
+        },
+        {
+          "character": "WORF",
+          "line": "Aye, sir."
+        },
+        {
+          "character": "LORIN",
+          "line": "Enterprise, I have warned you about these unauthorized communications.",
+          "modifier": "screen"
+        },
+        {
+          "character": "RIKER",
+          "line": "Yes, I know, but I think it's about time we all sat down together and tried to work this out. I have Ambassador Mauric here"
+        },
+        {
+          "character": "LORIN",
+          "line": "That is your misfortune. We have nothing to say to either of you.",
+          "modifier": "screen"
+        },
+        {
+          "character": "MAURIC",
+          "line": "Commander, you're working with the Prytt. Putting on this little show for my benefit does neither of us any good."
+        },
+        {
+          "character": "RIKER",
+          "line": "We'll see. Mister Worf."
+        },
+        {
+          "character": "RIKER",
+          "line": "I believe there's someone waiting for us in the Observation Lounge."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "LORIN",
+          "line": "I should have known that anyone willing to deal with the Kes would be capable of such an outrage."
+        },
+        {
+          "character": "RIKER",
+          "line": "I'm sorry to resort to such drastic measures, Minister, but you left me little choice."
+        },
+        {
+          "character": "MAURIC",
+          "line": "Don't pretend the two of you are enemies. It's too late for charades."
+        },
+        {
+          "character": "LORIN",
+          "line": "If that is an attempt to hide your military alliance with the Federation, you needn't bother. I already know far more than you can imagine."
+        },
+        {
+          "character": "RIKER",
+          "line": "Let's all just sit down and try to talk about what's happened to Captain Picard and Doctor Crusher."
+        },
+        {
+          "character": "LORIN",
+          "line": "I will not sit at a table with him."
+        },
+        {
+          "character": "MAURIC",
+          "line": "No more than I would sit with her."
+        },
+        {
+          "character": "RIKER",
+          "line": "All right then, we'll stand. The important thing is that we start talking."
+        },
+        {
+          "character": "LORIN",
+          "line": "I am not authorized to talk with a Kes official."
+        },
+        {
+          "character": "RIKER",
+          "line": "All right then, you talk to me. Where are my officers?"
+        },
+        {
+          "character": "MAURIC",
+          "line": "As if you don't already know."
+        }
+      ],
+      "location": "Observation lounge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "CRUSHER",
+          "line": "Let's go."
+        },
+        {
+          "character": "PICARD",
+          "line": "I'm all right."
+        }
+      ],
+      "location": "Hillside"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "LORIN",
+          "line": "We are already aware of your plan to use Federation technology to build new attack satellites. You will find that we are prepared for them."
+        },
+        {
+          "character": "MAURIC",
+          "line": "That is an interesting but pointless lie. I'd rather diskuss your own plans to use Federation aid to stage a takeover of Kolrod Island."
+        },
+        {
+          "character": "LORIN",
+          "line": "We have been over this before. Kolrod clearly belongs to the Prytt who originally"
+        },
+        {
+          "character": "RIKER",
+          "line": "That's it! I can see that diplomacy is not going to get us anywhere today, and I do not have time for to negotiate. So let's put all of our cards on the table. You're concerned the Kes are going to be admitted to the Federation."
+        },
+        {
+          "character": "LORIN",
+          "line": "Correct."
+        },
+        {
+          "character": "RIKER",
+          "line": "As First Officer of the Enterprise I think I can promise you that's not going to happen. The Kes will be denied membership."
+        },
+        {
+          "character": "MAURIC",
+          "line": "You have no authority to make that decision. Despite whatever games you played with the Prytt when you arrived, we still plan to take our petition directly to the Federation Council. They'll listen"
+        },
+        {
+          "character": "RIKER",
+          "line": "They will also listen to the reports of the Captain of the Enterprise and his First Officer. And I can tell you right now the First Officer's report will go something like this. Kesprytt, a deeply troubled world with social, political, and military problems they have yet to resolve. The Kes, while a friendly and democratic people, are driven by suspicion, deviousness, and paranoia. It is the opinion of this officer they are not ready for membership. Now, the matter of our missing officers."
+        },
+        {
+          "character": "LORIN",
+          "line": "They are still charged with spying, Commander. I have heard nothing here which would alter that."
+        },
+        {
+          "character": "RIKER",
+          "line": "Then maybe you should consider this. If anything happens to them, Starfleet is going to want a full investigation, which means more starships will be coming to Kesprytt and those ships are going to want answers which puts your country under a very large and very uncomfortable microscope. Remember how unhappy you were when we contacted just one of your people without authorisation? Well, just think of what it'll be like. Ten starships asking questions, contacting hundreds of your people. Massive sensor sweeps. They may even start sending down away teams. All because you wouldn't help me find my missing officers."
+        }
+      ],
+      "location": "Observation lounge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "CRUSHER",
+          "line": "I think I can use the tricorder to set up a multiphase pulse. That should weaken the field enough to let us through."
+        },
+        {
+          "character": "PICARD",
+          "line": "No, no. The modulation frequency is in the upper harmonic range."
+        },
+        {
+          "character": "CRUSHER",
+          "line": "Right."
+        },
+        {
+          "character": "PICARD",
+          "line": "They're coming."
+        },
+        {
+          "character": "CRUSHER",
+          "line": "I'm working as fast as I can."
+        },
+        {
+          "character": "TROOPER",
+          "line": "Minister, we have the human female. The male is standing in Kes territory."
+        }
+      ],
+      "location": "Border"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "LORIN",
+          "line": "Very well. Transmit their coordinates to the Enterprise transporter room."
+        },
+        {
+          "character": "TROOPER",
+          "line": "Understood.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "RIKER",
+          "line": "Thank you, Minister. Now, if you'll excuse me."
+        }
+      ],
+      "location": "Observation lounge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "RIKER",
+          "line": "Mauric is determined to take his protest to the Federation Council, but I don't think he'll get very far."
+        },
+        {
+          "character": "PICARD",
+          "line": "I tend to agree, Number One."
+        },
+        {
+          "character": "RIKER",
+          "line": "Did I miss something?"
+        },
+        {
+          "character": "PICARD",
+          "line": "Of course. Of course. You're absolutely right."
+        }
+      ],
+      "location": "Corridor"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "CRUSHER",
+          "line": "That was wonderful."
+        },
+        {
+          "character": "PICARD",
+          "line": "My pleasure."
+        },
+        {
+          "character": "CRUSHER",
+          "line": "Don't get me wrong, Jean-Luc, but I'm glad we're not joined at the hip anymore."
+        },
+        {
+          "character": "PICARD",
+          "line": "So, were you getting tired of my company?"
+        },
+        {
+          "character": "CRUSHER",
+          "line": "Just tired of bumping into you every thirty seconds. I was beginning to feel as if you were part of my uniform."
+        },
+        {
+          "character": "PICARD",
+          "line": "To freedom."
+        },
+        {
+          "character": "CRUSHER",
+          "line": "Freedom. Penny for your thoughts?"
+        },
+        {
+          "character": "PICARD",
+          "line": "I was just thinking that as distracting as it was, I was beginning to get used to hearing your thoughts and I find that I miss it."
+        },
+        {
+          "character": "CRUSHER",
+          "line": "So do I. It was very intimate. You know, last night I couldn't sleep."
+        },
+        {
+          "character": "PICARD",
+          "line": "Oh?"
+        },
+        {
+          "character": "CRUSHER",
+          "line": "I was awake for several hours. And thanks to the implants, I got to hear some very interesting dreams of yours."
+        },
+        {
+          "character": "PICARD",
+          "line": "A man can't be held responsible for what his mind does while he's asleep."
+        },
+        {
+          "character": "CRUSHER",
+          "line": "What about when he's awake?"
+        },
+        {
+          "character": "PICARD",
+          "line": "So now that we've had this unique experience, what do we do?"
+        },
+        {
+          "character": "CRUSHER",
+          "line": "What do you mean?"
+        },
+        {
+          "character": "PICARD",
+          "line": "You know exactly what I mean."
+        },
+        {
+          "character": "CRUSHER",
+          "line": "No, I don't. The implant's been removed, remember?"
+        },
+        {
+          "character": "PICARD",
+          "line": "Now that we know how each of us feels, perhaps we should not be afraid to explore those feelings."
+        },
+        {
+          "character": "CRUSHER",
+          "line": "Or perhaps we should be afraid. I think I should be going now."
+        },
+        {
+          "character": "CRUSHER",
+          "line": "Goodnight."
+        },
+        {
+          "character": "PICARD",
+          "line": "Goodnight."
+        }
+      ],
+      "location": "Picard's quarters"
+    }
+  ],
+  "schedule": {
+    "episode": 8,
+    "number": 160,
+    "season": 7
+  },
+  "stardate": "47304.2",
+  "title": "Attached"
+}

@@ -1,0 +1,2111 @@
+{
+  "airdate": 606978000,
+  "scenes": [
+    {
+      "dialogue": [
+        {
+          "character": "PICARD",
+          "line": "Captain's log, stardate 42625.4, We're entering orbit around the eighth planet in this previously unmapped Theta One Sixteen solar system. We diverted from our scheduled course when a passing Klingon cruiser reported diskovering pieces of a strange vessel in the upper atmosphere of this planet. We have come to investigate.",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "unknown"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "LAFORGE",
+          "line": "Nasty. Nitrogen, methane, liquid neon. Surface temperature minus two hundred and ninety one degrees Celsius. Winds up to three hundred and twelve meters per second."
+        },
+        {
+          "character": "RIKER",
+          "line": "Not exactly a vacation planet, eh?"
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Not unless you like ammonia tornadoes. But I have found indications of debris in an elliptical orbit."
+        },
+        {
+          "character": "RIKER",
+          "line": "Keep me informed. The sooner we find out what the Klingons think they saw, the sooner we can get the hell out of here."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Sounds good to me. Nasty."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "PICARD",
+          "line": "Come."
+        },
+        {
+          "character": "PICARD",
+          "line": "Fermat's last theorem. You're familiar with it?"
+        },
+        {
+          "character": "RIKER",
+          "line": "Vaguely. I spent too many math classes daydreaming about being on a starship."
+        },
+        {
+          "character": "PICARD",
+          "line": "When Pierre de Fermat died they found this equation scrawled in the margin of his notes. X to the nth plus Y to the nth equals Z to the nth, where n is greater than 2, which he said had no solution in whole numbers. But he also added this phrase. Remarkable proof."
+        },
+        {
+          "character": "RIKER",
+          "line": "Yeah, that's starting to come back to me. There was no proof included."
+        },
+        {
+          "character": "PICARD",
+          "line": "For the eight hundred years people have been trying to solve it."
+        },
+        {
+          "character": "RIKER",
+          "line": "Including you."
+        },
+        {
+          "character": "PICARD",
+          "line": "I find it stimulating. Also, it puts things in perspective. In our arrogance we feel we are so advanced, and yet we cannot unravel a simple knot tied by a part-time French mathematician working alone, without a computer."
+        },
+        {
+          "character": "RIKER",
+          "line": "Captain, we've detected some sort of debris in a loose orbit."
+        },
+        {
+          "character": "PICARD",
+          "line": "Can you identify it?"
+        },
+        {
+          "character": "RIKER",
+          "line": "No, sir. I suggest we beam a section aboard for analysis."
+        },
+        {
+          "character": "PICARD",
+          "line": "Make it so, Number One."
+        }
+      ],
+      "location": "Ready room"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "RIKER",
+          "line": "We've locked onto something with markings on it."
+        },
+        {
+          "character": "PICARD",
+          "line": "What sort of markings?"
+        },
+        {
+          "character": "RIKER",
+          "line": "Uncertain. Energize."
+        },
+        {
+          "character": "PICARD",
+          "line": "We've got ourselves a puzzle, Number One."
+        },
+        {
+          "character": "RIKER",
+          "line": "Yes sir. I think we have."
+        }
+      ],
+      "location": "Transporter room"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "DATA",
+          "line": "Analysis bears out that the object was definitely terrestrial in origin, dated mid twenty first century."
+        },
+        {
+          "character": "PICARD",
+          "line": "No, no. No Earth ship of that time could have traveled out this far."
+        },
+        {
+          "character": "DATA",
+          "line": "Nevertheless, that is what our tests indicate. And the markings we diskovered are consistent with this hypothesis."
+        },
+        {
+          "character": "TROI",
+          "line": "Any indication of what destroyed it, Data?"
+        },
+        {
+          "character": "DATA",
+          "line": "That is even more significant than the object itself, Counselor. On several of its surfaces, the molecules seem to have disintegrated"
+        },
+        {
+          "character": "RIKER",
+          "line": "Disintegrated? How?"
+        },
+        {
+          "character": "DATA",
+          "line": "Almost as if they were hit by a weapon from our time."
+        },
+        {
+          "character": "PICARD",
+          "line": "Curiouser and curiouser."
+        },
+        {
+          "character": "WESLEY",
+          "line": "Captain, we've detected a large structure on the planet.",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "Observation lounge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "WESLEY",
+          "line": "It's a building of some sort, situated on a plain of frozen methane, smack in the middle of a tremendous storm belt."
+        },
+        {
+          "character": "RIKER",
+          "line": "I don't believe this. That structure is surrounded by breathable air."
+        },
+        {
+          "character": "PICARD",
+          "line": "Is there any connection between that structure and the ship fragment we found?"
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Unknown, sir."
+        },
+        {
+          "character": "PICARD",
+          "line": "Suggestions?"
+        },
+        {
+          "character": "RIKER",
+          "line": "Just one, sir. We could go down there and have a look."
+        },
+        {
+          "character": "PICARD",
+          "line": "Breathable air. No life forms that might be dangerous. I think we could risk a minimal away team, Number One."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "O'BRIEN",
+          "line": "Give me a moment, gents. We're dealing with an extremely narrow access point."
+        },
+        {
+          "character": "RIKER",
+          "line": "Phasers on stun. Ready when you are."
+        },
+        {
+          "character": "O'BRIEN",
+          "line": "I believe we've got it now. You have a green light, Commander."
+        },
+        {
+          "character": "RIKER",
+          "line": "Energize."
+        }
+      ],
+      "location": "Transporter room"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "DATA",
+          "line": "Those ammonia storms are less than a kilometer away, yet they do not appear to penetrate this breathable zone."
+        },
+        {
+          "character": "RIKER",
+          "line": "It's like the eye of a hurricane."
+        },
+        {
+          "character": "WORF",
+          "line": "Commander, what is that?"
+        },
+        {
+          "character": "RIKER",
+          "line": "A door."
+        },
+        {
+          "character": "DATA",
+          "line": "The structure must be here, yet we cannot see it."
+        },
+        {
+          "character": "RIKER",
+          "line": "Enterprise, this is Commander Riker."
+        }
+      ],
+      "location": "Planet surface"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "RIKER",
+          "line": "As your read out shows, this is an unusual place.",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "RIKER",
+          "line": "Completely calm, no sound, no movement, yet a few hundred meters away a storm is raging."
+        },
+        {
+          "character": "PICARD",
+          "line": "Any information about the structure.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "RIKER",
+          "line": "Yes, sir. There is an antique revolving door. It could be an entrance."
+        }
+      ],
+      "location": "Planet surface"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "PICARD",
+          "line": "A revolving door? Number One, proceed with caution."
+        },
+        {
+          "character": "RIKER",
+          "line": "Yes, sir.",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "RIKER",
+          "line": "Well, this is what we came here for. Captain, we're entering."
+        }
+      ],
+      "location": "Planet surface"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "PICARD",
+          "line": "Enterprise to away team, come in."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "We're receiving no signal at all from them, sir."
+        },
+        {
+          "character": "PICARD",
+          "line": "Transporter room. lock on to the landing party. Beam them up."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "We've got nothing to lock on to, sir."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "RIKER",
+          "line": "Riker to Enterprise. We've entered the structure. Riker to Enterprise, come in. Come in, Enterprise."
+        }
+      ],
+      "location": "Lobby"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "WESLEY",
+          "line": "When they went through that antique doorway, the signal just disappeared, sir."
+        },
+        {
+          "character": "PICARD",
+          "line": "What's causing the interference?"
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Unknown."
+        },
+        {
+          "character": "PICARD",
+          "line": "Are they receiving us?"
+        },
+        {
+          "character": "LAFORGE",
+          "line": "No. We're going to have to recalibrate all the frequencies to find one that'll work."
+        },
+        {
+          "character": "PICARD",
+          "line": "Then do it."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "DATA",
+          "line": "Sir, without communication, we should beam up immediately."
+        },
+        {
+          "character": "RIKER",
+          "line": "We're here, there's no danger. We'll look around then leave."
+        },
+        {
+          "character": "BELLBOY",
+          "line": "Checking in, gentlemen? You'll have to go to the front desk."
+        },
+        {
+          "character": "RIKER",
+          "line": "Very good. We'll start with that."
+        },
+        {
+          "character": "CLERK",
+          "line": "Welcome, gentlemen. Have a nice trip?"
+        },
+        {
+          "character": "RIKER",
+          "line": "Do you know us?"
+        },
+        {
+          "character": "CLERK",
+          "line": "We've been expecting you. A trio of foreign gentlemen."
+        },
+        {
+          "character": "RIKER",
+          "line": "Yes. We're from the United Federation of Planets."
+        },
+        {
+          "character": "CLERK",
+          "line": "Of course you are. Welcome to the Hotel Royale"
+        },
+        {
+          "character": "BELLBOY",
+          "line": "Excuse me. Did Rita call?"
+        },
+        {
+          "character": "CLERK",
+          "line": "I'm busy."
+        },
+        {
+          "character": "BELLBOY",
+          "line": "You're busy? This is my life I'm talking about here. Now did Rita call or not?"
+        },
+        {
+          "character": "CLERK",
+          "line": "No, and for your own good you'd better quit thinking about Rita."
+        },
+        {
+          "character": "BELLBOY",
+          "line": "I'm not afraid of Mickey D."
+        },
+        {
+          "character": "CLERK",
+          "line": "Then you're a fool. Anybody with any sense is afraid of Mickey D."
+        },
+        {
+          "character": "BELLBOY",
+          "line": "If Rita calls, you let me know."
+        },
+        {
+          "character": "CLERK",
+          "line": "Kid's just asking for trouble. Rita's too much for him to handle, and Mickey D's going to plant his face in the pavement. Now, here are your room keys. And some complimentary casino chips. Enjoy."
+        },
+        {
+          "character": "WORF",
+          "line": "What is this place? How did a being like you get here?"
+        },
+        {
+          "character": "CLERK",
+          "line": "Why, this is the Royale, of course. And my personal life is really none of your business, thank you."
+        },
+        {
+          "character": "RIKER",
+          "line": "What he means is, what planet is this?"
+        },
+        {
+          "character": "CLERK",
+          "line": "I beg your pardon?"
+        },
+        {
+          "character": "RIKER",
+          "line": "This planet. What do you call it?"
+        },
+        {
+          "character": "CLERK",
+          "line": "Earth. What do you call it?"
+        },
+        {
+          "character": "WORF",
+          "line": "We call it Theta Eight."
+        },
+        {
+          "character": "CLERK",
+          "line": "How charming."
+        },
+        {
+          "character": "DATA",
+          "line": "Commander"
+        },
+        {
+          "character": "RIKER",
+          "line": "Yes, Data?"
+        },
+        {
+          "character": "DATA",
+          "line": "None of these people are emitting life signs."
+        },
+        {
+          "character": "WORF",
+          "line": "You mean they're not alive?"
+        },
+        {
+          "character": "RIKER",
+          "line": "Then what are they?"
+        },
+        {
+          "character": "WORF",
+          "line": "These beings, are they machines, or mere illusions designed to deceive us?"
+        },
+        {
+          "character": "DATA",
+          "line": "Not illusion, Lieutenant. They do exist, but they do not register as either man or machine."
+        },
+        {
+          "character": "DATA",
+          "line": "Take this creature, for example. He does not exhibit any DNA structure."
+        },
+        {
+          "character": "TEXAS",
+          "line": "Excuse me, son. Look who's talking. Man, you sound just like my ex-wife. All right. Time to get back to business!"
+        },
+        {
+          "character": "DATA",
+          "line": "What sort of business do you suppose he is getting down to?"
+        }
+      ],
+      "location": "Lobby"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "PICARD",
+          "line": "Status report."
+        },
+        {
+          "character": "WESLEY",
+          "line": "We're attempting to employ alternate encoding schemes."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "There could be hundreds of possible combinations."
+        },
+        {
+          "character": "PICARD",
+          "line": "Is there an intelligence causing this interference?"
+        },
+        {
+          "character": "LAFORGE",
+          "line": "That's impossible to tell, Captain."
+        },
+        {
+          "character": "PICARD",
+          "line": "It's unlike Commander Riker not to follow procedure. When he lost contact with the Enterprise, he should have returned immediately to the beam down coordinates."
+        },
+        {
+          "character": "TROI",
+          "line": "I don't feel he's in any danger. In fact, if I could choose one word to assess his mood, it would be amused."
+        },
+        {
+          "character": "PICARD",
+          "line": "Amused?"
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TEXAS",
+          "line": "Put some chips there, mister. Yes, sirree! You're new around here, aren't you?"
+        },
+        {
+          "character": "DATA",
+          "line": "Yes, sir."
+        },
+        {
+          "character": "TEXAS",
+          "line": "Sit down. I'm going to teach you how this game is played, boy. Go ahead. Ante up."
+        },
+        {
+          "character": "VANESSA",
+          "line": "He wants you to cut the cards."
+        },
+        {
+          "character": "DATA",
+          "line": "Ah, is this poker?"
+        },
+        {
+          "character": "TEXAS",
+          "line": "No, no, blackjack."
+        },
+        {
+          "character": "DATA",
+          "line": "Blackjack. Accessing. Ah. Also known as twenty one, a number which defines the object of the game. Picture cards are worth ten, aces one or eleven, all other cards face value."
+        },
+        {
+          "character": "TEXAS",
+          "line": "Boy, you're right. You are right."
+        },
+        {
+          "character": "TEXAS",
+          "line": "Pretty smooth. Run 'em, boy. Make 'em nice and friendly."
+        },
+        {
+          "character": "VANESSA",
+          "line": "Twenty one, twenty one."
+        },
+        {
+          "character": "TEXAS",
+          "line": "Don't look at your hand, honey. That gal has got to win. Now, honey, you got fifteen and the dealer's showing ten."
+        },
+        {
+          "character": "VANESSA",
+          "line": "Do I hit, Texas, or do I stand?"
+        },
+        {
+          "character": "TEXAS",
+          "line": "If you've got to win, you've got to hit."
+        },
+        {
+          "character": "VANESSA",
+          "line": "Hit me. Damn!"
+        },
+        {
+          "character": "TEXAS",
+          "line": "Shoot. Hit me. Twenty one, and a winner. Yes, sirree."
+        },
+        {
+          "character": "DATA",
+          "line": "Hit me. Another please."
+        },
+        {
+          "character": "TEXAS",
+          "line": "Do you think you've had about enough?"
+        },
+        {
+          "character": "DATA",
+          "line": "If the objective of the game is to approach a total of twenty one points, I will definitely need another card."
+        },
+        {
+          "character": "VANESSA",
+          "line": "Yeah."
+        },
+        {
+          "character": "TEXAS",
+          "line": "Boy, you have got the brass. Do you know what the odds are on a five card charlie? Hell, you're just throwing your money away."
+        },
+        {
+          "character": "DATA",
+          "line": "Hit me."
+        },
+        {
+          "character": "TEXAS",
+          "line": "How'd you? Shut my mouth. Hey, you're not one of them card counting fellas, are you?"
+        },
+        {
+          "character": "DATA",
+          "line": "The number of the cards and their values remain quite constant. What would be the purpose in counting them?"
+        },
+        {
+          "character": "VANESSA",
+          "line": "Yeah."
+        },
+        {
+          "character": "RIKER",
+          "line": "Having fun, Data?"
+        },
+        {
+          "character": "DATA",
+          "line": "Fun, sir? While there is a certain amount of enjoyment involved, I am mainly conducting research into"
+        },
+        {
+          "character": "RIKER",
+          "line": "Save it. We're getting out of here."
+        },
+        {
+          "character": "DATA",
+          "line": "Understood, sir."
+        },
+        {
+          "character": "TEXAS",
+          "line": "Guys, you're holding up the game."
+        },
+        {
+          "character": "RIKER",
+          "line": "Our apologies, sir."
+        },
+        {
+          "character": "TEXAS",
+          "line": "I'll watch your chips."
+        },
+        {
+          "character": "DATA",
+          "line": "Thank you, sir."
+        },
+        {
+          "character": "TEXAS",
+          "line": "Hey. The hat."
+        },
+        {
+          "character": "DATA",
+          "line": "Sorry, sir."
+        },
+        {
+          "character": "TEXAS",
+          "line": "Deal them up."
+        }
+      ],
+      "location": "Casino"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "PICARD",
+          "line": "Progress?"
+        },
+        {
+          "character": "WESLEY",
+          "line": "We've accessed the range of encoding scheme alternates. The difficulty is in the frequency range. The interference is highly variable."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "See, the problem may be with the envelope covering the structure. There are hydrogen-carbon helix patterns throughout."
+        },
+        {
+          "character": "PICARD",
+          "line": "Any transmissions are simply scattered and refracted at random. No wonder you can't get through."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Exactly."
+        },
+        {
+          "character": "PICARD",
+          "line": "Those are some fairly aggressive computations, Lieutenant."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "I'm comparing the molecular integrity of that bubble against our phasers."
+        },
+        {
+          "character": "PICARD",
+          "line": "Is penetration possible?"
+        },
+        {
+          "character": "LAFORGE",
+          "line": "I don't know just yet. It may be an option. I'd like to run this test."
+        },
+        {
+          "character": "PICARD",
+          "line": "Make it so."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "RIKER",
+          "line": "Let's try that again."
+        },
+        {
+          "character": "RIKER",
+          "line": "Let's find another way out of here."
+        },
+        {
+          "character": "DATA",
+          "line": "Excuse me. Excuse me. Aside from the main door, is there another exit I might use?"
+        },
+        {
+          "character": "DATA",
+          "line": "Excuse me?"
+        },
+        {
+          "character": "RIKER",
+          "line": "Excuse me. Say, I was wondering if you could tell me"
+        },
+        {
+          "character": "RIKER",
+          "line": "There's a good deal of structural integrity, Worf."
+        },
+        {
+          "character": "WORF",
+          "line": "Permission to use phaser, sir."
+        },
+        {
+          "character": "RIKER",
+          "line": "Granted."
+        },
+        {
+          "character": "DATA",
+          "line": "Sir, I can find no other exits. I believe we are trapped here."
+        },
+        {
+          "character": "PICARD",
+          "line": "Captain's log, supplemental. We remain in orbit around Theta Eight, still out of contact with the away team.",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "Lobby"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "LAFORGE",
+          "line": "We're almost there, Captain. We'll be able to attempt contact in a few minutes."
+        },
+        {
+          "character": "TROI",
+          "line": "Captain, the situation down there has changed."
+        },
+        {
+          "character": "PICARD",
+          "line": "In what way?"
+        },
+        {
+          "character": "TROI",
+          "line": "Commander Riker has become tense. Closed in, he's feeling trapped."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "WORF",
+          "line": "Phasers are totally ineffective on all surfaces."
+        },
+        {
+          "character": "DATA",
+          "line": "Sir, our options appear quite limited."
+        },
+        {
+          "character": "RIKER",
+          "line": "We don't have any. If we're going to get out of here, we're going to have to do it on our own. I'm going to get some answers out of that desk clerk."
+        }
+      ],
+      "location": "Casino"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "CLERK",
+          "line": "Are you crazy?"
+        },
+        {
+          "character": "BELLBOY",
+          "line": "Wrong. I'm finally getting some smarts."
+        },
+        {
+          "character": "CLERK",
+          "line": "You think you're going to scare Mickey D with that gun?"
+        },
+        {
+          "character": "BELLBOY",
+          "line": "I'm going to make him leave Rita alone."
+        },
+        {
+          "character": "CLERK",
+          "line": "Kid, she's a big girl, and she's Mickey D's girl."
+        },
+        {
+          "character": "BELLBOY",
+          "line": "Not any more. Not after tonight."
+        },
+        {
+          "character": "CLERK",
+          "line": "Look, kid. I like you. I don't want to see you get hurt, especially over some dame"
+        },
+        {
+          "character": "BELLBOY",
+          "line": "Don't call her that. You'll see. You'll see how tough Mickey D is. He's nothing."
+        },
+        {
+          "character": "RIKER",
+          "line": "I want some answers."
+        },
+        {
+          "character": "CLERK",
+          "line": "I'm sure the concierge will be delighted"
+        },
+        {
+          "character": "RIKER",
+          "line": "We would like to get out of here. Now."
+        },
+        {
+          "character": "CLERK",
+          "line": "The Royale's exits are clearly marked."
+        },
+        {
+          "character": "RIKER",
+          "line": "That's not good enough."
+        },
+        {
+          "character": "CLERK",
+          "line": "If you have a complaint about the service you've received during your stay here, you can always take it up with the manager."
+        },
+        {
+          "character": "RIKER",
+          "line": "Fine. I'd like to see him, immediately."
+        },
+        {
+          "character": "CLERK",
+          "line": "I'm afraid the manager is very busy."
+        },
+        {
+          "character": "PICARD",
+          "line": "Riker, can you read me?",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "RIKER",
+          "line": "Yes."
+        }
+      ],
+      "location": "Lobby"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "RIKER",
+          "line": "There's a good deal of interference, but you are getting through.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "PICARD",
+          "line": "Number One, why haven't you left that building?"
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "RIKER",
+          "line": "We tried, sir. It seems like we're trapped here. We're in no immediate danger"
+        }
+      ],
+      "location": "Lobby"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "RIKER",
+          "line": "But I am concerned.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "PICARD",
+          "line": "Something about your location is interfering with communication. We are working on the problem."
+        },
+        {
+          "character": "RIKER",
+          "line": "Standing by, sir.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "WESLEY",
+          "line": "Captain, these frequencies are unstable."
+        },
+        {
+          "character": "PICARD",
+          "line": "Then find others."
+        },
+        {
+          "character": "WESLEY",
+          "line": "Yes, sir."
+        },
+        {
+          "character": "PICARD",
+          "line": "What is going on down there?"
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "DATA",
+          "line": "Commander, I am picking up something most unusual in another section of this structure. It appears to be human DNA."
+        },
+        {
+          "character": "RIKER",
+          "line": "Where?"
+        },
+        {
+          "character": "DATA",
+          "line": "Thirty one point nine meters above and to the right of us."
+        },
+        {
+          "character": "WORF",
+          "line": "Perhaps those turbolifts could take us there."
+        },
+        {
+          "character": "WORF",
+          "line": "Seems to be malfunctioning."
+        }
+      ],
+      "location": "Lobby"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "DATA",
+          "line": "The reading I received is from behind this door, sir."
+        }
+      ],
+      "location": "Hotel corridor"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "DATA",
+          "line": "My reading is intensifying, sir."
+        },
+        {
+          "character": "RIKER",
+          "line": "Are you getting any life signs?"
+        },
+        {
+          "character": "DATA",
+          "line": "None, sir."
+        },
+        {
+          "character": "DATA",
+          "line": "Definitely human. Male."
+        },
+        {
+          "character": "RIKER",
+          "line": "Looks like the poor devil died in his sleep."
+        },
+        {
+          "character": "WORF",
+          "line": "What a terrible way to die."
+        },
+        {
+          "character": "DATA",
+          "line": "He has been dead for two hundred and eighty three years, sir. The lack of any advanced decomposition is due to the sterile environment."
+        },
+        {
+          "character": "RIKER",
+          "line": "Why would anyone go to all this trouble? It's just window dressing for a dead man."
+        },
+        {
+          "character": "WORF",
+          "line": "Commander."
+        },
+        {
+          "character": "DATA",
+          "line": "Is this significant, sir?"
+        },
+        {
+          "character": "RIKER",
+          "line": "American."
+        },
+        {
+          "character": "DATA",
+          "line": "Fifty two stars sir. Places it between 2033 and 2079 AD. It correlates with the debris we found. Colonel S. Richey. Rest in peace, Colonel."
+        },
+        {
+          "character": "PICARD",
+          "line": "Picard to Riker.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "RIKER",
+          "line": "Finally. Riker. Go ahead."
+        }
+      ],
+      "location": "Hotel room"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "RIKER",
+          "line": "You're coming through clearly now.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "PICARD",
+          "line": "What's your situation?"
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "RIKER",
+          "line": "This structure was apparently made to resemble twentieth century Earth. All efforts to exit have failed."
+        },
+        {
+          "character": "PICARD",
+          "line": "We haven't found a way to transport you back yet.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "RIKER",
+          "line": "I assumed as much, sir. We've also located the remains of a human. Request identity scan. Colonel Richey. American. First initial S. Roughly the same time period."
+        }
+      ],
+      "location": "Hotel room"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "PICARD",
+          "line": "Do it."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "WORF",
+          "line": "Commander. Some curiosities."
+        },
+        {
+          "character": "RIKER",
+          "line": "Books. A novel. Hotel Royale? Summarize, please."
+        }
+      ],
+      "location": "Hotel room"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "WESLEY",
+          "line": "Information retrieved, Captain"
+        },
+        {
+          "character": "PICARD",
+          "line": "Number One?"
+        },
+        {
+          "character": "RIKER",
+          "line": "Go ahead, Captain.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "PICARD",
+          "line": "We have the information you requested. Colonel Stephen Richey was the commanding officer of the explorer ship Charybdis"
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "PICARD",
+          "line": "Which had a terrestrial launch date of July 23rd, 2037. It was the third manned attempt to travel beyond the confines of the Earth's solar system.",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "Hotel room"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "PICARD",
+          "line": "Its telemetry failed. It was never heard from again. Do you believe that you've diskovered the remains of Colonel Richey?"
+        },
+        {
+          "character": "RIKER",
+          "line": "Yes. And Captain,",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "RIKER",
+          "line": "We've found something else. A novel by Todd Matthews, entitled Hotel Royale, which is the name of this structure. Data."
+        },
+        {
+          "character": "DATA",
+          "line": "Captain, this is the story of a group of compulsive gamblers caught up in a web of crime, corruption and deceit."
+        }
+      ],
+      "location": "Hotel room"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "DATA",
+          "line": "It is told by nefarious lothario Mickey D, who appears only at the climax to carry out the cold-blooded murder of the hotel bellboy.",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "DATA",
+          "line": "There is also a subplot about an older man conspiring with a younger woman to murder her husband. She is squandering her inheritance."
+        },
+        {
+          "character": "RIKER",
+          "line": "Captain, this novel and everything Data just described"
+        }
+      ],
+      "location": "Hotel room"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "RIKER",
+          "line": "Seems to be exactly what's happening at this hotel.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "PICARD",
+          "line": "Extraordinary."
+        },
+        {
+          "character": "RIKER",
+          "line": "There's also one other thing, a diary with only",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "RIKER",
+          "line": "Obviously made by Colonel Richey."
+        },
+        {
+          "character": "PICARD",
+          "line": "Can you read it?",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "RIKER",
+          "line": "Yes. I write this in the hope that it will someday be read by human eyes. I can only surmise at this point, but apparently our exploratory shuttle was contaminated by an alien life form which infected and killed all personnel except myself."
+        }
+      ],
+      "location": "Hotel room"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "RIKER",
+          "line": "I awakened to find myself here in the Royale Hotel, precisely as described in the novel I found in my room.",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "RIKER",
+          "line": "And for the last thirty eight years I have survived here. I have come to understand that the alien contaminators created this place for me out of some sense of guilt, presuming that the novel we had on board the shuttle about the Hotel Royale was in fact a guide to our preferred lifestyle and social habits. Obviously, they thought this was the world from which I came."
+        }
+      ],
+      "location": "Hotel room"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "RIKER",
+          "line": "I hold no malice toward my benefactors. They could not possibly know the hell they have put me through.",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "RIKER",
+          "line": "for it was such a badly written book, filled with endless clich\u00e9 and shallow characters. I shall welcome death when it comes."
+        }
+      ],
+      "location": "Hotel room"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "PICARD",
+          "line": "I understand, Number One. Now we know why all that is there."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "PICARD",
+          "line": "Why can't you get out?",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "Hotel room"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "PICARD",
+          "line": "Number One."
+        },
+        {
+          "character": "RIKER",
+          "line": "Yes, sir.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "PICARD",
+          "line": "Lieutenant La Forge has a thought. He believes we can phaser a slice in the field"
+        }
+      ],
+      "location": "Observation lounge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "PICARD",
+          "line": "Surrounding the structure.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "RIKER",
+          "line": "That means the atmosphere of the planet would instantly rush in."
+        },
+        {
+          "character": "DATA",
+          "line": "Our projected survival would be approximately twelve seconds."
+        }
+      ],
+      "location": "Hotel room"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "PULASKI",
+          "line": "Correct. The cryogenic process would be nearly instantaneous."
+        },
+        {
+          "character": "RIKER",
+          "line": "But I assume you could revive us?",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "PULASKI",
+          "line": "Yes."
+        }
+      ],
+      "location": "Observation lounge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "PULASKI",
+          "line": "In theory.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "PICARD",
+          "line": "You must understand, Number One",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "Hotel room"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "PICARD",
+          "line": "We'll wait here for months if necessary. We're just considering options."
+        },
+        {
+          "character": "RIKER",
+          "line": "If you're trying to motivate us to find",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "Observation lounge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "RIKER",
+          "line": "Our own way out of here, you've succeeded, Captain."
+        },
+        {
+          "character": "WORF",
+          "line": "Yes? There is a female voice asking if we want room service."
+        },
+        {
+          "character": "DATA",
+          "line": "I believe she is asking if we want the room cleaned."
+        },
+        {
+          "character": "RIKER",
+          "line": "Tell her no."
+        },
+        {
+          "character": "WORF",
+          "line": "No."
+        },
+        {
+          "character": "RIKER",
+          "line": "What did she say?"
+        },
+        {
+          "character": "WORF",
+          "line": "She said the kitchen will be open twenty four hours if we change our minds."
+        },
+        {
+          "character": "RIKER",
+          "line": "We're going to explore the rest of the hotel. We'll keep a comm. line open. You two go down to the lobby and see if there's anything that we've missed. You talk to the guests and try to find out who or what they are. I'll check out the rest of the floors."
+        }
+      ],
+      "location": "Hotel room"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "PICARD",
+          "line": "Computer, locate and display the text of the novel entitled Hotel Royale by Todd Matthews."
+        },
+        {
+          "character": "COMPUTER",
+          "line": "Accessing."
+        },
+        {
+          "character": "PICARD",
+          "line": "If the cause of the difficulties is in the novel, we may find the solution within its pages. Ah. 'It was a dark and stormy night'. It's not a promising beginning."
+        },
+        {
+          "character": "TROI",
+          "line": "It may get better."
+        }
+      ],
+      "location": "Ready room"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "DATA",
+          "line": "I suggest we separate and blend in with these beings. Casual queries, offered inconspicuously, may prove fruitful."
+        },
+        {
+          "character": "VANESSA",
+          "line": "I need a four. Give me a four."
+        },
+        {
+          "character": "TEXAS",
+          "line": "Oh, shoot."
+        },
+        {
+          "character": "VANESSA",
+          "line": "How much do I have left here?"
+        },
+        {
+          "character": "TEXAS",
+          "line": "Honey, now you know it's bad luck to count your chips at the table."
+        },
+        {
+          "character": "VANESSA",
+          "line": "Yeah?"
+        },
+        {
+          "character": "DATA",
+          "line": "Excuse me, sir. Might I inquire, where are you from?"
+        },
+        {
+          "character": "TEXAS",
+          "line": "Lubbock, Texas."
+        },
+        {
+          "character": "DATA",
+          "line": "And how did you get here?"
+        },
+        {
+          "character": "TEXAS",
+          "line": "To Vegas? Drove my car. I got a ninety one Caddy with only eighty thousand miles on it."
+        },
+        {
+          "character": "DATA",
+          "line": "Where is your automobile now?"
+        },
+        {
+          "character": "TEXAS",
+          "line": "Out front, I suppose. What the hell difference does it make?"
+        },
+        {
+          "character": "DATA",
+          "line": "Could you take me there?"
+        },
+        {
+          "character": "VANESSA",
+          "line": "Hit me. I'm losing my shirt."
+        },
+        {
+          "character": "TEXAS",
+          "line": "Son, why would I want to do that? Can't you see I'm trying to to help this little lady?"
+        },
+        {
+          "character": "DATA",
+          "line": "I believe you are trapped inside the Royale, just as I am."
+        },
+        {
+          "character": "TEXAS",
+          "line": "Sure does seem that way when you're losing, don't it? We're just trying to turn this lady's wagon around, and win back some lost change. Otherwise she's in a desperate situation and she's got nowhere to turn. Well, almost nowhere."
+        },
+        {
+          "character": "VANESSA",
+          "line": "I stay, right?"
+        },
+        {
+          "character": "TEXAS",
+          "line": "I wouldn't."
+        },
+        {
+          "character": "DATA",
+          "line": "The odds favor standing pat."
+        },
+        {
+          "character": "VANESSA",
+          "line": "What do I do?"
+        },
+        {
+          "character": "TEXAS",
+          "line": "Do you want a card or what?"
+        },
+        {
+          "character": "VANESSA",
+          "line": "Hit me. Too many. I've almost lost it all. What am I going to do?"
+        },
+        {
+          "character": "TEXAS",
+          "line": "There, there, there, there, there."
+        }
+      ],
+      "location": "Casino"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "RIKER",
+          "line": "What did you find?"
+        },
+        {
+          "character": "WORD",
+          "line": "Nothing."
+        },
+        {
+          "character": "CLERK",
+          "line": "Rita just called."
+        },
+        {
+          "character": "BELLBOY",
+          "line": "She did? What did she say?"
+        },
+        {
+          "character": "CLERK",
+          "line": "It was kind of hard to tell. She was crying."
+        },
+        {
+          "character": "BELLBOY",
+          "line": "Crying? Damn. Mickey D thinks he can treat people any way he wants. Well, that's all over now."
+        },
+        {
+          "character": "MICKEY D",
+          "line": "You were told."
+        },
+        {
+          "character": "BELLBOY",
+          "line": "It's not for you to make the call. It's for Rita."
+        },
+        {
+          "character": "MICKEY D",
+          "line": "She sent me to tell you."
+        },
+        {
+          "character": "CLERK",
+          "line": "Okay, boys. Look, we can't afford to have any trouble in here. Why don't you just take this outside."
+        },
+        {
+          "character": "MICKEY D",
+          "line": "Yeah, I like that. Come on, baggage man."
+        }
+      ],
+      "location": "Lobby"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "MICKEY D",
+          "line": "Let's you and me take it outside.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "BELLBOY",
+          "line": "When I was a kid, I used to look up to you guys. The suit, the fancy shoes. I really thought that made you somebody, but you're nobody. She could make something out of her life",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "TROI",
+          "line": "I don't believe this dialogue. Did humans really talk like that?"
+        },
+        {
+          "character": "PICARD",
+          "line": "Not in real life. Remember, everything that's going on down there is taken from what Colonel Richey calls a second-rate novel."
+        },
+        {
+          "character": "BELLBOY",
+          "line": "Like Rita. She could do something with her life. She could be somebody if she only had the chance.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "TROI",
+          "line": "With your permission, sir."
+        },
+        {
+          "character": "MICKEY D",
+          "line": "She is somebody. She's my girl.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "BELLBOY",
+          "line": "You got her on the stuff. That's the only reason she stays with you. Because you feed her sickness.",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "Ready room"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "BELLBOY",
+          "line": "You got to let me help her."
+        },
+        {
+          "character": "MICKEY D",
+          "line": "Well why don't we just go outside and talk about it?"
+        },
+        {
+          "character": "CLERK",
+          "line": "Just watch yourself."
+        },
+        {
+          "character": "BELLBOY",
+          "line": "Don't worry."
+        },
+        {
+          "character": "RIKER",
+          "line": "It's all part of the novel. Don't interfere."
+        },
+        {
+          "character": "MICKEY D",
+          "line": "You should have listened to me, kid. No woman's worth dying for. Killing for, not dying for."
+        },
+        {
+          "character": "RIKER",
+          "line": "Riker to Enterprise."
+        }
+      ],
+      "location": "Lobby"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "PICARD",
+          "line": "Yes, Number One."
+        },
+        {
+          "character": "RIKER",
+          "line": "A bizarre incident just took place.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "PICARD",
+          "line": "The shoot-out between the bellboy and Mickey D."
+        }
+      ],
+      "location": "Ready room"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "RIKER",
+          "line": "Yes, and Mickey D just walked out the door. How did he do that?"
+        }
+      ],
+      "location": "Lobby"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "PICARD",
+          "line": "It's on page 244."
+        }
+      ],
+      "location": "Ready room"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "RIKER",
+          "line": "In the novel. Right. How does it end?"
+        }
+      ],
+      "location": "Lobby"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "PICARD",
+          "line": "A bad love affair ends in a bloody shoot-out, the hotel gets bought out, and life goes on, such as it is."
+        }
+      ],
+      "location": "Ready room"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "RIKER",
+          "line": "The hotel gets bought? By whom?"
+        }
+      ],
+      "location": "Lobby"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "PICARD",
+          "line": "It isn't specific. It simply refers to foreign investors. Sale price, twelve point five million United States"
+        }
+      ],
+      "location": "Ready room"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "PICARD",
+          "line": "They return home, leaving the assistant manager in charge.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "RIKER",
+          "line": "Captain, that's how we're getting out. We're buying this place."
+        }
+      ],
+      "location": "Lobby"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "DATA",
+          "line": "It is all a question of probabilities. Quite simple, really, if one bets with any sequential consistency."
+        },
+        {
+          "character": "RIKER",
+          "line": "Elaborate."
+        },
+        {
+          "character": "DATA",
+          "line": "The combinations totalling seven or eleven have considerable value when achieved on the primary attempt. With eight variations possible to create those totals, the likelihood of those totals occurring is not significant. However"
+        },
+        {
+          "character": "RIKER",
+          "line": "Okay, okay. Can you do it?"
+        },
+        {
+          "character": "DATA",
+          "line": "I believe so, sir."
+        },
+        {
+          "character": "TEXAS",
+          "line": "Eight's a point. Eighter from Decatur. Candy see the wise. Do it, do it."
+        },
+        {
+          "character": "TEXAS",
+          "line": "Oh. Snake eyes."
+        },
+        {
+          "character": "DATA",
+          "line": "Single digits on each cube are not at all desirable."
+        },
+        {
+          "character": "VANESSA",
+          "line": "You're almost broke."
+        },
+        {
+          "character": "TEXAS",
+          "line": "Relax, honey. It's only money"
+        },
+        {
+          "character": "VANESSA",
+          "line": "Yeah, but if you lose it all, I won't even have a place to sleep."
+        },
+        {
+          "character": "TEXAS",
+          "line": "Don't worry your little head, honey. I'd never let that happen. Go babe, let's go. Here they come, babe."
+        },
+        {
+          "character": "CROUPIER",
+          "line": "Seven. You're out."
+        },
+        {
+          "character": "TEXAS",
+          "line": "You're turn, Slick."
+        },
+        {
+          "character": "RIKER",
+          "line": "Go to work."
+        },
+        {
+          "character": "TEXAS",
+          "line": "Maybe this turkey'll bring us some luck."
+        },
+        {
+          "character": "CROUPIER",
+          "line": "Six. Six is your number."
+        },
+        {
+          "character": "TEXAS",
+          "line": "Hell, my blind grandmother can make a six. Come on, boy, roll 'em."
+        },
+        {
+          "character": "RIKER",
+          "line": "I thought seven and eleven had value."
+        },
+        {
+          "character": "DATA",
+          "line": "Actually, six is a valid point. Of course, now the objective is to roll a duplicate six before hitting seven."
+        },
+        {
+          "character": "RIKER",
+          "line": "But the probability of making a six is no greater than that of rolling a seven."
+        },
+        {
+          "character": "DATA",
+          "line": "There is a certain degree of random fortune involved. I believe that is why they call it gambling."
+        },
+        {
+          "character": "VANESSA",
+          "line": "Yeah."
+        },
+        {
+          "character": "CROUPIER",
+          "line": "Seven. Seven away. Next shooter."
+        },
+        {
+          "character": "VANESSA",
+          "line": "So much for your new turkey."
+        },
+        {
+          "character": "TEXAS",
+          "line": "Give Slick another shot. I got a feeling about you, boy."
+        },
+        {
+          "character": "DATA",
+          "line": "Commander, these cubes are improperly balanced. I believe their final resting position would be"
+        },
+        {
+          "character": "RIKER",
+          "line": "Can you repair them?"
+        },
+        {
+          "character": "DATA",
+          "line": "I believe so. I will make another attempt."
+        },
+        {
+          "character": "DATA",
+          "line": "Baby needs a new pair of shoes."
+        },
+        {
+          "character": "TEXAS",
+          "line": "Eleven! Attaboy! Do that a few more times and we're all gonna get well!"
+        },
+        {
+          "character": "CROUPIER",
+          "line": "Seven, a winner."
+        },
+        {
+          "character": "TEXAS",
+          "line": "And another one. Keep going, boy. We got a hot one. Let's go. Let's go."
+        },
+        {
+          "character": "RIKER",
+          "line": "Double 'em up. Here we go."
+        },
+        {
+          "character": "TEXAS",
+          "line": "Keep 'em rolling, boy. Keep rolling. Seven, a winner."
+        }
+      ],
+      "location": "Casino"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "PICARD",
+          "line": "Status, Number One."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "RIKER",
+          "line": "Rather a nice run of luck, Captain."
+        },
+        {
+          "character": "PICARD",
+          "line": "Don't get out of character, Commander."
+        },
+        {
+          "character": "RIKER",
+          "line": "Sir?"
+        }
+      ],
+      "location": "Casino"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "PICARD",
+          "line": "The foreign investors in the book are described as flamboyantly generous."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "RIKER",
+          "line": "Yes, sir. I understand."
+        },
+        {
+          "character": "TEXAS",
+          "line": "Seven, look at that."
+        },
+        {
+          "character": "VANESSA",
+          "line": "Oh, Tex, darlin', you're brilliant!"
+        },
+        {
+          "character": "TEXAS",
+          "line": "Yeah. And I'm good lookin' too, huh?"
+        },
+        {
+          "character": "WORF",
+          "line": "Isn't that enough?"
+        },
+        {
+          "character": "RIKER",
+          "line": "No. Don't want to come up short. You are keeping count?"
+        },
+        {
+          "character": "DATA",
+          "line": "Yes, sir. Twelve point three million. Perhaps I will bet seven hundred thousand."
+        },
+        {
+          "character": "RIKER",
+          "line": "No, bet it all."
+        },
+        {
+          "character": "DATA",
+          "line": "But sir, the sale price of this edifice is twelve point five million."
+        },
+        {
+          "character": "RIKER",
+          "line": "We need some spreading around money, Data."
+        },
+        {
+          "character": "DATA",
+          "line": "Sir?"
+        },
+        {
+          "character": "RIKER",
+          "line": "Bet it all."
+        },
+        {
+          "character": "RIKER",
+          "line": "There you go. A little something for you, Ziggy. A little something for those cocktail waitresses. Why don't you run this outside, give it to the parking lot attendants."
+        },
+        {
+          "character": "CLERK",
+          "line": "You're very kind, sir."
+        },
+        {
+          "character": "RIKER",
+          "line": "Here you go, Vanessa. A little something for you, too."
+        },
+        {
+          "character": "VANESSA",
+          "line": "Thank you."
+        },
+        {
+          "character": "RIKER",
+          "line": "When the train comes in, everybody rides."
+        },
+        {
+          "character": "TEXAS",
+          "line": "Yeah, and I'm getting off at this station. After eighteen passes, the air gets a little too thin for this country boy. I'm betting against you, fella."
+        },
+        {
+          "character": "VANESSA",
+          "line": "Are you nuts?"
+        },
+        {
+          "character": "DATA",
+          "line": "I do not believe that is a prudent choice, sir."
+        },
+        {
+          "character": "TEXAS",
+          "line": "Hey, that's what horse racing's about. Roll 'em, boy."
+        },
+        {
+          "character": "CROUPIER",
+          "line": "Seven, a winner."
+        },
+        {
+          "character": "CLERK",
+          "line": "The man has the touch."
+        },
+        {
+          "character": "TEXAS",
+          "line": "You knew you were going to throw that seven, didn't you? You just let me go down the tube."
+        },
+        {
+          "character": "DATA",
+          "line": "I tried to caution you, sir."
+        },
+        {
+          "character": "TEXAS",
+          "line": "What was it? I mean, was it personal, or what? Because I didn't show you my car?"
+        },
+        {
+          "character": "RIKER",
+          "line": "Now."
+        },
+        {
+          "character": "DATA",
+          "line": "I wish to cash in, sir."
+        },
+        {
+          "character": "CLERK",
+          "line": "I'm afraid you've broken the bank."
+        },
+        {
+          "character": "RIKER",
+          "line": "Just take twelve point five million, the purchase price of this hotel. Spread the rest around."
+        },
+        {
+          "character": "CLERK",
+          "line": "You're the foreign investors."
+        },
+        {
+          "character": "RIKER",
+          "line": "That's right. We just bought this place, lock, stock, and barrel. Consider it a done deal."
+        },
+        {
+          "character": "TEXAS",
+          "line": "I like you fellas. You got style. Let me buy you guys a drink."
+        },
+        {
+          "character": "RIKER",
+          "line": "Just enjoy the game. Don't let them change the dice on you."
+        },
+        {
+          "character": "TEXAS",
+          "line": "You got it."
+        }
+      ],
+      "location": "Casino"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "RIKER",
+          "line": "Enterprise, this is the away team. We're clear of the structure."
+        }
+      ],
+      "location": "Planet surface"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "RIKER",
+          "line": "Three to beam up.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "PICARD",
+          "line": "Time to come home now, Number One. Transporter room, we have a fix on the away team. Beam them up."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "PICARD",
+          "line": "Come."
+        },
+        {
+          "character": "RIKER",
+          "line": "Sir."
+        },
+        {
+          "character": "PICARD",
+          "line": "Welcome back, Number One."
+        },
+        {
+          "character": "RIKER",
+          "line": "Very strange experience. Puzzling. I still can't comprehend how Colonel Richey's vessel could have traveled out that far. Not on it's own, at any rate."
+        },
+        {
+          "character": "PICARD",
+          "line": "Perhaps they were brought here by whoever created that make-believe world down there. It's possible they didn't know how fragile the humans aboard actually were. Only one of them survived."
+        },
+        {
+          "character": "RIKER",
+          "line": "None of it makes any sense."
+        },
+        {
+          "character": "PICARD",
+          "line": "Like Fermat's theorem, it's a puzzle we may never solve."
+        }
+      ],
+      "location": "Ready room"
+    }
+  ],
+  "schedule": {
+    "episode": 12,
+    "number": 38,
+    "season": 2
+  },
+  "stardate": "42626.4",
+  "title": "The Royale"
+}

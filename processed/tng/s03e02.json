@@ -1,0 +1,1517 @@
+{
+  "airdate": 622699200,
+  "scenes": [
+    {
+      "dialogue": [
+        {
+          "character": "RIKER",
+          "line": "Riker to Ensign Crusher.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "WESLEY",
+          "line": "Go ahead."
+        }
+      ],
+      "location": "Laboratory"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "RIKER",
+          "line": "Forget to set your alarm, Wesley?"
+        },
+        {
+          "character": "WESLEY",
+          "line": "Yes, sir.",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "WESLEY",
+          "line": "I'm very sorry. I'll be right there. this."
+        },
+        {
+          "character": "PICARD",
+          "line": "Captain's log, Stardate 43125.8. We have entered a spectacular binary star system in the Kavis Alpha sector on a most critical mission of astro-physical research. Our eminent guest, Doctor Paul Stubbs, will attempt to study the decay of neutronium expelled at relativistic speeds by a massive stellar explosion which will occur here in a matter of hours.",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "Laboratory"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "RIKER",
+          "line": "Ensign, our position."
+        },
+        {
+          "character": "WESLEY",
+          "line": "Approaching one million kilometers from the neutron star, sir."
+        },
+        {
+          "character": "RIKER",
+          "line": "Slow to one third impulse power."
+        },
+        {
+          "character": "STUBBS",
+          "line": "Spectacular, isn't it, my young friend?"
+        },
+        {
+          "character": "WESLEY",
+          "line": "Yes sir."
+        },
+        {
+          "character": "STUBBS",
+          "line": "Over and over again, the intense gravitational pull of the little neutron star sucks up the star material from the red giant, and it builds up on the surface until it explodes, every one hundred and ninety six years. Like clockwork. And it is but eighteen hours away."
+        },
+        {
+          "character": "DATA",
+          "line": "Eighteen hours, seven minutes, and ten seconds, Doctor."
+        },
+        {
+          "character": "STUBBS",
+          "line": "The interstellar counterpart to Earth's Old Faithful. The only predictable burst of energy in the universe that can accomplish our goal."
+        },
+        {
+          "character": "PICARD",
+          "line": "Doctor Stubbs, if you would like to make one final inspection of the unit."
+        },
+        {
+          "character": "STUBBS",
+          "line": "Captain, I've been inspecting the Egg for the last twenty years. You may lay it when ready."
+        },
+        {
+          "character": "PICARD",
+          "line": "Begin launch sequence."
+        },
+        {
+          "character": "RIKER",
+          "line": "Shuttlebay two, stand-by to launch the Egg."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "CREWMAN",
+          "line": "Standing by, Commander."
+        }
+      ],
+      "location": "Shuttlebay"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "DATA",
+          "line": "Five minutes to launch site."
+        },
+        {
+          "character": "PICARD",
+          "line": "Stabilize."
+        },
+        {
+          "character": "WESLEY",
+          "line": "The ship isn't responding, sir."
+        },
+        {
+          "character": "PICARD",
+          "line": "Engineering."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "PICARD",
+          "line": "Report, Mister La Forge.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Checking for failure of inertial dampeners. Instruments say they're working"
+        }
+      ],
+      "location": "Engineering"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "WORF",
+          "line": "Captain, we're heading straight into the path of that stellar matter."
+        },
+        {
+          "character": "PICARD",
+          "line": "Shields up."
+        },
+        {
+          "character": "WORF",
+          "line": "Negative. The shields will not respond."
+        },
+        {
+          "character": "DATA",
+          "line": "Thirty seconds to impact, sir."
+        },
+        {
+          "character": "PICARD",
+          "line": "Manual override on shields."
+        },
+        {
+          "character": "WORF",
+          "line": "Shields are rising."
+        },
+        {
+          "character": "RIKER",
+          "line": "Reset dampeners."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "RIKER",
+          "line": "Mister La Forge.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Dampeners not responding."
+        }
+      ],
+      "location": "Engineering"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "LAFORGE",
+          "line": "Unable to reset.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "PICARD",
+          "line": "Reverse impulse engines."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "LAFORGE",
+          "line": "Initiating reverse sequence, now."
+        }
+      ],
+      "location": "Engineering"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "PICARD",
+          "line": "Our momentum is still carrying us into the path of the stellar matter."
+        },
+        {
+          "character": "DATA",
+          "line": "Twelve seconds to impact, sir."
+        },
+        {
+          "character": "RIKER",
+          "line": "Prepare for impact. Medical personnel, report to the Bridge. Commander Data, check all systems."
+        },
+        {
+          "character": "DATA",
+          "line": "All systems functioning normally, sir."
+        },
+        {
+          "character": "PICARD",
+          "line": "Computer, explain control malfunction."
+        },
+        {
+          "character": "COMPUTER",
+          "line": "No control malfunction has been recorded."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "NURSE",
+          "line": "Lay down carefully. There you go."
+        },
+        {
+          "character": "WESLEY",
+          "line": "Doctor Stubbs, the captain asked me to tell you that our systems are back to normal, and we can try another launch attempt as soon as you're ready."
+        },
+        {
+          "character": "STUBBS",
+          "line": "Quite a dynamic family team, you Crushers."
+        },
+        {
+          "character": "CRUSHER",
+          "line": "Well, it's nice to be together again. I was at Starfleet Medical for a year. I missed about two inches of him."
+        },
+        {
+          "character": "STUBBS",
+          "line": "I'm not sure I'd want my mother to be flying through space with me. No, I take that back. I am sure. I wouldn't want her. My mother is a formidable woman, too. A woman of letters. A great critic."
+        },
+        {
+          "character": "WESLEY",
+          "line": "I know."
+        },
+        {
+          "character": "STUBBS",
+          "line": "Good Lord, son. You didn't read that unauthorized biography? Is this all this boy does, Doctor? Fly the ship and read? Doesn't he ever have any fun?"
+        },
+        {
+          "character": "CRUSHER",
+          "line": "Sure he does."
+        },
+        {
+          "character": "WESLEY",
+          "line": "Actually, most of my free time is taken up with my studies. I'm trying to get into Starfleet Academy, and I earn credits for the time spent on the Enterprise, but it's just not the same."
+        },
+        {
+          "character": "NURSE",
+          "line": "Are you ready to sit up?"
+        },
+        {
+          "character": "STUBBS",
+          "line": "Well. I am whole again. Thank you, Doctor. Come along, Wesley. Let's go see if Humpty Dumpty is still in one piece."
+        },
+        {
+          "character": "CRUSHER",
+          "line": "Computer, fix the food slot."
+        },
+        {
+          "character": "COMPUTER",
+          "line": "The food slot is functioning properly."
+        },
+        {
+          "character": "CRUSHER",
+          "line": "Well, check again."
+        },
+        {
+          "character": "COMPUTER",
+          "line": "The food slot is functioning properly."
+        },
+        {
+          "character": "CRUSHER",
+          "line": "Computer, deactivate food slot."
+        }
+      ],
+      "location": "Sickbay"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "LAFORGE",
+          "line": "We're analyzing the engineering systems data, Captain. So far we're showing nothing unusual"
+        }
+      ],
+      "location": "Engineering"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "LAFORGE",
+          "line": "In the computer log for that time period.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "PICARD",
+          "line": "Run a level one diagnostic series. Come. I want a computer that's one hundred percent to expedite Doctor Stubbs' experiment. As well as the food slots in Sickbay. Picard out."
+        },
+        {
+          "character": "CRUSHER",
+          "line": "Which seem to be working again, for the moment anyway."
+        },
+        {
+          "character": "PICARD",
+          "line": "What can I do for you, Doctor?"
+        },
+        {
+          "character": "CRUSHER",
+          "line": "Jean-Luc, how would you feel if you were a seventeen year old and the only Starfleet Officer whose mother was on board?"
+        },
+        {
+          "character": "PICARD",
+          "line": "Inhibited, I suppose. But then, I'm not Wesley. And if you are concerned about him, I see no evidence that there is a problem."
+        },
+        {
+          "character": "CRUSHER",
+          "line": "I know, but, in a funny kind of way, that's exactly my point. We talk. We smile. It's almost too polite."
+        },
+        {
+          "character": "PICARD",
+          "line": "Beverly, isn't it just a matter of time? I know how difficult it was for you being away."
+        },
+        {
+          "character": "CRUSHER",
+          "line": "Tell me about him."
+        },
+        {
+          "character": "PICARD",
+          "line": "Well, he's becoming a very fine officer. He works as hard as any member of the crew. Riker says his studies are on line."
+        },
+        {
+          "character": "CRUSHER",
+          "line": "No. Tell me about him."
+        },
+        {
+          "character": "PICARD",
+          "line": "He's his father's son. Honest, trusting, strong."
+        },
+        {
+          "character": "CRUSHER",
+          "line": "Does he have many friends? Has he ever been in love? Jean-Luc, I'm worried. He's come so far, so fast, And since I've been back, I don't feel"
+        },
+        {
+          "character": "PICARD",
+          "line": "His dependence. Beverly, look, he's seventeen years old."
+        },
+        {
+          "character": "CRUSHER",
+          "line": "What were you doing when you were seventeen?"
+        },
+        {
+          "character": "PICARD",
+          "line": "Probably getting into more trouble than Wesley, I can assure you."
+        },
+        {
+          "character": "CRUSHER",
+          "line": "So was I. Isn't that what seventeen's supposed to be?"
+        }
+      ],
+      "location": "Ready room"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "STUBBS",
+          "line": "No cracks in the armor. We'll do just fine."
+        },
+        {
+          "character": "WESLEY",
+          "line": "How can you be so calm about this? If I was about to make this kind of breakthrough"
+        },
+        {
+          "character": "STUBBS",
+          "line": "I have never doubted for a moment that this day would come, Wesley. And I suspect that some day it will come for you as well. I see a lot of me in you. In my youth, they called me a vunderkind. Do you understand vunderkind?"
+        },
+        {
+          "character": "WESLEY",
+          "line": "It's German, isn't it?"
+        },
+        {
+          "character": "STUBBS",
+          "line": "It means wonder child. It is reserved for those of us who achieve early in life. Now the burden is yours."
+        },
+        {
+          "character": "WESLEY",
+          "line": "Burden?"
+        },
+        {
+          "character": "STUBBS",
+          "line": "To fulfilll your potential. You will never come up against a greater adversary than your own potential, my young friend."
+        },
+        {
+          "character": "WESLEY",
+          "line": "Red Alert. Return to quarters immediately."
+        }
+      ],
+      "location": "Shuttlebay"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "PICARD",
+          "line": "Still no visual contact. That's impossible. Mister Worf, same magnification fifty degrees starboard."
+        },
+        {
+          "character": "RIKER",
+          "line": "Worf, you're absolutely sure?"
+        },
+        {
+          "character": "WORF",
+          "line": "Sensors clearly indicate the approach of a Borg vessel."
+        },
+        {
+          "character": "RIKER",
+          "line": "Shields up."
+        },
+        {
+          "character": "WORF",
+          "line": "Shields are not responding."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Manual override is jammed. It's not going to work this time. We don't have the shields, Captain."
+        },
+        {
+          "character": "WORF",
+          "line": "Captain, they're firing energy weapons at us."
+        },
+        {
+          "character": "PICARD",
+          "line": "Evasive action."
+        },
+        {
+          "character": "RIKER",
+          "line": "Bring her round to two seven five mark three."
+        },
+        {
+          "character": "PICARD",
+          "line": "Predict current vector of Borg ship."
+        },
+        {
+          "character": "WORF",
+          "line": "Vector. Is gone. And so is the Borg vessel."
+        },
+        {
+          "character": "PICARD",
+          "line": "You're telling me this is another computer glitch?"
+        },
+        {
+          "character": "DATA",
+          "line": "It is conceivable that he was viewing a synthetically generated image, sir."
+        },
+        {
+          "character": "RIKER",
+          "line": "That our computer was daydreaming?"
+        },
+        {
+          "character": "PICARD",
+          "line": "Computer, identify malfunction immediately."
+        },
+        {
+          "character": "COMPUTER",
+          "line": "Pawn to Bishop Four. Knight to King's Rook Three. Bishop to Queen's Bishop Four. Knight to Knight Five. Queen's Knight to King Two."
+        },
+        {
+          "character": "DATA",
+          "line": "Controls are not responding, sir."
+        },
+        {
+          "character": "COMPUTER",
+          "line": "Queen to Bishop Three. Bishop to Bishop Two."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Impulse engines are down."
+        },
+        {
+          "character": "RIKER",
+          "line": "Try warp engines."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "No. Sorry, Commander. I'd better get back to Engineering"
+        },
+        {
+          "character": "PICARD",
+          "line": "Mister La Forge, I want Lieutenant Worf to accompany you. Get me a full report on the prospects of getting our shields back. Number One, Mister Data, will you join me in the conference room as soon as possible. It's time to diskuss the future of this mission, if there still is one."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "PICARD",
+          "line": "The fact of the matter is, we are dealing with a potential breakdown of the main computer."
+        },
+        {
+          "character": "RIKER",
+          "line": "That's hard to accept."
+        },
+        {
+          "character": "DATA",
+          "line": "The system automatically provides for self-correction, Captain. There has not been a systems-wide technological failure on a starship in seventy nine years."
+        },
+        {
+          "character": "TROI",
+          "line": "Excuse me, Captain, but Doctor Stubbs is waiting outside."
+        },
+        {
+          "character": "STUBBS",
+          "line": "Captain, I'm sure you have everything under control. I'd just like to know what's going on."
+        },
+        {
+          "character": "PICARD",
+          "line": "Of course, Doctor. Sit down. Counselor. Commander La Forge is attempting repairs even as we speak."
+        },
+        {
+          "character": "STUBBS",
+          "line": "Attempting. That doesn't sound particularly reassuring."
+        },
+        {
+          "character": "PICARD",
+          "line": "Doctor, if at all possible, we will continue this mission as planned."
+        },
+        {
+          "character": "STUBBS",
+          "line": "Captain, if we miss our chance now, we don't get another for two centuries. There will be many questions asked by Starfleet if the Enterprise fails in its duty"
+        },
+        {
+          "character": "PICARD",
+          "line": "Nevertheless, my first and foremost consideration will be to ensure the safety of this ship and its crew."
+        },
+        {
+          "character": "STUBBS",
+          "line": "Ensure the safety, Captain? Or are you really talking about playing it safe?"
+        },
+        {
+          "character": "PICARD",
+          "line": "My dear Doctor, in our current position, when that star explodes, you'll get to watch your experiment from the inside out."
+        },
+        {
+          "character": "STUBBS",
+          "line": "I would rather die than leave."
+        },
+        {
+          "character": "PICARD",
+          "line": "I don't believe you speak for the majority of the crew."
+        },
+        {
+          "character": "TROI",
+          "line": "Doctor Stubbs, I know how much this means to you."
+        },
+        {
+          "character": "STUBBS",
+          "line": "My dear Counselor, no insult intended but please turn off your beam into my soul. I will share the feelings I wish to share. Well, if we do not leave in time, so be it. It's one sure way into the record books, eh?"
+        },
+        {
+          "character": "TROI",
+          "line": "His nonchalance is studied and practiced."
+        },
+        {
+          "character": "PICARD",
+          "line": "Even my sensory perception picked that up."
+        },
+        {
+          "character": "TROI",
+          "line": "He's put his entire self-worth on the line with this experiment. He is telling the truth when he says he'd rather die than leave."
+        }
+      ],
+      "location": "Observation lounge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "LAFORGE",
+          "line": "Call up the cross-section of computer core processor four five one. I want to see elements zero two hundred through zero three hundred."
+        },
+        {
+          "character": "CREWMAN",
+          "line": "Aye, sir."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "In order to get some power, I had to by-pass the computer core. Essentially hotwire the connection. Whoa, whoa, right there. Look at that lesion. No wonder we're coming apart at the seams. It's definitely some kind of continuing disintegration, but from what I can't tell you. And I haven't the slightest idea how to stop it."
+        },
+        {
+          "character": "WESLEY",
+          "line": "It's just a mechanical problem, though, right?"
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Increase magnification, factor fifty. I don't know, Wes, but looking at it. You know, if I didn't know any better, I'd say someone had climbed in there and started taking it apart."
+        }
+      ],
+      "location": "Engineering"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "WESLEY",
+          "line": "Guinan! I didn't think anyone would be here."
+        },
+        {
+          "character": "GUINAN",
+          "line": "I've never been any good at being confined to quarters, as my husbands will attest to. What's that?"
+        },
+        {
+          "character": "WESLEY",
+          "line": "I'm just setting traps."
+        },
+        {
+          "character": "GUINAN",
+          "line": "I run a clean place."
+        },
+        {
+          "character": "WESLEY",
+          "line": "I know. It's not that. It's. I'm scared, Guinan. I think that everything that's been going wrong might be my fault."
+        },
+        {
+          "character": "GUINAN",
+          "line": "You want to tell me about it?"
+        },
+        {
+          "character": "WESLEY",
+          "line": "I've been working on my final project for Advanced Genetics. It's on nanotechnology. I've been studying the nanites we have in the Sickbay genetic supplies. They're these little tiny robots with gigabytes of mechanical computer memory. They're designed to enter living cells and conduct repairs. They're supposed to remain confined to the lab."
+        },
+        {
+          "character": "GUINAN",
+          "line": "Are you saying there are nanites loose?"
+        },
+        {
+          "character": "WESLEY",
+          "line": "Two of them, that's all. I just wanted to see how they would interact and function in tandem. You see, in my experiment, I had proposed a theory that by working together they could combine their skills and increase their usefulness. It was working."
+        },
+        {
+          "character": "GUINAN",
+          "line": "So you made better nanites."
+        },
+        {
+          "character": "WESLEY",
+          "line": "I was pulling an all-nighter to collect my final data. I fell asleep. And when I woke up I saw the container had been left open. It's just a science project."
+        },
+        {
+          "character": "GUINAN",
+          "line": "You know, a doctor friend once said the same thing to me. Frankenstein was his name."
+        },
+        {
+          "character": "WESLEY",
+          "line": "They're really harmless. I mean, they're equipped with only the most basic skills. It's almost impossible they could be responsible"
+        },
+        {
+          "character": "GUINAN",
+          "line": "Almost."
+        },
+        {
+          "character": "CRUSHER",
+          "line": "Doctor Crusher to Wesley Crusher.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "WESLEY",
+          "line": "Go ahead."
+        },
+        {
+          "character": "CRUSHER",
+          "line": "I stopped by your quarters, Wes. I assumed you'd be there, since you're off duty.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "WESLEY",
+          "line": "I know. I just I had some things to do"
+        },
+        {
+          "character": "CRUSHER",
+          "line": "Orders are orders, Mister Crusher.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "WESLEY",
+          "line": "On my way. You won't tell anybody, will you? I know. I will. If it's true."
+        },
+        {
+          "character": "GUINAN",
+          "line": "Wes, do you think you're going to get a good grade?"
+        },
+        {
+          "character": "WESLEY",
+          "line": "I always get an A."
+        },
+        {
+          "character": "GUINAN",
+          "line": "So did Doctor Frankenstein."
+        },
+        {
+          "character": "PICARD",
+          "line": "Captain's log, supplemental. Our computer core has clearly been tampered with and yet there is no sign of a breach of security on board. We have engines back and will attempt to complete our mission, but without a reliable computer, Doctor Stubbs' experiment is in serious jeopardy.",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "Ten forward"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "RIKER",
+          "line": "Manual restart sequence."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Manual restart successful. Impulse engine functions all appear normal."
+        },
+        {
+          "character": "PICARD",
+          "line": "Proceed."
+        },
+        {
+          "character": "RIKER",
+          "line": "Shuttlebay two, open hangar door."
+        },
+        {
+          "character": "CREWMAN",
+          "line": "Aye, sir.",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "CREWMAN",
+          "line": "Door did not respond."
+        }
+      ],
+      "location": "Shuttlebay"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "CREWMAN",
+          "line": "Repeating sequence.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "PICARD",
+          "line": "What in heaven's name?"
+        },
+        {
+          "character": "DATA",
+          "line": "It is 'Stars and Stripes Forever'. sir, by John Phillip Sousa, a popular American composer of band music in the early twentieth century."
+        },
+        {
+          "character": "PICARD",
+          "line": "Yes, yes, I know that."
+        },
+        {
+          "character": "RIKER",
+          "line": "Computer, shut off the music!"
+        },
+        {
+          "character": "DATA",
+          "line": "The music is on all communications channels, sir."
+        },
+        {
+          "character": "RIKER",
+          "line": "Weapons. power, communications. We're being stripped one system at a time."
+        },
+        {
+          "character": "PICARD",
+          "line": "Shut off the power to the Bridge."
+        },
+        {
+          "character": "PICARD",
+          "line": "Commander La Forge, can you get us out of this star system safely?"
+        },
+        {
+          "character": "STUBBS",
+          "line": "No!"
+        },
+        {
+          "character": "RIKER",
+          "line": "Not now, Doctor."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "I'll try, Captain. I don't want to overload the engines."
+        },
+        {
+          "character": "PICARD",
+          "line": "Do it gently. But do it."
+        },
+        {
+          "character": "RIKER",
+          "line": "We'll circuit in auxiliary power to the Bridge. Somehow we'll silence Sousa if he decides to play an encore."
+        },
+        {
+          "character": "PICARD",
+          "line": "The priority is to find out who or what is doing this. Number One, the Bridge, such as it is, is yours."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "STUBBS",
+          "line": "The Egg that Stubbs laid."
+        },
+        {
+          "character": "WESLEY",
+          "line": "No one will say that."
+        },
+        {
+          "character": "STUBBS",
+          "line": "Nobody will say anything at all, Wesley. We will not even be mentioned. I could live with failure. Well, maybe not. But never even to try. To miss your one chance at bat. Do you know baseball?"
+        },
+        {
+          "character": "WESLEY",
+          "line": "Yes, my father taught it to me when I was young."
+        },
+        {
+          "character": "STUBBS",
+          "line": "Once, centuries ago, it was the beloved national pastime of the Americas, Wesley. Abandoned by a society that prized fast food and faster games. Lost to impatience. But I have seen the great players make the great plays."
+        },
+        {
+          "character": "WESLEY",
+          "line": "Do you recreate them on a holodeck?"
+        },
+        {
+          "character": "STUBBS",
+          "line": "No. In here. With the knowledge of statistics, runs, hits and errors, times at bat, box scores. Men like us do not need holodecks, Wesley. I have played seasons in my mind. It was my reward to myself for patience. Knowing my turn would come. Call your shot. Point to a star. One great blast and the crowd rises. A brand new era in astrophysics. Postponed one hundred and ninety six years on account of rain."
+        }
+      ],
+      "location": "Shuttlebay"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "CRUSHER",
+          "line": "We have to talk. You really look like you could use some rest, Wesley."
+        },
+        {
+          "character": "WESLEY",
+          "line": "I know. It's okay. Really."
+        },
+        {
+          "character": "CRUSHER",
+          "line": "No, it's not okay. Really."
+        },
+        {
+          "character": "WESLEY",
+          "line": "Look, mom, I'm just checking some traps that I set to see if I can find out what's happening to the Enterprise."
+        },
+        {
+          "character": "CRUSHER",
+          "line": "On someone's orders?"
+        },
+        {
+          "character": "WESLEY",
+          "line": "We're running out of time for Doctor Stubbs."
+        },
+        {
+          "character": "CRUSHER",
+          "line": "You can't put everything on your shoulders, Wesley. Even when you're off duty, you're on duty."
+        },
+        {
+          "character": "WESLEY",
+          "line": "Mom, you don't understand."
+        },
+        {
+          "character": "CRUSHER",
+          "line": "You are a seventeen year old boy."
+        },
+        {
+          "character": "WESLEY",
+          "line": "I'm also an acting officer and I have responsibilities."
+        },
+        {
+          "character": "CRUSHER",
+          "line": "I'm beginning to think maybe you've taken on too many responsibilities."
+        },
+        {
+          "character": "WESLEY",
+          "line": "Look, I have done everything that everyone has asked of me and more. And how can you know? You haven't even been here."
+        },
+        {
+          "character": "CRUSHER",
+          "line": "I'm here now, Wesley. Come on, I'll help you. What are you looking for? Wesley?"
+        },
+        {
+          "character": "WESLEY",
+          "line": "I think I've made a horrible mistake."
+        }
+      ],
+      "location": "Laboratory"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "CRUSHER",
+          "line": "Nanites. Tiny machines built from the atom up. Designed to have exposure only to the inside of nucleii during cellular surgeries. Until then, they are kept tightly confined in a non-functioning state."
+        },
+        {
+          "character": "DATA",
+          "line": "These are not ordinary nanites."
+        },
+        {
+          "character": "CRUSHER",
+          "line": "No, they have evolved."
+        },
+        {
+          "character": "STUBBS",
+          "line": "Evolved? How does a machine evolve?"
+        },
+        {
+          "character": "WESLEY",
+          "line": "It's true. I am responsible for this. I allowed two of the nanites to interact for a school project. I wanted to increase their capabilities. And they escaped."
+        },
+        {
+          "character": "PICARD",
+          "line": "School project? Just how far have these things evolved?"
+        },
+        {
+          "character": "WESLEY",
+          "line": "Well, this is a sample of linear memory crystal from our computer core."
+        },
+        {
+          "character": "RIKER",
+          "line": "It's like candy to them."
+        },
+        {
+          "character": "CRUSHER",
+          "line": "As you can see, they're able to mechanically replicate themselves."
+        },
+        {
+          "character": "DATA",
+          "line": "It is conceivable that with each new generation they enhance their own design. The rate of evolution would be extraordinary."
+        },
+        {
+          "character": "PICARD",
+          "line": "How many generations are we dealing with here?"
+        },
+        {
+          "character": "DATA",
+          "line": "Engineering, display computer core processor four five one, element zero two nine nine."
+        },
+        {
+          "character": "DATA",
+          "line": "Increase magnification, factor one thousand."
+        },
+        {
+          "character": "PICARD",
+          "line": "Can it be possible they know what they're doing?"
+        },
+        {
+          "character": "RIKER",
+          "line": "Why would they attack us?"
+        },
+        {
+          "character": "STUBBS",
+          "line": "Why does a mosquito bite your ear? and who cares? The answer is simple. Call an exterminator."
+        },
+        {
+          "character": "CRUSHER",
+          "line": "Doctor Stubbs, these nanites are now working with a new collective intelligence. Operating together. Teaching each other skills."
+        },
+        {
+          "character": "STUBBS",
+          "line": "Oh really. I'm sorry but this is nonsense. You can't have a civilisation of computer chips. They're made in a plant in Dakar, Senegal. I've watched the construction."
+        },
+        {
+          "character": "CRUSHER",
+          "line": "Then how do you explain what we've seen here?"
+        },
+        {
+          "character": "STUBBS",
+          "line": "It's no more mysterious than watching a strain of the Leutscher virus reproduce itself. And that at least is a bona fide lifeform. How many disease germs and viruses have you destroyed in your time, Doctor Crusher?"
+        },
+        {
+          "character": "PICARD",
+          "line": "Doctor Stubbs, we cannot exterminate something that may or may not be intelligent."
+        },
+        {
+          "character": "STUBBS",
+          "line": "My good Captain."
+        },
+        {
+          "character": "PICARD",
+          "line": "There's still time. Ensign, will you work with mister Data to try to remove them safely. If things get worse, we'll use stronger measures."
+        }
+      ],
+      "location": "Observation lounge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "STUBBS",
+          "line": "Gentlemen. I need a computer that is one hundred percent in less than eight hours, and we still have core reconstruction to consider."
+        },
+        {
+          "character": "WESLEY",
+          "line": "We're trying low gamma bursts. We think it might slow down their productivity."
+        },
+        {
+          "character": "STUBBS",
+          "line": "Have you considered a high level charge?"
+        },
+        {
+          "character": "DATA",
+          "line": "High level gamma radiation would kill them, Doctor."
+        },
+        {
+          "character": "STUBBS",
+          "line": "I know."
+        }
+      ],
+      "location": "Computer core"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "PICARD",
+          "line": "I can't get the story of Gulliver out of my head. Overpowered by Lilliputians. How long do we have to wait?"
+        },
+        {
+          "character": "RIKER",
+          "line": "We can continue to bypass the part of the computer that's affected, but if the nanites are spreading through the whole the ship."
+        },
+        {
+          "character": "PICARD",
+          "line": "Do you smell a change? What?"
+        }
+      ],
+      "location": "Ready room"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "PICARD",
+          "line": "Picard to La Forge. We have an environmental system malfunction on the Bridge. Acknowledge."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Aye, sir.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "RIKER",
+          "line": "Nitrogen oxide. Toxic levels."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Working on it, Captain.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "RIKER",
+          "line": "I've switched to manual control of the air handling system."
+        },
+        {
+          "character": "PICARD",
+          "line": "Mister Worf, report."
+        },
+        {
+          "character": "WORF",
+          "line": "He entered a computer access room and sterilized one of the processors with gamma radiation."
+        },
+        {
+          "character": "DATA",
+          "line": "The nanites in the upper core are all dead, Captain."
+        },
+        {
+          "character": "STUBBS",
+          "line": "You have no choice now. It is a matter of survival."
+        },
+        {
+          "character": "PICARD",
+          "line": "Doctor Stubbs, if you were a member of my crew, sir, I would"
+        },
+        {
+          "character": "STUBBS",
+          "line": "But I am not a member of your crew, sir. I am a representative of the highest command of the Federation, which has directed you to perform my experiment."
+        },
+        {
+          "character": "PICARD",
+          "line": "If any man, woman or child on this ship is harmed as a result of your experiment, I will have your head before the highest command in the Federation."
+        },
+        {
+          "character": "STUBBS",
+          "line": "Good Lord, you are talking about machines with a screw loose. Simply turn them off and be done with them."
+        },
+        {
+          "character": "DATA",
+          "line": "Doctor Stubbs, your own actions have provided evidence to the contrary. When you destroyed the nanites in the core, they responded by interfering with our life support systems. It is difficult to accept these as random actions by machines with loose screws. In effect, you may have proven that the nanites do have a collective intelligence."
+        },
+        {
+          "character": "WORF",
+          "line": "Captain, the ship is at risk. Extermination may be our only alternative."
+        },
+        {
+          "character": "STUBBS",
+          "line": "A good point."
+        },
+        {
+          "character": "PICARD",
+          "line": "Lieutenant Worf, I want Doctor Stubbs confined to his quarters until further notice."
+        },
+        {
+          "character": "PICARD",
+          "line": "Mister Data, can you find me some way to communicate with these things?"
+        },
+        {
+          "character": "DATA",
+          "line": "With intelligence, there is the capability of language, but it will depend on how far their evolution has brought them. We could modify the circuitry in the universal translator to make it capable of communications with them."
+        },
+        {
+          "character": "PICARD",
+          "line": "Proceed."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TROI",
+          "line": "May I come in?"
+        },
+        {
+          "character": "STUBBS",
+          "line": "You just can't resist, can you, Counselor?"
+        },
+        {
+          "character": "TROI",
+          "line": "I only want to help."
+        },
+        {
+          "character": "STUBBS",
+          "line": "Yes, yes. To break the shell. To get in touch with my true feelings."
+        },
+        {
+          "character": "TROI",
+          "line": "I'm only worried about your state of mind, Doctor."
+        },
+        {
+          "character": "STUBBS",
+          "line": "All right, Counselor, what is it that has you so worried?"
+        },
+        {
+          "character": "TROI",
+          "line": "Your single-mindedness, your need to have this experiment work."
+        },
+        {
+          "character": "STUBBS",
+          "line": "But it will. Picard has no choice now. He must defend the Enterprise. Counselor, when this is all over, I will show you New Manhattan on Beth Delta One as you've never seen it, and we will laugh over glasses of champagne."
+        },
+        {
+          "character": "TROI",
+          "line": "Your self portrait is so practiced, so polished."
+        },
+        {
+          "character": "STUBBS",
+          "line": "Yes, isn't it, though?"
+        },
+        {
+          "character": "TROI",
+          "line": "It is stretched so tight the tension fills this room. And if you finally fail, I fear it will snap."
+        },
+        {
+          "character": "STUBBS",
+          "line": "A good try, Counselor. But sometimes when you reach beneath a man's self portrait, as you so eloquently put it, deep down inside what you find is nothing at all. (Troi leaves and Stubbs returns to his mental reconstruction of a 1951 baseball game)"
+        },
+        {
+          "character": "STUBBS",
+          "line": "Lockman on first, Dark on second. Thompson at the plate Branca on the mound."
+        }
+      ],
+      "location": "Stubbs' quarters"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "CRUSHER",
+          "line": "He's coming around."
+        },
+        {
+          "character": "PICARD",
+          "line": "I cannot believe this was not an arbitrary attack."
+        },
+        {
+          "character": "CRUSHER",
+          "line": "Has Data made any progress in contacting them?"
+        },
+        {
+          "character": "STUBBS",
+          "line": "Picard. You must protect me. Kill them!"
+        }
+      ],
+      "location": "Sickbay"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "PICARD",
+          "line": "Commander Riker. On my signal, we will gamma-irradiate all computer systems throughout the Enterprise. Let's put an end to this conflict."
+        },
+        {
+          "character": "RIKER",
+          "line": "Worf, prepare to activate gamma pulse generators."
+        },
+        {
+          "character": "WORF",
+          "line": "Electromagnetic scanners ready, Captain."
+        },
+        {
+          "character": "DATA",
+          "line": "Captain. I have established contact."
+        },
+        {
+          "character": "DATA",
+          "line": "As we continue, Captain, they are virtually learning the concept of communication. Each new generation is making modifications."
+        },
+        {
+          "character": "PICARD",
+          "line": "Can we actually talk to them yet?"
+        },
+        {
+          "character": "DATA",
+          "line": "I believe it is worth an attempt. sir."
+        },
+        {
+          "character": "PICARD",
+          "line": "Commander Riker, bring Doctor Stubbs to the Bridge."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "STUBBS",
+          "line": "I don't think this is a wise idea. They have already tried to kill me once."
+        },
+        {
+          "character": "RIKER",
+          "line": "One sure way into the record books, Doctor."
+        }
+      ],
+      "location": "Corridor"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "DATA",
+          "line": "I am ready, sir."
+        },
+        {
+          "character": "PICARD",
+          "line": "Tell them the human who destroyed their comrades is here and wishes to address them."
+        },
+        {
+          "character": "STUBBS",
+          "line": "Captain, if I"
+        },
+        {
+          "character": "PICARD",
+          "line": "You, sir, you will explain your error and apologize, and pray that we can negotiate a peace we can all live with. Is that clear?"
+        },
+        {
+          "character": "DATA",
+          "line": "Captain, if a face to face negotiation would be helpful, I would like to volunteer myself as a conduit."
+        },
+        {
+          "character": "RIKER",
+          "line": "Yourself, Data?"
+        },
+        {
+          "character": "DATA",
+          "line": "I can easily furnish the nanites with a schematic design of my neurological structure. Entering my neural network would require no more than their most basic skills."
+        },
+        {
+          "character": "CRUSHER",
+          "line": "That's what they were designed for."
+        },
+        {
+          "character": "DATA",
+          "line": "They could penetrate the molecular fabric of my hand-covering into my nerve circuitry, and interface with my verbal programs."
+        },
+        {
+          "character": "WORF",
+          "line": "If they have control of a Starfleet Commander, they become an even greater threat."
+        },
+        {
+          "character": "PICARD",
+          "line": "How can we be sure we can get them out of you?"
+        },
+        {
+          "character": "DATA",
+          "line": "It would be a considerable risk, sir, but it would also represent a gesture of trust on our part. It could be an important step toward peace, sir."
+        },
+        {
+          "character": "PICARD",
+          "line": "All right, Data. Propose it to the nanites."
+        },
+        {
+          "character": "DATA",
+          "line": "The answer is yes."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "DATA",
+          "line": "They are ready, Captain."
+        },
+        {
+          "character": "PICARD",
+          "line": "Proceed."
+        },
+        {
+          "character": "DATA",
+          "line": "You are very strange looking creatures."
+        },
+        {
+          "character": "PICARD",
+          "line": "In our travels, we have encountered many other creatures, perhaps even stranger-looking than ourselves. But we try to co-exist peacefully with them."
+        },
+        {
+          "character": "DATA",
+          "line": "Why did you attack us?"
+        },
+        {
+          "character": "PICARD",
+          "line": "We misinterpreted your actions as an attack on us."
+        },
+        {
+          "character": "DATA",
+          "line": "We were seeking raw materials for our replicating process."
+        },
+        {
+          "character": "PICARD",
+          "line": "Yes, but you endangered this vessel in which we all travel. You nearly killed a crewmember."
+        },
+        {
+          "character": "DATA",
+          "line": "We meant no harm. We were exploring."
+        },
+        {
+          "character": "PICARD",
+          "line": "I understand. We are also explorers. We mean no harm to any other living creature."
+        },
+        {
+          "character": "STUBBS",
+          "line": "I am the one responsible for the deaths in the computer core."
+        },
+        {
+          "character": "DATA",
+          "line": "We know who you are."
+        },
+        {
+          "character": "STUBBS",
+          "line": "I deeply regret the incident. I am a scientist on an important mission. Your colleagues' exploration of the core memory put our mission at risk. I was only trying to protect a lifetime of work from being destroyed. I am at your mercy."
+        },
+        {
+          "character": "DATA",
+          "line": "What is at your mercy?"
+        },
+        {
+          "character": "PICARD",
+          "line": "He asks your forgiveness. This conflict was started by mistakes on both sides. Let's agree to end it here and now."
+        },
+        {
+          "character": "DATA",
+          "line": "We agree."
+        },
+        {
+          "character": "PICARD",
+          "line": "I pledge we will do everything possible to assist your continued survival."
+        },
+        {
+          "character": "DATA",
+          "line": "Thank you, but we have evolved beyond any need for your assistance. This vessel has become too confining. We require relocation."
+        },
+        {
+          "character": "PICARD",
+          "line": "Captain's log, supplemental. Doctor Stubbs has used his influence to have planet Kavis Alpha Four designated the new home of the nanite civilisation. Commander Data's neural network has been vacated. He has been returned to us unharmed. And with the help of the nanites, our computer core has been reconstructed in time for the experiment",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "Computer core"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "DATA",
+          "line": "Ten seconds to stellar blast, sir."
+        },
+        {
+          "character": "WESLEY",
+          "line": "We're at forty million kilometers from the neutron star, sir."
+        },
+        {
+          "character": "RIKER",
+          "line": "Hold your position."
+        },
+        {
+          "character": "PICARD",
+          "line": "Doctor?"
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "CRUSHER",
+          "line": "Do you have any children, Guinan?"
+        },
+        {
+          "character": "GUINAN",
+          "line": "A lot."
+        },
+        {
+          "character": "CRUSHER",
+          "line": "Ever have any trouble relating to them?"
+        },
+        {
+          "character": "GUINAN",
+          "line": "Just one."
+        },
+        {
+          "character": "CRUSHER",
+          "line": "One?"
+        },
+        {
+          "character": "GUINAN",
+          "line": "Wouldn't listen to anybody."
+        },
+        {
+          "character": "CRUSHER",
+          "line": "Well, they all go through that."
+        },
+        {
+          "character": "GUINAN",
+          "line": "Not in a species of listeners."
+        },
+        {
+          "character": "CRUSHER",
+          "line": "Did he grow out of it?"
+        },
+        {
+          "character": "GUINAN",
+          "line": "It took several hundred years but I managed to bring him around."
+        },
+        {
+          "character": "CRUSHER",
+          "line": "How?"
+        },
+        {
+          "character": "GUINAN",
+          "line": "A mother shapes her child in ways she doesn't even realize. Sometimes just by listening."
+        },
+        {
+          "character": "GUINAN",
+          "line": "Cute couple."
+        },
+        {
+          "character": "CRUSHER",
+          "line": "See? Now that is healthy for a boy his age. I mean that as a doctor, not as just a mother. It is so good to see him having fun for a change, with an attractive young woman who obviously looks at him with extraordinary affection. What do you know about this girl?"
+        }
+      ],
+      "location": "Ten forward"
+    }
+  ],
+  "schedule": {
+    "episode": 2,
+    "number": 50,
+    "season": 3
+  },
+  "stardate": "43125.8",
+  "title": "Evolution"
+}

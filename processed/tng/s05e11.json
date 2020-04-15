@@ -1,0 +1,1697 @@
+{
+  "airdate": 696488400,
+  "scenes": [
+    {
+      "dialogue": [
+        {
+          "character": "PICARD",
+          "line": "Captain's log, stardate 45397.3. Two days ago, Starbase five one four lost contact with the research vessel Vico, which was sent to explore the interior of a Black Cluster. We are en route to investigate.",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "unknown"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "FELTON",
+          "line": "Captain, we are entering sector nine seven."
+        },
+        {
+          "character": "DATA",
+          "line": "I am picking up massive gravitational fluctuations, sir."
+        },
+        {
+          "character": "PICARD",
+          "line": "Take us out of warp, Ensign."
+        },
+        {
+          "character": "FELTON",
+          "line": "Yes, sir."
+        },
+        {
+          "character": "WORF",
+          "line": "The Black Cluster is within visual range, Captain."
+        },
+        {
+          "character": "PICARD",
+          "line": "On screen."
+        },
+        {
+          "character": "WORF",
+          "line": "Aye, Captain."
+        },
+        {
+          "character": "RIKER",
+          "line": "Let's find that ship. Full sensor sweep, Mister Data."
+        },
+        {
+          "character": "DATA",
+          "line": "Aye, sir."
+        },
+        {
+          "character": "RIKER",
+          "line": "What a sight."
+        },
+        {
+          "character": "PICARD",
+          "line": "One of the most ancient formations in the galaxy."
+        },
+        {
+          "character": "DATA",
+          "line": "I have located the Vico, sir. The vessel appears to be adrift."
+        },
+        {
+          "character": "RIKER",
+          "line": "Let's see it. Life signs?"
+        },
+        {
+          "character": "WORF",
+          "line": "Nothing, Commander."
+        },
+        {
+          "character": "RIKER",
+          "line": "Damage report, Mister Data."
+        },
+        {
+          "character": "DATA",
+          "line": "Outer and inner hulls have been breached. Decks seven through twelve are exposed to space."
+        },
+        {
+          "character": "RIKER",
+          "line": "Set up a translink to their computer core. Let's see what happened."
+        },
+        {
+          "character": "DATA",
+          "line": "I cannot, sir. The emergency bulkheads on that deck are in place. Our linkup signal cannot penetrate them."
+        },
+        {
+          "character": "PICARD",
+          "line": "Structural status, Commander?"
+        },
+        {
+          "character": "DATA",
+          "line": "Stress readings indicate considerable pressure on the transverse supports."
+        },
+        {
+          "character": "PICARD",
+          "line": "Is it stable enough for an away team?"
+        },
+        {
+          "character": "DATA",
+          "line": "Yes, sir, but the risk of structural collapse is quite high."
+        },
+        {
+          "character": "PICARD",
+          "line": "Have transporter room one maintain a lock on each member of your away team. I want you out of there at the first sign of trouble."
+        },
+        {
+          "character": "RIKER",
+          "line": "Take us to fifteen thousand meters, Ensign."
+        },
+        {
+          "character": "FELTON",
+          "line": "Yes, sir."
+        },
+        {
+          "character": "RIKER",
+          "line": "Data, you're with me."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "DATA",
+          "line": "This station is inoperable, sir."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "This one seems to be stuck in a feedback loop."
+        },
+        {
+          "character": "RIKER",
+          "line": "Let's see if we can tap directly into the computer core."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "The ODN junction is right down here."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Data?"
+        },
+        {
+          "character": "DATA",
+          "line": "Core transfer is engaged."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Exchange protocol verified. The files are intact. At least some of them, anyway."
+        },
+        {
+          "character": "RIKER",
+          "line": "Stay here, Geordi. Data."
+        },
+        {
+          "character": "TIMOTHY",
+          "line": "Are my parents alright?"
+        },
+        {
+          "character": "PICARD",
+          "line": "Captain's log, supplemental. A young boy, shielded from our initial sensor scans, has been diskovered pinned beneath a fallen beam. The degree of damage to the Vico is making our rescue attempt difficult.",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "Vico"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "PICARD",
+          "line": "Transporter room one, can you lock on"
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "PICARD",
+          "line": "To him and transport directly to Sickbay?",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "HUTCHINSON",
+          "line": "I'll try, Captain, but there's a lot of shielding to pull him through."
+        }
+      ],
+      "location": "Transporter room"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "PICARD",
+          "line": "Acknowledged. Picard to Crusher."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "CRUSHER",
+          "line": "Sickbay here, Captain."
+        },
+        {
+          "character": "PICARD",
+          "line": "Prepare for emergency transport.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "CRUSHER",
+          "line": "Yes, sir."
+        }
+      ],
+      "location": "Sickbay"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "CRUSHER",
+          "line": "Crusher out.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "PICARD",
+          "line": "Picard to Commander Riker."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "PICARD",
+          "line": "Is the boy ready, Number One?",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "RIKER",
+          "line": "Ready, sir."
+        },
+        {
+          "character": "PICARD",
+          "line": "It's your signal.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "RIKER",
+          "line": "Aye, Captain. It's going to be okay. Here we go. Energize."
+        }
+      ],
+      "location": "Vico"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "PICARD",
+          "line": "Ensign, do we have him?",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "HUTCHINSON",
+          "line": "The lock is holding. I just can't resolve the matter stream, not with all that victurium alloy in the way."
+        }
+      ],
+      "location": "Transporter room"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "HUTCHINSON",
+          "line": "Commander Riker. You'll have to get him out into the corridor.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "DATA",
+          "line": "I could move the beam, sir. However, it may initiate the collapse of the surrounding supports. I recommend you and Geordi return to the ship."
+        },
+        {
+          "character": "RIKER",
+          "line": "Agreed. La Forge."
+        }
+      ],
+      "location": "Vico"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "HUTCHINSON",
+          "line": "I'm locked onto Commander Data and the boy, sir. I'll energize as soon as they've cleared the bulkheads."
+        },
+        {
+          "character": "RIKER",
+          "line": "Whenever you're ready, Data."
+        },
+        {
+          "character": "DATA",
+          "line": "Yes, sir.",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "Transporter room"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TIMOTHY",
+          "line": "Are you're going to lift that?"
+        },
+        {
+          "character": "DATA",
+          "line": "Yes. Then I will take you to the corridor. We will transport back to the Enterprise from there. Do you understand?"
+        },
+        {
+          "character": "TIMOTHY",
+          "line": "How come you can pick up something so heavy?"
+        },
+        {
+          "character": "DATA",
+          "line": "I am an android. My strength is many times that of a human. It is going to be okay. I will count to three. One two three."
+        },
+        {
+          "character": "DATA",
+          "line": "Energize."
+        },
+        {
+          "character": "PICARD",
+          "line": "Captain's log, supplemental. A thorough search of the Vico has revealed no additional survivors. We have begun the process of counseling the boy with regard to the tragedy.",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "Vico"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "CRUSHER",
+          "line": "Don't be afraid."
+        },
+        {
+          "character": "TIMOTHY",
+          "line": "We were in the Black Cluster. I don't know where they came from. They had a big ship and they kept shooting at us. Then they beamed over. They had purple helmets on and phaser rifles. I saw them. They didn't see me."
+        },
+        {
+          "character": "CRUSHER",
+          "line": "You're safe now, Timothy. I'm sorry for what happened. It's going to be all right. I bet you're hungry. Would you like me to get you something to eat?"
+        },
+        {
+          "character": "DATA",
+          "line": "Counselor, I must join Commander La Forge in Engineering. If you will excuse me."
+        },
+        {
+          "character": "TROI",
+          "line": "Timothy, would you like Data to stay with you a little bit longer?"
+        }
+      ],
+      "location": "Sickbay"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "LAFORGE",
+          "line": "Sections of the primary and secondary hull were torn right off. The shearing planes are here, here, and here."
+        },
+        {
+          "character": "PICARD",
+          "line": "How much longer till we can access their logs?"
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Almost an hour."
+        },
+        {
+          "character": "PICARD",
+          "line": "The boy was here."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "The hallway outside the computer core. His mother was the ship's systems engineer. The second away team found her body here inside the core."
+        },
+        {
+          "character": "PICARD",
+          "line": "And his father?"
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Ship's second officer. He was most likely on the bridge when it was exposed to space."
+        },
+        {
+          "character": "PICARD",
+          "line": "Most likely."
+        }
+      ],
+      "location": "Engineering"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "CRUSHER",
+          "line": "He'll sleep for a few hours at least. I don't need to keep him here but I will need to see him again tomorrow. You've got some work cut out for you."
+        },
+        {
+          "character": "TROI",
+          "line": "His world is gone, Data. We're going to have to help him build a new one."
+        }
+      ],
+      "location": "Sickbay"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "LAFORGE",
+          "line": "This is not good. Whatever hit the Vico must have set up an EM pulse that flashed through their computer banks."
+        },
+        {
+          "character": "DATA",
+          "line": "Nearly eighty three percent of their records have been lost."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "And all of their sensor logs. Let's use what we got from our own sensors. I'll call up the structural analysis and the surface scans."
+        },
+        {
+          "character": "DATA",
+          "line": "Geordi, as a child, did you ever experience a traumatic event?"
+        },
+        {
+          "character": "LAFORGE",
+          "line": "You're wondering about Timothy?"
+        },
+        {
+          "character": "DATA",
+          "line": "Yes."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "I was caught in a fire once. I must have been, I don't know, about five, I guess. It was before I got the first visor. And it was only a couple of minutes before my parents found me and pulled me out. And nobody got hurt, but I tell you that was the longest couple of minutes of my life. It was a while after that before I could even let my parents get out of earshot. It was like I absolutely needed to know that they were there, you know?"
+        },
+        {
+          "character": "DATA",
+          "line": "Timothy no longer has that kind of support."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Yeah."
+        }
+      ],
+      "location": "Engineering"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TEACHER",
+          "line": "Dara and her brother found themselves in the land of Tagas where the ruler, Elamos the Magnificent, had proclaimed as law. 'No children will be tolerated within the Great Kingdom'. When Dara saw the proclamation, she just laughed, and said, 'How magnificent a ruler, to be frightened by the likes of us.' Timothy, we're done with sculpture for now."
+        },
+        {
+          "character": "TIMOTHY",
+          "line": "It's not finished."
+        },
+        {
+          "character": "TEACHER",
+          "line": "We'll come back to it next period. Why don't you pick up your mythology book and follow along?"
+        },
+        {
+          "character": "TIMOTHY",
+          "line": "But it's not finished."
+        }
+      ],
+      "location": "Classroom"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "LAFORGE",
+          "line": "Magnetic residual analysis confirms that the Vico was attacked inside the Black Cluster. The graviton wave fronts pushed the ship to where we found it."
+        },
+        {
+          "character": "PICARD",
+          "line": "No signs of phaser burns on the hull."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "No, sir. Torsional stress levels point to a disrupter-style weapon."
+        },
+        {
+          "character": "DATA",
+          "line": "Fracture points indicate that the energy burst came from a range of less than three thousand meters."
+        },
+        {
+          "character": "PICARD",
+          "line": "But that's a strategy consistent with a cloaked vessel. Romulan. Or Klingon. But we're quite a distance from either of their territories."
+        },
+        {
+          "character": "DATA",
+          "line": "The Breen have outposts in this sector. The attack on the Vico is consistent with their battle tactics and their level of technology."
+        },
+        {
+          "character": "PICARD",
+          "line": "Thank you, Data. But what would the Breen be doing inside the Black Cluster? The boy described a boarding party with helmets and phaser rifles."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Boarding party? I don't think that's likely, sir."
+        },
+        {
+          "character": "PICARD",
+          "line": "Counselor."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "There was absolutely no evidence of anybody coming on board the Vico. We would have found a transporter field trace. Or if somebody had used the entry ports, we would have found an electrostatic differential in the docking latches, and we didn't. Could Timothy have imagined that, Counselor?"
+        },
+        {
+          "character": "PICARD",
+          "line": "Or could he be lying?"
+        },
+        {
+          "character": "TROI",
+          "line": "If he's lying, I haven't been able to sense it. Perhaps his emotional trauma level is too high."
+        },
+        {
+          "character": "PICARD",
+          "line": "Why wouldn't he tell us the truth?"
+        },
+        {
+          "character": "TROI",
+          "line": "He's still in shock. it's hard to know what's going on in his mind right now."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Well, I'll go back and check the sensor readings again but I don't think we're going to find anything."
+        },
+        {
+          "character": "PICARD",
+          "line": "Thank you, Geordi."
+        },
+        {
+          "character": "TROI",
+          "line": "Data. Captain, I think we should ask Data to spend some time with him."
+        },
+        {
+          "character": "DATA",
+          "line": "I do not understand."
+        },
+        {
+          "character": "TROI",
+          "line": "I'm very worried about his behavior and what I've just heard doesn't make me feel any better. Data, you're the only one he's reached out to, because you rescued him. We can use your relationship with him to help his recovery."
+        },
+        {
+          "character": "PICARD",
+          "line": "Would Timothy also be more inclined to tell Data the truth about what happened?"
+        },
+        {
+          "character": "TROI",
+          "line": "It's a possibility."
+        },
+        {
+          "character": "PICARD",
+          "line": "Commander, proceed with Timothy as the Counselor suggests."
+        },
+        {
+          "character": "DATA",
+          "line": "Aye, sir."
+        },
+        {
+          "character": "DATA",
+          "line": "Counselor, exactly how shall I proceed?"
+        },
+        {
+          "character": "TROI",
+          "line": "Just be with him. You're a presence he trusts, and that's what he needs most right now."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TIMOTHY",
+          "line": "What?"
+        },
+        {
+          "character": "TIMOTHY",
+          "line": "Data."
+        },
+        {
+          "character": "DATA",
+          "line": "Hello, Timothy. May I enter?"
+        },
+        {
+          "character": "TIMOTHY",
+          "line": "Yeah."
+        },
+        {
+          "character": "DATA",
+          "line": "Ah. You are attempting to recreate the Dokkaran temple of Kural Hanesh?"
+        },
+        {
+          "character": "TIMOTHY",
+          "line": "Isn't it great?! See, there's the big hallway the teacher told us about. That's where everybody came in. That's where they stood. And that's where the altar was. What do you think?"
+        },
+        {
+          "character": "DATA",
+          "line": "Do you wish a frank evaluation? It lacks the harmony that characterized this particular temple and Dokkaran culture in general."
+        },
+        {
+          "character": "TIMOTHY",
+          "line": "You hate it."
+        },
+        {
+          "character": "DATA",
+          "line": "No, I am not capable of hatred."
+        },
+        {
+          "character": "TIMOTHY",
+          "line": "I can't do anything right."
+        },
+        {
+          "character": "DATA",
+          "line": "You are making an unwarranted extrapolation. I was merely offering an esthetic analysis of this particular model. The base appears quite sturdy."
+        },
+        {
+          "character": "TIMOTHY",
+          "line": "I told you."
+        },
+        {
+          "character": "DATA",
+          "line": "May I suggest a different approach? You were attempting to construct the upper level before the supports were in place. Observe."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "La Forge to Data.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "DATA",
+          "line": "Data here."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "I need your help with the shield modulators.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "DATA",
+          "line": "I will join you in a moment, Geordi. Data out. Lieutenant La Forge requires my assistance."
+        },
+        {
+          "character": "TIMOTHY",
+          "line": "Incredible. Data, how come you can do that?"
+        },
+        {
+          "character": "DATA",
+          "line": "I am designed to exceed human capacity, both mentally and physically."
+        },
+        {
+          "character": "TIMOTHY",
+          "line": "Androids are better than humans?"
+        },
+        {
+          "character": "DATA",
+          "line": "Better is a highly subjective term. I do not, for example, possess the ability to experience emotion as humans do."
+        },
+        {
+          "character": "TIMOTHY",
+          "line": "No emotions? You mean you can't be happy or sad?"
+        },
+        {
+          "character": "DATA",
+          "line": "That is correct."
+        },
+        {
+          "character": "TIMOTHY",
+          "line": "Why not?"
+        },
+        {
+          "character": "DATA",
+          "line": "My positronic brain is not capable of generating those conditions. Goodbye."
+        }
+      ],
+      "location": "Timothy's quarters"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TIMOTHY",
+          "line": "Data! Can we build something else later?"
+        },
+        {
+          "character": "DATA",
+          "line": "That would be acceptable."
+        },
+        {
+          "character": "TIMOTHY",
+          "line": "Bye."
+        }
+      ],
+      "location": "Corridor"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TIMOTHY",
+          "line": "I am designed to exceed human capacity. tilts head) That is correct."
+        }
+      ],
+      "location": "Timothy's quarters"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "DATA",
+          "line": "The Black Cluster was formed almost nine billion years ago when hundreds of protostars collapsed in close proximity. The resulting gravitational forces are both violent and highly unpredictable."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "To get anywhere near the center, we're going to have to push through the gravitational wavefronts like the science vessel was designed to do. I've already adjusted our shields accordingly."
+        },
+        {
+          "character": "WORF",
+          "line": "The gravitational forces will affect sensor accuracy. Detecting an enemy vessel will be difficult."
+        },
+        {
+          "character": "RIKER",
+          "line": "Maybe that's what happened to the Vico. They didn't see anything coming until it was too late."
+        },
+        {
+          "character": "PICARD",
+          "line": "Counselor, has the boy volunteered any further information?"
+        },
+        {
+          "character": "TROI",
+          "line": "No, but I do have an appointment with him in less than half an hour."
+        },
+        {
+          "character": "PICARD",
+          "line": "If there's a possibility of getting more from him, I'd like you to pursue it. But we need to continue our investigation. We'll enter the Black Cluster at oh seven hundred hours tomorrow morning. Dismissed."
+        }
+      ],
+      "location": "Observation lounge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TROI",
+          "line": "Hello, Timothy. Are you ready to go?"
+        },
+        {
+          "character": "TIMOTHY",
+          "line": "Yes, Counselor. I am ready."
+        },
+        {
+          "character": "TROI",
+          "line": "How are you feeling?"
+        },
+        {
+          "character": "TIMOTHY",
+          "line": "I am functioning within established parameters."
+        },
+        {
+          "character": "TROI",
+          "line": "Established parameters? You sound like Data."
+        },
+        {
+          "character": "TIMOTHY",
+          "line": "I am an android."
+        },
+        {
+          "character": "TROI",
+          "line": "I see. Well, let's go for our walk, shall we?"
+        },
+        {
+          "character": "TIMOTHY",
+          "line": "That would be acceptable."
+        }
+      ],
+      "location": "Corridor"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TROI",
+          "line": "So, what would you like?"
+        },
+        {
+          "character": "TIMOTHY",
+          "line": "Androids do not need to eat or drink. However, sometimes we like to taste things. A Tamarin frost, please. Would you like anything, Counselor?"
+        },
+        {
+          "character": "TROI",
+          "line": "No, I'm fine, thank you."
+        },
+        {
+          "character": "TIMOTHY",
+          "line": "As you wish."
+        },
+        {
+          "character": "TROI",
+          "line": "So you're no longer a human?"
+        },
+        {
+          "character": "TIMOTHY",
+          "line": "I'm an android."
+        },
+        {
+          "character": "TROI",
+          "line": "When did this happen?"
+        },
+        {
+          "character": "TIMOTHY",
+          "line": "I've always been an android."
+        },
+        {
+          "character": "TROI",
+          "line": "What's it like being an android?"
+        },
+        {
+          "character": "TIMOTHY",
+          "line": "I am designed to exceed human capacity, both mentally and physically. But I do not experience emotions."
+        },
+        {
+          "character": "TROI",
+          "line": "You don't? No emotion at all?"
+        },
+        {
+          "character": "TIMOTHY",
+          "line": "That is correct."
+        }
+      ],
+      "location": "Ten Forward"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "PICARD",
+          "line": "An android?"
+        },
+        {
+          "character": "TROI",
+          "line": "I know it sounds unusual, but it is understandable. Technically, it's called enantiodromia. Conversion into the opposite. Timothy went from human to machine, from being emotional to being emotionless. But the underlying trauma is still there. He's just found a new way to suppress it."
+        },
+        {
+          "character": "PICARD",
+          "line": "Counselor, how long will this behavior last?"
+        },
+        {
+          "character": "TROI",
+          "line": "As long as he needs it to. Timothy is rebuilding his identity as best he can. The android persona is just one step along the way. As soon as he feels stronger and more sure of himself, it should drop away naturally."
+        },
+        {
+          "character": "PICARD",
+          "line": "I assume this is not a time to confront him about what happened to his ship."
+        },
+        {
+          "character": "TROI",
+          "line": "Not yet. The best thing we can do right now is to let Timothy take us where he wants to go. We should support the process and even encourage it."
+        },
+        {
+          "character": "PICARD",
+          "line": "Data, I would like you to make Timothy the best android he can possibly be."
+        }
+      ],
+      "location": "Ready room"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "DATA",
+          "line": "Timothy, your head movements are counterproductive. Can you be still?"
+        },
+        {
+          "character": "TIMOTHY",
+          "line": "But you do it."
+        },
+        {
+          "character": "DATA",
+          "line": "The servo mechanisms in my neck are designed to approximate human movements. I did not realize the effect was so distracting."
+        },
+        {
+          "character": "TIMOTHY",
+          "line": "I like it. Data, are there any other androids in Starfleet?"
+        },
+        {
+          "character": "DATA",
+          "line": "No. I am the only one."
+        },
+        {
+          "character": "TIMOTHY",
+          "line": "How come you're not Captain?"
+        },
+        {
+          "character": "DATA",
+          "line": "My service experience does not yet warrant such a position."
+        },
+        {
+          "character": "TIMOTHY",
+          "line": "Data, what's the scariest thing that ever happened to you?"
+        },
+        {
+          "character": "DATA",
+          "line": "Fear is a quality that I do not possess."
+        },
+        {
+          "character": "TIMOTHY",
+          "line": "Because it's an emotion?"
+        },
+        {
+          "character": "DATA",
+          "line": "Correct."
+        },
+        {
+          "character": "TIMOTHY",
+          "line": "But what if you had a nightmare?"
+        },
+        {
+          "character": "DATA",
+          "line": "I have never had a nightmare. I do not require sleep. Timothy, are you having disturbing dreams?"
+        },
+        {
+          "character": "TIMOTHY",
+          "line": "I do not require sleep."
+        },
+        {
+          "character": "DATA",
+          "line": "Is that satisfactory?"
+        },
+        {
+          "character": "TIMOTHY",
+          "line": "It's perfect."
+        }
+      ],
+      "location": "Timothy's quarters"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "CRUSHER",
+          "line": "Transfer circuits are functioning properly."
+        },
+        {
+          "character": "TIMOTHY",
+          "line": "Within established parameters?"
+        },
+        {
+          "character": "CRUSHER",
+          "line": "Absolutely. Input processing, pattern recognition, all within established parameters. DATA +"
+        },
+        {
+          "character": "TIMOTHY",
+          "line": "Thank you, Doctor."
+        }
+      ],
+      "location": "Sickbay"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TIMOTHY",
+          "line": "I ran out of red ochre."
+        },
+        {
+          "character": "DATA",
+          "line": "You may use mine."
+        },
+        {
+          "character": "TIMOTHY",
+          "line": "Thank you."
+        },
+        {
+          "character": "DATA",
+          "line": "Perhaps you should return to your quarters."
+        },
+        {
+          "character": "TIMOTHY",
+          "line": "I'm fine. The servo mechanisms in my mouth are designed to approximate human movements."
+        },
+        {
+          "character": "TIMOTHY",
+          "line": "That is not bad."
+        },
+        {
+          "character": "DATA",
+          "line": "Thank you. It is very expressive."
+        },
+        {
+          "character": "TIMOTHY",
+          "line": "Thank you."
+        },
+        {
+          "character": "DATA",
+          "line": "Is your painting representative of something?"
+        },
+        {
+          "character": "TIMOTHY",
+          "line": "It's just a painting."
+        },
+        {
+          "character": "DATA",
+          "line": "Timothy, you understand that you may speak with me about anything you wish? Any subject?"
+        },
+        {
+          "character": "TIMOTHY",
+          "line": "I understand."
+        },
+        {
+          "character": "DATA",
+          "line": "At times, I too find it difficult to share my thoughts with others. I am not always confident that I am expressing myself in a manner which humans can comprehend. But do I know that"
+        }
+      ],
+      "location": "Data's quarters"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "WORF",
+          "line": "We are approaching the perimeter. I'm picking up the gravitational wavefronts."
+        },
+        {
+          "character": "RIKER",
+          "line": "Engage forward shields thirty five percent."
+        },
+        {
+          "character": "WORF",
+          "line": "Shields up."
+        },
+        {
+          "character": "PICARD",
+          "line": "Drop to one quarter impulse, Ensign."
+        },
+        {
+          "character": "FELTON",
+          "line": "Yes, sir."
+        },
+        {
+          "character": "RIKER",
+          "line": "Bridge to Engineering."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "LAFORGE",
+          "line": "Adjusting shield frequencies now, Commander. We'll have this smoothed out in just a second."
+        }
+      ],
+      "location": "Engineering"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "RIKER",
+          "line": "Ensign, adjust course for any deviations."
+        },
+        {
+          "character": "FELTON",
+          "line": "Yes, sir."
+        },
+        {
+          "character": "RIKER",
+          "line": "Resume one third impulse."
+        },
+        {
+          "character": "WORF",
+          "line": "Captain, I am reading something at four hundred thousand kilometers off the starboard bow. Possibly a ship."
+        },
+        {
+          "character": "RIKER",
+          "line": "Red alert."
+        },
+        {
+          "character": "PICARD",
+          "line": "Take us to visual range, Ensign."
+        },
+        {
+          "character": "FELTON",
+          "line": "Adjusting course."
+        },
+        {
+          "character": "WORF",
+          "line": "Sensor readings have disappeared. Wait, I am picking up another reading at four hundred thousand kilometers off the port bow. It's gone. No, it is back to starboard."
+        },
+        {
+          "character": "RIKER",
+          "line": "Captain, the Black Cluster is distorting the sensors. We're picking up echoes of the Enterprise reflecting off the wavefronts."
+        },
+        {
+          "character": "PICARD",
+          "line": "Cancel Red alert. Mister Worf, adjust the sensors to compensate for the distortion."
+        },
+        {
+          "character": "WORF",
+          "line": "Aye."
+        },
+        {
+          "character": "PICARD",
+          "line": "Sensor difficulties have been reported by ships traveling through black clusters, but never this extreme."
+        },
+        {
+          "character": "WORF",
+          "line": "Captain, that formation is seven times more massive than any explored previously. That could explain the difference."
+        },
+        {
+          "character": "PICARD",
+          "line": "Resume previous course, Ensign."
+        },
+        {
+          "character": "FELTON",
+          "line": "Yes, sir."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "DATA",
+          "line": "He laughed."
+        },
+        {
+          "character": "TROI",
+          "line": "Yes. It's nice to see, isn't it?"
+        },
+        {
+          "character": "DATA",
+          "line": "It is certainly not consistent with his android persona."
+        },
+        {
+          "character": "TROI",
+          "line": "I'd say he's beginning the process of letting go of that fantasy."
+        },
+        {
+          "character": "DATA",
+          "line": "Then my work with him is done."
+        },
+        {
+          "character": "TROI",
+          "line": "No, I don't think it is, Data. A laugh is one step in the right direction. We need to help him take a few more steps."
+        },
+        {
+          "character": "DATA",
+          "line": "How, Counselor?"
+        },
+        {
+          "character": "TROI",
+          "line": "I'd like you to talk to him about your own fascination with humanity. If you can explain to Timothy the appeal that humanity has for you, he might find it easier to become a boy again."
+        }
+      ],
+      "location": "Classroom observation area"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TIMOTHY",
+          "line": "This is great. How is yours?"
+        },
+        {
+          "character": "DATA",
+          "line": "The complex polysaccharides, in reaction with the carbon dioxide, produces an unusual combination of texture and effervescence."
+        },
+        {
+          "character": "TIMOTHY",
+          "line": "But how does it taste? Is it good?"
+        },
+        {
+          "character": "DATA",
+          "line": "I am not capable of tasting in the manner you suggest. However, I can analyze the composition of a dessert and make comparative conclusions about its possible effect on the human palate. But I neither like it nor dislike it."
+        },
+        {
+          "character": "TIMOTHY",
+          "line": "Oh. I didn't realize that."
+        },
+        {
+          "character": "DATA",
+          "line": "I have often wondered what it must be like to have one's mouth water in anticipation of the arrival of a confection, or to feel the pleasure I have observed in humans as they consume it."
+        },
+        {
+          "character": "TIMOTHY",
+          "line": "You sound like you don't want to be an android."
+        },
+        {
+          "character": "DATA",
+          "line": "I am an android. That will never change."
+        },
+        {
+          "character": "TIMOTHY",
+          "line": "But if you could change, would you?"
+        },
+        {
+          "character": "DATA",
+          "line": "I have often wished to be human. I study people carefully in order to more closely approximate human behavior."
+        },
+        {
+          "character": "TIMOTHY",
+          "line": "Why? We're stronger and smarter than humans. We can do more than they can."
+        },
+        {
+          "character": "DATA",
+          "line": "But I cannot take pride in my abilities. I cannot take pleasure in my accomplishments."
+        },
+        {
+          "character": "TIMOTHY",
+          "line": "But we never have to feel bad, either."
+        },
+        {
+          "character": "DATA",
+          "line": "I would gladly risk feeling bad at times if it also meant that I could also taste my dessert."
+        }
+      ],
+      "location": "Ten Forward"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "WORF",
+          "line": "Captain, gravitational wavefront intensity is increasing steadily. Eleven hundred standard G units and rising."
+        },
+        {
+          "character": "PICARD",
+          "line": "Let's see if anyone's out there. Mister Worf, attempt a wide range sensor sweep."
+        },
+        {
+          "character": "WORF",
+          "line": "Aye, sir. Gravitational distortion is too great, Captain. The scanning signal is again being reflected off the wavefronts. I am unable to compensate. The sensors are useless."
+        },
+        {
+          "character": "PICARD",
+          "line": "Mister Data to the Bridge, please."
+        },
+        {
+          "character": "DATA",
+          "line": "Acknowledged.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "PICARD",
+          "line": "Adjust sensors to short range. Attempt a limited positron scan."
+        },
+        {
+          "character": "WORF",
+          "line": "The distortion is still in effect."
+        },
+        {
+          "character": "RIKER",
+          "line": "Better jacket the scanning beam."
+        },
+        {
+          "character": "WORF",
+          "line": "The secondary beam is being distorted as well."
+        },
+        {
+          "character": "PICARD",
+          "line": "Mister Data, our sensors have been rendered ineffective by the field distortion. I want your analysis. Mister Worf, fire phasers, maximum intensity, limited spectrum. Zero zero one mark zero four five."
+        },
+        {
+          "character": "RIKER",
+          "line": "An experiment, Captain?"
+        },
+        {
+          "character": "PICARD",
+          "line": "Exactly, Number One."
+        },
+        {
+          "character": "WORF",
+          "line": "Firing phasers."
+        },
+        {
+          "character": "PICARD",
+          "line": "Explanation, Mister Data."
+        },
+        {
+          "character": "DATA",
+          "line": "Phaser energy was reflected by the gravitational wavefronts. It is similar to the phenomenon distorting our sensor signals."
+        },
+        {
+          "character": "PICARD",
+          "line": "Phasers and sensors both useless? Mister Data, this reflection phenomenon, would it have the same effect on a disruptor-style weapon?"
+        },
+        {
+          "character": "DATA",
+          "line": "Yes, sir. Disruptors would be ineffectual."
+        },
+        {
+          "character": "PICARD",
+          "line": "And a ship's cloaking field?"
+        },
+        {
+          "character": "DATA",
+          "line": "It would be extremely difficult to maintain."
+        },
+        {
+          "character": "PICARD",
+          "line": "Mister Data, is it at all likely that the Vico could have been attacked inside the cluster?"
+        },
+        {
+          "character": "DATA",
+          "line": "Given the effects we have observed, the probability is exceedingly remote, sir."
+        },
+        {
+          "character": "PICARD",
+          "line": "Picard to Counselor Troi."
+        },
+        {
+          "character": "TROI",
+          "line": "Yes, Captain?",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "PICARD",
+          "line": "Counselor, will you bring Timothy to my Ready room?"
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "PICARD",
+          "line": "Timothy, can you tell us what happened to your ship?"
+        },
+        {
+          "character": "TIMOTHY",
+          "line": "I did tell you."
+        },
+        {
+          "character": "TROI",
+          "line": "Tell us again."
+        },
+        {
+          "character": "TIMOTHY",
+          "line": "We were attacked."
+        },
+        {
+          "character": "DATA",
+          "line": "That is highly unlikely. Our investigations have clearly demonstrated"
+        },
+        {
+          "character": "TIMOTHY",
+          "line": "We were attacked! We were attacked!"
+        },
+        {
+          "character": "DATA",
+          "line": "Timothy, androids do not lie."
+        },
+        {
+          "character": "TIMOTHY",
+          "line": "It was me."
+        },
+        {
+          "character": "DATA",
+          "line": "Please explain."
+        },
+        {
+          "character": "TIMOTHY",
+          "line": "It was me. I did it. I killed them all. Everything was shaking. I lost my balance. I was just trying to hold on to something. I didn't mean to do it."
+        },
+        {
+          "character": "PICARD",
+          "line": "What was it that didn't you mean to do, Timothy?"
+        },
+        {
+          "character": "TIMOTHY",
+          "line": "My arm hit the computer panel. That's what destroyed the ship."
+        },
+        {
+          "character": "TROI",
+          "line": "The ship was damaged when your arm hit the computer panel? Timothy, listen to me. The damage to your ship might have occurred at the same time your arm touched the panel, but it was only a coincidence. This wasn't your fault."
+        },
+        {
+          "character": "TIMOTHY",
+          "line": "Yes it was."
+        },
+        {
+          "character": "DATA",
+          "line": "It is not possible. The onboard control systems for every starship require a user code clearance. You could not have inadvertently affected any of the Vico's systems."
+        },
+        {
+          "character": "PICARD",
+          "line": "Your computer had safety precautions. There is nothing you could have touched that would have damaged your ship."
+        },
+        {
+          "character": "TROI",
+          "line": "You're not responsible for what happened to your parents, Timothy."
+        },
+        {
+          "character": "TIMOTHY",
+          "line": "But if it wasn't me"
+        },
+        {
+          "character": "PICARD",
+          "line": "We're trying to determine what happened right now, and if there is anything you can remember that may assist"
+        },
+        {
+          "character": "TIMOTHY",
+          "line": "That's just how it was when it started on the Vico."
+        }
+      ],
+      "location": "Ready room"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "WORF",
+          "line": "Wavefront intensity has increased."
+        },
+        {
+          "character": "RIKER",
+          "line": "Increase shields to seventy five percent."
+        },
+        {
+          "character": "WORF",
+          "line": "Aye, sir."
+        },
+        {
+          "character": "RIKER",
+          "line": "Damage, Mister Worf."
+        },
+        {
+          "character": "WORF",
+          "line": "Minimal, sir. Shields are holding."
+        },
+        {
+          "character": "PICARD",
+          "line": "Ensign, full about. Go to warp two."
+        },
+        {
+          "character": "FELTON",
+          "line": "The gravitational distortion is too high. We can't maintain a warp field."
+        },
+        {
+          "character": "PICARD",
+          "line": "Full shields."
+        },
+        {
+          "character": "WORF",
+          "line": "Aye."
+        },
+        {
+          "character": "FELTON",
+          "line": "Captain, impulse power has been disrupted. The helm won't respond."
+        },
+        {
+          "character": "TIMOTHY",
+          "line": "We couldn't get out either."
+        },
+        {
+          "character": "TROI",
+          "line": "Timothy, perhaps you and I should go below and get out of everyone's way."
+        },
+        {
+          "character": "TIMOTHY",
+          "line": "No."
+        },
+        {
+          "character": "RIKER",
+          "line": "Riker to La Forge. Can you give me more power to the shields?"
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Stand by.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "TIMOTHY",
+          "line": "That's what they kept saying. More shields, more shields."
+        },
+        {
+          "character": "DATA",
+          "line": "Timothy, accompany me, please. I want you to recall everything you heard people say aboard the Vico before it was destroyed."
+        },
+        {
+          "character": "TIMOTHY",
+          "line": "I don't know. Just that. Just more shields."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Captain, I've transferred",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "LAFORGE",
+          "line": "Fusion reactors four through nine into the shield array. That should double the shield strength."
+        }
+      ],
+      "location": "Engineering"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "WORF",
+          "line": "Wavefront intensity has increased by an order of magnitude. Impact in three, two, one."
+        },
+        {
+          "character": "WORF",
+          "line": "Wave front intensity is continuing to increase. Structural over-pressure now exceeding one hundred eighty percent."
+        },
+        {
+          "character": "PICARD",
+          "line": "La Forge?"
+        },
+        {
+          "character": "LAFORGE",
+          "line": "I don't understand. That should have been enough.",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "LAFORGE",
+          "line": "We could run the shield grid directly off the warp drive."
+        }
+      ],
+      "location": "Engineering"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "PICARD",
+          "line": "Go ahead, Commander."
+        },
+        {
+          "character": "WORF",
+          "line": "Initiating warp-transfer pathways now."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Diverting warp power to the shields.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "TIMOTHY",
+          "line": "Warp power to the shields. They said that too, Data. I'm positive."
+        },
+        {
+          "character": "WORF",
+          "line": "Wavefront intensity has increased by a factor of ten. Contact in thirty one seconds. Without additional power to the shields, the outer hull will not hold."
+        },
+        {
+          "character": "RIKER",
+          "line": "La Forge?"
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "LAFORGE",
+          "line": "Warp transfer to the shields complete."
+        }
+      ],
+      "location": "Engineering"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "LAFORGE",
+          "line": "That's as strong as they're going to get.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "WORF",
+          "line": "Impact in fifteen seconds."
+        },
+        {
+          "character": "DATA",
+          "line": "Sir, drop the shields."
+        },
+        {
+          "character": "RIKER",
+          "line": "That's suicide, Data."
+        },
+        {
+          "character": "DATA",
+          "line": "Captain, drop the shields."
+        },
+        {
+          "character": "PICARD",
+          "line": "Make it so."
+        },
+        {
+          "character": "WORF",
+          "line": "Aye."
+        },
+        {
+          "character": "DATA",
+          "line": "Our own shields caused the increases in the wavefronts, sir. We have been experiencing a harmonic amplification effect."
+        },
+        {
+          "character": "RIKER",
+          "line": "The more energy we dumped into the shield grid, the worse the impact."
+        },
+        {
+          "character": "DATA",
+          "line": "Precisely. That is also what destroyed the Vico. When Timothy remembered similar procedures on his ship, I initiated an analysis of shield output to wavefront amplitude and diskovered a correlation."
+        },
+        {
+          "character": "PICARD",
+          "line": "If we had transferred all that warp power to the shields, it would have torn the ship apart."
+        },
+        {
+          "character": "RIKER",
+          "line": "Status, Ensign?"
+        },
+        {
+          "character": "FELTON",
+          "line": "Navigation is coming back online."
+        },
+        {
+          "character": "PICARD",
+          "line": "Full about, one quarter impulse. Take us out of here."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TROI",
+          "line": "Timothy's a boy feeling a great deal of pain. But he is a boy again. Is this difficult for you, Data?"
+        },
+        {
+          "character": "DATA",
+          "line": "Difficult?"
+        },
+        {
+          "character": "TROI",
+          "line": "To watch him moving away from being like you."
+        },
+        {
+          "character": "DATA",
+          "line": "That would require an emotional context which I cannot provide."
+        }
+      ],
+      "location": "Classroom observation area"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TEACHER",
+          "line": "Okay, everybody, let's go. Come on."
+        },
+        {
+          "character": "DATA",
+          "line": "Hello, Timothy."
+        },
+        {
+          "character": "TIMOTHY",
+          "line": "Hi, Data. How are you?"
+        },
+        {
+          "character": "DATA",
+          "line": "I am operating within established parameters. How are you?"
+        },
+        {
+          "character": "TIMOTHY",
+          "line": "I miss my parents. But I'm okay. I guess you thought I was pretty silly when I had my hair like yours and everything."
+        },
+        {
+          "character": "DATA",
+          "line": "I have been told that imitation is the highest form of flattery."
+        },
+        {
+          "character": "TIMOTHY",
+          "line": "Can we still do things together, even if I'm not really an android?"
+        },
+        {
+          "character": "DATA",
+          "line": "I have many human friends. I would be pleased to count you among them."
+        },
+        {
+          "character": "TIMOTHY",
+          "line": "That would be acceptable."
+        }
+      ],
+      "location": "Classroom"
+    }
+  ],
+  "schedule": {
+    "episode": 11,
+    "number": 111,
+    "season": 5
+  },
+  "stardate": "45397.3",
+  "title": "Hero Worship"
+}

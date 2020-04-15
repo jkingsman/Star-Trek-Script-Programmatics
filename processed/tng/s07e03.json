@@ -1,0 +1,1962 @@
+{
+  "airdate": 749707200,
+  "scenes": [
+    {
+      "dialogue": [
+        {
+          "character": "RIKER",
+          "line": "Geordi, have you found it yet?",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Not yet. I'm starting to get some fumes. Ammonia, chlorine, potassium chloride."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "I can feel the heat from here."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "There it is."
+        },
+        {
+          "character": "RIKER",
+          "line": "How far?",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "LAFORGE",
+          "line": "About ten meters up the ODN line. Boy, it's hot. I'd say over two thousand degrees. I'm going in."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "We're okay. I've activated the emergency suppression system."
+        }
+      ],
+      "location": "Jefferies tube"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "CRUSHER",
+          "line": "All his vital functions are completely normal."
+        },
+        {
+          "character": "DATA",
+          "line": "The interface unit is operating within expected parameters."
+        },
+        {
+          "character": "RIKER",
+          "line": "Why did he start coughing when he went through the gasses?"
+        },
+        {
+          "character": "CRUSHER",
+          "line": "Psychosomatic response."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "I feel like I'm actually here. I mean there, in the Jefferies tube. It's funny. When I saw the smoke, I couldn't help but cough."
+        },
+        {
+          "character": "DATA",
+          "line": "No one else has reported so complete a sensory experience."
+        },
+        {
+          "character": "CRUSHER",
+          "line": "The interface is perfect for Geordi because his visor inputs allow the probe to transmit information directly into his cerebral cortex."
+        },
+        {
+          "character": "RIKER",
+          "line": "It looks like this is going to work. Geordi, I'd like to get the probe out of the Jefferies tube and onto the launch bay before we reach Marijne Seven."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Will do. Wait a minute."
+        }
+      ],
+      "location": "Laboratory"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "LAFORGE",
+          "line": "Something's wrong. Can't get my left leg to work."
+        }
+      ],
+      "location": "Jefferies tube"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "RIKER",
+          "line": "What is it?"
+        },
+        {
+          "character": "CRUSHER",
+          "line": "The probe is designed to respond to any movement Geordi intends to make. When his brain sends a message to move his leg, the interface should move the probe instead."
+        },
+        {
+          "character": "DATA",
+          "line": "Apparently the tactile sensors are too low. I will increase the input."
+        }
+      ],
+      "location": "Laboratory"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "LAFORGE",
+          "line": "There it goes. I'm on my way down."
+        }
+      ],
+      "location": "Jefferies tube"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "RIKER",
+          "line": "Why the body suit?"
+        },
+        {
+          "character": "DATA",
+          "line": "It provides tactile sensations so that Geordi can feel he's in the same environment as the probe."
+        },
+        {
+          "character": "CRUSHER",
+          "line": "Geordi, what's wrong?"
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Nothing. I'm seeing my reflection in a panel."
+        }
+      ],
+      "location": "Laboratory"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "LAFORGE",
+          "line": "I forgot what a handsome guy I am."
+        },
+        {
+          "character": "PICARD",
+          "line": "Captain's log, stardate 47215.5. We are responding to a distress call from the science vessel Raman, which is apparently trapped inside the turbulent atmosphere of an unusual gas giant planet. We will use an experimental interface probe in our attempt to rescue it.",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "Engineering"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "DATA",
+          "line": "I have reviewed the vessel's mission plans. The Raman was to descend to the lower atmosphere, eleven thousand kilometers below its current position. The crew was to sample the atmosphere at that level, and then return to a safer orbit."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Something must have happened down there. Maybe the shields failed, or they had some kind of inversion reaction in the nacelles."
+        },
+        {
+          "character": "PICARD",
+          "line": "Any life signs?"
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Our biosensors are useless. There's too much interference in the atmosphere."
+        },
+        {
+          "character": "RIKER",
+          "line": "The crew might still be alive. There's no way we can tell from up here."
+        },
+        {
+          "character": "PICARD",
+          "line": "Will the probe be able to transmit through that interference?"
+        },
+        {
+          "character": "DATA",
+          "line": "The probe sends information via a focused particle beam. It should be able to cut through the interference."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "But we may have to operate the probe at close to tolerance levels."
+        },
+        {
+          "character": "PICARD",
+          "line": "Will your nervous system be able to handle that much sensory input?"
+        },
+        {
+          "character": "LAFORGE",
+          "line": "We've already tested the interface at about seventy percent tolerance."
+        },
+        {
+          "character": "RIKER",
+          "line": "We shouldn't have any trouble going higher. The safety override will kick in at about ninety eight percent tolerance, and that'll disengage the interface."
+        },
+        {
+          "character": "WORF",
+          "line": "Captain, I am receiving a transmission from Starfleet Command. Admiral Holt."
+        },
+        {
+          "character": "PICARD",
+          "line": "In my ready room. The seven people on that ship are our first priority. Is the probe ready for launch?"
+        },
+        {
+          "character": "DATA",
+          "line": "Yes, sir."
+        },
+        {
+          "character": "PICARD",
+          "line": "Send it directly to the aft section of the Raman through the secondary air lock. That way it should put it just one bulkhead away from the Bridge."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "I'll interface with the probe as soon as it's ready, take it the rest of the way from there."
+        },
+        {
+          "character": "PICARD",
+          "line": "Make it so."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "PICARD",
+          "line": "Hello, Marcus."
+        },
+        {
+          "character": "HOLT",
+          "line": "Jean-Luc.",
+          "modifier": "screen"
+        },
+        {
+          "character": "PICARD",
+          "line": "How's life on DS Three?"
+        },
+        {
+          "character": "HOLT",
+          "line": "We're hosting this year's palio. The Ferengi have already been accused of trying to bribe the Breen pilot into throwing the race.",
+          "modifier": "screen"
+        },
+        {
+          "character": "PICARD",
+          "line": "There's nothing unusual about that."
+        },
+        {
+          "character": "HOLT",
+          "line": "Nothing at all. I wish I could say I was just calling to catch up on things. Nine days ago, the Hera left here on a routine courier mission. We were in contact with them for five of those days. Then the ship disappeared without a trace.",
+          "modifier": "screen"
+        },
+        {
+          "character": "PICARD",
+          "line": "The Hera?"
+        },
+        {
+          "character": "HOLT",
+          "line": "I'm afraid so. The Excelsior and the Noble have been retracing its course for the last seventy two hours. Nothing. I'm going to keep them at it for another seventy two. But to be honest, I don't think another week would make any difference.",
+          "modifier": "screen"
+        },
+        {
+          "character": "PICARD",
+          "line": "I'll inform Commander La Forge."
+        }
+      ],
+      "location": "Ready room"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "PICARD",
+          "line": "Mister Data, I'd like a word with Commander La Forge."
+        },
+        {
+          "character": "DATA",
+          "line": "Aye, sir. I will be on the Bridge."
+        },
+        {
+          "character": "PICARD",
+          "line": "Geordi, I've just spoken with Starfleet. The Hera is missing."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Missing? My mother?"
+        },
+        {
+          "character": "PICARD",
+          "line": "Captain La Forge has disappeared along with the rest of her crew."
+        }
+      ],
+      "location": "Laboratory"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "SILVA",
+          "line": "I saw your father last week and your sister about ten days before that. I decided I missed my favorite son.",
+          "modifier": "screen"
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Your only son, Ma."
+        },
+        {
+          "character": "SILVA",
+          "line": "You're going to have to see the Hera again. We've got a lot of new faces on board, including a Chief Engineer who juices up the nacelles every chance she gets. I think she's the best technician in the fleet. Okay, second best.",
+          "modifier": "screen"
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Come in."
+        },
+        {
+          "character": "RIKER",
+          "line": "I'm sorry, I didn't know you were"
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Don't worry about it."
+        },
+        {
+          "character": "SILVA",
+          "line": "Maybe you should meet her. We're going to be in the same sector next week. Take a shuttle over and I'll introduce you.",
+          "modifier": "screen"
+        },
+        {
+          "character": "LAFORGE",
+          "line": "My mother's always trying to find me a wife."
+        },
+        {
+          "character": "SILVA",
+          "line": "But if you're too busy, I'll see you at your father's birthday party. Remember, if you talk to him it's a surprise.",
+          "modifier": "screen"
+        },
+        {
+          "character": "LAFORGE",
+          "line": "This came in about three weeks ago. I never got back to her."
+        },
+        {
+          "character": "RIKER",
+          "line": "Geordi, the probe has entered the planet's atmosphere and I'm ready to take it onto the ship. If you would like to take a couple of days off, I'll run the interface."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "The interface is calibrated specifically to my visor's inputs. It would take you at least ten hours to convert it, and those crewmen down there can't wait."
+        },
+        {
+          "character": "RIKER",
+          "line": "The interface doesn't have to be fully compatible. I could run it right now. I wouldn't have the same control that you have, but it would still work."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Forget it. I'm the best person for the job, and there's no reason why we shouldn't proceed as planned."
+        },
+        {
+          "character": "RIKER",
+          "line": "The Hera is reason enough."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "The Hera is missing, that's all. Now until I hear something different, my mother might just as well have taken the crew on an unscheduled holiday. Let's go."
+        }
+      ],
+      "location": "La Forge's quarters"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "RIKER",
+          "line": "Captain, the probe is through the airlock and in position aboard the Raman."
+        },
+        {
+          "character": "PICARD",
+          "line": "Picard to Commander Data. Report."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "DATA",
+          "line": "We are ready to bring the interface online, sir."
+        },
+        {
+          "character": "PICARD",
+          "line": "Proceed.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "DATA",
+          "line": "Activating the remote sensors. Initiating interface now."
+        },
+        {
+          "character": "CRUSHER",
+          "line": "Vital signs normal. Geordi, how do you feel?"
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Fine."
+        },
+        {
+          "character": "DATA",
+          "line": "Do you have visual contact?"
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Not yet."
+        }
+      ],
+      "location": "Laboratory"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "LAFORGE",
+          "line": "Data, turn up the input sensors. I'm not seeing anything."
+        },
+        {
+          "character": "DATA",
+          "line": "Acknowledged.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Okay, I can see."
+        }
+      ],
+      "location": "Raman corridor"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "LAFORGE",
+          "line": "But no colors."
+        },
+        {
+          "character": "DATA",
+          "line": "Increasing signal strength to seventy five percent of tolerance."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Ah, that's better."
+        },
+        {
+          "character": "CRUSHER",
+          "line": "Your pulse has gone up. Your nervous system probably has to get used to the input levels."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "I'm excited, that's all, Doctor. This is like being on a roller coaster. Or a first date. I'm all right."
+        },
+        {
+          "character": "CRUSHER",
+          "line": "I'll be the judge of that. If your heart rate gets too high, we're going to diskonnect you."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Understood."
+        }
+      ],
+      "location": "Laboratory"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "LAFORGE",
+          "line": "It's a mess in here. There must be a breach in the hull someplace. I'm picking up atmospheric gasses in the corridor. Methane and ammonia, primarily. That break in the hull might even be on the Bridge itself. I'm heading towards the Bridge. I've found someone."
+        },
+        {
+          "character": "DATA",
+          "line": "What is your position?",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "LAFORGE",
+          "line": "About twelve meters up the main corridor. He's trapped under some conduit from the bulkhead. I can't move it. I'm going to need more power to the tractor beam."
+        },
+        {
+          "character": "CRUSHER",
+          "line": "Go to eighty percent of tolerance, Data. No higher.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "LAFORGE",
+          "line": "He's dead. Data, that door at the end of this corridor. What's it lead to?"
+        },
+        {
+          "character": "DATA",
+          "line": "A magnetic storage bay.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "LAFORGE",
+          "line": "If there was a break in the Bridge, that'd be the safest place to go. Data, give me a phaser burst. Narrow focus, level four intensity."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "I've found them. They're dead. All of them. There's a fire in here. Argh!"
+        }
+      ],
+      "location": "Raman corridor"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "CRUSHER",
+          "line": "Data, diskonnect! What happened? Geordi?"
+        },
+        {
+          "character": "LAFORGE",
+          "line": "I don't know. My hands."
+        },
+        {
+          "character": "CRUSHER",
+          "line": "They're burned."
+        }
+      ],
+      "location": "Laboratory"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "PICARD",
+          "line": "How did this happen?"
+        },
+        {
+          "character": "CRUSHER",
+          "line": "There was some kind of energy discharge in the interface suit."
+        },
+        {
+          "character": "PICARD",
+          "line": "But shouldn't the safety overrides have prevented that?"
+        },
+        {
+          "character": "CRUSHER",
+          "line": "Yes, but I have a theory why they didn't. The tolerance levels of the interface were set extremely high. I think Geordi's neural response to the input was so strong that it created a feedback loop."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "The sensors that were transmitting the sensation of heat to my hands must've overloaded."
+        },
+        {
+          "character": "PICARD",
+          "line": "The crew of the Raman are dead. I would like to retrieve them and their vessel, but not if it means putting Geordi's safety at risk."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "If we turn down the sensory input on the probe, I should be fine. Seven people lost their lives down there, Captain. We should at least retrieve the information they were collecting."
+        },
+        {
+          "character": "PICARD",
+          "line": "Doctor?"
+        },
+        {
+          "character": "CRUSHER",
+          "line": "If we operate the interface at lower input levels, I'd say the risk is acceptable."
+        },
+        {
+          "character": "PICARD",
+          "line": "Picard to Riker."
+        },
+        {
+          "character": "RIKER",
+          "line": "Riker here.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "PICARD",
+          "line": "We will proceed with the probe."
+        }
+      ],
+      "location": "Sickbay"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "RIKER",
+          "line": "We'll have to take it into the Raman's auxiliary control room. Their Bridge is too badly damaged."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "PICARD",
+          "line": "How long before you have it in position?"
+        },
+        {
+          "character": "RIKER",
+          "line": "A couple of hours. We have to cut through the bulkhead.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "PICARD",
+          "line": "Acknowledged."
+        },
+        {
+          "character": "CRUSHER",
+          "line": "Well, it looks like you'll have time to recuperate."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Yeah. There's something I've got to do anyway."
+        }
+      ],
+      "location": "Sickbay"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "LAFORGE",
+          "line": "How are you, Dad?"
+        },
+        {
+          "character": "DR LA FORGE",
+          "line": "As well as expected, under the circumstances. Are you okay?"
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Yeah."
+        },
+        {
+          "character": "DR LA FORGE",
+          "line": "I spoke with your sister this morning. She said she'll be in touch with you in a few days. Right now, she's pretty upset. The service for the Hera will probably be on Vulcan. Most of the crew was from there. But your sister and I want to have a private ceremony."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Dad. Don't you think everybody's jumping the gun here? Last I heard there were still two starships out there looking for them. They've found no debris, no residual warp distortion."
+        },
+        {
+          "character": "DR LA FORGE",
+          "line": "And no ship."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Not yet, but that doesn't mean they won't."
+        },
+        {
+          "character": "DR LA FORGE",
+          "line": "Starfleet is considering the Hera lost. The search isn't much more than a formality at this point. Geordi, your mother's gone."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Yeah, well you can think that if you want. But until I see some hard evidence, I'm not going to give up hope."
+        },
+        {
+          "character": "DR LA FORGE",
+          "line": "All right, Geordi. Call me if you need anything."
+        }
+      ],
+      "location": "La Forge's quarters"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "DATA",
+          "line": "Come in."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Hey, Data. Still working?"
+        },
+        {
+          "character": "DATA",
+          "line": "No. I have completed the adjustments on the interface. I am now waiting for Commander Riker to finish moving the probe. Do you need to be comforted?"
+        },
+        {
+          "character": "LAFORGE",
+          "line": "No. I was just passing by. I was wondering what you were up to."
+        },
+        {
+          "character": "DATA",
+          "line": "I am using the time to catch up on my study of poetry."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Data, there's nothing on the screen."
+        },
+        {
+          "character": "DATA",
+          "line": "That is not entirely correct. While it is true the display is currently blank, this emptiness has a poetic meaning. Therefore it cannot be considered nothing as such."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Says who?"
+        },
+        {
+          "character": "DATA",
+          "line": "The ancient Doosodarians. Much of their poetry contained such lacunae or empty spaces. Often these pauses measured several days in length, during which poet and audience were encouraged to fully acknowledge the emptiness of the experience."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "I remember a few lectures from Starfleet Academy that seemed like that."
+        },
+        {
+          "character": "DATA",
+          "line": "Are you certain you do not wish to talk about your mother?"
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Why would you ask that?"
+        },
+        {
+          "character": "DATA",
+          "line": "You are no doubt feeling emotional distress as a result of her disappearance. While you claim to be just passing by, that is most likely an excuse to start a conversation about this uncomfortable subject. Am I correct?"
+        },
+        {
+          "character": "LAFORGE",
+          "line": "No, Data. Sometimes just passing by means, just passing by."
+        },
+        {
+          "character": "DATA",
+          "line": "Then I apologize for my premature assumption. This particular poem has a lacuna of forty seven minutes. You may experience the emptiness with me if you wish."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Thanks. You know, Data, maybe you gave up a little too easily."
+        },
+        {
+          "character": "DATA",
+          "line": "I do not understand."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Well, when I said just passing by means just passing by, I really didn't mean it."
+        },
+        {
+          "character": "DATA",
+          "line": "My initial assumption was correct. You do wish to speak of your mother."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Am I crazy to think that she's still alive?"
+        },
+        {
+          "character": "DATA",
+          "line": "Your sanity is not in question. However, your evaluation of the available information is biased."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "She's a starship captain. She's gotten herself into and out of impossible situations before. Why should this be any different?"
+        },
+        {
+          "character": "DATA",
+          "line": "Disappearances fitting the profile of the Hera have rarely ended with the safe recovery of ship and crew."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Well that makes me feel much better. Look, I'm sorry, Data. I didn't mean to snap at you."
+        },
+        {
+          "character": "DATA",
+          "line": "I am not offended. You are upset. Your reactions are not surprising."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "It's just that, if she really is dead, I don't know what I'm going to do."
+        }
+      ],
+      "location": "Data's quarters"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "CRUSHER",
+          "line": "We're receiving the probe's telemetry."
+        },
+        {
+          "character": "DATA",
+          "line": "The input levels are currently at fifty three percent of tolerance."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "That's too low, Data. I won't be able to do anything down there."
+        },
+        {
+          "character": "CRUSHER",
+          "line": "I want to start with as wide a margin of safety as possible. We can adjust upward later. Ready?"
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Go ahead."
+        },
+        {
+          "character": "DATA",
+          "line": "Initiating interface."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "I can't see anything."
+        }
+      ],
+      "location": "Laboratory"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "DATA",
+          "line": "I am increasing the input now.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Yeah. Yeah, that's better, but I need more."
+        },
+        {
+          "character": "DATA",
+          "line": "Is this level sufficient? Geordi? Geordi, do you hear me?",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Mom? Mom, is it you?"
+        },
+        {
+          "character": "SILVA",
+          "line": "Is it you?"
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Oh, I forgot. All you can see is this probe. Yes, it's me. I'm actually on the Enterprise. I'm interfaced with this probe."
+        }
+      ],
+      "location": "Raman Auxiliary control"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "CRUSHER",
+          "line": "Geordi, who are you speaking to? What are you seeing?"
+        }
+      ],
+      "location": "Laboratory"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "LAFORGE",
+          "line": "But is it really you?"
+        },
+        {
+          "character": "SILVA",
+          "line": "Yes, Geordi. It's mom."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "But bow can that be? I mean, how is it possible?"
+        },
+        {
+          "character": "SILVA",
+          "line": "There's no time to explain. We have to go down."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Down where?"
+        },
+        {
+          "character": "SILVA",
+          "line": "The surface."
+        }
+      ],
+      "location": "Raman Auxiliary control"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "CRUSHER",
+          "line": "Geordi, report."
+        }
+      ],
+      "location": "Laboratory"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "LAFORGE",
+          "line": "Hang on, Doctor. Why? Why do we have to go down to the surface?"
+        },
+        {
+          "character": "SILVA",
+          "line": "We're dying."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "We? The Hera? You mean the Hera is down there?"
+        },
+        {
+          "character": "CRUSHER",
+          "line": "We're diskonnecting you right now.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "LAFORGE",
+          "line": "No, wait."
+        },
+        {
+          "character": "SILVA",
+          "line": "We need your help. I need your help. Geordi"
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Mom."
+        }
+      ],
+      "location": "Raman Auxiliary control"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "DATA",
+          "line": "The cut off has been automatically activated."
+        },
+        {
+          "character": "CRUSHER",
+          "line": "He's in neural shock."
+        }
+      ],
+      "location": "Laboratory"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "CRUSHER",
+          "line": "The sensory overload didn't cause any permanent damage, but I wouldn't want to expose his brain to that kind of stimulus again."
+        },
+        {
+          "character": "PICARD",
+          "line": "Is there any indication what caused this hallucination?"
+        },
+        {
+          "character": "CRUSHER",
+          "line": "His brain functions are normal."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "I told you, I wasn't hallucinating."
+        },
+        {
+          "character": "DATA",
+          "line": "Geordi, I have analyzed the probe's sensor logs. There are no record to indicate the presence of a living human on board the Raman."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Well she wasn't actually there. Her ship is down on the surface."
+        },
+        {
+          "character": "PICARD",
+          "line": "So you believe that what you saw was some kind of transmission?"
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Somehow she has managed to communicate with me."
+        },
+        {
+          "character": "DATA",
+          "line": "We have no indication of a transmission of any kind."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Maybe I'm the only one who can detect it because I'm interfaced with the probe."
+        },
+        {
+          "character": "DATA",
+          "line": "The probe does allow Geordi to sense quantum fluctuations, subspace anomalies, and other phenomenon not perceptible by any other kind of sensors."
+        },
+        {
+          "character": "PICARD",
+          "line": "Granted, but how could he perceive his mother visually as if she were standing there in the room?"
+        },
+        {
+          "character": "CRUSHER",
+          "line": "I'm not sure, I do know that our brains weren't designed to process the kind of sensory information Geordi was getting. When the brain receives something it can't understand, it interprets the input as best it can, sometimes as a smell or a sound, sometimes visually."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "You see?"
+        },
+        {
+          "character": "CRUSHER",
+          "line": "But Geordi, I'm not saying that your mother was really communicating with you. I'm just trying to give you a reason why you might've thought that she was."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Look, I'm telling you my mother's ship is trapped down there and we've got to help them."
+        },
+        {
+          "character": "PICARD",
+          "line": "Geordi, the Hera's last reported location was three hundred light years away. How could it end up here?"
+        },
+        {
+          "character": "DATA",
+          "line": "If the Hera is on the surface, its hull could not possibly withstand the pressure of the atmosphere."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Well at least let me go back down there just to be sure."
+        },
+        {
+          "character": "CRUSHER",
+          "line": "I do not recommend that he use the interface again. The sensory overload almost killed you."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "I'll be all right."
+        },
+        {
+          "character": "PICARD",
+          "line": "No, no, I'm sorry, Geordi. I'm not prepared to risk your life. Data, find another way of salvaging the Raman. I want an alternate plan in two hours."
+        },
+        {
+          "character": "PICARD",
+          "line": "Geordi, I'd like you to talk to Counselor Troi. She's expecting you."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Aye, sir."
+        }
+      ],
+      "location": "Sickbay"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TROI",
+          "line": "What's your mother like, Geordi?"
+        },
+        {
+          "character": "LAFORGE",
+          "line": "If you think I'm going to start talking about my childhood, Counselor, you're way off."
+        },
+        {
+          "character": "TROI",
+          "line": "That's not what I asked."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Well, she's, she's brilliant. Funny. She's incredibly perceptive. She knows people. Knows what they're all about even before they open their mouths. She's always been that way. She's a real good judge of character."
+        },
+        {
+          "character": "TROI",
+          "line": "When was the last time you saw her?"
+        },
+        {
+          "character": "LAFORGE",
+          "line": "About seven months ago, when she first took command of the Hera. I went to a party she had for her crew. She wanted me to come over and see her, but I was really busy at the time. I mean I suppose I could have made the time to go and see her, but, you know, I just didn't think that. I mean, you know, I, I didn't think that"
+        },
+        {
+          "character": "TROI",
+          "line": "You didn't think it would be your last chance to see her."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "That's not what I was going to say."
+        },
+        {
+          "character": "TROI",
+          "line": "I want to suggest something. Call it a theory, all right?"
+        },
+        {
+          "character": "LAFORGE",
+          "line": "All right."
+        },
+        {
+          "character": "TROI",
+          "line": "You're worried about the disappearance of your mother, guilty that you didn't see her when you had the chance, so you're unwilling to consider that she might be dead. Your need to believe she's alive is so strong that it manifests itself as a physical image."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "But she told me she's trapped on that planet, that she's in danger. Now, if this was some kind of wish fulfilllment, don't you think I'd be fantasizing her safe and sound?"
+        },
+        {
+          "character": "TROI",
+          "line": "No. Because that would be the end of your fantasy. You'd know it wasn't true. The more involved and complicated and unending your story is, the longer you can believe your mother's still alive."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Yeah, well, that's your theory, Counselor. I've got one of my own."
+        }
+      ],
+      "location": "Troi's office"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "DATA",
+          "line": "I have been exploring the possibility of using a tractor beam to pull the Raman from the atmosphere. However, the high level of interference prevents a positive lock."
+        },
+        {
+          "character": "RIKER",
+          "line": "If we set up some sort of relay system?"
+        },
+        {
+          "character": "DATA",
+          "line": "That is my conclusion as well, Commander. Two shuttlecraft, staggered between the Enterprise and the Raman, with their shields adjusted to refocus the tractor beam."
+        },
+        {
+          "character": "PICARD",
+          "line": "Can we get the shuttles close enough without danger? Mister La Forge."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Sure. Yeah. As long as we keep them both above the troposphere, that'll be all right."
+        },
+        {
+          "character": "PICARD",
+          "line": "Then in that case"
+        },
+        {
+          "character": "LAFORGE",
+          "line": "But what about the Hera? We'd be leaving my mother and her crew stranded on the planet."
+        },
+        {
+          "character": "PICARD",
+          "line": "Commander."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "I've been thinking about this. A couple of weeks ago I got a message from my mother. She said she had a new Chief Engineer who had been experimenting with the warp drive. Now, I've seen the Hera. It uses trionic initiators in the warp coil. They have a reputation of strange side effects, especially when you start playing around with them."
+        },
+        {
+          "character": "DATA",
+          "line": "There have been reports of warp bubbles and other subspace deformations."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "So, what if that's what happened? Not a warp bubble, but a subspace funnel."
+        },
+        {
+          "character": "RIKER",
+          "line": "Connecting two points through subspace?"
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Well the Hera could have accidentally created a distortion that emptied out right here at Marijne Seven."
+        },
+        {
+          "character": "PICARD",
+          "line": "Why here?"
+        },
+        {
+          "character": "LAFORGE",
+          "line": "The Hera passed near this planet just ten days ago. There's an awful lot of subspace disturbance in the atmosphere. The ship could've accidentally picked up some residual traces that directed the funnel right back here."
+        },
+        {
+          "character": "RIKER",
+          "line": "So the Hera's in one piece somewhere out there?"
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Maybe it's being surrounded by some kind of warp field, but who knows for how long?"
+        },
+        {
+          "character": "PICARD",
+          "line": "Mister La Forge, do you have any evidence to support this hypothesis?"
+        },
+        {
+          "character": "LAFORGE",
+          "line": "I did pick up some pretty strange subspace readings when I was interfaced with the probe."
+        },
+        {
+          "character": "RIKER",
+          "line": "Geordi, that could have been anything."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Yeah, but I talked to her, Commander. She asked me to bring the Raman closer to the planet."
+        },
+        {
+          "character": "PICARD",
+          "line": "Mister Data, is any of this possible?"
+        },
+        {
+          "character": "DATA",
+          "line": "Yes, sir. However, it is highly unlikely."
+        },
+        {
+          "character": "PICARD",
+          "line": "How unlikely?"
+        },
+        {
+          "character": "DATA",
+          "line": "Nearly impossible, sir."
+        },
+        {
+          "character": "PICARD",
+          "line": "let's proceed with the shuttle plan."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Captain"
+        },
+        {
+          "character": "PICARD",
+          "line": "Dismissed. Mister La Forge."
+        },
+        {
+          "character": "PICARD",
+          "line": "I want you to know that I am not unsympathetic to what you're going through. Your mother's disappearance is tragic, but I cannot risk your safety on the basis of a dubious hypothesis."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Captain, if I'm right and there's just one chance in a million that she's alive"
+        },
+        {
+          "character": "PICARD",
+          "line": "I'm sorry, Geordi. My decision is made."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "I understand, sir."
+        }
+      ],
+      "location": "Observation lounge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "RIKER",
+          "line": "We'll be in position to use the tractor beam in less than an hour."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "You didn't come all the way down here to tell me that."
+        },
+        {
+          "character": "RIKER",
+          "line": "No, I didn't. Geordi, I may have seemed a little harsh about the situation aboard the Raman. I just don't like the idea of one of my best officers putting himself in unnecessary danger."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "I guess I feel like I should be the one to decide whether it's unnecessary or not."
+        },
+        {
+          "character": "RIKER",
+          "line": "My mother died when I was a baby. All I have is pictures, and the stories that my father used to tell me about her. I begged him to tell those stories over and over. When I was five and I went to school, I started to tell my new friends those same stories, pretending that she was alive. Then I started believing that she was alive, that she'd just gone away, that she was coming back. The teacher got wind of this, and she and my father had this talk with me. They told me it was important to accept the fact that my mother was dead and that she wasn't coming back. And all the hoping in the world wouldn't make it so. In my mind, that was the day that my mother actually died. I cried all that night. But after that, it started feeling better."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Your mother was dead. There was proof. There was a body, and a funeral. It was a reality."
+        },
+        {
+          "character": "RIKER",
+          "line": "Geordi."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "If I could see a body, if there were wreckage, I could accept it, but my mother has just disappeared. And now, there's a possibility that she is alive. And I'm not going to quit. Not yet."
+        }
+      ],
+      "location": "Engineering"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "DATA",
+          "line": "I suspected you would attempt to operate the interface alone."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Did you?"
+        },
+        {
+          "character": "DATA",
+          "line": "I am familiar enough with your behavior patterns to predict certain decisions."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Well I guess you know me pretty well."
+        },
+        {
+          "character": "DATA",
+          "line": "You are disobeying the Captain."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "I can't just sit back and do nothing when I know that my mother might be down on that planet."
+        },
+        {
+          "character": "DATA",
+          "line": "I can not allow you to endanger your well-being."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Data, if I leave without knowing for sure, then I'll have to live with that for the rest of my life, wondering if I left her to die. I couldn't do that. That's why I've got to do this."
+        },
+        {
+          "character": "DATA",
+          "line": "I could have you confined to quarters for the duration of the mission."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "If that's what you need to do, Data, then do it. Because nothing short of that is going to stop me from trying to save my mother."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "What are you doing?"
+        },
+        {
+          "character": "DATA",
+          "line": "I will monitor the interface and attempt to keep you safe. I can not have you confined to quarters for something you have not yet done."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "You know we could both get in a lot of trouble for this."
+        },
+        {
+          "character": "DATA",
+          "line": "There is a high degree of probability that you are correct."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Thanks, Data."
+        },
+        {
+          "character": "DATA",
+          "line": "However, I do have a request."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Yeah? What's that?"
+        },
+        {
+          "character": "DATA",
+          "line": "I would ask you to consider the possibility that what you see is not real."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "I will. I promise."
+        },
+        {
+          "character": "DATA",
+          "line": "I am establishing the interface."
+        }
+      ],
+      "location": "Laboratory"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "LAFORGE",
+          "line": "Mom? Mom?"
+        },
+        {
+          "character": "SILVA",
+          "line": "Hello, Geordi."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Mom, how did you get here?"
+        },
+        {
+          "character": "SILVA",
+          "line": "I'm not really with you, Geordi. I'm on my ship, on the surface. We were pulled into a warp funnel."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "That's just what I thought. How are we communicating?"
+        },
+        {
+          "character": "SILVA",
+          "line": "We found a way to send a subspace signal that could cut through the atmospheric interference."
+        },
+        {
+          "character": "DATA",
+          "line": "Geordi, are you seeing the image of your mother?",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Yes, and she's just"
+        }
+      ],
+      "location": "Raman Auxiliary control"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "LAFORGE",
+          "line": "Confirmed everything I've been saying."
+        },
+        {
+          "character": "DATA",
+          "line": "I am reading unusual subspace energy in your vicinity, similar to what the probe sensor recorded the first time you encountered your mother."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "That's how she's communicating with me. It's the only kind of signal they could send that could cut through the interference."
+        }
+      ],
+      "location": "Laboratory"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "SILVA",
+          "line": "We need your help."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "I've been thinking about this. I'm going to take the Raman into a low stationary orbit and initiate an inverse warp cascade."
+        },
+        {
+          "character": "SILVA",
+          "line": "Why?"
+        },
+        {
+          "character": "LAFORGE",
+          "line": "The subspace distortion from the cascade should reverse the warp funnel. Your ship will end up right back where it started."
+        }
+      ],
+      "location": "Raman Auxiliary control"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "DATA",
+          "line": "Geordi, the atmosphere becomes increasingly turbulent the farther down you go. You may not be able to bring the Raman close enough to the Hera before being destroyed."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "I have to try, Data."
+        }
+      ],
+      "location": "Laboratory"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "SILVA",
+          "line": "We're running out of time."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Shields back online. We're starting our descent. Thank God."
+        },
+        {
+          "character": "SILVA",
+          "line": "Thank God?"
+        },
+        {
+          "character": "LAFORGE",
+          "line": "That you're alive. That I was right about all of this. I can't wait to call Dad. He and Ariana had given up."
+        },
+        {
+          "character": "SILVA",
+          "line": "We're going home."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Well, eventually, yeah. Data, everything's fading in and out."
+        }
+      ],
+      "location": "Raman Auxiliary control"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "LAFORGE",
+          "line": "I'm losing the interface."
+        },
+        {
+          "character": "DATA",
+          "line": "The probe is descending out of range."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "You'll have to turn up the input gain to maintain my connection."
+        },
+        {
+          "character": "DATA",
+          "line": "We are already at seventy five percent of tolerance."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Data, you can turn it all the way up to a hundred if you increase it slowly enough. Give my nervous system chance to adjust."
+        },
+        {
+          "character": "DATA",
+          "line": "That is theoretically true, but even at this level of input you are already experiencing dangerous neural feedback."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "There are over three hundred people on board the Hera, Data. You and I are the only chance they've got."
+        },
+        {
+          "character": "DATA",
+          "line": "I will increase the gain incrementally as you descend."
+        }
+      ],
+      "location": "Laboratory"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "LAFORGE",
+          "line": "It's working."
+        }
+      ],
+      "location": "Raman Auxiliary control"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "DATA",
+          "line": "When we are ready to diskonnect the interface, we must allow enough time to lower the input levels, otherwise your nervous system will go into shock from the sudden drop in input."
+        }
+      ],
+      "location": "Laboratory"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "LAFORGE",
+          "line": "Once I initiate the warp cascade we can start dropping the gain."
+        },
+        {
+          "character": "DATA",
+          "line": "Understood.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "LAFORGE",
+          "line": "We'll be in sensor range of the Hera within a few minutes. Mom, I'm really sorry I didn't by to see you a few weeks ago."
+        },
+        {
+          "character": "SILVA",
+          "line": "You were too busy with work."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Yeah, well, I'm sorry. It won't happen again."
+        }
+      ],
+      "location": "Raman Auxiliary control"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "WORF",
+          "line": "Captain, the Raman is descending toward the planet."
+        },
+        {
+          "character": "RIKER",
+          "line": "Geordi."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "DATA",
+          "line": "We are at ninety percent of tolerance. My calculations show you will reach one hundred percent of tolerance before you are in range of the Hera."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Then we're going to have to go beyond tolerance."
+        },
+        {
+          "character": "DATA",
+          "line": "That would not be advisable. You must cease your descent."
+        }
+      ],
+      "location": "Laboratory"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "SILVA",
+          "line": "No, Geordi, don't, please."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Data, I'm taking this ship down. Now, if you don't boost the gain past tolerance levels, I'll lose the interface when we go out of range and my system will go into shock."
+        }
+      ],
+      "location": "Raman Auxiliary control"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "DATA",
+          "line": "Geordi, you are putting me in a difficult position. Please, cease your descent."
+        }
+      ],
+      "location": "Laboratory"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "LAFORGE",
+          "line": "I won't do it, Data. You're going to have to increase the tolerance."
+        }
+      ],
+      "location": "Raman Auxiliary control"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "DATA",
+          "line": "Disengaging safety systems. Going to full tolerance levels, now."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Thank you, Data."
+        }
+      ],
+      "location": "Laboratory"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "LAFORGE",
+          "line": "We're getting close."
+        },
+        {
+          "character": "SILVA",
+          "line": "Thank God."
+        },
+        {
+          "character": "PICARD",
+          "line": "Commander La Forge.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Yes, Captain?"
+        }
+      ],
+      "location": "Auxiliary control"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "PICARD",
+          "line": "Stop your descent. Prepare to disengage the interface."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Sorry, Captain, but I can't do that."
+        },
+        {
+          "character": "PICARD",
+          "line": "Damn it, Geordi, you're going to kill yourself."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "If I come back now, my mother and her entire crew will die."
+        }
+      ],
+      "location": "Laboratory"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "LAFORGE",
+          "line": "I'm scanning for your ship. I'm not getting anything."
+        },
+        {
+          "character": "SILVA",
+          "line": "We're still too far away."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "No, not really. I should be picking something up by now. I'm not finding anything. There's no warp funnel, no ship. There's nothing there."
+        }
+      ],
+      "location": "Raman Auxiliary control"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "PICARD",
+          "line": "Doctor, report."
+        },
+        {
+          "character": "CRUSHER",
+          "line": "His neural synapses are overloading. He can't survive this."
+        },
+        {
+          "character": "PICARD",
+          "line": "Geordi, what's happening to you?"
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Reverse tractor beam."
+        }
+      ],
+      "location": "Laboratory"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "DATA",
+          "line": "Reversing tractor beam.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "LAFORGE",
+          "line": "What are you?"
+        },
+        {
+          "character": "SILVA",
+          "line": "You're killing us. We must go down."
+        },
+        {
+          "character": "PICARD",
+          "line": "Geordi?",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "Raman Auxiliary control"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "PICARD",
+          "line": "What's happening? Report."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "You're, you're trapped?"
+        },
+        {
+          "character": "PICARD",
+          "line": "Is there any way that we can diskonnect him?"
+        },
+        {
+          "character": "CRUSHER",
+          "line": "If we take him off too abruptly, he'll go into neural shock."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Caught on the ship?"
+        },
+        {
+          "character": "PICARD",
+          "line": "Reduce the input gradually, and still get him out before it's too late."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Are you saying that you killed the Raman's crew?"
+        },
+        {
+          "character": "DATA",
+          "line": "Perhaps we could deceive his neural receptors."
+        },
+        {
+          "character": "PICARD",
+          "line": "Deceive them?"
+        },
+        {
+          "character": "DATA",
+          "line": "By feeding them the sensory information recorded from his earlier experiences with the probe."
+        },
+        {
+          "character": "CRUSHER",
+          "line": "We could diskonnect the interface and still maintain the input levels."
+        },
+        {
+          "character": "DATA",
+          "line": "We could then lower them in a controlled manner."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "What do you want?"
+        },
+        {
+          "character": "PICARD",
+          "line": "Like a decompression tank? Let's try it."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Then, it was an accident? Captain, I have to take the ship into the lower atmosphere."
+        },
+        {
+          "character": "PICARD",
+          "line": "Explain."
+        }
+      ],
+      "location": "Laboratory"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "LAFORGE",
+          "line": "As I understand it, when the Raman got close to the planet it accidentally picked up some lifeforms that live in the lower atmosphere."
+        }
+      ],
+      "location": "Raman Auxiliary control"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "LAFORGE",
+          "line": "Subspace beings of some kind. Intelligent. When the ship went back into a higher orbit, the beings were trapped."
+        },
+        {
+          "character": "PICARD",
+          "line": "How do you know all this?"
+        },
+        {
+          "character": "LAFORGE",
+          "line": "One of them can communicate with me."
+        }
+      ],
+      "location": "Laboratory"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "LAFORGE",
+          "line": "It must have read my thoughts through the probe interface and took the form of my mother to try to talk me into taking the ship closer to the surface."
+        },
+        {
+          "character": "PICARD",
+          "line": "Are these beings",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "Raman Auxiliary control"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "PICARD",
+          "line": "Responsible for the death of the Raman's crew?"
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Yes, but I don't think it was on purpose. They probably tried communicating with them the same way they're communicating with me, by directly accessing their thoughts. It must've been fatal to the crew. I guess the interface is what protected me."
+        }
+      ],
+      "location": "Laboratory"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "LAFORGE",
+          "line": "I have to take them back, Captain. They can't survive so far up in the atmosphere. I'll turn the ship around and come back as soon as I'm"
+        }
+      ],
+      "location": "Raman Auxiliary control"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "PICARD",
+          "line": "Geordi, what's happening?"
+        },
+        {
+          "character": "LAFORGE",
+          "line": "The atmosphere is getting more turbulent. It's overloading the systems."
+        }
+      ],
+      "location": "Laboratory"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "LAFORGE",
+          "line": "I'm having difficulty keeping the shields up."
+        },
+        {
+          "character": "SILVA",
+          "line": "Geordi. We're safe now. Goodbye."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "I'm losing power."
+        }
+      ],
+      "location": "Raman Auxiliary control"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "LAFORGE",
+          "line": "Total shield failure in eight seconds."
+        },
+        {
+          "character": "PICARD",
+          "line": "Can we switch the input?"
+        },
+        {
+          "character": "CRUSHER",
+          "line": "Almost."
+        }
+      ],
+      "location": "Laboratory"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "LAFORGE",
+          "line": "Shields are failing!"
+        }
+      ],
+      "location": "Raman Auxiliary control"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "CRUSHER",
+          "line": "Switching inputs."
+        },
+        {
+          "character": "PICARD",
+          "line": "Is it working?"
+        },
+        {
+          "character": "CRUSHER",
+          "line": "His vital signs are stabilizing. He's going to make it."
+        },
+        {
+          "character": "PICARD",
+          "line": "Captain's log, supplemental. We have succeeded in disengaging Mister La Forge from the interface and are en route to Starbase four nine five.",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "Laboratory"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "PICARD",
+          "line": "You disobeyed my direct order. You put yourself in grave danger. I am not happy."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Yes, sir. I take complete responsibility. Data was only"
+        },
+        {
+          "character": "PICARD",
+          "line": "I will deal with Mister Data at another time. Meanwhile, I will have to write this incident into your permanent record."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Yes, sir."
+        },
+        {
+          "character": "PICARD",
+          "line": "Dismissed. Geordi? I'm very sorry that you didn't find your mother."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Thank you, sir. You know, it was funny. When I was down there, it was so real. I felt like I had a chance to say goodbye."
+        }
+      ],
+      "location": "Ready room"
+    }
+  ],
+  "schedule": {
+    "episode": 3,
+    "number": 155,
+    "season": 7
+  },
+  "stardate": "47215.5",
+  "title": "Interface"
+}

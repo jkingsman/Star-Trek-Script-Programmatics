@@ -1,0 +1,1884 @@
+{
+  "airdate": 606373200,
+  "scenes": [
+    {
+      "dialogue": [
+        {
+          "character": "PICARD",
+          "line": "Captain's log, stardate 42609.1. In response to a desperate plea for aid by my old friend, Captain Donald Varley of the USS Yamato, I am running a grave risk by taking the Enterprise into the Neutral Zone. Varley's request was prompted by dangerous malfunctions which have been plaguing our sister ship. Perhaps with both crews working together we can able to eliminate the problems before our presence is detected by the Romulans.",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "unknown"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "PICARD",
+          "line": "How long to rendezvous, Mister Crusher?"
+        },
+        {
+          "character": "WESLEY",
+          "line": "Four minutes and thirty three seconds, sir."
+        },
+        {
+          "character": "PICARD",
+          "line": "Status of download, Mister Data?"
+        },
+        {
+          "character": "DATA",
+          "line": "The Yamato log should be in our computer by rendezvous, sir."
+        },
+        {
+          "character": "RIKER",
+          "line": "Have you nailed down our little hiccup yet?"
+        },
+        {
+          "character": "DATA",
+          "line": "Sir?"
+        },
+        {
+          "character": "RIKER",
+          "line": "The odd reading?"
+        },
+        {
+          "character": "DATA",
+          "line": "No, sir. It might be due to problems currently being experienced by the Yamato."
+        },
+        {
+          "character": "PICARD",
+          "line": "Trouble, Number One?"
+        },
+        {
+          "character": "RIKER",
+          "line": "I'm not sure, sir. Are we alone out here, Worf?"
+        },
+        {
+          "character": "WORF",
+          "line": "Yes, sir. There are no other vessels in the area except the Yamato, which is coming into visual range now."
+        },
+        {
+          "character": "PICARD",
+          "line": "At last."
+        },
+        {
+          "character": "WORF",
+          "line": "Transmission from the Yamato, sir."
+        },
+        {
+          "character": "PICARD",
+          "line": "On viewer."
+        },
+        {
+          "character": "PICARD",
+          "line": "Donald, what's a nice Starfleet Captain like you doing in a place like this?"
+        },
+        {
+          "character": "VARLEY",
+          "line": "It's good to see you again, Jean-Luc, despite your antique humor. I only hope your people are able to help us. Malfunctions are becoming serious. We lost an engineering team when the computer shut down a forcefield in an open shuttlebay. Eighteen people.",
+          "modifier": "screen"
+        },
+        {
+          "character": "RIKER",
+          "line": "Do you have any idea what caused this, sir?"
+        },
+        {
+          "character": "VARLEY",
+          "line": "None. They are affecting every system simultaneously. It's like the ship has suddenly decided to fall apart. It's beginning to make me think we should have run these Galaxy Class ships across a few more drawing boards before we built one.",
+          "modifier": "screen"
+        },
+        {
+          "character": "PICARD",
+          "line": "You believe it's a design flaw?"
+        },
+        {
+          "character": "VARLEY",
+          "line": "I don't know. I'm grasping at straws here. All I know is we've got to get it fixed, and before I lose more than an engineering team.",
+          "modifier": "screen"
+        },
+        {
+          "character": "RIKER",
+          "line": "Do you wish to evacuate any non-essential personnel to the Enterprise, sir?"
+        },
+        {
+          "character": "VARLEY",
+          "line": "No. No, that would be premature.",
+          "modifier": "screen"
+        },
+        {
+          "character": "PICARD",
+          "line": "Donald, we'll get our teams to work on it immediately. I'm sure neither of us feels too comfortable sitting around in the Neutral Zone."
+        },
+        {
+          "character": "VARLEY",
+          "line": "I know what you're thinking, what the hell am I doing here? Well, I had heard rumors about a couple of archeological digs that started making the Iconians sound a lot less like legend. I did a little investigating, and I located their homeworld.",
+          "modifier": "screen"
+        },
+        {
+          "character": "PICARD",
+          "line": "In the Neutral Zone?"
+        },
+        {
+          "character": "VARLEY",
+          "line": "In the Neutral Zone.",
+          "modifier": "screen"
+        },
+        {
+          "character": "PICARD",
+          "line": "Donald, that was quite a risk to run to satisfy archeological curiosity."
+        },
+        {
+          "character": "VARLEY",
+          "line": "The risk would be in allowing the Romulans to locate Iconia. Fortunately, I got there first. It's a virtually dead planet, but enough technology remains to give the Romulans an edge if they should find it.",
+          "modifier": "screen"
+        },
+        {
+          "character": "PICARD",
+          "line": "Donald, your transmission is breaking up. Mister Data, try and clean that up."
+        },
+        {
+          "character": "WORF",
+          "line": "Sir, there is an energy build-up in the Yamato's Engineering section."
+        },
+        {
+          "character": "PICARD",
+          "line": "Yamato, this is the Enterprise. Yamato, come in."
+        },
+        {
+          "character": "WORF",
+          "line": "Captain, magnetic seals in the antimatter chamber are decaying!"
+        },
+        {
+          "character": "PICARD",
+          "line": "Captain! Donald, come in!"
+        },
+        {
+          "character": "PICARD",
+          "line": "Shields up."
+        },
+        {
+          "character": "WORF",
+          "line": "Sir!"
+        },
+        {
+          "character": "DATA",
+          "line": "Sensors indicate no life readings, sir."
+        },
+        {
+          "character": "WORF",
+          "line": "Captain. Another vessel is coming within sensor range. It is Romulan."
+        },
+        {
+          "character": "PICARD",
+          "line": "Captain's log, supplemental. The Yamato's entire crew and their families, more than a thousand people, have been lost. Circumstances unfortunately permit us no pause for grief.",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "WORF",
+          "line": "No response from the Romulan vessel."
+        },
+        {
+          "character": "RIKER",
+          "line": "Arm phasers and prepare to lock on target."
+        },
+        {
+          "character": "PICARD",
+          "line": "Did they attack the Yamato?"
+        },
+        {
+          "character": "DATA",
+          "line": "Unknown, sir."
+        },
+        {
+          "character": "WORF",
+          "line": "All their weapons systems have been fully activated. Still no response."
+        },
+        {
+          "character": "PICARD",
+          "line": "Romulan vessel, this is Captain Jean-Luc Picard of the USS Enterprise."
+        },
+        {
+          "character": "TARIS",
+          "line": "Captain Picard.",
+          "modifier": "screen"
+        },
+        {
+          "character": "PICARD",
+          "line": "Explain your illegal presence in the Neutral Zone."
+        },
+        {
+          "character": "TARIS",
+          "line": "Explain yours.",
+          "modifier": "screen"
+        },
+        {
+          "character": "PICARD",
+          "line": "Are you responsible for the destruction of the Yamato?"
+        },
+        {
+          "character": "TARIS",
+          "line": "No. But believe me, Captain, had we chosen to exercise our right to defend the Neutral Zone, we would not have stopped with one starship. You will leave at once.",
+          "modifier": "screen"
+        },
+        {
+          "character": "WORF",
+          "line": "Mute."
+        },
+        {
+          "character": "PICARD",
+          "line": "Comments."
+        },
+        {
+          "character": "TROI",
+          "line": "She's extremely anxious."
+        },
+        {
+          "character": "WORF",
+          "line": "Understandable if she just destroyed a Federation starship."
+        },
+        {
+          "character": "RIKER",
+          "line": "Your scan was inconclusive. We don't know what happened to the Yamato."
+        },
+        {
+          "character": "TROI",
+          "line": "Our presence in the Neutral Zone is provocative. It could force her to respond."
+        },
+        {
+          "character": "WORF",
+          "line": "Open."
+        },
+        {
+          "character": "PICARD",
+          "line": "We will comply when I have determined the cause of the destruction of the Yamato, and when I am fully satisfied that you were not responsible. Picard out."
+        },
+        {
+          "character": "WORF",
+          "line": "They are engaging their cloaking device."
+        },
+        {
+          "character": "RIKER",
+          "line": "Good. They can't fire when they're cloaked."
+        },
+        {
+          "character": "WORF",
+          "line": "Unless they have overcome that deficiency. The Yamato was destroyed while they were cloaked."
+        },
+        {
+          "character": "PICARD",
+          "line": "Enough. Answers. I want answers, not conjecture. Number One, I want them at a staff meeting in one hour."
+        },
+        {
+          "character": "RIKER",
+          "line": "Aye, sir."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "LAFORGE",
+          "line": "Sensor recordings reveal that what we witnessed was an uncontrolled and catastrophic matter-antimatter mix. The magnetic seals between the chambers collapsed and"
+        },
+        {
+          "character": "PICARD",
+          "line": "Wait. Wait. That's not possible."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Yes, sir, it is, but a highly improbable series of events has to take place for such a result to occur."
+        },
+        {
+          "character": "PICARD",
+          "line": "Explain."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Okay. In the event of a breach of seal integrity there's an emergency release system which dumps the antimatter."
+        },
+        {
+          "character": "DATA",
+          "line": "Apparently such a dump began, was then halted, and the containment seals were dropped. There was still sufficient antimatter present to lead to an explosion."
+        },
+        {
+          "character": "PICARD",
+          "line": "And so there is no evidence that a weapon was used?"
+        },
+        {
+          "character": "DATA",
+          "line": "No, sir. None."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "However it happened, the Yamato did it to herself."
+        },
+        {
+          "character": "PICARD",
+          "line": "Theorize. What could have caused such a catastrophic malfunction?"
+        },
+        {
+          "character": "LAFORGE",
+          "line": "I think Captain Varley may have been right. There may be a design flaw."
+        },
+        {
+          "character": "RIKER",
+          "line": "In a Galaxy Class starship?"
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Yes, sir. It's the most sophisticated piece of machinery ever built. Something could have been overlooked."
+        },
+        {
+          "character": "PICARD",
+          "line": "Knowing where the flaw is located, can you isolate the problem and solve it?"
+        },
+        {
+          "character": "LAFORGE",
+          "line": "We're already working on it, sir."
+        },
+        {
+          "character": "PICARD",
+          "line": "Pull any personnel you can use."
+        },
+        {
+          "character": "TROI",
+          "line": "If we have established that the Romulans were not responsible for the destruction of the Yamato, would it not be prudent to withdraw?"
+        },
+        {
+          "character": "PICARD",
+          "line": "If it is a design flaw, we're better to stay where we are and give Geordi time to work on it. Or what happened to the Yamato could happen to us."
+        }
+      ],
+      "location": "Observation lounge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "PICARD",
+          "line": "Computer, access Captain Donald Varley's personal log. Search parameter. Locate entries containing words Romulan and or Iconia."
+        },
+        {
+          "character": "COMPUTER",
+          "line": "Working."
+        },
+        {
+          "character": "VARLEY",
+          "line": "Personal log. It was kind of Doctor Ramsey to allow me to carry away my own little piece of legend from the archeological dig at Denius Three. My engineers have examined it, but are completely baffled by its technology. What was its purpose? I'm like a caveman confronted by a tricorder. I'm certain this device is Iconian, but how far had it traveled before it was abandoned on this alien world? Personal log. A galactic Rosetta stone. The starfields on the artifact were unintelligible until I took into account two hundred millennia of stellar drift. After that it was easy to pinpoint Iconia. My First Officer is questioning the wisdom of my order to violate the Neutral Zone, but I am convinced that I have taken the only proper course. Should this advanced technology fall into the hands of the Romulans, we might as well dock our ships and defend ourselves with sticks. Personal log. We've been spotted by a Romulan cruiser, but after playing hide and seek through several solar systems, I think I've managed to elude them. The Iconian probe scan. Was it an attempt at communication? If only I knew what we were dealing with here. Personal log. I'm unable to send an away team to the surface of Iconia, nor can I scan the energy source on the planet because of these maddening system failures. It's infuriating to be stopped at the threshold of a dream by one's own ship. We're leaving orbit to rendezvous with Picard. If his people can't help us repair the Yamato, I must convince him to continue this exploration. The future wellbeing of the Federation may well depend upon it.",
+          "modifier": "screen"
+        },
+        {
+          "character": "COMPUTER",
+          "line": "No further entries conforming to search parameters."
+        }
+      ],
+      "location": "Ready room"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "PICARD",
+          "line": "Mister Data, there's a reference in Captain Varley's personal log to a probe that scanned the Yamato."
+        },
+        {
+          "character": "DATA",
+          "line": "Aye, sir. We have a visual record."
+        },
+        {
+          "character": "PICARD",
+          "line": "Put it on main viewer."
+        },
+        {
+          "character": "RIKER",
+          "line": "What the devil is that?"
+        },
+        {
+          "character": "PICARD",
+          "line": "Have you seen anything like that before?"
+        },
+        {
+          "character": "DATA",
+          "line": "No, sir. It appears to be a scanner. Possibly a transmitter."
+        },
+        {
+          "character": "RIKER",
+          "line": "Transmitting what?"
+        },
+        {
+          "character": "DATA",
+          "line": "Unknown, sir."
+        },
+        {
+          "character": "PICARD",
+          "line": "Engineering."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "LAFORGE",
+          "line": "La Forge."
+        },
+        {
+          "character": "PICARD",
+          "line": "What progress on the matter-antimatter scan?",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Everything continues to check out. I'm starting an analysis on the magnetic coils."
+        }
+      ],
+      "location": "Engineering"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "PICARD",
+          "line": "When the Yamato was probed, where was she?"
+        },
+        {
+          "character": "DATA",
+          "line": "In orbit around a planet at coordinates two two seven mark three five nine, sir."
+        },
+        {
+          "character": "PICARD",
+          "line": "ETA at warp factor eight?"
+        },
+        {
+          "character": "DATA",
+          "line": "Twelve hours sixteen minutes, sir."
+        },
+        {
+          "character": "WORF",
+          "line": "Sir, that would put us substantially close to the Romulan side of the Neutral Zone."
+        },
+        {
+          "character": "PICARD",
+          "line": "That can't be helped. Ensign, lay in a course. Warp factor eight."
+        },
+        {
+          "character": "WESLEY",
+          "line": "Aye, sir."
+        },
+        {
+          "character": "PICARD",
+          "line": "We're going to assume the Yamato's mission."
+        },
+        {
+          "character": "RIKER",
+          "line": "And risk a war?"
+        },
+        {
+          "character": "PICARD",
+          "line": "Perhaps prevent one."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "PICARD",
+          "line": "Come."
+        },
+        {
+          "character": "WESLEY",
+          "line": "Sir, may I speak with you for a minute?"
+        },
+        {
+          "character": "PICARD",
+          "line": "Yes, of course. Well, what is it, Wesley?"
+        },
+        {
+          "character": "WESLEY",
+          "line": "It's about the Iconians, sir. I was told they were just a myth."
+        },
+        {
+          "character": "PICARD",
+          "line": "China was thought to be only a myth until Marco Polo traveled there. No, the Iconians were certainly real. Sit down. We know that three systems within this sector had a number of cultural similarities. Similarities which could only be explained by there being a single unifying influence."
+        },
+        {
+          "character": "WESLEY",
+          "line": "So they colonized those worlds?"
+        },
+        {
+          "character": "PICARD",
+          "line": "Probably conquered."
+        },
+        {
+          "character": "WESLEY",
+          "line": "You mean they were warlike?"
+        },
+        {
+          "character": "PICARD",
+          "line": "Perhaps. Ancient texts did speak of 'Demons of Air and Darkness'."
+        },
+        {
+          "character": "WESLEY",
+          "line": "Air and darkness?"
+        },
+        {
+          "character": "PICARD",
+          "line": "Legend has it that they traveled without the benefit of spaceships, merely appearing out of thin air on distant planets."
+        },
+        {
+          "character": "WESLEY",
+          "line": "Sounds like magic."
+        },
+        {
+          "character": "PICARD",
+          "line": "Well, we would appear magical to Stone Age people."
+        },
+        {
+          "character": "WESLEY",
+          "line": "How did you find all this out?"
+        },
+        {
+          "character": "PICARD",
+          "line": "Archeology has been a hobby since Academy days. But why don't we talk about what really brought you here?"
+        },
+        {
+          "character": "WESLEY",
+          "line": "It's the Yamato, Captain. I can't stop thinking about her. All those people dead. I don't know how you and Commander Riker and Geordi, how you handle it so easily."
+        },
+        {
+          "character": "PICARD",
+          "line": "Easily? Oh no, not easily. We handle it because we're trained to, as you will be. Tea, Earl Gray, hot. But if the time ever comes when the death of a single individual fails to move us"
+        },
+        {
+          "character": "WESLEY",
+          "line": "Didn't you order tea, sir?"
+        },
+        {
+          "character": "PICARD",
+          "line": "Now that should not have happened."
+        },
+        {
+          "character": "PICARD",
+          "line": "Captain's log, supplemental. As happened with our sister ship, the Enterprise is being to experience a series of system failures. So far they are random, but I fear they could be early symptoms of what happened to the Yamato.",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "Ready room"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "PICARD",
+          "line": "Engineering.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "LAFORGE",
+          "line": "La Forge."
+        },
+        {
+          "character": "PICARD",
+          "line": "Lieutenant",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "Engineering"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "PICARD",
+          "line": "Are you making any progress toward solving our problems?"
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Solving them, no sir, but I can eliminate one worry. It is not a design flaw."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "LAFORGE",
+          "line": "I've been reviewing the Yamato's log, and I think maybe that alien probe had something to do with her problems."
+        },
+        {
+          "character": "PICARD",
+          "line": "How?",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "LAFORGE",
+          "line": "I need to see the thing."
+        }
+      ],
+      "location": "Engineering"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "PICARD",
+          "line": "If it was the probe, that explains the Yamato. But how do you account for the difficulties the Enterprise is experiencing?"
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "LAFORGE",
+          "line": "I can't."
+        },
+        {
+          "character": "PICARD",
+          "line": "Lieutenant, Are our problems likely to attain the seriousness of those on the Yamato?",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "LAFORGE",
+          "line": "If you're asking for speculation, I'd say yes, sir, they are. I need time."
+        }
+      ],
+      "location": "Engineering"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "PICARD",
+          "line": "Mister La Forge, time is the one thing which we do not have in abundance."
+        },
+        {
+          "character": "PICARD",
+          "line": "Analysis, Mister Data."
+        },
+        {
+          "character": "DATA",
+          "line": "Scanning, sir."
+        },
+        {
+          "character": "PICARD",
+          "line": "Well, Mister Data?"
+        },
+        {
+          "character": "DATA",
+          "line": "No life-form readings, sir."
+        },
+        {
+          "character": "WORF",
+          "line": "All major cities have been heavily damaged, and the pattern of destruction is that consistent with large-scale orbital bombardment."
+        },
+        {
+          "character": "PICARD",
+          "line": "How long ago?"
+        },
+        {
+          "character": "DATA",
+          "line": "Approximately two hundred thousand years, sir."
+        },
+        {
+          "character": "WORF",
+          "line": "There is an energy source in the mountains of the smaller continent."
+        },
+        {
+          "character": "PICARD",
+          "line": "Magnify."
+        },
+        {
+          "character": "RIKER",
+          "line": "Is that Iconia?"
+        },
+        {
+          "character": "PICARD",
+          "line": "Captain Varley died believing that it was."
+        },
+        {
+          "character": "RIKER",
+          "line": "Did you see that?"
+        },
+        {
+          "character": "WORF",
+          "line": "Captain. Projectile launched from the planet's surface."
+        },
+        {
+          "character": "DATA",
+          "line": "Its size and composition match the probe which scanned the Yamato, sir."
+        },
+        {
+          "character": "PICARD",
+          "line": "Shields up. Prepare a tractor beam. Mister La Forge, I'm going to assist you in your research. A probe has been launched from Iconia."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "PICARD",
+          "line": "I'm going to capture it.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "LAFORGE",
+          "line": "No, sir, wait! Captain! Captain!"
+        }
+      ],
+      "location": "Engineering"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "LAFORGE",
+          "line": "Coming through!"
+        }
+      ],
+      "location": "Corridor"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "LAFORGE",
+          "line": "Bridge!"
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Emergency stop!"
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Stop! Damn it!"
+        }
+      ],
+      "location": "Turbolift"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "WORF",
+          "line": "Tractor beam ready, sir."
+        },
+        {
+          "character": "RIKER",
+          "line": "Geordi, are you all right?"
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Destroy the probe, sir. Quickly!"
+        },
+        {
+          "character": "PICARD",
+          "line": "Worf, target phasers."
+        },
+        {
+          "character": "WORF",
+          "line": "Phasers locked on target."
+        },
+        {
+          "character": "PICARD",
+          "line": "Fire!"
+        },
+        {
+          "character": "PICARD",
+          "line": "Welcome to the Bridge, Mister La Forge."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Thank you, sir. If that thing had managed to scan us, we never would have had any chance of saving the Enterprise."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "LAFORGE",
+          "line": "That probe was a transmitter sending an alien computer program. The same program that is currently aboard the Enterprise trying to rewrite our software in its own image. We have two completely incompatible computer systems trying to interact."
+        },
+        {
+          "character": "RIKER",
+          "line": "So that's why the ship's instruments have become so erratic."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Yes."
+        },
+        {
+          "character": "PICARD",
+          "line": "What can you do?"
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Not very much. The Iconian program is so sophisticated I may never understand it."
+        },
+        {
+          "character": "DATA",
+          "line": "Consider, Captain, this program has entered an alien data base, ours, and in less than seven hours has managed to not only learn our systems, but has begun to reprogram our computer."
+        },
+        {
+          "character": "PICARD",
+          "line": "And so the earlier probe was responsible for the Yamato's destruction?"
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Yes, but only in as much as it was the probe that transmitted the program."
+        },
+        {
+          "character": "RIKER",
+          "line": "But we weren't scanned by that probe. How did this thing get aboard the Enterprise?"
+        },
+        {
+          "character": "DATA",
+          "line": "We downloaded the Yamato log, and contained in the log was the program."
+        },
+        {
+          "character": "PICARD",
+          "line": "Why didn't we suffered the same fate?"
+        },
+        {
+          "character": "LAFORGE",
+          "line": "The program affected all of the Yamato's systems simultaneously. But with us, it was deposited within a specific section of our mainframe, so it's having to work its way out from that location. That gives us a little breathing space."
+        },
+        {
+          "character": "RIKER",
+          "line": "Not much. The injury reports are increasing too, sir."
+        },
+        {
+          "character": "DATA",
+          "line": "Doctor Pulaski is unwilling to trust the turbolifts. She is sending medical teams through the access tunnels."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Captain, the Enterprise computer system is a lot like our own bodies with voluntary and involuntary system. Now, probably ninety percent of what happens on this ship is done automatically. Completely out of our control. We're sitting on a bomb that could go off any second, or maybe never."
+        }
+      ],
+      "location": "Observation lounge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "PULASKI",
+          "line": "The biobeds aren't working? The ship is falling apart! I've had thirty-five emergency calls scattered across twelve decks. My trauma teams are being run ragged trying to respond. Biobeds!"
+        },
+        {
+          "character": "MEDIC",
+          "line": "Doctor Pulaski."
+        },
+        {
+          "character": "PULASKI",
+          "line": "Yes."
+        },
+        {
+          "character": "MEDIC",
+          "line": "I've got a problem here. The knitter isn't working."
+        },
+        {
+          "character": "PULASKI",
+          "line": "Try a splint."
+        },
+        {
+          "character": "MEDIC",
+          "line": "Doctor?"
+        },
+        {
+          "character": "PULASKI",
+          "line": "Splint. It's a very ancient concept. You take two flat pieces of wood or plastic, a bandage. The broken limb is kept immobile."
+        },
+        {
+          "character": "DOCTOR",
+          "line": "That's crazy, that's not practicing medicine."
+        },
+        {
+          "character": "PULASKI",
+          "line": "Oh yes, it is. It's a time honored way to practice medicine, with your head and your heart and your hands. So jump to it."
+        }
+      ],
+      "location": "Sickbay"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "LAFORGE",
+          "line": "Damn!"
+        },
+        {
+          "character": "DATA",
+          "line": "Try a bypass on the shield control interface."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "No go. Let me see if I can directly access the master program."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Data?"
+        },
+        {
+          "character": "DATA",
+          "line": "Yes?"
+        },
+        {
+          "character": "LAFORGE",
+          "line": "What happened?"
+        },
+        {
+          "character": "DATA",
+          "line": "Any answer would be mere speculation. This is yet another example of how our actions have random results."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Thanks, Data. I noticed."
+        }
+      ],
+      "location": "Engineering"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "RIKER",
+          "line": "Life support has failed on decks seven and thirteen, sir. Now what if this thing manages to rewrite our entire system? It's so far beyond us that we don't have a hope of understanding it, let alone controlling it. Our own ignorance could kill us."
+        },
+        {
+          "character": "PICARD",
+          "line": "We may never reach that point. A variation of what happened to the Yamato might destroy us first."
+        },
+        {
+          "character": "RIKER",
+          "line": "So we just sit here and watch our ship disintegrate around us?"
+        },
+        {
+          "character": "PICARD",
+          "line": "The probe was launched from Iconia, probably from an automated system. There may be records near the launch site that could help us find a solution."
+        },
+        {
+          "character": "RIKER",
+          "line": "I'll arrange an away team."
+        },
+        {
+          "character": "PICARD",
+          "line": "And I'll lead it."
+        },
+        {
+          "character": "RIKER",
+          "line": "You will lead it?"
+        },
+        {
+          "character": "PICARD",
+          "line": "Yes."
+        },
+        {
+          "character": "RIKER",
+          "line": "Sir, we've had this conversation a hundred times."
+        },
+        {
+          "character": "PICARD",
+          "line": "And we will have it again, Number One. I have been studying the Iconians since I was a cadet. I have to be the one to go. The Enterprise is yours."
+        },
+        {
+          "character": "RIKER",
+          "line": "For as long as she lasts."
+        }
+      ],
+      "location": "Ready room"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "O'BRIEN",
+          "line": "I've got a fix on the energy source, and for the moment this baby's working, but that could change in an instant."
+        },
+        {
+          "character": "PICARD",
+          "line": "We're aware of the risks. Energize."
+        },
+        {
+          "character": "O'BRIEN",
+          "line": "Transport complete."
+        }
+      ],
+      "location": "Transporter room"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "RIKER",
+          "line": "Stay sharp, Mister O'Brien, I want to be able to pull them out of there at a moment's notice."
+        },
+        {
+          "character": "O'BRIEN",
+          "line": "Aye, sir.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "WESLEY",
+          "line": "Commander, Romulan vessel."
+        },
+        {
+          "character": "RIKER",
+          "line": "Open hailing frequencies."
+        },
+        {
+          "character": "WILLIAMS",
+          "line": "They're arming photon torpedoes."
+        },
+        {
+          "character": "RIKER",
+          "line": "Shields up! Go to Red Alert."
+        },
+        {
+          "character": "WESLEY",
+          "line": "Sir, the shields aren't responding."
+        },
+        {
+          "character": "WILLIAMS",
+          "line": "They are preparing to fire photon torpedoes."
+        },
+        {
+          "character": "RIKER",
+          "line": "Mister Crusher, I need those shields!"
+        },
+        {
+          "character": "WESLEY",
+          "line": "I'm trying, sir!"
+        },
+        {
+          "character": "WILLIAMS",
+          "line": "They're firing."
+        },
+        {
+          "character": "RIKER",
+          "line": "What happened?"
+        },
+        {
+          "character": "WILLIAMS",
+          "line": "Instead of firing they suddenly disarmed and canceled."
+        },
+        {
+          "character": "RIKER",
+          "line": "Fate protects fools, little children and ships named Enterprise. Lock phasers on the Romulans and hold your fire."
+        },
+        {
+          "character": "WESLEY",
+          "line": "Sir, the shields are back up."
+        },
+        {
+          "character": "RIKER",
+          "line": "Impeccable timing."
+        },
+        {
+          "character": "WESLEY",
+          "line": "Sir, the shields are back down."
+        },
+        {
+          "character": "WILLIAMS",
+          "line": "Phaser banks are down."
+        },
+        {
+          "character": "WESLEY",
+          "line": "Shields are back up."
+        },
+        {
+          "character": "TROI",
+          "line": "In another time and place this could be funny."
+        },
+        {
+          "character": "RIKER",
+          "line": "Status of torpedo banks?"
+        },
+        {
+          "character": "WILLIAMS",
+          "line": "They're down, too."
+        },
+        {
+          "character": "RIKER",
+          "line": "In case it should become necessary to fight, could you arrange to find me some rocks to throw at them?"
+        },
+        {
+          "character": "WILLIAMS",
+          "line": "Sir, the Romulan torpedoes are continuing to arm and disarm."
+        },
+        {
+          "character": "RIKER",
+          "line": "Maybe its attempt to fire was unintentional. Open hailing frequencies."
+        },
+        {
+          "character": "WILLIAMS",
+          "line": "Open."
+        },
+        {
+          "character": "RIKER",
+          "line": "Romulan vessel, this is Commander William Riker, First Officer of the USS Enterprise. Why did you attempt to fire on us?"
+        },
+        {
+          "character": "TARIS",
+          "line": "This is Sub-Commander Taris of the Haakona. Why have you penetrated deeper into the Neutral Zone?",
+          "modifier": "screen"
+        },
+        {
+          "character": "RIKER",
+          "line": "Why are you still here?"
+        },
+        {
+          "character": "TARIS",
+          "line": "I have claimed this planet for the Romulan Empire.",
+          "modifier": "screen"
+        },
+        {
+          "character": "RIKER",
+          "line": "This is the Neutral Zone. Nobody can claim anything."
+        },
+        {
+          "character": "TARIS",
+          "line": "You will withdraw or I will be forced to destroy your ship and your away team.",
+          "modifier": "screen"
+        },
+        {
+          "character": "RIKER",
+          "line": "What the hell?"
+        },
+        {
+          "character": "TARIS",
+          "line": "This is your final warning, I will not",
+          "modifier": "screen"
+        },
+        {
+          "character": "RIKER",
+          "line": "Having a little trouble with your systems, Commander? Maybe we could consider postponing the war until we solve our more immediate problem?"
+        },
+        {
+          "character": "TARIS",
+          "line": "You're stalling for time.",
+          "modifier": "screen"
+        },
+        {
+          "character": "WESLEY",
+          "line": "Sir, another probe launched from the planet, heading toward the Romulans."
+        },
+        {
+          "character": "RIKER",
+          "line": "Have we got our phasers back?"
+        },
+        {
+          "character": "WILLIAMS",
+          "line": "No, sir."
+        },
+        {
+          "character": "RIKER",
+          "line": "Taris, if you've got phaser capability, prepare use them now!"
+        },
+        {
+          "character": "TARIS",
+          "line": "What?",
+          "modifier": "screen"
+        },
+        {
+          "character": "RIKER",
+          "line": "Destroy that probe!"
+        },
+        {
+          "character": "RIKER",
+          "line": "And not even a thank you."
+        },
+        {
+          "character": "TROI",
+          "line": "Sub-Commander Taris is deeply frustrated, probably because her ship is as crippled as the Enterprise."
+        },
+        {
+          "character": "WESLEY",
+          "line": "Why would the Romulans be experiencing problems? They weren't probed."
+        },
+        {
+          "character": "RIKER",
+          "line": "They must have tapped into the Yamato log. Taris got a whole lot more than she bargained for. Maintain Red Alert. Try to keep those shields up in case Taris decides to act on her threat."
+        },
+        {
+          "character": "WESLEY",
+          "line": "Commander, what about the away team? With the shields up, we can't beam them back."
+        },
+        {
+          "character": "PICARD",
+          "line": "Captain's log, supplemental. While there is little left on the surface of Iconia, we have found what appears to be a control center which seems to have remained intact.",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "WORF",
+          "line": "Come in, Enterprise. Still no response, sir."
+        },
+        {
+          "character": "PICARD",
+          "line": "Keep trying them. Communications are bound to be erratic."
+        },
+        {
+          "character": "WORF",
+          "line": "I would not like to become a permanent resident of this planet."
+        },
+        {
+          "character": "PICARD",
+          "line": "Nor would I, Mister Worf."
+        },
+        {
+          "character": "DATA",
+          "line": "Scanners show no other life forms on the planet, sir."
+        },
+        {
+          "character": "PICARD",
+          "line": "I would not expect any. Judging from the severity of bombardment, I doubt any Iconians survived. Well, Mister Data, let's see what sense we can make of this."
+        },
+        {
+          "character": "DATA",
+          "line": "Aye, sir."
+        },
+        {
+          "character": "PICARD",
+          "line": "This is very reminiscent of Dinasian."
+        },
+        {
+          "character": "DATA",
+          "line": "Yes, sir. There are also similarities to Dewan and Iccobar."
+        },
+        {
+          "character": "PICARD",
+          "line": "Is it possible that they could be branches of the same language family, beginning with Iconian?"
+        },
+        {
+          "character": "DATA",
+          "line": "It is, sir."
+        },
+        {
+          "character": "PICARD",
+          "line": "Run a comparison using basic simple words from Dinasian, Dewan and Iccobar. See if we can reconstruct a common root language."
+        },
+        {
+          "character": "DATA",
+          "line": "Accessing, sir."
+        }
+      ],
+      "location": "Iconian Control room"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "RIKER",
+          "line": "You're jumpy."
+        },
+        {
+          "character": "TROI",
+          "line": "The tension on the ship is very high."
+        },
+        {
+          "character": "RIKER",
+          "line": "What's your recommendation?"
+        },
+        {
+          "character": "TROI",
+          "line": "Give everyone something to do, somewhere to focus their attention."
+        },
+        {
+          "character": "RIKER",
+          "line": "All right. Let's consider evacuation."
+        },
+        {
+          "character": "TROI",
+          "line": "To the planet?"
+        },
+        {
+          "character": "RIKER",
+          "line": "I know it's probably impossible with Taris sitting out there, but it would give everyone something to do. You go and organize it."
+        },
+        {
+          "character": "TROI",
+          "line": "But you might need me if you have to negotiate with Taris again."
+        },
+        {
+          "character": "RIKER",
+          "line": "I'll manage. Right now, they're more important."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "DATA",
+          "line": "Captain, your original hypothesis is correct. Iconian is the parent tongue of a language family which consists of Iccobar, Dewan and Dinasian. I have constructed a basic working understanding through a comparison of common root words such as mother, father, child, home, tribe, food, life, death, yours, ours, mine"
+        },
+        {
+          "character": "PICARD",
+          "line": "Data, Data, Data."
+        },
+        {
+          "character": "DATA",
+          "line": "You do understand, sir, that my interpretation of the symbols will not be exact?"
+        },
+        {
+          "character": "PICARD",
+          "line": "Yes. Let's get on with it."
+        },
+        {
+          "character": "DATA",
+          "line": "This would appear to be manual override."
+        },
+        {
+          "character": "DATA",
+          "line": "That was not manual override."
+        },
+        {
+          "character": "PICARD",
+          "line": "Demons of Air and Darkness, indeed."
+        },
+        {
+          "character": "WORF",
+          "line": "What is that?"
+        },
+        {
+          "character": "PICARD",
+          "line": "A gateway?"
+        },
+        {
+          "character": "WORF",
+          "line": "These scenes could be holographic images."
+        },
+        {
+          "character": "PICARD",
+          "line": "Be careful."
+        },
+        {
+          "character": "PICARD",
+          "line": "Data! That was very foolish."
+        },
+        {
+          "character": "DATA",
+          "line": "But we have established that this is not a holograph. If I step through and investigate, we could determine whether it is truly a gateway."
+        },
+        {
+          "character": "PICARD",
+          "line": "No, Data. You might not be able to get back, and I can't risk losing you."
+        },
+        {
+          "character": "WORF",
+          "line": "If it is not illusion, this gate would seem to take us beyond the confines of this planet."
+        },
+        {
+          "character": "PICARD",
+          "line": "Is this how the Iconians traveled? Crossing light years as easily as we would cross a room? Those places could be on worlds in distant sectors of the galaxy. I think the Iconians might have out-foxed their enemies. Maybe they didn't all die in the bombardment. Some of them could have passed through this. This is what Varley feared. This is what he died for."
+        },
+        {
+          "character": "WORF",
+          "line": "Sir?"
+        },
+        {
+          "character": "PICARD",
+          "line": "The Romulans could use this technology as a weapon."
+        },
+        {
+          "character": "WORF",
+          "line": "Like the Iconians did."
+        },
+        {
+          "character": "DATA",
+          "line": "No, I disagree. Captain, there is nothing in this room to indicate it was used as a military command center. Perhaps a transporter room?"
+        },
+        {
+          "character": "WORF",
+          "line": "But the probe was hostile."
+        },
+        {
+          "character": "PICARD",
+          "line": "We can't make that assumption. The effect on the Yamato was devastating, but what if it was by accident, not by design. What I'm going to say may sound unscientific, but standing on this soil, breathing in this air, my instincts tell me that we may have got them wrong."
+        },
+        {
+          "character": "WORF",
+          "line": "But we do know that the Iconians were conquerors."
+        },
+        {
+          "character": "PICARD",
+          "line": "But that knowledge was passed down by the descendants of those who attacked this world. The victors invariably write the history to their own advantage. There is an unfortunate tendency in many cultures to fear what they do not understand. It's possible that their enemies, confronted with this technology, were driven to attack the Iconians out of fear."
+        },
+        {
+          "character": "WORF",
+          "line": "Sir!"
+        },
+        {
+          "character": "WORF",
+          "line": "Was that really the Enterprise?"
+        },
+        {
+          "character": "PICARD",
+          "line": "I believe that it was. Gentlemen, we have a way home."
+        },
+        {
+          "character": "DATA",
+          "line": "Captain, there is a vast underground power source which is controlled by this console. I believe my triggering of the gateway has caused a dramatic upsurge in power level. Ah, I have access."
+        },
+        {
+          "character": "PICARD",
+          "line": "Data, can you hear me? Data, respond."
+        },
+        {
+          "character": "DATA",
+          "line": "Captain."
+        },
+        {
+          "character": "WORF",
+          "line": "Are you all right?"
+        },
+        {
+          "character": "DATA",
+          "line": "No, I am damaged."
+        },
+        {
+          "character": "PICARD",
+          "line": "How bad is it?"
+        },
+        {
+          "character": "DATA",
+          "line": "The Iconian program is attempting to rewrite my software. Physical manifestations, blindness, motor con"
+        },
+        {
+          "character": "WORF",
+          "line": "Sir, without him we have no hope of deciphering the program. Captain, the Enterprise again."
+        },
+        {
+          "character": "PICARD",
+          "line": "How long is the interval?"
+        },
+        {
+          "character": "WORF",
+          "line": "About four minutes, if the cycle holds."
+        },
+        {
+          "character": "PICARD",
+          "line": "The next time the Enterprise appears, go through it with Data. Geordi will be able to learn from him. Maybe help him."
+        },
+        {
+          "character": "WORF",
+          "line": "Sir, we have not yet established that that is truly a gateway."
+        },
+        {
+          "character": "PICARD",
+          "line": "This will be the test."
+        },
+        {
+          "character": "WORF",
+          "line": "Aye, sir."
+        },
+        {
+          "character": "PICARD",
+          "line": "Destroy the tricorder."
+        },
+        {
+          "character": "WORF",
+          "line": "Sir, it contains everything we've diskovered up to this point."
+        },
+        {
+          "character": "PICARD",
+          "line": "And that is precisely why it must be destroyed. How long?"
+        },
+        {
+          "character": "WORF",
+          "line": "About three minutes."
+        },
+        {
+          "character": "PICARD",
+          "line": "I'm running out of time. We all are. Data. Data, I have to destroy this. This control room and its technology must not be allowed to fall into Romulan hands."
+        },
+        {
+          "character": "DATA",
+          "line": "I understand, sir."
+        },
+        {
+          "character": "PICARD",
+          "line": "How! How do I do it? How do I destroy everything? The control room, the probes, all of it."
+        },
+        {
+          "character": "DATA",
+          "line": "The power source, sir."
+        },
+        {
+          "character": "PICARD",
+          "line": "I detonate it. But how? How do I do that?"
+        },
+        {
+          "character": "DATA",
+          "line": "The probes, sir."
+        },
+        {
+          "character": "PICARD",
+          "line": "Probes? The probes. Launch? I launch the probes? But why? What's good will that do?"
+        },
+        {
+          "character": "DATA",
+          "line": "The doors, sir."
+        },
+        {
+          "character": "PICARD",
+          "line": "Doors?"
+        },
+        {
+          "character": "WORF",
+          "line": "Perhaps the probes are in a launch bay."
+        },
+        {
+          "character": "PICARD",
+          "line": "And if the doors are closed, then the backwash from the rockets will spill into the power grids and there'll be an overload."
+        },
+        {
+          "character": "DATA",
+          "line": "Yes, sir."
+        },
+        {
+          "character": "PICARD",
+          "line": "But the doors will open automatically when the launch begins. And I will override."
+        },
+        {
+          "character": "DATA",
+          "line": "Correct, sir."
+        },
+        {
+          "character": "PICARD",
+          "line": "Which control keys? Damn. Of course, you can't see."
+        },
+        {
+          "character": "DATA",
+          "line": "Help."
+        },
+        {
+          "character": "PICARD",
+          "line": "Worf, help him up."
+        },
+        {
+          "character": "DATA",
+          "line": "Describe, please."
+        },
+        {
+          "character": "PICARD",
+          "line": "I'm standing directly in front of the gate. To my left there is a small triangular screen."
+        },
+        {
+          "character": "DATA",
+          "line": "Right one meter."
+        },
+        {
+          "character": "PICARD",
+          "line": "Right. Now, to my right is a larger triangular screen. The top is solid amber. To the left, red."
+        },
+        {
+          "character": "DATA",
+          "line": "Correct. Key blue, amber, amber, red."
+        },
+        {
+          "character": "PICARD",
+          "line": "That's the launch sequence? How do I override the doors?"
+        },
+        {
+          "character": "DATA",
+          "line": "Blue, blue, blue."
+        },
+        {
+          "character": "PICARD",
+          "line": "I hope that's not a stutter. I don't know how long a delay there will be between the launch and the detonation. I'll hold keying the launch sequence until you're through the gate. How long until the Enterprise reappears?"
+        },
+        {
+          "character": "WORF",
+          "line": "Almost time. Captain, you will be killed."
+        },
+        {
+          "character": "PICARD",
+          "line": "I'll go through the gate."
+        },
+        {
+          "character": "WORF",
+          "line": "But where will you end up?"
+        },
+        {
+          "character": "PICARD",
+          "line": "Very shortly, anywhere will be preferable to this room. Mister Worf, I am depending on you. You must get Data back to the Enterprise. He may be their only hope."
+        },
+        {
+          "character": "WORF",
+          "line": "Aye, sir."
+        }
+      ],
+      "location": "Iconian Control room"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "CREWMAN",
+          "line": "Commander! Look!"
+        },
+        {
+          "character": "RIKER",
+          "line": "Worf! What happened? Where's the Captain?"
+        },
+        {
+          "character": "WORF",
+          "line": "We must take Data to Engineering. Hopefully the Captain will follow."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "LAFORGE",
+          "line": "I don't know how to help him. But comparing recorded norms for Data to the current readings, it's clear that all his functions are just going crazy. If we had an expert, a Maddox, somebody, I"
+        },
+        {
+          "character": "LAFORGE",
+          "line": "He's gone."
+        }
+      ],
+      "location": "Engineering"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "COMPUTER",
+          "line": "Kandar qui. Kandar pro. Kandar kija. Kandar sis. Kandar exen."
+        }
+      ],
+      "location": "Iconian Control room"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "LAFORGE",
+          "line": "Data!"
+        },
+        {
+          "character": "RIKER",
+          "line": "What the hell?"
+        },
+        {
+          "character": "DATA",
+          "line": "I am accessing."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "The self-correcting mechanism."
+        },
+        {
+          "character": "DATA",
+          "line": "Captain? Captain?"
+        },
+        {
+          "character": "LAFORGE",
+          "line": "It's constantly kicking in to make minute adjustments in the positronic brain."
+        },
+        {
+          "character": "DATA",
+          "line": "I am on the Enterprise. How did I get here?"
+        },
+        {
+          "character": "RIKER",
+          "line": "He cleared the Iconian program from his own system. How?"
+        },
+        {
+          "character": "DATA",
+          "line": "Iconia? I was on Iconia, now I am on the Enterprise."
+        },
+        {
+          "character": "RIKER",
+          "line": "Geordi, this is critical. How?"
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Okay, give me a second to think. There was an incompatible program running through Data's system, so the mechanism started searching for a way to keep him alive. The solution. The solution was a shutdown and a total wipe of all affected memory."
+        },
+        {
+          "character": "DATA",
+          "line": "Query. What have I forgotten?"
+        },
+        {
+          "character": "RIKER",
+          "line": "Can you do the same thing with the Enterprise?"
+        },
+        {
+          "character": "LAFORGE",
+          "line": "I don't see why not, but it will have to be a complete shutdown. We turn her off, and effect a wipe of the Yamato log including every subsequent event since we downloaded it. I'll then be able to reload all the ship's programs from the protected archives in the main core."
+        },
+        {
+          "character": "RIKER",
+          "line": "Geordi, if we shut down that means we're going to be bringing down the shields, and we're hanging nose to nose with a Romulan battle cruiser."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Hey, Commander, whether it's Romulan phasers or our own warp engines, we're just as dead."
+        },
+        {
+          "character": "RIKER",
+          "line": "Make it so."
+        },
+        {
+          "character": "DATA",
+          "line": "May I help?"
+        }
+      ],
+      "location": "Engineering"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "COMPUTER",
+          "line": "Kandar nien, kandar cobar,"
+        },
+        {
+          "character": "COMPUTER",
+          "line": "Kandar konyen."
+        }
+      ],
+      "location": "Iconian Control room"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "O'BRIEN",
+          "line": "All systems functioning."
+        },
+        {
+          "character": "RIKER",
+          "line": "Lock on the Captain, bring him back."
+        },
+        {
+          "character": "O'BRIEN",
+          "line": "Scanning, sir. Got him."
+        }
+      ],
+      "location": "Transporter room"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "COMPUTER",
+          "line": "Kandar jet, kandar se, kandar tor, kandar eir, kandar"
+        }
+      ],
+      "location": "Iconian Control room"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "O'BRIEN",
+          "line": "I've lost him!"
+        },
+        {
+          "character": "RIKER",
+          "line": "Damn it!"
+        },
+        {
+          "character": "O'BRIEN",
+          "line": "Got him, sir. He's on the Romulan ship."
+        },
+        {
+          "character": "RIKER",
+          "line": "How the hell?"
+        }
+      ],
+      "location": "Transporter room"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TARIS",
+          "line": "Go to your stations. You did this. You sabotaged my ship."
+        },
+        {
+          "character": "PICARD",
+          "line": "Oh, no."
+        },
+        {
+          "character": "TARIS",
+          "line": "I cannot deactivate the auto-destruct, but at least I have the satisfaction that you will die with us."
+        },
+        {
+          "character": "PICARD",
+          "line": "Not, I think, today, Commander."
+        }
+      ],
+      "location": "Romulan Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "PICARD",
+          "line": "Bridge, Picard."
+        },
+        {
+          "character": "DATA",
+          "line": "Yes, Captain.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "PICARD",
+          "line": "Take us out of here. The Romulan ship is set to auto-destruct and they can't deactivate it."
+        },
+        {
+          "character": "RIKER",
+          "line": "Wait, sir. Open hailing frequencies."
+        },
+        {
+          "character": "O'BRIEN",
+          "line": "Open, sir."
+        },
+        {
+          "character": "RIKER",
+          "line": "Commander Taris, prepare to receive a transmission from our Chief Engineer. He'll instruct you how to purge your system."
+        }
+      ],
+      "location": "Transporter room"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TARIS",
+          "line": "Agreed, Enterprise. Standing by.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "DATA",
+          "line": "Commander, your transmission has been received"
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "DATA",
+          "line": "And acknowledged.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "RIKER",
+          "line": "Now, Mister Data, warp speed, please. Just in case Taris's engineer is not as efficient as our Mister La Forge."
+        },
+        {
+          "character": "DATA",
+          "line": "Aye, sir.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "PICARD",
+          "line": "Well, Number One, I can see why you want to keep the away missions to yourself. That's where the excitement is. So, what's been happening here? Same old routine, I suppose?"
+        }
+      ],
+      "location": "Transporter room"
+    }
+  ],
+  "schedule": {
+    "episode": 11,
+    "number": 37,
+    "season": 2
+  },
+  "stardate": "42609.1",
+  "title": "Contagion"
+}

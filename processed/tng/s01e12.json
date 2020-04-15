@@ -1,0 +1,1475 @@
+{
+  "airdate": 571294800,
+  "scenes": [
+    {
+      "dialogue": [
+        {
+          "character": "PICARD",
+          "line": "Captain's log, stardate 41309.5. We are in orbit around Persephone Five, where I have been sent to confer with Admiral Mark Jameson in regard to an extraordinary situation.",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "unknown"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "PICARD",
+          "line": "Starfleet received this subspace transmission two days ago, Admiral."
+        },
+        {
+          "character": "JAMESON",
+          "line": "Let's see it, Captain.",
+          "modifier": "screen"
+        },
+        {
+          "character": "PICARD",
+          "line": "On viewer."
+        },
+        {
+          "character": "KARNAS",
+          "line": "I am Karnas, governor of Mordan Four. A dissident group of terrorists have taken Federation Ambassador Hawkins and his staff hostage. They will not diskuss terms with me. This is a crisis I cannot resolve. The terrorists are demanding a Federation negotiator. I feel there is only one negotiator with the skills to resolve the situation. The lives of the hostages will depend on Starfleet delivering this man to Mordan. Commander Mark Jameson. Admiral Jameson. The terrorists have given you six Earth days to bring him here, or the hostages will die.",
+          "modifier": "screen"
+        },
+        {
+          "character": "PICARD",
+          "line": "Starfleet cannot understand how or why this situation has developed. Mordan Four has finally gained peace after decades of civil war"
+        },
+        {
+          "character": "JAMESON",
+          "line": "Forty years of civil war, Captain.",
+          "modifier": "screen"
+        },
+        {
+          "character": "PICARD",
+          "line": "Yes, sir. Karnas was largely responsible for the planet's unification and peace. Why should he now be unable to deal with this rebellious faction?"
+        },
+        {
+          "character": "JAMESON",
+          "line": "Forty-five years ago I negotiated a hostage situation on Mordan, Captain. Karnas was a young man then, but so was I. He seems to feel that I can handle the situation again.",
+          "modifier": "screen"
+        },
+        {
+          "character": "PICARD",
+          "line": "I'm detailed to take you to Mordan Four as soon as you can be ready, Admiral."
+        },
+        {
+          "character": "JAMESON",
+          "line": "My wife and I will beam aboard at fifteen hundred hours, Captain. Acknowledge."
+        },
+        {
+          "character": "PICARD",
+          "line": "Received and acknowledged, sir. Picard out."
+        },
+        {
+          "character": "TROI",
+          "line": "Nearly fifteen hundred now, sir."
+        },
+        {
+          "character": "PICARD",
+          "line": "Well, Number One, let's go and welcome the Admiral aboard."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "PICARD",
+          "line": "Welcome aboard, Admiral. This is my Executive Officer, Commander William Riker."
+        },
+        {
+          "character": "RIKER",
+          "line": "My pleasure, sir. Ma'am."
+        },
+        {
+          "character": "JAMESON",
+          "line": "My wife, Anne. Captain, there are certain details of this mission that you should understand before we begin."
+        },
+        {
+          "character": "PICARD",
+          "line": "Yes, sir."
+        },
+        {
+          "character": "JAMESON",
+          "line": "I am not simply an advisor. On any assignment I accompany, Starfleet has designated me Senior Mission Officer. I control the away team and all its actions. Is that understood? Of course, Captain, you command the ship, but the mission is mine. I trust you are in complete agreement."
+        },
+        {
+          "character": "PICARD",
+          "line": "Yes, sir. Of course."
+        }
+      ],
+      "location": "Transporter room"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "GEORDI",
+          "line": "Message coming in from Mordan, sir."
+        },
+        {
+          "character": "PICARD",
+          "line": "Put it on the screen, Mister Data."
+        },
+        {
+          "character": "KARNAS",
+          "line": "Mordan Four to Enterprise. This is Karnas. I will speak to the Captain.",
+          "modifier": "screen"
+        },
+        {
+          "character": "PICARD",
+          "line": "I am Captain Picard, commanding the Enterprise."
+        },
+        {
+          "character": "KARNAS",
+          "line": "Is Admiral Jameson on board?",
+          "modifier": "screen"
+        },
+        {
+          "character": "PICARD",
+          "line": "He's here, beside my First Officer. Do you wish to speak to him now?"
+        },
+        {
+          "character": "KARNAS",
+          "line": "So, Jameson. I see time has not been kind.",
+          "modifier": "screen"
+        },
+        {
+          "character": "JAMESON",
+          "line": "It seldom is, Karnas. However, we could save a good deal of it now if you'll outline the terrorists' demands."
+        },
+        {
+          "character": "KARNAS",
+          "line": "They insist all diskussions will take place here on Mordan. They refuse to speak to me, only to a Federation mediator. They say they will brook no excuses. If there are any offered, your ambassador and his people will die. Unpleasantly. I believe them. So should you, Admiral.",
+          "modifier": "screen"
+        },
+        {
+          "character": "JAMESON",
+          "line": "Tell them I accept the conditions of negotiation."
+        },
+        {
+          "character": "KARNAS",
+          "line": "I will do so immediately.",
+          "modifier": "screen"
+        },
+        {
+          "character": "RIKER",
+          "line": "For a man in his position, he doesn't seem to know much about the situation."
+        },
+        {
+          "character": "JAMESON",
+          "line": "Wrong, Number One. He told me that the terrorists are desperate enough to kill if they're crossed. They are willing to talk, one on one, but not to him."
+        },
+        {
+          "character": "PICARD",
+          "line": "Counselor?"
+        },
+        {
+          "character": "TROI",
+          "line": "From his body language as well as his words and tone, I'd judge that what Karnas said was honest. But I sensed a holding back."
+        },
+        {
+          "character": "PICARD",
+          "line": "Perhaps he knows more about the terrorists than he's prepared to admit."
+        },
+        {
+          "character": "JAMESON",
+          "line": "Possible, but I suspect it's closer to the mark if we said he doesn't want to admit failure of his own efforts to negotiate. He is a proud man."
+        },
+        {
+          "character": "TROI",
+          "line": "That could be, sir. Karnas has established himself as a powerful man on Mordan. Suddenly, in this situation, his power is useless."
+        },
+        {
+          "character": "CRUSHER",
+          "line": "Sickbay to Bridge. I'm ready for Admiral Jameson now.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "PICARD",
+          "line": "In a few moments, Doctor."
+        },
+        {
+          "character": "JAMESON",
+          "line": "Ready for what, Captain?"
+        },
+        {
+          "character": "PICARD",
+          "line": "Just a routine medical checkup. Ship's regulations."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "RIKER",
+          "line": "What I don't understand, sir, is how Karnas knew you were still available."
+        },
+        {
+          "character": "JAMESON",
+          "line": "Still alive, you mean."
+        },
+        {
+          "character": "RIKER",
+          "line": "So far as he knew, sir, you could have been dead."
+        },
+        {
+          "character": "JAMESON",
+          "line": "Quite right, Commander, but I am not, and I imagine Ambassador Hawkins has told him that. I briefed the Ambassador about Mordan before he left to take up residence."
+        },
+        {
+          "character": "PICARD",
+          "line": "All right. Karnas has a problem he thinks you can resolve. What do the terrorists need that Karnas can't, or won't, give them?"
+        },
+        {
+          "character": "DATA",
+          "line": "Mordan has had peace for five years. They have finally come to a state of productivity which satisfies their planetary needs, but no more than that. Perhaps the dissidents feel the Federation could provide them with more."
+        },
+        {
+          "character": "JAMESON",
+          "line": "I have negotiated many treaties on many planets, Picard. I've found that peace, or the appearance of it, is often a prelude to war."
+        },
+        {
+          "character": "TROI",
+          "line": "Admiral, are you suggesting the terrorists want arms and weapons?"
+        },
+        {
+          "character": "JAMESON",
+          "line": "They may. I am suggesting Karnas is the last man to give them such weapons."
+        },
+        {
+          "character": "TROI",
+          "line": "I see. You believe that Karnas would not negotiate on that point, and so the terrorists demanded an outside negotiator."
+        },
+        {
+          "character": "JAMESON",
+          "line": "I know Karnas. He is a warrior. He lives for challenge. These people have insulted his honor by taking the embassy staff hostage. I'll negotiate, but I'll have to be very careful in dealing with Karnas. He'll want revenge for that insult."
+        }
+      ],
+      "location": "Ready room"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "ANNE",
+          "line": "Well, it's about time. Couldn't get away from the Bridge?"
+        },
+        {
+          "character": "JAMESON",
+          "line": "Didn't want to. Feels good to be on one again."
+        },
+        {
+          "character": "ANNE",
+          "line": "I'm glad, Mark. Do you want me to help you up?"
+        },
+        {
+          "character": "ANNE",
+          "line": "You're stronger today."
+        },
+        {
+          "character": "JAMESON",
+          "line": "I'm fine. I feel like a kid again."
+        },
+        {
+          "character": "ANNE",
+          "line": "This ship is magnificent. It even has family quarters. Pity we didn't have them twenty, thirty years ago. We could have been together almost all of your career. Mark! Mark? I'll get Sickbay."
+        },
+        {
+          "character": "JAMESON",
+          "line": "No. There's no need. It's happened before."
+        },
+        {
+          "character": "ANNE",
+          "line": "When? You haven't said anything."
+        },
+        {
+          "character": "JAMESON",
+          "line": "It'll pass. Just give me a moment. See, I'm better. It's going away."
+        },
+        {
+          "character": "ANNE",
+          "line": "What is it? Do the doctors know?"
+        },
+        {
+          "character": "JAMESON",
+          "line": "Just body changes. Last checkup they said I'd have to expect it."
+        },
+        {
+          "character": "ANNE",
+          "line": "You're sure? Don't lie to me."
+        },
+        {
+          "character": "JAMESON",
+          "line": "I'm sure."
+        }
+      ],
+      "location": "Jameson's quarters"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "CRUSHER",
+          "line": "All the medical information the Admiral provided is satisfactory, sir."
+        },
+        {
+          "character": "PICARD",
+          "line": "Excellent, Doctor."
+        },
+        {
+          "character": "CRUSHER",
+          "line": "Except for one thing. The test results he gave me aren't two days old, they're two months old. The medical file coder always includes the date as part of the file number. He lied to me, sir, and I don't know why."
+        },
+        {
+          "character": "PICARD",
+          "line": "He is eighty five years old, Doctor. For some, the memory begins to fail."
+        },
+        {
+          "character": "CRUSHER",
+          "line": "He suffers from Iverson's Disease, sir. It affects the body, not the mind. No, I have a gut feeling he's hiding something."
+        },
+        {
+          "character": "PICARD",
+          "line": "That is an observation I'd expect from Counselor Troi. Doctor. Doctor, I do respect your opinion, and I'll want you on the Bridge for the next day or so. The Admiral must remain in the best of health for these negotiations, and he might require your services."
+        }
+      ],
+      "location": "Ready room"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "PICARD",
+          "line": "Admiral, we're approaching the Idini Star Cluster. Would you like to take the conn as we make transit?"
+        },
+        {
+          "character": "JAMESON",
+          "line": "Thank you, Captain. I would."
+        },
+        {
+          "character": "PICARD",
+          "line": "Well, Admiral, quite a little surprise you've pulled on us."
+        },
+        {
+          "character": "CRUSHER",
+          "line": "Yes, quite."
+        },
+        {
+          "character": "JAMESON",
+          "line": "Neglected to mention I began some new therapy before I left. Seems to be working. I haven't felt this good since the last time I was in space. The Gettysburg. All I needed to get me out of that chair was the thought of walking the decks in command of a starship again."
+        },
+        {
+          "character": "PICARD",
+          "line": "Admiral, you only have the conn temporarily."
+        },
+        {
+          "character": "JAMESON",
+          "line": "A figure of speech. Of course she's your ship. I'll just keep an eye on her for a while."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "PICARD",
+          "line": "The admiral displayed a remarkable improvement out there, wouldn't you say?"
+        },
+        {
+          "character": "CRUSHER",
+          "line": "Captain, no one recovers from Iverson's Disease. There is no known cure, and there are no cases where it has gone into remission. I have never heard of any therapy that would produce results like that."
+        },
+        {
+          "character": "PICARD",
+          "line": "Then how do you account for it?"
+        },
+        {
+          "character": "CRUSHER",
+          "line": "I can't. All I can tell you is that the Admiral has been confined to his support chair for the last four years by the effects of Iverson's. By all the medical facts we know, he should never have walked again."
+        },
+        {
+          "character": "PICARD",
+          "line": "I want you to look into it, Doctor. Thoroughly."
+        },
+        {
+          "character": "CRUSHER",
+          "line": "Yes, sir."
+        }
+      ],
+      "location": "Ready room"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "KARNAS",
+          "line": "The terrorists have given you six Earth days to bring him here, or the hostages will die.",
+          "modifier": "screen"
+        },
+        {
+          "character": "ANNE",
+          "line": "I don't know how much more information you think you can get from that tape. Mark! My God, what's happened?"
+        },
+        {
+          "character": "JAMESON",
+          "line": "It's the new therapy I'm taking. It's working, Annie."
+        },
+        {
+          "character": "ANNE",
+          "line": "Oh, darling!"
+        },
+        {
+          "character": "ANNE",
+          "line": "Mark?"
+        },
+        {
+          "character": "JAMESON",
+          "line": "I told you I just needed to get back into space again."
+        },
+        {
+          "character": "ANNE",
+          "line": "You really are looking much better."
+        },
+        {
+          "character": "JAMESON",
+          "line": "It's the new treatment."
+        },
+        {
+          "character": "ANNE",
+          "line": "No. Come here."
+        },
+        {
+          "character": "JAMESON",
+          "line": "I hope you're heading for the bedroom."
+        },
+        {
+          "character": "ANNE",
+          "line": "You stop it."
+        },
+        {
+          "character": "ANNE",
+          "line": "Darling, you look like you looked twenty years ago."
+        },
+        {
+          "character": "JAMESON",
+          "line": "You're flatter me."
+        },
+        {
+          "character": "ANNE",
+          "line": "Now you tell me what the hell is going on?"
+        },
+        {
+          "character": "JAMESON",
+          "line": "I don't know"
+        },
+        {
+          "character": "ANNE",
+          "line": "Sickbay! Medical emergency in the Admiral's quarters!"
+        }
+      ],
+      "location": "Jameson's quarters"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "CRUSHER",
+          "line": "I found traces of chemical substances in his blood and tissue samples, but none of them are in our pharmacopeia. I'm still working on alien references to substances like these. All I can tell you is that he's ingested something that's strongly affecting his body."
+        },
+        {
+          "character": "PICARD",
+          "line": "Specifics, Doctor."
+        },
+        {
+          "character": "CRUSHER",
+          "line": "Captain, there are so many things going on, I can't give you specifics until I do a lot more tests."
+        },
+        {
+          "character": "PICARD",
+          "line": "Give me what you have now."
+        },
+        {
+          "character": "CRUSHER",
+          "line": "His red cell count is running riot. The cellular structure of his body is radically changing, but we can't make any decisions on that until we know what it's changing to. His DNA is skewed. Don't ask me how, but he even looks younger. And Captain, there are absolutely no traces of Iverson's Disease."
+        },
+        {
+          "character": "PICARD",
+          "line": "You said there is no cure for Iverson's."
+        },
+        {
+          "character": "CRUSHER",
+          "line": "None that we know of. But whatever these substances are doing to his body, at least they've done that for him. But how or why? It's too early to say."
+        },
+        {
+          "character": "PICARD",
+          "line": "Get me some answers, Doctor. As soon as possible."
+        },
+        {
+          "character": "CRUSHER",
+          "line": "Yes, sir."
+        }
+      ],
+      "location": "Crusher's office"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "ANNE",
+          "line": "Captain."
+        },
+        {
+          "character": "PICARD",
+          "line": "Mrs. Jameson, I have to ask the Admiral some questions."
+        },
+        {
+          "character": "JAMESON",
+          "line": "Ask away. There's nothing to hide now."
+        },
+        {
+          "character": "PICARD",
+          "line": "Admiral, in addition to your rank, you are a particularly valuable commodity just now. Starfleet has a right to some answers."
+        },
+        {
+          "character": "JAMESON",
+          "line": "I've planned this for a long time, ever since I learned I had Iverson's Disease. Since it put me in that chair."
+        },
+        {
+          "character": "ANNE",
+          "line": "What did you do, Mark?"
+        },
+        {
+          "character": "JAMESON",
+          "line": "There's a planet in the Cerebus system, Cerebus Two. They say the natives have a process that rejuvenates the body, gives you your youth back."
+        },
+        {
+          "character": "PICARD",
+          "line": "Yes, I've heard of that story. It's a myth."
+        },
+        {
+          "character": "JAMESON",
+          "line": "It's true, Picard. I'm living proof. Oh, it's dangerous. The mortality rate is high, and it's very painful. Aliens are seldom allowed to obtain the process, but I managed it. I negotiated a treaty for Cerebus Two some years ago, and they felt obligated to honor my request for the process."
+        },
+        {
+          "character": "PICARD",
+          "line": "Obviously it works very rapidly, but how does it work?"
+        },
+        {
+          "character": "JAMESON",
+          "line": "The herb and drug combinations are self-administered slowly over a period of two years. Every response is different, depending on a being's DNA. I got enough for both of us, Annie, but I had to test it on myself first. I couldn't risk you. If I died, well, I was half a man, so what did it matter."
+        },
+        {
+          "character": "ANNE",
+          "line": "It would matter to me."
+        },
+        {
+          "character": "JAMESON",
+          "line": "But I was starting to change, Anne. It was almost undetectable, but the improvement was there. Then when this hostage situation came up, I knew I'd have to be at my peak to deal with it. I didn't have time to wait for the drug to work naturally."
+        },
+        {
+          "character": "PICARD",
+          "line": "So you took the whole dose."
+        },
+        {
+          "character": "JAMESON",
+          "line": "I took both of them. And look at me, Annie, look at me. I'm strong. I'm alert, Fit. I'm fitter than you are, Picard. And I'm getting younger!"
+        },
+        {
+          "character": "PICARD",
+          "line": "The only question I have, Admiral, is why you thought it necessary to be young to negotiate the release of the hostages. Even willing to put your life at risk for it. I'll be on the Bridge, Admiral, if you want to talk further."
+        },
+        {
+          "character": "ANNE",
+          "line": "Why didn't you tell me, Mark? We've always been honest with each other, until now."
+        },
+        {
+          "character": "JAMESON",
+          "line": "Annie, I did it for us."
+        },
+        {
+          "character": "ANNE",
+          "line": "Oh, I'm sure you believed that, until you had a chance to head up a mission, to command again, and then you just upended the bottle or whatever it was, and damn everything. Did you think about me at all?"
+        },
+        {
+          "character": "JAMESON",
+          "line": "I obtained enough of the dosage for both of us."
+        },
+        {
+          "character": "ANNE",
+          "line": "But you never asked if I wanted it. It's just like you, Mark, to assume that what you felt was right was the only answer."
+        },
+        {
+          "character": "JAMESON",
+          "line": "But it was the right answer for me. It was killing you, having to take care of an invalid. Annie, what good was I to you? We can be together again."
+        },
+        {
+          "character": "ANNE",
+          "line": "Let me go!"
+        },
+        {
+          "character": "JAMESON",
+          "line": "I can get you another supply of the drug."
+        }
+      ],
+      "location": "Jameson's quarters"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "JAMESON",
+          "line": "Commander Data, I wish to open a communication frequency to Karnas."
+        }
+      ],
+      "location": "Observation lounge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "DATA",
+          "line": "Aye, sir."
+        },
+        {
+          "character": "PICARD",
+          "line": "One moment, Mister Data. Admiral, this is Picard. May I know the reason for this communication?"
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "JAMESON",
+          "line": "Karnas must have tried to negotiate with the terrorists before he was forced to call on me. I want all the information he has access to."
+        }
+      ],
+      "location": "Observation lounge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "PICARD",
+          "line": "You said Karnas was a proud man, Admiral, probably sensitive about his failure to deal with this situation. Is it wise to press him on this?"
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "JAMESON",
+          "line": "I'm the negotiator, Picard."
+        }
+      ],
+      "location": "Observation lounge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "JAMESON",
+          "line": "Karnas will have to cooperate with me and the terrorists, and damn his sensitivities.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "PICARD",
+          "line": "Then I suggest a secured channel, Admiral."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "JAMESON",
+          "line": "A sensible precaution, Picard. Make it so."
+        }
+      ],
+      "location": "Observation lounge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "PICARD",
+          "line": "Make it so."
+        },
+        {
+          "character": "DATA",
+          "line": "Aye, sir. Frequency open and secured."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "JAMESON",
+          "line": "Karnas."
+        },
+        {
+          "character": "KARNAS",
+          "line": "What is it you want, Admiral?",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "JAMESON",
+          "line": "We're on a secured channel, Karnas. You can talk freely. Who's behind this thing? You said dissidents."
+        },
+        {
+          "character": "KARNAS",
+          "line": "Yes, political opponents who feel the Federation will disavow me as Governor if they stir up enough trouble on Mordan.",
+          "modifier": "screen"
+        },
+        {
+          "character": "JAMESON",
+          "line": "Then who is it? Ardan? Gilnor?"
+        },
+        {
+          "character": "KARNAS",
+          "line": "They're dead, Jameson. A long time now. For a long time I thought you were dead, too.",
+          "modifier": "screen"
+        },
+        {
+          "character": "JAMESON",
+          "line": "I almost died a couple of times on missions, but I always made it through somehow."
+        },
+        {
+          "character": "KARNAS",
+          "line": "Yes. Now you're coming back to Mordan to negotiate for hostages again. It's almost as though the forty five years in-between never happened.",
+          "modifier": "screen"
+        },
+        {
+          "character": "JAMESON",
+          "line": "You've never forgiven me."
+        },
+        {
+          "character": "KARNAS",
+          "line": "Of course I have. It was years ago.",
+          "modifier": "screen"
+        },
+        {
+          "character": "JAMESON",
+          "line": "There are no dissidents, are there? No terrorists. You have the hostages."
+        },
+        {
+          "character": "KARNAS",
+          "line": "And if I have? You're coming to Mordan, Jameson, and you're going to negotiate for their lives. And I'm going to ask a very, very high price.",
+          "modifier": "screen"
+        },
+        {
+          "character": "JAMESON",
+          "line": "What if I refuse?"
+        },
+        {
+          "character": "KARNAS",
+          "line": "Then the hostages will die. You've seen how my executioners work. They are still as efficient as they were, perhaps even more skilled now. You'll come, even if you don't have much honor left.",
+          "modifier": "screen"
+        }
+      ],
+      "location": "Observation lounge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "JAMESON",
+          "line": "Conn, are we still on schedule to arrive at Mordan in thirty eight hours?"
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Aye, sir. We're at warp four."
+        },
+        {
+          "character": "JAMESON",
+          "line": "Picard, I want a jump to warp eight, so that we arrive ahead of our announced ETA. It'll throw Karnas off balance, and we can catch him before he's ready."
+        },
+        {
+          "character": "PICARD",
+          "line": "Ready for exactly what, Admiral?"
+        },
+        {
+          "character": "JAMESON",
+          "line": "I believe Karnas has the hostages, and there never were any dissidents."
+        },
+        {
+          "character": "PICARD",
+          "line": "What has happened to bring you to that conclusion? That's quite a big jump."
+        },
+        {
+          "character": "JAMESON",
+          "line": "I'm not at liberty to say, Picard, but negotiations are no longer the answer."
+        },
+        {
+          "character": "PICARD",
+          "line": "Isn't the most important thing the hostage's lives?"
+        },
+        {
+          "character": "JAMESON",
+          "line": "And you agree with that too, Riker?"
+        },
+        {
+          "character": "RIKER",
+          "line": "I do, sir."
+        },
+        {
+          "character": "JAMESON",
+          "line": "Good. Because I plan to personally lead an away team on an armed rescue mission to get them out of there."
+        },
+        {
+          "character": "JAMESON",
+          "line": "Commander Data, bring up the plans I requested on the viewscreen, please."
+        },
+        {
+          "character": "DATA",
+          "line": "Aye, sir."
+        },
+        {
+          "character": "JAMESON",
+          "line": "Most of Mordan's principal city was devastated during the war. What was left consisted largely of a network of underground tunnels. A rat's maze. When they rebuilt the city, they simply built over the tunnels."
+        },
+        {
+          "character": "DATA",
+          "line": "I have it, sir."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Pardon me, sir, but where do these tunnels come into the picture?"
+        },
+        {
+          "character": "JAMESON",
+          "line": "This is where Karnas held his hostages before and where I believe he has them now."
+        },
+        {
+          "character": "PICARD",
+          "line": "Wouldn't that be a little obvious, Admiral?"
+        },
+        {
+          "character": "JAMESON",
+          "line": "Karnas is a dogged strategist, Picard, not a brilliant one. He sticks to what works. He will kill the hostages if we do not get them out of there."
+        },
+        {
+          "character": "PICARD",
+          "line": "Therefore you see this armed raid as the only option."
+        },
+        {
+          "character": "JAMESON",
+          "line": "You don't agree?"
+        },
+        {
+          "character": "PICARD",
+          "line": "With respect, Admiral, I would point out no one else has heard or considered Karnas's demands. The Federation might view them differently if they knew what they were."
+        },
+        {
+          "character": "JAMESON",
+          "line": "Starfleet has given me command of the away team, Picard, and I intend to use them as I see fit."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "ANNE",
+          "line": "Our anniversary is next week. Our fiftieth."
+        },
+        {
+          "character": "CRUSHER",
+          "line": "In his heart, he's still the same man you married, Anne."
+        },
+        {
+          "character": "TROI",
+          "line": "That's true. He still cares for you, despite the physical changes he's undergoing."
+        },
+        {
+          "character": "ANNE",
+          "line": "But he's getting younger, and I'm, well look at me. Why did he do this?"
+        },
+        {
+          "character": "TROI",
+          "line": "Because there are lives at stake, Mrs. Jameson."
+        },
+        {
+          "character": "ANNE",
+          "line": "What about our lives, his and mine? I was looking forward to time together finally. Our retirement. Now he's young again, and has his life to live over."
+        },
+        {
+          "character": "TROI",
+          "line": "Doctor, she has to know."
+        },
+        {
+          "character": "ANNE",
+          "line": "Know what?"
+        },
+        {
+          "character": "CRUSHER",
+          "line": "Anne, your husband."
+        },
+        {
+          "character": "ANNE",
+          "line": "What is it?"
+        },
+        {
+          "character": "CRUSHER",
+          "line": "He's not stabilizing. He may not have that life to live over."
+        }
+      ],
+      "location": "Doctor's office"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "JAMESON",
+          "line": "We'll be at Mordan in three hours."
+        },
+        {
+          "character": "PICARD",
+          "line": "I couldn't sleep either."
+        },
+        {
+          "character": "JAMESON",
+          "line": "I never could before a mission. I always wound up in the observation lounge, staring out at the stars, thinking."
+        },
+        {
+          "character": "PICARD",
+          "line": "Perhaps in this case, rethinking?"
+        },
+        {
+          "character": "PICARD",
+          "line": "Why is this mission so important to you? Why did you risk your life to lead it personally?"
+        },
+        {
+          "character": "JAMESON",
+          "line": "I want to save lives, Captain."
+        },
+        {
+          "character": "PICARD",
+          "line": "Noble sentiments, but that's too easy an answer. You've been here before. You negotiated a release of the hostages with Karnas before. Why is it now your answer is an armed raid? It's my away team you're sending in there. I think there's something you're not telling me, and I have a right to know what it is."
+        },
+        {
+          "character": "JAMESON",
+          "line": "Do you know the background? The Mordanites had some sophistication, but were still ruled by tribal family units. Karnas's father was the ruling chief of one of the families. Another tribe had him assassinated. Karnas seized the passengers of a starliner and held them hostage, demanding that Starfleet provide him with weapons that would enable him to defeat his rivals."
+        },
+        {
+          "character": "PICARD",
+          "line": "That's the official record."
+        },
+        {
+          "character": "JAMESON",
+          "line": "Officially, the story is that after two other mediators were murdered, I went in and negotiated with Karnas to bring out the hostages safely."
+        },
+        {
+          "character": "PICARD",
+          "line": "Are you saying that's not the truth?"
+        },
+        {
+          "character": "JAMESON",
+          "line": "It wasn't my golden oratory that saved them, Captain. I gave Karnas the weapons he wanted."
+        },
+        {
+          "character": "PICARD",
+          "line": "You did what?"
+        },
+        {
+          "character": "JAMESON",
+          "line": "I gave exactly the same weapons to his rivals. My interpretation of the Prime Directive. Let them solve their problems with those arms on an equal basis."
+        },
+        {
+          "character": "PICARD",
+          "line": "And that decision plunged them into forty years of civil war."
+        },
+        {
+          "character": "JAMESON",
+          "line": "I didn't know that would happen. I thought a minor war. It would be settled in less than a year. How would I know it would take four decades? But I falsified the reports to Starfleet, and I lived with that on my soul, Picard. Sixty-three people came away safe but millions died on Mordan because I delivered those weapons."
+        },
+        {
+          "character": "PICARD",
+          "line": "Karnas could have worked for peace during those years instead of continuing the war. It's not all on your head, Admiral."
+        },
+        {
+          "character": "JAMESON",
+          "line": "But I started it. I lit the match. Now finally I can vindicate myself, if only in a small way. I came to negotiate, but that isn't what Karnas wants."
+        },
+        {
+          "character": "PICARD",
+          "line": "Revenge. That's why he demanded you when he knew that you were still alive."
+        },
+        {
+          "character": "JAMESON",
+          "line": "And I'm not going to give it to him, Picard. I'm going to do what I should have done the first time. We're taking the hostages out by force, if necessary. No deals."
+        }
+      ],
+      "location": "Observation lounge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "JAMESON",
+          "line": "Prepare to energize, Chief."
+        },
+        {
+          "character": "PICARD",
+          "line": "Belay that. Admiral, your proper place is on the Bridge."
+        },
+        {
+          "character": "JAMESON",
+          "line": "I will remind you one more time, Picard, I am the Senior Mission Commander and I'm leading this team."
+        },
+        {
+          "character": "RIKER",
+          "line": "Sir?"
+        },
+        {
+          "character": "PICARD",
+          "line": "The Admiral is correct, Number One. He has that right. But I am the Captain of this ship, and I have a right to accompany him. Riker, you're in command of the Enterprise. Energize."
+        }
+      ],
+      "location": "Transporter room"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "JAMESON",
+          "line": "Yes, perfect. We are in the M4 tunnel, directly under the Governor's residence. M-4 is a subsidiary tunnel, but it crosses and links with several main ones."
+        },
+        {
+          "character": "DATA",
+          "line": "I am sorry, sir. That does not correspond with the information in my tricorder, sir."
+        },
+        {
+          "character": "JAMESON",
+          "line": "Your information is incorrect, Commander. I know these tunnels like the back of my own hand. Keep scanning for signs of human life forms. Karnas held his hostages in these tunnels before. He'll do it again."
+        },
+        {
+          "character": "DATA",
+          "line": "Captain, the Admiral is definitely incorrect. The tunnel schematics we have show this to be a dead end. It was sealed off two years ago."
+        },
+        {
+          "character": "PICARD",
+          "line": "No doubt you're right, Mister Data. However, forty five years ago, I'm sure it linked in with the tunnels the Admiral remembers."
+        },
+        {
+          "character": "JAMESON",
+          "line": "Damn."
+        },
+        {
+          "character": "PICARD",
+          "line": "Geordi?"
+        },
+        {
+          "character": "LAFORGE",
+          "line": "This is steelplast, sir. Fairly recent installlation."
+        },
+        {
+          "character": "JAMESON",
+          "line": "This is the most direct route. Set phasers to cut through it."
+        },
+        {
+          "character": "TASHA",
+          "line": "If you have the coordinates where you think the hostages are, sir, we could just beam in over there."
+        },
+        {
+          "character": "JAMESON",
+          "line": "Karnas may not have them in the same place. There's no substitute, Lieutenant, for personal reconnoiter."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Admiral, there's an infrared light signal ahead. Steady beam, straight across the tunnel, chest high. There's another at waist level."
+        },
+        {
+          "character": "TASHA",
+          "line": "An alarm trigger or"
+        },
+        {
+          "character": "PICARD",
+          "line": "Reset phasers to stun."
+        },
+        {
+          "character": "PICARD",
+          "line": "Take cover!"
+        },
+        {
+          "character": "WORF",
+          "line": "Sir, look out!"
+        },
+        {
+          "character": "DATA",
+          "line": "Their phasers, sir, set on kill."
+        },
+        {
+          "character": "PICARD",
+          "line": "Thank you, Mister Data. I have heard the sound before."
+        },
+        {
+          "character": "TASHA",
+          "line": "Is he hit?"
+        },
+        {
+          "character": "DATA",
+          "line": "No sign of a wound."
+        },
+        {
+          "character": "PICARD",
+          "line": "Enterprise, this is Picard. Six to beam up, now!"
+        }
+      ],
+      "location": "Tunnel"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "RIKER",
+          "line": "The Admiral?"
+        },
+        {
+          "character": "PICARD",
+          "line": "Sickbay. Not good is a galactic understatement."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Sir? Karnas again, sir. On screen."
+        },
+        {
+          "character": "KARNAS",
+          "line": "Enterprise. There has been an armed intrusion in the tunnels beneath the city. That smells of Jameson. Where is he?",
+          "modifier": "screen"
+        },
+        {
+          "character": "PICARD",
+          "line": "Karnas, this is Picard. I'm sorry to inform you the Admiral is critically ill."
+        },
+        {
+          "character": "KARNAS",
+          "line": "That is not my concern. Sick or well, you have ten minutes to beam him down.",
+          "modifier": "screen"
+        },
+        {
+          "character": "TROI",
+          "line": "Sickbay to Bridge.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "PICARD",
+          "line": "Picard."
+        },
+        {
+          "character": "TROI",
+          "line": "Doctor Crusher",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TROI",
+          "line": "Requests your presence in Sickbay immediately, sir."
+        }
+      ],
+      "location": "Sickbay"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "PICARD",
+          "line": "I'm on my way."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "PICARD",
+          "line": "Sickbay."
+        }
+      ],
+      "location": "Turbolift"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "PICARD",
+          "line": "What is it, Doctor?"
+        },
+        {
+          "character": "CRUSHER",
+          "line": "I think you'd better see for yourself, Captain."
+        },
+        {
+          "character": "JAMESON",
+          "line": "Picard. Picard, I have to get to Karnas."
+        },
+        {
+          "character": "CRUSHER",
+          "line": "I can't allow him out of my care, Captain."
+        },
+        {
+          "character": "JAMESON",
+          "line": "It's my last option, Picard. The raid failed. All I have left to bargain with is myself."
+        },
+        {
+          "character": "RIKER",
+          "line": "Bridge to Picard.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "PICARD",
+          "line": "Picard here."
+        },
+        {
+          "character": "RIKER",
+          "line": "A new message from Karnas, sir.",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "Sickbay"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "RIKER",
+          "line": "If we don't deliver Jameson in five minutes, one of the hostages will be executed."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "RIKER",
+          "line": "Fifteen minutes after that, another.",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "Sickbay"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "RIKER",
+          "line": "He promises the method of execution will be most painful."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "JAMESON",
+          "line": "Let me go. If I give myself over to him, he'll let the hostages go. It's me he wants."
+        },
+        {
+          "character": "PICARD",
+          "line": "It means almost certain death for you, Admiral."
+        },
+        {
+          "character": "JAMESON",
+          "line": "My life for how many hostages, Picard? Twenty? Let me go."
+        },
+        {
+          "character": "PICARD",
+          "line": "Number One, inform Karnas we'll be beaming down in less than five minutes."
+        },
+        {
+          "character": "RIKER",
+          "line": "Did you say we, sir?",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "PICARD",
+          "line": "You have your orders, Number One."
+        }
+      ],
+      "location": "Sickbay"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "RIKER",
+          "line": "Aye, sir.",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "KARNAS",
+          "line": "Who are you? I want Jameson."
+        },
+        {
+          "character": "PICARD",
+          "line": "Karnas, this is Admiral Mark Jameson."
+        },
+        {
+          "character": "KARNAS",
+          "line": "This charade will accomplish nothing, Picard. Beam down Jameson, and the hostages will be freed. Continue this and I promise you they will die. And you with them."
+        },
+        {
+          "character": "JAMESON",
+          "line": "Peretor Karnas, you always were a stubborn man. I thought you wanted me. I'm here. Release the hostages now."
+        },
+        {
+          "character": "KARNAS",
+          "line": "Peretor was my old title. Why do you call me that? I warn you, Picard. This trick is going too far. He has been coached for some devious reason. If this farce does not stopped immediately, you and the hostages will be put to death."
+        },
+        {
+          "character": "PICARD",
+          "line": "Doctor!"
+        },
+        {
+          "character": "KARNAS",
+          "line": "I am waiting for an explanation, Captain."
+        },
+        {
+          "character": "PICARD",
+          "line": "He is the Admiral, Karnas. Before he left on this mission, he administered an overdose of an alien de-aging drug to himself. He wanted to face you with strength again, on even terms. This is what the drug has done to him."
+        },
+        {
+          "character": "KARNAS",
+          "line": "This story you are telling is unbelievable. Jameson is a man of more than eighty years, not this. I want that old man, Picard. I want to show him this world he helped to make. The scars on old soldiers' bodies. The graveyards of our young dead. The wasted cities we are still rebuilding. And all of it caused by him."
+        },
+        {
+          "character": "PICARD",
+          "line": "As I understand it, Karnas, you were the one who demanded the weapons to avenge your father's death."
+        },
+        {
+          "character": "KARNAS",
+          "line": "But Jameson didn't give weapons to only us. If he had, we would have quickly triumphed over our enemies, and there would have been peace in all these decades. I want him to pay for that, Picard."
+        },
+        {
+          "character": "CRUSHER",
+          "line": "Captain, I think Mrs. Jameson should beam down now."
+        },
+        {
+          "character": "PICARD",
+          "line": "Enterprise, this is Picard. Have Mrs. Jameson prepare to beam down. Karnas, I asked Doctor Crusher to bring with her the visual records we've made of Admiral Jameson's deterioration. Will you look at them?"
+        },
+        {
+          "character": "KARNAS",
+          "line": "You're wasting my time, Picard."
+        },
+        {
+          "character": "PICARD",
+          "line": "Just a few moments. You saw the Admiral on the Enterprise when he was en route to Mordan?"
+        },
+        {
+          "character": "KARNAS",
+          "line": "Yes."
+        },
+        {
+          "character": "PICARD",
+          "line": "And you recognized him?"
+        },
+        {
+          "character": "KARNAS",
+          "line": "Yes."
+        },
+        {
+          "character": "PICARD",
+          "line": "Is this the man you saw?"
+        },
+        {
+          "character": "KARNAS",
+          "line": "This is the man I want."
+        },
+        {
+          "character": "PICARD",
+          "line": "He's here, Karnas. Look. Once he took the compound there was no way to stop it."
+        },
+        {
+          "character": "PICARD",
+          "line": "You'll have to deal with me, Karnas. Whatever you wanted from Jameson isn't possible any more. And you wanted revenge. You blamed your war on him, and there's no doubt he had a lot to do with it. But you had the weapons and you used them. You could have tried for negotiations for peace on your planet long ago. Instead you chose to fight. How many of those forty years of civil war are on your head, Karnas?"
+        },
+        {
+          "character": "KARNAS",
+          "line": "Jameson has to pay for his crimes. I have sworn it to my people."
+        },
+        {
+          "character": "PICARD",
+          "line": "Forty five years ago he made the wrong decision. He wanted to come here to somehow right it, to atone for what he did. Now all he can do is to give himself up to you. He brought this retribution on himself."
+        },
+        {
+          "character": "KARNAS",
+          "line": "No. I don't believe you. You're shielding Jameson on the ship and you're telling me this tale to save his life."
+        },
+        {
+          "character": "JAMESON",
+          "line": "Peretor Karnas, there were only two of us in the meeting. You didn't even trust your lieutenants there. You told me that old Peretor Sain had ordered your father's assassination. You told me that you wanted arms to destroy him. Peace wasn't on your mind. All you wanted was revenge. And I gave you the weapons to do it."
+        },
+        {
+          "character": "KARNAS",
+          "line": "Jameson told you this. If it is you, show me the scar."
+        },
+        {
+          "character": "JAMESON",
+          "line": "There. The blood cut you gave me to seal our bargain."
+        },
+        {
+          "character": "KARNAS",
+          "line": "It is you. Somehow it is you. Then die by your own weapon! No. No, my revenge will be in seeing you live like this. Such pain."
+        },
+        {
+          "character": "CRUSHER",
+          "line": "The compound he took is forcing his cells and organs to go further, younger, and they can't take the stress. It's like they're imploding. And I can't give him anything to stop it."
+        },
+        {
+          "character": "PICARD",
+          "line": "Can you ease the pain?"
+        },
+        {
+          "character": "ANNE",
+          "line": "Mark, can you hear me?"
+        },
+        {
+          "character": "JAMESON",
+          "line": "Yes."
+        },
+        {
+          "character": "ANNE",
+          "line": "I'll always love you."
+        },
+        {
+          "character": "JAMESON",
+          "line": "Annie with the golden hair."
+        },
+        {
+          "character": "ANNE",
+          "line": "Flatterer. It's gray now."
+        },
+        {
+          "character": "JAMESON",
+          "line": "I\u00a0see only the gold."
+        },
+        {
+          "character": "KARNAS",
+          "line": "Rest, Jameson. Your long night, and mine, are over. The hostages will be freed immediately, Captain. I'm prepared to be cooperative."
+        }
+      ],
+      "location": "Karnas's office"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "PICARD",
+          "line": "The hostages have been freed by Karnas, unharmed, and the body of Admiral Mark Jameson has been buried on Mordan, at the request of his widow and by the permission of Karnas. The quest for youth, Number One. So futile. Age and wisdom have their graces too."
+        },
+        {
+          "character": "RIKER",
+          "line": "I wonder if one doesn't have to have age and wisdom to appreciate that, sir."
+        },
+        {
+          "character": "PICARD",
+          "line": "I hope not, Number One. Mister La Forge, prepare to take us out of orbit. Set course for Isis Three."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Aye, sir. Leaving orbit."
+        }
+      ],
+      "location": "Bridge"
+    }
+  ],
+  "schedule": {
+    "episode": 12,
+    "number": 12,
+    "season": 1
+  },
+  "stardate": "41309.5",
+  "title": "Too Short A Season"
+}

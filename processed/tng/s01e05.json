@@ -1,0 +1,1505 @@
+{
+  "airdate": 565246800,
+  "scenes": [
+    {
+      "dialogue": [
+        {
+          "character": "PICARD",
+          "line": "Captain's log, Stardate 41294.5. Our destination, the class M Beta Cassius planet known simply as Haven. It is a world so renowned for its peaceful beauty that some believe it to have mystical healing powers. We will rest and relax, all too briefly, I fear",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "unknown"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "PICARD",
+          "line": "Such a beautiful world. Legends say it has been known to mend souls and heal broken hearts."
+        },
+        {
+          "character": "DATA",
+          "line": "Legends which are totally unsupported by fact, Captain."
+        },
+        {
+          "character": "PICARD",
+          "line": "Legends like that are the spice of the universe, Mister Data, because they have a way of sometimes coming true."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TASHA",
+          "line": "Lieutenant Yar to Commander Riker, your presence is requested in Transporter room one.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "RIKER",
+          "line": "Sorry ladies. Duty calls."
+        }
+      ],
+      "location": "Riker's quarters"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "RIKER",
+          "line": "You needed me, Lieutenant?"
+        },
+        {
+          "character": "TASHA",
+          "line": "Yes, sir. There's an object of some kind beaming in from Haven."
+        },
+        {
+          "character": "RIKER",
+          "line": "What is it?"
+        },
+        {
+          "character": "TASHA",
+          "line": "We're not sure."
+        },
+        {
+          "character": "CHIEF",
+          "line": "Surface Station approval coming in now, Lieutenant."
+        },
+        {
+          "character": "TASHA",
+          "line": "All right, let's bring it in."
+        },
+        {
+          "character": "RIKER",
+          "line": "Odd looking."
+        },
+        {
+          "character": "TROI",
+          "line": "What's going on?"
+        },
+        {
+          "character": "FACE",
+          "line": "I hold a message for Deanna Troi. Lwaxana Troi and the honorable Miller family will soon arrive. The momentous day is close at hand. Rejoice."
+        },
+        {
+          "character": "TROI",
+          "line": "No. No."
+        },
+        {
+          "character": "RIKER",
+          "line": "What's going on?"
+        },
+        {
+          "character": "TASHA",
+          "line": "Jewels. Look at these jewels."
+        },
+        {
+          "character": "TROI",
+          "line": "They're bonding gifts. What you would call wedding presents."
+        },
+        {
+          "character": "RIKER",
+          "line": "Who's getting married?"
+        },
+        {
+          "character": "TROI",
+          "line": "I am."
+        }
+      ],
+      "location": "Transporter room"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TROI",
+          "line": "I was certain it would never happen, Captain. The years I'd spend on this mission, the distance it has taken me away from home. As you must have heard, genetic bonding is a Betazoid tradition. Steven Miller was my father's closest friend."
+        },
+        {
+          "character": "RIKER",
+          "line": "Your father was human, Deanna. The Millers are human"
+        },
+        {
+          "character": "PICARD",
+          "line": "Will you and your husband be staying with the ship, Counselor?"
+        },
+        {
+          "character": "TROI",
+          "line": "No, sir."
+        },
+        {
+          "character": "PICARD",
+          "line": "Then I'll just say congratulations for now, Deanna. You'll excuse me?"
+        },
+        {
+          "character": "TROI",
+          "line": "Bill, more than anything else in the world, anything, you want to be a starship captain. True?"
+        },
+        {
+          "character": "RIKER",
+          "line": "That's not all I want, Deanna."
+        },
+        {
+          "character": "TROI",
+          "line": "I can feel that. I know you care, within those limits. Did you hear what I said?"
+        },
+        {
+          "character": "RIKER",
+          "line": "Every word. This whole thing is still bizarre. I'm sorry."
+        },
+        {
+          "character": "TROI",
+          "line": "Come dance at my wedding."
+        },
+        {
+          "character": "RIKER",
+          "line": "I'll try."
+        },
+        {
+          "character": "DATA",
+          "line": "A message from planet Haven, Counselor. They wish to beam the Miller wedding party aboard."
+        }
+      ],
+      "location": "Ready room"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "PICARD",
+          "line": "I'm Jean-Luc Picard, Captain of the Enterprise. Welcome aboard."
+        },
+        {
+          "character": "STEVEN",
+          "line": "Quite some starship you have here, Captain. Look forward to this visit."
+        },
+        {
+          "character": "VICTORIA",
+          "line": "You couldn't be"
+        },
+        {
+          "character": "TROI",
+          "line": "I'm Deanna."
+        },
+        {
+          "character": "VICTORIA",
+          "line": "Deanna darling! You probably don't even remember me."
+        },
+        {
+          "character": "STEVEN",
+          "line": "Wyatt was absolutely right. She is a beauty."
+        },
+        {
+          "character": "WYATT",
+          "line": "I'm Wyatt."
+        },
+        {
+          "character": "VICTORIA",
+          "line": "Isn't this simply beautiful? I knew romance was still alive, somewhere."
+        },
+        {
+          "character": "WYATT",
+          "line": "I'd like you to have this. It's a Chameleon Rose. It changes color with the mood of its owner."
+        },
+        {
+          "character": "TROI",
+          "line": "It's wonderful. Thank you. When is my mother arriving?"
+        },
+        {
+          "character": "WYATT",
+          "line": "Your mother is still down on the planet, Deanna."
+        },
+        {
+          "character": "TROI",
+          "line": "Why?"
+        },
+        {
+          "character": "WYATT",
+          "line": "Er, is there a place for my parents to rest, Captain?"
+        },
+        {
+          "character": "STEVEN",
+          "line": "Well, we're not really tired, son. Besides, I'd like to see some of the ship."
+        },
+        {
+          "character": "VICTORIA",
+          "line": "Steven, you know full well Lwaxana Troi isn't about to beam on aboard until we leave. So?"
+        },
+        {
+          "character": "PICARD",
+          "line": "You can see your quarters now, if you like. Will you show the Millers to their accommodations, please, and I shall join you later."
+        },
+        {
+          "character": "CHIEF",
+          "line": "Two more are ready to beam in, sir."
+        },
+        {
+          "character": "PICARD",
+          "line": "So be it. Wyatt seems a fine young man."
+        },
+        {
+          "character": "TROI",
+          "line": "Yes, he does. But I'm not what he expected."
+        },
+        {
+          "character": "PICARD",
+          "line": "I don't understand."
+        },
+        {
+          "character": "TROI",
+          "line": "Neither do I, but I'm definitely a surprise of some sort to him. I should warn you, sir. My mother is a little eccentric."
+        },
+        {
+          "character": "LWAXANA",
+          "line": "Where is everyone? Oh, I hate that."
+        },
+        {
+          "character": "TROI",
+          "line": "Hello, Mother"
+        },
+        {
+          "character": "LWAXANA",
+          "line": "Don't say it, think it. Use your mind, not your mouth.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "TROI",
+          "line": "Hello Mother."
+        },
+        {
+          "character": "LWAXANA",
+          "line": "Deanna, shame. What has this life done to you?",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "LWAXANA",
+          "line": "No, don't tell me. You're the Captain."
+        },
+        {
+          "character": "PICARD",
+          "line": "Of course. Your daughter has explained your telepathic ability."
+        },
+        {
+          "character": "LWAXANA",
+          "line": "That wasn't telepathy, it was just common sense. Who else would they send to greet me but the Captain? You may carry my luggage."
+        },
+        {
+          "character": "TROI",
+          "line": "Mother!"
+        },
+        {
+          "character": "PICARD",
+          "line": "No, no, that's quite all right. I'm indebted to your mother for the fine Counselor she"
+        },
+        {
+          "character": "PICARD",
+          "line": "This way."
+        }
+      ],
+      "location": "Transporter room"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TROI",
+          "line": "Mother, it's quite inappropriate to ask the captain to"
+        },
+        {
+          "character": "LWAXANA",
+          "line": "Yes, you do seem to be having difficulty. A man your age must work to keep himself in shape."
+        },
+        {
+          "character": "TROI",
+          "line": "Mother, I'm not going another step like this. A starship has its customs, just as we do. If you're my mother's valet, then please valet!"
+        },
+        {
+          "character": "PICARD",
+          "line": "Oh, please don't let me keep up from doing your duty."
+        },
+        {
+          "character": "LWAXANA",
+          "line": "I apologize for her behavior. Do you realize you've embarrassed your Captain?"
+        },
+        {
+          "character": "PICARD",
+          "line": "Oh, no."
+        },
+        {
+          "character": "LWAXANA",
+          "line": "Anything to avoid a quarrel on this occasion. It's amazing how that accent of yours reminds me of your father."
+        },
+        {
+          "character": "TROI",
+          "line": "Your last valet tried so hard to rid me of it. Whatever happened to Mister Xelo?"
+        },
+        {
+          "character": "LWAXANA",
+          "line": "I was forced to terminate his employment. Xelo was strongly attracted to me. His thoughts became truly pornographic."
+        }
+      ],
+      "location": "Corridor"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "LWAXANA",
+          "line": "Of course, the thoughts of Wyatt's father toward me were almost as vulgar, but he really doesn't have Xelo's"
+        },
+        {
+          "character": "PICARD",
+          "line": "Passenger accommodation."
+        },
+        {
+          "character": "LWAXANA",
+          "line": "He doesn't really have Xelo's imagination."
+        },
+        {
+          "character": "TROI",
+          "line": "Mother."
+        },
+        {
+          "character": "LWAXANA",
+          "line": "Between him and that woman's inane chatter, it's a wonder I made it here at all. How do you like the Millers, Captain?"
+        },
+        {
+          "character": "PICARD",
+          "line": "I'm sure I find them perfectly pleasant"
+        },
+        {
+          "character": "LWAXANA",
+          "line": "As for me, I find it shocking how they've changed in the years since my husband and I knew them. Of course, it's probably because I've grown beyond them. You realize of course that with Betazoids, our ability to read the thoughts of others does see us grow much faster than the typical plodding human who"
+        },
+        {
+          "character": "TROI",
+          "line": "Mother, that's enough!",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "LWAXANA",
+          "line": "So, you're not totally out of practice. Good. Very good.",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "Turbolift"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "PICARD",
+          "line": "We hope you find the room comfortable."
+        },
+        {
+          "character": "LWAXANA",
+          "line": "Yes, the room is adequate. Small, but adequate. You will of course adjust the temperature to a civilized level?"
+        },
+        {
+          "character": "PICARD",
+          "line": "I'll see what I can do. And now, if you will excuse me, I'm sure the two of you have a lot to talk about."
+        },
+        {
+          "character": "LWAXANA",
+          "line": "Yes, Captain. You may go."
+        },
+        {
+          "character": "LWAXANA",
+          "line": "You've been slack, little one. Allowed your mental powers to rust.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "TROI",
+          "line": "Only to avoid confusion, mother. Humans constantly think one thing and say another.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "LWAXANA",
+          "line": "Yes, they do, don't they. Poor dears. Our style of complete honesty frightens them.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "TROI",
+          "line": "On that subject Mother, there is such a thing as too much honesty with humans."
+        },
+        {
+          "character": "LWAXANA",
+          "line": "If they'd only say what they think instead of hiding it. An entire shipload of such inconsistency could drive one insane.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "LWAXANA",
+          "line": "Darling, I'm terribly sorry about what happened here. Truly I am. Steven Miller tracked me down and reminded me of the vows we had made."
+        },
+        {
+          "character": "TROI",
+          "line": "Mother, I'm having some trouble believing in those vows as once I did."
+        },
+        {
+          "character": "LWAXANA",
+          "line": "Deanna."
+        },
+        {
+          "character": "TROI",
+          "line": "But I'll honor them, of course. I'm a Betazoid."
+        },
+        {
+          "character": "LWAXANA",
+          "line": "You may find Wyatt an unusual person. I've sensed remarkable depths in him."
+        }
+      ],
+      "location": "Lwaxana's quarters"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "LAFORGE",
+          "line": "Message coming in from Haven, Captain."
+        },
+        {
+          "character": "PICARD",
+          "line": "On screen."
+        },
+        {
+          "character": "VALEDA",
+          "line": "I'm Valeda Innis, First Electorine of Haven. Captain Picard?",
+          "modifier": "screen"
+        },
+        {
+          "character": "PICARD",
+          "line": "Greetings, Electorine. I'm Picard."
+        },
+        {
+          "character": "VALEDA",
+          "line": "Your presence honors us, and your timing is fortuitous, Captain.",
+          "modifier": "screen"
+        },
+        {
+          "character": "PICARD",
+          "line": "In what way?"
+        },
+        {
+          "character": "VALEDA",
+          "line": "An incoming vessel has bypassed our stargate, violating our law. It has refused any attempt at communication.",
+          "modifier": "screen"
+        },
+        {
+          "character": "PICARD",
+          "line": "Are you saying you believe it to be hostile?"
+        },
+        {
+          "character": "VALEDA",
+          "line": "Failure to communicate is inherently hostile. We have no defensive capabilities here and our treaty with the Federation specifies your obligations in that matter.",
+          "modifier": "screen"
+        },
+        {
+          "character": "PICARD",
+          "line": "Agreed. But let's hope it doesn't become a defense matter."
+        },
+        {
+          "character": "VALEDA",
+          "line": "Of course, Captain, but I'm very happy we have you here.",
+          "modifier": "screen"
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "WYATT",
+          "line": "Come in."
+        },
+        {
+          "character": "TROI",
+          "line": "I wanted to apologize for my mother's behavior."
+        },
+        {
+          "character": "WYATT",
+          "line": "Your mother's honest. I respect that."
+        },
+        {
+          "character": "TROI",
+          "line": "Yes, but she never lets up."
+        },
+        {
+          "character": "WYATT",
+          "line": "I'll admit, her honesty is a bit persistent."
+        },
+        {
+          "character": "TROI",
+          "line": "I never heard it described better. But it is a Betazoid trait. I'll try to be only half as annoying."
+        },
+        {
+          "character": "WYATT",
+          "line": "Let's see, what can I tell you about myself? I'm a medical doctor, for whatever that's worth."
+        },
+        {
+          "character": "TROI",
+          "line": "Doctor?"
+        },
+        {
+          "character": "WYATT",
+          "line": "If you're picking up my thoughts, you'd know. You can do that, can't you?"
+        },
+        {
+          "character": "TROI",
+          "line": "Sometimes. This must be what Mother felt about you. I believe we could read each other eventually."
+        },
+        {
+          "character": "WYATT",
+          "line": "Can I take that as a compliment?"
+        },
+        {
+          "character": "TROI",
+          "line": "Absolutely. I only ever felt this, well, with someone who's on this ship."
+        },
+        {
+          "character": "WYATT",
+          "line": "Oh? Do I have competition?"
+        },
+        {
+          "character": "TROI",
+          "line": "No. What he wants most is to captain a starship."
+        },
+        {
+          "character": "WYATT",
+          "line": "What I want is to cure people."
+        },
+        {
+          "character": "TROI",
+          "line": "Well, I'm a practicing psychologist. Maybe we can work in concert. We are going to be together a long time."
+        },
+        {
+          "character": "WYATT",
+          "line": "Yes. That is the point of marriage, I suppose."
+        },
+        {
+          "character": "TROI",
+          "line": "I really thought you'd tell me you were an artist. I just felt your mind very much on these. They are your work, aren't they?"
+        },
+        {
+          "character": "WYATT",
+          "line": "I can see it'll be very hard to keep secrets from you."
+        },
+        {
+          "character": "TROI",
+          "line": "This is why you were surprised when you first saw me. This woman. You thought that I would be this woman."
+        },
+        {
+          "character": "WYATT",
+          "line": "I have seen this face ever since I was a boy. When I closed my eyes at night, I could hear her whispering my name. And knowing you were Betazoid, I just assumed it was you projecting yourself into my mind."
+        },
+        {
+          "character": "TROI",
+          "line": "I'm sorry I'm not what you hoped for."
+        },
+        {
+          "character": "WYATT",
+          "line": "No. Please don't mistake a childish fantasy for disappointment. You are so beautiful. I feel honored."
+        },
+        {
+          "character": "TROI",
+          "line": "You've no idea who she is?"
+        },
+        {
+          "character": "WYATT",
+          "line": "It doesn't really matter now. Captain's personal log. I trust my concern over the problems of ship's Counselor Troi are not based merely on losing a highly valuable crew member. But it seems to me that she is trapped by a custom of her home world which the facts of the twenty-fourth century life have made unwise and unworkable. I wish I could intervene."
+        }
+      ],
+      "location": "Wyatt's quarters"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "DATA",
+          "line": "On the viewer, Captain. Unidentified vessel traveling sub-warp speed, bearing two three five point seven."
+        },
+        {
+          "character": "PICARD",
+          "line": "Sub-warp? It's several hours away then? Let's take a look at it. Enlarge to maximum."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Increasing magnification, sir."
+        },
+        {
+          "character": "PICARD",
+          "line": "Mister Data, is that the trouble I believe it is?"
+        },
+        {
+          "character": "DATA",
+          "line": "If you mean a Tarellian vessel, sir, it is."
+        },
+        {
+          "character": "RIKER",
+          "line": "I thought the Tarellians were all dead What are the poor devils doing here?"
+        },
+        {
+          "character": "PICARD",
+          "line": "Picard to Sickbay. Doctor Crusher to Bridge, urgent. They must not be permitted them to destroy us. Or the planet."
+        },
+        {
+          "character": "PICARD",
+          "line": "Captain's log, supplemental. It has been believed the Tarellian race was extinct, an assumption contradicted now by the sight of one of their vessels approaching Haven.",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "RIKER",
+          "line": "The fact that it's traveling at its present velocity suggests a possible answer."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "A damaged vessel, sir. That could explain it."
+        },
+        {
+          "character": "RIKER",
+          "line": "If it were unable to reach warp speed, it would have taken all these years to get here."
+        },
+        {
+          "character": "PICARD",
+          "line": "Go on with your briefing, Mister Data."
+        },
+        {
+          "character": "DATA",
+          "line": "Tarella was class M, much like your Earth, with similar humanoid life forms. Unfortunately they faced the old story of hatred out powering intelligence."
+        },
+        {
+          "character": "PICARD",
+          "line": "There were hostilities?"
+        },
+        {
+          "character": "DATA",
+          "line": "Between the inhabitants of their two land masses, resulting in one group unleashing a deadly biological weapon on the other."
+        },
+        {
+          "character": "CRUSHER",
+          "line": "And in the end the other became infected as well. Makes one question the sanity of humanoid forms."
+        },
+        {
+          "character": "PICARD",
+          "line": "Can you identify the origin of the infection, Doctor?"
+        },
+        {
+          "character": "CRUSHER",
+          "line": "The Tarellians had reached Earth's late twentieth century level of knowledge. That's all you need if you're a damned fool. A deadly, infectious virus which at that modest level of knowledge is not difficult to grow."
+        },
+        {
+          "character": "TASHA",
+          "line": "We learned the rest of the story in security training. Some Tarellians made it to other worlds only to die along with the populations they infected."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "It's pretty well covered in Academy training now, Captain. Many of them tried to avoid other civilized worlds as they escaped only to be hunted down and destroyed anyway."
+        },
+        {
+          "character": "PICARD",
+          "line": "And it was believed that the last Tarellian vessel was destroyed eight years ago by the Alcyones."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Yes, sir."
+        },
+        {
+          "character": "PICARD",
+          "line": "Exactly when will they reach Haven?"
+        },
+        {
+          "character": "DATA",
+          "line": "Exactly thirteen hours, nine minutes, twenty two seconds, three hundred fifty"
+        },
+        {
+          "character": "PICARD",
+          "line": "Thank you. Which creates a very difficult problem for the Enterprise. Our treaty requires us to protect Haven, and Federation policy requires that we assist life forms in need, which must include the Tarellians. I'll want you to help me find some answers. Thank you. However, there will be ample time for your second assignment, voluntary of course. The pre-joining announcement of Counselor Deanna Troi"
+        },
+        {
+          "character": "PICARD",
+          "line": "And Wyatt Miller."
+        }
+      ],
+      "location": "Observation lounge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "VICTORIA",
+          "line": "We've talked it over, Captain, and the ceremony will be tomorrow if you agree. And Captain, would it be possible for you to perform the ceremony?"
+        },
+        {
+          "character": "PICARD",
+          "line": "Well, yes, of course, if all parties request it."
+        },
+        {
+          "character": "LWAXANA",
+          "line": "All parties do not request it. It's simply out of the question. I'm sorry, Captain, but unfortunately you are not practiced in the ways of Betazed joining."
+        },
+        {
+          "character": "PICARD",
+          "line": "No, that's quite true."
+        },
+        {
+          "character": "LWAXANA",
+          "line": "Therefore you are totally unqualified."
+        },
+        {
+          "character": "VICTORIA",
+          "line": "He is qualified to lead a traditional Earth ceremony, which is what this will be."
+        },
+        {
+          "character": "LWAXANA",
+          "line": "I thought you had no sense of humor. Earth wedding? Ridiculous!"
+        },
+        {
+          "character": "VICTORIA",
+          "line": "My family and I are living on Earth now."
+        },
+        {
+          "character": "LWAXANA",
+          "line": "So, that's why you want that backward ritual. Terrible, Captain, to see a woman go downhill like this."
+        },
+        {
+          "character": "TROI",
+          "line": "Mother!"
+        },
+        {
+          "character": "VICTORIA",
+          "line": "Downhill?"
+        },
+        {
+          "character": "LWAXANA",
+          "line": "The matter is settled. Mister Homn will conduct the joining."
+        },
+        {
+          "character": "STEVEN",
+          "line": "But Homn can't even talk!"
+        },
+        {
+          "character": "LWAXANA",
+          "line": "No matter, he is highly adept in the acts of sign language. The matter is closed."
+        },
+        {
+          "character": "VICTORIA",
+          "line": "Who are you to tell us what we should do?"
+        },
+        {
+          "character": "LWAXANA",
+          "line": "Your ignorance is astonishing. I am Lwaxana Troi. Daughter of The Fifth House, Holder of the Sacred Chalice of Rixx, Heir to the Holy Rings of Betazed. Who are you?"
+        },
+        {
+          "character": "PICARD",
+          "line": "Ladies and gentlemen, it is a Starfleet tradition that at social gatherings, disputes are not permitted. I hereby declare therefore all disagreements resolved."
+        },
+        {
+          "character": "PICARD",
+          "line": "A toast. To the young couple and their families."
+        },
+        {
+          "character": "VICTORIA",
+          "line": "And?"
+        },
+        {
+          "character": "PICARD",
+          "line": "And may this union be a productive one."
+        },
+        {
+          "character": "DATA",
+          "line": "Considering the rate at which you imbibe, sir, is your lineage at all mixed with human?"
+        },
+        {
+          "character": "WYATT",
+          "line": "Is it true, Captain, that there's a Tarellian ship headed for Haven?"
+        },
+        {
+          "character": "PICARD",
+          "line": "Yes, it is true."
+        },
+        {
+          "character": "WYATT",
+          "line": "That's amazing. I've read everything I could about them. Biological virus analysis was a favorite subject at medical school."
+        },
+        {
+          "character": "CRUSHER",
+          "line": "In which case I'd very much like to confer with you. I'm pleased to have a medical colleague aboard."
+        },
+        {
+          "character": "WYATT",
+          "line": "Yes, ma'am, Doctor. Would it be possible to prepare some medical needs, geared toward the Tarellian's probable needs? We could beam it over without any fear of infection."
+        },
+        {
+          "character": "PICARD",
+          "line": "What do you think, Doctor?"
+        },
+        {
+          "character": "CRUSHER",
+          "line": "It's a very considerate idea. Our Sickbay is at your disposal, Doctor."
+        },
+        {
+          "character": "WYATT",
+          "line": "Thank you."
+        },
+        {
+          "character": "PICARD",
+          "line": "Mister Data?"
+        },
+        {
+          "character": "DATA",
+          "line": "Sir?"
+        },
+        {
+          "character": "PICARD",
+          "line": "You're circling the room like a buzzard."
+        },
+        {
+          "character": "DATA",
+          "line": "Perhaps being human yourself, sir, you do not find them as intriguing as I."
+        },
+        {
+          "character": "VICTORIA",
+          "line": "Must he do that?"
+        },
+        {
+          "character": "LWAXANA",
+          "line": "As you well know, it is the Betazed way of giving thanks for the food we eat."
+        },
+        {
+          "character": "VICTORIA",
+          "line": "You giving thanks? Besides, you never did this before."
+        },
+        {
+          "character": "LWAXANA",
+          "line": "I do it now. Unlike some people, I am in growth."
+        },
+        {
+          "character": "LWAXANA",
+          "line": "Victoria, I've forgotten whether you enjoy pets or not."
+        },
+        {
+          "character": "VICTORIA",
+          "line": "Love them, of course."
+        },
+        {
+          "character": "LWAXANA",
+          "line": "Good."
+        },
+        {
+          "character": "LWAXANA",
+          "line": "Gently, gently. Poor baby, did she hurt you?"
+        },
+        {
+          "character": "RIKER",
+          "line": "Captain. If you'll excuse me, I'd like to spend some time considering the Tarellian situation"
+        },
+        {
+          "character": "PICARD",
+          "line": "Yes, of course."
+        },
+        {
+          "character": "RIKER",
+          "line": "Ladies and gentlemen."
+        },
+        {
+          "character": "DATA",
+          "line": "Mrs. Troi, I'm very interested in the Betazed ceremony you mentioned. Could you tell us more?"
+        },
+        {
+          "character": "LWAXANA",
+          "line": "Why, I'd be delighted, Commander. It's an ancient ceremony, widely regarded as the most beautiful in the universe. After the young couple have removed their clothing"
+        },
+        {
+          "character": "TASHA",
+          "line": "The bride and groom go naked?"
+        },
+        {
+          "character": "LWAXANA",
+          "line": "All guests must go unclothed. It honors the act of love being celebrated. Oh, you needn't worry too much, dear. Your body's not that bad. Besides, your husband quite likes the idea of seeing me unclothed."
+        },
+        {
+          "character": "VICTORIA",
+          "line": "Steven!"
+        },
+        {
+          "character": "LWAXANA",
+          "line": "You did know he's attracted to me, didn't you?"
+        },
+        {
+          "character": "STEVEN",
+          "line": "Untrue! I don't."
+        },
+        {
+          "character": "TROI",
+          "line": "Stop this petty bickering, all of you! Especially you, Mother!"
+        },
+        {
+          "character": "DATA",
+          "line": "Could you please continue the petty bickering? I find it most intriguing."
+        }
+      ],
+      "location": "Lounge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TROI",
+          "line": "May I join you?"
+        },
+        {
+          "character": "RIKER",
+          "line": "I will miss you, Deanna."
+        },
+        {
+          "character": "TROI",
+          "line": "I'm no longer Imzadi to you?"
+        },
+        {
+          "character": "RIKER",
+          "line": "You taught me that word means my beloved."
+        },
+        {
+          "character": "TROI",
+          "line": "And the human heart is too small to permit that feeling now."
+        },
+        {
+          "character": "RIKER",
+          "line": "Have you diskussed this with Wyatt? I think you should. It's also damned unfair to me."
+        },
+        {
+          "character": "TROI",
+          "line": "I understand. I should have realized. Humans, young human males particularly, have difficulty separating platonic love and physical love."
+        },
+        {
+          "character": "RIKER",
+          "line": "The problem is, Imzadi, I couldn't. Not now. Call it an old Earth tradition, habit of the beasts, whatever."
+        },
+        {
+          "character": "WYATT",
+          "line": "Hello, you two."
+        },
+        {
+          "character": "RIKER",
+          "line": "We were just talking about you, Wyatt."
+        },
+        {
+          "character": "WYATT",
+          "line": "This is incredible."
+        },
+        {
+          "character": "RIKER",
+          "line": "Yes. And in that diskussion, I"
+        },
+        {
+          "character": "TROI",
+          "line": "Actually, Bill was concerned that you might be upset that I care deeply for him, too."
+        },
+        {
+          "character": "WYATT",
+          "line": "Oh. You're the one who wants to be a starship captain. Yes, I've heard that bonding or marriage would complicate things in that case. To each his own. Good luck with that ambition. And I very much respected what you did tonight."
+        },
+        {
+          "character": "TROI",
+          "line": "All I did was lose my temper."
+        },
+        {
+          "character": "RIKER",
+          "line": "If you'll excuse me."
+        },
+        {
+          "character": "WYATT",
+          "line": "Of course. Running all this is a big job."
+        },
+        {
+          "character": "WYATT",
+          "line": "In fact, you shamed them into compromise. So they've decided that the joining will be half Betazed, half Earth. The Captain will do the ceremony and Mister Homn will be my best man."
+        },
+        {
+          "character": "TROI",
+          "line": "And we'll take our clothes half off?"
+        },
+        {
+          "character": "WYATT",
+          "line": "Some of us still go naked. You do, I do, your mother, my father, but not my mother or the guests."
+        },
+        {
+          "character": "TROI",
+          "line": "Captain Picard will be very relieved. How did you manage it?"
+        },
+        {
+          "character": "WYATT",
+          "line": "Your mother relented. And I just caught my father practicing naked in front of his mirror. And so, a question I should have asked before. Deanna, do you really want to go through with this?"
+        },
+        {
+          "character": "TROI",
+          "line": "Yes, I want to."
+        },
+        {
+          "character": "WYATT",
+          "line": "I'm a very lucky man."
+        },
+        {
+          "character": "PICARD",
+          "line": "Captain's log, supplemental. All attempts at warning off the Tarellian ship have failed. They still refuse to communicate and I am growing concerned.",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "Holodeck"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "PICARD",
+          "line": "How can you be certain they're receiving us?"
+        },
+        {
+          "character": "DATA",
+          "line": "Because our sensors are showing a responder echo, sir, on the frequency they once used."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "We have a message, sir, coming in from Haven."
+        },
+        {
+          "character": "PICARD",
+          "line": "On viewer."
+        },
+        {
+          "character": "VALEDA",
+          "line": "Captain, the plague ship is approaching transport range.",
+          "modifier": "screen"
+        },
+        {
+          "character": "PICARD",
+          "line": "We are aware of that, Electorine."
+        },
+        {
+          "character": "VALEDA",
+          "line": "Do you realize that they can turn this lovely world of ours into a graveyard? Please, please take action now before it's too late.",
+          "modifier": "screen"
+        },
+        {
+          "character": "RIKER",
+          "line": "We recognize your situation."
+        },
+        {
+          "character": "VALEDA",
+          "line": "Please destroy them now!",
+          "modifier": "screen"
+        },
+        {
+          "character": "PICARD",
+          "line": "We will not fire on them, Electorine."
+        },
+        {
+          "character": "VALEDA",
+          "line": "You must!",
+          "modifier": "screen"
+        },
+        {
+          "character": "TASHA",
+          "line": "I'm certain I could disable their ship with a phaser burst, Captain."
+        },
+        {
+          "character": "PICARD",
+          "line": "And then, Lieutenant?"
+        },
+        {
+          "character": "DATA",
+          "line": "They're within transporter range, sir."
+        },
+        {
+          "character": "PICARD",
+          "line": "Then we can't delay any longer. Ready the tractor beam, Lieutenant Yar. Target the ship. Activate on my command."
+        },
+        {
+          "character": "TASHA",
+          "line": "Tractor beam ready."
+        },
+        {
+          "character": "PICARD",
+          "line": "Engage."
+        },
+        {
+          "character": "TASHA",
+          "line": "Got them, sir."
+        },
+        {
+          "character": "PICARD",
+          "line": "Do we have them securely, Lieutenant? Can they beam out to the planet?"
+        },
+        {
+          "character": "TASHA",
+          "line": "Negative, sir. They can't leave that ship."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "I know they can receive us, Captain. At this distance they can respond with running lights if necessary."
+        },
+        {
+          "character": "DATA",
+          "line": "Unless they have all died. Their ship could have been brought in by automation."
+        },
+        {
+          "character": "RIKER",
+          "line": "Captain!"
+        },
+        {
+          "character": "TROI",
+          "line": "It's the woman in Wyatt's drawings."
+        },
+        {
+          "character": "PICARD",
+          "line": "Captain's log, stardate 41294.6. Orbiting Haven with the Tarellian vessel locked in our tractor beam. Question. What strange of circumstances has caused a woman out of someone's imagination to appear on the plague ship?",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "LAFORGE",
+          "line": "Enterprise to Tarellian vessel, are you receiving us?"
+        },
+        {
+          "character": "WRENN",
+          "line": "My name is Wrenn, and before I enquire why your tractor beam has trapped us here, is there one aboard your vessel named Wyatt?",
+          "modifier": "screen"
+        },
+        {
+          "character": "WYATT",
+          "line": "Captain, I don't understand."
+        },
+        {
+          "character": "WRENN",
+          "line": "It's astounding. Ariana was right. He is here, daughter.",
+          "modifier": "screen"
+        },
+        {
+          "character": "ARIANA",
+          "line": "Wyatt, you've come just as you promised."
+        },
+        {
+          "character": "WYATT",
+          "line": "How could I be so accurate? Except for the dream images, I've never seen her."
+        },
+        {
+          "character": "PICARD",
+          "line": "Sir, our concern is with the threat your vessel poses to the planet below. If you're still carrying the infection which destroyed your world"
+        },
+        {
+          "character": "WRENN",
+          "line": "Oh, we still carry it, Captain. My daughter, I, all eight of us.",
+          "modifier": "screen"
+        },
+        {
+          "character": "PICARD",
+          "line": "Eight?"
+        },
+        {
+          "character": "WRENN",
+          "line": "All of us that are left, Captain. Most of the rest passed on during the years that it took to reach Haven.",
+          "modifier": "screen"
+        },
+        {
+          "character": "PICARD",
+          "line": "If you've come here because of the legend about planet Haven miraculously healing the sick."
+        },
+        {
+          "character": "WRENN",
+          "line": "We don't ask to make contact with those living below. All we ask is to be on the edge of some sea, some unpopulated island, a faraway peninsula.",
+          "modifier": "screen"
+        },
+        {
+          "character": "PICARD",
+          "line": "This is not our planet, sir, but I will present your needs to those who do govern this world."
+        },
+        {
+          "character": "WRENN",
+          "line": "Present the fact we intend to die here, Captain. And if we die while caged by your tractor beam, so be it.",
+          "modifier": "screen"
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "LWAXANA",
+          "line": "Oh, Wyatt, how do you like my new hairstyle? Of course, it's going to look much better on me when I'm naked."
+        },
+        {
+          "character": "WYATT",
+          "line": "Mrs. Troi, can I talk to you about something serious?"
+        },
+        {
+          "character": "LWAXANA",
+          "line": "Oh, but I am always serious, dear boy. Only my pleasant nature makes it appear otherwise."
+        },
+        {
+          "character": "WYATT",
+          "line": "Please, Mrs. Troi."
+        },
+        {
+          "character": "LWAXANA",
+          "line": "Yes, that was puzzling. A woman out of another place who insists that she knows you."
+        },
+        {
+          "character": "WYATT",
+          "line": "And"
+        },
+        {
+          "character": "LWAXANA",
+          "line": "And whom you've dreamed of all these years."
+        },
+        {
+          "character": "WYATT",
+          "line": "And I hoped that the way you handle thoughts"
+        },
+        {
+          "character": "LWAXANA",
+          "line": "Fascinating, Wyatt, how easily your thoughts come through. The answer to the puzzle of Ariana and you is so simple, it's too simple for most humans to understand."
+        },
+        {
+          "character": "WYATT",
+          "line": "Too simple?"
+        },
+        {
+          "character": "LWAXANA",
+          "line": "Of course. It's something they all know instinctively but go to great effort to reject or to build complicated superstitions about. All life, Wyatt, all consciousness, is indissolvably bound together. Indeed, it's all part of the same thing."
+        },
+        {
+          "character": "WYATT",
+          "line": "Yes. I have wondered if something like that"
+        },
+        {
+          "character": "LWAXANA",
+          "line": "That weren't so. And no doubt so has Ariana, which helped the two of you to make contact. Wyatt, tell me something seriously. Which of these would look best on me naked?"
+        }
+      ],
+      "location": "Lwaxana's quarters"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "CRUSHER",
+          "line": "Wyatt? Are you feeling all right?"
+        },
+        {
+          "character": "WYATT",
+          "line": "Just wedding nerves. The supplies are ready. I'll take them to the transporter room."
+        },
+        {
+          "character": "CRUSHER",
+          "line": "I'll notify the Captain they're ready."
+        }
+      ],
+      "location": "Sickbay"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "VICTORIA",
+          "line": "Look at your father, Wyatt. He just can't wait to strip off his clothes for that barbaric ceremony."
+        },
+        {
+          "character": "WYATT",
+          "line": "Please take care of each other. You are beautiful. But you looked best of all in the desert on the holodeck when we did this."
+        }
+      ],
+      "location": "Lounge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "CHIEF",
+          "line": "You can put the supplies on the pad. Doctor Crusher had me set the coordinates. All we need is the captain's order."
+        }
+      ],
+      "location": "Transporter room"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "LAFORGE",
+          "line": "Captain! Someone's transporting over to the Tarellian ship."
+        },
+        {
+          "character": "PICARD",
+          "line": "Override."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "I can't sir. It's too late."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "WRENN",
+          "line": "Hello, Wyatt. We always thought you were a dream."
+        },
+        {
+          "character": "WYATT",
+          "line": "You're not surprised. Did you know I'd beam over?"
+        },
+        {
+          "character": "WRENN",
+          "line": "Once we saw you were real, we knew. You are a doctor?"
+        },
+        {
+          "character": "WYATT",
+          "line": "Yes. I've brought medicines and supplies."
+        },
+        {
+          "character": "ARIANA",
+          "line": "And I knew you would be this brave."
+        }
+      ],
+      "location": "Tarellian ship"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "VICTORIA",
+          "line": "How could you let this happen? My son, surrounded by those horrible lepers!"
+        },
+        {
+          "character": "PICARD",
+          "line": "Mrs. Miller, if I could have prevented this I would have."
+        },
+        {
+          "character": "VICTORIA",
+          "line": "Beam him back."
+        },
+        {
+          "character": "TROI",
+          "line": "He can never come back, Mrs. Miller."
+        },
+        {
+          "character": "WRENN",
+          "line": "You may turn off your tractor beam, Captain. We will not be going to Haven. We have what we really came for.",
+          "modifier": "screen"
+        },
+        {
+          "character": "VICTORIA",
+          "line": "Wyatt?"
+        },
+        {
+          "character": "WYATT",
+          "line": "Mother. Father. Forgive me, but I must. I'm going to try to continue the work to cure these people."
+        },
+        {
+          "character": "ARIANA",
+          "line": "And Wyatt will do it. I've believed that all along."
+        },
+        {
+          "character": "WYATT",
+          "line": "I knew I was coming to Haven to meet my destiny. I thought it was to be with you, Deanna. It was Ariana who drew me here. I'm sorry."
+        },
+        {
+          "character": "TROI",
+          "line": "Wyatt, I'm happy for you, and for Ariana too."
+        },
+        {
+          "character": "LWAXANA",
+          "line": "You've done very well for a human, Wyatt."
+        },
+        {
+          "character": "TROI",
+          "line": "Mother."
+        },
+        {
+          "character": "WRENN",
+          "line": "Captain, my respects.",
+          "modifier": "screen"
+        },
+        {
+          "character": "PICARD",
+          "line": "And mine, sir."
+        },
+        {
+          "character": "TROI",
+          "line": "Goodbye."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "STEVEN",
+          "line": "Keep the chest. You'll have use for it some day."
+        },
+        {
+          "character": "LWAXANA",
+          "line": "Seems such a shame to waste the whole trip. Perhaps I should stay and be joined to a new mate?"
+        },
+        {
+          "character": "TROI",
+          "line": "What?"
+        },
+        {
+          "character": "LWAXANA",
+          "line": "Well, the Captain's highly attracted to me, but he's a little too old. Perhaps I should choose you."
+        },
+        {
+          "character": "TROI",
+          "line": "He has other obligations, Mother."
+        },
+        {
+          "character": "LWAXANA",
+          "line": "Oh. Very well. It's his loss. Mister Homn."
+        },
+        {
+          "character": "HOMN",
+          "line": "Thank you for the drinks."
+        },
+        {
+          "character": "LWAXANA",
+          "line": "Try and remember your heritage, little one. Captain! Even Xelo never had such thoughts about me. You may energize.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "TROI",
+          "line": "That was meant as a joke, Captain."
+        },
+        {
+          "character": "PICARD",
+          "line": "I was not amused."
+        }
+      ],
+      "location": "Transporter room"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "PICARD",
+          "line": "Take us out of here, Mister Riker."
+        },
+        {
+          "character": "RIKER",
+          "line": "Aye, sir. Warp two, helm. Heading five seven mark three one nine."
+        },
+        {
+          "character": "PICARD",
+          "line": "Our destiny is elsewhere. But I'm happy that yours is here with us, Counselor."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Warp two, heading five seven mark three one nine."
+        },
+        {
+          "character": "RIKER",
+          "line": "Engage."
+        }
+      ],
+      "location": "Bridge"
+    }
+  ],
+  "schedule": {
+    "episode": 5,
+    "number": 5,
+    "season": 1
+  },
+  "stardate": "41294.5",
+  "title": "Haven"
+}

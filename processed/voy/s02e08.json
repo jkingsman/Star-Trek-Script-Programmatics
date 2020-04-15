@@ -1,0 +1,1955 @@
+{
+  "airdate": 815029200,
+  "scenes": [
+    {
+      "dialogue": [
+        {
+          "character": "PARIS",
+          "line": "Paris to the Captain.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Janeway here."
+        },
+        {
+          "character": "PARIS",
+          "line": "I've done an analysis of our route through Botha space. Whenever you have a minute to check it out.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "JANEWAY",
+          "line": "I'm on my way to Engineering. I'll be with you as soon as I'm done."
+        },
+        {
+          "character": "PARIS",
+          "line": "Aye, Captain.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "NEELIX",
+          "line": "Ah, Captain, the computer told me I'd find you on deck eleven section four B, starboard side, and sure enough, here you are."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "What can I do for you, Neelix?"
+        },
+        {
+          "character": "NEELIX",
+          "line": "I assumed you'd want to talk to me."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "About?"
+        },
+        {
+          "character": "NEELIX",
+          "line": "About the Botha. We're headed for their space and as I've told you, they're going to have to be handled very carefully."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "I understand, and of course I want your counsel, but right now I'm late for a meeting."
+        },
+        {
+          "character": "NEELIX",
+          "line": "I wouldn't put this off too long. We're getting closer, you know."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Yes, I know. And I will be with you as soon as I can."
+        }
+      ],
+      "location": "Corridor"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "JANEWAY",
+          "line": "Sorry, I'm late. What do you have?"
+        },
+        {
+          "character": "TORRES",
+          "line": "I think we're about ready to make our first attempt, Captain."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "If you're successful, will the Doctor be able to move freely around the entire ship?"
+        },
+        {
+          "character": "KIM",
+          "line": "Not exactly. The holoemitters would be set up in certain key areas, the Bridge, Engineering. We'll be able to transfer him to those locations."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "In the same way we can now transfer him to the holodeck."
+        },
+        {
+          "character": "TORRES",
+          "line": "Exactly. But if he tries to move into an area where there's no emitter field, he'll dematerialize."
+        },
+        {
+          "character": "KIM",
+          "line": "I have the holoprojector online. We're ready to start."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Proceed. I don't have much time."
+        },
+        {
+          "character": "TORRES",
+          "line": "Engineering to Sickbay. Doctor, we're ready here."
+        },
+        {
+          "character": "EMH",
+          "line": "I'm standing by.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "TORRES",
+          "line": "Okay. Here goes."
+        },
+        {
+          "character": "KIM",
+          "line": "Initiating transfer. Here he comes."
+        },
+        {
+          "character": "EMH",
+          "line": "Well, this is certainly a brilliant feat of engineering."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "What happened?"
+        },
+        {
+          "character": "TORRES",
+          "line": "I'd guess the imaging interface wasn't properly stabilized."
+        },
+        {
+          "character": "KIM",
+          "line": "Just a small oversight. No pun intended."
+        },
+        {
+          "character": "EMH",
+          "line": "Very amusing."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "How long will it take you to correct this small oversight?"
+        },
+        {
+          "character": "KIM",
+          "line": "Maybe a couple of hours."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Mister Kim, I have to assess our navigational plan and get ready to make contact with an alien species. I can't drop everything whenever you call."
+        },
+        {
+          "character": "TUVOK",
+          "line": "Tuvok to Janeway.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Go ahead."
+        },
+        {
+          "character": "TUVOK",
+          "line": "Captain, I would like a half an hour of your time to review the security protocols before we encounter the Botha.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Yes, Mister Tuvok. Somehow I will find half an hour."
+        },
+        {
+          "character": "EMH",
+          "line": "Excuse me, Captain. Would you come down here, please?"
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Yes?"
+        },
+        {
+          "character": "EMH",
+          "line": "When did you last take shore leave?"
+        },
+        {
+          "character": "JANEWAY",
+          "line": "About two months ago."
+        },
+        {
+          "character": "EMH",
+          "line": "Ah. How long since you've done something pleasurable, for recreation?"
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Doctor, I know I'm a bit testy today, but I can assure you"
+        },
+        {
+          "character": "EMH",
+          "line": "How long?"
+        },
+        {
+          "character": "JANEWAY",
+          "line": "It's been a while. I have a holonovel program. It helps me unwind. I haven't had time to run it for a few weeks."
+        },
+        {
+          "character": "EMH",
+          "line": "Well, I want you to, now."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Doctor, I'm really very busy."
+        },
+        {
+          "character": "EMH",
+          "line": "I've checked Starfleet regulations. The Chief Medical Officer outranks the Captain in health matters. Now I realize this may be the first time a hologram has given an order to a captain, but I'm ordering you to report to the holodeck, now."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Aye, sir."
+        },
+        {
+          "character": "EMH",
+          "line": "And the two of you can get busy undoing this ridiculous blunder of yours!"
+        }
+      ],
+      "location": "Engineering"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "JANEWAY",
+          "line": "Good afternoon, my lord. Will the children be joining us for tea?"
+        },
+        {
+          "character": "BURLEIGH",
+          "line": "Presently."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Lord Burleigh, is something wrong?"
+        },
+        {
+          "character": "BURLEIGH",
+          "line": "Yes. Terribly wrong."
+        },
+        {
+          "character": "BURLEIGH",
+          "line": "I have fallen in love with you, Lucy."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "My lord."
+        },
+        {
+          "character": "BEATRICE",
+          "line": "Hello, Father."
+        },
+        {
+          "character": "HENRY",
+          "line": "We're ready for tea. I want cucumber sandwiches."
+        },
+        {
+          "character": "TEMPLETON",
+          "line": "You'll wait your turn, young man. What may I serve you, my lord?"
+        },
+        {
+          "character": "BURLEIGH",
+          "line": "Nothing, thank you."
+        },
+        {
+          "character": "TEMPLETON",
+          "line": "I see."
+        },
+        {
+          "character": "BEATRICE",
+          "line": "I want my tea in this cup, please. And I don't want a cucumber sandwich. I don't like the way Cook cuts them."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "My lord, you'll be very pleased with the children's progress in their studies this week. Henry shows a real talent for mathematics, and Beatrice turns out to be quite musical."
+        },
+        {
+          "character": "TEMPLETON",
+          "line": "Beatrice? Musical?"
+        },
+        {
+          "character": "BEATRICE",
+          "line": "I don't know what she means."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "She's very modest about it. I've heard her several times in the music room, playing a lovely Mozart sonata. But whenever I ask her to play it for me, she won't. I think her talent should be encouraged. Would you consider lessons?"
+        },
+        {
+          "character": "BURLEIGH",
+          "line": "I didn't know Beatrice could play the piano."
+        },
+        {
+          "character": "BEATRICE",
+          "line": "I'm sorry."
+        },
+        {
+          "character": "HENRY",
+          "line": "It's just a cup. Don't be a goose."
+        },
+        {
+          "character": "BEATRICE",
+          "line": "It's the flower cup, Mother's cup."
+        },
+        {
+          "character": "HENRY",
+          "line": "It doesn't matter."
+        },
+        {
+          "character": "BURLEIGH",
+          "line": "Mrs Templeton, please take the children to the nursery."
+        },
+        {
+          "character": "TEMPLETON",
+          "line": "Yes, my lord. Come."
+        },
+        {
+          "character": "BURLEIGH",
+          "line": "Please stay here, Mrs Davenport."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Beatrice is upset. I should be with her."
+        },
+        {
+          "character": "BURLEIGH",
+          "line": "I want you here."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "What's happening in this house? How can you not know that Beatrice plays the piano? Why shouldn't I go to the fourth floor? What's up there?"
+        },
+        {
+          "character": "BURLEIGH",
+          "line": "Those are questions you must not ask."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "But I am asking them. I'm worried about the children. Beatrice fantasized that her mother is still alive."
+        },
+        {
+          "character": "BURLEIGH",
+          "line": "Don't pursue this, I beg you."
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "Bridge to the Captain.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Freeze program. Janeway here."
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "We've been hailed by a representative of the Bothan government. They'd like to talk to you.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "JANEWAY",
+          "line": "I'll be right there. Sorry, my lord. Duty calls."
+        }
+      ],
+      "location": "Holodeck - Gothic novel"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "NEELIX",
+          "line": "Captain, I knew we should have talked this morning."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Tell me what you know, Neelix."
+        },
+        {
+          "character": "NEELIX",
+          "line": "I've been in subspace contact with some old friends of mine. Nomads, collectors, much as I used to be. They're in a position to gather information during their travels. What they've told me doesn't sound good."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "In what way?"
+        },
+        {
+          "character": "NEELIX",
+          "line": "There are lots of rumors about ships entering Bothan space, never to be heard from again. My sources on Mithren say that they have lost a number of vessels. They say the Botha protect their territory fiercely."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "But we aren't aggressors."
+        },
+        {
+          "character": "NEELIX",
+          "line": "I don't think they are either. They just don't want anyone crossing their borders."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Will they negotiate? Will they respond to diplomacy?"
+        },
+        {
+          "character": "NEELIX",
+          "line": "It's hard to say. There's some belief that they don't even have a legitimate claim to the space, that they're nothing more than pernicious, odious vandals. In which case, diplomacy would fall on deaf ears."
+        },
+        {
+          "character": "TUVOK",
+          "line": "We're being hailed again, Captain."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "On screen. I'm Kathryn Janeway of the Federation Starship Voyager."
+        },
+        {
+          "character": "BOTHAN",
+          "line": "Why have you entered our space without permission?",
+          "modifier": "screen"
+        },
+        {
+          "character": "JANEWAY",
+          "line": "We didn't realize that this was your space. On what basis do you claim it?"
+        },
+        {
+          "character": "BOTHAN",
+          "line": "I have no intention of explaining myself to you. The fact is, you're violating our territory.",
+          "modifier": "screen"
+        },
+        {
+          "character": "JANEWAY",
+          "line": "I assure you, we mean no disrespect. We are from another part of the galaxy. We're just trying to make our way home."
+        },
+        {
+          "character": "BOTHAN",
+          "line": "We'll send a ship to rendezvous with you. If you meet the criteria, we'll consider your request.",
+          "modifier": "screen"
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Thank you. What are the criteria?"
+        },
+        {
+          "character": "BOTHAN",
+          "line": "We'll diskuss that when we meet.",
+          "modifier": "screen"
+        },
+        {
+          "character": "PARIS",
+          "line": "Friendly fellow."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "At least they're willing to talk."
+        },
+        {
+          "character": "KIM",
+          "line": "I wonder why he wouldn't let us see his face."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "I suspect it was a calculated move. An attempt to intimidate us. Commander, you have the Bridge."
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "Aye, Captain."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Mister Neelix, join me in my Ready room. We should talk about this meeting."
+        },
+        {
+          "character": "NEELIX",
+          "line": "Captain, if I may. What was the last time you ate?"
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Ate? Oh, I had some soup last night."
+        },
+        {
+          "character": "NEELIX",
+          "line": "Then let me suggest that we conduct our talk in the mess hall. We're serving a sumptuous repast for lunch."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Right. Lunch it is."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "NEELIX",
+          "line": "Captain, you have a nasty habit of skipping meals and that can do horrible things to your electrolyte levels."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "I know, but sometimes I just get too busy to eat."
+        },
+        {
+          "character": "NEELIX",
+          "line": "All you have to do is give me a call. I'll be there in a trice with a tray of food so delectable you won't be able to resist. I do think I've outdone myself this time. An exquisite pate made from Seltin wood fungus. Brine-soaked neccel strips. Deviled wood throk."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Where did these come from?"
+        },
+        {
+          "character": "NEELIX",
+          "line": "Lieutenant Hargrove asked for them. Is something wrong?"
+        },
+        {
+          "character": "JANEWAY",
+          "line": "No, just a funny coincidence. Something I saw on the holodeck. Thank you, Neelix. This all looks delicious. And it's bound to boost my electrolyte levels. Where did you get that cup?"
+        },
+        {
+          "character": "NEELIX",
+          "line": "Why, I'm not sure. I think I found several of them in storage. Unusual, isn't it? Captain, is everything all right?"
+        },
+        {
+          "character": "JANEWAY",
+          "line": "It's perfectly all right, Neelix. I just have to remind myself that coincidences do happen."
+        }
+      ],
+      "location": "Mess hall"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "BURLEIGH",
+          "line": "I can't help myself. I've fallen in love with you.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "BEATRICE",
+          "line": "My mother is alive, and my father loves her, not you."
+        }
+      ],
+      "location": "Corridor"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "JANEWAY",
+          "line": "In the course of your experiments with the Doctor, have you accessed any of the holodeck programs?"
+        },
+        {
+          "character": "TORRES",
+          "line": "No, we're bypassing the holodecks."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Where did you get this holoprojector?"
+        },
+        {
+          "character": "KIM",
+          "line": "We found several of them in storage. We've been reconfiguring them one by one."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "So you haven't worked directly with any of the projectors on the holodecks?"
+        },
+        {
+          "character": "TORRES",
+          "line": "No."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Is there anything you've done, anything you can think of, that might have caused holographic objects and characters to appear outside the holodeck?"
+        },
+        {
+          "character": "TORRES",
+          "line": "Not that I'm aware of."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "I was sure your experiments would explain it."
+        },
+        {
+          "character": "TORRES",
+          "line": "Captain, there has to be a reason why you've had these delusions and we're going to figure out what it is."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "The Doctor pointed out that I've been under some stress. I can't ignore that."
+        },
+        {
+          "character": "KIM",
+          "line": "I think we should check out the imaging systems on the holodeck. There might be a simple malfunction."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Good idea."
+        },
+        {
+          "character": "TORRES",
+          "line": "We can run the diagnostic from here in Engineering, but you should activate the program first."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "I'll contact you from the holodeck."
+        }
+      ],
+      "location": "Engineering"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "JANEWAY",
+          "line": "Janeway to Engineering."
+        },
+        {
+          "character": "TORRES",
+          "line": "Torres here.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Have you set up the diagnostic?"
+        },
+        {
+          "character": "TORRES",
+          "line": "We're ready, Captain.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Go ahead."
+        },
+        {
+          "character": "BURLEIGH",
+          "line": "Lucy. Thank God you've come back. Why are you dressed so strangely?"
+        },
+        {
+          "character": "JANEWAY",
+          "line": "It's a costume."
+        },
+        {
+          "character": "BURLEIGH",
+          "line": "You'd look lovely in anything. I've thought of you constantly. Remembered your touch, your perfume, your lips"
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Computer, delete character."
+        },
+        {
+          "character": "TORRES",
+          "line": "Torres to Janeway. We're finished, Captain, but we didn't find any malfunctions.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Recalibrate and try it again. I'm going to check something else."
+        },
+        {
+          "character": "TORRES",
+          "line": "Aye, Captain.",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "Holodeck - Gothic novel"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "NEELIX",
+          "line": "Captain! I'm delighted to see you. Do you want a snack?"
+        },
+        {
+          "character": "JANEWAY",
+          "line": "No, I'm fine. But I wanted to ask you about lunch."
+        },
+        {
+          "character": "NEELIX",
+          "line": "Didn't you like it?"
+        },
+        {
+          "character": "JANEWAY",
+          "line": "It was delicious. I was just trying to remember all the dishes you made. There was the Seltin pate."
+        },
+        {
+          "character": "NEELIX",
+          "line": "Delectable."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "The neccel strips."
+        },
+        {
+          "character": "NEELIX",
+          "line": "Exquisite!"
+        },
+        {
+          "character": "JANEWAY",
+          "line": "The devilled throk."
+        },
+        {
+          "character": "NEELIX",
+          "line": "Sublime."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "And the cucumber sandwiches."
+        },
+        {
+          "character": "NEELIX",
+          "line": "Cucumber sandwiches?"
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Weren't there cucumber sandwiches?"
+        },
+        {
+          "character": "NEELIX",
+          "line": "I don't even know what that is. The other item on the menu was a fried murt cake. You ate one."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "And the cup you served my tea in?"
+        },
+        {
+          "character": "NEELIX",
+          "line": "One of these. The ones I found in storage."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "I thought it had flowers on it."
+        },
+        {
+          "character": "NEELIX",
+          "line": "Flowers? Well, no, I don't see any flowers. Maybe there was another cup, but I don't think so. Would you like a cup with flowers on it? I'm sure I can replicate one."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "It's all right, Neelix. You've told me what I need to know."
+        }
+      ],
+      "location": "Kitchen"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "EMH",
+          "line": "I don't detect anything so far. No evidence of aneurysm, subdural haematoma, stroke."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Could it be stress?"
+        },
+        {
+          "character": "EMH",
+          "line": "Possibly. Did you go to the holodeck as I ordered?"
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Yes."
+        },
+        {
+          "character": "EMH",
+          "line": "And was that relaxing?"
+        },
+        {
+          "character": "JANEWAY",
+          "line": "It was interesting. I'm not sure how relaxing it was."
+        },
+        {
+          "character": "EMH",
+          "line": "There are other possibilities we should consider. I want to scan for airborne bacteria and viruses. We should investigate the possibility of an alien intruder. And I'd like to do a cerebro-cortical scan on you."
+        },
+        {
+          "character": "KES",
+          "line": "Oh! Oh."
+        },
+        {
+          "character": "EMH",
+          "line": "Kes?"
+        },
+        {
+          "character": "KES",
+          "line": "I don't know. Strange. Oh, suddenly I felt cold, shivery."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Someone was walking your grave."
+        },
+        {
+          "character": "EMH",
+          "line": "Hmm?"
+        },
+        {
+          "character": "JANEWAY",
+          "line": "It's just an old saying on Earth. A way of describing an odd feeling like that."
+        },
+        {
+          "character": "EMH",
+          "line": "Hmm. How macabre."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "It's human expression, Doctor. I'd think you'd have heard it."
+        },
+        {
+          "character": "EMH",
+          "line": "My programrs didn't clutter me up with pithy Earth trivia. They programd me with far more important data. Kes, would you please get my sub-neural scanner from the Med Lab?"
+        },
+        {
+          "character": "KES",
+          "line": "Yes, Doctor."
+        },
+        {
+          "character": "BEATRICE",
+          "line": "What's about my mother's grave? There's no one inside. The coffin is empty."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Doctor. Doctor. Who do you see here?"
+        },
+        {
+          "character": "EMH",
+          "line": "I see you."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "And I see you. But I also see a little girl from my holodeck program."
+        },
+        {
+          "character": "EMH",
+          "line": "What happened?"
+        },
+        {
+          "character": "JANEWAY",
+          "line": "I'm not sure. The image of the little girl suddenly rushed at me."
+        },
+        {
+          "character": "KES",
+          "line": "I saw it too. When I came in, I felt as though something hit me, bounced off me, then I saw the little girl moving right into you."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "As though you became a mirror. You reflected her back toward me."
+        },
+        {
+          "character": "KES",
+          "line": "I've been doing some mental exercises with Tuvok developing my telepathic abilities, but we haven't done anything like this."
+        },
+        {
+          "character": "EMH",
+          "line": "Captain, until I am able to determine the cause of these hallucinations, I'd prefer that you return to your quarters. Get some rest."
+        }
+      ],
+      "location": "Sickbay"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "JANEWAY",
+          "line": "Vegetable bouillon. No, cancel that. Coffee ice cream."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Hello? Is anyone there?"
+        },
+        {
+          "character": "MARK",
+          "line": "Kath, are you there?",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Computer, is there anyone in these quarters except me?"
+        },
+        {
+          "character": "COMPUTER",
+          "line": "Negative."
+        },
+        {
+          "character": "MARK",
+          "line": "Kath, are you there?",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Who's that?"
+        },
+        {
+          "character": "MARK",
+          "line": "Come look at the puppies.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Mark."
+        },
+        {
+          "character": "MARK",
+          "line": "I have missed you so much, Kath. When are you coming back? I don't think you've missed me. Someone else is in your thoughts now.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "MARK",
+          "line": "Isn't that true? Isn't there someone you're thinking of?",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Computer, open the door."
+        },
+        {
+          "character": "TEMPLETON",
+          "line": "Everything was fine until you came here. I took care of him. He trusted me. But when you arrived, all that changed."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Janeway to Security. Intruder alert."
+        },
+        {
+          "character": "TEMPLETON",
+          "line": "You've done nothing but cause trouble. We don't want more trouble in our lives!"
+        }
+      ],
+      "location": "Janeway's quarters"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "JANEWAY",
+          "line": "Security to the Captain's quarters! Tuvok, please respond!"
+        },
+        {
+          "character": "TUVOK",
+          "line": "Captain!"
+        },
+        {
+          "character": "EMH",
+          "line": "Can you still see the hallucinations?"
+        },
+        {
+          "character": "KES",
+          "line": "Yes, the woman with the knife is receding into the Captain, just like before."
+        },
+        {
+          "character": "TUVOK",
+          "line": "Captain! Listen to me! You are in Sickbay. You are all right. Captain!"
+        },
+        {
+          "character": "JANEWAY",
+          "line": "I think Neelix can help you. No one knows much about the Botha, but he has some information."
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "I know he's been doing research. I'll check with him."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "You'll probably want him on the Bridge with you when their ship arrives."
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "Good idea."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "I'm not sure how Torres and Kim are coming. You know they're trying to find a way to transfer the Doctor out of Sickbay."
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "Yes."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "It's not a priority, but you might want to stay on top of it."
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "Of course."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Let's see. There was a problem with one of the deflector shields. You'll want to follow up on that. And Stellar Cartography was hoping for a review of their latest report. I think Tuvok wanted to diskuss something about weapons storage."
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "Captain, you've trained your crew well. We'll be able to do without you for a few days. In the meantime, we're continuing diagnostics on all ship's systems. There's a reason for what's happening to you, and we're not stopping until we find it."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Thank you, Commander."
+        },
+        {
+          "character": "EMH",
+          "line": "My patient has to rest now. I'm sure you'll want to get to the Bridge."
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "Call me if there's anything I can do."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Just be sure to report to me after you meet with the Botha."
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "Yes, ma'am."
+        },
+        {
+          "character": "EMH",
+          "line": "Captain, if you'll take a seat on one of the beds, I'd like to do some further tests. Kes, please prepare the Captain for a cerebro-cortical scan."
+        },
+        {
+          "character": "KES",
+          "line": "Certainly. Captain, I saw your hallucination again."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "What did you see?"
+        },
+        {
+          "character": "KES",
+          "line": "You were struggling with a woman. She had a knife. She was trying to hurt you."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "That's right."
+        },
+        {
+          "character": "KES",
+          "line": "As I focused on you, it was just like with the little girl. The image seemed to reflect off of me and move back into you."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Your telepathic abilities must be increasing."
+        },
+        {
+          "character": "KES",
+          "line": "I think it's more than that. I think something strange is happening on this ship and it's not just happening to you."
+        }
+      ],
+      "location": "Sickbay"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TUVOK",
+          "line": "I am picking up a ship on long range sensors, Commander. It is a design we have not encountered before."
+        },
+        {
+          "character": "KIM",
+          "line": "I show it on a direct intercept course."
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "That must be our welcoming party."
+        },
+        {
+          "character": "PARIS",
+          "line": "They're in a hurry, too. Closing fast."
+        },
+        {
+          "character": "TUVOK",
+          "line": "They are hailing, Commander."
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "On screen."
+        },
+        {
+          "character": "BOTHAN",
+          "line": "Where is your captain?",
+          "modifier": "screen"
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "She's not available right now. I'm Commander Chakotay, the First Officer. I can speak for her."
+        },
+        {
+          "character": "BOTHAN",
+          "line": "We observe rather strict protocols. I'd prefer to negotiate with the Captain.",
+          "modifier": "screen"
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "I understand, but she's not able to come to the Bridge now. And in her absence, our protocols allow me to assume her place. Our request is the same. We'd like permission to cross through your space. We'll do it as quickly as possible."
+        },
+        {
+          "character": "BOTHAN",
+          "line": "What kind of weapon systems do you possess?",
+          "modifier": "screen"
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "I'm not sure why that information is necessary."
+        },
+        {
+          "character": "BOTHAN",
+          "line": "How do I know you aren't a heavily armed invader here to attack our settlements?",
+          "modifier": "screen"
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "I don't know how to convince you, but we're a peaceful people. If you doubt us"
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "What happened?"
+        },
+        {
+          "character": "TUVOK",
+          "line": "I terminate the transmission, Commander, and made it look like an accidental interruption. I am concerned about some anomalous sensor readings."
+        },
+        {
+          "character": "KIM",
+          "line": "I'm getting them too. Residual energy displacements. Two discrete readings. One off the port bow, one off starboard."
+        },
+        {
+          "character": "PARIS",
+          "line": "We have to consider the possibility of cloaked ships."
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "Reverse course, Mister Paris."
+        },
+        {
+          "character": "PARIS",
+          "line": "Aye, sir."
+        },
+        {
+          "character": "KIM",
+          "line": "Two ships decloaking."
+        },
+        {
+          "character": "TUVOK",
+          "line": "The Bothan ship is powering up weapons."
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "Evasive maneuver gamma five."
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "Report!"
+        },
+        {
+          "character": "TUVOK",
+          "line": "Shields at eighty seven percent. Minor damage on decks four and twelve."
+        },
+        {
+          "character": "KIM",
+          "line": "They're turning back for another strike."
+        },
+        {
+          "character": "PARIS",
+          "line": "Initiating evasive pattern beta two."
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "Get the weapons online."
+        },
+        {
+          "character": "TUVOK",
+          "line": "Powering up lateral phaser arrays. Shields down to eighty three percent."
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "Return fire."
+        },
+        {
+          "character": "TUVOK",
+          "line": "A direct hit. However, their shields were not penetrated."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "JANEWAY",
+          "line": "I can't stay here."
+        },
+        {
+          "character": "EMH",
+          "line": "Captain, I can't allow you to leave Sickbay. You're in no condition to"
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Sorry, Doctor. If we're in trouble, my place is on the Bridge."
+        }
+      ],
+      "location": "Sickbay"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "KIM",
+          "line": "There's something weird going on, Commander. I'm not reading any life signs on the two ships that just decloaked."
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "There's no crew?"
+        },
+        {
+          "character": "KIM",
+          "line": "Looks like the ships are automated. They're being controlled by the Bothan ship."
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "Return fire, Tuvok."
+        },
+        {
+          "character": "TUVOK",
+          "line": "We have hit their weapons array, but not severely enough to disable it."
+        },
+        {
+          "character": "KIM",
+          "line": "Commander, the three ships are maneuvering to surround us."
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "Get us out of here, Paris."
+        },
+        {
+          "character": "PARIS",
+          "line": "I'm trying."
+        },
+        {
+          "character": "KIM",
+          "line": "The ships are powering their weapons, preparing to fire."
+        },
+        {
+          "character": "TUVOK",
+          "line": "That last volley took our shields down to twenty one percent."
+        },
+        {
+          "character": "KIM",
+          "line": "We've got damage on all decks. Reports of injuries."
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "All stop."
+        },
+        {
+          "character": "TUVOK",
+          "line": "The lead ship is hailing us, Commander."
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "On screen."
+        },
+        {
+          "character": "BOTHAN",
+          "line": "Your ship is damaged and your captain incapacitated. I will accept your immediate surrender.",
+          "modifier": "screen"
+        },
+        {
+          "character": "JANEWAY",
+          "line": "You're not getting one. The Captain is fine."
+        },
+        {
+          "character": "BOTHAN",
+          "line": "I don't think so. I think the battle is over now.",
+          "modifier": "screen"
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Mark."
+        },
+        {
+          "character": "MARK",
+          "line": "Don't you recognize the man you love?",
+          "modifier": "screen"
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Mister Paris, who do you see on the viewscreen?"
+        },
+        {
+          "character": "PARIS",
+          "line": "It's my father."
+        },
+        {
+          "character": "ADMIRAL PARIS",
+          "line": "I hope you've been behaving yourself.",
+          "modifier": "screen"
+        },
+        {
+          "character": "KIM",
+          "line": "I see my girlfriend, Libby."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Mister Kim, shut down visual."
+        },
+        {
+          "character": "KIM",
+          "line": "I'm trying, Captain. It won't terminate."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Mister Tuvok, do a multiphasic scan on those ships. I want any evidence of defensive weakness. And prepare the forward photon torpedoes for launch. Tuvok."
+        },
+        {
+          "character": "TUVOK",
+          "line": "I do not understand how this can be."
+        },
+        {
+          "character": "T'PEL",
+          "line": "Don't try to understand, Tuvok. Just accept it. We're together again.",
+          "modifier": "screen"
+        },
+        {
+          "character": "TUVOK",
+          "line": "No. You are not my wife."
+        },
+        {
+          "character": "T'PEL",
+          "line": "Of course I am. I am T'Pel. And there, right in front of you, is your lute. The one you used to play for me. And look. Look around you. You're back home, on Vulcan.",
+          "modifier": "screen"
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Tuvok? Tuvok, answer me. Tuvok!"
+        },
+        {
+          "character": "KIM",
+          "line": "Captain, I'll do it. Running a multiphasic scan."
+        },
+        {
+          "character": "TORRES",
+          "line": "Torres to the Captain.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Janeway here."
+        },
+        {
+          "character": "TORRES",
+          "line": "We're having problems down here.",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TORRES",
+          "line": "People are becoming delusional."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "It's happening her too.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "TORRES",
+          "line": "I think I know why. There's a massive energy field coming from those ships. It's bioelectric, modulating on a delta wave frequency. It has psionic properties, and it's permeating the hull."
+        }
+      ],
+      "location": "Engineering"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "JANEWAY",
+          "line": "A psionic field has a psychoactive effect. That would explain the hallucinations."
+        },
+        {
+          "character": "TORRES",
+          "line": "You can try remodulating",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TORRES",
+          "line": "The shields, but in the meantime, I'm going to set up a resonance burst from the warp core. That will probably block the field, but it'll take a while to set up."
+        }
+      ],
+      "location": "Engineering"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "JANEWAY",
+          "line": "Notify the Doctor. If the field is bioelectric, he might have some ideas how to neutralize it. Commander, give Lieutenant Torres a hand in Engineering. Mister Neelix, if the crew ever needed a morale officer, now's the time. See if you can help."
+        },
+        {
+          "character": "NEELIX",
+          "line": "Aye, Captain."
+        },
+        {
+          "character": "MARK",
+          "line": "Kath, do you always have to be the captain? Can't you relax for a minute? I want to talk to you.",
+          "modifier": "screen"
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Mister Kim, remodulate the shields on a rotating frequency."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Janeway to Kes."
+        },
+        {
+          "character": "KES",
+          "line": "Yes, Captain?",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Can you come to the Bridge? I think we could use you."
+        },
+        {
+          "character": "KES",
+          "line": "Right away.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Paris, are you still with me?"
+        },
+        {
+          "character": "PARIS",
+          "line": "Sure am, Captain. I'm running the scans on those ships."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "I'll work on the shields. I suggest you don't look at the viewscreen."
+        },
+        {
+          "character": "PARIS",
+          "line": "Oh, it's not even tempting."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "CHAKOTAY",
+          "line": "How's it going down here?"
+        },
+        {
+          "character": "TORRES",
+          "line": "Not good. I can't get a response from anybody. It's like they're catatonic."
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "It's the same all over the ship. On my way here, I must have seen fifty people just sitting, staring."
+        },
+        {
+          "character": "TORRES",
+          "line": "A few minutes ago, there was a momentary interruption in the psionic field. Were there any indications that the alien somehow came on board?"
+        },
+        {
+          "character": "JANEWAY",
+          "line": "I'll find out. Chakotay to Janeway. Chakotay to the Captain. Please respond. Chakotay to anyone on the Bridge. Kim, Paris, anybody. We may be the last ones left."
+        },
+        {
+          "character": "TORRES",
+          "line": "What do we do?"
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "I think we should take an escape pod. We passed an M Class planet yesterday. The pod should get us there in a week. We can try to get help."
+        },
+        {
+          "character": "TORRES",
+          "line": "A week? That might be too late."
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "It may be our only hope. If we stay here, we'll end up like the others."
+        },
+        {
+          "character": "TORRES",
+          "line": "No, I have to keep trying to set up the resonance burst."
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "Do I have to give you an order?"
+        },
+        {
+          "character": "TORRES",
+          "line": "I can't believe you're saying this. You know we have to stay here and try to help the others."
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "I want you with me."
+        },
+        {
+          "character": "TORRES",
+          "line": "You aren't Chakotay."
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "I'm the Chakotay you want me to be. The one who loves you. This is what you want, isn't it? The secret you've been keeping? You want us to be together. And we can be."
+        }
+      ],
+      "location": "Engineering"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TORRES",
+          "line": "I have to help the others."
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "I want you. I've always wanted you. You feel the same way too."
+        },
+        {
+          "character": "TORRES",
+          "line": "Yes."
+        }
+      ],
+      "location": "Torres'\nquarters"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "PARIS",
+          "line": "Captain, I'm getting results from the scans. No apparent defensive weaknesses. Metallurgical analysis is inconclusive."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "I can't remodulate the shields. Try moving us out of here. If we can get some distance between us and those ships, we might be able to block the effects."
+        },
+        {
+          "character": "PARIS",
+          "line": "Yes, ma'am."
+        },
+        {
+          "character": "ADMIRAL PARIS",
+          "line": "This time let's see if you can do it without causing an accident. You usually manage to make a mess of everything you do."
+        },
+        {
+          "character": "PARIS",
+          "line": "Let me say something I've always wanted to say. Get out of my life."
+        },
+        {
+          "character": "ADMIRAL PARIS",
+          "line": "I'm just telling you what you already know. When the going gets tough, you crumble."
+        },
+        {
+          "character": "PARIS",
+          "line": "Not any more. Not any more."
+        },
+        {
+          "character": "ADMIRAL PARIS",
+          "line": "You don't really believe that. In your heart, you believe you'll fail again. And of course you will. You can't do anything right. You'll fail. Why even try?"
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Tom? Tom? Janeway to Engineering. Janeway to Torres. Are you there? Engineering respond. If anyone in Engineering can hear me, I'm on my way. Computer, put the Bridge controls on security lockout."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "JANEWAY",
+          "line": "Deck eleven."
+        },
+        {
+          "character": "MARK",
+          "line": "Now, maybe you have time to talk to me. You're so strong, Kath. That's one of the things I always loved in you."
+        },
+        {
+          "character": "MARK",
+          "line": "What's the matter? You used to love it when I kissed you there."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "I don't know who you are, what you are, but I won't let you touch me."
+        },
+        {
+          "character": "MARK",
+          "line": "What about the man on the holodeck? You didn't seem to mind him touching you, did you? In fact, I think you liked it. Now I ask you, Kath, is that fair to me? I've stayed faithful to you. I've vowed to wait for you no matter how long it takes. Shouldn't you do the same?"
+        },
+        {
+          "character": "JANEWAY",
+          "line": "I haven't been unfaithful."
+        },
+        {
+          "character": "MARK",
+          "line": "Oh, Kath."
+        }
+      ],
+      "location": "Turbolift"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "EMH",
+          "line": "Sickbay to Engineering. Lieutenant Torres, please respond. Doctor to the mess hall. Mister Neelix, are you there? This is the doctor to anyone on the ship. If you can hear me, please reply. Either the communication system is malfunctioning or everyone on board has succumbed to a delusional state."
+        },
+        {
+          "character": "KES",
+          "line": "Except you and me."
+        },
+        {
+          "character": "EMH",
+          "line": "It would appear that if the psionic field is to be blocked and the crew restored to normal, it's up to us."
+        }
+      ],
+      "location": "Sickbay"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "EMH",
+          "line": "You will have to go to Engineering and complete Lieutenant Torres's efforts to create a resonance burst."
+        },
+        {
+          "character": "KES",
+          "line": "I don't know how to do that."
+        },
+        {
+          "character": "EMH",
+          "line": "I will assist you from here."
+        },
+        {
+          "character": "KES",
+          "line": "Do you know how to do it?"
+        },
+        {
+          "character": "EMH",
+          "line": "I diskussed the matter with Lieutenant Torres. I think I understand the basic principle behind her plan. How hard can it be?"
+        },
+        {
+          "character": "KES",
+          "line": "All right."
+        },
+        {
+          "character": "EMH",
+          "line": "Go to Engineering immediately. I'll contact you there."
+        }
+      ],
+      "location": "Doctor's office"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "KES",
+          "line": "Tom, what happened?"
+        },
+        {
+          "character": "PARIS",
+          "line": "A plasma leak caught me in the face. Help me."
+        },
+        {
+          "character": "KES",
+          "line": "Can you get to Sickbay? The Doctor is there."
+        },
+        {
+          "character": "PARIS",
+          "line": "Come with me."
+        },
+        {
+          "character": "KES",
+          "line": "I can't. I have to get to Engineering."
+        },
+        {
+          "character": "PARIS",
+          "line": "You can't leave me like this. It hurts."
+        },
+        {
+          "character": "KES",
+          "line": "Tom, you can walk. You have to get to Sickbay on your own."
+        },
+        {
+          "character": "PARIS",
+          "line": "Kes, please. I can't."
+        },
+        {
+          "character": "KES",
+          "line": "You don't want me to get to Engineering."
+        },
+        {
+          "character": "PARIS",
+          "line": "No."
+        },
+        {
+          "character": "KES",
+          "line": "I'm hallucinating."
+        },
+        {
+          "character": "PARIS",
+          "line": "Kes, wait. Come back. Don't leave me! Come back!"
+        }
+      ],
+      "location": "Corridor"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "EMH",
+          "line": "Finally. What took you so long?",
+          "modifier": "screen"
+        },
+        {
+          "character": "KES",
+          "line": "Doctor, we have to set up this resonance burst as quickly as possible. I've started hallucinating."
+        },
+        {
+          "character": "EMH",
+          "line": "Then see if Lieutenant Torres's last program is active.",
+          "modifier": "screen"
+        },
+        {
+          "character": "KES",
+          "line": "I think I have it. B'Elanna was writing a program to open a symmetrical warp field."
+        },
+        {
+          "character": "EMH",
+          "line": "All right. You'll have to sequence the magnetic plasma constriction to the following formula. T equals C sub-one over theta times P sub-E.",
+          "modifier": "screen"
+        },
+        {
+          "character": "KES",
+          "line": "Er, how do I do that?"
+        },
+        {
+          "character": "EMH",
+          "line": "I'm not sure. Wait a minute. I'll see if I can access Starfleet's interactive database.",
+          "modifier": "screen"
+        },
+        {
+          "character": "NEELIX",
+          "line": "Sweeting! Thank goodness I found you. Are you all right?"
+        },
+        {
+          "character": "KES",
+          "line": "Where have you been?"
+        },
+        {
+          "character": "NEELIX",
+          "line": "In the mess hall, trying to help the poor souls there."
+        },
+        {
+          "character": "KES",
+          "line": "Why didn't you answer the Doctor's hails?"
+        },
+        {
+          "character": "NEELIX",
+          "line": "I didn't hear them. The comm. system must be down. And frankly, I was a little busy. Ashmore thought I was a Kazon. Tried to kill me with a carving knife."
+        },
+        {
+          "character": "KES",
+          "line": "How do I know you're really Neelix?"
+        },
+        {
+          "character": "NEELIX",
+          "line": "Who else would I be? Kes, all I want to do is protect you, to keep you safe. We have to get away from here, get to my shuttle."
+        },
+        {
+          "character": "KES",
+          "line": "Doctor, have you figured out how I can enter that sequencing code?"
+        },
+        {
+          "character": "EMH",
+          "line": "It's quite simple, really. Do you know where the command module is?",
+          "modifier": "screen"
+        },
+        {
+          "character": "KES",
+          "line": "Of course."
+        },
+        {
+          "character": "EMH",
+          "line": "Activate it and select magnetic plasma sequencing.",
+          "modifier": "screen"
+        },
+        {
+          "character": "NEELIX",
+          "line": "You're becoming annoying."
+        },
+        {
+          "character": "KES",
+          "line": "I've got it. It's activated. Now it's asking me to enter the core temperature."
+        },
+        {
+          "character": "NEELIX",
+          "line": "Move away from that console."
+        },
+        {
+          "character": "EMH",
+          "line": "Now, we need a temperature high enough to emit the resonance burst, but not so high as to irradiate everyone on the ship. Try three million Kelvins.",
+          "modifier": "screen"
+        },
+        {
+          "character": "EMH",
+          "line": "Kes, look at him.",
+          "modifier": "screen"
+        },
+        {
+          "character": "KES",
+          "line": "It hurts!"
+        },
+        {
+          "character": "EMH",
+          "line": "Look at him. Focus.",
+          "modifier": "screen"
+        },
+        {
+          "character": "KES",
+          "line": "I can't."
+        },
+        {
+          "character": "EMH",
+          "line": "Yes, you can. The mirror, remember?",
+          "modifier": "screen"
+        },
+        {
+          "character": "KES",
+          "line": "It hurts too much!"
+        },
+        {
+          "character": "EMH",
+          "line": "Kes, look at him.",
+          "modifier": "screen"
+        },
+        {
+          "character": "NEELIX",
+          "line": "What's the matter, Kes? Can't lift your head?"
+        },
+        {
+          "character": "KES",
+          "line": "Focus."
+        },
+        {
+          "character": "NEELIX",
+          "line": "Stop it!"
+        },
+        {
+          "character": "KES",
+          "line": "I'm all right now, Doctor, and I've entered a temperature of three million Kelvin."
+        },
+        {
+          "character": "EMH",
+          "line": "Then all you have to do is activate the warp field.",
+          "modifier": "screen"
+        },
+        {
+          "character": "KES",
+          "line": "All right. Here we go."
+        },
+        {
+          "character": "KES",
+          "line": "Kes to the Captain. If you can hear me, please report to Engineering."
+        },
+        {
+          "character": "TORRES",
+          "line": "What happened?"
+        },
+        {
+          "character": "KES",
+          "line": "It's a long story, but I think everything's all right now."
+        },
+        {
+          "character": "TORRES",
+          "line": "Is that who's responsible for all this?"
+        },
+        {
+          "character": "KES",
+          "line": "Apparently. He looks so harmless. It's hard to believe he almost destroyed us."
+        },
+        {
+          "character": "BOTHAN",
+          "line": "You're a powerful little thing. I must say, you surprised me."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Why did you do this to us?"
+        },
+        {
+          "character": "BOTHAN",
+          "line": "Because I can."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Is it just telepathy, or is there technology involved?"
+        },
+        {
+          "character": "BOTHAN",
+          "line": "Does it matter?"
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Oh, it matters to me, because I don't intend to let you continue preying on others."
+        },
+        {
+          "character": "BOTHAN",
+          "line": "How would you propose to stop me?"
+        },
+        {
+          "character": "JANEWAY",
+          "line": "We could destroy your technology. Or adjust your brain wave patterns to prevent telepathy. And then we could turn you over to the government of Mithren. We could even keep you confined in our brig behind a force field."
+        },
+        {
+          "character": "BOTHAN",
+          "line": "I'm sure you're very well-intentioned, Captain, and I'd like to be able to accommodate you but you see, I'm not really here. Captain's log, supplemental. We have no explanation for the mysterious disappearance of the telepathic alien. We can't even be certain that he was actually here. He seems to have left us with any number of unanswered questions."
+        }
+      ],
+      "location": "Engineering"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TORRES",
+          "line": "I'm surprised to see you here, Captain. Isn't this the day that you're usually in the holodeck with your novel?"
+        },
+        {
+          "character": "JANEWAY",
+          "line": "I thought, after our recent experience, that I'd take a break from fantasy for a while."
+        },
+        {
+          "character": "TORRES",
+          "line": "I don't blame you. I think it had quite an impact on all of us. Do you think it's true? That the alien was reading our minds, creating images from our own experiences?"
+        },
+        {
+          "character": "JANEWAY",
+          "line": "It seemed that way. He had uncanny ability to bring buried thoughts out into the open. Why?"
+        },
+        {
+          "character": "TORRES",
+          "line": "Oh, it's just, I experienced something I'd rather not admit."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "I know. Me too. But, in a way, maybe he did us all a favor. Maybe it's better to look those feelings in the eye than to keep them locked up inside."
+        },
+        {
+          "character": "TORRES",
+          "line": "I guess. I'll have to think about that. I have an early watch tomorrow, so I'd better turn in. Good night, Captain."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Good night, B'Elanna. Sweet dreams."
+        },
+        {
+          "character": "TORRES",
+          "line": "Thanks. You too."
+        }
+      ],
+      "location": "Mess hall"
+    }
+  ],
+  "schedule": {
+    "episode": 8,
+    "number": 24,
+    "season": 2
+  },
+  "stardate": "Unknown",
+  "title": "Persistence of Vision"
+}

@@ -1,0 +1,1387 @@
+{
+  "airdate": 728542800,
+  "scenes": [
+    {
+      "dialogue": [
+        {
+          "character": "PICARD",
+          "line": "Captain's log, stardate 46461.3. We have arrived at a communication relay station near the Klingon border, where we are scheduled to deliver supplies. However, the station has not responded to repeated hails.",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "unknown"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "CRUSHER",
+          "line": "What's that noise?"
+        },
+        {
+          "character": "LAFORGE",
+          "line": "They must've left an audio monitoring system on. We're hearing a few thousand subspace messages. I'll try and shut it off. Got it."
+        },
+        {
+          "character": "RIKER",
+          "line": "Geordi, what's that?"
+        },
+        {
+          "character": "LAFORGE",
+          "line": "I don't know. Sounds like a loose panel or something. I think it's coming from this service duct over here."
+        },
+        {
+          "character": "RIKER",
+          "line": "Here's your loose panel."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Hey, pooch. hey, pooch, come on out of there. Come on. Come on. Hey, pooch, what are you doing in there?"
+        },
+        {
+          "character": "WORF",
+          "line": "Commander, the shuttlecraft is gone. There is no one on board."
+        },
+        {
+          "character": "CRUSHER",
+          "line": "Commander?"
+        },
+        {
+          "character": "RIKER",
+          "line": "What is it?"
+        },
+        {
+          "character": "CRUSHER",
+          "line": "Cellular residue. I believe these are the remains of one of our lieutenants."
+        },
+        {
+          "character": "CRUSHER",
+          "line": "All of the blood traces I found match those of Lieutenant Aquiel Uhnari. I'll assume those are her remains but I'll need to take the deck plate back to Sickbay just to be sure."
+        },
+        {
+          "character": "RIKER",
+          "line": "It would take a powerful weapon to do that."
+        },
+        {
+          "character": "CRUSHER",
+          "line": "I'll have a better idea once I've analyzed the deck plate."
+        },
+        {
+          "character": "RIKER",
+          "line": "If that is Uhnari, where's Rocha?"
+        },
+        {
+          "character": "CRUSHER",
+          "line": "The station's shuttle's gone. Maybe he took it."
+        },
+        {
+          "character": "RIKER",
+          "line": "Before Uhnari died or after?"
+        },
+        {
+          "character": "WORF",
+          "line": "We're ready, Commander."
+        },
+        {
+          "character": "RIKER",
+          "line": "Did you have any luck downloading the station logs?"
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Not yet. I can't get past these security lock-outs, and I think I know why. All encrypted subspace messages are sent through this channel. Take a look at this signal notation."
+        },
+        {
+          "character": "RIKER",
+          "line": "It's out of sequence."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Looks like somebody tried to by pass the access protocols and break into the coded messages. It caused the security lockouts to freeze right up."
+        },
+        {
+          "character": "RIKER",
+          "line": "Are there any messages missing?"
+        },
+        {
+          "character": "LAFORGE",
+          "line": "I won't know until I get into the files."
+        },
+        {
+          "character": "RIKER",
+          "line": "Looks like you've made a friend."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Yeah."
+        },
+        {
+          "character": "RIKER",
+          "line": "We're going to back to the ship. Let me know as soon as you have something."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "I'm going to try accessing the logs from another console."
+        }
+      ],
+      "location": "Relay Station ops"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "LAFORGE",
+          "line": "What's going on here? Well, we can start with repolarizing the interface."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "What is it, pup? What's the matter? Something over here? This doesn't look like it belongs to you. Ah, This what you want, huh? There you go. Computer, run station logs in sequence."
+        },
+        {
+          "character": "AQUIEL",
+          "line": "Station log, stardate 46458.3. Today we configured the relay controller grid. It was the last primary system we had to overhaul. We are scheduled to recalibrate and align the antennae systems in the next three days.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Computer, access visual output."
+        },
+        {
+          "character": "AQUIEL",
+          "line": "Sent in my third request for a message delay buffer. Until it arrives, Lieutenant Rocha and I have rigged a memory module to compensate. It better work, or about a half million subspace messages are going to end up drifting through space. Computer, open Uhnari correspondence file.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Computer, access correspondence files, Lieutenant Aquiel Uhnari."
+        },
+        {
+          "character": "AQUIEL",
+          "line": "Hello, Shiana. Sorry I haven't talked to you in a while but I've been dealing with the new Lieutenant, Rocha. So far he's been rude, arrogant and condescending, and he's only been here two days. This might be a long year.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Come on, Lieutenant. Stick with me."
+        },
+        {
+          "character": "AQUIEL",
+          "line": "I had the dream again. Mother's calling out my name. She's somewhere in the house. I get to the top of the hill all right, but then the house is slanted. I'm still walking uphill. I can't find her. Doors everywhere and they all look the same.",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "Aquiel's quarters"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "CRUSHER",
+          "line": "The cellular residue is completely fused with to metal of the deck plate. We're trying to micro-vaporize the metal in order to get a clear DNA sample."
+        },
+        {
+          "character": "PICARD",
+          "line": "Do you have any idea what killed her?"
+        },
+        {
+          "character": "CRUSHER",
+          "line": "Well this is just a guess, but from the molecular deposition on the plating I'd say it was a high-level phaser blast."
+        },
+        {
+          "character": "RIKER",
+          "line": "Could it have been a Klingon disruptor?"
+        },
+        {
+          "character": "CRUSHER",
+          "line": "Possibly."
+        },
+        {
+          "character": "RIKER",
+          "line": "Geordi's found evidence that the encrypted messages have been tampered with, and we are close to Klingon space."
+        },
+        {
+          "character": "PICARD",
+          "line": "There hasn't been a Klingon raid against the Federation for more than seven years. We can't risk a diplomatic incident until we have more evidence."
+        },
+        {
+          "character": "CRUSHER",
+          "line": "And there's still the question of what happened to Lieutenant Rocha."
+        },
+        {
+          "character": "PICARD",
+          "line": "Get Rocha's personnel file from Starfleet Command, and ask Starbase two twelve to help us find that shuttle."
+        },
+        {
+          "character": "RIKER",
+          "line": "Aye, sir."
+        },
+        {
+          "character": "PICARD",
+          "line": "Keep me apprised, Doctor."
+        }
+      ],
+      "location": "Sickbay"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "LAFORGE",
+          "line": "All right, let's try this again. Come on, this should be working. The phase inducters are aligned. Come on, Lieutenant, I know you're in here somewhere. Computer me run a subsystem diagnostic, with a frequency range of ten to one hundred megahertz."
+        },
+        {
+          "character": "COMPUTER",
+          "line": "Diagnostic cycle will be complete in twenty seconds."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Iced coffee?"
+        },
+        {
+          "character": "LAFORGE",
+          "line": "What is it, girl?"
+        },
+        {
+          "character": "AQUIEL",
+          "line": "Hello, Shiana. By the time you get this the Batarael will be over. This is the first time I haven't been there. I've been wondering, who's singing the Horath in my place. Jomiael hahnalia ma marou nitalia. Rumael tavariel fatra di va Jomiael. I had that dream again. The one where Mother is screaming. I climb the hill to our house but I can't get to her. Shiana, this time I ran away. I was so scared I ran back down the hill. I think I know why I've been having the dreams about danger. It's because of what's been happening with that Klingon. He's getting more aggressive all the time. Not just the usual threat.",
+          "modifier": "screen"
+        },
+        {
+          "character": "AQUIEL",
+          "line": "It's because of what's been happening with that Klingon. He's getting more aggressive all the time. Not just the usual threat. Morag actually locked his disruptors to the station this time. I don't think there'll be any trouble. It just brings up those feelings of panic, of wanting to run, wanting to get away from danger. Shiana, I couldn't say this to anyone but you, but the panic? It's the same thing I used to feel whenever Father got angry, when I knew he was going to punish me. Only now, I'm out here in space, and there's no place to run.",
+          "modifier": "screen"
+        }
+      ],
+      "location": "Aquiel's quarters"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "LAFORGE",
+          "line": "There are three references to a Commander Morag, a Klingon officer who patrols this section of the border. Apparently he would pass the station every few days and harass them."
+        },
+        {
+          "character": "PICARD",
+          "line": "Perhaps this Morag was the one who was interested in obtaining the encrypted messages."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Could be. She didn't say. But I do have several more days of logs left to watch. I'm hoping to learn more."
+        },
+        {
+          "character": "PICARD",
+          "line": "Very well. In the meantime, I'll speak with the Klingon Governor about Commander Morag."
+        }
+      ],
+      "location": "Ready room"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TORAK",
+          "line": "Are you saying we attacked your outpost?",
+          "modifier": "screen"
+        },
+        {
+          "character": "PICARD",
+          "line": "I'm merely saying that I'm following up on evidence that my officers diskovered on board."
+        },
+        {
+          "character": "TORAK",
+          "line": "Evidence. So you are making an accusation. The Klingon Empire will not stand for these kinds of lies.",
+          "modifier": "screen"
+        },
+        {
+          "character": "PICARD",
+          "line": "Governor Torak, I apologize. I can see that you honestly didn't know what happened aboard the station. I will just have to take this matter up with Gowron. I'm really sorry that we bothered you."
+        },
+        {
+          "character": "TORAK",
+          "line": "Gowron won't bother with such a minor incident.",
+          "modifier": "screen"
+        },
+        {
+          "character": "PICARD",
+          "line": "Well, ordinarily he wouldn't, but of course I was his Arbiter of Succession. I'm sure that he will be happy to come here and investigate this matter. You needn't worry about it any longer."
+        },
+        {
+          "character": "TORAK",
+          "line": "Gowron will come here?",
+          "modifier": "screen"
+        },
+        {
+          "character": "PICARD",
+          "line": "Oh, yes. So once again, thank you for your help. Oh, I will be sure to mention your name to Gowron when I speak to him."
+        },
+        {
+          "character": "TORAK",
+          "line": "I will investigate this further, Picard. You need not bother Gowron with this matter.",
+          "modifier": "screen"
+        },
+        {
+          "character": "PICARD",
+          "line": "That's very kind. Qapla'!"
+        },
+        {
+          "character": "TORAK",
+          "line": "Qapla'!",
+          "modifier": "screen"
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "LAFORGE",
+          "line": "Computer access the personal logs of Aquiel Uhnari."
+        },
+        {
+          "character": "COMPUTER",
+          "line": "Logs accessed."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Begin playback."
+        },
+        {
+          "character": "AQUIEL",
+          "line": "Shiana, you always said I'd look great with a wig, so here it is. What do you think?",
+          "modifier": "screen"
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Definitely not you."
+        },
+        {
+          "character": "AQUIEL",
+          "line": "Okay, maybe I'm getting a little crazy. You would too, if you were stuck on a relay station in the middle of nowhere with no one for company except an egomaniac like Keith Rocha. I took a big risk today. I countermanded an order he gave. I agreed to handle the comm. traffic for Relay Station one nine four while they shut down for maintenance. Rocha said we couldn't handle the additional signal load, but I think he's wrong. When he finds out he'll be furious. It's days like this I wish I was home. You know what I miss most? Muskan seed punch. Real Muskan seed punch. You can get it from the replicator, but it's not the same. I'd give anything for some of the punch Mother used to make with chunks of the seeds still in it. Keith, is that you? Keith?",
+          "modifier": "screen"
+        }
+      ],
+      "location": "La Forge's quarters"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "WORF",
+          "line": "Commander, there are DNA traces here. Klingon."
+        },
+        {
+          "character": "RIKER",
+          "line": "So Klingons did board the station?"
+        },
+        {
+          "character": "WORF",
+          "line": "Yes, but I only found DNA from one Klingon so far. I will continue to scan."
+        }
+      ],
+      "location": "Relay Station ops"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "LAFORGE",
+          "line": "How could she read this stuff?"
+        },
+        {
+          "character": "RIKER",
+          "line": "How's it going?"
+        },
+        {
+          "character": "LAFORGE",
+          "line": "I've managed to access all of Lieutenant Uhnari's logs. I'm still looking for Lieutenant Rocha's. Whatever happened to the encrypted messages had a cascade effect on the whole storage system. I can't find his files anywhere. I'm running a level three diagnostic now."
+        },
+        {
+          "character": "RIKER",
+          "line": "Maybe Rocha didn't make the official logs. Uhnari could have been responsible for them."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "I don't think so. Aquiel was the junior officer here."
+        },
+        {
+          "character": "RIKER",
+          "line": "Aquiel?"
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Lieutenant Uhnari. I've been up all night watching her personal logs. I guess I'm starting to feel like I know her."
+        },
+        {
+          "character": "RIKER",
+          "line": "What was she like?"
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Well she was Hahliian. She had one sister named Shiana, she drank muskan seed punch. She had a quirky sense of humor. She liked to sing. She had questionable taste in literature."
+        },
+        {
+          "character": "PICARD",
+          "line": "Enterprise to Commander Riker.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "RIKER",
+          "line": "Riker here."
+        },
+        {
+          "character": "PICARD",
+          "line": "The Klingon ship Qu'Vat has arrived with Governor Torak. Please report to the Observation lounge."
+        },
+        {
+          "character": "RIKER",
+          "line": "We're on our way."
+        }
+      ],
+      "location": "Aquiel's quarters"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "WORF",
+          "line": "Governor Torak, sir."
+        },
+        {
+          "character": "PICARD",
+          "line": "Governor. Welcome aboard."
+        },
+        {
+          "character": "TORAK",
+          "line": "Do not bore me with your human pleasantries. I told you we did not kill the woman. Now I will prove it to you. ghoS!"
+        },
+        {
+          "character": "TORAK",
+          "line": "This is Lieutenant Aquiel Uhnari."
+        },
+        {
+          "character": "AQUIEL",
+          "line": "We were running a level two diagnostic of the message buffer, Nothing special. Rocha had been on edge all morning, but he'd been irritable ever since he got there, so I didn't think anything of it. We were halfway through the procedure when suddenly he attacked me. He grabbed me, threw me against a bulkhead. I yelled at him to stop but he wouldn't listen. He took me by the throat. I broke free and tried to get to the weapons locker. I'm not sure what happened next but somehow I got aboard the shuttle and left."
+        },
+        {
+          "character": "TORAK",
+          "line": "We found her on our side of the border heading toward Sector two five two zero. She is lucky my patrol ship did not destroy her vessel on sight."
+        },
+        {
+          "character": "PICARD",
+          "line": "Lieutenant, why didn't you contact Starfleet? Let them know what happened on board the station?"
+        },
+        {
+          "character": "AQUIEL",
+          "line": "I don't know, sir. Maybe I passed out. I'm not even sure how long I was in the shuttle before the Klingons picked me up."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Forty six hours. You've been gone forty six hours."
+        },
+        {
+          "character": "CRUSHER",
+          "line": "We presumed you were dead. Your blood stains were found at the murder scene."
+        },
+        {
+          "character": "AQUIEL",
+          "line": "I must have cut my head when he pushed me against the bulkhead."
+        },
+        {
+          "character": "WORF",
+          "line": "Then the remains we found must be those of Lieutenant Rocha."
+        },
+        {
+          "character": "CRUSHER",
+          "line": "I can't confirm that. Until we're able to separate the cellular residue from the deck plate, I won't be able to do a clear DNA scan."
+        },
+        {
+          "character": "RIKER",
+          "line": "You said you were trying to get to the weapons locker. Is there a possibility that you did?"
+        },
+        {
+          "character": "AQUIEL",
+          "line": "No, I didn't."
+        },
+        {
+          "character": "RIKER",
+          "line": "You're sure?"
+        },
+        {
+          "character": "AQUIEL",
+          "line": "I don't remember exactly what happened to me after I was attacked. I'm sorry. It's as if all my memories were drained out of me."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Your logs said that a Commander Morag had been harassing you. Did you let him or any other Klingon aboard the station?"
+        },
+        {
+          "character": "AQUIEL",
+          "line": "Absolutely not."
+        },
+        {
+          "character": "WORF",
+          "line": "If that is true, then Morag or some other Klingon must have boarded the station after she left. We found traces of Klingon DNA on the station."
+        },
+        {
+          "character": "TORAK",
+          "line": "You still try to blame us."
+        },
+        {
+          "character": "WORF",
+          "line": "Have the courage to admit your mistakes. Or are you a lo'Be Vos?"
+        },
+        {
+          "character": "TORAK",
+          "line": "At least I do not wear the uniform of the P'tak!"
+        },
+        {
+          "character": "PICARD",
+          "line": "Governor, we are merely exploring all the possibilities. Lieutenant Uhnari's logs reported that Commander Morag had been harassing the station."
+        },
+        {
+          "character": "TORAK",
+          "line": "He was doing his job."
+        },
+        {
+          "character": "PICARD",
+          "line": "If he was only doing his job, then I'm sure you won't mind if we spoke with him."
+        },
+        {
+          "character": "TORAK",
+          "line": "Very well. In the interests of diplomacy, I will allow you to speak to Morag. But my patience has limits."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Lieutenant, I know a friend of yours who's very eager to see you."
+        },
+        {
+          "character": "AQUIEL",
+          "line": "Who?"
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Come with me."
+        }
+      ],
+      "location": "Observation lounge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "AQUIEL",
+          "line": "Maura! Come here, girl. Come on, Maura."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Maura. That's the name."
+        },
+        {
+          "character": "AQUIEL",
+          "line": "Yes, it's from Cold Moon Over Blackwater. Have you read it?"
+        },
+        {
+          "character": "LAFORGE",
+          "line": "I'm not much for gothic fiction."
+        },
+        {
+          "character": "AQUIEL",
+          "line": "Not many people are nowadays. Oh, your shoe."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Yeah, Maura got a little restless."
+        },
+        {
+          "character": "AQUIEL",
+          "line": "Maura, shame on you. That's not like you. What a naughty dog."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "It's all right, don't worry about it. At least she's chewing them up in pairs. I'll arrange quarters for you. I'm sure you want some time alone."
+        },
+        {
+          "character": "AQUIEL",
+          "line": "Actually I've been stuck on that station for over nine months. I wouldn't mind going someplace with some activity."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "I know just the place."
+        }
+      ],
+      "location": "La Forge's quarters"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "BARMAN",
+          "line": "Here you are, sir."
+        },
+        {
+          "character": "AQUIEL",
+          "line": "Thank you."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "You're welcome."
+        },
+        {
+          "character": "AQUIEL",
+          "line": "Mmmm. Have you ever tried Muskan seed punch?"
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Yeah. It nearly made me sick."
+        },
+        {
+          "character": "AQUIEL",
+          "line": "You have to be raised on it. It's very nutritious. The taste grows on you."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Batar al nalia."
+        },
+        {
+          "character": "AQUIEL",
+          "line": "You speak Hahliian."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "We traveled around quite a bit when I was growing up. I picked up a couple of languages along the way."
+        },
+        {
+          "character": "AQUIEL",
+          "line": "We never traveled. My family lived in the same house for five generations."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "The one on the hill."
+        },
+        {
+          "character": "AQUIEL",
+          "line": "How do you know about that?"
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Well, to be honest, when we thought you were dead I needed to review your logs and personal correspondence for any possible clues about what happened."
+        },
+        {
+          "character": "AQUIEL",
+          "line": "All of it?"
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Most of it, yeah. You need to understand that we thought you'd been murdered. We needed information."
+        },
+        {
+          "character": "AQUIEL",
+          "line": "I'm sorry. It's just that I tell my sister things I wouldn't tell anyone else. I guess I was feeling a little exposed."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "I'd feel the same way."
+        },
+        {
+          "character": "AQUIEL",
+          "line": "Especially if I had seen you in that wig."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "It really wasn't you."
+        },
+        {
+          "character": "AQUIEL",
+          "line": "I'm curious. Now that you've met me, am I what you expected?"
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Actually, I'm not sure. The woman I saw in those logs is very complicated. I think there's more to you than meets the eye, Lieutenant."
+        },
+        {
+          "character": "AQUIEL",
+          "line": "In what way?"
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Well, your relationship with Lieutenant Rocha, for example. He was only there for five days and yet there was evidence of plenty of friction. You seemed to delight in doing things that you knew would upset him. Why take on extra comm. traffic when you knew it was going to make him angry?"
+        },
+        {
+          "character": "AQUIEL",
+          "line": "Is that a personal question or part of a murder investigation?"
+        },
+        {
+          "character": "LAFORGE",
+          "line": "I don't know. Maybe both."
+        },
+        {
+          "character": "AQUIEL",
+          "line": "Keith Rocha was obnoxious from the minute he reported to duty. He treated me as though I was beneath contempt. I felt like I had to battle him to hold my own. But I didn't want to see him dead."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Why do you think he attacked you?"
+        },
+        {
+          "character": "AQUIEL",
+          "line": "I don't know."
+        }
+      ],
+      "location": "Ten Forward"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "RIKER",
+          "line": "Rocha's file is spotless. Two decorations for valor, three outstanding evaluations from his previous commanders. Doesn't sound like the same man that Lieutenant Uhnari described."
+        },
+        {
+          "character": "PICARD",
+          "line": "What did you found out about Uhnari?"
+        },
+        {
+          "character": "RIKER",
+          "line": "I checked into her record, too. Her last posting was on Deriben Five. I spoke to her commanding officer there. He said she was argumentative, quick to take offense. He also told me he transferred her to that relay station because she was hampering their efforts. To be honest, I'm having trouble believing her story, sir."
+        },
+        {
+          "character": "PICARD",
+          "line": "Why?"
+        },
+        {
+          "character": "RIKER",
+          "line": "I sent Worf to check the weapons locker on the relay station. There's a phaser missing."
+        },
+        {
+          "character": "PICARD",
+          "line": "You think that she lied?"
+        },
+        {
+          "character": "RIKER",
+          "line": "Lied, conveniently forgot, I'm not sure. I think it's something we have to consider."
+        },
+        {
+          "character": "PICARD",
+          "line": "As of now, we don't have sufficient evidence one way or the other. I want you to examine her shuttle. You might find something there which will shed some light on her story."
+        },
+        {
+          "character": "RIKER",
+          "line": "Aye, sir."
+        }
+      ],
+      "location": "Ready room"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "AQUIEL",
+          "line": "How much longer do you think the investigation will take?"
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Three, maybe four days. It's tough to tell."
+        },
+        {
+          "character": "AQUIEL",
+          "line": "I know I'm a suspect in the murder, but let me ask you something. You've watched my logs. You know me better than anyone here. Do I seem like the kind of person who could murder someone?"
+        },
+        {
+          "character": "LAFORGE",
+          "line": "No, you don't."
+        },
+        {
+          "character": "AQUIEL",
+          "line": "I don't think I realized how much I needed to hear that."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Look, Aquiel, it's been a rough couple of days. I think you need some sleep."
+        },
+        {
+          "character": "AQUIEL",
+          "line": "You called me complicated. You're right. I don't make friends easily. Oumriel."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Oumriel."
+        }
+      ],
+      "location": "Corridor"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "WORF",
+          "line": "Commander. It is set to kill."
+        }
+      ],
+      "location": "Aquiel's shuttlecraft"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "RIKER",
+          "line": "We found this type two phaser in your shuttlecraft. It was taken from the weapons locker on the station."
+        },
+        {
+          "character": "AQUIEL",
+          "line": "I told you I don't remember what happened. Maybe I did make to the weapons locker."
+        },
+        {
+          "character": "RIKER",
+          "line": "It was set to level ten. Standard procedure requires that all phasers are set on level one when they're in storage."
+        },
+        {
+          "character": "WORF",
+          "line": "That means that someone deliberately changed the setting. And then there is the matter of your conflict with Lieutenant Rocha."
+        },
+        {
+          "character": "AQUIEL",
+          "line": "Rocha and I had our disagreements but that does not mean I would kill him."
+        },
+        {
+          "character": "RIKER",
+          "line": "Have you been able to remember anything that happened after he attacked you?"
+        },
+        {
+          "character": "AQUIEL",
+          "line": "No. Nothing. I suppose maybe in self-defense I"
+        },
+        {
+          "character": "RIKER",
+          "line": "Doctor Crusher tells me that in order to inflict the kind of molecular damage found in Rocha's remains, it would take a sustained phaser discharge of at least thirty to forty seconds. That doesn't sound like self-defense to me."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Now wait a minute. We haven't even established this phaser is the murder weapon yet. And even at level ten I don't see how it could have done the damage the medical evidence says it did. A phase disruptor like a Klingon weapon, maybe."
+        },
+        {
+          "character": "RIKER",
+          "line": "Look, we're not here to make accusations. We're trying to find out what happened. Commander Morag is due here in two hours. Let's see what he has to say."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Fine. In the meantime I'd like to go back to the station and see if I can access Rocha's personal logs again."
+        },
+        {
+          "character": "RIKER",
+          "line": "Good idea."
+        }
+      ],
+      "location": "Guest quarters"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "RIKER",
+          "line": "Geordi, wait a second. Thank you, Mister Worf."
+        },
+        {
+          "character": "WORF",
+          "line": "Aye, sir."
+        },
+        {
+          "character": "RIKER",
+          "line": "This is off the record. I'm saying this as a friend, not your superior officer. I think it would be best if you weren't so personally involved with Aquiel right now. There's a lot about her we don't know."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "And there's a lot about her that I do know, and if she's innocent I want to help her prove it."
+        },
+        {
+          "character": "RIKER",
+          "line": "I think you've let your personal feelings cloud your judgment."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "I'm not the one making judgments."
+        }
+      ],
+      "location": "Corridor"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "LAFORGE",
+          "line": "Got it. Computer, display the personal records of Lieutenant Rocha from stardates 46455 to 46460."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Computer, what happened to the log entries for stardate 46459?"
+        },
+        {
+          "character": "COMPUTER",
+          "line": "The logs have been deleted."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Who deleted them?"
+        },
+        {
+          "character": "COMPUTER",
+          "line": "Unknown."
+        },
+        {
+          "character": "PICARD",
+          "line": "Captain's log, supplemental. The Qu'Vat has arrived with Commander Morag. We are preparing to question him regarding his involvement in the murder of Lieutenant Rocha.",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "Relay Station ops"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "MORAG",
+          "line": "I killed no one!"
+        },
+        {
+          "character": "RIKER",
+          "line": "We found your DNA on the bulkheads and the console. We know you were there."
+        },
+        {
+          "character": "TORAK",
+          "line": "Answer their questions."
+        },
+        {
+          "character": "MORAG",
+          "line": "Yes. Yes, I was there. My patrol route takes me near the station every six days. Three days ago, I hailed them. There was no response. I was concerned."
+        },
+        {
+          "character": "TROI",
+          "line": "Concerned?"
+        },
+        {
+          "character": "MORAG",
+          "line": "Yes. I went aboard to see what had happened. There was no one was there, so I left."
+        },
+        {
+          "character": "RIKER",
+          "line": "Is that all?"
+        },
+        {
+          "character": "MORAG",
+          "line": "That's all."
+        },
+        {
+          "character": "DATA",
+          "line": "Commander Morag, we have diskovered that the encrypted message bank on the station has been tampered with. Our analysis indicates that twenty seven priority Starfleet messages are missing."
+        },
+        {
+          "character": "MORAG",
+          "line": "What of it?"
+        },
+        {
+          "character": "DATA",
+          "line": "Your DNA was also found on the message control module."
+        },
+        {
+          "character": "MORAG",
+          "line": "This is outrageous! We will not tolerate these ridiculous accusations!"
+        },
+        {
+          "character": "TORAK",
+          "line": "This is a diplomatic matter, Morag! Do not make me search your ship."
+        },
+        {
+          "character": "MORAG",
+          "line": "Yes, I did take the messages."
+        },
+        {
+          "character": "PICARD",
+          "line": "Did you kill Lieutenant Rocha?"
+        },
+        {
+          "character": "MORAG",
+          "line": "No. I killed no one. There was no one there. I took the codes, but I killed no one."
+        },
+        {
+          "character": "PICARD",
+          "line": "Governor, we would like Commander Morag to remain on board the Enterprise until this investigation is complete."
+        },
+        {
+          "character": "TORAK",
+          "line": "Take him."
+        },
+        {
+          "character": "WORF",
+          "line": "This way."
+        }
+      ],
+      "location": "Observation lounge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "LAFORGE",
+          "line": "Last night, after I dropped you off at your quarters you established a subspace link with this console. You deleted some of Rocha's personal files, didn't you?"
+        },
+        {
+          "character": "AQUIEL",
+          "line": "Yes, I did."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Why?"
+        },
+        {
+          "character": "AQUIEL",
+          "line": "I found a letter Rocha was planning to send to Starfleet Command about me. The letter said I had become belligerent and insubordinate. He was going to ask for a formal hearing. Geordi, I know how this looks."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Yeah, it looks bad. I find out that you've erased a letter that contained a possible motivation for murder?"
+        },
+        {
+          "character": "AQUIEL",
+          "line": "I didn't kill him."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Then explain this."
+        },
+        {
+          "character": "AQUIEL",
+          "line": "I was afraid if they found the letter they'd blame me for the murder. I'm not a model officer. I realize that. Sometimes I act on impulse instead of thinking things through."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Aquiel, this really complicates things."
+        }
+      ],
+      "location": "Relay Station ops"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "LAFORGE",
+          "line": "What are you doing?"
+        },
+        {
+          "character": "AQUIEL",
+          "line": "Getting out of here."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Aquiel, running away isn't going to prove your innocence. Facing the situation will."
+        },
+        {
+          "character": "AQUIEL",
+          "line": "I'm scared, Geordi."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Look, we'll get through this. I promise you, okay?"
+        },
+        {
+          "character": "AQUIEL",
+          "line": "Then you believe me?"
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Yes, I do. Medical Officer's log, supplemental. I've isolated the cellular residue from the deck plate, but the DNA has destabilized. I'm attempting to reform it."
+        }
+      ],
+      "location": "Aquiel's quarters"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "CRUSHER",
+          "line": "All right. Initiate the resonance frequency burst."
+        },
+        {
+          "character": "CRUSHER",
+          "line": "I'm starting to get a stable DNA scan. This is odd. The nucleotide sequences are starting to fluctuate. The DNA is becoming mobile. Let's try another frequency burst, but increase the resonance level by twenty percent."
+        }
+      ],
+      "location": "Sickbay"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "AQUIEL",
+          "line": "I haven't been this close to someone in a long time. I don't want to let go of it."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Neither do I, but I've got six hundred logs to go through."
+        },
+        {
+          "character": "AQUIEL",
+          "line": "All right, but first there's something I want to share with you. A way that we can become more intimate. My people are partially telepathic. We use something called the Canar to help focus our thoughts. We also use the Canar for a stronger emotional link during love."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "I was wondering what that was for. Do both of us have to be telepathic for it to work?"
+        },
+        {
+          "character": "AQUIEL",
+          "line": "Let's find out."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Like this."
+        },
+        {
+          "character": "AQUIEL",
+          "line": "Think of me."
+        }
+      ],
+      "location": "Aquiel's quarters"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "CRUSHER",
+          "line": "It's an exact reproduction of my hand, right down to the DNA structure."
+        },
+        {
+          "character": "PICARD",
+          "line": "Doctor, you said that this was formed from the organic matter found in the deck plates."
+        },
+        {
+          "character": "CRUSHER",
+          "line": "When I infused the matter with a resonance frequency burst, it activated its DNA. Then it touched my hand and it began to mimic my cellular structure."
+        },
+        {
+          "character": "PICARD",
+          "line": "Doctor, what exactly is this?"
+        },
+        {
+          "character": "CRUSHER",
+          "line": "This is going to sound very farfetched, but have you ever heard of a coalescent organism?"
+        },
+        {
+          "character": "PICARD",
+          "line": "No."
+        },
+        {
+          "character": "CRUSHER",
+          "line": "They're rare microscopic lifeforms which need to absorb other organisms in order to survive. Now, that in itself isn't so unusual, but coalescents become the organisms they've absorbed, right down to the cellular level."
+        },
+        {
+          "character": "WORF",
+          "line": "Do you think this is what happened with your hand?"
+        },
+        {
+          "character": "CRUSHER",
+          "line": "There've been reports that these organisms can exist on a larger scale. Certainly, what happened to my hand seems to support that theory."
+        },
+        {
+          "character": "RIKER",
+          "line": "So you think that Rocha was killed by one of these organisms?"
+        },
+        {
+          "character": "CRUSHER",
+          "line": "It's possible that something happened to him before he reported for duty on the relay station."
+        },
+        {
+          "character": "WORF",
+          "line": "I do not understand."
+        },
+        {
+          "character": "CRUSHER",
+          "line": "I've checked the records. Before he was posted to the relay station, Rocha served on an outpost in the Triona System. That is a remote sector. Maybe he was absorbed by a coalescent during that mission."
+        },
+        {
+          "character": "RIKER",
+          "line": "So what boarded the station could have been an organism that looked and acted like Lieutenant Rocha?"
+        },
+        {
+          "character": "WORF",
+          "line": "How often do they have to change bodies?"
+        },
+        {
+          "character": "CRUSHER",
+          "line": "The microscopic organisms have a cycle of no more than five to ten seconds. We can only assume a larger, more complex coalescent would have a cycle of days, even weeks."
+        },
+        {
+          "character": "PICARD",
+          "line": "Doctor, if what you're saying is true, then Rocha attacked Lieutenant Uhnari to find a new body."
+        },
+        {
+          "character": "CRUSHER",
+          "line": "Right."
+        },
+        {
+          "character": "RIKER",
+          "line": "That means Uhnari is a coalescent."
+        },
+        {
+          "character": "WORF",
+          "line": "There was one other person on the station. Morag. It is possible he was the one who was absorbed."
+        },
+        {
+          "character": "PICARD",
+          "line": "Computer, locate Commander Morag and Lieutenant Uhnari."
+        },
+        {
+          "character": "COMPUTER",
+          "line": "Commander Morag is in his quarters. Lieutenant Uhnari is not aboard the Enterprise."
+        },
+        {
+          "character": "WORF",
+          "line": "Where did she go?"
+        },
+        {
+          "character": "COMPUTER",
+          "line": "Lieutenant Uhnari transported to Relay Station forty seven at eighteen thirty hours."
+        },
+        {
+          "character": "RIKER",
+          "line": "You get Morag. I'm going to the station."
+        },
+        {
+          "character": "WORF",
+          "line": "Aye, sir."
+        }
+      ],
+      "location": "Sickbay"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "AQUIEL",
+          "line": "Geordi?"
+        },
+        {
+          "character": "LAFORGE",
+          "line": "I can see you. Oh. And I can feel you."
+        }
+      ],
+      "location": "Aquiel's quarters"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "WORF",
+          "line": "Do not move."
+        },
+        {
+          "character": "MORAG",
+          "line": "What is this?"
+        },
+        {
+          "character": "WORF",
+          "line": "You will come with me."
+        }
+      ],
+      "location": "Morag's quarters"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "AQUIEL",
+          "line": "You've never been as close to someone as you're about to be. Think of me."
+        },
+        {
+          "character": "RIKER",
+          "line": "Step away from him, Lieutenant."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "What are you doing, Commander?"
+        },
+        {
+          "character": "RIKER",
+          "line": "That may not be Lieutenant Uhnari."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "What?"
+        },
+        {
+          "character": "AQUIEL",
+          "line": "What are you saying?"
+        },
+        {
+          "character": "RIKER",
+          "line": "Step away now. Medical Officer's Log, supplemental. Commander Morag and Lieutenant Uhnari are being kept under close observation. So far, no sign of coalescent behavior has surfaced."
+        }
+      ],
+      "location": "Aquiel's quarters"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "RIKER",
+          "line": "Aquiel and Morag will be transferred to a secure medical facility at Starbase twelve. Maybe we'll know more by the time we get there."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Yeah, right."
+        },
+        {
+          "character": "RIKER",
+          "line": "It could be Morag. We don't know for sure."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Sure."
+        },
+        {
+          "character": "RIKER",
+          "line": "Get some rest. You've had a rough couple of days."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Thanks."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Computer, display the Engineering duty roster for the next three days."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Maura, come on, not now. Maura, I said not now. Come on, give me a break here. Go lay down!"
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Maura?"
+        }
+      ],
+      "location": "La Forge's quarters"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "LAFORGE",
+          "line": "Maybe the reason you don't remember anything that happened after Rocha attacked you is that the coalescing process had begun. Thank you. Remember when you said you felt like the memories had been drained right out of you? That's probably exactly what was going on."
+        },
+        {
+          "character": "AQUIEL",
+          "line": "Then maybe I did take the phaser."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Whatever happened, at least you got away before the process took hold."
+        },
+        {
+          "character": "AQUIEL",
+          "line": "So he turned on Maura."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Right. Well, what now?"
+        },
+        {
+          "character": "AQUIEL",
+          "line": "I guess I'll be going to Starbase two twelve for re assignment."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "You know, I had a talk with Chief Pendleton in Communications. There's an opening for a level two specialist."
+        },
+        {
+          "character": "AQUIEL",
+          "line": "Really? I'm sure the waiting list so long I'd be gray before I got here."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "I could put in a good word."
+        },
+        {
+          "character": "AQUIEL",
+          "line": "It's an appealing offer, but I think I'd rather get here on my own merits. Don't be surprised if you see my name on that list."
+        }
+      ],
+      "location": "Ten Forward"
+    }
+  ],
+  "schedule": {
+    "episode": 13,
+    "number": 139,
+    "season": 6
+  },
+  "stardate": "46461.3",
+  "title": "Aquiel"
+}

@@ -1,0 +1,1481 @@
+{
+  "airdate": 601534800,
+  "scenes": [
+    {
+      "dialogue": [
+        {
+          "character": "unknown",
+          "line": "Medical log, Stardate 42437.5. Ira Graves is arguably the greatest human mind in the universe. For years he's lived in near isolation on a remote planet, devoting full time to his research. Eight hours ago, we monitored a message from his assistant, urgently requesting medical aid. I only hope we can reach him in time."
+        }
+      ],
+      "location": "unknown"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "PICARD",
+          "line": "Any response from Gravesworld, Mister Worf?"
+        },
+        {
+          "character": "WORF",
+          "line": "Nothing sir. Not since their initial communication."
+        },
+        {
+          "character": "RIKER",
+          "line": "They send out a plea for help, then they cut off transmission so they can't tell if there's any help on the way. Doesn't make much sense, does it?"
+        },
+        {
+          "character": "PICARD",
+          "line": "Ensign, what's our ETA at the planet?"
+        },
+        {
+          "character": "WESLEY",
+          "line": "Thirty six minutes to orbit, sir."
+        },
+        {
+          "character": "PICARD",
+          "line": "Starfleet Command considers Graves' work on molecular cybernetics is reaching a critical stage. They consider this a priority one action."
+        },
+        {
+          "character": "PULASKI",
+          "line": "A man is ill, Captain. Treating him is my priority one, regardless of who he is."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TROI",
+          "line": "Did Data say why he wants to see us?"
+        },
+        {
+          "character": "LAFORGE",
+          "line": "He said something about his new image. I tell you, he's been acting kind of strange lately."
+        },
+        {
+          "character": "TROI",
+          "line": "How so?"
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Well, if I didn't know better, I'd say he was showing signs of insecurity."
+        },
+        {
+          "character": "TROI",
+          "line": "Yes, but you do know better. Androids don't feel such things."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "I don't know. Sometimes I think he's becoming more human than any of us realize."
+        }
+      ],
+      "location": "Corridor"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "DATA",
+          "line": "Come in.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Data?"
+        },
+        {
+          "character": "DATA",
+          "line": "Geordi? Is Counselor Troi with you?",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "TROI",
+          "line": "Yes, I'm here, Data. Geordi said you wanted to see us."
+        },
+        {
+          "character": "DATA",
+          "line": "Indeed. Or, stated more correctly, I wanted you to see me.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Can we come in?"
+        },
+        {
+          "character": "DATA",
+          "line": "Please.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Did you damage your face, Data?"
+        },
+        {
+          "character": "DATA",
+          "line": "It is a beard, Geordi. A fine, full, dignified beard. One which commands respect and projects thoughtfulness and dignity. Well? Opinions?"
+        },
+        {
+          "character": "TROI",
+          "line": "It's er, very different."
+        },
+        {
+          "character": "DATA",
+          "line": "When I stroke the beard thusly, do I not appear more intellectual?"
+        },
+        {
+          "character": "TROI",
+          "line": "I'm sorry, I have to go now. Goodbye."
+        },
+        {
+          "character": "DATA",
+          "line": "Why was she laughing?"
+        }
+      ],
+      "location": "Data's quarters"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "WORF",
+          "line": "We are receiving a transmission from Gravesworld, sir. It's unfocused. Not directed specifically at us."
+        },
+        {
+          "character": "PICARD",
+          "line": "On viewer, Mister Worf."
+        },
+        {
+          "character": "KAREEN",
+          "line": "If anyone can hear me, please send a doctor. Things are getting worse.",
+          "modifier": "screen"
+        },
+        {
+          "character": "PICARD",
+          "line": "Try and raise her, Mister Crusher. Tell them we're only minutes away."
+        },
+        {
+          "character": "WESLEY",
+          "line": "It's no good, sir. I don't believe they're receiving us."
+        },
+        {
+          "character": "WORF",
+          "line": "Our records show that she and Graves are the only ones living on the planet, Captain."
+        },
+        {
+          "character": "RIKER",
+          "line": "Then what scared her?"
+        },
+        {
+          "character": "WORF",
+          "line": "Captain, I am picking up another signal, but it is not from the planet."
+        },
+        {
+          "character": "PICARD",
+          "line": "On screen, Mister Worf."
+        },
+        {
+          "character": "WORF",
+          "line": "The signal is very weak, sir. Audio only."
+        },
+        {
+          "character": "PICARD",
+          "line": "Pipe it through."
+        },
+        {
+          "character": "MAN",
+          "line": "Mayday! Mayday! This is the USS questing emergency assistance. The outer hull is breached and environmental systems compromised. Need assistance.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "WESLEY",
+          "line": "Captain, I show the Constantinople in that general vicinity. She's a transport ship, used to ferry settlers. I'm showing two thousand and twelve colonists aboard."
+        },
+        {
+          "character": "RIKER",
+          "line": "Outer hull breach. She must have had an internal explosion."
+        },
+        {
+          "character": "PULASKI",
+          "line": "If that's the case, they'll all be prone to severe hypoxia. Their lives are at risk. We've got to help them."
+        },
+        {
+          "character": "PICARD",
+          "line": "And what about Graves?"
+        },
+        {
+          "character": "PULASKI",
+          "line": "He's one man."
+        },
+        {
+          "character": "RIKER",
+          "line": "Suggestion, Captain. Why don't we execute a long range transport of an away team to assist Doctor Graves at earliest possible moment. We'd come out of warp just long enough to energize the beam."
+        },
+        {
+          "character": "PICARD",
+          "line": "A touch and go down warping? Mister Crusher, prepare to make it so."
+        },
+        {
+          "character": "WESLEY",
+          "line": "Aye sir."
+        },
+        {
+          "character": "PICARD",
+          "line": "Engineering, Mister La Forge. We're going to execute a near warp"
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "PICARD",
+          "line": "Transport. This may be a little tricky. I would like you to handle it.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Yes, Captain."
+        }
+      ],
+      "location": "Engineering"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "LAFORGE",
+          "line": "I'm on my way.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "PICARD",
+          "line": "Assemble an away team, Number One. Include whoever the Doctor requires to assist."
+        },
+        {
+          "character": "PULASKI",
+          "line": "Excuse me sir, but there may be hundreds on the Constantinople that require emergency attention. I should be there to supervise."
+        },
+        {
+          "character": "PICARD",
+          "line": "All right, who will replace you?"
+        },
+        {
+          "character": "PULASKI",
+          "line": "Lieutenant Selar. She has my complete confidence."
+        },
+        {
+          "character": "RIKER",
+          "line": "Worf, let's go."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "RIKER",
+          "line": "Phaser on stun, Mister Worf. We don't know what's going on down there. There's no need to take any chances."
+        },
+        {
+          "character": "WORF",
+          "line": "Agreed, sir."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Now remember, this is a near warp transport, so the effects may be a little unusual."
+        },
+        {
+          "character": "TROI",
+          "line": "What do you mean?"
+        },
+        {
+          "character": "RIKER",
+          "line": "You'll see, Counselor. Energize."
+        },
+        {
+          "character": "TROI",
+          "line": "Now wait a minute. I don't understand"
+        }
+      ],
+      "location": "Transporter room"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "RIKER",
+          "line": "You do now."
+        },
+        {
+          "character": "TROI",
+          "line": "This might sound crazy, but for a moment I thought I was stuck in that wall."
+        },
+        {
+          "character": "WORF",
+          "line": "For a moment, you were."
+        },
+        {
+          "character": "DATA",
+          "line": "Data to Enterprise."
+        },
+        {
+          "character": "PICARD",
+          "line": "I read you, Commander. Go ahead.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "DATA",
+          "line": "We are inside Graves' home."
+        }
+      ],
+      "location": "Living room"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "DATA",
+          "line": "All is quiet so far. Of course, no one knew we were coming.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "PICARD",
+          "line": "Use caution, but protect Graves' health"
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "PICARD",
+          "line": "At all costs.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "DATA",
+          "line": "Understood, sir. I suggest we look around to see if anybody is home."
+        },
+        {
+          "character": "WORF",
+          "line": "No need, Commander."
+        },
+        {
+          "character": "KAREEN",
+          "line": "You heard me. Thank God. I'm Kareen Brianon, Doctor Graves' assistant."
+        },
+        {
+          "character": "TROI",
+          "line": "We're from a ship called the Enterprise. We monitored your distress call but then you never acknowledged our response."
+        },
+        {
+          "character": "KAREEN",
+          "line": "I'm sorry, I couldn't take the chance."
+        },
+        {
+          "character": "TROI",
+          "line": "Chance? What chance?"
+        },
+        {
+          "character": "GRAVES",
+          "line": "The chance that I might find out someone was coming. Kareen knew full well that I would not be pleased, to put it mildly."
+        },
+        {
+          "character": "KAREEN",
+          "line": "I had no choice. I refuse to stand by and watch you deteriorate."
+        },
+        {
+          "character": "SELAR",
+          "line": "What symptoms have you noticed?"
+        },
+        {
+          "character": "KAREEN",
+          "line": "He has pain, shortness of breath, irritability."
+        },
+        {
+          "character": "GRAVES",
+          "line": "Ridiculous! I'm as healthy as a Rigelian ox!"
+        },
+        {
+          "character": "KAREEN",
+          "line": "He's not himself, believe me. His temper is completely out of control."
+        },
+        {
+          "character": "GRAVES",
+          "line": "Nonsense!"
+        },
+        {
+          "character": "KAREEN",
+          "line": "Ira!"
+        },
+        {
+          "character": "SELAR",
+          "line": "I am a doctor. Lieutenant Selar."
+        },
+        {
+          "character": "GRAVES",
+          "line": "No offense, but I don't want you touching me in any way. It's no secret that I don't like people much, and I like doctors even less."
+        },
+        {
+          "character": "TROI",
+          "line": "That's funny, I thought most doctors were people."
+        },
+        {
+          "character": "GRAVES",
+          "line": "Then you're wrong. Ask any patient. Although I will admit, for a doctor you're not a bad looking woman. Well, well, well, what have we got here? Another lovely specimen of womanhood."
+        },
+        {
+          "character": "TROI",
+          "line": "I thought you didn't like people."
+        },
+        {
+          "character": "GRAVES",
+          "line": "Women aren't people. They're women."
+        },
+        {
+          "character": "TROI",
+          "line": "I'm Deanna Troi. It's an honor to meet you, Doctor Graves."
+        },
+        {
+          "character": "GRAVES",
+          "line": "Yes, of course it is. This is one of the truly great moments of your life."
+        },
+        {
+          "character": "KAREEN",
+          "line": "Excuse me, sir. Are you a Romulan?"
+        },
+        {
+          "character": "WORF",
+          "line": "Hardly."
+        },
+        {
+          "character": "GRAVES",
+          "line": "He's a Klingon, Kareen. Kareen has lived here since her father died when she was very young. Her only knowledge of unhuman races comes from me. Klingons and Romulans don't look much alike, Kareen, even though they act much alike."
+        },
+        {
+          "character": "WORF",
+          "line": "Must I stand here and be insulted?"
+        },
+        {
+          "character": "GRAVES",
+          "line": "No insult intended, Mister Klingon. You see, Doctor, there's nothing wrong with my hearing. My, my, my, my."
+        },
+        {
+          "character": "DATA",
+          "line": "Lieutenant Commander Data"
+        },
+        {
+          "character": "GRAVES",
+          "line": "Shhh! Absolutely no esthetic value whatsoever. Looks like Soong's work."
+        },
+        {
+          "character": "DATA",
+          "line": "Quite correct, sir! Did you know Doctor Soong?"
+        },
+        {
+          "character": "GRAVES",
+          "line": "Know him?! I taught him everything he knows. You could say that I was the father of his work. Which kind of makes me your grandfather, doesn't it sonny? Damn doctors! Always sneaking up on one. Attacking from the rear. Go on, gorgeous. Spit it out. Whatever the hell it is, I can take it."
+        },
+        {
+          "character": "SELAR",
+          "line": "I've checked twice to make certain. You have Darnay's disease. I'm sorry, Doctor Graves. It's in it's final stage."
+        },
+        {
+          "character": "KAREEN",
+          "line": "Can't you do something for him?"
+        },
+        {
+          "character": "SELAR",
+          "line": "In all cases, Darnay's is terminal."
+        },
+        {
+          "character": "PICARD",
+          "line": "Captain's log, Stardate 42437.7. We've successfully repaired the stricken liner, Constantinople. Forty six of her people suffered injuries, mostly minor. They have been treated and supplied with the proper medicines. Our task complete, we are heading back to Gravesworld with great dispatch.",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "Living room"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "DATA",
+          "line": "I have noticed, Doctor"
+        },
+        {
+          "character": "GRAVES",
+          "line": "Call me Grandpa. Seems more touching in my final hours."
+        },
+        {
+          "character": "DATA",
+          "line": "I have noticed, Grandpa, that you keep repeating the same notes of a musical phrase I am unfamiliar with."
+        },
+        {
+          "character": "GRAVES",
+          "line": "It's an ancient little tune called 'If I Only Had A Heart.' A plaintive lament sung by a mechanical man who longs to be human. It's his only wish."
+        },
+        {
+          "character": "DATA",
+          "line": "What happens to this man?"
+        },
+        {
+          "character": "GRAVES",
+          "line": "He finds out he's human after all. Always was. Just worried so much, he never realized it."
+        },
+        {
+          "character": "DATA",
+          "line": "A happy ending. The mechanical man gets his wish."
+        },
+        {
+          "character": "GRAVES",
+          "line": "Stories often have happy endings. It's life that throws you for a loop. It must be so hard for you, to be so close to being human and yet never really knowing what it's like to know pain."
+        },
+        {
+          "character": "DATA",
+          "line": "But pain is unpleasant, is it not?"
+        },
+        {
+          "character": "GRAVES",
+          "line": "Pain. Lust. Envy. Pleasure. Desire. Do you know what desire is, Data?"
+        },
+        {
+          "character": "DATA",
+          "line": "Desire? To long for, to crave, a wish, a request, a"
+        },
+        {
+          "character": "GRAVES",
+          "line": "Do you know what desire is?"
+        },
+        {
+          "character": "DATA",
+          "line": "No. I do not suppose I will ever really know."
+        },
+        {
+          "character": "GRAVES",
+          "line": "I feel pity for you. Your existence must be a kind of walking purgatory. Neither dead nor alive. Never really feeling anything. Just existing. Just existing. Listen to me. A dying man takes the time to mourn a man who will never know death. Funny, isn't it?"
+        },
+        {
+          "character": "DATA",
+          "line": "Funny. I have had great difficulty determining what funny is."
+        },
+        {
+          "character": "GRAVES",
+          "line": "I've had the same difficulty most of my life. We're much alike."
+        }
+      ],
+      "location": "Graves' laboratory"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "SELAR",
+          "line": "I'd say he has a week, but that's only an estimate. We do know that the disease attacks the brain and nervous system. We can expect more of the erratic behavior of the kind you've been noticing."
+        },
+        {
+          "character": "TROI",
+          "line": "His feelings towards you are very warm. He's attracted to you in many ways."
+        },
+        {
+          "character": "KAREEN",
+          "line": "Attracted? I know I've felt certain feelings from him. And for him. Had I been older, perhaps we could've been. That's not the way it worked out. And now it's like he's afraid to face me. The only one he talks to is your friend, Data."
+        }
+      ],
+      "location": "Living room"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "DATA",
+          "line": "You mentioned your impending death, Grandpa. May I say you face it with remarkable courage and stoicism."
+        },
+        {
+          "character": "GRAVES",
+          "line": "That is because I am an incredible man, possessing an iron will and nerves of steel. Two traits that helped me become the genius I am today as well as the lady killer I was in days gone by."
+        },
+        {
+          "character": "DATA",
+          "line": "You condone homicide, sir?"
+        },
+        {
+          "character": "GRAVES",
+          "line": "It's an expression, Data. It means I was once as beautiful as I am smart."
+        },
+        {
+          "character": "DATA",
+          "line": "Really, Grandpa?"
+        },
+        {
+          "character": "GRAVES",
+          "line": "No, not really. But what the hell. I'm dying. I can remember my life any way I want. And I'll let you into a little secret, Sonny. I don't really believe I will be dying."
+        },
+        {
+          "character": "DATA",
+          "line": "But the Doctor"
+        },
+        {
+          "character": "GRAVES",
+          "line": "Oh, I'll die, but I won't really be dead. You see, I believe I've learned to transfer the wealth of my knowledge into a computer. Before I die, I plan to transfer my great intelligence into this machine, thus cheating the Grim Reaper of his greatest prize. But what would you know of death? It is a subject forever alien to you."
+        },
+        {
+          "character": "DATA",
+          "line": "That is not necessarily true, Grandpa. I do have an off button, if you will. Its activation robs me of my consciousness, therefore rendering me dead for all intents and purposes. It is not something I enjoy contemplating."
+        },
+        {
+          "character": "GRAVES",
+          "line": "I can understand that. Just where would Soong position such a device? Don't tell me, let me guess."
+        }
+      ],
+      "location": "Graves' laboratory"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "PICARD",
+          "line": "Captain to away team. We're standing by.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "SELAR",
+          "line": "I do not wish to interrupt Data and the Doctor. They seem to have developed a genuine rapport. But the Enterprise has reached it's orbit and I'd like to transport Graves to the ship as soon as possible."
+        },
+        {
+          "character": "DATA",
+          "line": "That will not be necessary, Doctor. He is gone."
+        },
+        {
+          "character": "WORF",
+          "line": "Gone?"
+        },
+        {
+          "character": "DATA",
+          "line": "It happened just a few moments ago, in my arms. Ira Graves is dead."
+        },
+        {
+          "character": "PICARD",
+          "line": "Captain's log, supplemental. I leave Gravesworld with an empty feeling and the knowledge that our mission was unsuccessful. Whatever scientific secrets Ira Graves was about to unlock have been lost forever. Our immediate priority is to reach the nearest starbase so that Graves' assistant can get on with her life.",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "Living room"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "RIKER",
+          "line": "Why didn't you contact Doctor Selar when you saw that he was beginning to go?"
+        },
+        {
+          "character": "DATA",
+          "line": "To do so would have been pointless. All things must pass. May I go now, sir?"
+        },
+        {
+          "character": "PICARD",
+          "line": "Yes, of course."
+        },
+        {
+          "character": "DATA",
+          "line": "We will try to honor him in the manner in which he specified, will we not, sir?"
+        },
+        {
+          "character": "PICARD",
+          "line": "I said we would, Data."
+        },
+        {
+          "character": "DATA",
+          "line": "I am glad, sir. It was his dying wish."
+        }
+      ],
+      "location": "Ready room"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "KAREEN",
+          "line": "Hello Data. It's good to see you again. The stars are so beautiful from space. Yet they seem"
+        },
+        {
+          "character": "DATA",
+          "line": "You always did love the sky. A stargazer. That is what you are."
+        },
+        {
+          "character": "KAREEN",
+          "line": "Did Ira tell you that? I guess he's right. I used to spend hours just lying on a hill, looking up."
+        },
+        {
+          "character": "DATA",
+          "line": "Ira never told you how beautiful you were to him. He never told you that, did he? He could not tell you, do you understand?"
+        },
+        {
+          "character": "KAREEN",
+          "line": "Yes. I understand."
+        },
+        {
+          "character": "DATA",
+          "line": "He wanted to. Every waking moment. And he wanted you to know that. You were everything to him."
+        }
+      ],
+      "location": "Ten forward"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "PICARD",
+          "line": "He was a fine man. A man of rare gifts. and great accomplishments. He will be sorely missed. Does anyone else have anything to say?"
+        },
+        {
+          "character": "DATA",
+          "line": "I believe I have a few words to say, sir. Just look at that face. The face of a thinker. A warrior. A man for all seasons. Yes, Ira Graves was all that and more. But he was not perfect. Perhaps his greatest fault was that he was too selfless. He cared too much for his fellow man, with nary a thought for himself. A man of limitless accomplishments, and unbridled modesty. I can safely say that to know him was to love him. And to love him was to know him. Those who knew him, loved him, while those who did not know him, loved him from afar."
+        },
+        {
+          "character": "PICARD",
+          "line": "Data."
+        },
+        {
+          "character": "DATA",
+          "line": "I'm almost finished, sir."
+        },
+        {
+          "character": "PICARD",
+          "line": "You are finished, Data."
+        },
+        {
+          "character": "PICARD",
+          "line": "We now commit the body of Ira Graves to the timeless depths of space."
+        }
+      ],
+      "location": "Transporter room"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "DATA",
+          "line": "I am sorry, sir. Perhaps it was my admiration for Grandpa that got the best of me."
+        },
+        {
+          "character": "PICARD",
+          "line": "Grandpa?"
+        },
+        {
+          "character": "DATA",
+          "line": "That is the way I think of him, sir. My only living relative, no longer living."
+        },
+        {
+          "character": "PICARD",
+          "line": "Data."
+        },
+        {
+          "character": "DATA",
+          "line": "I was only trying to carry out his wishes. I just wanted to keep my promise to him."
+        },
+        {
+          "character": "PICARD",
+          "line": "I know that, Data. Look, I realize you've been studying the human equation with great alacrity, but perhaps you've been working at it too much. Don't try so hard to be human. Just be yourself. All right?"
+        },
+        {
+          "character": "DATA",
+          "line": "Yes, sir. I will work on staying within myself."
+        },
+        {
+          "character": "PICARD",
+          "line": "Grand. You're dismissed, Mister Data."
+        },
+        {
+          "character": "DATA",
+          "line": "Thank you, sir. Captain's personal log. Although Commander Data has assured me that his odd behavior will return to normal, I can't help thinking that something went wrong during his visit to Gravesworld."
+        }
+      ],
+      "location": "Ready room"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TROI",
+          "line": "I'm still concerned, Captain. I've never seen him act like this."
+        },
+        {
+          "character": "PICARD",
+          "line": "Could it be that grandfather analogy that Graves planted in his head?. Data is an orphan in a manner of speaking. Is it possible that the loss of Graves might have affected him? Touched him on some emotional level we didn't know he possessed?"
+        },
+        {
+          "character": "TROI",
+          "line": "I hope you're right. I hope that's all it is."
+        }
+      ],
+      "location": "Corridor"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "WESLEY",
+          "line": "That was a great speech, Data. To know know him is to love him is to know him."
+        },
+        {
+          "character": "DATA",
+          "line": "Verbal composition at it's most sophisticated level. Your child-like mind cannot appreciate the timeworn wisdom of my words."
+        },
+        {
+          "character": "WESLEY",
+          "line": "Child-like mind?"
+        },
+        {
+          "character": "DATA",
+          "line": "When you get to be my age, you will understand."
+        },
+        {
+          "character": "WESLEY",
+          "line": "Your age? Data, chronologically, you're not much older than I am."
+        },
+        {
+          "character": "DATA",
+          "line": "You are only as old as you feel. Try to remember that, boy."
+        },
+        {
+          "character": "RIKER",
+          "line": "You're not turning into a philosopher, are you, Mister Data?"
+        },
+        {
+          "character": "DATA",
+          "line": "I am many things. Scholar, Artist, philosopher, lover, genius."
+        },
+        {
+          "character": "WESLEY",
+          "line": "Data, what's wrong with you?"
+        },
+        {
+          "character": "KAREEN",
+          "line": "How beautiful."
+        },
+        {
+          "character": "PICARD",
+          "line": "I thought you might enjoy the Bridge, Miss Brianon. I'm aware of your interest in science. Perhaps you'd like to see the computer terminal"
+        },
+        {
+          "character": "DATA",
+          "line": "Yes, I'm aware of your interest in her."
+        },
+        {
+          "character": "PICARD",
+          "line": "What was that, Commander?"
+        },
+        {
+          "character": "DATA",
+          "line": "Nothing sir. Nothing at all."
+        },
+        {
+          "character": "PICARD",
+          "line": "These are the science stations. From the command center here, we have control of the science stations"
+        },
+        {
+          "character": "WESLEY",
+          "line": "Data, what are you doing?"
+        },
+        {
+          "character": "DATA",
+          "line": "I detest hypocrisy. I wish they would just come out and admit it!"
+        },
+        {
+          "character": "PICARD",
+          "line": "Admit what, Mister Data?"
+        },
+        {
+          "character": "DATA",
+          "line": "That your interest in Kareen is not purely professional. Try as you will, you cannot win her heart. She does not care for older men. Or men of limited intellect."
+        },
+        {
+          "character": "PICARD",
+          "line": "Mister Data, you will come with me right now. Do you understand me?"
+        },
+        {
+          "character": "DATA",
+          "line": "I understand. I understand all too well. Removing the competition will not help you, Picard."
+        },
+        {
+          "character": "PICARD",
+          "line": "Excuse me."
+        },
+        {
+          "character": "RIKER",
+          "line": "Do you know what that was all about?"
+        },
+        {
+          "character": "TROI",
+          "line": "Jealousy. Intense, burning jealousy. A human emotion, and it was coming from Data."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "DATA",
+          "line": "If you wish to apologize, I am prepared to listen."
+        },
+        {
+          "character": "PICARD",
+          "line": "You expect me to apologize to you?"
+        },
+        {
+          "character": "DATA",
+          "line": "You were a bit rude to me. Might make you feel better if you said you were sorry."
+        },
+        {
+          "character": "PICARD",
+          "line": "Data, something has obviously gone wrong with your circuitry."
+        },
+        {
+          "character": "DATA",
+          "line": "That is ridiculous. I am as healthy as a Rigelian ox."
+        },
+        {
+          "character": "PICARD",
+          "line": "I wish I could believe that. I would accompany you to to Sickbay, but I doubt if that would do us any good."
+        },
+        {
+          "character": "DATA",
+          "line": "Sickbay? Are you ill, Captain?"
+        },
+        {
+          "character": "PICARD",
+          "line": "I'm getting there. I'm going to have Engineering run a full physical on you."
+        },
+        {
+          "character": "DATA",
+          "line": "I am sure that will not be necessary, Captain. I am fully capable of running a circuit check on myself. It will immediately determine any abnormalities."
+        },
+        {
+          "character": "PICARD",
+          "line": "Do it. That's an order."
+        },
+        {
+          "character": "DATA",
+          "line": "Just as I expected. I am fine. Could not be better."
+        },
+        {
+          "character": "PICARD",
+          "line": "For the first time since I've known you, I don't believe you."
+        }
+      ],
+      "location": "Ready room"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "LAFORGE",
+          "line": "Try and hold still, will you, Data?"
+        },
+        {
+          "character": "PICARD",
+          "line": "Data, will you wait for me in the corridor."
+        },
+        {
+          "character": "DATA",
+          "line": "Why should I? This concerns me more than it does any of you."
+        },
+        {
+          "character": "PICARD",
+          "line": "You will wait for me in the corridor. His insubordination is growing by leaps and bounds. I could use diskipline, but I'd rather try and help him."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "I wish I knew what to suggest. I'm damned if I can find a thing wrong with him."
+        },
+        {
+          "character": "TROI",
+          "line": "Perhaps we're looking in the wrong place."
+        },
+        {
+          "character": "PICARD",
+          "line": "Meaning?"
+        },
+        {
+          "character": "TROI",
+          "line": "Well, if Data's physical health is unimpaired, perhaps his mental health needs to be addressed."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "What, are you saying that Data is losing his mind?"
+        },
+        {
+          "character": "TROI",
+          "line": "With your permission, Captain, there is one way to find out."
+        }
+      ],
+      "location": "Engineering"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TROI",
+          "line": "Now, Data, you remember the psychotronic stability examination. We all had to take it before graduating from the Academy."
+        },
+        {
+          "character": "DATA",
+          "line": "It was a waste of time then and it is a waste of time now."
+        },
+        {
+          "character": "TROI",
+          "line": "It will just gage your psychological reactions to the images it projects. Watch the screen and let your mind go blank. The device will do the rest."
+        }
+      ],
+      "location": "Data's quarters"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "PICARD",
+          "line": "It's safe to say that you're his best friend. Is it possible to speculate about what's happening to him?"
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Well, sir, it's just a guess, but, sometimes he wants to be human so badly he can taste it. I think he just tends to get confused when his human qualities surface."
+        },
+        {
+          "character": "PICARD",
+          "line": "Go on."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Witnessing Graves' death may have been some sort of catalyst for the way he"
+        },
+        {
+          "character": "TROI",
+          "line": "I have the results of the tests. I ran them several times to be sure."
+        },
+        {
+          "character": "PICARD",
+          "line": "To be sure of what?"
+        },
+        {
+          "character": "TROI",
+          "line": "There are two disparate personalities within Lieutenant Commander Data. Each distinctly different. A dominant and a recessive."
+        },
+        {
+          "character": "PICARD",
+          "line": "But he's an android. Is that possible!"
+        },
+        {
+          "character": "TROI",
+          "line": "It must be. The dominant personality is unstable. Brilliant but vain, sensitive yet paranoid. And I believe it is prone to irrationality."
+        },
+        {
+          "character": "PICARD",
+          "line": "Of course."
+        },
+        {
+          "character": "TROI",
+          "line": "Sir?"
+        },
+        {
+          "character": "PICARD",
+          "line": "Nothing. Go on."
+        },
+        {
+          "character": "TROI",
+          "line": "It seems to have an especially strong hatred of you, Captain, or to a lesser degree, any authority figure. And worst part is, it's growing."
+        },
+        {
+          "character": "PICARD",
+          "line": "How do you mean?"
+        },
+        {
+          "character": "TROI",
+          "line": "The alien persona is getting stronger and gobbling up what is left of the weaker ego, the Data we know. If something isn't done to stop it immediately, we will lose our Data forever. Captain's personal log. We have arrived at Starbase Six where Miss Brianon will await transport back to Earth. I am greatly troubled by the unusual behavior of Commander Data and fear that somehow it is directly related to the experiments of Ira Graves."
+        }
+      ],
+      "location": "Ready room"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "PICARD",
+          "line": "Where is Data now?"
+        },
+        {
+          "character": "TROI",
+          "line": "He should be in his quarters. You ordered him not to leave."
+        },
+        {
+          "character": "PICARD",
+          "line": "Tell me, where is Lieutenant Commander Data?"
+        },
+        {
+          "character": "COMPUTER",
+          "line": "Current location, Ten forward."
+        },
+        {
+          "character": "PICARD",
+          "line": "Lieutenant Worf, will you go to Ten forward and keep an eye on Data? Don't interfere with his actions unless you hear otherwise from me."
+        },
+        {
+          "character": "WORF",
+          "line": "Worf here, sir. Acknowledged.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "PICARD",
+          "line": "I want to know more about what happened down on Gravesworld. Lieutenant Selar, report to the Captain's ready room."
+        }
+      ],
+      "location": "Corridor"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "DATA",
+          "line": "Hello, Kareen. Don't you think it's time we stopped pretending? You know who I am."
+        },
+        {
+          "character": "KAREEN",
+          "line": "You're Data."
+        },
+        {
+          "character": "DATA",
+          "line": "You do know who I am."
+        },
+        {
+          "character": "KAREEN",
+          "line": "Ira?"
+        },
+        {
+          "character": "DATA",
+          "line": "It is me. I am here. I am alive."
+        },
+        {
+          "character": "KAREEN",
+          "line": "How?"
+        },
+        {
+          "character": "DATA",
+          "line": "I deactivated Data and transferred my mind into his frame. I never imagined how much of my self I would retain. My feelings, my dreams."
+        },
+        {
+          "character": "KAREEN",
+          "line": "They won't let you get away with it. They'll try to stop you."
+        },
+        {
+          "character": "DATA",
+          "line": "How can they? It is my body now. It is out of their hands."
+        }
+      ],
+      "location": "Ten forward"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "PICARD",
+          "line": "Doctor, tell me. How much time did Data and Graves spend together?"
+        },
+        {
+          "character": "SELAR",
+          "line": "They were together practically the entire time we were on the planet."
+        },
+        {
+          "character": "PICARD",
+          "line": "Always alone?"
+        },
+        {
+          "character": "TROI",
+          "line": "Yes. Always."
+        },
+        {
+          "character": "PICARD",
+          "line": "Doctor, what was your impression of Graves?"
+        },
+        {
+          "character": "SELAR",
+          "line": "He seemed brilliant, egocentric, arrogant, chauvinistic."
+        },
+        {
+          "character": "PICARD",
+          "line": "Sound familiar?"
+        }
+      ],
+      "location": "Ready room"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "DATA",
+          "line": "Something wonderful has happened. I can take a deep breath now without feeling stabbing pain. I will never have to face death again. Think of the things I will accomplish over the next thousand years! What? Oh, I know what you're thinking. There is no need to worry. I will create an android body for you, too. We can witness the end of time together. Why are you crying, Kareen? I can love you now. The way I always wanted to. It was not right before. I was too old for you, too weak. Now I can be everything you want me to be."
+        },
+        {
+          "character": "KAREEN",
+          "line": "I won't let you put me in a machine. I want to live my life. I won't let you take it away from me. Ira! Ira, you're hurting me!"
+        },
+        {
+          "character": "WORF",
+          "line": "Worf to Captain Picard."
+        }
+      ],
+      "location": "Ten forward"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "WORF",
+          "line": "Commander Data has left Ten forward. Should I follow?",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "PICARD",
+          "line": "Negative. I'll handle this myself. He was an expert in cybernetics?"
+        },
+        {
+          "character": "TROI",
+          "line": "Yes."
+        },
+        {
+          "character": "PICARD",
+          "line": "Our memorial service may have been premature. What an achievement. 'So long as men can breathe or eyes can see, so long lives this, and this gives life to thee.'"
+        },
+        {
+          "character": "TROI",
+          "line": "He was working on bridging the gap between man and machine."
+        },
+        {
+          "character": "PICARD",
+          "line": "It seems he built that bridge. I may be forced to tear it down."
+        }
+      ],
+      "location": "Ready room"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "DATA",
+          "line": "I can hear you coming, Captain. My ears are better than the average dog's, you know."
+        },
+        {
+          "character": "PICARD",
+          "line": "I know who you are and what you've done."
+        },
+        {
+          "character": "DATA",
+          "line": "Of course you do."
+        },
+        {
+          "character": "PICARD",
+          "line": "I came here to talk to Data."
+        },
+        {
+          "character": "DATA",
+          "line": "I cannot allow that."
+        },
+        {
+          "character": "PICARD",
+          "line": "I understand your desperation. The shock of learning you were dying. But you had no right to do what you have done."
+        },
+        {
+          "character": "DATA",
+          "line": "I had every right, Captain. I am man, he is machine. There is no question who must live and what must die."
+        },
+        {
+          "character": "PICARD",
+          "line": "What of Data?"
+        },
+        {
+          "character": "DATA",
+          "line": "Data? Before me, he was nothing. Just a walking tin can with circuits for intestines. Pathetic. Without heart, a man is meaningless. I would not come up here if I were you, Captain. I might not like it."
+        },
+        {
+          "character": "DATA",
+          "line": "You are most fortunate, my dear Captain, that I am not a violent man."
+        },
+        {
+          "character": "PICARD",
+          "line": "Not a violent man?"
+        },
+        {
+          "character": "DATA",
+          "line": "This is not my fault. They told me I was not supposed to be up here. They should not have done that."
+        },
+        {
+          "character": "PICARD",
+          "line": "Graves, listen to me. No one can deny the significance of your transformation. But I don't believe that this was part of your plan. Encountering Data was mere coincidence. One that offered you more than you could have dreamed. But something has gone wrong. Look here. Graves, this experiment must be terminated."
+        },
+        {
+          "character": "DATA",
+          "line": "This is idiotic."
+        },
+        {
+          "character": "PICARD",
+          "line": "Picard to Sickbay."
+        },
+        {
+          "character": "PULASKI",
+          "line": "Yes, Captain.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "PICARD",
+          "line": "How is Miss Brianon?"
+        },
+        {
+          "character": "PULASKI",
+          "line": "Her left hand is fractured in two places. We've just begun treatment.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "PICARD",
+          "line": "I'm afraid there are two more injuries in Engineering."
+        },
+        {
+          "character": "PULASKI",
+          "line": "I'm on my way.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "PICARD",
+          "line": "Who's next?"
+        },
+        {
+          "character": "DATA",
+          "line": "These were all accidents. I did not intend"
+        },
+        {
+          "character": "PICARD",
+          "line": "How many more accidents? You must leave this body."
+        },
+        {
+          "character": "DATA",
+          "line": "No, I live here now."
+        },
+        {
+          "character": "PICARD",
+          "line": "Graves, every man has his time. Every man, without exception. But you've cheated. You have extended your life at the expense of another. Graves, give Data back. Give him back."
+        },
+        {
+          "character": "DATA",
+          "line": "Data is dead."
+        },
+        {
+          "character": "PICARD",
+          "line": "No. He must not be lost. He's not simply an android. He's a life form, entirely unique."
+        },
+        {
+          "character": "DATA",
+          "line": "Data is not human! He is"
+        },
+        {
+          "character": "PICARD",
+          "line": "He is different, yes. But that does not make him expendable, or any less significant. No being is so important that he can usurp the rights of another. Now set him free!"
+        },
+        {
+          "character": "DATA",
+          "line": "No!"
+        },
+        {
+          "character": "DATA",
+          "line": "How many? How many more accidents?"
+        },
+        {
+          "character": "PICARD",
+          "line": "Data! Where is he?"
+        },
+        {
+          "character": "PULASKI",
+          "line": "Just take it easy."
+        },
+        {
+          "character": "PICARD",
+          "line": "I can't afford to take it easy, Doctor. Tell me, where is Lieutenant Commander Data?"
+        }
+      ],
+      "location": "Engineering"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "LAFORGE",
+          "line": "Data. Data, can you hear me?"
+        },
+        {
+          "character": "DATA",
+          "line": "Geordi."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Yeah."
+        },
+        {
+          "character": "DATA",
+          "line": "May I ask a question?"
+        },
+        {
+          "character": "LAFORGE",
+          "line": "I think you just did."
+        },
+        {
+          "character": "DATA",
+          "line": "Quite correct. Then may I ask another question after this one?"
+        },
+        {
+          "character": "LAFORGE",
+          "line": "You can ask me anything you want."
+        },
+        {
+          "character": "DATA",
+          "line": "Why am I lying on the floor in this undignified position with the four of you standing over me, displaying expressions of concern?"
+        },
+        {
+          "character": "PICARD",
+          "line": "I've heard more than enough. You're you again."
+        },
+        {
+          "character": "KAREEN",
+          "line": "Captain. Captain, look at this."
+        },
+        {
+          "character": "KAREEN",
+          "line": "He's in there. Ira put himself in the computer."
+        },
+        {
+          "character": "PICARD",
+          "line": "Captain's log, supplemental. We've said goodbye to Kareen Brianon, with the hopeful feeling that her future will be a bright one. The intellect of Ira Graves has been deposited into our computer. There is knowledge but no consciousness. The human equation has been lost.",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "Data's quarters"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "WESLEY",
+          "line": "And you don't remember anything?"
+        },
+        {
+          "character": "DATA",
+          "line": "Not a thing."
+        },
+        {
+          "character": "WESLEY",
+          "line": "To know him is to love him is to know him?"
+        },
+        {
+          "character": "DATA",
+          "line": "Perhaps it is best that I do not remember. I trust I did nothing unbecoming to a Starfleet officer?"
+        },
+        {
+          "character": "RIKER",
+          "line": "Does wrestling with a Klingon targ ring a bell?"
+        },
+        {
+          "character": "PICARD",
+          "line": "Mister Crusher, take us out of orbit."
+        },
+        {
+          "character": "WESLEY",
+          "line": "Aye, sir."
+        },
+        {
+          "character": "DATA",
+          "line": "Did I win?"
+        }
+      ],
+      "location": "Bridge"
+    }
+  ],
+  "schedule": {
+    "episode": 5,
+    "number": 31,
+    "season": 2
+  },
+  "stardate": "42437.5",
+  "title": "The Schizoid Man"
+}

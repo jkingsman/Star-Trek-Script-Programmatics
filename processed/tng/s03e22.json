@@ -1,0 +1,1388 @@
+{
+  "airdate": 642052800,
+  "scenes": [
+    {
+      "dialogue": [
+        {
+          "character": "PICARD",
+          "line": "Captain's log, Stardate 43872.2. In order to neutralize a sudden contamination of the water supply at the Federation colony on Beta Agni Two, we are procuring one hundred and eight kilos of hytritium from the Zibalian trader, Kivas Fajo. Because pure hytritium is too unstable for our transporters, Lieutenant Commander Data has been shuttling the material to the Enterprise.",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "unknown"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "DATA",
+          "line": "Data to Enterprise."
+        },
+        {
+          "character": "PICARD",
+          "line": "Go ahead, Mister Data.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "DATA",
+          "line": "This will be the last trip, sir."
+        }
+      ],
+      "location": "Jovis Cargo bay"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "DATA",
+          "line": "The remaining cases of hytritium are now being loaded.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "PICARD",
+          "line": "Acknowledged. Mister Worf, advise Beta Agni Two that our departure is imminent."
+        },
+        {
+          "character": "WORF",
+          "line": "Aye, Captain."
+        },
+        {
+          "character": "RIKER",
+          "line": "At warp six, we should be there in just over sixteen hours."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "DATA",
+          "line": "Loading is complete. I am proceeding with departure. Enterprise shuttlebay two, prepare for docking, level one precautions for incoming material remain in effect."
+        },
+        {
+          "character": "VARRIA",
+          "line": "If you'll just acknowledge this last load, Commander>"
+        },
+        {
+          "character": "VARRIA",
+          "line": "Twenty six point eight kilos of tripolymer composites. Eleven point eight kilos of molybdenum-cobalt alloy. One point three kilos Bioplast sheeting."
+        }
+      ],
+      "location": "Jovis Cargo bay"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "LAFORGE",
+          "line": "Shuttle twelve containment field reads nominal. Now leaving the Jovis."
+        },
+        {
+          "character": "PICARD",
+          "line": "On viewer."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Containment field stable. Gravitational fluctuations within acceptable parameters. Flight pattern"
+        },
+        {
+          "character": "WORF",
+          "line": "Data."
+        },
+        {
+          "character": "PICARD",
+          "line": "Captain's log, supplemental. As the result of a yet unexplained shuttle explosion, Lieutenant Commander Data has been lost.",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "RIKER",
+          "line": "Why didn't the containment field hold?"
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Unknown, Commander."
+        },
+        {
+          "character": "PICARD",
+          "line": "Hail the Jovis. I want to speak with Kivas Fajo."
+        },
+        {
+          "character": "WORF",
+          "line": "Sir, Mister Fajo is hailing us."
+        },
+        {
+          "character": "PICARD",
+          "line": "On viewer."
+        },
+        {
+          "character": "FAJO",
+          "line": "Captain Picard, what happened?",
+          "modifier": "screen"
+        },
+        {
+          "character": "PICARD",
+          "line": "It's unclear. We're running a full analysis."
+        },
+        {
+          "character": "FAJO",
+          "line": "We detected no malfunctions before the explosion. Everything seemed to be running as smoothly as the other flights. Were you able to save the pilot?",
+          "modifier": "screen"
+        },
+        {
+          "character": "PICARD",
+          "line": "No."
+        },
+        {
+          "character": "FAJO",
+          "line": "I'm sorry.",
+          "modifier": "screen"
+        },
+        {
+          "character": "PICARD",
+          "line": "Mister Fajo, I would like to analyze your sensor readings of the explosion."
+        },
+        {
+          "character": "FAJO",
+          "line": "Compared to the Enterprise's, our sensors are rather primitive. I doubt they contain any information that your sensors overlooked.",
+          "modifier": "screen"
+        },
+        {
+          "character": "PICARD",
+          "line": "Perhaps, but I don't want to leave any avenue unexplored."
+        },
+        {
+          "character": "FAJO",
+          "line": "I understand. We'll transmit the information.",
+          "modifier": "screen"
+        },
+        {
+          "character": "WORF",
+          "line": "Link established. Receiving."
+        },
+        {
+          "character": "FAJO",
+          "line": "Can we be of any further assistance?",
+          "modifier": "screen"
+        },
+        {
+          "character": "PICARD",
+          "line": "How much hytritium did we manage to bring on board?"
+        },
+        {
+          "character": "RIKER",
+          "line": "Eighty one kilos."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "That will barely allow us to complete our mission, Captain, but it leaves us no margin for error."
+        },
+        {
+          "character": "PICARD",
+          "line": "Mister Fajo, I realize we have acquired your complete supply of hytritium. Do you know where we could obtain some more?"
+        },
+        {
+          "character": "FAJO",
+          "line": "That may be difficult. The only source I know is in the Sigma Erani system.",
+          "modifier": "screen"
+        },
+        {
+          "character": "RIKER",
+          "line": "Three weeks away, sir."
+        },
+        {
+          "character": "FAJO",
+          "line": "And I can't guarantee they'll have any. For obvious reasons, no one wants to keep it around. In fact, even I may stop selling it. It's just too dangerous.",
+          "modifier": "screen"
+        },
+        {
+          "character": "RIKER",
+          "line": "I guess we're fortunate you had any at all, sir."
+        },
+        {
+          "character": "WORF",
+          "line": "Captain, transfer of information complete."
+        },
+        {
+          "character": "PICARD",
+          "line": "Mister Fajo, thank you for your help."
+        },
+        {
+          "character": "PICARD",
+          "line": "Mister Crusher, set a course for the Beta Agni Two system, warp six."
+        },
+        {
+          "character": "WESLEY",
+          "line": "Aye, sir."
+        },
+        {
+          "character": "RIKER",
+          "line": "The Grissom is near the Sigma Erani system. I'll alert them to stand by in case we need more hytritium."
+        },
+        {
+          "character": "PICARD",
+          "line": "Thank you, Number One."
+        },
+        {
+          "character": "WESLEY",
+          "line": "Course laid in, sir."
+        },
+        {
+          "character": "PICARD",
+          "line": "Engage."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "DATA",
+          "line": "What am I doing here?"
+        },
+        {
+          "character": "FAJO",
+          "line": "Wondrous. The detail. The balance. Was I not right, Varria? What a remarkable piece of work."
+        },
+        {
+          "character": "DATA",
+          "line": "Why have I been brought here?"
+        },
+        {
+          "character": "FAJO",
+          "line": "The voice simulation. it's perfection. The inflections, the timing."
+        },
+        {
+          "character": "FAJO",
+          "line": "It took great effort. Effort. to bring you here. I was sure he'd be worth it. I was right."
+        },
+        {
+          "character": "DATA",
+          "line": "I've been delivered here against my wishes. I would like to know the reason."
+        },
+        {
+          "character": "FAJO",
+          "line": "Certainly. You have been brought here for my enjoyment and my appreciation."
+        },
+        {
+          "character": "DATA",
+          "line": "Am I to infer that you intend to keep me captive?"
+        },
+        {
+          "character": "FAJO",
+          "line": "Captive? Captive? That's such an inappropriate description. My dear android. May I call you Data?"
+        },
+        {
+          "character": "DATA",
+          "line": "It is my name."
+        },
+        {
+          "character": "FAJO",
+          "line": "Data. You will be catered to, fawned over, cared for as you never have been before. Your every wish will be fulfillled"
+        },
+        {
+          "character": "DATA",
+          "line": "I wish to leave."
+        },
+        {
+          "character": "FAJO",
+          "line": "Almost every wish."
+        },
+        {
+          "character": "DATA",
+          "line": "This is unacceptable, sir. I have no desire to remain here and even if I did, my Starfleet duties would not allow it."
+        },
+        {
+          "character": "FAJO",
+          "line": "It's so single minded, isn't it?"
+        },
+        {
+          "character": "VARRIA",
+          "line": "Very persistent."
+        },
+        {
+          "character": "FAJO",
+          "line": "But it's very polite, which is a very nice touch. I decline to allow you to go."
+        },
+        {
+          "character": "DATA",
+          "line": "Then I am forced to attempt escape."
+        },
+        {
+          "character": "FAJO",
+          "line": "Ten androids just like you might be able to force that thing open. But then again, there aren't any more just like you, are there? It's keyed to galvanic skin responses and DNA patterns. Sorry."
+        },
+        {
+          "character": "DATA",
+          "line": "Then you will have to open it for me."
+        },
+        {
+          "character": "FAJO",
+          "line": "Oh. Really, I wouldn't do that again if I were you. This is a proximity-actuated field. It impedes positron flow. It's very bad for the brainpaths in the long term."
+        },
+        {
+          "character": "DATA",
+          "line": "I fail to understand the value you place on my presence."
+        },
+        {
+          "character": "FAJO",
+          "line": "Well, just look around the room. There are items her gathered from half the galaxy. Right here. This is the very first Basotile ever created. Sorry. It's very, very ancient. Hundreds of years old. It's priceless."
+        },
+        {
+          "character": "FAJO",
+          "line": "Come. This vase is made by Mark, the late Mark Off-Zel from Sirrie Four. Dali. This is the only known Roger Maris trading card from Earth circa 1962. The smell? Bubblegum. I've preserved the scent. What? A Lapling."
+        },
+        {
+          "character": "DATA",
+          "line": "I thought they were extinct."
+        },
+        {
+          "character": "FAJO",
+          "line": "Extinct? Good. That is what is generally believed. She is the last surviving member of her species. They're very defenseless creatures, really. Everything that you see in the room here, everything. One of its kind. Unique. All original. Just as you are. There. That is your place of honor. Sit, sit. Sit! You think perhaps it might be uncomfortable? But then again, you don't give a thought to comfort, do you. When Palor Toff learns of that, he'll swallow his tongue with envy. I can't wait to see his face. You are the crown jewel of my collection. You're a treasure beyond comparison."
+        },
+        {
+          "character": "VARRIA",
+          "line": "Yes, go ahead."
+        },
+        {
+          "character": "FAJO",
+          "line": "I think you should be flattered."
+        },
+        {
+          "character": "DATA",
+          "line": "I am not, sir. Most intelligent lifeforms find involuntary confinement offensive and inequitable. Moreover, you have violated Federation law"
+        },
+        {
+          "character": "FAJO",
+          "line": "I know, I know. What I've done is evil, selfish, immoral, unprincipled, illegal. Well, I've learned to live with it."
+        },
+        {
+          "character": "VARRIA",
+          "line": "The Andorians wish to make a bid on the shipment of Tellurian spices you offered."
+        },
+        {
+          "character": "FAJO",
+          "line": "They've had four days to decide! Why do they have to decide right! Sorry."
+        },
+        {
+          "character": "DATA",
+          "line": "I must emphasize, Mister Fajo, that I consider this captivity a hostile act on your part."
+        },
+        {
+          "character": "FAJO",
+          "line": "You'll get used to it."
+        }
+      ],
+      "location": "Fajo's den"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "WESLEY",
+          "line": "I can't believe he's gone."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "I always thought he'd outlive us, by centuries."
+        },
+        {
+          "character": "WESLEY",
+          "line": "He'd been working on this for months. He never felt it was quite finished."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "You know what a critic Data was, especially about his own work."
+        },
+        {
+          "character": "WESLEY",
+          "line": "That was a gift from the Captain."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "And he should have it back."
+        },
+        {
+          "character": "WESLEY",
+          "line": "Those should go to Commander Riker."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Data always fell for Riker's bluffs."
+        },
+        {
+          "character": "WESLEY",
+          "line": "These are some of Starfleet's highest honors."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Not bad for a walking pile of circuitry and memory cells."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "You know, I keep going over and over the accident in my mind, trying to figure out what went wrong. I can see Data in the shuttle, almost like I'm sitting there next to him going through the departure sequence. What the hell happened? Why didn't I see it coming? What am I missing?"
+        }
+      ],
+      "location": "Data's quarters"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "VARRIA",
+          "line": "Kivas wishes you to wear this set of clothes, and to sit in your chair."
+        },
+        {
+          "character": "DATA",
+          "line": "I have no reason to accede to Mister Fajo's wishes."
+        },
+        {
+          "character": "VARRIA",
+          "line": "He will give you reasons if you force him to."
+        },
+        {
+          "character": "DATA",
+          "line": "Mister Fajo is deluding himself if he believes he can keep me here. The Enterprise is certain to find me."
+        },
+        {
+          "character": "VARRIA",
+          "line": "They're not even looking for you. They think you're destroyed. Your shuttle blew up. A hytritium explosion."
+        },
+        {
+          "character": "DATA",
+          "line": "They will scan the debris and diskover I was not aboard."
+        },
+        {
+          "character": "VARRIA",
+          "line": "They'll find exactly what they thought they'd find. Traces of your component elements. We put them aboard the shuttle in just the right proportions."
+        },
+        {
+          "character": "DATA",
+          "line": "Clearly, Mister Fajo has no moral difficulty with my imprisonment here."
+        },
+        {
+          "character": "VARRIA",
+          "line": "Mister Fajo has no moral difficulties at all."
+        },
+        {
+          "character": "DATA",
+          "line": "Do you?"
+        },
+        {
+          "character": "VARRIA",
+          "line": "Clever, android. Is it part of your program to seek out vulnerabilities in your enemies?"
+        },
+        {
+          "character": "DATA",
+          "line": "Yes. Are you my enemy?"
+        },
+        {
+          "character": "VARRIA",
+          "line": "I obey Fajo. And so does everyone on this ship."
+        },
+        {
+          "character": "DATA",
+          "line": "Why?"
+        },
+        {
+          "character": "VARRIA",
+          "line": "You are a curious thing, aren't you?"
+        },
+        {
+          "character": "DATA",
+          "line": "Do you object to the question?"
+        },
+        {
+          "character": "VARRIA",
+          "line": "Kivas finds a way to get what he wants from his people. His rewards for loyalty are lavish. His punishments for disloyalty are equally lavish. You won't find anyone here on this ship to help you escape. Face it, android. He has you."
+        },
+        {
+          "character": "DATA",
+          "line": "It appears he has us both."
+        }
+      ],
+      "location": "Fajo's den"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "LAFORGE",
+          "line": "The reason I can't find anything is that there's nothing there to find. I've run this analysis dozens of times over and there's just no indication of any malfunction."
+        },
+        {
+          "character": "RIKER",
+          "line": "No possible explanation at all?"
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Yeah, there's one, but I don't believe it. Pilot error."
+        },
+        {
+          "character": "PICARD",
+          "line": "I know it's hard to accept, but even the best"
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Captain, it's not only hard to accept, with Data it's impossible. I mean, I can't even begin to calculate the odds. If Data were here, we could ask him."
+        },
+        {
+          "character": "PICARD",
+          "line": "What are you suggesting, Lieutenant?"
+        },
+        {
+          "character": "LAFORGE",
+          "line": "I don't know, sir. It just doesn't make sense, and I like things to make sense, that's all."
+        },
+        {
+          "character": "RIKER",
+          "line": "Geordi, maybe if you get a little rest and came at this thing fresh."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "A little rest isn't going to change the computer analysis, Commander."
+        },
+        {
+          "character": "PICARD",
+          "line": "I'm sure you have done a complete investigation, and if you wish to continue it, of course you have my support. But we shall be reaching the Beta Agni system shortly, and I expect you to be rested."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "I understand, sir."
+        },
+        {
+          "character": "PICARD",
+          "line": "Dismissed. Geordi, I understand how much we want, even need, to explain an accident like this. Sometimes there just aren't any explanations."
+        },
+        {
+          "character": "RIKER",
+          "line": "For an android with no feelings, he sure managed to evoke them in others."
+        },
+        {
+          "character": "PICARD",
+          "line": "We must select an officer to replace Data at Ops. Recommendations?"
+        },
+        {
+          "character": "RIKER",
+          "line": "Worf would be my first choice, sir."
+        },
+        {
+          "character": "PICARD",
+          "line": "Mine as well. Make it so."
+        },
+        {
+          "character": "PICARD",
+          "line": "He was a man, taken for all in all. I shall not look upon his like again."
+        }
+      ],
+      "location": "Ready room"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "FAJO",
+          "line": "You are still wearing that uniform. Why?"
+        },
+        {
+          "character": "DATA",
+          "line": "I am a Starfleet officer."
+        },
+        {
+          "character": "FAJO",
+          "line": "You are not in Starfleet any longer. It's time you adjusted your program to accept reality."
+        },
+        {
+          "character": "DATA",
+          "line": "Even if I chose to do so, it is doubtful that my programming could be sufficiently altered to accede to your wishes."
+        },
+        {
+          "character": "FAJO",
+          "line": "Oh?"
+        },
+        {
+          "character": "DATA",
+          "line": "I have been designed with a fundamental respect for life in all its forms and a strong inhibition against causing harm to living beings."
+        },
+        {
+          "character": "FAJO",
+          "line": "What a marvelous contradiction. A military pacifist. Tell me, whose dreadful decision was it to enlist you in Starfleet to begin with?"
+        },
+        {
+          "character": "DATA",
+          "line": "My skills seemed appropriate"
+        },
+        {
+          "character": "FAJO",
+          "line": "Data, Data, Data. Big mistake. A grievous error. You belong in Starfleet about as much as I belong in a verbal contract. Tell me, have you killed yet?"
+        },
+        {
+          "character": "DATA",
+          "line": "No, but I am programd with the ability to use deadly force in the cause of defense."
+        },
+        {
+          "character": "FAJO",
+          "line": "Shame on you. Shame on you. How neatly you rationalize your capabilities. How can you just casually accept your role in murder?"
+        },
+        {
+          "character": "DATA",
+          "line": "I would not participate in murder. Perhaps you misunderstand."
+        },
+        {
+          "character": "FAJO",
+          "line": "Can't you see how much better it will be for you right here? The intellectual rewards alone. Our personal exploration of the galaxy. I am at war with no one. I am your liberator."
+        },
+        {
+          "character": "DATA",
+          "line": "You are a fine debater, sir. It is a pity you have used your verbal gifts for mere hucksterism and the advancement of your own greed."
+        },
+        {
+          "character": "FAJO",
+          "line": "Perhaps. Perhaps you would not judge me so harshly if you knew of my desperate youth, wasted, wasted on the streets of Zimballia."
+        },
+        {
+          "character": "DATA",
+          "line": "Your past does not excuse unethical or immoral behavior, sir."
+        },
+        {
+          "character": "FAJO",
+          "line": "Well, it doesn't matter. It isn't true anyway. My father was quite wealthy, actually. He was a thief. Data, why don't you put on these lovely new clothes and sit on the chair."
+        },
+        {
+          "character": "DATA",
+          "line": "I must decline."
+        },
+        {
+          "character": "FAJO",
+          "line": "You are going to be much more of a challenge than I had first thought. Finoplak, one hundred denkirs. Now, Data, in the meantime, here is something for your logic circuits to analyze."
+        },
+        {
+          "character": "FAJO",
+          "line": "Oh, don't worry. The solvent won't harm your, your skin. But in seconds it will completely dissolve that uniform. Personally, I'd be delighted to see you go around naked. I assume you have no modesty. But, then, I guess that decency is the rule of your Starfleet training. In any case, Data, why don't you make a decision about which alternative you dislike the least. Make a decision by dinnertime tonight. I have invited a guest to meet you, and I expect you to be as entertaining with him as you have been with me."
+        }
+      ],
+      "location": "Fajo's den"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "DATA",
+          "line": "Proceeding with departure. Enterprise shuttlebay two, prepare for docking. Level one precautions remain in effect.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "LAFORGE",
+          "line": "I did miss something."
+        }
+      ],
+      "location": "Geordi's quarters"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TROI",
+          "line": "See you later. Your first watch at Ops?"
+        },
+        {
+          "character": "WORF",
+          "line": "I have served at the position before."
+        },
+        {
+          "character": "TROI",
+          "line": "I've been concerned about you."
+        },
+        {
+          "character": "WORF",
+          "line": "About me? Why?"
+        },
+        {
+          "character": "TROI",
+          "line": "Because I know how I'd feel if I was asked to replace Data at his station."
+        }
+      ],
+      "location": "Corridor"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "WORF",
+          "line": "Bridge. Promotion due to the death of a crewmate is commonplace on Klingon ships."
+        },
+        {
+          "character": "TROI",
+          "line": "I know, but this isn't a Klingon ship and Data was your friend. And it's the second time you've replaced a crewmate who's died."
+        },
+        {
+          "character": "WORF",
+          "line": "I honor Data's memory, as I did Lieutenant Yar's, by attempting to perform their duties as well as they did."
+        },
+        {
+          "character": "TROI",
+          "line": "In true Klingon fashion."
+        },
+        {
+          "character": "WORF",
+          "line": "I appreciate your concern."
+        }
+      ],
+      "location": "Turbolift"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "LAFORGE",
+          "line": "Computer, now replay shuttle audio transmission time index zero four two three. This is Data's second trip."
+        },
+        {
+          "character": "DATA",
+          "line": "Proceeding with departure. Enterprise shuttlebay two, prepare for docking. Level one precautions remain in effect. Shuttle has cleared the Jovis cargo bay.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "WESLEY",
+          "line": "Sounds just like the first trip."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Exactly the same. That's protocol. And that's Data. Following protocol to the letter. Okay, computer, now replay shuttle audio transmission, time index zero four three nine. Third and final trip."
+        },
+        {
+          "character": "DATA",
+          "line": "Loading is complete. I am proceeding with departure. Enterprise shuttlebay two, prepare for docking. Level one precautions remain in effect.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "LAFORGE",
+          "line": "That's it. That's the last communication."
+        },
+        {
+          "character": "WESLEY",
+          "line": "He didn't report the shuttle clearing the cargo bay of the Jovis."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Of course, there really wasn't any reason for him to make voice contact. He knew we'd be monitoring his position. Any other pilot might not bother, but Data? not following standard procedures?"
+        },
+        {
+          "character": "WESLEY",
+          "line": "What do you think it means?"
+        },
+        {
+          "character": "LAFORGE",
+          "line": "I'm not sure, Wes. I suppose he could've been too busy. Maybe he saw something was wrong."
+        },
+        {
+          "character": "WESLEY",
+          "line": "Without communicating it? That doesn't sound like Data either."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Which means maybe something was wrong with him. But there's no other indication of that. Nothing he said or did during the entire mission. None. I sure wish I could talk to the last people who saw him alive."
+        }
+      ],
+      "location": "La Forge's office"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TOFF",
+          "line": "I've added a Veltan sex idol to my collection."
+        },
+        {
+          "character": "FAJO",
+          "line": "I've got four of them."
+        },
+        {
+          "character": "TOFF",
+          "line": "What? With the pearls intact?"
+        },
+        {
+          "character": "FAJO",
+          "line": "Please. Pearls were added by the Ferengi agents to increase the value."
+        },
+        {
+          "character": "TOFF",
+          "line": "What is that? Something new? And you didn't tell me."
+        },
+        {
+          "character": "FAJO",
+          "line": "Mister Data, I'm delighted to see that you dressed for the occasion. Say hello to my very good friend, Palor Toff."
+        },
+        {
+          "character": "FAJO",
+          "line": "Data, say hello. No need to be shy."
+        },
+        {
+          "character": "TOFF",
+          "line": "It's a mannequin of some sort."
+        },
+        {
+          "character": "FAJO",
+          "line": "This is not a mannequin. This is Data. This is formerly Lieutenant Commander Data of the Federation Starfleet. The only sentient android in existence."
+        },
+        {
+          "character": "TOFF",
+          "line": "It doesn't seem particularly sentient right now."
+        },
+        {
+          "character": "FAJO",
+          "line": "That's because it's playing a stupid little game with us."
+        },
+        {
+          "character": "TOFF",
+          "line": "Well, someone has certainly played a game on you, Fajo."
+        },
+        {
+          "character": "FAJO",
+          "line": "I don't find this amusing. I demand that you behave normally. Behave normally! I know you can hear me!"
+        },
+        {
+          "character": "TOFF",
+          "line": "He falls well."
+        },
+        {
+          "character": "FAJO",
+          "line": "I apologize for this."
+        },
+        {
+          "character": "TOFF",
+          "line": "Do not be upset, my friend. I'm having a delightful visit. Come along, Varria. You're much more fun to play with than Fajo's new toy."
+        },
+        {
+          "character": "FAJO",
+          "line": "You'll regret this."
+        }
+      ],
+      "location": "Fajo's den"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "WESLEY",
+          "line": "Now entering the Beta Agni system, sir."
+        },
+        {
+          "character": "RIKER",
+          "line": "Take us to half impulse, Mister Crusher."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "La Forge to bridge.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "PICARD",
+          "line": "Go ahead, Commander."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Captain.",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "LAFORGE",
+          "line": "A class two probe has been loaded with the hytritium compound and is ready to launch."
+        }
+      ],
+      "location": "Engineering"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "WESLEY",
+          "line": "Now approaching Beta Agni Two, sir."
+        },
+        {
+          "character": "PICARD",
+          "line": "Mister Crusher, put us into close orbit. Mister Data, scan. My apologies, Mister Worf. Scan the colony's subsurface water."
+        },
+        {
+          "character": "WORF",
+          "line": "Scanning. Tricyanate contamination confirmed. Levels approaching forty two parts per million."
+        },
+        {
+          "character": "RIKER",
+          "line": "Area affected?"
+        },
+        {
+          "character": "WORF",
+          "line": "Thirty square kilometers."
+        },
+        {
+          "character": "PICARD",
+          "line": "Any indication of the source?"
+        },
+        {
+          "character": "WORF",
+          "line": "Highest concentration eight kilometers west of the colony."
+        },
+        {
+          "character": "RIKER",
+          "line": "Adjust target coordinates."
+        },
+        {
+          "character": "WESLEY",
+          "line": "Aye, sir."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "La Forge to bridge.",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "LAFORGE",
+          "line": "According to these figures, the eighty one kilos"
+        }
+      ],
+      "location": "Engineering"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "LAFORGE",
+          "line": "Of hytritium should be enough to neutralize the contamination.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "WESLEY",
+          "line": "Now approaching target coordinates."
+        },
+        {
+          "character": "PICARD",
+          "line": "Launch probe."
+        },
+        {
+          "character": "WORF",
+          "line": "Probe on target. Hytritium entering water table. Disbursement slightly faster than expected. Sir, something unusual."
+        },
+        {
+          "character": "PICARD",
+          "line": "Specify."
+        },
+        {
+          "character": "WORF",
+          "line": "I'm getting concentrated tricyanate readings of seventy grams per cubic centimeter at the source coordinates. Much higher than would normally occur."
+        },
+        {
+          "character": "PICARD",
+          "line": "Computer, report on geologic instability on Beta Agni Two."
+        },
+        {
+          "character": "COMPUTER",
+          "line": "No significant geological activity has been recorded on Beta Agni Two since the settlement of the Federation colony."
+        },
+        {
+          "character": "PICARD",
+          "line": "Number One, perhaps you'd better take an away team down and have a closer look."
+        },
+        {
+          "character": "RIKER",
+          "line": "Yes, sir. Doctor Crusher, join me in Transporter room three."
+        },
+        {
+          "character": "CRUSHER",
+          "line": "On my way.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "RIKER",
+          "line": "Mister Worf?"
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "FAJO",
+          "line": "I would very much like our relationship to change."
+        },
+        {
+          "character": "DATA",
+          "line": "You may expect me to use every means at my disposal to resist your wishes."
+        },
+        {
+          "character": "FAJO",
+          "line": "Why can't you just comply? Why do you argue all the time? Couldn't you just go sit on the chair? Come on. Go on, sit on the chair."
+        },
+        {
+          "character": "DATA",
+          "line": "I do not intend to sit in the chair."
+        },
+        {
+          "character": "FAJO",
+          "line": "You will. You may believe it right now, but you will."
+        },
+        {
+          "character": "FAJO",
+          "line": "Have you ever seen one of these, Data?"
+        },
+        {
+          "character": "DATA",
+          "line": "It is a disruptor."
+        },
+        {
+          "character": "FAJO",
+          "line": "Well, no. It's a prototype for a Varon-T disruptor."
+        },
+        {
+          "character": "DATA",
+          "line": "The Varon-T disruptor is banned in the Federation."
+        },
+        {
+          "character": "FAJO",
+          "line": "Oh, yes. They only manufactured five of them. I own four. I sleep with one under my pillow at night, and I sleep very well knowing it's there too. Do you know why?"
+        },
+        {
+          "character": "DATA",
+          "line": "It is a most lethal weapon."
+        },
+        {
+          "character": "FAJO",
+          "line": "It's not just lethal. It's vicious. It tears a body apart, inside out, and very slowly too by your phaser standards. It's tortuous. A very, very painful death. I've always wanted to try this."
+        },
+        {
+          "character": "DATA",
+          "line": "It is doubtful you will destroy me since you assign so much value to possessing me."
+        },
+        {
+          "character": "FAJO",
+          "line": "That goes without saying. Please come in."
+        },
+        {
+          "character": "FAJO",
+          "line": "Varria, how long have we been together, my dear?"
+        },
+        {
+          "character": "VARRIA",
+          "line": "Fourteen years."
+        },
+        {
+          "character": "FAJO",
+          "line": "Fourteen wonderful years they were too. She was barely an adult when I found her. She was idealistic, naive, full of dreams. And I made those dreams come true, too, didn't I? I'm going to miss you."
+        },
+        {
+          "character": "DATA",
+          "line": "Fajo."
+        }
+      ],
+      "location": "Fajo's den"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "CRUSHER",
+          "line": "The contamination's been neutralized. The water's clean."
+        },
+        {
+          "character": "WORF",
+          "line": "Curious. The process of neutralization should have taken several hours. Naturally occurring tricyanate does not respond this quickly."
+        },
+        {
+          "character": "RIKER",
+          "line": "Are you saying it's not naturally occurring?"
+        },
+        {
+          "character": "WORF",
+          "line": "There are no natural trace elements present in these tricyanate crystals."
+        },
+        {
+          "character": "RIKER",
+          "line": "If it's artificial, then we're talking about sabotage."
+        },
+        {
+          "character": "CRUSHER",
+          "line": "With tricyanate? That's hard to believe. It's slow to assimilate, difficult to replicate, and hard to transport. There are a lot easier ways to poison a water supply. More effective ways too."
+        },
+        {
+          "character": "RIKER",
+          "line": "Can you think of any reason a saboteur would choose tricyanate?"
+        },
+        {
+          "character": "CRUSHER",
+          "line": "It might pass for a natural disaster. And since there's only one way to treat it, with hytritium, maybe somebody figured we couldn't locate it. It is hard to find."
+        },
+        {
+          "character": "RIKER",
+          "line": "Then it really was lucky, wasn't it, that we were able to find hytritium when we did. And just enough hytritium for this crisis?"
+        }
+      ],
+      "location": "Beta Agni Two"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "RIKER",
+          "line": "Fajo was in the right place at the right time just when we needed him most."
+        },
+        {
+          "character": "PICARD",
+          "line": "You're suggesting he created the problem just to solve it?"
+        },
+        {
+          "character": "RIKER",
+          "line": "Possibly."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "What, to make a profit from his sale of hytritium?"
+        },
+        {
+          "character": "CRUSHER",
+          "line": "It doesn't add up. The cost of producing tricyanate is very expensive. He wouldn't make a profit on it. Quite the contrary."
+        },
+        {
+          "character": "WORF",
+          "line": "Then, why would he do it?"
+        },
+        {
+          "character": "RIKER",
+          "line": "What could he want?"
+        },
+        {
+          "character": "PICARD",
+          "line": "Computer, biographical file on trader Kivas Fajo."
+        },
+        {
+          "character": "COMPUTER",
+          "line": "Accessing file Kivas Fajo. A Zibalian trader of the Stacius trade guild, educated on Iraaten Five. A noted collector of rare and valuable objects including the Rejac Crystal, the Starry Night by Van Gogh, the Lawmim Galactopedia, the Moliam Andi tapestries"
+        },
+        {
+          "character": "PICARD",
+          "line": "Computer, that is sufficient."
+        },
+        {
+          "character": "RIKER",
+          "line": "A rare and valuable object?"
+        },
+        {
+          "character": "LAFORGE",
+          "line": "What if Data wasn't on that shuttle?"
+        },
+        {
+          "character": "PICARD",
+          "line": "Mister Crusher."
+        },
+        {
+          "character": "WESLEY",
+          "line": "Aye, sir.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "PICARD",
+          "line": "Set course for the site of the shuttlepod explosion. Warp eight."
+        },
+        {
+          "character": "WESLEY",
+          "line": "Aye, sir.",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "Observation lounge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "WESLEY",
+          "line": "The Jovis has a maximum speed of warp three. He's had twenty three hours so we can define a perimeter of point one oh two light years as his possible distance."
+        },
+        {
+          "character": "RIKER",
+          "line": "Fajo doesn't know that we're onto him, so he probably isn't taxing his engines at top speed."
+        },
+        {
+          "character": "WESLEY",
+          "line": "He could have made it to the Nel Bato system, or maybe even the Giles Belt."
+        },
+        {
+          "character": "PICARD",
+          "line": "He's a trader. He doesn't attract customers by being hard to find."
+        },
+        {
+          "character": "RIKER",
+          "line": "We could put out a coded level two query to all Federation outposts within the perimeter."
+        },
+        {
+          "character": "PICARD",
+          "line": "Make it so."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "VARRIA",
+          "line": "If I help you escape, will you take me with you? He's sleeping, and there isn't much time."
+        },
+        {
+          "character": "DATA",
+          "line": "The consequences if we are caught"
+        },
+        {
+          "character": "VARRIA",
+          "line": "I know the consequences. Fourteen years. You learn a few things. There's an escape pod in the aft cargo bay."
+        }
+      ],
+      "location": "Fajo's den"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "WORF",
+          "line": "Captain, affirmative response from station Lya Four."
+        },
+        {
+          "character": "RIKER",
+          "line": "Fajo spent more than half a day in orbit. Departed just over seven hours ago."
+        },
+        {
+          "character": "PICARD",
+          "line": "Mister Crusher, new coordinates. Lay in a course for Lya Four."
+        },
+        {
+          "character": "WESLEY",
+          "line": "Coordinates already laid in, sir."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "DATA",
+          "line": "Perhaps I should attempt to communicate with the Enterprise."
+        },
+        {
+          "character": "VARRIA",
+          "line": "You can't. Fajo has communications access restricted to the bridge. Once we're out, the shuttlepod will emit an emergency beacon. We'll just have to hope somebody responds before Fajo is able to destroy us."
+        },
+        {
+          "character": "DATA",
+          "line": "I am trained in evasive maneuvers."
+        },
+        {
+          "character": "VARRIA",
+          "line": "We'll need a few. Let's get going. As soon as I start the escape sequence, an alarm will sound. We won't have much time."
+        },
+        {
+          "character": "FAJO",
+          "line": "It's your fault. You knew the price for disobedience. And so did she. Well, there's always another Varria."
+        },
+        {
+          "character": "FAJO",
+          "line": "You won't hurt me. Fundamental respect for all living beings. That is what you said. I'm a living being, therefore you can't harm me."
+        },
+        {
+          "character": "DATA",
+          "line": "You will surrender yourself to the authorities."
+        },
+        {
+          "character": "FAJO",
+          "line": "Or what? You'll fire? Empty threat and we both know it. Why don't you accept your fate? You will return to your chair and you will sit there. You will entertain me and you will entertain my guests. And if you do not, I will simply kill somebody else. Him, perhaps. It doesn't matter. Their blood will be on your hands too, just like poor Varria's. Your only alternative, Data, is to fire. Murder me. That's all you have to do. Go ahead. Fire. If only you could feel rage over Varria's death. If only you could feel the need for revenge, then maybe you could fire. But you're just an android. You can't feel anything, can you? It's just another interesting intellectual puzzle for you. Another of life's curiosities."
+        },
+        {
+          "character": "DATA",
+          "line": "I cannot permit this to continue."
+        },
+        {
+          "character": "FAJO",
+          "line": "Wait. Your program won't allow you to fire. You cannot fire. No."
+        }
+      ],
+      "location": "Jovis Cargo bay"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "O'BRIEN",
+          "line": "I'm reading a weapon in transit with Commander Data. It seems to have discharged, sir."
+        },
+        {
+          "character": "RIKER",
+          "line": "Discharged?"
+        },
+        {
+          "character": "O'BRIEN",
+          "line": "I'm deactivating it."
+        },
+        {
+          "character": "RIKER",
+          "line": "Welcome back, Mister Data. Are you all right?"
+        },
+        {
+          "character": "DATA",
+          "line": "Yes, Commander. Please arrange to take Kivas Fajo into custody on charges of murder, kidnapping, theft."
+        },
+        {
+          "character": "RIKER",
+          "line": "The arrangements have already been made."
+        },
+        {
+          "character": "DATA",
+          "line": "A Varon-T disruptor. It belongs to Fajo."
+        },
+        {
+          "character": "RIKER",
+          "line": "Mister O'Brien says the weapon was in a state of discharge."
+        },
+        {
+          "character": "DATA",
+          "line": "Perhaps something occurred during transport, Commander."
+        }
+      ],
+      "location": "Transporter room"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "FAJO",
+          "line": "Oh, have you come to see me to repent? Is this your final satisfaction? Want to see me beg for mercy? You're not going to get any of that from me."
+        },
+        {
+          "character": "DATA",
+          "line": "I expected nothing."
+        },
+        {
+          "character": "FAJO",
+          "line": "Our roles are reversed, aren't they, Data? You're the collector now. Me, I'm in a cage."
+        },
+        {
+          "character": "DATA",
+          "line": "So it seems."
+        },
+        {
+          "character": "FAJO",
+          "line": "Just don't count me out too quickly. I had you in my collection once. I can have you there again."
+        },
+        {
+          "character": "DATA",
+          "line": "Unlikely, sir. Your collection has been confiscated. All of your stolen possessions are being returned to their rightful owners. You have lost everything you value."
+        },
+        {
+          "character": "FAJO",
+          "line": "It must give you great pleasure."
+        },
+        {
+          "character": "DATA",
+          "line": "No, sir, it does not. I do not feel pleasure. I am only an android."
+        }
+      ],
+      "location": "Brig"
+    }
+  ],
+  "schedule": {
+    "episode": 22,
+    "number": 70,
+    "season": 3
+  },
+  "stardate": "43872.2",
+  "title": "The Most Toys"
+}

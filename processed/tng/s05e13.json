@@ -1,0 +1,1802 @@
+{
+  "airdate": 697698000,
+  "scenes": [
+    {
+      "dialogue": [
+        {
+          "character": "PICARD",
+          "line": "Captain's log, stardate 45470.1. The Enterprise has been diverted to the Moab sector to track a stellar core fragment of a disintegrated neutron star. Our science teams have been asked to monitor the planetary disruptions it may cause.",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "unknown"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "RIKER",
+          "line": "We've got a problem. Our core fragment is going to pass by Moab Four in six days."
+        },
+        {
+          "character": "PICARD",
+          "line": "Isn't that exactly what we anticipated?"
+        },
+        {
+          "character": "RIKER",
+          "line": "We didn't anticipate that somebody would be living there."
+        },
+        {
+          "character": "DATA",
+          "line": "An artificial environment has been constructed on the southern continent, sir."
+        },
+        {
+          "character": "PICARD",
+          "line": "Have you definitely established that there's someone's inside it?"
+        },
+        {
+          "character": "DATA",
+          "line": "Yes, Captain. Sensors are reading human life forms."
+        },
+        {
+          "character": "PICARD",
+          "line": "Human?"
+        },
+        {
+          "character": "RIKER",
+          "line": "Are they responding to our hails, Mister Worf?"
+        },
+        {
+          "character": "WORF",
+          "line": "Negative, sir."
+        },
+        {
+          "character": "PICARD",
+          "line": "Any starships ever reported missing in this sector, Mister Data?"
+        },
+        {
+          "character": "DATA",
+          "line": "No, sir."
+        },
+        {
+          "character": "RIKER",
+          "line": "How the hell did they find themselves on a deserted planet?"
+        },
+        {
+          "character": "LAFORGE",
+          "line": "I'm pretty sure they know we're here."
+        },
+        {
+          "character": "PICARD",
+          "line": "Mister La Forge?"
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Our sensors are picking up deep EM readings. Looks like wave patterns from an obsolete subspace relay."
+        },
+        {
+          "character": "RIKER",
+          "line": "Which would suggest they also have the ability to communicate with us."
+        },
+        {
+          "character": "PICARD",
+          "line": "Mister Worf, open the lower band frequencies most commonly used in the last century."
+        },
+        {
+          "character": "WORF",
+          "line": "Channel open."
+        },
+        {
+          "character": "PICARD",
+          "line": "This is Captain Jean-Luc Picard of the Federation Starship Enterprise. It is urgent that you respond."
+        },
+        {
+          "character": "WORF",
+          "line": "Sir, defensive shield around the structure is increasing in strength."
+        },
+        {
+          "character": "RIKER",
+          "line": "Not exactly a welcome mat."
+        },
+        {
+          "character": "PICARD",
+          "line": "We mean you no harm. We must warn you that your planet is about to experience massive seismic disruptions due to an approaching stellar core fragment. No structure will be able to withstand them."
+        },
+        {
+          "character": "WORF",
+          "line": "They are responding."
+        },
+        {
+          "character": "PICARD",
+          "line": "On screen."
+        },
+        {
+          "character": "CONOR",
+          "line": "Enterprise, I am Aaron Conor.",
+          "modifier": "screen"
+        },
+        {
+          "character": "PICARD",
+          "line": "Mister Conor, we were unaware that there were human colonies in this system."
+        },
+        {
+          "character": "CONOR",
+          "line": "I don't want to be rude, Captain, but we don't wish to interact with outsiders. I'm only responding because of your warning.",
+          "modifier": "screen"
+        },
+        {
+          "character": "PICARD",
+          "line": "The fragment will have serious effects on your planet within six days."
+        },
+        {
+          "character": "CONOR",
+          "line": "Yes, I know. We have been tracking it. But our biosphere has been constructed to withstand quakes of eight point seven on the Richter Scale.",
+          "modifier": "screen"
+        },
+        {
+          "character": "RIKER",
+          "line": "Mister Data?"
+        },
+        {
+          "character": "DATA",
+          "line": "The fragment has a density of one hundred billion kilograms per cubic centimeter. As a result, when it passes Moab Four, it will cause tectonic shifts well beyond eight point seven on the Richter Scale."
+        },
+        {
+          "character": "PICARD",
+          "line": "I'm afraid we're going to have to evacuate your people."
+        },
+        {
+          "character": "CONOR",
+          "line": "Evacuate? That is not possible. There must be an alternative.",
+          "modifier": "screen"
+        },
+        {
+          "character": "PICARD",
+          "line": "Well, we will gladly explore the possibility of it with you, Mister Conor. Would you like to come aboard to diskuss it?"
+        },
+        {
+          "character": "CONOR",
+          "line": "Our environment is sealed. No one can get in or out.",
+          "modifier": "screen"
+        },
+        {
+          "character": "PICARD",
+          "line": "We are capable of matter-energy transport."
+        },
+        {
+          "character": "CONOR",
+          "line": "Matter-energy?",
+          "modifier": "screen"
+        },
+        {
+          "character": "PICARD",
+          "line": "We can take you directly through the structure."
+        },
+        {
+          "character": "CONOR",
+          "line": "Really? That's quite remarkable.",
+          "modifier": "screen"
+        },
+        {
+          "character": "PICARD",
+          "line": "May we arrange for your transport?"
+        },
+        {
+          "character": "CONOR",
+          "line": "No, I must stay here. But under the circumstances, I will permit a small delegation from your ship inside the biosphere. If only to see this matter-energy transportation you speak of.",
+          "modifier": "screen"
+        },
+        {
+          "character": "PICARD",
+          "line": "Very good. Commander Riker and an away team will join you shortly. Picard out."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "MARTIN",
+          "line": "This is a mistake, Aaron."
+        },
+        {
+          "character": "CONOR",
+          "line": "Good Lord, Martin. What would you have me do?"
+        },
+        {
+          "character": "MARTIN",
+          "line": "Anything that would keep them out of here."
+        },
+        {
+          "character": "CONOR",
+          "line": "We have nothing to hide."
+        },
+        {
+          "character": "MARTIN",
+          "line": "We have a great deal to lose."
+        },
+        {
+          "character": "MARTIN",
+          "line": "What is that?"
+        },
+        {
+          "character": "CONOR",
+          "line": "It's them. Look at this, Martin."
+        },
+        {
+          "character": "TROI",
+          "line": "It's lovely I can understand why you are reluctant to leave, Mister Conor."
+        },
+        {
+          "character": "CONOR",
+          "line": "Not just reluctant, Miss Troi. It is imperative that we remain."
+        },
+        {
+          "character": "MARTIN",
+          "line": "It would be suicide to evacuate. It would destroy everything we've worked for two centuries to accomplish."
+        },
+        {
+          "character": "CONOR",
+          "line": "You see, this is an engineered society."
+        },
+        {
+          "character": "RIKER",
+          "line": "Engineered?"
+        },
+        {
+          "character": "CONOR",
+          "line": "Genetically engineered. Our ancestors came from Earth to develop a perfect society. They believed that through controlled procreation, they could create people without flaws and those people would build a paradise."
+        },
+        {
+          "character": "TROI",
+          "line": "All of you have been selectively bred? Your DNA patterns chosen?"
+        },
+        {
+          "character": "CONOR",
+          "line": "Eight generations of us."
+        },
+        {
+          "character": "MARTIN",
+          "line": "We have immeasurably extended the potential of humanity, physically, psychologically. We have evolved beyond, beyond"
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Beyond us."
+        },
+        {
+          "character": "MARTIN",
+          "line": "Frankly, yes. No one in this society would be blind, for example. No offense intended."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "I can see you just fine, sir."
+        },
+        {
+          "character": "MARTIN",
+          "line": "Yes. Well, my point was just."
+        },
+        {
+          "character": "CONOR",
+          "line": "Thank you, Martin. Perhaps you've also made it clear there are still a few imperfections we're working on. For the most part, we've achieved a fully integrated existence. Not just among ourselves but with our environment. We don't just live here, we're a part of our environment. it is part of us. Every plant life, every microscopic lifeform is part of a master design. We cannot separate ourselves from it without irreparably altering who and what we are."
+        },
+        {
+          "character": "MARTIN",
+          "line": "Your presence here has already begun to affect the entire balance of our society."
+        },
+        {
+          "character": "CONOR",
+          "line": "If we do not survive, the balance of our society won't mean a great deal, will it?"
+        },
+        {
+          "character": "CONOR",
+          "line": "I apologize. But he is performing his function as he is designed to do."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "What function might that be?"
+        },
+        {
+          "character": "CONOR",
+          "line": "He is the interpreter of our founders' intentions for this society."
+        },
+        {
+          "character": "RIKER",
+          "line": "A judge?"
+        },
+        {
+          "character": "CONOR",
+          "line": "Yes, more or less. Obviously, he has no diplomatic talents."
+        },
+        {
+          "character": "TROI",
+          "line": "And obviously you do."
+        },
+        {
+          "character": "CONOR",
+          "line": "I have been bred to fill this specific role. We grow up knowing exactly what our society needs from us. What we are expected to do."
+        },
+        {
+          "character": "RIKER",
+          "line": "That must take some of fun out it?"
+        },
+        {
+          "character": "CONOR",
+          "line": "Not at all. My entire psychological makeup tells me that I was born to lead. I am exactly what I would choose to be. Think of it another way. Are there still people in your society who have not diskovered who they really are, or what they were meant to do with their lives? They may be in the wrong job, they may be writing bad poetry. Or worse yet, they may be great poets working as laborers, never to be diskovered. That does not happen here. It is, for us, an ideal existence. We will not give it up easily."
+        },
+        {
+          "character": "TROI",
+          "line": "We will do whatever we can to help you preserve it."
+        }
+      ],
+      "location": "Courtyard"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "CONOR",
+          "line": "Hannah, I'd like you to meet our guests."
+        },
+        {
+          "character": "HANNAH",
+          "line": "Oh yes, of course, from the starship. I've been looking forward to speaking with you."
+        },
+        {
+          "character": "CONOR",
+          "line": "Hannah Bates is one of our scientists. If there's any way to shore up our defenses, Hannah will find it. She has a remarkable talent with theoretical physics."
+        },
+        {
+          "character": "HANNAH",
+          "line": "I've worked up a few schematics based on gravimetric potentials and deflector energy allocation."
+        },
+        {
+          "character": "RIKER",
+          "line": "Geordi, Troi and I will return to the Enterprise. When you've reached a conclusion, you can contact us."
+        },
+        {
+          "character": "TROI",
+          "line": "Commander, if Mister Conor doesn't mind, I'd like to stay and see more of his colony."
+        },
+        {
+          "character": "CONOR",
+          "line": "No, no, that would be fine. I'd like you to see it."
+        },
+        {
+          "character": "RIKER",
+          "line": "Riker to Enterprise. One to beam up."
+        },
+        {
+          "character": "CREWMAN",
+          "line": "Acknowledged, Commander.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "RIKER",
+          "line": "Energize."
+        }
+      ],
+      "location": "Laboratory"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TROI",
+          "line": "You're sure my being here is not going to be disruptive?"
+        },
+        {
+          "character": "CONOR",
+          "line": "Disruptive? You mean, what Martin was saying."
+        },
+        {
+          "character": "TROI",
+          "line": "Well, I certainly wouldn't wish to throw off your entire balance."
+        },
+        {
+          "character": "CONOR",
+          "line": "Too late. The damage is done."
+        },
+        {
+          "character": "TROI",
+          "line": "Seriously."
+        },
+        {
+          "character": "CONOR",
+          "line": "I sometimes think that strict interpreters like Martin have forgotten we're still human. We'll adjust, accommodate."
+        },
+        {
+          "character": "TROI",
+          "line": "There must be other unexpected events you have to deal with. An untimely death, an accident."
+        },
+        {
+          "character": "CONOR",
+          "line": "Our geneticists are able to screen out any congenital health risks before conception. Our population is diverse enough to maintain a genetic balance in the event of accidental death. But very little that is unexpected occurs here. Am I making this sound incredibly dull?"
+        },
+        {
+          "character": "TROI",
+          "line": "Not at all."
+        },
+        {
+          "character": "CONOR",
+          "line": "I'll tell you the truth, but I'll deny it if you tell Martin. I've found today exhilarating. Meeting you, meeting new people, with new ideas."
+        },
+        {
+          "character": "TROI",
+          "line": "I feel the same about being here. I'm something of a student of human nature, and I find this all fascinating."
+        },
+        {
+          "character": "CONOR",
+          "line": "A student of human nature?"
+        },
+        {
+          "character": "TROI",
+          "line": "I'm the ship's Counselor."
+        },
+        {
+          "character": "CONOR",
+          "line": "Ah, I'm afraid you wouldn't find much work here, Counselor."
+        },
+        {
+          "character": "TROI",
+          "line": "I'd book my next vacation at your hotel, if you had one."
+        },
+        {
+          "character": "CONOR",
+          "line": "Well in that case, I shall have to have them build one."
+        }
+      ],
+      "location": "Shrubbery"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "HANNAH",
+          "line": "The biosphere's superstructure will never withstand the tectonic shocks. The environment would be compromised."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "That's how I see it."
+        },
+        {
+          "character": "HANNAH",
+          "line": "Your ship. What kind of energy output is it capable of generating?"
+        },
+        {
+          "character": "LAFORGE",
+          "line": "We have a matter-antimatter warp reaction system, the most powerful in the Starfleet. Normally, it kicks plasma up into the terawatt range. Why?"
+        },
+        {
+          "character": "HANNAH",
+          "line": "Well, either we're going to have to move or that fragment is."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "We can move a small moon or an asteroid, but a stellar core fragment? That's much too massive for our tractor beam."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "What's that?"
+        },
+        {
+          "character": "HANNAH",
+          "line": "A wild idea, purely theoretical."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "A multiphase tractor beam?"
+        },
+        {
+          "character": "HANNAH",
+          "line": "When we first spotted the fragment approaching, I came up with the idea, but we can't generate the kind of energy we would need. You can."
+        }
+      ],
+      "location": "Laboratory"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "LAFORGE",
+          "line": "We'd need Hannah on the ship."
+        },
+        {
+          "character": "MARTIN",
+          "line": "No."
+        },
+        {
+          "character": "HANNAH",
+          "line": "With my theories and their equipment, we might be able to alter the fragment's path. It's our only chance to avoid evacuation."
+        },
+        {
+          "character": "CONOR",
+          "line": "No one had ever come here and no one had ever left, until today. This is a date to note in our history books."
+        },
+        {
+          "character": "MARTIN",
+          "line": "This is in direct violation of the intentions of our founders, Aaron."
+        },
+        {
+          "character": "CONOR",
+          "line": "I don't think they intended us to die, Martin."
+        },
+        {
+          "character": "MARTIN",
+          "line": "Her absence will create an additional imbalance."
+        },
+        {
+          "character": "CONOR",
+          "line": "Temporarily. The circumstances require us to be flexible."
+        },
+        {
+          "character": "MARTIN",
+          "line": "We have no idea how molecular transport will affect her DNA."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "It won't affect her DNA at all. There's been over a century of evidence to prove that."
+        },
+        {
+          "character": "CONOR",
+          "line": "You can go, Hannah."
+        },
+        {
+          "character": "TROI",
+          "line": "May I return later?"
+        },
+        {
+          "character": "CONOR",
+          "line": "I look forward to it."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Enterprise, three to beam up. Energize."
+        },
+        {
+          "character": "PICARD",
+          "line": "Captain's log, supplemental. Commander La Forge and Hannah Bates have spent three days trying to find a way to adjust the path of the core fragment. If they do not succeed in the next forty eight hours, we will need to begin evacuation.",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "Courtyard"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TROI",
+          "line": "I believe some will choose to risk death rather than leave, Captain."
+        },
+        {
+          "character": "PICARD",
+          "line": "You've spent a good deal of time on the surface. How do you suggest we change their minds?"
+        },
+        {
+          "character": "TROI",
+          "line": "I'm not sure we can. It would mean abandoning their fundamental way of life."
+        },
+        {
+          "character": "PICARD",
+          "line": "They've managed to turn a dubious scientific endeavor into dogma."
+        },
+        {
+          "character": "TROI",
+          "line": "You don't approve of genetic engineering."
+        },
+        {
+          "character": "PICARD",
+          "line": "It was a bad idea whose time is long past."
+        },
+        {
+          "character": "TROI",
+          "line": "They seem to have made it succeed."
+        },
+        {
+          "character": "PICARD",
+          "line": "They've given away their humanity with this genetic manipulation. Many of the qualities that they breed out, the uncertainty, the self-discovery, the unknown, those are many of the qualities that make life worth living. Well, at least to me. I wouldn't want to live knowing that my future was written, that my boundaries had been already set, would you?"
+        },
+        {
+          "character": "TROI",
+          "line": "I've asked myself that question a lot during the past few days. I don't know. I doubt it. Nevertheless, it's what they believe in, and it won't be an easy matter to talk them into leaving."
+        },
+        {
+          "character": "PICARD",
+          "line": "This leader of theirs, Conor, he seems to be a reasonable man."
+        },
+        {
+          "character": "TROI",
+          "line": "I find him very reasonable. Open to suggestions, thoughtful, quite disarming. The perfect administrator."
+        },
+        {
+          "character": "PICARD",
+          "line": "I'm sure. Will he leave when he sees there's no other choice?"
+        },
+        {
+          "character": "TROI",
+          "line": "I don't know. I hope so."
+        },
+        {
+          "character": "PICARD",
+          "line": "You admire him."
+        },
+        {
+          "character": "TROI",
+          "line": "Yes."
+        },
+        {
+          "character": "PICARD",
+          "line": "Then help him to see the reality of what may happen to his colony. If he makes the right decision, if he's as good a leader as he's designed to be, then perhaps the others will follow."
+        }
+      ],
+      "location": "Ready room"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "HANNAH",
+          "line": "If we increase warp power transfer by eighty percent."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "It's just going to blow the emitters again."
+        },
+        {
+          "character": "HANNAH",
+          "line": "We won't be able to reinforce the conduit to hold that power level. It just doesn't work."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Yeah. I haven't had any sleep in so long, my eyelids feel like they have lead weights attached."
+        },
+        {
+          "character": "HANNAH",
+          "line": "Geordi."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Hmm?"
+        },
+        {
+          "character": "HANNAH",
+          "line": "Were you always blind?"
+        },
+        {
+          "character": "LAFORGE",
+          "line": "I'm sorry. I probably shocked the hell out of you, didn't I?"
+        },
+        {
+          "character": "HANNAH",
+          "line": "No."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "I'll put it back on."
+        },
+        {
+          "character": "HANNAH",
+          "line": "Don't. I'm sorry. I didn't mean to embarrass you."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "I've never been embarrassed by this, Hannah. Never. I was born blind. I've always been this way."
+        },
+        {
+          "character": "HANNAH",
+          "line": "May I see it? Your visor?"
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Sure. So, I guess if I had been conceived on your world, I wouldn't even be here now, would I?"
+        },
+        {
+          "character": "HANNAH",
+          "line": "No."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "No, I'd've been terminated as a fertilized cell."
+        },
+        {
+          "character": "HANNAH",
+          "line": "It was the wish of our founders that no one had to suffer a life with disabilities."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Who gave them the right to decide whether or not I should be here? Whether or not I might have something to contribute."
+        },
+        {
+          "character": "HANNAH",
+          "line": "I don't know what to say. Here you go. How does it work?"
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Well, the visor scans the electromagnetic spectrum between one hertz and one hundred thousand terahertz, converts it all to usable frequencies and then transmits that information directly to my brain."
+        },
+        {
+          "character": "HANNAH",
+          "line": "What about the data conversion rates? How do you avoid a sensory overload?"
+        },
+        {
+          "character": "LAFORGE",
+          "line": "A bank of pre-processors compresses the data stream into pulses, you see. That way, my visual cortex never. Wait a minute. Wait just a minute. We should be able to send a high-energy pulse through the tractor system. If it's short enough, it shouldn't overload the emitters. The technology is right here. If we could adapt those pulse compression routines and then apply them to the warp power conduits."
+        },
+        {
+          "character": "HANNAH",
+          "line": "We'd have to avoid tractor force rebounding, but that shouldn't be hard."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Sure. With a few modifications. Oh, that's perfect."
+        },
+        {
+          "character": "HANNAH",
+          "line": "What?"
+        },
+        {
+          "character": "LAFORGE",
+          "line": "If the answer to all of this is in a visor created for a blind man who never would have existed in your society. No offense intended."
+        }
+      ],
+      "location": "Engineering"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "CONOR",
+          "line": "Please, Matthew, continue."
+        }
+      ],
+      "location": "Courtyard"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TROI",
+          "line": "It's hard to believe. So much loveliness here, just a few meters away from such desolation."
+        },
+        {
+          "character": "CONOR",
+          "line": "It's hard to believe we're about to lose it."
+        },
+        {
+          "character": "TROI",
+          "line": "This must sound incredibly simplistic but, can't you re-engineer all this on another planet?"
+        },
+        {
+          "character": "CONOR",
+          "line": "A nursery rhyme my mother used to read to me has been running round and round my mind since this all began."
+        },
+        {
+          "character": "TROI",
+          "line": "A nursery rhyme?"
+        },
+        {
+          "character": "CONOR",
+          "line": "Humpty Dumpty sat on a wall. Humpty Dumpty had a great fall. CONOR +"
+        },
+        {
+          "character": "TROI",
+          "line": "All the King's horses and all the King's Men, couldn't put Humpty together again."
+        },
+        {
+          "character": "CONOR",
+          "line": "Why do we tell our children such ghastly stories?"
+        },
+        {
+          "character": "TROI",
+          "line": "Perhaps to prepare them for times like these."
+        },
+        {
+          "character": "CONOR",
+          "line": "We are every bit as fragile as an egg and as impossible to reconstruct. We are integrated and refined to such a degree that any fundamental change would lead to chaos."
+        },
+        {
+          "character": "TROI",
+          "line": "I'm so sorry, Aaron. I wish I could do something to help."
+        },
+        {
+          "character": "CONOR",
+          "line": "You have helped. You've been wonderful these past few days. You've been my Counselor."
+        },
+        {
+          "character": "TROI",
+          "line": "No, a Counselor has to maintain a diskreet distance. I'd rather think of us as friends."
+        },
+        {
+          "character": "CONOR",
+          "line": "Friends? That just won't do either."
+        },
+        {
+          "character": "CONOR",
+          "line": "Will it?"
+        },
+        {
+          "character": "TROI",
+          "line": "Aaron."
+        },
+        {
+          "character": "CONOR",
+          "line": "I must confess, a part of me knows that if I transport through these walls, you'll be on the other side."
+        },
+        {
+          "character": "TROI",
+          "line": "This is wrong."
+        },
+        {
+          "character": "CONOR",
+          "line": "Terribly wrong."
+        }
+      ],
+      "location": "Biosphere wall"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "LAFORGE",
+          "line": "In order to move the core fragment to a safe trajectory, we needed our tractor beam to be able to handle high power pulses."
+        },
+        {
+          "character": "HANNAH",
+          "line": "And we needed a much more efficient emitter to do that."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "About four times more efficient."
+        },
+        {
+          "character": "HANNAH",
+          "line": "And we couldn't get anywhere near that without overloading the emitter arrays."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "So, we added a little visor technology to the process and we were able to boost the effective force and, at the same time, lower the power conduit stress levels."
+        },
+        {
+          "character": "PICARD",
+          "line": "What's the increase in efficiency?"
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Up to almost three hundred percent."
+        },
+        {
+          "character": "RIKER",
+          "line": "That's not enough."
+        },
+        {
+          "character": "HANNAH",
+          "line": "That's true. We won't be able to move the fragment as far as we'd like to, but"
+        },
+        {
+          "character": "LAFORGE",
+          "line": "But if we also fortify the biosphere's structural integrity at the same time"
+        },
+        {
+          "character": "HANNAH",
+          "line": "With some of the shield improvements I've diskovered here, it could work."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Of course, we'll have to lend them some of our engineering support crews."
+        },
+        {
+          "character": "PICARD",
+          "line": "Advise Mister Conor, Number One, and brief the appropriate officers. Prepare them for transport as soon as Mister Conor approves."
+        },
+        {
+          "character": "RIKER",
+          "line": "Yes, sir."
+        }
+      ],
+      "location": "Engineering"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "CONOR",
+          "line": "You're up early."
+        },
+        {
+          "character": "TROI",
+          "line": "I'm still on Enterprise time. Aaron, I'm going back to the ship. I'm not going to see you again."
+        },
+        {
+          "character": "CONOR",
+          "line": "Why?"
+        },
+        {
+          "character": "TROI",
+          "line": "Because it's the right thing to do."
+        },
+        {
+          "character": "CONOR",
+          "line": "I'm not convinced of that."
+        },
+        {
+          "character": "TROI",
+          "line": "You know it as well as I do."
+        },
+        {
+          "character": "CONOR",
+          "line": "You're angry."
+        },
+        {
+          "character": "TROI",
+          "line": "Yes, I'm angry. I'm angry with myself for allowing this to happen."
+        },
+        {
+          "character": "CONOR",
+          "line": "Deanna."
+        },
+        {
+          "character": "TROI",
+          "line": "I could fall in love with you so easily, but we both know the end of that story, don't we? How would Martin feel about introducing half-Betazoid DNA into the genetic balance?"
+        },
+        {
+          "character": "CONOR",
+          "line": "If we have to evacuate, anything's possible."
+        },
+        {
+          "character": "TROI",
+          "line": "Listen to yourself. A few days ago you wouldn't even talk to us. This is my fault. I'm so sorry."
+        },
+        {
+          "character": "CONOR",
+          "line": "I need you here. This doesn't have to happen again."
+        },
+        {
+          "character": "TROI",
+          "line": "I have to go."
+        },
+        {
+          "character": "HANNAH",
+          "line": "Good news, Aaron. We should be able to change the course of the core fragment, but we'll also need to fortify the structure. And we're going to need help to do it."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "We'll need to bring down engineering crews from the Enterprise to work with your people for the next forty eight hours."
+        },
+        {
+          "character": "CONOR",
+          "line": "Engineering crews?"
+        },
+        {
+          "character": "LAFORGE",
+          "line": "They have to installl five new shield generators and power supplies."
+        },
+        {
+          "character": "HANNAH",
+          "line": "Fifty officers are waiting for your approval to transport down. We don't have much time, Aaron."
+        },
+        {
+          "character": "CONOR",
+          "line": "Is there any other choice?"
+        },
+        {
+          "character": "HANNAH",
+          "line": "None."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Enterprise, you may begin transport when ready."
+        },
+        {
+          "character": "PICARD",
+          "line": "Captain's log, supplemental. The Enterprise has moved to a parallel course with the core fragment. We must adjust its trajectory by a minimum of one point two degrees to ensure the colony's safety.",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "Courtyard"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "PICARD",
+          "line": "Bring us within range of the fragment, Ensign."
+        },
+        {
+          "character": "FELTON",
+          "line": "Aye, sir."
+        },
+        {
+          "character": "PICARD",
+          "line": "You may proceed"
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "PICARD",
+          "line": "Mister La Forge.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Yes, sir. Good luck."
+        },
+        {
+          "character": "HANNAH",
+          "line": "You, too."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Engage tractor beam. Okay, let's give it a try. Shutting down non-critical systems."
+        },
+        {
+          "character": "HANNAH",
+          "line": "Emitter circuits one hundred seventy percent over standard."
+        }
+      ],
+      "location": "Engineering"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "DATA",
+          "line": "Increasing impulse power to tractor emitters. EPS power levels rising."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "LAFORGE",
+          "line": "Transferring warp power to tractor beam generator."
+        },
+        {
+          "character": "HANNAH",
+          "line": "Graviton generators operating normally. Surge pulse now synchronized. Emitters radiating at three hundred twenty percent over standard."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Bridge, we need more power."
+        }
+      ],
+      "location": "Engineering"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "RIKER",
+          "line": "Reduce life support to minimum requirements, Mister Data."
+        },
+        {
+          "character": "DATA",
+          "line": "Aye, sir."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "HANNAH",
+          "line": "Three hundred ninety percent over standard."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Come on, come on."
+        },
+        {
+          "character": "HANNAH",
+          "line": "No change in the fragment's course."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "We've got to increase the pulse frequency."
+        },
+        {
+          "character": "HANNAH",
+          "line": "The emitter circuits won't hold for long."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "We won't need them for long."
+        },
+        {
+          "character": "HANNAH",
+          "line": "Four hundred percent over standard."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Okay. Now we're getting there."
+        },
+        {
+          "character": "HANNAH",
+          "line": "The fragment's moved point four degrees off its previous heading. Point six five. It's working."
+        }
+      ],
+      "location": "Engineering"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "DATA",
+          "line": "We have lost one of the emitter circuits."
+        },
+        {
+          "character": "WORF",
+          "line": "Life support failure. Decks nine, twelve, and thirteen."
+        },
+        {
+          "character": "RIKER",
+          "line": "Engage evacuation procedures for those decks. Geordi, we're going to need power back soon."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Acknowledged.",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "HANNAH",
+          "line": "Fragment's new heading adjustment is at one point zero one degrees. Is it enough?"
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Not yet. Hold on."
+        },
+        {
+          "character": "DATA",
+          "line": "We've lost",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "Engineering"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "DATA",
+          "line": "The second lateral emitter circuit."
+        },
+        {
+          "character": "WORF",
+          "line": "Losing life support systems on decks five through nine. Evacuation procedures initiated."
+        },
+        {
+          "character": "PICARD",
+          "line": "Mister La Forge."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Hold on, Captain.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "DATA",
+          "line": "Shipwide life support failure in fifteen seconds, sir."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "HANNAH",
+          "line": "Almost there, Geordi. Course shift is at one point one six degrees."
+        }
+      ],
+      "location": "Engineering"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "DATA",
+          "line": "Termination of all life support in five seconds."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "HANNAH",
+          "line": "One point one eight."
+        }
+      ],
+      "location": "Engineering"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "PICARD",
+          "line": "Now, Mister La Forge."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "LAFORGE",
+          "line": "Yes, sir. Shutting down all tractor emissions. Transferring power back to life support."
+        },
+        {
+          "character": "HANNAH",
+          "line": "One point two. We've got it."
+        }
+      ],
+      "location": "Engineering"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "WORF",
+          "line": "Life support normal on all decks."
+        },
+        {
+          "character": "PICARD",
+          "line": "Mister Data?"
+        },
+        {
+          "character": "DATA",
+          "line": "The fragment's course has been altered by one point two one degrees, sir."
+        },
+        {
+          "character": "PICARD",
+          "line": "Hail the colony."
+        },
+        {
+          "character": "CONOR",
+          "line": "Yes, Captain.",
+          "modifier": "screen"
+        },
+        {
+          "character": "PICARD",
+          "line": "Success, Mister Conor. With the upgrades to your biosphere, the core fragment should no longer be a danger."
+        },
+        {
+          "character": "CONOR",
+          "line": "I cannot adequately express my appreciation to your crew. Is Hannah able to hear me?",
+          "modifier": "screen"
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "HANNAH",
+          "line": "Yes, yes. Go ahead, Aaron."
+        },
+        {
+          "character": "CONOR",
+          "line": "This is an historic achievement, Hannah. You've done a wonderful thing for our people.",
+          "modifier": "screen"
+        },
+        {
+          "character": "HANNAH",
+          "line": "Thank you."
+        },
+        {
+          "character": "CONOR",
+          "line": "We look forward to honoring you appropriately when you return. Thank you again, Captain. Conor out.",
+          "modifier": "screen"
+        },
+        {
+          "character": "PICARD",
+          "line": "Captain's log, supplemental. The stellar core fragment has passed safely out of the Moab system. The colony was shaken by powerful temblors, but fortunately there were no injuries and only minor damage was reported.",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "Engineering"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "RIKER",
+          "line": "Energize."
+        },
+        {
+          "character": "RIKER",
+          "line": "That should do it. All members of the Enterprise crew are accounted for, Mister Conor."
+        },
+        {
+          "character": "CONOR",
+          "line": "They've been invaluable, Commander. Thank you again."
+        },
+        {
+          "character": "RIKER",
+          "line": "If there's nothing else, we'll be on our way."
+        },
+        {
+          "character": "CONOR",
+          "line": "Would you tell Deanna Troi for me that I'm sorry I didn't have the opportunity to say goodbye personally?"
+        },
+        {
+          "character": "RIKER",
+          "line": "I'm sure she'll feel the same way."
+        },
+        {
+          "character": "CONOR",
+          "line": "A breach in the biosphere. Get Hannah Bates."
+        }
+      ],
+      "location": "Courtyard"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "HANNAH",
+          "line": "Apparently, the refortification wasn't adequate. There's definite structural damage. It appears that the tectonic shifts created a breach."
+        },
+        {
+          "character": "MARTIN",
+          "line": "Can it be repaired?"
+        },
+        {
+          "character": "HANNAH",
+          "line": "I don't know. I'll have to run a diagnostic in the lab. Unless we seal it and fast we may have to evacuate."
+        },
+        {
+          "character": "CONOR",
+          "line": "How long do we have, Hannah?"
+        },
+        {
+          "character": "HANNAH",
+          "line": "Based on the level of toxicity I'm reading, it may be only a matter of hours."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Mind if I give her a hand, Commander?"
+        },
+        {
+          "character": "RIKER",
+          "line": "By all means."
+        }
+      ],
+      "location": "Biosphere wall"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "HANNAH",
+          "line": "Isn't it amazing after all we went through?"
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Yeah. Amazing."
+        },
+        {
+          "character": "HANNAH",
+          "line": "Looks bad. It's cracked well beneath the surface."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Why are you doing this?"
+        },
+        {
+          "character": "HANNAH",
+          "line": "What do you mean?"
+        },
+        {
+          "character": "LAFORGE",
+          "line": "There's no breach."
+        },
+        {
+          "character": "HANNAH",
+          "line": "What are you talking about. Look at it, it's right here. I measured the toxic leak. You saw me."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Hannah, my visor's positronic scan would have detected the leak. Its molecular pattern enhancer would have picked up even the smallest crack."
+        },
+        {
+          "character": "HANNAH",
+          "line": "The damn thing doesn't miss much, does it. Fine. I'll tell them the truth. Will that make you happy?"
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Why are you doing this?"
+        },
+        {
+          "character": "HANNAH",
+          "line": "I was born to be one of the best scientific minds of my generation, and in the past five days I have encountered technology that I have barely imagined. And I've got to ask myself, If we're so brilliant how come we didn't invent any of these things?"
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Well, maybe necessity really is the mother of invention. You never really look for something until you need it."
+        },
+        {
+          "character": "HANNAH",
+          "line": "But all my needs have been anticipated and planned for before I'm even born. All of us in this colony have been living in the dark ages. It's like we're victims of a two hundred year old joke. Until you came, we could only see to the wall of our biosphere. Suddenly our eyes have been opened to the infinite possibilities."
+        }
+      ],
+      "location": "Laboratory"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "PICARD",
+          "line": "Asylum?"
+        },
+        {
+          "character": "LAFORGE",
+          "line": "She wants to leave the colony."
+        },
+        {
+          "character": "RIKER",
+          "line": "She may not be the only one. The science teams that went down to the surface fielded a lot of questions from colonists who were more than curious about what's outside their world."
+        },
+        {
+          "character": "WORF",
+          "line": "Why shouldn't we grant them asylum?"
+        },
+        {
+          "character": "TROI",
+          "line": "We can't do that."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "We have to do that."
+        },
+        {
+          "character": "TROI",
+          "line": "Do you understand what it would do to the colony?"
+        },
+        {
+          "character": "LAFORGE",
+          "line": "I understand these are human beings, Counselor, with free will. If she wants to leave, she has every right to."
+        },
+        {
+          "character": "RIKER",
+          "line": "And what happens to the colony if she does? If others join her?"
+        },
+        {
+          "character": "CRUSHER",
+          "line": "The society is genetically integrated. Suddenly there would be gaps, missing pieces."
+        },
+        {
+          "character": "TROI",
+          "line": "It would destroy them."
+        },
+        {
+          "character": "CRUSHER",
+          "line": "There must be something we can do to help."
+        },
+        {
+          "character": "PICARD",
+          "line": "We may have done too much to help them already, Doctor."
+        },
+        {
+          "character": "WORF",
+          "line": "We saved them from destruction."
+        },
+        {
+          "character": "PICARD",
+          "line": "Did we? Counselor, I think it's time you took me to meet Mister Conor."
+        }
+      ],
+      "location": "Observation lounge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "PICARD",
+          "line": "Transporter room three."
+        },
+        {
+          "character": "TROI",
+          "line": "Computer, halt. Captain, I have to tell you something, and it isn't easy for me because I've used very poor judgment. Actually, I've acted quite unprofessionally."
+        },
+        {
+          "character": "PICARD",
+          "line": "Counselor, what is it you say? Take a deep breath."
+        },
+        {
+          "character": "TROI",
+          "line": "Conor and I have had a relationship."
+        },
+        {
+          "character": "PICARD",
+          "line": "I see."
+        },
+        {
+          "character": "TROI",
+          "line": "It should never have happened. I knew there was concern about outside influences and I should have been more careful."
+        },
+        {
+          "character": "PICARD",
+          "line": "What is your status with him now?"
+        },
+        {
+          "character": "TROI",
+          "line": "I did not intend to see him again."
+        },
+        {
+          "character": "PICARD",
+          "line": "Would you prefer not to return to the surface?"
+        },
+        {
+          "character": "TROI",
+          "line": "No, I think I should come with you, but I wanted you to know before we went down."
+        },
+        {
+          "character": "PICARD",
+          "line": "I appreciate that. Computer, resume."
+        },
+        {
+          "character": "TROI",
+          "line": "I wanted so much to help him, to be there for him, but the more I was."
+        },
+        {
+          "character": "PICARD",
+          "line": "Deanna, we all went into this with the best intentions."
+        },
+        {
+          "character": "TROI",
+          "line": "I should have walked away as soon as I saw what was happening."
+        },
+        {
+          "character": "PICARD",
+          "line": "But you didn't. And that's human. We make mistakes. Genetic manipulation or not, nobody's perfect."
+        }
+      ],
+      "location": "Turbolift"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "MARTIN",
+          "line": "You would ignore the welfare of the colony for your own selfish interests."
+        },
+        {
+          "character": "HANNAH",
+          "line": "The welfare of this colony would be best served by rejoining the human race."
+        },
+        {
+          "character": "MARTIN",
+          "line": "She has been contaminated by the people on that ship."
+        },
+        {
+          "character": "TROI",
+          "line": "Aaron."
+        },
+        {
+          "character": "PICARD",
+          "line": "Mister Conor, I believe that you and I should talk."
+        },
+        {
+          "character": "MARTIN",
+          "line": "This is your doing. We should never have answered your hails."
+        },
+        {
+          "character": "HANNAH",
+          "line": "If we'd followed that advice, Martin, we'd all be dead by now. So much for the welfare of this colony."
+        },
+        {
+          "character": "MARTIN",
+          "line": "You are not taking her with you."
+        },
+        {
+          "character": "HANNAH",
+          "line": "I'm leaving. And I'll tell you something else. There are at least a dozen others who are ready to go with me."
+        },
+        {
+          "character": "TROI",
+          "line": "Hannah, let's allow Aaron and Captain Picard to diskuss this. Why don't we go for a walk?"
+        },
+        {
+          "character": "HANNAH",
+          "line": "There's nothing else for them to talk about."
+        },
+        {
+          "character": "CONOR",
+          "line": "Martin."
+        },
+        {
+          "character": "MARTIN",
+          "line": "I think it would be helpful if I."
+        },
+        {
+          "character": "CONOR",
+          "line": "I want to talk with Captain Picard alone."
+        },
+        {
+          "character": "MARTIN",
+          "line": "But"
+        },
+        {
+          "character": "CONOR",
+          "line": "Thank you, Martin."
+        },
+        {
+          "character": "CONOR",
+          "line": "The irony is, he's the one who saw this coming from the moment you arrived. Because I didn't want to hear it, I chose not to listen."
+        },
+        {
+          "character": "PICARD",
+          "line": "You made decisions you felt would save your colony."
+        },
+        {
+          "character": "CONOR",
+          "line": "No. No, I wish it were that simple, but I can't forgive myself so easily. You see, Captain, I know what Hannah Bates is feeling. I've been feeling it as well. I've found your people intriguing and stimulating as she has. I've been every bit as curious about you as the next man. But I am not the next man. I am the leader of these people. And every genetic fiber in my being demands that I protect them. Instead, I have betrayed them. I have allowed this to happen."
+        },
+        {
+          "character": "PICARD",
+          "line": "We have both allowed this to happen."
+        },
+        {
+          "character": "CONOR",
+          "line": "Then let us both find a way to stop it from going any further."
+        },
+        {
+          "character": "PICARD",
+          "line": "I wish I could see a way."
+        },
+        {
+          "character": "CONOR",
+          "line": "Picard, I was born to govern this colony, not to dismantle it."
+        },
+        {
+          "character": "PICARD",
+          "line": "If you force them to stay, you will be suppressing their human rights."
+        },
+        {
+          "character": "CONOR",
+          "line": "If even a handful leave, the damage to this society will be devastating. What about the rights of those who would stay behind? They are the ones who will inherit the social chaos that will follow for generations. Your arrival created this problem. Your departure solves it."
+        },
+        {
+          "character": "PICARD",
+          "line": "That is simplistic."
+        },
+        {
+          "character": "CONOR",
+          "line": "Refuse them passage."
+        },
+        {
+          "character": "PICARD",
+          "line": "I cannot ignore the requests of people, humans, who ask for transport away from here."
+        },
+        {
+          "character": "CONOR",
+          "line": "Nor can you ignore the fact that thousands will suffer if you agree to take them. And as suffering grows, more will demand to leave. We are witnessing the end of this existence. I implore you, Captain, do not let this happen."
+        },
+        {
+          "character": "PICARD",
+          "line": "You would have me make the decision for you, nut I can't do that. I am willing to talk to these people with you, and I will urge them not to make an impulsive choice, but if finally they choose to leave, the Enterprise will not turn them away."
+        }
+      ],
+      "location": "Laboratory"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "CONOR",
+          "line": "Captain Picard has decided to grant transport to any individuals who wish to leave Genome Colony. I'm asking you to stay."
+        },
+        {
+          "character": "HANNAH",
+          "line": "Aaron, don't you see we can't be happy here any longer? We were innocent. it will never be that way again."
+        },
+        {
+          "character": "CONOR",
+          "line": "The experiences of the past week will become part of our heritage. We will adjust. In a few generations, we will be able to"
+        },
+        {
+          "character": "HANNAH",
+          "line": "We're not willing to stay here a few generations."
+        },
+        {
+          "character": "CONOR",
+          "line": "Give me six months. Just wait six months before you leave."
+        },
+        {
+          "character": "HANNAH",
+          "line": "What will that accomplish?"
+        },
+        {
+          "character": "PICARD",
+          "line": "It's true that our presence here has had an unintended influence on your society. But it's done and there is no way to undo it. But feelings are running very high. Perhaps it's not such a bad idea that you should take adequate time to weigh carefully the consequences of what you're about to do. We are prepared to return in six months."
+        },
+        {
+          "character": "HANNAH",
+          "line": "In other words, we are being asked to stay here for six months while they pressure us to change our minds."
+        },
+        {
+          "character": "PICARD",
+          "line": "In five days, you have seen only the most superficial evidence of what life is like outside this biosphere."
+        },
+        {
+          "character": "HANNAH",
+          "line": "Would you ever choose to live aboard a ship in a bottle, Captain? You are in command of a starship. You live to explore the unknown. We ask for that same privilege."
+        },
+        {
+          "character": "CONOR",
+          "line": "Hannah, this is your home. We are all, in a sense, your family. Don't we deserve an opportunity to open a dialogue on this issue at the very least? I am only asking for six months."
+        },
+        {
+          "character": "HANNAH",
+          "line": "It won't make any difference. You'll only be putting the people of this colony through unnecessary pain and anguish."
+        },
+        {
+          "character": "MARTIN",
+          "line": "You are the ones who are causing pain and anguish in this colony. You."
+        },
+        {
+          "character": "HANNAH",
+          "line": "Don't you see, Aaron? It's over. It's time for you to lead our people into a new era. You could come with us."
+        },
+        {
+          "character": "CONOR",
+          "line": "When you're ready to come home, you will be welcome."
+        },
+        {
+          "character": "TROI",
+          "line": "What will you do now?"
+        },
+        {
+          "character": "CONOR",
+          "line": "Attempt to assess the damage. Spend the rest of my life on the near impossible task of rebuilding this society without the proper pieces."
+        },
+        {
+          "character": "TROI",
+          "line": "Aaron, you acted in the best interests of your people. There was no way to avoid what happened."
+        },
+        {
+          "character": "CONOR",
+          "line": "I replay each step of this in my mind, looking for the wrong turn, the mistake in judgment. I can find only one. And as hard as I try, I cannot regret even that one. In fact, I'm quite certain that, given the opportunity, I would choose to make the same mistake again. I can only wonder why, with all the hundreds of genetically compatible women, I would fall in love with you."
+        },
+        {
+          "character": "TROI",
+          "line": "Don't say that."
+        },
+        {
+          "character": "CONOR",
+          "line": "Perhaps it's your imperfections which make you so unique. But I am in love with you, Deanna Troi, and I will always be."
+        }
+      ],
+      "location": "Courtyard"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "PICARD",
+          "line": "Come."
+        },
+        {
+          "character": "RIKER",
+          "line": "The colonists are all on board, sir."
+        },
+        {
+          "character": "PICARD",
+          "line": "How many finally?"
+        },
+        {
+          "character": "RIKER",
+          "line": "Twenty three."
+        },
+        {
+          "character": "PICARD",
+          "line": "If we ever needed reminding of the importance of the Prime Directive, it is now."
+        },
+        {
+          "character": "RIKER",
+          "line": "The Prime Directive doesn't apply. They're human."
+        },
+        {
+          "character": "PICARD",
+          "line": "Doesn't it? Our very presence may have damaged, even destroyed, their way of life. Whether or not we agree with that way of life or whether they're human or not is irrelevant, Number One. We are responsible."
+        },
+        {
+          "character": "RIKER",
+          "line": "We had to respond to the threat from the core fragment didn't we?"
+        },
+        {
+          "character": "PICARD",
+          "line": "Of course we did. But in the end we may have proved just as dangerous to that colony as any core fragment could ever have been."
+        }
+      ],
+      "location": "Ready room"
+    }
+  ],
+  "schedule": {
+    "episode": 13,
+    "number": 113,
+    "season": 5
+  },
+  "stardate": "45470.1",
+  "title": "The Masterpiece Society"
+}

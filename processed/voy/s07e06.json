@@ -1,0 +1,1986 @@
+{
+  "airdate": 973659600,
+  "scenes": [
+    {
+      "dialogue": [
+        {
+          "character": "JANEWAY",
+          "line": "Captain's log, stardate 54208.3. Last month's datastream from Starfleet never arrived, so the crew is looking forward to this one with even more anticipation than usual. We could all use some news from home.",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "unknown"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "PARIS",
+          "line": "There he is. The man of the hour."
+        },
+        {
+          "character": "KIM",
+          "line": "You sure are in a good mood."
+        },
+        {
+          "character": "PARIS",
+          "line": "Well, rumor has it you snared the latest datastream last night."
+        },
+        {
+          "character": "KIM",
+          "line": "Technically, it was this morning. Oh two hundred, to be exact."
+        },
+        {
+          "character": "PARIS",
+          "line": "So, where's my mail, hmm? Oh, don't tell me you lost another one."
+        },
+        {
+          "character": "KIM",
+          "line": "I didn't lose last month's datastream. It never arrived."
+        },
+        {
+          "character": "PARIS",
+          "line": "So what's the hold up this time?"
+        },
+        {
+          "character": "KIM",
+          "line": "The transmission was a little larger than usual. It's jammed the transceivers. Seven and I have been up all night trying to download it."
+        },
+        {
+          "character": "PARIS",
+          "line": "Harry, we can't go another month without mail."
+        },
+        {
+          "character": "KIM",
+          "line": "Oh, you won't. Trust me."
+        }
+      ],
+      "location": "Corridor"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "KIM",
+          "line": "Any luck?"
+        },
+        {
+          "character": "SEVEN",
+          "line": "I've determined why we've been having difficulties."
+        },
+        {
+          "character": "KIM",
+          "line": "A hologram. The transceiver wasn't designed to store photonic data. We have to get it out of there before it degrades."
+        },
+        {
+          "character": "SEVEN",
+          "line": "What are you doing?"
+        },
+        {
+          "character": "KIM",
+          "line": "Tying the transceiver into the holodeck's pattern buffer."
+        },
+        {
+          "character": "SEVEN",
+          "line": "Those systems aren't compatible. You'll depolarize the relays."
+        },
+        {
+          "character": "KIM",
+          "line": "Starfleet wouldn't have sent this hologram if it weren't important. I'm sure it's worth a few burnt-out relays."
+        },
+        {
+          "character": "SEVEN",
+          "line": "You've overloaded the transceiver."
+        },
+        {
+          "character": "KIM",
+          "line": "But I saved the hologram."
+        }
+      ],
+      "location": "Astrometrics lab"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "KIM",
+          "line": "Okay, ready when you are."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Lieutenant Barclay?"
+        },
+        {
+          "character": "REG",
+          "line": "Er, no, but he did design me. I'm a walking, talking, problem-solving interactive hologram. You can call me Reg."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "It's nice to meet you, Reg."
+        },
+        {
+          "character": "REG",
+          "line": "The pleasure's mine, Captain. Harry, Seven. I've been looking forward to working with you."
+        },
+        {
+          "character": "KIM",
+          "line": "You have?"
+        },
+        {
+          "character": "REG",
+          "line": "I know, you were expecting letters from your friends and families. But with any luck, in a few days you'll be seeing them face to face. In three days' time, Voyager is going to be passing through grid eight nine eight, a sector of space occupied by a red giant star."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Sensors detected it a few days ago."
+        },
+        {
+          "character": "REG",
+          "line": "At this very moment, a team of Federation scientists is orbiting another red giant in the Alpha Quadrant. In seventy two hours, they will target its magnetic field with a verteron beam, creating a geodesic fold. As a result, a corresponding fold will open here in the magnetic field of the red giant that Voyager is approaching. Space will be punctured at these two points, creating a gateway between the Quadrants."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Our shields are useless against geodesic radiation. We toyed with the idea of opening a fold ourselves, but it didn't take us long to realize we wouldn't survive the trip."
+        },
+        {
+          "character": "REG",
+          "line": "A lot's happened in geodesic research since you've been gone. I've brought schematics for shield upgrades to deflect the radiation from the fold. Medical technology to provide additional protection for the crew. We've thought of everything."
+        },
+        {
+          "character": "SEVEN",
+          "line": "Starfleet never mentioned you in any of the previous datastreams."
+        },
+        {
+          "character": "REG",
+          "line": "Well, Lieutenant Barclay didn't want to raise your hopes in case the plan didn't live up to expectations. But lucky for you, it surpassed them."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "What about last month's datastream? Why didn't we receive it?"
+        },
+        {
+          "character": "REG",
+          "line": "Pathfinder tried sending an unabridged version of my program. It overloaded the MIDAS array."
+        },
+        {
+          "character": "KIM",
+          "line": "The only casualty this time was our transceiver."
+        },
+        {
+          "character": "REG",
+          "line": "If everything goes according to plan, you won't need it anymore."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "If we were to attempt this, you'd need access to areas of this ship that aren't equipped with holo-emitters."
+        },
+        {
+          "character": "REG",
+          "line": "Not to worry, Captain. We've thought of that too."
+        }
+      ],
+      "location": "Holodeck"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "EMH",
+          "line": "My emitter is your emitter."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Computer, transfer the Barclay hologram to the mobile emitter."
+        },
+        {
+          "character": "COMPUTER",
+          "line": "Transfer complete."
+        },
+        {
+          "character": "REG",
+          "line": "On Lieutenant Barclay's behalf, I thank you."
+        },
+        {
+          "character": "EMH",
+          "line": "Just make sure to return it when we get to Earth. Ha, ha, ha."
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "We're ready for you in the briefing room, Captain.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Excuse us, Doctor."
+        },
+        {
+          "character": "EMH",
+          "line": "I'm sure you have a full day planned, but if you have time, I'd like to get better acquainted."
+        },
+        {
+          "character": "REG",
+          "line": "I'll stop by the first chance I get."
+        },
+        {
+          "character": "EMH",
+          "line": "You'll know where to find me."
+        }
+      ],
+      "location": "Sickbay"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "REG",
+          "line": "This is our destination, red giant two three one three nine. The geodesic fold will open here, adjacent to the giant's northern pole. We'll have exactly sixteen seconds to take Voyager through."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Reg has prepared a list of assignments. I expect you to give him your full cooperation."
+        },
+        {
+          "character": "REG",
+          "line": "Mister Paris, you have the honor of plotting our course to Big Red Two. Lieutenant Torres, Commander Tuvok, I'd like you to start working on shield modifications. And in the meantime, I've asked the Doctor to prepare a series of inoculations that will protect the crew from the radiation."
+        },
+        {
+          "character": "SEVEN",
+          "line": "We should diskuss the possibility of applying Borg technology to Starfleet's plan. It could increase our chances of success."
+        },
+        {
+          "character": "REG",
+          "line": "I look forward to hearing your thoughts."
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "How long before the transceiver's back online?"
+        },
+        {
+          "character": "KIM",
+          "line": "No more than two hours."
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "Then we'll still have time to transmit a response to Starfleet."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Keep us posted. I'd like to send Lieutenant Barclay a little thank you note for all his hard work."
+        },
+        {
+          "character": "NEELIX",
+          "line": "Is there anything I can do, Reg?"
+        },
+        {
+          "character": "REG",
+          "line": "Your job might be the most important one of all. The next few days will be difficult. The crew will be working extremely long hours. They're going to need an experienced morale officer to keep their spirits high."
+        },
+        {
+          "character": "NEELIX",
+          "line": "You can count on me."
+        },
+        {
+          "character": "REG",
+          "line": "If this were any other ship, I'd have my doubts. But this is Voyager, the Miracle Ship. You've survived six years in the Delta Quadrant. You've evaded the Kazon, the Vidiians, the Hirogen, you've even faced down the Borg. I think, with a little teamwork, we can pull off one more miracle and take Voyager home."
+        }
+      ],
+      "location": "Briefing room"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "KIM",
+          "line": "I can taste my mom's cooking."
+        },
+        {
+          "character": "PARIS",
+          "line": "Don't forget what the hologram said, Harry. This is Voyager."
+        },
+        {
+          "character": "KIM",
+          "line": "The Miracle Ship."
+        },
+        {
+          "character": "PARIS",
+          "line": "Not when it comes to getting us home. Our shortcuts have a tendency to blow up in our faces."
+        },
+        {
+          "character": "KIM",
+          "line": "That's looking on the bright side."
+        },
+        {
+          "character": "PARIS",
+          "line": "Remember Arturis and his quantum slipstream drive? Or how about the telepathic pitcher plant that made us think we were on our way home right before it tried to eat the ship?"
+        },
+        {
+          "character": "KIM",
+          "line": "This is the best opportunity we've had."
+        },
+        {
+          "character": "PARIS",
+          "line": "Yeah, which is why we'll probably end up in the Gamma Quadrant."
+        },
+        {
+          "character": "KIM",
+          "line": "I'll remind you of that when we get back to Earth."
+        },
+        {
+          "character": "PARIS",
+          "line": "Don't say I didn't warn you."
+        }
+      ],
+      "location": "Corridor"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "SEVEN",
+          "line": "When a Borg Cube enters a transwarp conduit, it's subject to extreme gravimetric shear. To compensate, the Borg project a structural integrity field ahead of the Cube. By modifying Voyager's deflector, we may be able to do the same."
+        },
+        {
+          "character": "REG",
+          "line": "No one at Starfleet would have thought of this. So, what's the first thing you're going to do when you get back?"
+        },
+        {
+          "character": "SEVEN",
+          "line": "Begin repairs to Voyager. Even with the structural integrity field, it's likely the ship will suffer significant damage."
+        },
+        {
+          "character": "REG",
+          "line": "Yes, of course, but there are people at Utopia Planitia who will take care of that. There are Engineering crews and technicians."
+        },
+        {
+          "character": "SEVEN",
+          "line": "Are you implying that I'm superfluous?"
+        },
+        {
+          "character": "REG",
+          "line": "Of course not. I only meant that, if you're too busy working, you're going to miss all the welcome home hoopla. Starfleet's planning parties, ceremonies and speeches. There's, there's a ticker-tape parade down Market Street."
+        },
+        {
+          "character": "SEVEN",
+          "line": "I won't be attending any of those events."
+        },
+        {
+          "character": "REG",
+          "line": "But, you'd be the guest of honor."
+        },
+        {
+          "character": "SEVEN",
+          "line": "When I first arrived on Voyager, it was difficult for the crew to accept me. I'm anticipating a similar welcome on Earth."
+        },
+        {
+          "character": "REG",
+          "line": "You don't have any idea, do you? I didn't mention this earlier. I didn't want to hurt anybody's feelings. You are the one who people are most looking forward to seeing."
+        },
+        {
+          "character": "SEVEN",
+          "line": "That's difficult to believe."
+        },
+        {
+          "character": "REG",
+          "line": "Why?"
+        },
+        {
+          "character": "SEVEN",
+          "line": "I was Borg."
+        },
+        {
+          "character": "REG",
+          "line": "Exactly. You were Borg. But you escaped, and despite incredible odds, you managed to reclaim your humanity. No one's ever done that before. You're famous."
+        },
+        {
+          "character": "SEVEN",
+          "line": "Fame is irrelevant."
+        },
+        {
+          "character": "REG",
+          "line": "Maybe. But you've given hope to everyone who's ever lost somebody to the Borg. You've inspired millions."
+        },
+        {
+          "character": "SEVEN",
+          "line": "If you think my participation in the hoopla would be beneficial to others, then I'll comply."
+        }
+      ],
+      "location": "Astrometrics lab"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "HARKINS",
+          "line": "Is this going to take much longer, Reg?"
+        },
+        {
+          "character": "BARCLAY",
+          "line": "Well, the computer is still inputting data. That should do it. Right. Computer, display the intended trajectory of the datastream transmitted at oh six hundred this morning. Now, display the actual trajectory, and identify the termination point."
+        },
+        {
+          "character": "COMPUTER",
+          "line": "The trajectory ends in sector three nine five."
+        },
+        {
+          "character": "BARCLAY",
+          "line": "Four two, grid eight. Does that sound familiar? That's exactly where the datastream dissipated last month. There is something there. There is something preventing the datastream from reaching Voyager. Er, a micro-wormhole, a radiogenic field."
+        },
+        {
+          "character": "HARKINS",
+          "line": "Long range scans didn't pick up anything unusual."
+        },
+        {
+          "character": "BARCLAY",
+          "line": "Still, we could send a ship to investigate. We could confirm my theory."
+        },
+        {
+          "character": "HARKINS",
+          "line": "What about my theory, Reg? The hologram was too complex. It caused the datastreams to degrade before they reached their destination."
+        },
+        {
+          "character": "BARCLAY",
+          "line": "Well, to be honest I, I don't agree. The truth is, we don't know what happened to my hologram."
+        },
+        {
+          "character": "HARKINS",
+          "line": "Then let's stick to what we do know. For the second month in a row, we tried sending your hologram to Voyager. And for the second month in a row, it failed to get there."
+        },
+        {
+          "character": "BARCLAY",
+          "line": "And I want to know why, so it doesn't happen a third time."
+        },
+        {
+          "character": "HARKINS",
+          "line": "It won't happen a third time. Next month we go back to standard transmissions."
+        },
+        {
+          "character": "BARCLAY",
+          "line": "But a holographic matrix carries twice the information, interact with the crew."
+        },
+        {
+          "character": "HARKINS",
+          "line": "Admiral Paris wants us to send more practical data, like tactical upgrades, letters from the crew's families."
+        },
+        {
+          "character": "BARCLAY",
+          "line": "But, Pete."
+        },
+        {
+          "character": "HARKINS",
+          "line": "Sending a hologram to Voyager was a good idea but it didn't work. It's time to move on."
+        },
+        {
+          "character": "HARKINS",
+          "line": "And this is the research lab where most of Pathfinder's homework gets done. All the datastreams are compressed here and then transmitted all the way to the Delta Quadrant. Your teacher tells me you've been studying some of the Delta Quadrant races that Voyager's described to us. Who can name one for me?"
+        },
+        {
+          "character": "GIRL 1",
+          "line": "The Talaxians."
+        },
+        {
+          "character": "HARKINS",
+          "line": "Very good."
+        },
+        {
+          "character": "GIRL 2",
+          "line": "The Ocampa."
+        },
+        {
+          "character": "HARKINS",
+          "line": "That's right. Who else?"
+        },
+        {
+          "character": "BARCLAY",
+          "line": "The Borg! The Borg! They assimilated my hologram. That's how it disappeared."
+        },
+        {
+          "character": "HARKINS",
+          "line": "Reg, now isn't the time."
+        },
+        {
+          "character": "BARCLAY",
+          "line": "Look at this. Last month, a spacecraft passed within twenty meters of the MIDAS array just hours before we sent the first hologram."
+        },
+        {
+          "character": "HARKINS",
+          "line": "What is your point?"
+        },
+        {
+          "character": "BARCLAY",
+          "line": "Twenty meters. It's awfully close, don't you think?"
+        },
+        {
+          "character": "HARKINS",
+          "line": "Ensign."
+        },
+        {
+          "character": "BARCLAY",
+          "line": "The Borg must have sent a transwarp probe to steal my hologram. Maybe because they, they thought that it was carrying anti-Borg technology to Voyager."
+        },
+        {
+          "character": "HARKINS",
+          "line": "It wasn't the Borg, Reg."
+        },
+        {
+          "character": "BARCLAY",
+          "line": "Then it was the Romulans using a cloaked ship. They've been curious about Voyager for years."
+        },
+        {
+          "character": "HARKINS",
+          "line": "That is enough."
+        },
+        {
+          "character": "BARCLAY",
+          "line": "But, you"
+        },
+        {
+          "character": "HARKINS",
+          "line": "I am sorry your idea didn't work, but I can't have you going off on a tangent. Not again. You'll be no good to Pathfinder or Voyager. How much leave do you have saved up?"
+        },
+        {
+          "character": "BARCLAY",
+          "line": "Not that much. Fifty, maybe sixty days."
+        },
+        {
+          "character": "HARKINS",
+          "line": "Take a week. Go home. Try to relax."
+        },
+        {
+          "character": "BARCLAY",
+          "line": "But, Pete!"
+        },
+        {
+          "character": "HARKINS",
+          "line": "No! That was not a request, Lieutenant."
+        },
+        {
+          "character": "BARCLAY",
+          "line": "Maybe I'll go somewhere. Take a vacation."
+        },
+        {
+          "character": "HARKINS",
+          "line": "Now that is the most sensible thing I've heard you say all day. My cousin has a beach house in Malaysia. She'd be happy to lend it to you."
+        },
+        {
+          "character": "BARCLAY",
+          "line": "Thanks, er, but I have someplace else in mind."
+        }
+      ],
+      "location": "Pathfinder lab"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "REG",
+          "line": "You, you wanted to see me?"
+        },
+        {
+          "character": "EMH",
+          "line": "I've been going over the instructions from Starfleet Medical. As far as I can tell, their new inoculations aren't much different from run-of-the-mill radiogenic vaccines. I don't think they'll protect the crew."
+        },
+        {
+          "character": "REG",
+          "line": "Did you try incorporating the synthetic antigen?"
+        },
+        {
+          "character": "EMH",
+          "line": "Yes, but it only improved the resistance by ten percent."
+        },
+        {
+          "character": "REG",
+          "line": "That should be enough."
+        },
+        {
+          "character": "EMH",
+          "line": "We can't afford to be cavalier, Reg. If these treatments don't work, the crew will wind up liquefied."
+        },
+        {
+          "character": "REG",
+          "line": "You're forgetting that the inoculations aren't designed to work alone. They were intended to work in combination with the shield modifications. It's the medicinal ying to the shield's yang."
+        },
+        {
+          "character": "EMH",
+          "line": "And what if the yang doesn't work?"
+        },
+        {
+          "character": "REG",
+          "line": "That's not going to happen. Now, listen. Lieutenant Barclay has a special affinity for this crew. So do I. I promise you, we won't let them down."
+        },
+        {
+          "character": "EMH",
+          "line": "Of course you won't. Tell me, do you also share Lieutenant Barclay's affinity for golf?"
+        },
+        {
+          "character": "REG",
+          "line": "We have identical handicaps."
+        },
+        {
+          "character": "EMH",
+          "line": "Well, if you're not busy later, perhaps we can play nine holes on the holodeck."
+        },
+        {
+          "character": "REG",
+          "line": "It's tempting, but I still have a few dozen progress reports to look over."
+        },
+        {
+          "character": "EMH",
+          "line": "In that case, maybe you could look over them here so that I could borrow the mobile emitter."
+        },
+        {
+          "character": "REG",
+          "line": "Providing that the rest of the day's work goes smoothly, consider it yours."
+        },
+        {
+          "character": "EMH",
+          "line": "I thought it was mine."
+        }
+      ],
+      "location": "Sickbay"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "REG",
+          "line": "Commander Chakotay tells me that you finished repairing the transceiver."
+        },
+        {
+          "character": "TORRES",
+          "line": "We were just about to send the captain's reply to Lieutenant Barclay."
+        },
+        {
+          "character": "REG",
+          "line": "Do you have enough room to include a progress report from me?"
+        },
+        {
+          "character": "KIM",
+          "line": "I think we can squeeze that in."
+        },
+        {
+          "character": "REG",
+          "line": "Computer, download Barclay hologram file zero one to the datablock."
+        },
+        {
+          "character": "COMPUTER",
+          "line": "Download complete."
+        },
+        {
+          "character": "TORRES",
+          "line": "Transmitting."
+        }
+      ],
+      "location": "Astrometrics lab"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "GEGIS",
+          "line": "It's about time."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Greetings from the Delta Quadrant, Lieutenant. You'll be happy to know that your hologram reached us safely.",
+          "modifier": "screen"
+        },
+        {
+          "character": "GEGIS",
+          "line": "Get to the important part."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "And we've begun to implement Starfleet's.",
+          "modifier": "screen"
+        },
+        {
+          "character": "REG",
+          "line": "In accordance with the seventy fourth Rule of Acquisition, Knowledge Equals Profit, I've enclosed the specifications you've requested. See you soon.",
+          "modifier": "screen"
+        },
+        {
+          "character": "NUNK",
+          "line": "Oh, look at those hands. I bet she gives great oo-mox."
+        },
+        {
+          "character": "YEGGIE",
+          "line": "Too bad she'll be dead when she gets here."
+        },
+        {
+          "character": "GEGIS",
+          "line": "Forget the hands. Show me the nanoprobes. How many are there?"
+        },
+        {
+          "character": "YEGGIE",
+          "line": "Three point six million."
+        },
+        {
+          "character": "NUNK",
+          "line": "That's twenty percent more than we predicted."
+        },
+        {
+          "character": "YEGGIE",
+          "line": "Three point six million nanoprobes at six bars of latinum per unit that comes to."
+        },
+        {
+          "character": "GEGIS",
+          "line": "More profit than we ever dreamed of."
+        }
+      ],
+      "location": "Ferengi ship"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "WAITER",
+          "line": "Your drinks, sir."
+        },
+        {
+          "character": "BARCLAY",
+          "line": "Thank you."
+        },
+        {
+          "character": "BARCLAY",
+          "line": "Something to drink, ma'am?"
+        },
+        {
+          "character": "TROI",
+          "line": "I'm fine, thanks."
+        },
+        {
+          "character": "BARCLAY",
+          "line": "Are you sure? I've got a chocolate passion punch with your name on it."
+        },
+        {
+          "character": "TROI",
+          "line": "Reg?"
+        },
+        {
+          "character": "BARCLAY",
+          "line": "Surprise! Where's Commander Riker?"
+        },
+        {
+          "character": "TROI",
+          "line": "He doesn't arrive until Friday."
+        },
+        {
+          "character": "BARCLAY",
+          "line": "Oh."
+        },
+        {
+          "character": "TROI",
+          "line": "The question is, what are you doing here?"
+        },
+        {
+          "character": "BARCLAY",
+          "line": "I just had some time off. Your letter made this place sound fun. I just thought I'd join you."
+        },
+        {
+          "character": "TROI",
+          "line": "Do you have any idea how inappropriate it is to follow your therapist on vacation."
+        },
+        {
+          "character": "BARCLAY",
+          "line": "Please, they might be watching."
+        },
+        {
+          "character": "TROI",
+          "line": "Who?"
+        },
+        {
+          "character": "BARCLAY",
+          "line": "The Borg, the Romulans. I'm not sure yet. Please, Deanna, I need your help."
+        },
+        {
+          "character": "BARCLAY",
+          "line": "Commander Harkins is usually willing to hear me out, but this time he wouldn't even look at my evidence"
+        },
+        {
+          "character": "TROI",
+          "line": "I'm not sure any of this qualifies as evidence, Reg."
+        },
+        {
+          "character": "BARCLAY",
+          "line": "You don't believe me, either. You think I'm imagining this, just like Pete."
+        },
+        {
+          "character": "TROI",
+          "line": "The last time I saw you, you were laughing, telling jokes. You even sang a duet with Data."
+        },
+        {
+          "character": "BARCLAY",
+          "line": "It was Commander LaForge's birthday party."
+        },
+        {
+          "character": "TROI",
+          "line": "You were a completely different Reg that night."
+        },
+        {
+          "character": "BARCLAY",
+          "line": "Well, things were better then."
+        },
+        {
+          "character": "TROI",
+          "line": "How?"
+        },
+        {
+          "character": "BARCLAY",
+          "line": "Well, for one thing I'd just finished the matrix for my hologram and I showed Geordi some of the specs that night. He said he was proud of me."
+        },
+        {
+          "character": "TROI",
+          "line": "What else?"
+        },
+        {
+          "character": "BARCLAY",
+          "line": "Oh, the Dragons had just won the pennant, and I was still seeing Leosa."
+        },
+        {
+          "character": "TROI",
+          "line": "You mentioned her at the party. A teacher, right?"
+        },
+        {
+          "character": "BARCLAY",
+          "line": "Everything was going so well. My job, my personal life. I started to think maybe my luck was changing."
+        },
+        {
+          "character": "TROI",
+          "line": "And then you lost your hologram."
+        },
+        {
+          "character": "BARCLAY",
+          "line": "Admiral Paris was furious. He said we'd wasted a transmission to Voyager. Pete talked him into giving us another chance, but there was so much pressure after that."
+        },
+        {
+          "character": "TROI",
+          "line": "Did it put a strain on your relationship with Leosa?"
+        },
+        {
+          "character": "BARCLAY",
+          "line": "She left me."
+        },
+        {
+          "character": "TROI",
+          "line": "Oh, I'm sorry."
+        },
+        {
+          "character": "BARCLAY",
+          "line": "I went to her apartment. She was gone. No furniture, no forwarding address. Bot even a Dear Reg letter."
+        },
+        {
+          "character": "TROI",
+          "line": "That must have been very upsetting."
+        },
+        {
+          "character": "BARCLAY",
+          "line": "It was just my luck, right? Lose the hologram and the girl."
+        },
+        {
+          "character": "TROI",
+          "line": "Tell me more about Leosa."
+        },
+        {
+          "character": "BARCLAY",
+          "line": "Oh, you would have liked her. She was sweet, she was thoughtful, and such a wonderful listener. She would let me, let me go on for hours."
+        },
+        {
+          "character": "TROI",
+          "line": "What did you talk about?"
+        },
+        {
+          "character": "BARCLAY",
+          "line": "Oh, she was fascinated by my work at Pathfinder. And, er, she didn't, er, she didn't find any of it boring. She made me feel interesting."
+        },
+        {
+          "character": "TROI",
+          "line": "What do you feel when we talk about her now?"
+        },
+        {
+          "character": "BARCLAY",
+          "line": "Oh, sadness, I suppose. A little confusion."
+        },
+        {
+          "character": "TROI",
+          "line": "I'm sensing something else. Something beneath the surface."
+        },
+        {
+          "character": "BARCLAY",
+          "line": "What?"
+        },
+        {
+          "character": "TROI",
+          "line": "I think you might be sensing it, too."
+        },
+        {
+          "character": "BARCLAY",
+          "line": "What?"
+        },
+        {
+          "character": "TROI",
+          "line": "Suspicion, Reg. You suspect her of something."
+        },
+        {
+          "character": "BARCLAY",
+          "line": "I suspect that she's happier without me if that's what you mean."
+        },
+        {
+          "character": "TROI",
+          "line": "You think Leosa had something to do with your disappearing hologram but you can't bring yourself to admit it. That's why you're projecting your suspicions onto others. You're in denial. If there's any chance Leosa did breach Pathfinder security, you need to tell your superiors."
+        },
+        {
+          "character": "BARCLAY",
+          "line": "I'd be humiliated again."
+        },
+        {
+          "character": "TROI",
+          "line": "I'll go with you."
+        },
+        {
+          "character": "BARCLAY",
+          "line": "What about your vacation?"
+        },
+        {
+          "character": "TROI",
+          "line": "I'll be back here before Will arrives."
+        },
+        {
+          "character": "BARCLAY",
+          "line": "Do you really think it's possible that Leosa stole my hologram?"
+        },
+        {
+          "character": "TROI",
+          "line": "Why would she do that?"
+        },
+        {
+          "character": "BARCLAY",
+          "line": "Maybe, maybe she wanted something to remember me by. Captain's log, supplemental. With the help of the Barclay hologram, we've nearly completed the modifications to Voyager. As for Reg, he's becoming extremely popular with the crew."
+        }
+      ],
+      "location": "Beach"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "JANEWAY",
+          "line": "Imagine my disappointment when I diskovered that Lieutenant Paris had eaten all the scrambled eggs. It was pure, unadulterated gluttony. Gastronomic conduct unbecoming a Starfleet officer. He knows it's my favorite breakfast, but he ate them anyway. We have an egg-mergency here, people. I want to know what you plan to do about it."
+        },
+        {
+          "character": "NEELIX",
+          "line": "Maybe I can replicate some more, Captain. REG as"
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Do it!"
+        },
+        {
+          "character": "REG",
+          "line": "Thank you, thank you, thank you, thank you."
+        },
+        {
+          "character": "TORRES",
+          "line": "He's not only programd to get us home, he does impressions."
+        },
+        {
+          "character": "REG",
+          "line": "You see, it's always bothered Lieutenant Barclay that he was uncomfortable in large groups, so he designed me to be the life of the party."
+        },
+        {
+          "character": "KIM",
+          "line": "Hope he's not too shy. He's going to have a hundred and fifty new friends when we get back home."
+        },
+        {
+          "character": "PARIS",
+          "line": "If we get home, Harry. If."
+        },
+        {
+          "character": "KIM",
+          "line": "Pardon my friend here. He's convinced we're destined to live out our days in the Delta Quadrant. REG as"
+        },
+        {
+          "character": "TUVOK",
+          "line": "Your pessimism is illogical. Perhaps a mind-meld would help to alleviate your concern."
+        },
+        {
+          "character": "EMH",
+          "line": "Sickbay to Reg. Please report to Holodeck two.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "REG",
+          "line": "On my way."
+        }
+      ],
+      "location": "Mess hall"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "EMH",
+          "line": "I was starting to think you'd forgotten our tee-time. So, what'll it be? Pebble Beach at sunset? The back nine at Gedi Prime?"
+        },
+        {
+          "character": "REG",
+          "line": "Actually Doctor, I'm afraid something's come up. I'm going to meet with Seven of Nine."
+        },
+        {
+          "character": "EMH",
+          "line": "Oh, really?"
+        },
+        {
+          "character": "REG",
+          "line": "She going to teach me to play Kadis-kot."
+        },
+        {
+          "character": "EMH",
+          "line": "Ah, Reg. When I agreed to lend you my emitter, I did it with the understanding that you needed it for official business."
+        },
+        {
+          "character": "REG",
+          "line": "What's your point?"
+        },
+        {
+          "character": "EMH",
+          "line": "My point is that board games aren't exactly crucial to your mission."
+        },
+        {
+          "character": "REG",
+          "line": "And I suppose golf is?"
+        },
+        {
+          "character": "EMH",
+          "line": "Reg?"
+        },
+        {
+          "character": "REG",
+          "line": "I'll tell you what. When we get back home we'll play as much golf as you like. Until then let's try to keep out of each other's hair. What do you say?"
+        }
+      ],
+      "location": "Holodeck"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "PARIS",
+          "line": "State your name for the record."
+        },
+        {
+          "character": "LEOSA",
+          "line": "Leosa. L e o s a."
+        },
+        {
+          "character": "ADMIRAL PARIS",
+          "line": "Occupation?"
+        },
+        {
+          "character": "LEOSA",
+          "line": "Dabo girl."
+        },
+        {
+          "character": "ADMIRAL PARIS",
+          "line": "Dabo?"
+        },
+        {
+          "character": "LEOSA",
+          "line": "It's a Ferengi game. I work aboard one of their casino ships."
+        },
+        {
+          "character": "BARCLAY",
+          "line": "You, you told me you were a teacher."
+        },
+        {
+          "character": "ADMIRAL PARIS",
+          "line": "Is this true?"
+        },
+        {
+          "character": "LEOSA",
+          "line": "Sometimes I'm a teacher, sometimes I'm a Bajoran Vedek. Whatever the customer wants."
+        },
+        {
+          "character": "ADMIRAL PARIS",
+          "line": "Lieutenant Barclay tells me that the two of you spent a significant amount of time together. Did he ever diskuss his work at Pathfinder with you?"
+        },
+        {
+          "character": "LEOSA",
+          "line": "He wouldn't talk about anything else. It was always holograms this and cyclic pulsars that."
+        },
+        {
+          "character": "ADMIRAL PARIS",
+          "line": "And who did you share that information with?"
+        },
+        {
+          "character": "LEOSA",
+          "line": "Nobody."
+        },
+        {
+          "character": "ADMIRAL PARIS",
+          "line": "I have a theory. Would you like to hear it?"
+        },
+        {
+          "character": "LEOSA",
+          "line": "Why not?"
+        },
+        {
+          "character": "ADMIRAL PARIS",
+          "line": "I think that some of your Ferengi friends found a way to profit from Lieutenant Barclay's work. I think you were encouraged to get close to him. And when you had all the information you needed, you left."
+        },
+        {
+          "character": "LEOSA",
+          "line": "I left Reg for one simple reason. He's boring."
+        },
+        {
+          "character": "LEOSA",
+          "line": "Don't tell me you never noticed."
+        },
+        {
+          "character": "TROI",
+          "line": "With the Admiral's permission, I'd like a moment alone with Leosa."
+        },
+        {
+          "character": "ADMIRAL PARIS",
+          "line": "I don't think therapy is what this woman needs, Counselor."
+        },
+        {
+          "character": "TROI",
+          "line": "Five minutes, Admiral."
+        },
+        {
+          "character": "ADMIRAL PARIS",
+          "line": "Five minutes."
+        },
+        {
+          "character": "TROI",
+          "line": "Did you know I'm a Betazoid? I'm empathic, which means I know when people are lying. Tell me, what's the longest you've ever been incarcerated?"
+        },
+        {
+          "character": "LEOSA",
+          "line": "You can't send me to prison, Counselor. I didn't do anything wrong."
+        },
+        {
+          "character": "TROI",
+          "line": "Maybe not, but I can order you held for psychiatric observation. Extended observation."
+        },
+        {
+          "character": "LEOSA",
+          "line": "I may not be a Betazoid but I work a Dabo table, and I know when somebody's bluffing."
+        },
+        {
+          "character": "TROI",
+          "line": "Try me."
+        }
+      ],
+      "location": "Admiral Paris's office"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TROI",
+          "line": "You were correct, Admiral. The Ferengi did steal Reg's hologram. Twice. This is the ship you need to look for."
+        },
+        {
+          "character": "LEOSA",
+          "line": "That's it. That's Nunk's ship."
+        },
+        {
+          "character": "HARKINS",
+          "line": "Nunk?"
+        },
+        {
+          "character": "LEOSA",
+          "line": "My employer."
+        },
+        {
+          "character": "HARKINS",
+          "line": "Scans indicate they've been in the vicinity of that star for the last forty three hours. Why?"
+        },
+        {
+          "character": "LEOSA",
+          "line": "I don't know."
+        },
+        {
+          "character": "TROI",
+          "line": "She's telling the truth. For once."
+        },
+        {
+          "character": "ADMIRAL PARIS",
+          "line": "The Ferengi wouldn't have stolen the hologram if they didn't think it was valuable. They're probably waiting to rendezvous with a buyer. Are there any Starfleet ships in that area?"
+        },
+        {
+          "character": "HARKINS",
+          "line": "The Carolina's point seven light years away. At maximum warp it could reach them in two hours."
+        },
+        {
+          "character": "ADMIRAL PARIS",
+          "line": "Open a channel."
+        },
+        {
+          "character": "HARKINS",
+          "line": "Computer, open a secure channel to the Carolina."
+        },
+        {
+          "character": "ADMIRAL PARIS",
+          "line": "Tell Captain Peterson to adjust his course immediately."
+        },
+        {
+          "character": "BARCLAY",
+          "line": "Was everything that happened between us a lie?"
+        },
+        {
+          "character": "LEOSA",
+          "line": "Not everything. Just the parts where I expressed affection for you."
+        },
+        {
+          "character": "BARCLAY",
+          "line": "Oh."
+        },
+        {
+          "character": "LEOSA",
+          "line": "Oh, if it makes any difference, it wasn't personal. It was just business."
+        },
+        {
+          "character": "BARCLAY",
+          "line": "What exactly is a broken heart worth these days, hmm?"
+        },
+        {
+          "character": "LEOSA",
+          "line": "Ten percent."
+        },
+        {
+          "character": "BARCLAY",
+          "line": "Of what?"
+        },
+        {
+          "character": "LEOSA",
+          "line": "Profits from the nanoprobes."
+        },
+        {
+          "character": "BARCLAY",
+          "line": "Nanoprobes? Borg nanoprobes?"
+        },
+        {
+          "character": "LEOSA",
+          "line": "Gegis says they're worth two billion times their weight in latinum."
+        }
+      ],
+      "location": "Pathfinder lab"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "JANEWAY",
+          "line": "I don't think I quite understand the problem, Doctor."
+        },
+        {
+          "character": "EMH",
+          "line": "Are you aware that he's been doing impressions of you?"
+        },
+        {
+          "character": "JANEWAY",
+          "line": "You should hear his Tuvok. It's eerie."
+        },
+        {
+          "character": "EMH",
+          "line": "It's disrespectful."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "What do you want me to do, deactivate him?"
+        },
+        {
+          "character": "EMH",
+          "line": "Just long enough to run a diagnostic of his program. His recent behavior may be indicative of a more serious problem."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "I haven't seen any evidence of that."
+        },
+        {
+          "character": "EMH",
+          "line": "Of course not. In front of you he's all smiles. But I've seen him be rude and careless. Two traits the real Lieutenant Barclay never exhibited."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "I know the real Barclay is a friend of yours, and I'm sorry if the holographic version hasn't lived up to your expectations, but that's hardly reason to deactivate him."
+        },
+        {
+          "character": "EMH",
+          "line": "Are the lives of a hundred and fifty crewmen reason enough? Maybe you're right. Maybe I am overreacting. But what if I'm right? We're less than a light year away from the geodesic fold. Do you want to risk being led through it by a malfunctioning hologram?"
+        }
+      ],
+      "location": "Sickbay"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "REG",
+          "line": "Captain, you saved us a comm. call."
+        },
+        {
+          "character": "SEVEN",
+          "line": "We're ready to bring the enhanced shielding online."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Good work. I need a moment alone with Reg. Your program has been running continuously for how many hours now?"
+        },
+        {
+          "character": "REG",
+          "line": "Fifty six hours, eleven minutes and one seconds."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "I'd like to run a diagnostic of your matrix. Make sure you haven't suffered any degradation over the last few days."
+        },
+        {
+          "character": "REG",
+          "line": "This isn't the, er, Doctor's idea, is it?"
+        },
+        {
+          "character": "JANEWAY",
+          "line": "He expressed some concern for your well being, yes."
+        },
+        {
+          "character": "REG",
+          "line": "I bet he did."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Believe me, Reg, the crew and I are grateful for everything you've done, but we need to take every precaution."
+        },
+        {
+          "character": "REG",
+          "line": "I understand perfectly. If the ship's Doctor thinks I need a check-up, who am I to argue?"
+        }
+      ],
+      "location": "Astrometrics lab"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TROI",
+          "line": "Why are you hiding in the corner?"
+        },
+        {
+          "character": "BARCLAY",
+          "line": "I'm not hiding. I'm working on a way to foil the Ferengi's' plans."
+        },
+        {
+          "character": "TROI",
+          "line": "Reg, there's nothing left to foil. The Carolina will have them in custody within the hour."
+        },
+        {
+          "character": "BARCLAY",
+          "line": "Leosa said the Ferengi were going to be selling Borg nanoprobes."
+        },
+        {
+          "character": "TROI",
+          "line": "What does that have to do with Voyager?"
+        },
+        {
+          "character": "BARCLAY",
+          "line": "They have a Borg crewman. Think about it. The Ferengi stole the original Barclay hologram a month ago. That gave them time to reprogram it and then smuggle it to Voyager in the next transmission."
+        },
+        {
+          "character": "TROI",
+          "line": "Reprogram it to do what?"
+        },
+        {
+          "character": "BARCLAY",
+          "line": "Steal Seven of Nine's nanoprobes. For all we know he could be dissecting her right now."
+        },
+        {
+          "character": "TROI",
+          "line": "What would the Ferengi want with assimilation technology?"
+        },
+        {
+          "character": "BARCLAY",
+          "line": "Oh, nanoprobes aren't just for assimilating. They can reanimate necrotic tissue, slow down the aging process. They'd be priceless for the Ferengi."
+        },
+        {
+          "character": "TROI",
+          "line": "Reg, even if the Ferengi did reprogram your hologram to steal the nanoprobes, how would they get their hands on them? Voyager's thirty thousand light years away."
+        },
+        {
+          "character": "BARCLAY",
+          "line": "I haven't figured that part out yet. Maybe they diskovered a wormhole, or a subspace corridor."
+        },
+        {
+          "character": "TROI",
+          "line": "Have you mentioned any of this to Commander Harkins?"
+        },
+        {
+          "character": "BARCLAY",
+          "line": "Not yet. I can't. If I don't bring him hard evidence, he'll just think that I'm fantasizing. For the time being, we need to keep this between us."
+        }
+      ],
+      "location": "Pathfinder lab"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "REG",
+          "line": "That tickles, Lieutenant."
+        },
+        {
+          "character": "TORRES",
+          "line": "Sorry, Reg. We're almost finished."
+        },
+        {
+          "character": "EMH",
+          "line": "Have you identified any problems yet?"
+        },
+        {
+          "character": "TORRES",
+          "line": "I've gone over his entire matrix. He's working perfectly."
+        },
+        {
+          "character": "REG",
+          "line": "Maybe I'm not the one who needs a diagnostic, hmm?"
+        },
+        {
+          "character": "EMH",
+          "line": "I'm a big enough hologram to admit when I'm wrong. I'm sorry I doubted you."
+        },
+        {
+          "character": "REG",
+          "line": "If anyone is owed an apology, it's you. I should've been more sensitive. Friends?"
+        },
+        {
+          "character": "EMH",
+          "line": "Friends."
+        },
+        {
+          "character": "REG",
+          "line": "Now that that's out of the way. Captain, what do you say we get this ship back to Earth?"
+        }
+      ],
+      "location": "Holodeck"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "GEGIS",
+          "line": "It's time. Initiate the geodesic pulse."
+        }
+      ],
+      "location": "Ferengi ship"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "PARIS",
+          "line": "Would someone care to tell me what that is?"
+        },
+        {
+          "character": "BARCLAY",
+          "line": "It's a geodesic fold, Admiral. That's how they're going to get the nanoprobes."
+        }
+      ],
+      "location": "Pathfinder lab"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "PARIS",
+          "line": "Two million kilometers and closing, Captain."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Take us to one quarter impulse."
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "Bridge to Astrometrics. Bring the enhanced shielding"
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "CHAKOTAY",
+          "line": "Online.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "REG",
+          "line": "Aye, Commander. What's wrong?"
+        },
+        {
+          "character": "SEVEN",
+          "line": "The fold contains three radiation types we didn't account for. The shield modifications are not enough."
+        },
+        {
+          "character": "REG",
+          "line": "The shields were modified to work in combination with the inoculations. We'll be fine."
+        },
+        {
+          "character": "SEVEN",
+          "line": "If the shields fail, the inoculations will be irrelevant. Astrometrics to the bridge."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Go ahead.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "JANEWAY",
+          "line": "What is it, Seven? REG as",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "SEVEN",
+          "line": "There was a problem, Captain, but I've corrected it."
+        }
+      ],
+      "location": "Astrometrics lab"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "BARCLAY",
+          "line": "I'm using the MIDAS array to tap into the Ferengi ship's sensors. They're receiving telemetry through the fold."
+        },
+        {
+          "character": "HARKINS",
+          "line": "If I', reading this correctly, Voyager's headed right for it."
+        },
+        {
+          "character": "ADMIRAL PARIS",
+          "line": "Captain Janeway knows better than to take her ship into such a dangerous anomaly."
+        },
+        {
+          "character": "BARCLAY",
+          "line": "If the Ferengi did alter my hologram, then it might, might be possible for him to have taken over the ship."
+        },
+        {
+          "character": "HARKINS",
+          "line": "One hologram against an entire crew?"
+        },
+        {
+          "character": "BARCLAY",
+          "line": "He may have found a way to incapacitate the crew, or to commandeer the ship's systems, but either way we've got to get the Carolina to close the fold."
+        },
+        {
+          "character": "ADMIRAL PARIS",
+          "line": "The Carolina isn't equipped to do that."
+        },
+        {
+          "character": "BARCLAY",
+          "line": "Then they'll have to commandeer the Ferengi ship and do it from there."
+        },
+        {
+          "character": "HARKINS",
+          "line": "The Carolina's still half a light year away. They won't make it in time."
+        },
+        {
+          "character": "TROI",
+          "line": "Can we transmit a message? Warn Voyager?"
+        },
+        {
+          "character": "BARCLAY",
+          "line": "Not through a geodesic fold."
+        }
+      ],
+      "location": "Pathfinder lab"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "NUNK",
+          "line": "Our own starship, with multiphasic shielding and a gold-pressed latinum hull."
+        },
+        {
+          "character": "YEGGIE",
+          "line": "We'll have enough left over to buy a fleet of casino ships."
+        },
+        {
+          "character": "GEGIS",
+          "line": "I have a better idea. Lobe enlargements, heh, heh, heh."
+        },
+        {
+          "character": "NUNK",
+          "line": "Shush."
+        },
+        {
+          "character": "YEGGIE",
+          "line": "Ooh, someone's hailing us."
+        },
+        {
+          "character": "GEGIS",
+          "line": "Who?"
+        },
+        {
+          "character": "YEGGIE",
+          "line": "I can't tell. There's too much interference."
+        },
+        {
+          "character": "GEGIS",
+          "line": "Answer it."
+        },
+        {
+          "character": "YEGGIE",
+          "line": "It's the hologram."
+        },
+        {
+          "character": "NUNK",
+          "line": "You said it was impossible to communicate through the fold."
+        },
+        {
+          "character": "GEGIS",
+          "line": "I thought it was. I guess I did a better job of reprogramming the hologram than I thought."
+        },
+        {
+          "character": "BARCLAY",
+          "line": "We must close the geodesic fold immediately. Captain Janeway has found out about our plan.",
+          "modifier": "screen"
+        },
+        {
+          "character": "NUNK",
+          "line": "If that's true, then why is she still headed for the fold?"
+        },
+        {
+          "character": "BARCLAY",
+          "line": "Because she",
+          "modifier": "screen"
+        }
+      ],
+      "location": "Ferengi ship"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "BARCLAY",
+          "line": "Found a way to protect her ship."
+        }
+      ],
+      "location": "Pathfinder holodeck - Voyager engineering"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "GEGIS",
+          "line": "Impossible."
+        },
+        {
+          "character": "BARCLAY",
+          "line": "You don't know Janeway. She's uncanny when it comes to shields.",
+          "modifier": "screen"
+        }
+      ],
+      "location": "Ferengi ship"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "BARCLAY",
+          "line": "She's furious. She said she was going to kill"
+        }
+      ],
+      "location": "Pathfinder holodeck - Voyager engineering"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "BARCLAY",
+          "line": "Whoever tried to harm her crew. I strongly suggest you abort the mission.",
+          "modifier": "screen"
+        },
+        {
+          "character": "NUNK",
+          "line": "What should we do?"
+        },
+        {
+          "character": "GEGIS",
+          "line": "Go to warp before Janeway makes it through."
+        },
+        {
+          "character": "BARCLAY",
+          "line": "No, you mustn't. Voyager has Borg interquadrental",
+          "modifier": "screen"
+        }
+      ],
+      "location": "Ferengi ship"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "BARCLAY",
+          "line": "Warp drives and Hirogen hunting sensors"
+        }
+      ],
+      "location": "Pathfinder holodeck - Voyager engineering"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "BARCLAY",
+          "line": "And Vidiian Phage torpedoes. No matter where you run, Voyager will find you. Your only hope is to close the fold.",
+          "modifier": "screen"
+        }
+      ],
+      "location": "Ferengi ship"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "HARKINS",
+          "line": "Harkins to Holodeck one."
+        },
+        {
+          "character": "BARCLAY",
+          "line": "Go ahead, Pete.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "HARKINS",
+          "line": "It worked, Reg."
+        }
+      ],
+      "location": "Pathfinder lab"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "HARKINS",
+          "line": "They've started to close the fold.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "BARCLAY",
+          "line": "Computer, end program."
+        }
+      ],
+      "location": "Pathfinder holodeck - Voyager engineering"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "KIM",
+          "line": "Something's wrong, Captain."
+        },
+        {
+          "character": "REG",
+          "line": "Astrometrics to the bridge. Why are we stopping?"
+        },
+        {
+          "character": "JANEWAY",
+          "line": "The fold's collapsing, Reg. We didn't make it in time."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "REG",
+          "line": "It's not too late if we remodulate the shields."
+        }
+      ],
+      "location": "Astrometrics lab"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "JANEWAY",
+          "line": "I appreciate your determination, but we can't risk it. You did everything you could."
+        },
+        {
+          "character": "KIM",
+          "line": "Captain, someone just initiated a site-to-site transport."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Who?"
+        },
+        {
+          "character": "KIM",
+          "line": "Seven and Reg. They've beamed to an escape pod."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Bridge to Seven of Nine. What's going on?"
+        },
+        {
+          "character": "KIM",
+          "line": "The pod's been launched."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Put a tractor beam on it."
+        },
+        {
+          "character": "TUVOK",
+          "line": "There is too much interference from the fold."
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "Harry, can you get a transporter lock?"
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "GEGIS",
+          "line": "What now?"
+        },
+        {
+          "character": "YEGGIE",
+          "line": "There's something coming from the fold."
+        },
+        {
+          "character": "GEGIS",
+          "line": "Voyager?"
+        },
+        {
+          "character": "YEGGIE",
+          "line": "No, it's too small."
+        },
+        {
+          "character": "NUNK",
+          "line": "A Phage torpedo?"
+        },
+        {
+          "character": "GEGIS",
+          "line": "Raise shields. Brace for impact."
+        },
+        {
+          "character": "YEGGIE",
+          "line": "It's an escape pod."
+        },
+        {
+          "character": "GEGIS",
+          "line": "Maybe the hologram sent us the drone."
+        },
+        {
+          "character": "NUNK",
+          "line": "Ooo."
+        },
+        {
+          "character": "GEGIS",
+          "line": "Check what's in there."
+        },
+        {
+          "character": "YEGGIE",
+          "line": "Nothing. No Borg corpse. No nanoprobes."
+        },
+        {
+          "character": "NUNK",
+          "line": "No profit. Captain's log, supplemental. Seven of Nine has recovered from her injuries, and Reg has been deactivated. Until we finish analyzing his program, his motivations remain a mystery."
+        }
+      ],
+      "location": "Ferengi ship"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "PARIS",
+          "line": "Making first contact with a new lifeform?"
+        },
+        {
+          "character": "KIM",
+          "line": "Mom's apple pie. Neelix thought a little home cooking might cheer me up."
+        },
+        {
+          "character": "TORRES",
+          "line": "And?"
+        },
+        {
+          "character": "KIM",
+          "line": "I haven't worked up the courage to taste it yet. Have you figured out what went wrong with Reg?"
+        },
+        {
+          "character": "TORRES",
+          "line": "Well, Seven thinks our proximity to the fold degraded his matrix, but if you ask me, it was a recursive error in his logic subroutine."
+        },
+        {
+          "character": "KIM",
+          "line": "Not bad. But it would have tasted better in San Francisco."
+        },
+        {
+          "character": "PARIS",
+          "line": "If it'll make you feel any better, I'll let you in on a little secret. I was on the bridge this morning when we received a hail from an Iconian scientist. He claims to have a trans-dimensional gateway that can take us anywhere in the galaxy."
+        },
+        {
+          "character": "KIM",
+          "line": "I'm not that gullible."
+        },
+        {
+          "character": "TORRES",
+          "line": "It's true. I was there. The captain doesn't want us to get our hopes up, but personally I think we'll be home by the end of the week."
+        },
+        {
+          "character": "KIM",
+          "line": "Are you serious?"
+        },
+        {
+          "character": "TORRES",
+          "line": "You were right about him."
+        }
+      ],
+      "location": "Mess hall"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "BARCLAY",
+          "line": "Computer, installl Barclay Security Protocol twenty one alpha."
+        },
+        {
+          "character": "COMPUTER",
+          "line": "Installlation complete."
+        },
+        {
+          "character": "REG",
+          "line": "Identify yourself!"
+        },
+        {
+          "character": "BARCLAY",
+          "line": "Computer, deactivate Barclay program. I'm sorry. I've been programming him with new security precautions so he can't be stolen again."
+        },
+        {
+          "character": "TROI",
+          "line": "You seem to be off to a good start."
+        },
+        {
+          "character": "BARCLAY",
+          "line": "I thought you'd be back at the beach."
+        },
+        {
+          "character": "TROI",
+          "line": "Will and I decided to spend the rest of our vacation in Tiburon. We were wondering if you're free for dinner tonight."
+        },
+        {
+          "character": "BARCLAY",
+          "line": "I, er, I wouldn't want to be a third nacelle."
+        },
+        {
+          "character": "TROI",
+          "line": "Not possible. Will's bringing a friend for you. Her name's Maril. You're going to adore her."
+        },
+        {
+          "character": "BARCLAY",
+          "line": "I'd like to, but I, I still have, er, dozens of protocols to installl. Maybe next time."
+        },
+        {
+          "character": "TROI",
+          "line": "Look Reg, I know Leosa hurt you, but hiding inside a hologrid isn't the answer. You need to get out, meet new people."
+        },
+        {
+          "character": "BARCLAY",
+          "line": "This Maril wouldn't happen to be a Dabo girl, by any chance?"
+        },
+        {
+          "character": "TROI",
+          "line": "She's a teacher, actually. A real one."
+        },
+        {
+          "character": "BARCLAY",
+          "line": "Are you sure?"
+        },
+        {
+          "character": "TROI",
+          "line": "Don't worry, Reg. We've taken security precautions."
+        }
+      ],
+      "location": "Pathfinder holodeck"
+    }
+  ],
+  "schedule": {
+    "episode": 6,
+    "number": 152,
+    "season": 7
+  },
+  "stardate": "54208.3",
+  "title": "Inside Man"
+}

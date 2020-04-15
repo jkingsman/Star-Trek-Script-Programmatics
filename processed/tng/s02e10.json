@@ -1,0 +1,2054 @@
+{
+  "airdate": 603954000,
+  "scenes": [
+    {
+      "dialogue": [
+        {
+          "character": "DATA",
+          "line": "Sir, we are approaching Klavdia Three."
+        },
+        {
+          "character": "PICARD",
+          "line": "Take us to impulse power."
+        },
+        {
+          "character": "GIBSON",
+          "line": "Aye, sir. Impulse power."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "LAFORGE",
+          "line": "Bridge, this is Engineering."
+        },
+        {
+          "character": "PICARD",
+          "line": "Yes, Lieutenant.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Now that we're out of warp, I'd like to use this time to make some routine adjustments on the deuterium control conduit. We're overdue."
+        }
+      ],
+      "location": "Engineering"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "PICARD",
+          "line": "How much time will these adjustments require, Lieutenant?"
+        },
+        {
+          "character": "LAFORGE",
+          "line": "A couple of hours, sir.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "RIKER",
+          "line": "Proceed, Lieutenant La Forge. Standard orbit, Ensign."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "LAFORGE",
+          "line": "Wes, I'm going to need an SCM model three, from ship's stores. Can you handle that?"
+        },
+        {
+          "character": "WESLEY",
+          "line": "Right away."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "All right."
+        }
+      ],
+      "location": "Engineering"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "PICARD",
+          "line": "Magnify, Mister Worf. Hardly an inviting planet, even for a research establishment."
+        },
+        {
+          "character": "TROI",
+          "line": "I would have thought the inhabitants of Daled Four would send a future leader to a more hospitable environment."
+        },
+        {
+          "character": "WORF",
+          "line": "For some, security is more important than comfort."
+        },
+        {
+          "character": "TROI",
+          "line": "Yes, but sixteen years."
+        },
+        {
+          "character": "WORF",
+          "line": "Captain, we're being hailed."
+        },
+        {
+          "character": "PICARD",
+          "line": "Hailing frequencies, Mister Worf."
+        },
+        {
+          "character": "WORF",
+          "line": "Open."
+        },
+        {
+          "character": "PICARD",
+          "line": "This is Captain Picard of the USS Enterprise."
+        },
+        {
+          "character": "ANYA",
+          "line": "I am Anya of",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "DATA",
+          "line": "Sir, the planet's troposphere is distorting our signal."
+        },
+        {
+          "character": "PICARD",
+          "line": "Can you clean that up, Mister Worf?"
+        },
+        {
+          "character": "WORF",
+          "line": "I'll try. Now."
+        },
+        {
+          "character": "PICARD",
+          "line": "This is Picard of the Enterprise. Please will you repeat your message?"
+        },
+        {
+          "character": "ANYA",
+          "line": "I am Anya. Have you come for Salia of Daled Four?",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "PICARD",
+          "line": "That is correct."
+        },
+        {
+          "character": "ANYA",
+          "line": "What species are you?",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "PICARD",
+          "line": "Human."
+        },
+        {
+          "character": "ANYA",
+          "line": "Excellent. Bring us aboard. That is all.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "RIKER",
+          "line": "Friendly, isn't she?"
+        },
+        {
+          "character": "PICARD",
+          "line": "Friendly or not, Salia has the rank of head of state, so we will treat her and Anya accordingly. Number One, Mister Worf, let's go greet our visitors. You have the Bridge, Mister Data."
+        },
+        {
+          "character": "DATA",
+          "line": "Aye, sir."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "PICARD",
+          "line": "Welcome to the Enterprise. I'm Captain Picard."
+        },
+        {
+          "character": "ANYA",
+          "line": "This is Salia of Daled Four."
+        },
+        {
+          "character": "SALIA",
+          "line": "I didn't feel a thing. Is that normal when one is transported, Captain?"
+        },
+        {
+          "character": "PICARD",
+          "line": "Oh, yes, it is."
+        },
+        {
+          "character": "SALIA",
+          "line": "Those must be the matter energy conversion controls. May I take a look?"
+        },
+        {
+          "character": "PICARD",
+          "line": "Yes, of course."
+        },
+        {
+          "character": "RIKER",
+          "line": "I can arrange for a tour of the ship, if you'd like."
+        },
+        {
+          "character": "SALIA",
+          "line": "Oh, I'd love that."
+        },
+        {
+          "character": "ANYA",
+          "line": "No, that will not be necessary. Just show us to our quarters, Captain Picard."
+        },
+        {
+          "character": "PICARD",
+          "line": "Very well."
+        }
+      ],
+      "location": "Transporter room"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "PICARD",
+          "line": "We're accommodating you in quarters normally reserved for Starfleet admiralty. I'm sure you'll find them quite comfortable."
+        },
+        {
+          "character": "SALIA",
+          "line": "That's a superconducting magnet, isn't it?"
+        },
+        {
+          "character": "WESLEY",
+          "line": "Yes It's an SCM model. How did you know that?"
+        },
+        {
+          "character": "SALIA",
+          "line": "Study, for the last sixteen years it is all I could"
+        },
+        {
+          "character": "ANYA",
+          "line": "Please, Salia, walk ahead with me."
+        },
+        {
+          "character": "SALIA",
+          "line": "Better be careful. Those can rip the iron right out of your blood cells."
+        },
+        {
+          "character": "WESLEY",
+          "line": "Commander, who is she?"
+        },
+        {
+          "character": "RIKER",
+          "line": "I think she's a governess."
+        },
+        {
+          "character": "WESLEY",
+          "line": "No! The girl."
+        },
+        {
+          "character": "RIKER",
+          "line": "I don't know if she'll have time for you, Wes. She's destined to rule an entire world."
+        }
+      ],
+      "location": "Corridor"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "WESLEY",
+          "line": "Come in."
+        },
+        {
+          "character": "DATA",
+          "line": "You wanted to see me?"
+        },
+        {
+          "character": "WESLEY",
+          "line": "Yes. Data, the girl who came on board."
+        },
+        {
+          "character": "DATA",
+          "line": "Salia of Daled Four."
+        },
+        {
+          "character": "WESLEY",
+          "line": "Who is she?"
+        },
+        {
+          "character": "DATA",
+          "line": "Little is known. She was born on Daled Four. Her parents were from opposite sides in a civil war which has lasted for centuries. They both died shortly after her birth. A Federation ship brought her and her governess to Klavdia Three so that she could be raised in a neutral environment."
+        },
+        {
+          "character": "WESLEY",
+          "line": "And now she's returning?"
+        },
+        {
+          "character": "DATA",
+          "line": "It is hoped she will unite the factions and bring peace."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Ensign Crusher, report. Are you all right?",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "WESLEY",
+          "line": "Geordi? Yeah, I'm fine. I just"
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Wes, we're waiting for that magnet.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "WESLEY",
+          "line": "I'm on my way."
+        }
+      ],
+      "location": "Wesley's quarters"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "RIKER",
+          "line": "Captain, we've broken orbit and laid in a course for Daled Four. We will remain on impulse power until Lieutenant La Forge completes his adjustments."
+        },
+        {
+          "character": "PICARD",
+          "line": "Mister Worf, have our passenger's accommodations met with their approval?"
+        },
+        {
+          "character": "WORF",
+          "line": "I doubt if anything ever meets with that woman's approval, sir."
+        },
+        {
+          "character": "TROI",
+          "line": "Captain, I'm concerned our new passengers. Their emotions do not fit who they are and what they're doing."
+        },
+        {
+          "character": "PICARD",
+          "line": "Are you suggesting they're not who they say they are?"
+        },
+        {
+          "character": "TROI",
+          "line": "Actually no, it's more like they're not what they say they are."
+        },
+        {
+          "character": "PICARD",
+          "line": "Picard to Salia's quarters."
+        },
+        {
+          "character": "SALIA",
+          "line": "Yes?",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "PICARD",
+          "line": "May we turn on the viewer?"
+        },
+        {
+          "character": "SALIA",
+          "line": "Yes, of course.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "PICARD",
+          "line": "Are your quarters satisfactory?"
+        },
+        {
+          "character": "SALIA",
+          "line": "Yes, very. Tell me, Captain, who was the young man I met before?",
+          "modifier": "screen"
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "PICARD",
+          "line": "That was Ensign Wesley Crusher.",
+          "modifier": "screen"
+        },
+        {
+          "character": "SALIA",
+          "line": "Thank you for checking on us, Captain. I only hope our quarters on Daled Four will be this luxurious."
+        },
+        {
+          "character": "PICARD",
+          "line": "Please feel free to contact me at any time. Picard out.",
+          "modifier": "screen"
+        }
+      ],
+      "location": "Salia's quarters"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TROI",
+          "line": "What I sensed before hasn't changed."
+        },
+        {
+          "character": "DATA",
+          "line": "What puzzles me, Captain, is how she is expected to bring peace to Daled Four. Its inhabitants have been fighting throughout their recorded history."
+        },
+        {
+          "character": "PICARD",
+          "line": "What do we know about the cause of these wars?"
+        },
+        {
+          "character": "DATA",
+          "line": "Only that it is the difference between night and day."
+        },
+        {
+          "character": "RIKER",
+          "line": "Data, you used a colloquialism."
+        },
+        {
+          "character": "DATA",
+          "line": "Did I? What I meant, sir, is that Daled Four rotates only once per revolution. Therefore one side is constantly dark, and the other side constantly light. One might surmise that the two hemispheres have developed disparate cultures, which is a major cause of most wars."
+        },
+        {
+          "character": "PICARD",
+          "line": "This child is supposed to bring them together."
+        },
+        {
+          "character": "RIKER",
+          "line": "She seems too delicate for such a task."
+        },
+        {
+          "character": "WORF",
+          "line": "Do not be fooled by her looks. The body is just a shell."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "SALIA",
+          "line": "How can I be a leader if I don't know anything about my people?"
+        },
+        {
+          "character": "GIRL",
+          "line": "You will lead because you are accepted by both sides. And because it is in your blood."
+        },
+        {
+          "character": "SALIA",
+          "line": "What is expected of me once I'm there?"
+        },
+        {
+          "character": "GIRL",
+          "line": "You will know."
+        },
+        {
+          "character": "SALIA",
+          "line": "How?"
+        },
+        {
+          "character": "GIRL",
+          "line": "You just will. Salia, you must arrive with an open mind, without preconceived ideas of the worlds you will find or the people on either side."
+        },
+        {
+          "character": "SALIA",
+          "line": "It's very frustrating."
+        },
+        {
+          "character": "GIRL",
+          "line": "You feel the weight of so much responsibility, you're not sure you'll live up to everyone's expectations."
+        },
+        {
+          "character": "SALIA",
+          "line": "It's not only that. Nobody's even asked me if this is something I want."
+        },
+        {
+          "character": "GIRL",
+          "line": "It is your duty."
+        },
+        {
+          "character": "SALIA",
+          "line": "And I have no choice."
+        },
+        {
+          "character": "GIRL",
+          "line": "It won't be as bad as you think. In fact, it could be quite wonderful. Besides, you are the last and only chance."
+        },
+        {
+          "character": "SALIA",
+          "line": "Don't you think I'm going to need more than instinct to do whatever is expected of me on Daled Four?"
+        }
+      ],
+      "location": "Salia's quarters"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "LAFORGE",
+          "line": "Energy depletion level?"
+        },
+        {
+          "character": "COMPUTER",
+          "line": "Point oh four percent and increasing."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Wesley? Wesley, you haven't found that defocused area yet?"
+        },
+        {
+          "character": "WESLEY",
+          "line": "I'm looking."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Yeah, I see the way you're looking. Wesley!"
+        },
+        {
+          "character": "WESLEY",
+          "line": "What? Sorry. I've got my mind on something."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "I can see that."
+        },
+        {
+          "character": "WESLEY",
+          "line": "It's this girl they beamed up, Geordi. She's perfect. Absolutely perfect."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Now I understand why you can't concentrate."
+        },
+        {
+          "character": "WESLEY",
+          "line": "I'll do better."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Okay."
+        },
+        {
+          "character": "COMPUTER",
+          "line": "Warning, resonant field applied."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "What is it? What happened?"
+        },
+        {
+          "character": "WESLEY",
+          "line": "Nothing. I had it on the wrong setting."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "I suppose it had to happen to you. It usually does at about this age."
+        },
+        {
+          "character": "WESLEY",
+          "line": "What usually does?"
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Glands erupting with hormones. It happens to all of us."
+        },
+        {
+          "character": "WESLEY",
+          "line": "Just because I said that I think she's interesting"
+        },
+        {
+          "character": "LAFORGE",
+          "line": "You said she was perfect. Come on down. You're no use around here for now. Come on down. Go talk to her. Use the ladder."
+        },
+        {
+          "character": "WESLEY",
+          "line": "That's silly, Geordi. But since you recommended it, how should I approach her? If she'll talk to me, what should I say?"
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Just say, 'Hi, I'm Wesley Crusher. I'd like to talk to you'."
+        },
+        {
+          "character": "WESLEY",
+          "line": "And then what?"
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Whatever occurs to you."
+        },
+        {
+          "character": "WESLEY",
+          "line": "What if nothing occurs to me?"
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Look, Wes, I don't have time for this. You're going to have to ask somebody else."
+        },
+        {
+          "character": "WESLEY",
+          "line": "Okay."
+        }
+      ],
+      "location": "Engineering"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "WORF",
+          "line": "That is how the Klingon lures a mate."
+        },
+        {
+          "character": "WESLEY",
+          "line": "Are you telling me to go yell at Salia?"
+        },
+        {
+          "character": "WORF",
+          "line": "No. Men do not roar. Women roar. Then they hurl heavy objects. And claw at you."
+        },
+        {
+          "character": "WESLEY",
+          "line": "What does the man do?"
+        },
+        {
+          "character": "WORF",
+          "line": "He reads love poetry. He ducks a lot."
+        },
+        {
+          "character": "WESLEY",
+          "line": "Worf, sounds like it works great for the Klingons, but I think I need to try something a little less dangerous."
+        },
+        {
+          "character": "WORF",
+          "line": "Then go to her door. Beg like a human."
+        },
+        {
+          "character": "DATA",
+          "line": "It should be that simple, Wesley. Judging by her appearance it is likely you and Salia are biologically compatible. Of course, there could be a difference in the histocompatibility complex in the cell membrane, but."
+        },
+        {
+          "character": "WESLEY",
+          "line": "Data, I want to meet her, not dissect her."
+        },
+        {
+          "character": "PICARD",
+          "line": "Picard to Salia's quarters."
+        },
+        {
+          "character": "SALIA",
+          "line": "Yes, Captain?",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "PICARD",
+          "line": "May I activate the viewer?"
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "SALIA",
+          "line": "Hurry, go, go."
+        },
+        {
+          "character": "SALIA",
+          "line": "Certainly."
+        },
+        {
+          "character": "PICARD",
+          "line": "We've invited Anya to take a tour of the ship. Maybe you would like to join her?"
+        },
+        {
+          "character": "SALIA",
+          "line": "Very much."
+        },
+        {
+          "character": "PICARD",
+          "line": "Your escort will with you shortly. Picard out."
+        },
+        {
+          "character": "SALIA",
+          "line": "I think I'll go on the tour."
+        },
+        {
+          "character": "SALIA",
+          "line": "Why can't I? This is the only chance I'll ever have to see a vessel like this."
+        },
+        {
+          "character": "ANYA",
+          "line": "No. You must remain here where it is safe. Salia, do an old woman a favor and obey me for the rest of this trip."
+        },
+        {
+          "character": "SALIA",
+          "line": "You are no more an old woman than I am a leader."
+        },
+        {
+          "character": "SALIA",
+          "line": "Yes. Come in."
+        },
+        {
+          "character": "WORF",
+          "line": "I'm here to escort you on a tour of the Enterprise."
+        },
+        {
+          "character": "ANYA",
+          "line": "Salia will remain behind. I will be right there. You are a leader. And I am older than you could ever imagine."
+        }
+      ],
+      "location": "Salia's quarters"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "WESLEY",
+          "line": "What should I say? How do I act? What do I do?"
+        },
+        {
+          "character": "RIKER",
+          "line": "Guinan, I need your help. Could you step over here a minute?"
+        },
+        {
+          "character": "GUINAN",
+          "line": "Sounds simple enough."
+        },
+        {
+          "character": "RIKER",
+          "line": "Now, the first words out of your mouth are the most important. You may want to start with something like this. You are the most beautiful woman in the galaxy. But that might not work."
+        },
+        {
+          "character": "GUINAN",
+          "line": "Yes. Yes, it would."
+        },
+        {
+          "character": "RIKER",
+          "line": "You don't know how long I've longed to tell you that."
+        },
+        {
+          "character": "GUINAN",
+          "line": "But you were afraid?"
+        },
+        {
+          "character": "RIKER",
+          "line": "Yes."
+        },
+        {
+          "character": "GUINAN",
+          "line": "Of me?"
+        },
+        {
+          "character": "RIKER",
+          "line": "Of us. Of what we might become."
+        },
+        {
+          "character": "WESLEY",
+          "line": "Commander?"
+        },
+        {
+          "character": "RIKER",
+          "line": "or that you might think that was a line."
+        },
+        {
+          "character": "GUINAN",
+          "line": "Maybe I do think it's a line."
+        },
+        {
+          "character": "RIKER",
+          "line": "Then you think I'm not sincere?"
+        },
+        {
+          "character": "GUINAN",
+          "line": "I didn't say that. There's nothing wrong with a line. It's like a knock at the door."
+        },
+        {
+          "character": "RIKER",
+          "line": "Then you're inviting me in?"
+        },
+        {
+          "character": "GUINAN",
+          "line": "I'm not sending you away."
+        },
+        {
+          "character": "RIKER",
+          "line": "That's more than I expected."
+        },
+        {
+          "character": "GUINAN",
+          "line": "Is it as much as you hoped?"
+        },
+        {
+          "character": "RIKER",
+          "line": "To hope is to recognize the possibility. I had only dreams."
+        },
+        {
+          "character": "GUINAN",
+          "line": "Dreams can be dangerous."
+        },
+        {
+          "character": "RIKER",
+          "line": "Not these dreams. I dream of a galaxy where your eyes are stars, and the universe worships the night."
+        },
+        {
+          "character": "GUINAN",
+          "line": "Careful. Putting me on a pedestal so high, you may not be able to reach me."
+        },
+        {
+          "character": "RIKER",
+          "line": "Then I'll learn how to fly. You are the heart in my day and the soul in my night."
+        },
+        {
+          "character": "WESLEY",
+          "line": "I don't think this is my style."
+        },
+        {
+          "character": "GUINAN",
+          "line": "Shut up, kid. Tell me more about my eyes."
+        }
+      ],
+      "location": "Ten forward"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "WORF",
+          "line": "This is the dilithium crystal chamber. Our Chief Engineer, Geordi La Forge."
+        },
+        {
+          "character": "ANYA",
+          "line": "What is that? What are you doing?"
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Nothing to be concerned about. Just performing some routine adjustments."
+        },
+        {
+          "character": "ANYA",
+          "line": "I wasn't aware that the deuterium control conduit required routine adjustments."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "I perform periodic inspections on all engineering systems."
+        },
+        {
+          "character": "ANYA",
+          "line": "In this case you seem to have found a malfunction."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "It's not a malfunction. It's simply that a minute defocused area has developed. It lowers our operating efficiency."
+        },
+        {
+          "character": "ANYA",
+          "line": "It could also lead to excess prion production."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Our computer would detect that."
+        },
+        {
+          "character": "ANYA",
+          "line": "Unless, of course, it too is malfunctioning."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Look, I really have to get this finished."
+        },
+        {
+          "character": "WORF",
+          "line": "Anya. Please come with me."
+        },
+        {
+          "character": "ANYA",
+          "line": "I will be back to check your progress."
+        }
+      ],
+      "location": "Engineering"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "GUARD",
+          "line": "Ensign Crusher, what can I do for you?"
+        },
+        {
+          "character": "WESLEY",
+          "line": "Nothing."
+        },
+        {
+          "character": "GUARD",
+          "line": "Is there a problem?"
+        },
+        {
+          "character": "WESLEY",
+          "line": "No."
+        },
+        {
+          "character": "SALIA",
+          "line": "Could you show me how to work the food dispenser?"
+        },
+        {
+          "character": "WESLEY",
+          "line": "Sure."
+        }
+      ],
+      "location": "Corridor"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "WESLEY",
+          "line": "Really, it's quite simple. You just tell the computer what you want and it prepares it for you."
+        },
+        {
+          "character": "SALIA",
+          "line": "Oh. What should I order?"
+        },
+        {
+          "character": "WESLEY",
+          "line": "I don't know. what do you like?"
+        },
+        {
+          "character": "SALIA",
+          "line": "I'd like something sweet."
+        },
+        {
+          "character": "WESLEY",
+          "line": "I know. Computer, Thalian chocolate mousse."
+        },
+        {
+          "character": "SALIA",
+          "line": "It's a wonderful sensation."
+        },
+        {
+          "character": "WESLEY",
+          "line": "On Thalos Seven they age the beans four hundred years."
+        },
+        {
+          "character": "SALIA",
+          "line": "You've been there?"
+        },
+        {
+          "character": "WESLEY",
+          "line": "It's one of my favorite places."
+        },
+        {
+          "character": "SALIA",
+          "line": "It must be fun to visit a planet like that."
+        },
+        {
+          "character": "WESLEY",
+          "line": "It's the best part of being on the Enterprise."
+        },
+        {
+          "character": "SALIA",
+          "line": "I've studied about some of them, but to see them, that would be wonderful. Tell me about some of the other places you've been."
+        },
+        {
+          "character": "WESLEY",
+          "line": "Oh, there's too many."
+        },
+        {
+          "character": "SALIA",
+          "line": "The only world I've known is Klavdia Three."
+        },
+        {
+          "character": "WESLEY",
+          "line": "It's about time we changed that."
+        },
+        {
+          "character": "SALIA",
+          "line": "How?"
+        },
+        {
+          "character": "WESLEY",
+          "line": "Come with me."
+        }
+      ],
+      "location": "Salia's quarters"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "PULASKI",
+          "line": "I'll be with you in a moment."
+        },
+        {
+          "character": "ANYA",
+          "line": "What's wrong with him?"
+        },
+        {
+          "character": "PULASKI",
+          "line": "Andronesian encephalitis."
+        },
+        {
+          "character": "ANYA",
+          "line": "That disease is contagious."
+        },
+        {
+          "character": "PULASKI",
+          "line": "Very unlikely. Our air filtering system can handle"
+        },
+        {
+          "character": "ANYA",
+          "line": "But there is a chance."
+        },
+        {
+          "character": "PULASKI",
+          "line": "If you mean mathematically, yes, the probability is not zero."
+        },
+        {
+          "character": "ANYA",
+          "line": "I cannot rely on your primitive technologies. Kill the patient!"
+        },
+        {
+          "character": "PULASKI",
+          "line": "What?"
+        },
+        {
+          "character": "ANYA",
+          "line": "Destroy the patient. Immediately!"
+        },
+        {
+          "character": "PULASKI",
+          "line": "Now, you calm down."
+        },
+        {
+          "character": "ANYA",
+          "line": "If you won't take action, then I will!"
+        },
+        {
+          "character": "PULASKI",
+          "line": "Security to Sickbay! Hurry!"
+        },
+        {
+          "character": "PICARD",
+          "line": "Wait! Hold your fire."
+        },
+        {
+          "character": "PICARD",
+          "line": "Worf!"
+        },
+        {
+          "character": "PULASKI",
+          "line": "What is she? Keep her away!"
+        },
+        {
+          "character": "ANYA",
+          "line": "Do not interfere!"
+        },
+        {
+          "character": "PULASKI",
+          "line": "She wants to kill Hennesey!"
+        },
+        {
+          "character": "ANYA",
+          "line": "His disease threatens Salia."
+        },
+        {
+          "character": "PULASKI",
+          "line": "Captain, there is no chance of contagion."
+        },
+        {
+          "character": "PICARD",
+          "line": "The situation is under control."
+        },
+        {
+          "character": "ANYA",
+          "line": "That's not good enough!"
+        },
+        {
+          "character": "PICARD",
+          "line": "Well, it will have to be."
+        },
+        {
+          "character": "ANYA",
+          "line": "Your powers are infinitesimal compared to mine."
+        },
+        {
+          "character": "PICARD",
+          "line": "Yes, that may be, but you will obey my orders. You are to remain in your quarters and in your present form for the rest of this voyage. Is that clear?"
+        },
+        {
+          "character": "ANYA",
+          "line": "Very."
+        },
+        {
+          "character": "PICARD",
+          "line": "Keep her under guard."
+        },
+        {
+          "character": "WORF",
+          "line": "Aye, sir."
+        },
+        {
+          "character": "WORF",
+          "line": "Wait for me. What kind of creature is she?"
+        },
+        {
+          "character": "PICARD",
+          "line": "I've never seen anything like her."
+        },
+        {
+          "character": "PULASKI",
+          "line": "There is mention in the galactic zoological catalog of a species called allasomorph, which is supposed to possess the power to alter their molecular structure into other life forms."
+        },
+        {
+          "character": "WORF",
+          "line": "Such a creature would make a perfect protector."
+        },
+        {
+          "character": "PICARD",
+          "line": "I want a Security team stationed outside Sickbay, Mister Worf."
+        },
+        {
+          "character": "WORF",
+          "line": "Aye, sir. Captain, what if Anya transforms?"
+        },
+        {
+          "character": "PICARD",
+          "line": "Improvise."
+        }
+      ],
+      "location": "Sickbay"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "SALIA",
+          "line": "Can a place so remarkable truly exist?"
+        },
+        {
+          "character": "WESLEY",
+          "line": "Yes. There are many more. All of them are different."
+        },
+        {
+          "character": "SALIA",
+          "line": "I've learned about them. That's all I did on Klavdia Three, was learn. I know so much, but I've seen so little."
+        },
+        {
+          "character": "WESLEY",
+          "line": "Think of what you have to look forward to. This is a great time to be alive."
+        },
+        {
+          "character": "SALIA",
+          "line": "For you."
+        },
+        {
+          "character": "WESLEY",
+          "line": "For both of us. This is all just beginning. We've only charted nineteen percent of our galaxy. The rest is out there, just waiting. Look what we've already diskovered."
+        },
+        {
+          "character": "SALIA",
+          "line": "I have never seen anything so wondrous."
+        },
+        {
+          "character": "WESLEY",
+          "line": "Wait. Computer, Rosseau Five."
+        },
+        {
+          "character": "SALIA",
+          "line": "It's breathtaking!"
+        },
+        {
+          "character": "WESLEY",
+          "line": "Yes."
+        },
+        {
+          "character": "SALIA",
+          "line": "And you've been to this place?"
+        },
+        {
+          "character": "WESLEY",
+          "line": "Someday, you'll visit Rosseau Five, and many other places, all more spectacular."
+        },
+        {
+          "character": "SALIA",
+          "line": "If only it were possible."
+        },
+        {
+          "character": "WESLEY",
+          "line": "Listen."
+        },
+        {
+          "character": "SALIA",
+          "line": "What is it?"
+        },
+        {
+          "character": "WESLEY",
+          "line": "In a moment, the harmonic resonance from the neutrino clouds will become synchronous."
+        },
+        {
+          "character": "SALIA",
+          "line": "It's so beautiful! It's like this place has a voice and is trying to speak to us. Thank you for sharing all of this with me."
+        },
+        {
+          "character": "WESLEY",
+          "line": "Someday, you'll see it all for yourself. Look over there."
+        }
+      ],
+      "location": "Holodeck"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "WORF",
+          "line": "Remain here. You are restricted to these quarters for the remainder of this voyage."
+        },
+        {
+          "character": "ANYA",
+          "line": "You are the protector of this ship, are you not?"
+        },
+        {
+          "character": "WORF",
+          "line": "I am in charge of Security."
+        },
+        {
+          "character": "ANYA",
+          "line": "You must understand my duties as well. If you confine me to this cell, I cannot protect Salia."
+        },
+        {
+          "character": "WORF",
+          "line": "There is no need for concern. She is safe on this ship."
+        },
+        {
+          "character": "ANYA",
+          "line": "You must understand that I cannot make such an assumption."
+        },
+        {
+          "character": "WORF",
+          "line": "You no longer have the choice. You have to trust me to protect her."
+        },
+        {
+          "character": "ANYA",
+          "line": "No. A true protector cannot have two charges. Your responsibility is to the ship. My duty is to Salia."
+        },
+        {
+          "character": "WORF",
+          "line": "My responsibility to the ship includes protecting Salia."
+        },
+        {
+          "character": "ANYA",
+          "line": "You know I'm stronger than you."
+        },
+        {
+          "character": "WORF",
+          "line": "I was unprepared."
+        },
+        {
+          "character": "ANYA",
+          "line": "You underestimated me in your Sickbay. That is usually fatal."
+        },
+        {
+          "character": "WORF",
+          "line": "Still, you are here, confined to your room."
+        },
+        {
+          "character": "ANYA",
+          "line": "I ceased my struggle by choice, not because of you or your Captain."
+        },
+        {
+          "character": "WORF",
+          "line": "I would have stopped you. If not me, someone else."
+        },
+        {
+          "character": "ANYA",
+          "line": "No, you cannot control me."
+        },
+        {
+          "character": "WORF",
+          "line": "We will see."
+        }
+      ],
+      "location": "Corridor"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "PICARD",
+          "line": "We've obviously brought a very dangerous life form aboard this ship. I want to minimize the chances of any incident."
+        },
+        {
+          "character": "TROI",
+          "line": "Whatever kind of life form Anya is, emotionally she's Salia's mother."
+        },
+        {
+          "character": "PICARD",
+          "line": "The most dangerous animal is a mother protecting her young."
+        },
+        {
+          "character": "TROI",
+          "line": "Exactly."
+        },
+        {
+          "character": "ANYA",
+          "line": "Captain, this is Anya.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "PICARD",
+          "line": "Yes?"
+        },
+        {
+          "character": "ANYA",
+          "line": "Salia is gone. Where is she?",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "Ready room"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "SALIA",
+          "line": "This has all been so wonderful. I'm not even sure it's real."
+        },
+        {
+          "character": "WESLEY",
+          "line": "Believe me, Ten Forward isn't an illusion."
+        },
+        {
+          "character": "SALIA",
+          "line": "Not that. I mean the way I feel."
+        },
+        {
+          "character": "GUINAN",
+          "line": "You won't find a better dish of chocolate anywhere."
+        },
+        {
+          "character": "SALIA",
+          "line": "I'm sure I won't."
+        },
+        {
+          "character": "WESLEY",
+          "line": "Is something wrong?"
+        },
+        {
+          "character": "SALIA",
+          "line": "I've had a great time being with you, Wesley."
+        },
+        {
+          "character": "WESLEY",
+          "line": "And that makes you sad?"
+        },
+        {
+          "character": "SALIA",
+          "line": "When I was on Klavdia Three, all I could think of was leaving that isolation. What makes me sad is having to face it again after seeing what else is possible."
+        },
+        {
+          "character": "WESLEY",
+          "line": "Is that what awaits you on Daled Four? Isolation?"
+        },
+        {
+          "character": "SALIA",
+          "line": "Yes."
+        },
+        {
+          "character": "WESLEY",
+          "line": "I thought you were going there to reunite two warring parties."
+        },
+        {
+          "character": "SALIA",
+          "line": "What else do you know?"
+        },
+        {
+          "character": "WESLEY",
+          "line": "Very little. The ship's computer doesn't have that much on Daled Four. How will you stop the fighting?"
+        },
+        {
+          "character": "SALIA",
+          "line": "I'm not certain. I only know I will have many responsibilities when I get there. Your language has no word for the position I'll hold. In many ways I'll have even less freedom than I did on Klavdia Three."
+        },
+        {
+          "character": "WESLEY",
+          "line": "You could stay."
+        },
+        {
+          "character": "SALIA",
+          "line": "On the Enterprise?"
+        },
+        {
+          "character": "WESLEY",
+          "line": "Why not?"
+        },
+        {
+          "character": "SALIA",
+          "line": "Because I can't."
+        },
+        {
+          "character": "GUINAN",
+          "line": "Just because a girl runs out, doesn't mean she doesn't wish you to follow."
+        }
+      ],
+      "location": "Ten forward"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "WESLEY",
+          "line": "What is it? What happened? Salia!"
+        },
+        {
+          "character": "SALIA",
+          "line": "Stay away from me! I'm sorry."
+        },
+        {
+          "character": "WESLEY",
+          "line": "I don't understand."
+        },
+        {
+          "character": "SALIA",
+          "line": "I can't stay here! I can't have this life! I want it more than anything, but I can't have it!"
+        },
+        {
+          "character": "WESLEY",
+          "line": "Salia, nothing is impossible."
+        },
+        {
+          "character": "SALIA",
+          "line": "Not for you."
+        },
+        {
+          "character": "WESLEY",
+          "line": "There's a way. I know there is!"
+        },
+        {
+          "character": "ANYA",
+          "line": "Leave her alone!"
+        },
+        {
+          "character": "PICARD",
+          "line": "Ensign, step away from her."
+        },
+        {
+          "character": "ANYA",
+          "line": "Come with me."
+        }
+      ],
+      "location": "Corridor"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "LAFORGE",
+          "line": "Energy depletion level?"
+        },
+        {
+          "character": "COMPUTER",
+          "line": "Zero."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "La Forge to bridge."
+        },
+        {
+          "character": "PICARD",
+          "line": "Yes, Lieutenant?",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "LAFORGE",
+          "line": "I've just completed my final adjustments. Thanks for the time. You now have warp engines available."
+        },
+        {
+          "character": "PICARD",
+          "line": "Very good.",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "Engineering"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "PICARD",
+          "line": "Number One, get us to Daled as quickly as possible."
+        },
+        {
+          "character": "RIKER",
+          "line": "Ensign Gibson, take us to warp eight point eight."
+        },
+        {
+          "character": "GIBSON",
+          "line": "Warp eight point eight, sir."
+        },
+        {
+          "character": "RIKER",
+          "line": "Estimated time?"
+        },
+        {
+          "character": "GIBSON",
+          "line": "Three hours, nine minutes."
+        },
+        {
+          "character": "PICARD",
+          "line": "Ensign Crusher, when you're finished with your duties in Engineering, report to my Ready Room."
+        },
+        {
+          "character": "WESLEY",
+          "line": "Yes, sir.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "PICARD",
+          "line": "You have the Bridge, Number One."
+        },
+        {
+          "character": "RIKER",
+          "line": "Aye, sir."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "PICARD",
+          "line": "The woman, Anya, is not what she appears to be. She is an allasomorph."
+        },
+        {
+          "character": "WESLEY",
+          "line": "A shape shifter?"
+        },
+        {
+          "character": "PICARD",
+          "line": "Yes. She's not only a governess, she's also the girl's protector. Now, I don't care to interfere in the personal relationships of those under my command, but in this case."
+        },
+        {
+          "character": "WESLEY",
+          "line": "You want me to stay away from Salia?"
+        },
+        {
+          "character": "PICARD",
+          "line": "Yes, I do. For the good of the ship and the safety of everyone on board."
+        },
+        {
+          "character": "WESLEY",
+          "line": "I will do as you ask."
+        }
+      ],
+      "location": "Ready room"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "SALIA",
+          "line": "Why won't you let me have a friend?"
+        },
+        {
+          "character": "ANYA",
+          "line": "It is my duty to protect you from danger."
+        },
+        {
+          "character": "SALIA",
+          "line": "There's no danger here."
+        },
+        {
+          "character": "ANYA",
+          "line": "There is always danger from one who is not your kind. Salia, he's confusing you. You're forgetting you responsibilities."
+        },
+        {
+          "character": "SALIA",
+          "line": "Whether or not I see Wesley is for me to decide."
+        },
+        {
+          "character": "ANYA",
+          "line": "It is not! I raised you, I protected you and I intend to deliver you to Daled Four!"
+        },
+        {
+          "character": "SALIA",
+          "line": "Maybe what you want doesn't matter any more."
+        },
+        {
+          "character": "ANYA",
+          "line": "Salia, please. I know it's difficult for you. But you must do what you are destined to do."
+        }
+      ],
+      "location": "Salia's quarters"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "PICARD",
+          "line": "Standard orbit."
+        },
+        {
+          "character": "GIBSON",
+          "line": "Aye, sir."
+        },
+        {
+          "character": "PICARD",
+          "line": "Hailing frequencies, Mister Worf."
+        },
+        {
+          "character": "WORF",
+          "line": "Captain, I am encountering the same interference we experienced on Klavdia Three."
+        },
+        {
+          "character": "DATA",
+          "line": "The troposphere appears to be distorting our signals. It is fascinating, Captain. Klavdia Three and Daled Four have almost identical atmospheres."
+        },
+        {
+          "character": "PICARD",
+          "line": "Magnify. Times twenty."
+        },
+        {
+          "character": "RIKER",
+          "line": "How could anyone exist in an environment so totally hostile toward human life?"
+        },
+        {
+          "character": "PICARD",
+          "line": "Mister Data, do whatever is necessary to override the interference. Let's complete our mission."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "WESLEY",
+          "line": "Come in. Salia! You shouldn't have come."
+        },
+        {
+          "character": "SALIA",
+          "line": "Do you want me to leave?"
+        },
+        {
+          "character": "WESLEY",
+          "line": "I didn't say that."
+        },
+        {
+          "character": "SALIA",
+          "line": "Then you want me to stay."
+        },
+        {
+          "character": "WESLEY",
+          "line": "Does Anya know you're here?"
+        },
+        {
+          "character": "SALIA",
+          "line": "That doesn't matter."
+        },
+        {
+          "character": "WESLEY",
+          "line": "I'm glad you came. I thought Anya would have kept you with her."
+        },
+        {
+          "character": "SALIA",
+          "line": "I have certain rights."
+        },
+        {
+          "character": "WESLEY",
+          "line": "So in other words, you slipped out."
+        },
+        {
+          "character": "SALIA",
+          "line": "While she was asleep. I hope you didn't get in trouble from your Captain."
+        },
+        {
+          "character": "WESLEY",
+          "line": "Oh, I haven't got in trouble yet."
+        },
+        {
+          "character": "SALIA",
+          "line": "Anya thought you would corrupt me."
+        },
+        {
+          "character": "WESLEY",
+          "line": "With my wild way of life?"
+        },
+        {
+          "character": "SALIA",
+          "line": "Maybe. With the normal things people do when they like each other."
+        },
+        {
+          "character": "SALIA",
+          "line": "Wesley, get out of here now."
+        },
+        {
+          "character": "WESLEY",
+          "line": "What's going on?"
+        },
+        {
+          "character": "SALIA",
+          "line": "Just go, please."
+        },
+        {
+          "character": "WESLEY",
+          "line": "Security, crew quarters!"
+        },
+        {
+          "character": "SALIA",
+          "line": "No! Anya, No!"
+        },
+        {
+          "character": "ANYA",
+          "line": "You should not have disobeyed me."
+        },
+        {
+          "character": "SALIA",
+          "line": "I had to."
+        },
+        {
+          "character": "ANYA",
+          "line": "I warned you to leave her alone."
+        },
+        {
+          "character": "PICARD",
+          "line": "Captain's log, stardate 42568.8. Since Anya's powers of transformation apparently gave her the ability to escape her guards unnoticed, we have sealed her quarters with a forcefield that will contain her no matter how small a form she may take.",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "Wesley's quarters"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "WORF",
+          "line": "Captain, I'm receiving an audio signal."
+        },
+        {
+          "character": "PICARD",
+          "line": "Audio on."
+        },
+        {
+          "character": "VOICE",
+          "line": "Come in Enterprise. This is Command Headquarters of Daled Four. We have been expecting you.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "DATA",
+          "line": "Sir, sensors indicate the communication originated from a terawatt source on the planet."
+        },
+        {
+          "character": "RIKER",
+          "line": "That's more power than our entire ship can generate."
+        },
+        {
+          "character": "DATA",
+          "line": "It is what is needed to penetrate the atmosphere."
+        },
+        {
+          "character": "RIKER",
+          "line": "Which means we lack the ability to respond, sir."
+        },
+        {
+          "character": "WORF",
+          "line": "Sir, there are beam-down coordinates encoded within the carrier signal."
+        },
+        {
+          "character": "PICARD",
+          "line": "Splendid."
+        },
+        {
+          "character": "RIKER",
+          "line": "I'll arrange for our guests to beam down."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "WORF",
+          "line": "Forcefield off."
+        }
+      ],
+      "location": "Corridor"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "SALIA",
+          "line": "Come in."
+        },
+        {
+          "character": "WORF",
+          "line": "We have arrived."
+        },
+        {
+          "character": "ANYA",
+          "line": "Salia will be with you in just a moment."
+        },
+        {
+          "character": "SALIA",
+          "line": "You're not going?"
+        },
+        {
+          "character": "ANYA",
+          "line": "No. My duties have been completed. I have done all that I could. I hope it was enough."
+        },
+        {
+          "character": "SALIA",
+          "line": "You've raised me well, and I thank you for that."
+        },
+        {
+          "character": "ANYA",
+          "line": "I would not have harmed the boy, I only wanted to frighten him."
+        },
+        {
+          "character": "SALIA",
+          "line": "I know."
+        },
+        {
+          "character": "ANYA",
+          "line": "You are ready for what awaits you and you will do well. I know that I have been hard on you, but I wanted to prepare you for anything you might be required to do."
+        },
+        {
+          "character": "SALIA",
+          "line": "Will I ever be able to leave Daled Four?"
+        },
+        {
+          "character": "ANYA",
+          "line": "Probably not. But anything is possible."
+        },
+        {
+          "character": "SALIA",
+          "line": "That's what Wes said."
+        },
+        {
+          "character": "ANYA",
+          "line": "I hope he's right."
+        },
+        {
+          "character": "SALIA",
+          "line": "Where will you go?"
+        },
+        {
+          "character": "ANYA",
+          "line": "The third moon is within range of this ship's transporter, I shall go there. It was my home before we went away."
+        },
+        {
+          "character": "SALIA",
+          "line": "I'm going to miss you."
+        },
+        {
+          "character": "ANYA",
+          "line": "I know."
+        },
+        {
+          "character": "SALIA",
+          "line": "I am ready now."
+        },
+        {
+          "character": "WORF",
+          "line": "I will escort you to transporter room six."
+        },
+        {
+          "character": "ANYA",
+          "line": "You will be happy to see me leave."
+        },
+        {
+          "character": "WORF",
+          "line": "No. You are a worthy opponent."
+        },
+        {
+          "character": "ANYA",
+          "line": "Thank you. At heart, we are very much alike."
+        },
+        {
+          "character": "WORF",
+          "line": "Yes, we are."
+        },
+        {
+          "character": "ANYA",
+          "line": "Perhaps we shall fight again. On the same side."
+        },
+        {
+          "character": "WORF",
+          "line": "It would be an honor. Shall we go?"
+        }
+      ],
+      "location": "Salia's quarters"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "WESLEY",
+          "line": "Come in."
+        },
+        {
+          "character": "SALIA",
+          "line": "Wesley, I have to go now."
+        },
+        {
+          "character": "WESLEY",
+          "line": "Was it fun?"
+        },
+        {
+          "character": "SALIA",
+          "line": "What do you mean?"
+        },
+        {
+          "character": "WESLEY",
+          "line": "Playing humanoid. Was it fun?"
+        },
+        {
+          "character": "SALIA",
+          "line": "Wesley, look at me. Right now, this minute, this is what I am. A humanoid girl."
+        },
+        {
+          "character": "WESLEY",
+          "line": "What are you really?"
+        },
+        {
+          "character": "SALIA",
+          "line": "Does it matter?"
+        },
+        {
+          "character": "WESLEY",
+          "line": "Yes."
+        },
+        {
+          "character": "SALIA",
+          "line": "Our natural state is one unlike anything you can imagine."
+        },
+        {
+          "character": "WESLEY",
+          "line": "So you took this form for our benefit? That's why you wanted to know what species we are."
+        },
+        {
+          "character": "SALIA",
+          "line": "I'm sorry I hurt you. I didn't mean to."
+        },
+        {
+          "character": "WESLEY",
+          "line": "I loved you."
+        },
+        {
+          "character": "SALIA",
+          "line": "I love you, too."
+        },
+        {
+          "character": "WESLEY",
+          "line": "Can you?"
+        },
+        {
+          "character": "SALIA",
+          "line": "Yes, oh yes. I have the same feelings, the same emotions as you. You must believe me."
+        },
+        {
+          "character": "WESLEY",
+          "line": "Please go."
+        },
+        {
+          "character": "SALIA",
+          "line": "Wesley, let's not say goodbye like this."
+        }
+      ],
+      "location": "Wesley's quarters"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "RIKER",
+          "line": "Prepare to beam Salia to the specified coordinates."
+        },
+        {
+          "character": "O'BRIEN",
+          "line": "Aye, sir."
+        },
+        {
+          "character": "SALIA",
+          "line": "Our world is grateful for the courtesy which you have extended us."
+        },
+        {
+          "character": "RIKER",
+          "line": "I hope some day that the Federation and Daled Four will have formal contact."
+        },
+        {
+          "character": "SALIA",
+          "line": "That is my wish as well."
+        },
+        {
+          "character": "O'BRIEN",
+          "line": "Coordinates have been input, sir."
+        },
+        {
+          "character": "RIKER",
+          "line": "Proceed."
+        },
+        {
+          "character": "WESLEY",
+          "line": "Wait. A taste to remember me by."
+        },
+        {
+          "character": "SALIA",
+          "line": "I wish there were something I could give you."
+        },
+        {
+          "character": "WESLEY",
+          "line": "You already have."
+        },
+        {
+          "character": "SALIA",
+          "line": "I'm glad you came to say goodbye. Thank you, for everything."
+        },
+        {
+          "character": "SALIA",
+          "line": "I want you to leave now."
+        },
+        {
+          "character": "WESLEY",
+          "line": "Why?"
+        },
+        {
+          "character": "SALIA",
+          "line": "I cannot arrive on my planet in this form, and I want you to remember me as I am now."
+        },
+        {
+          "character": "WESLEY",
+          "line": "Don't' worry, I will."
+        },
+        {
+          "character": "WESLEY",
+          "line": "Energize."
+        }
+      ],
+      "location": "Transporter room"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "WESLEY",
+          "line": "Seeing her on the transporter pad, it was like seeing pure light. I miss her. I feel empty."
+        },
+        {
+          "character": "GUINAN",
+          "line": "I know that sensation. But there'll come a time when all you remember is the love."
+        },
+        {
+          "character": "WESLEY",
+          "line": "I'm never going to feel this way about anyone else."
+        },
+        {
+          "character": "GUINAN",
+          "line": "You're right."
+        },
+        {
+          "character": "WESLEY",
+          "line": "I didn't expect you to say that."
+        },
+        {
+          "character": "GUINAN",
+          "line": "There'll be others, but every time you feel love it'll will be different. Every time, it's different."
+        },
+        {
+          "character": "WESLEY",
+          "line": "Knowing that doesn't make it any easier."
+        },
+        {
+          "character": "GUINAN",
+          "line": "It's not supposed to."
+        }
+      ],
+      "location": "Ten forward"
+    }
+  ],
+  "schedule": {
+    "episode": 10,
+    "number": 36,
+    "season": 2
+  },
+  "stardate": "42568.8",
+  "title": "The Dauphin"
+}

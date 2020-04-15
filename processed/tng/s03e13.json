@@ -1,0 +1,2088 @@
+{
+  "airdate": 634194000,
+  "scenes": [
+    {
+      "dialogue": [
+        {
+          "character": "PICARD",
+          "line": "Captain's log, Stardate 43539.1. We have moved into orbit around Bre'el Four. With the assistance of the planet's emergency control center, we're investigating a potentially catastrophic threat to the population from a descending asteroidal moon.",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "unknown"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "DATA",
+          "line": "The satellite's trajectory is continuing to deteriorate, Captain. This orbit will put it within five hundred kilometers of the planet surface."
+        },
+        {
+          "character": "GARIN",
+          "line": "We're predicting the atmospheric drag will bring it down on the next orbit.",
+          "modifier": "screen"
+        },
+        {
+          "character": "SCIENTIST",
+          "line": "Have you been able to find any explanation for this?",
+          "modifier": "screen"
+        },
+        {
+          "character": "DATA",
+          "line": "No, Doctor. It is a most unusual phenomenon."
+        },
+        {
+          "character": "PICARD",
+          "line": "Won't the moon disintegrate prior to impact?"
+        },
+        {
+          "character": "SCIENTIST",
+          "line": "No, it has a ferrous crystalline structure and it will be able to withstand tidal forces, Captain",
+          "modifier": "screen"
+        },
+        {
+          "character": "RIKER",
+          "line": "Could we blow it into pieces?"
+        },
+        {
+          "character": "DATA",
+          "line": "The total mass of the moon would remain the same, Commander, and the impact of thousands of fragments would spread destruction over an even wider area."
+        },
+        {
+          "character": "PICARD",
+          "line": "How long before impact?"
+        },
+        {
+          "character": "DATA",
+          "line": "Twenty nine hours, sir. Projecting it somewhere on the western continent. That would destroy an area eight hundred kilometers in radius."
+        },
+        {
+          "character": "SCIENTIST",
+          "line": "That damage would be insignificant, Captain, compared to the seismic repercussions massive landquakes, and tsunami.",
+          "modifier": "screen"
+        },
+        {
+          "character": "GARIN",
+          "line": "The force would raise a cloud of dust around the planet, leading to a significant temperature reduction. We could be looking at our own ice age.",
+          "modifier": "screen"
+        },
+        {
+          "character": "PICARD",
+          "line": "Mister La Forge, is there any way that the Enterprise could coax that satellite"
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "PICARD",
+          "line": "Back where it belongs?",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "LAFORGE",
+          "line": "We'd need to apply a delta vee of about four kilometers per second. Even with warp power to the tractor beam, it would mean exceeding recommended impulse engine output by at least forty-seven percent. It'd be like"
+        }
+      ],
+      "location": "Engineering"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "LAFORGE",
+          "line": "An ant pushing a tricycle. A slim chance at best.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "RIKER",
+          "line": "Given a choice between slim and none, I'll take slim any day."
+        },
+        {
+          "character": "PICARD",
+          "line": "Make it so."
+        },
+        {
+          "character": "RIKER",
+          "line": "Lieutenant Worf, contact all ships in this sector to rendezvous and join us in relief efforts."
+        },
+        {
+          "character": "PICARD",
+          "line": "We'll keep you informed of our progress. Picard out."
+        },
+        {
+          "character": "RIKER",
+          "line": "Can you give us any more, Geordi?"
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Not without burning out the tractor beam emitter. The circuits are already beyond the thermal limit.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "DATA",
+          "line": "Delta vee is ninety two meters per second. The mass is too great. We are having an effect but it is negligible."
+        },
+        {
+          "character": "RIKER",
+          "line": "What is that?"
+        },
+        {
+          "character": "DATA",
+          "line": "Unable to identify source."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "LAFORGE",
+          "line": "Impulse engines passing safety limits. We're seconds"
+        }
+      ],
+      "location": "Engineering"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "LAFORGE",
+          "line": "From automatic shutdown.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "PICARD",
+          "line": "Reduce engine power. Tractor beam off."
+        },
+        {
+          "character": "RIKER",
+          "line": "Lieutenant Worf, what the hell do the sensors say?"
+        },
+        {
+          "character": "WORF",
+          "line": "The sound is not registering, Commander."
+        },
+        {
+          "character": "PICARD",
+          "line": "Q!"
+        },
+        {
+          "character": "Q",
+          "line": "Red alert."
+        },
+        {
+          "character": "PICARD",
+          "line": "Captain's log, supplemental. We are no closer to finding a solution to the deteriorating orbit of the Bre'el Four moon, but with the arrival of Q, we now have a good idea of the cause.",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "PICARD",
+          "line": "Our options?"
+        },
+        {
+          "character": "LAFORGE",
+          "line": "We've done everything by the book and a little extra. We need more time or more power, and we're short on both. I'll take a look and see if there are any rules I haven't broken."
+        },
+        {
+          "character": "PICARD",
+          "line": "Keep me advised."
+        },
+        {
+          "character": "RIKER",
+          "line": "We know you're behind this, Q."
+        },
+        {
+          "character": "Q",
+          "line": "These aren't my colors. And what are you blathering about, Riker?"
+        },
+        {
+          "character": "PICARD",
+          "line": "What kind of twisted pleasure does it give you to bring terror into their lives?"
+        },
+        {
+          "character": "Q",
+          "line": "Whose lives?"
+        },
+        {
+          "character": "PICARD",
+          "line": "The millions of people down there who are watching as their moon falls out of the sky."
+        },
+        {
+          "character": "Q",
+          "line": "I haven't the vaguest idea what you're talking about and I have a much more serious problem. I'm no longer a member of the Continuum. My superiors have decided to punish me."
+        },
+        {
+          "character": "PICARD",
+          "line": "And punish us as well, it would seem."
+        },
+        {
+          "character": "Q",
+          "line": "They said I've spread chaos through the universe, and they've stripped me of all my powers. You don't believe me, do you? Do you think I would humiliate myself like this?"
+        },
+        {
+          "character": "RIKER",
+          "line": "If it served your purpose, yes."
+        },
+        {
+          "character": "Q",
+          "line": "It's the truth. I stand before you defrocked. Condemned to be a member of this lowest of species. A normal, imperfect, lumpen human being."
+        },
+        {
+          "character": "TROI",
+          "line": "They made you human as part of your punishment?"
+        },
+        {
+          "character": "Q",
+          "line": "No, it was my request. I could have chosen to exist as a Markoffian sea lizard or a Belzoidian flea. Anything I wished as long as it was mortal. And since I only had a fraction of a second to mull and I chose this and asked them to bring me here."
+        },
+        {
+          "character": "TROI",
+          "line": "Why?"
+        },
+        {
+          "character": "Q",
+          "line": "Because in all the universe you're the closest thing I have to a friend, Jean-Luc."
+        },
+        {
+          "character": "DATA",
+          "line": "Sir, he is reading as fully human."
+        },
+        {
+          "character": "Q",
+          "line": "What, is there an echo in here?"
+        },
+        {
+          "character": "TROI",
+          "line": "I am sensing an emotional presence, Captain. I would normally describe it as being terrified."
+        },
+        {
+          "character": "Q",
+          "line": "How rude."
+        },
+        {
+          "character": "PICARD",
+          "line": "what is it you want, Q?"
+        },
+        {
+          "character": "Q",
+          "line": "Your compassion. All right, Sanctuary on this ship, dreary as it may sound to both of us."
+        },
+        {
+          "character": "PICARD",
+          "line": "Return that moon to its orbit."
+        },
+        {
+          "character": "Q",
+          "line": "I have no powers. Q the ordinary."
+        },
+        {
+          "character": "PICARD",
+          "line": "Q the liar. Q the misanthrope."
+        },
+        {
+          "character": "Q",
+          "line": "Q the miserable. Q the desperate. What must I do to convince you people?"
+        },
+        {
+          "character": "WORF",
+          "line": "Die."
+        },
+        {
+          "character": "Q",
+          "line": "Oh, very clever, Worf. Eat any good books lately?"
+        },
+        {
+          "character": "PICARD",
+          "line": "Fine. You want to be treated as a human?"
+        },
+        {
+          "character": "Q",
+          "line": "Absolutely."
+        },
+        {
+          "character": "PICARD",
+          "line": "All right. Mister Worf, throw him in the brig."
+        },
+        {
+          "character": "WORF",
+          "line": "Delighted, Captain."
+        },
+        {
+          "character": "Q",
+          "line": "You can't do this to me, Jean-Luc."
+        },
+        {
+          "character": "WORF",
+          "line": "You will walk or I will carry you."
+        },
+        {
+          "character": "Q",
+          "line": "Given the option, I'll walk. You've disappointed me, Jean-Luc. I'm very disappointed. Hey, I'm claustrophobic, I don't like it in here."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "Q",
+          "line": "It was a mistake. I never should have picked human. I knew it the minute I said it. To think of the future in this shell. Forced to cover myself with fabric because of some outdated human morality. To say nothing of being too hot or too cold, growing feeble with age, losing my hair, catching a disease, being ticklish, sneezing, having an itch, a pimple, bad breath. Having to bathe."
+        },
+        {
+          "character": "WORF",
+          "line": "Too bad."
+        }
+      ],
+      "location": "Turbolift"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "Q",
+          "line": "Klingon. I should have said Klingon. In my heart of hearts, I am a Klingon, Worf."
+        },
+        {
+          "character": "Q",
+          "line": "Sorry. So you understand I could never survive in confinement. I mean, this is cruel and unusual punishment. The universe has been my back yard. As a fellow Klingon, if you would speak to the Captain on my behalf, I would be eternally grateful. which doesn't mean as much as it used to, I admit."
+        },
+        {
+          "character": "WORF",
+          "line": "Be quiet! Or disappear back where you came from."
+        },
+        {
+          "character": "Q",
+          "line": "I can't disappear any more than you could win a beauty contest."
+        }
+      ],
+      "location": "Corridor"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "Q",
+          "line": "If I ask a very simple question, do you think you might be able to answer it without it troubling your intellect too much?"
+        },
+        {
+          "character": "Q",
+          "line": "Ready? Here goes. Would I permit you to lock me away if I still had all my powers?"
+        },
+        {
+          "character": "WORF",
+          "line": "You have fooled us too often, Q."
+        },
+        {
+          "character": "Q",
+          "line": "Perspicacity incarnate. Please don't feel compelled now to tell me the story of the boy who cried Worf."
+        },
+        {
+          "character": "WORF",
+          "line": "Computer, activate force field."
+        },
+        {
+          "character": "Q",
+          "line": "I demand to be let out of here, immediately. Do you hear me? You will deactivate this cell immediately! Romulan!"
+        },
+        {
+          "character": "Q",
+          "line": "I should have said Romulan, that Klingon goat!"
+        }
+      ],
+      "location": "Brig"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "PICARD",
+          "line": "The question is, what sort of jaded game is he up to this time?"
+        },
+        {
+          "character": "RIKER",
+          "line": "Maybe he just wants a big laugh. He'll take Bre'el Four to the edge of disaster, and then pull the moon back."
+        },
+        {
+          "character": "PICARD",
+          "line": "Or he may have nothing to do with it at all."
+        },
+        {
+          "character": "RIKER",
+          "line": "You honestly think Q is telling the truth?"
+        },
+        {
+          "character": "PICARD",
+          "line": "Oh, I agree this is highly unlikely, but we have to proceed with our current dilemma as though Q is powerless to prevent it, don't we?"
+        },
+        {
+          "character": "RIKER",
+          "line": "And there he sits, and he watches us struggle."
+        },
+        {
+          "character": "PICARD",
+          "line": "I don't see that we have any choice. Mister Worf, will you hail the Bre'el Four science station,"
+        },
+        {
+          "character": "WORF",
+          "line": "They're standing by, Captain.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "GARIN",
+          "line": "Yes, Captain Picard.",
+          "modifier": "screen"
+        },
+        {
+          "character": "PICARD",
+          "line": "I'm sorry, but I have to report that our first attempt to restore the moon to its proper orbit has failed."
+        },
+        {
+          "character": "GARIN",
+          "line": "We have less than twenty five hours before impact, Captain.",
+          "modifier": "screen"
+        },
+        {
+          "character": "RIKER",
+          "line": "Our Chief Engineer is working on ways to reinforce our tractor beam."
+        },
+        {
+          "character": "PICARD",
+          "line": "So there is a hope, but if you have an evacuation plan"
+        },
+        {
+          "character": "GARIN",
+          "line": "We have already started moving people from the coastal areas of the western continent.",
+          "modifier": "screen"
+        },
+        {
+          "character": "PICARD",
+          "line": "We are going to make another attempt shortly. Picard out."
+        },
+        {
+          "character": "RIKER",
+          "line": "I've got to tell you Geordi is not at all optimistic."
+        },
+        {
+          "character": "PICARD",
+          "line": "What the devil?"
+        }
+      ],
+      "location": "Ready room"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "RIKER",
+          "line": "Data?"
+        },
+        {
+          "character": "DATA",
+          "line": "Sensors are showing broadband emissions, including Berthold rays"
+        },
+        {
+          "character": "RIKER",
+          "line": "Lethal?"
+        },
+        {
+          "character": "DATA",
+          "line": "No, Commander. Overall exposure is less than seventy five rems. Very low intensity, more like a soft medical scan. I would speculate we are being probed."
+        },
+        {
+          "character": "PICARD",
+          "line": "By whom?"
+        },
+        {
+          "character": "DATA",
+          "line": "The sensors cannot identify the point of origin. It seems to be coming from all around us."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "Q",
+          "line": "Ah, you've come to apologize. How nice. All's forgiven. No offense taken."
+        },
+        {
+          "character": "PICARD",
+          "line": "Enough. Q, what exactly is going on."
+        },
+        {
+          "character": "Q",
+          "line": "Well, how can I know what's going on? I've been in this dungeon of yours, alone, helpless, bored to tears."
+        },
+        {
+          "character": "PICARD",
+          "line": "We have a moon inexplicably falling out of orbit, and just now this ship was probed with Berthold radiation."
+        },
+        {
+          "character": "Q",
+          "line": "I wasn't aware of this. Truthfully, Jean-Luc. I have been entirely preoccupied by a most frightening experience of my own. A couple of hours ago, I realizing that my body was no longer functioning properly. I felt weak. I could no longer stand. The life was oozing out of me. I lost consciousness."
+        },
+        {
+          "character": "PICARD",
+          "line": "You fell asleep."
+        },
+        {
+          "character": "Q",
+          "line": "Terrifying. How can you stand it day after day?"
+        },
+        {
+          "character": "PICARD",
+          "line": "You get used to it."
+        },
+        {
+          "character": "Q",
+          "line": "What other dangers await me? I'm not prepared for this. I need guidance."
+        },
+        {
+          "character": "PICARD",
+          "line": "Q, I'm not going to play along with this. If you want to continue this charade, you can do it alone."
+        },
+        {
+          "character": "Q",
+          "line": "Jean-Luc, wait! This is getting on my nerves, now that I have them. You have a moon in a deteriorating orbit. I've known moons through the universe. Big ones, small ones. I'm an expert. I could help you with this one, if you let me out of here."
+        },
+        {
+          "character": "PICARD",
+          "line": "Q, there are millions of lives at risk. If you have the power to"
+        },
+        {
+          "character": "Q",
+          "line": "I don't have any powers. But I have the knowledge, locked up in this puny brain. You cannot afford to not take that advantage, can you?"
+        },
+        {
+          "character": "PICARD",
+          "line": "Mister Data, report to detention cell three."
+        },
+        {
+          "character": "DATA",
+          "line": "On my way, sir.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "PICARD",
+          "line": "Computer, remove the forcefield. If you are human, which I seriously doubt, you will have to work hard to earn our trust."
+        },
+        {
+          "character": "Q",
+          "line": "I'm not worried about that, Jean-Luc. You only dislike me. There are others in the cosmos who truly despise me."
+        },
+        {
+          "character": "PICARD",
+          "line": "Mister Data, you are hereby assigned to Q for the remainder of his stay. You will escort him to Mister La Forge in Engineering."
+        },
+        {
+          "character": "DATA",
+          "line": "Aye, sir."
+        },
+        {
+          "character": "Q",
+          "line": "Can I have a Starfleet uniform? What are you looking at?"
+        },
+        {
+          "character": "DATA",
+          "line": "I was considering the possibility that you are telling the truth, that you really are human."
+        },
+        {
+          "character": "Q",
+          "line": "It's the ghastly truth, Mister Data. I can now stub my toe with the best of them."
+        },
+        {
+          "character": "DATA",
+          "line": "An irony. It means that you have achieved in disgrace what I have always aspired to be."
+        }
+      ],
+      "location": "Brig"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "Q",
+          "line": "Humans are such commonplace little creatures. They roam the galaxy looking for something, they know not what."
+        },
+        {
+          "character": "DATA",
+          "line": "The human race has an enduring desire for knowledge, and for new opportunities to improve itself."
+        },
+        {
+          "character": "Q",
+          "line": "There's certainly room for improvement, but the truth is, Data, they are a minor species in the grand scheme. Not worth your envy."
+        },
+        {
+          "character": "DATA",
+          "line": "Oh, I do not feel envy."
+        },
+        {
+          "character": "Q",
+          "line": "Well, that's good."
+        },
+        {
+          "character": "DATA",
+          "line": "I feel nothing at all. That is part of my dilemma. I have the curiosity of humans, but there are questions I will never have the answer to. What is it like to laugh, or cry, or to experience any human emotions."
+        },
+        {
+          "character": "Q",
+          "line": "Well, if you ask me, these human emotions are not what they're cracked up to be."
+        }
+      ],
+      "location": "Corridor"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "LAFORGE",
+          "line": "The moon will hit its perigee in ten hours. Now, we match its trajectory, increase emitter coolant rate so we can apply continuous warp-equivalent power nine to the tractor beam. We can push it for nearly seven hours and I think that just might do it. But, there's a problem."
+        },
+        {
+          "character": "DATA",
+          "line": "The Enterprise will be dangerously close to the atmosphere."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "That's the problem."
+        },
+        {
+          "character": "Q",
+          "line": "This is incredible."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "You see something here, Q?"
+        },
+        {
+          "character": "Q",
+          "line": "I think I just hurt my back. I'm feeling pain. I don't like it. What's the right thing to say? Ow? LAFORGE +"
+        },
+        {
+          "character": "DATA",
+          "line": "Ow."
+        },
+        {
+          "character": "Q",
+          "line": "Ow! I can't straighten up."
+        },
+        {
+          "character": "DATA",
+          "line": "Medical assistance to Engineering."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Q, I've got a few people down on Bre'el Four who are going to be hurt"
+        },
+        {
+          "character": "Q",
+          "line": "Yes, yes, your marvelous plan will not only tear the moon to pieces but your precious ship as well."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "You got a better idea?"
+        },
+        {
+          "character": "Q",
+          "line": "I would certainly begin by examining the cause and not the symptom."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "We've done that, Q, and there's no way to"
+        },
+        {
+          "character": "Q",
+          "line": "This is obviously the result of a large celestial object passing through at near right angles to the plane of the star system. Probably a black hole."
+        },
+        {
+          "character": "DATA",
+          "line": "Can you recommend a way to counter the effect?"
+        },
+        {
+          "character": "Q",
+          "line": "Simple. Change the gravitational constant of the universe."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "What?"
+        },
+        {
+          "character": "Q",
+          "line": "Change the gravitational constant of the universe, thereby altering the mass of the asteroid."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Redefine gravity? How am I supposed to do that?"
+        },
+        {
+          "character": "Q",
+          "line": "You just do it. Where's that Doctor, anyway?"
+        },
+        {
+          "character": "DATA",
+          "line": "Geordi is trying to say that changing the gravitational constant of the universe is beyond our capabilities."
+        },
+        {
+          "character": "Q",
+          "line": "Oh. In that case, never mind."
+        },
+        {
+          "character": "Q",
+          "line": "Ah, Doctor Crusher. I see Starfleet has shipped you back into exile."
+        },
+        {
+          "character": "DATA",
+          "line": "Q says he has hurt his back."
+        },
+        {
+          "character": "CRUSHER",
+          "line": "Ah ha. Well, if I didn't see it with my own eyes, I wouldn't believe it. According to this, he has classic back trauma. Muscle spasms."
+        },
+        {
+          "character": "Q",
+          "line": "I've been under a lot of pressure lately. Family problems."
+        },
+        {
+          "character": "CRUSHER",
+          "line": "Well. don't expect too much sympathy from me. You've been a pain in our backside often enough."
+        },
+        {
+          "character": "Q",
+          "line": "Your bedside manner is admirable, Doctor. I'm sure your patients recover quickly just to get away from you."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "You know, this might work. We can't change the gravitational constant of the universe, but if we wrap a low level warp field around that moon, we could reduce its gravitational constant. Make it lighter so we can push it."
+        },
+        {
+          "character": "Q",
+          "line": "Glad I could help. Ow. I think."
+        },
+        {
+          "character": "CRUSHER",
+          "line": "Now what?"
+        },
+        {
+          "character": "Q",
+          "line": "There's something wrong with my stomach."
+        },
+        {
+          "character": "CRUSHER",
+          "line": "It hurts?"
+        },
+        {
+          "character": "Q",
+          "line": "It's making noises."
+        },
+        {
+          "character": "CRUSHER",
+          "line": "Maybe you're hungry."
+        }
+      ],
+      "location": "Engineering"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "Q",
+          "line": "I've never eaten before. What do I ask for?"
+        },
+        {
+          "character": "DATA",
+          "line": "The choice of meal is determined by individual taste."
+        },
+        {
+          "character": "Q",
+          "line": "What do you like?"
+        },
+        {
+          "character": "DATA",
+          "line": "Although I do not require sustenance, I occasionally ingest semi-organic nutrient suspension in a silicon-based liquid medium."
+        },
+        {
+          "character": "Q",
+          "line": "Is it good?"
+        },
+        {
+          "character": "DATA",
+          "line": "It would be more accurate to say it is good for me, as it lubricates my bio-functions."
+        },
+        {
+          "character": "Q",
+          "line": "It doesn't sound very appealing. What else is there?"
+        },
+        {
+          "character": "DATA",
+          "line": "A wide variety of items. The replicator can make anything you desire."
+        },
+        {
+          "character": "Q",
+          "line": "How do I know what I desire?"
+        },
+        {
+          "character": "DATA",
+          "line": "I have observed that the selection of food is often influenced by the mood of the person ordering."
+        },
+        {
+          "character": "Q",
+          "line": "I'm in a dreadful mood. Get me something appropriate."
+        },
+        {
+          "character": "DATA",
+          "line": "When Counselor Troi is unhappy, she usually eats something chocolate."
+        },
+        {
+          "character": "Q",
+          "line": "Chocolate?"
+        },
+        {
+          "character": "DATA",
+          "line": "A chocolate sundae, for example. Although I do not speak from personal experience, I have seen it have a profound psychological impact."
+        },
+        {
+          "character": "Q",
+          "line": "I'll have ten chocolate sundaes."
+        },
+        {
+          "character": "WAITRESS",
+          "line": "Ten?"
+        },
+        {
+          "character": "DATA",
+          "line": "I've never seen anyone eat ten chocolate sundaes."
+        },
+        {
+          "character": "Q",
+          "line": "I'm in a really bad mood, and since I've never eaten before, I should be very hungry."
+        },
+        {
+          "character": "Q",
+          "line": "This is not a moment I've been looking forward to."
+        },
+        {
+          "character": "GUINAN",
+          "line": "I hear they drummed you out of the Continuum."
+        },
+        {
+          "character": "Q",
+          "line": "I like to think of it as a significant career change."
+        },
+        {
+          "character": "GUINAN",
+          "line": "Just one of the boys, ay?"
+        },
+        {
+          "character": "Q",
+          "line": "One of the boys with an IQ of two thousand and five."
+        },
+        {
+          "character": "DATA",
+          "line": "The Captain and many of the crew are not yet convinced he is truly human."
+        },
+        {
+          "character": "GUINAN",
+          "line": "Really?"
+        },
+        {
+          "character": "Q",
+          "line": "Argh!"
+        },
+        {
+          "character": "GUINAN",
+          "line": "Seems human enough to me."
+        },
+        {
+          "character": "Q",
+          "line": "This is a dangerous creature. You have no idea. Why Picard would make her a member of the crew and not me"
+        },
+        {
+          "character": "GUINAN",
+          "line": "It must be terribly frightening for you, to be totally defenseless after all of those centuries being omnipotent."
+        },
+        {
+          "character": "Q",
+          "line": "I'm warning you. I still have friends in high places."
+        },
+        {
+          "character": "GUINAN",
+          "line": "Frightening one race after the other, teasing them like frightened animals, and you enjoying every moment of your victims fears."
+        },
+        {
+          "character": "Q",
+          "line": "From now on I'll do missionary work, okay?"
+        },
+        {
+          "character": "DATA",
+          "line": "That would be a most noble cause, Q."
+        },
+        {
+          "character": "GUINAN",
+          "line": "You could learn a lot from this one."
+        },
+        {
+          "character": "Q",
+          "line": "Sure, the robot who teaches the course in humanities."
+        },
+        {
+          "character": "DATA",
+          "line": "I am an android, not a robot."
+        },
+        {
+          "character": "Q",
+          "line": "I beg your pardon."
+        },
+        {
+          "character": "GUINAN",
+          "line": "I'd enjoy that, and you'd better get used to it."
+        },
+        {
+          "character": "Q",
+          "line": "What?"
+        },
+        {
+          "character": "GUINAN",
+          "line": "Begging. You're a pitiful excuse for a human. The only way you're going to survive is by the charity of others."
+        },
+        {
+          "character": "Q",
+          "line": "I'm not hungry."
+        }
+      ],
+      "location": "Ten Forward"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "WORF",
+          "line": "Captain, sensors are picking up a cloud of energetic plasma. Bearing, three-four one mark two zero. Range, twelve kilometers and closing."
+        },
+        {
+          "character": "PICARD",
+          "line": "On screen."
+        },
+        {
+          "character": "WORF",
+          "line": "Energy patterns are reading as highly organized."
+        },
+        {
+          "character": "RIKER",
+          "line": "A lifeform?"
+        },
+        {
+          "character": "PICARD",
+          "line": "Attempt to make contact, Mister Worf."
+        },
+        {
+          "character": "WORF",
+          "line": "Receiving a signal, sir. On speaker."
+        },
+        {
+          "character": "RIKER",
+          "line": "Computer, analyze signal"
+        },
+        {
+          "character": "COMPUTER",
+          "line": "Signal patterns indicate intelligence. Unable to derive necessary referents to establish translation matrix."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "VOICES",
+          "line": "What's that? I don't know."
+        },
+        {
+          "character": "GUINAN",
+          "line": "Calamarain."
+        }
+      ],
+      "location": "Ten Forward"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "WORF",
+          "line": "Captain, we're being hit by a field of energetic tachyons penetrating the hull. Location, deck ten, forward."
+        },
+        {
+          "character": "PICARD",
+          "line": "Red alert."
+        },
+        {
+          "character": "RIKER",
+          "line": "Geordi, increase power to shields."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Increasing power by twenty percent",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "WORF",
+          "line": "No effect"
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "LAFORGE",
+          "line": "Increasing to forty percent."
+        }
+      ],
+      "location": "Engineering"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "WORF",
+          "line": "Still no effect"
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "LAFORGE",
+          "line": "Adjusting shield harmonics, diverting power to the forward grids."
+        }
+      ],
+      "location": "Engineering"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "WORF",
+          "line": "The added harmonics are blocking the tachyon field."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "Q",
+          "line": "Help me! Somebody, help me!"
+        },
+        {
+          "character": "GUINAN",
+          "line": "How the mighty have fallen."
+        },
+        {
+          "character": "PICARD",
+          "line": "Captain's log, supplemental. We have sustained light damage from an attack by an alien species known as the Calamarain. They apparently have a grievance with Q. No doubt one of many lifeforms that do.",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "Ten forward"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "Q",
+          "line": "The Calamarain are not very hospitable creatures. They exist as swirls of ionized gas."
+        },
+        {
+          "character": "PICARD",
+          "line": "What did you do to them, Q?"
+        },
+        {
+          "character": "Q",
+          "line": "Nothing bizarre, nothing grotesque."
+        },
+        {
+          "character": "RIKER",
+          "line": "You tormented them."
+        },
+        {
+          "character": "Q",
+          "line": "A subjective term, Riker. One creature's torment, is another creature's delight. They simply have no sense of humor, a character flaw with which you can personally identify."
+        },
+        {
+          "character": "RIKER",
+          "line": "I say we turn him over to them."
+        },
+        {
+          "character": "Q",
+          "line": "Oh, I take it back. You do have a sense of humor. A dreadful one at that."
+        },
+        {
+          "character": "RIKER",
+          "line": "I'm serious."
+        },
+        {
+          "character": "PICARD",
+          "line": "Of course. You knew this would happen, didn't you?"
+        },
+        {
+          "character": "Q",
+          "line": "One can never anticipate the Calamarain. They're very intelligent, but very flighty."
+        },
+        {
+          "character": "PICARD",
+          "line": "Yes, but you must have so many enemies. Certainly you knew that once you became mortal some of them might look you up."
+        },
+        {
+          "character": "Q",
+          "line": "It had occurred to me."
+        },
+        {
+          "character": "PICARD",
+          "line": "And for all your protestations of friendship, your real reason for being here is protection."
+        },
+        {
+          "character": "Q",
+          "line": "You're very smart, Jean-Luc, but I know human beings. They're all sopping over with compassion and forgiveness. They can't wait to absolve almost any offense. It's an inherent weakness in the breed."
+        },
+        {
+          "character": "PICARD",
+          "line": "On the contrary, it is a strength."
+        },
+        {
+          "character": "Q",
+          "line": "You call it what you will, but I think you'll protect me even though I've tortured you now and again."
+        },
+        {
+          "character": "RIKER",
+          "line": "Fighting off all the species you've insulted would be a full time mission. That's not the one I signed up for."
+        },
+        {
+          "character": "PICARD",
+          "line": "Indeed. Human or not, I want no part of you. We will deposit you at the first starbase. Let them deal with you."
+        },
+        {
+          "character": "Q",
+          "line": "But I could be a valuable member of the team. I'm human, I can learn."
+        },
+        {
+          "character": "DATA",
+          "line": "He has provided important theoretical guidance for Geordi's analysis of the Bre'el satellite, Captain."
+        },
+        {
+          "character": "TROI",
+          "line": "It seems you have an advocate, Q."
+        },
+        {
+          "character": "DATA",
+          "line": "I am merely stating a fact, Counselor."
+        },
+        {
+          "character": "PICARD",
+          "line": "Mister La Forge, your status?"
+        },
+        {
+          "character": "LAFORGE",
+          "line": "I've been putting together a program to extend the forward lobe of the warp field. The field coils",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "Observation lounge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "LAFORGE",
+          "line": "Aren't designed to envelop such a large volume. But I'm attempting to modify their alignment parameters."
+        },
+        {
+          "character": "DATA",
+          "line": "Maintaining field integrity will be difficult, Geordi.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "LAFORGE",
+          "line": "I'm pretty sure we can do it manually. The moon will come to its perigee in fourteen minutes."
+        }
+      ],
+      "location": "Engineering"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "PICARD",
+          "line": "Mister Data, you will escort Q to Engineering. You will assist Mister La Forge. Mister Worf, hail the Bre'el Four science station."
+        },
+        {
+          "character": "WORF",
+          "line": "Aye, sir.",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "Q",
+          "line": "Picard thinks I can't cut it on his starship. I can do anything his little trained minions can do."
+        },
+        {
+          "character": "DATA",
+          "line": "I do not perceive your skills to be in doubt, Q. The Captain is more concerned with your ability to interact successfully with his little trained minions."
+        },
+        {
+          "character": "DATA",
+          "line": "Human interpersonal relationships are more complex. Your experiences may not have adequately prepared you."
+        },
+        {
+          "character": "Q",
+          "line": "I'm not interested in human interpersonal relationships. I just want to prove to Picard that I'm indispensable."
+        }
+      ],
+      "location": "Corridor"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "DATA",
+          "line": "Engineering. To function aboard a starship, or in any human activity, you must learn to form relationships."
+        },
+        {
+          "character": "Q",
+          "line": "It's so hard."
+        },
+        {
+          "character": "DATA",
+          "line": "And of more immediate importance is your ability to work within groups."
+        },
+        {
+          "character": "Q",
+          "line": "I'm not good in groups. It's difficult working in a group when you're omnipotent."
+        }
+      ],
+      "location": "Turbolift"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "GARIN",
+          "line": "The tides reached ten meters on the last orbit. They are already beginning to swell again. We have a lot of frightened people down here, Captain.",
+          "modifier": "screen"
+        },
+        {
+          "character": "PICARD",
+          "line": "Your moon has begun moving toward its perigee. We're prepared to make our attempt."
+        },
+        {
+          "character": "SCIENTIST",
+          "line": "Our population has already taken shelter, but I'm afraid no shelter will be adequate if you fail. Especially for the people on the western continent.",
+          "modifier": "screen"
+        },
+        {
+          "character": "GARIN",
+          "line": "Whatever the results, we know you've done your best, Picard. It's appreciated.",
+          "modifier": "screen"
+        },
+        {
+          "character": "PICARD",
+          "line": "We'll keep you advised, Doctor. Picard out."
+        },
+        {
+          "character": "WORF",
+          "line": "Captain, sensors are picking up an increased energy output from the Calamarain."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "La Forge to Bridge.",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "LAFORGE",
+          "line": "The moon has reached its minimum orbital distance. It's time, Captain."
+        }
+      ],
+      "location": "Engineering"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "RIKER",
+          "line": "We'll have to lower shields."
+        },
+        {
+          "character": "PICARD",
+          "line": "Proceed. Mister Worf, keep a close eye on Q's friends out there."
+        },
+        {
+          "character": "WORF",
+          "line": "Understood."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "Q",
+          "line": "All right, everyone, this is what we're going to be doing."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Q, everybody already knows what they're going to do, except for you, Now here's what I need."
+        },
+        {
+          "character": "Q",
+          "line": "La Forge, obviously my knowledge and experience far exceed yours by about a billion times. So, if you'll just step aside gracefully."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Q, your experience will be most valuable to me if you can manually control the field integrity."
+        },
+        {
+          "character": "Q",
+          "line": "Don't be foolish. That would be a waste of my talents."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Q, get to the controls or get the hell out of here. Data, you're my liaison to the Bridge. I'll need you with me."
+        },
+        {
+          "character": "Q",
+          "line": "Who does he think he is, giving me orders."
+        },
+        {
+          "character": "DATA",
+          "line": "Geordi thinks he is in command here, and he is correct."
+        }
+      ],
+      "location": "Engineering"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "RIKER",
+          "line": "Engineering, holding at station keeping, range six hundred and forty meters."
+        },
+        {
+          "character": "DATA",
+          "line": "Containment fields to flight tolerance.",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "DATA",
+          "line": "Warp core to ninety percent."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Engage field coils. Tractor beam to stand by. Field output? Field output?"
+        },
+        {
+          "character": "Q",
+          "line": "Two seventeen."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Impulse engines to full. Ready to engage tractor beam."
+        }
+      ],
+      "location": "Engineering"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "RIKER",
+          "line": "Lowering shields. Engage tractor beam."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "LAFORGE",
+          "line": "Extending warp field forward."
+        },
+        {
+          "character": "PICARD",
+          "line": "Engineering, is that the forward limit?",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "DATA",
+          "line": "Yes, Captain. We are unable to encompass the entire moon."
+        },
+        {
+          "character": "PICARD",
+          "line": "Do you recommend that we proceed?",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "Q",
+          "line": "The two parts of the moon will have different inertial densities."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Stand by, Captain. I can adjust the field symmetry to compensate."
+        },
+        {
+          "character": "Q",
+          "line": "I doubt it."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "You don't know what this ship can do, Mister. Yes, Captain, I still believe it'll work. Increasing power and warp field and tractor beam."
+        },
+        {
+          "character": "Q",
+          "line": "And if you're wrong, the moon will crumble due to subspace compression. Don't say I didn't warn you."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Shut up, Q."
+        },
+        {
+          "character": "Q",
+          "line": "I will not be spoken to in this manner!"
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Data."
+        },
+        {
+          "character": "DATA",
+          "line": "Q, I strongly suggest that you cooperate."
+        },
+        {
+          "character": "DATA",
+          "line": "Inertial mass of the moon is decreasing to approximately two point five million metric tons."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "It's working. We can move it. Firing impulse engines."
+        }
+      ],
+      "location": "Engineering"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "DATA",
+          "line": "Captain, the moon's trajectory has moved point three percent. Point-four percent.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "WORF",
+          "line": "Emergency! Shields up."
+        },
+        {
+          "character": "RIKER",
+          "line": "Disengage tractor beam."
+        },
+        {
+          "character": "WORF",
+          "line": "Calamarain attacking. Shields holding. Tachyon field repelled."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Captain, the impact of the blast is pushing us into the upper atmosphere.",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "DATA",
+          "line": "Hull temperature rising. Two thousand degrees."
+        }
+      ],
+      "location": "Engineering"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "DATA",
+          "line": "Two thousand five hundred degrees.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Moving to full impulse power.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "WORF",
+          "line": "Calamarain resuming attack."
+        },
+        {
+          "character": "WORF",
+          "line": "They've overpowered the shields. Hull penetration, deck thirty six, Engineering."
+        },
+        {
+          "character": "RIKER",
+          "line": "Geordi, can you direct any more power to the shields?"
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "LAFORGE",
+          "line": "We need all the power we have to get out of the atmosphere, Commander."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Try activating the structural integrity field."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "It's not working. Structural field harmonics on manual."
+        },
+        {
+          "character": "RIKER",
+          "line": "La Forge. Hull temperature falling. We're in the clear.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Diverting power to forward sections now."
+        }
+      ],
+      "location": "Engineering"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "LAFORGE",
+          "line": "That charge nearly knocked out his positronic net."
+        },
+        {
+          "character": "RIKER",
+          "line": "What can you do for him?"
+        },
+        {
+          "character": "LAFORGE",
+          "line": "We can try to discharge and reset the motor pathways, recouple the autonomic nodes."
+        },
+        {
+          "character": "CRUSHER",
+          "line": "There's overpressure in his fluidic systems. Thermal shock. If he was mortal, he'd be dead."
+        },
+        {
+          "character": "Q",
+          "line": "Let us not overstate the matter here, Doctor. I'm mortal and I survived. The cheers are overwhelming."
+        },
+        {
+          "character": "PICARD",
+          "line": "Q, you exceed your own standards of self-preoccupation. You have no concern for an officer who may have saved your life."
+        },
+        {
+          "character": "Q",
+          "line": "He's strong, he'll survive."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Osmotic pressure still rising. Maybe we can by-pass the flow regulator."
+        },
+        {
+          "character": "CRUSHER",
+          "line": "It would be helpful if everybody just got out of here now."
+        },
+        {
+          "character": "PICARD",
+          "line": "Stay with Q."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "We'll let you know as soon as there's anything to tell you."
+        },
+        {
+          "character": "RIKER",
+          "line": "Geordi? The moon's trajectory?"
+        },
+        {
+          "character": "LAFORGE",
+          "line": "All we did was buy ourselves another orbit, at most. We can try again when the moon comes back to its perigee."
+        },
+        {
+          "character": "RIKER",
+          "line": "And when we drop our shields, the Calamarains go after Q again."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Commander, he's not worth it."
+        }
+      ],
+      "location": "Sickbay"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "PICARD",
+          "line": "Come."
+        },
+        {
+          "character": "Q",
+          "line": "You're right, of course. I am extraordinarily selfish. But it has served me so well in the past."
+        },
+        {
+          "character": "PICARD",
+          "line": "It will not serve you here."
+        },
+        {
+          "character": "Q",
+          "line": "Don't be so hard on me, Jean-Luc. You've been a mortal all your life. You know all about dying. I've never given it a second thought. Or a first one, for that matter. I could have been killed. If it hadn't been for Data and that one brief delay he created, I would have been gone. No more me. And no one would have missed me, would they? Data may have sacrificed himself for me. Why?"
+        },
+        {
+          "character": "PICARD",
+          "line": "That is his special nature. He learned the lessons of humanity well."
+        },
+        {
+          "character": "Q",
+          "line": "When I ask myself if I would have done the same for him, And I am forced to answer no, I feel, I feel ashamed."
+        },
+        {
+          "character": "PICARD",
+          "line": "Q, I'm not your father confessor. You will receive no absolution from me. You have brought nothing but pain and suffering to this crew. And I'm still not entirely convinced that all this isn't your latest attempt at a puerile joke."
+        },
+        {
+          "character": "Q",
+          "line": "It is a joke. A joke on me. The joke of the universe. The king who would be man. As I learn more and more what it is to be human, I am more and more convinced that I would never make a good one. I don't have what it takes. Without my powers, I'm frightened of everything. I'm a coward, and I'm miserable, and I can't go on this way."
+        }
+      ],
+      "location": "Ready room"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "CRUSHER",
+          "line": "He's going to be all right."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "We're recalibrating his language circuits, so he can't talk yet."
+        },
+        {
+          "character": "Q",
+          "line": "There are creatures in the universe who would consider you the ultimate achievement, android. No feelings, no emotions, no pain. And yet you covet those qualities of humanity. Believe me, you're missing nothing. But if it means anything to you, you're a better human than I."
+        }
+      ],
+      "location": "Sickbay"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "Q",
+          "line": "Where's the main shuttlebay?"
+        },
+        {
+          "character": "COMPUTER",
+          "line": "Main shuttlebay is located on deck four."
+        },
+        {
+          "character": "Q",
+          "line": "Take me there."
+        }
+      ],
+      "location": "Turbolift"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "WORF",
+          "line": "Captain, an unscheduled shuttle has just been launched."
+        },
+        {
+          "character": "PICARD",
+          "line": "On main viewer. Hailing frequency."
+        },
+        {
+          "character": "WORF",
+          "line": "Frequencies open."
+        },
+        {
+          "character": "PICARD",
+          "line": "Shuttle occupant, identify yourself."
+        },
+        {
+          "character": "Q",
+          "line": "Don't try to talk me out of it, Jean-Luc.",
+          "modifier": "screen"
+        },
+        {
+          "character": "PICARD",
+          "line": "Q, return to the ship immediately."
+        },
+        {
+          "character": "Q",
+          "line": "I just can't get used to following orders.",
+          "modifier": "screen"
+        },
+        {
+          "character": "WORF",
+          "line": "Captain, the plasma cloud is moving toward the shuttle."
+        },
+        {
+          "character": "Q",
+          "line": "It's easier this way. They won't bother you after I'm gone.",
+          "modifier": "screen"
+        },
+        {
+          "character": "RIKER",
+          "line": "Engineering, prepare to extend shields."
+        },
+        {
+          "character": "Q",
+          "line": "Please, don't fall back on your tired clich\u00e9 of charging to the rescue just in the nick of time. I don't want to be rescued. My life as a human being has been a dismal failure. Perhaps my death will have a little dignity.",
+          "modifier": "screen"
+        },
+        {
+          "character": "PICARD",
+          "line": "Q, there is no dignity in this suicide."
+        },
+        {
+          "character": "Q",
+          "line": "Yes, I suppose you're right. Death of a coward, then. So be it. But as a human, I would have died of boredom.",
+          "modifier": "screen"
+        },
+        {
+          "character": "PICARD",
+          "line": "This goes against my better judgment. Transporter room three, lock on to shuttle one. Beam it back into it's bay."
+        },
+        {
+          "character": "CREWMAN",
+          "line": "Aye, Captain.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "PICARD",
+          "line": "It's a perfectly good shuttlecraft."
+        },
+        {
+          "character": "CREWMAN",
+          "line": "Captain, unable to transport. For some reason, I can't lock on to the shuttlecraft.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "RIKER",
+          "line": "Worf, are you sensing any sort of interference from the Calamarain?"
+        },
+        {
+          "character": "WORF",
+          "line": "No, sir, but they are still moving toward the shuttle."
+        },
+        {
+          "character": "RIKER",
+          "line": "Geordi, extend shields around shuttle one."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Extending shields.",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "LAFORGE",
+          "line": "Commander, the shields are frozen."
+        },
+        {
+          "character": "RIKER",
+          "line": "Cause?",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Unknown."
+        },
+        {
+          "character": "RIKER",
+          "line": "Lock on tractor beam.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Tractor beam is not functioning either."
+        }
+      ],
+      "location": "Engineering"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "RIKER",
+          "line": "What the hell is going on?"
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "Q2",
+          "line": "Not bad, Q. Not great. But not bad."
+        },
+        {
+          "character": "Q",
+          "line": "Q!"
+        },
+        {
+          "character": "Q2",
+          "line": "Sacrificing yourself for these humans? Do I detect a little selfless act?"
+        },
+        {
+          "character": "Q",
+          "line": "You flatter me. I was only trying to put a quick end to a miserable existence."
+        },
+        {
+          "character": "Q2",
+          "line": "What a dreadful color."
+        },
+        {
+          "character": "Q",
+          "line": "Yeah. What are you doing here?"
+        },
+        {
+          "character": "Q2",
+          "line": "I've been keeping track of you."
+        },
+        {
+          "character": "Q",
+          "line": "I always felt you were in my corner."
+        },
+        {
+          "character": "Q2",
+          "line": "Actually, I was the one who got you kicked out. You know, you're incorrigible, Q. A lost cause. I can't go to a single solar system without having to apologize for you, and I'm tired of it."
+        },
+        {
+          "character": "Q",
+          "line": "I wasn't the one who misplaced the entire Deltived asteroid belt."
+        },
+        {
+          "character": "Q2",
+          "line": "Hey, this isn't about me. I've got better places to be. But somebody had to keep an eye on you to make sure you still didn't find a way to cause trouble. Even as a member of this limited species."
+        },
+        {
+          "character": "Q",
+          "line": "Well, I hope I've been entertaining you."
+        },
+        {
+          "character": "Q2",
+          "line": "Barely. But I find these humans rather interesting. I'm beginning to understand what you see in them. After all the things that you've done, they're still intent on keeping you safe."
+        },
+        {
+          "character": "Q",
+          "line": "A genetic weakness of the race."
+        },
+        {
+          "character": "Q2",
+          "line": "And they're still at it. They just tried to beam you up, back, whatever it is they call it."
+        },
+        {
+          "character": "Q",
+          "line": "Really?"
+        },
+        {
+          "character": "Q2",
+          "line": "I stopped them."
+        },
+        {
+          "character": "Q",
+          "line": "Well, if the Calamarains hurry up and finish me off, we can get you back on your way."
+        },
+        {
+          "character": "Q2",
+          "line": "Afraid I had to put them on hold too. You see, there's still this matter of the selfless act. You and I both know that the Calamarain would have eventually destroyed the Enterprise to get to you. And that's really why you left, right?"
+        },
+        {
+          "character": "Q",
+          "line": "It was a teeny bit selfless, wasn't it?"
+        },
+        {
+          "character": "Q2",
+          "line": "And there's my problem. See, I can't back to the Continuum and tell them you committed a selfless act just before the end. If I do there's going to be questions and explanations for centuries."
+        },
+        {
+          "character": "Q",
+          "line": "I've learned my lesson, Q."
+        },
+        {
+          "character": "Q2",
+          "line": "Remember who you're talking to. All knowing, all seeing. Fine, you got your powers back. Try and stay out of trouble."
+        },
+        {
+          "character": "Q",
+          "line": "So they wanted to destroy me, did they?"
+        },
+        {
+          "character": "Q",
+          "line": "If you think I tormented you in the past, my little friends, wait until you see what I do with you now."
+        },
+        {
+          "character": "Q2",
+          "line": "Q?"
+        },
+        {
+          "character": "Q",
+          "line": "I was just seeing if you were still watching."
+        }
+      ],
+      "location": "Shuttlecraft"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "DATA",
+          "line": "Captain, the aliens have disappeared, and so has the shuttle."
+        },
+        {
+          "character": "RIKER",
+          "line": "Scan the sector."
+        },
+        {
+          "character": "DATA",
+          "line": "I have, sir."
+        },
+        {
+          "character": "PICARD",
+          "line": "Well, I suppose that is the end of Q."
+        },
+        {
+          "character": "Q",
+          "line": "Au contraire, mon capitaine! He's back!"
+        },
+        {
+          "character": "Q",
+          "line": "I'm forgiven. My brothers and sisters of the Continuum have taken me back. I'm immortal again. Omnipotent again."
+        },
+        {
+          "character": "RIKER",
+          "line": "Swell."
+        },
+        {
+          "character": "Q",
+          "line": "Don't fret, Riker. My good fortune is your good fortune."
+        },
+        {
+          "character": "RIKER",
+          "line": "I don't need your fantasy women."
+        },
+        {
+          "character": "Q",
+          "line": "Oh, you're so stolid, Commander. You weren't like that before the beard. Very well."
+        },
+        {
+          "character": "PICARD",
+          "line": "Q!"
+        },
+        {
+          "character": "Q",
+          "line": "But I feel like celebrating."
+        },
+        {
+          "character": "PICARD",
+          "line": "I don't."
+        },
+        {
+          "character": "Q",
+          "line": "All right."
+        },
+        {
+          "character": "PICARD",
+          "line": "All of it."
+        },
+        {
+          "character": "PICARD",
+          "line": "Now, at the risk of being rude."
+        },
+        {
+          "character": "Q",
+          "line": "Yes, once again I've overstayed my welcome. As a human, I was ill-equipped to thank you, but as myself you have my everlasting gratitude. Until next time. Ah, but before I go, there's a debt I wish to repay to my professor of the humanities. Data, I've decided to give you something very, very special."
+        },
+        {
+          "character": "DATA",
+          "line": "If your intention is to make me human, Q."
+        },
+        {
+          "character": "Q",
+          "line": "No, no, no, no, no, no. I would never curse you by making you human. Think of it as a going away present."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Data? Data, why are you laughing?"
+        },
+        {
+          "character": "DATA",
+          "line": "I do not know. But it was a wonderful feeling."
+        },
+        {
+          "character": "WORF",
+          "line": "Captain, Bre'el Four is hailing us."
+        },
+        {
+          "character": "PICARD",
+          "line": "On screen, Lieutenant."
+        },
+        {
+          "character": "GARIN",
+          "line": "Captain Picard you've done it",
+          "modifier": "screen"
+        },
+        {
+          "character": "PICARD",
+          "line": "I'm sorry?"
+        },
+        {
+          "character": "SCIENTIST",
+          "line": "The moon. It's back to its normal orbit. How ever you did it, thank you.",
+          "modifier": "screen"
+        },
+        {
+          "character": "RIKER",
+          "line": "Let's see it, Worf."
+        },
+        {
+          "character": "PICARD",
+          "line": "Mister Data, your analysis?"
+        },
+        {
+          "character": "DATA",
+          "line": "The moon's altitude is fifty five thousand kilometers. Projected orbit is circular. There is no further danger to the planet."
+        },
+        {
+          "character": "PICARD",
+          "line": "Ensign, set course for Station Nigala Four."
+        },
+        {
+          "character": "ENSIGN",
+          "line": "Aye, sir."
+        },
+        {
+          "character": "PICARD",
+          "line": "Perhaps there's a residue of humanity in Q after all. Ensign, en"
+        },
+        {
+          "character": "Q",
+          "line": "Don't bet on it, Picard.",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "Bridge"
+    }
+  ],
+  "schedule": {
+    "episode": 13,
+    "number": 61,
+    "season": 3
+  },
+  "stardate": "43539.1",
+  "title": "D\u00e9j\u00e0 Q"
+}

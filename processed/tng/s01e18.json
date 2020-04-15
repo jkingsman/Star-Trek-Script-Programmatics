@@ -1,0 +1,1948 @@
+{
+  "airdate": 571899600,
+  "scenes": [
+    {
+      "dialogue": [
+        {
+          "character": "PICARD",
+          "line": "Commander Riker, report to the Bridge.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "RIKER",
+          "line": "On the way."
+        },
+        {
+          "character": "BERNARD",
+          "line": "Harry! Harry, come back here!"
+        },
+        {
+          "character": "RIKER",
+          "line": "What's your hurry, Harry?"
+        },
+        {
+          "character": "HARRY",
+          "line": "Sorry, Commander. I was just"
+        },
+        {
+          "character": "BERNARD",
+          "line": "Harry! I'm sorry if he bothered you."
+        },
+        {
+          "character": "RIKER",
+          "line": "No bother, Doctor Bernard."
+        },
+        {
+          "character": "HARRY",
+          "line": "I'm not going back. I hate that teacher and I hate calculus."
+        },
+        {
+          "character": "BERNARD",
+          "line": "Everyone needs an understanding of basic calculus, whether they like it or not."
+        },
+        {
+          "character": "HARRY",
+          "line": "Why?"
+        }
+      ],
+      "location": "Corridor"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "CRUSHER",
+          "line": "You're limping."
+        },
+        {
+          "character": "RIKER",
+          "line": "Had a small run-in with an aspiring sprinter."
+        },
+        {
+          "character": "PICARD",
+          "line": "Number One."
+        },
+        {
+          "character": "RIKER",
+          "line": "Problem, Captain?"
+        },
+        {
+          "character": "PICARD",
+          "line": "No, more a curiosity. For the past few hours we've been tracking faint energy readings in an attempt to locate the source. It's like following a trail of bread crumbs. The pathfinder lead here and stopped, which is what I knew would interest you."
+        },
+        {
+          "character": "RIKER",
+          "line": "What's our position, Geordi?"
+        },
+        {
+          "character": "LAFORGE",
+          "line": "The Epsilon Mynos system, sir."
+        },
+        {
+          "character": "RIKER",
+          "line": "Thank you, Captain, you're right. I wouldn't miss this for anything."
+        },
+        {
+          "character": "TASHA",
+          "line": "What's so interesting about this system?"
+        },
+        {
+          "character": "RIKER",
+          "line": "Aldea. Tasha, I'm surprised you haven't heard the stories about Aldea, the wondrous mythical world. Like Atlantis of ancient Earth or Neinman of Xerxes Seven. Advanced culture, centuries old. Self-contained, peaceful. Incredible technical sophistication providing the daily needs for all the citizens, so that they could turn themselves over to art and culture."
+        },
+        {
+          "character": "TASHA",
+          "line": "Where is it supposed to be?"
+        },
+        {
+          "character": "RIKER",
+          "line": "That's the myth. Somehow, as the legend goes, the Aldeans were able to cloak their planet in darkness and go unseen by marauders, and other hostile passers-by who might rob and plunder."
+        },
+        {
+          "character": "TASHA",
+          "line": "What a wonderful fairy tale."
+        },
+        {
+          "character": "DATA",
+          "line": "Scanners still show nothing, sir."
+        },
+        {
+          "character": "TROI",
+          "line": "Scanners may show nothing, sir, but I'm sensing something very strong. Thousands of minds."
+        },
+        {
+          "character": "PICARD",
+          "line": "From where?"
+        },
+        {
+          "character": "TROI",
+          "line": "Very close."
+        },
+        {
+          "character": "PICARD",
+          "line": "All stop, and hold this position."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Aye, sir. All stop, and hold."
+        },
+        {
+          "character": "PICARD",
+          "line": "Anything?"
+        },
+        {
+          "character": "WORF",
+          "line": "Captain, I'm recording a distortion in quadrant one, mark nine zero."
+        },
+        {
+          "character": "PICARD",
+          "line": "On screen."
+        },
+        {
+          "character": "PICARD",
+          "line": "Shields and deflectors up."
+        },
+        {
+          "character": "TASHA",
+          "line": "Aye, sir."
+        },
+        {
+          "character": "RIKER",
+          "line": "It's Aldea, Captain. It has to be."
+        },
+        {
+          "character": "PICARD",
+          "line": "Captain's log, stardate 41509.1. Either by chance or intent, we've been led to the planet Aldea, which appeared out of nowhere, hidden behind a sophisticated shielding device.",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "DATA",
+          "line": "Sensors indicate that the shield is electromagnetic, a complicated light refracting mechanism."
+        },
+        {
+          "character": "PICARD",
+          "line": "A cloaking device?"
+        },
+        {
+          "character": "DATA",
+          "line": "Aye, sir."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "It's got to be pretty sophisticated to hide an entire planet ."
+        },
+        {
+          "character": "WORF",
+          "line": "We're being scanned, sir."
+        },
+        {
+          "character": "PICARD",
+          "line": "We'll let them know our peaceful intention. Open hailing frequencies, Lieutenant Yar."
+        },
+        {
+          "character": "TASHA",
+          "line": "Frequencies open, sir."
+        },
+        {
+          "character": "RASHELLA",
+          "line": "I am Rashella. Welcome to Aldea.",
+          "modifier": "screen"
+        },
+        {
+          "character": "PICARD",
+          "line": "I am Jean-Luc Picard, Captain of the USS Enterprise. We come in peace."
+        },
+        {
+          "character": "RASHELLA",
+          "line": "We know.",
+          "modifier": "screen"
+        },
+        {
+          "character": "PICARD",
+          "line": "We've heard the stories about Aldea, but frankly I never believed they could be true."
+        },
+        {
+          "character": "RASHELLA",
+          "line": "Our shield has confused outsiders for millennia, Captain.",
+          "modifier": "screen"
+        },
+        {
+          "character": "PICARD",
+          "line": "That's a very long time to have such technology. Why do you reveal yourselves to us now?"
+        },
+        {
+          "character": "RASHELLA",
+          "line": "We're eager to meet in person to diskuss that, and other subjects of mutual interest.",
+          "modifier": "screen"
+        },
+        {
+          "character": "PICARD",
+          "line": "We're ready anytime."
+        },
+        {
+          "character": "RASHELLA",
+          "line": "Excellent!",
+          "modifier": "screen"
+        },
+        {
+          "character": "RADUE",
+          "line": "We mean no harm."
+        },
+        {
+          "character": "RASHELLA",
+          "line": "Our arrival seems to have startled you."
+        },
+        {
+          "character": "PICARD",
+          "line": "It was a little sudden."
+        },
+        {
+          "character": "RADUE",
+          "line": "I'm Radue, First Appointee to Aldea."
+        },
+        {
+          "character": "PICARD",
+          "line": "Welcome aboard."
+        },
+        {
+          "character": "CRUSHER",
+          "line": "Captain, they haven't been through decontamination."
+        },
+        {
+          "character": "PICARD",
+          "line": "Our medical doctor is concerned that you didn't go through the regular transporting procedure."
+        },
+        {
+          "character": "RASHELLA",
+          "line": "You couldn't transport us. The only way through our shield is our way, Captain. Our cloaking device may be off, but our shield is operating. We've brought you small tokens of welcome."
+        },
+        {
+          "character": "RADUE",
+          "line": "And a personal invitation to a celebration on Aldea."
+        },
+        {
+          "character": "PICARD",
+          "line": "That would be delightful. Number One, assemble the away team."
+        },
+        {
+          "character": "RADUE",
+          "line": "We will prepare for your arrival, Commander Riker."
+        },
+        {
+          "character": "RIKER",
+          "line": "How do you know"
+        },
+        {
+          "character": "RADUE",
+          "line": "Your name? We've been monitoring your ship's communications. We must return now to Aldea. Our eyes are very sensitive to bright light. Rashella."
+        },
+        {
+          "character": "PICARD",
+          "line": "Amazing. To exist only in that dreamworld of mythology and then suddenly to be here, right in front of us."
+        },
+        {
+          "character": "RIKER",
+          "line": "Now we know who placed the bread crumbs. We're not here by accident."
+        },
+        {
+          "character": "PICARD",
+          "line": "Counselor, do you sense anything?"
+        },
+        {
+          "character": "TROI",
+          "line": "They want something from us, something we value greatly. So much, that they're afraid we won't part with it."
+        },
+        {
+          "character": "RADUE",
+          "line": "We are ready to receive you, Commander Riker, and two of your colleagues?",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "PICARD",
+          "line": "Interesting choices."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "RADUE",
+          "line": "I hope Duana and I know how to greet you properly, Commander."
+        }
+      ],
+      "location": "First Unit"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "WESLEY",
+          "line": "How do they cloak the planet?"
+        },
+        {
+          "character": "DATA",
+          "line": "The theory is simple. The shield bends light rays around the planet's contour, similar to the Romulan cloaking device. But the implementation is quite difficult."
+        },
+        {
+          "character": "WORF",
+          "line": "Captain!"
+        },
+        {
+          "character": "PICARD",
+          "line": "Data, what do you read?"
+        },
+        {
+          "character": "DATA",
+          "line": "Some sort of scanning device, sir."
+        },
+        {
+          "character": "PICARD",
+          "line": "Don't touch him!"
+        },
+        {
+          "character": "LAFORGE",
+          "line": "This beam is emanating from Aldea."
+        },
+        {
+          "character": "PICARD",
+          "line": "Shields up. La Forge, contact Commander Riker. Worf, check all decks."
+        },
+        {
+          "character": "TASHA",
+          "line": "Shields inoperable, sir."
+        },
+        {
+          "character": "DATA",
+          "line": "All decks being probed in a methodical pattern, sir."
+        },
+        {
+          "character": "PICARD",
+          "line": "All decks? Everything? The entire ship?"
+        },
+        {
+          "character": "DATA",
+          "line": "Aye, sir."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "I can't reach the Commander. We're being blocked."
+        },
+        {
+          "character": "PICARD",
+          "line": "Wesley, are you all right?"
+        },
+        {
+          "character": "WESLEY",
+          "line": "It was scary at first, but I really didn't feel anything."
+        },
+        {
+          "character": "WORF",
+          "line": "Sir, similar incidents all decks, but only with the children."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "RADUE",
+          "line": "Yes, we are an ancient power, Commander, but we've suffered for it. Our history is littered with the deaths of those Aldeans who wanted more and more things. Nothing was ever enough. So we've evolved a very simple way of living. For whatever is taken, something is given in return."
+        },
+        {
+          "character": "RIKER",
+          "line": "It seems an equitable code."
+        },
+        {
+          "character": "RADUE",
+          "line": "It's brought us peace. Unfortunately, there are very few of us left to enjoy it."
+        },
+        {
+          "character": "TROI",
+          "line": "Why?"
+        },
+        {
+          "character": "RADUE",
+          "line": "That is part of what we wish to diskuss. We need help from the Federation to rebuild our heritage. We need a younger generation, strong and healthy, following in the Aldean traditions."
+        },
+        {
+          "character": "RIKER",
+          "line": "I don't understand. How can the Federation help influence your children in your traditions?"
+        },
+        {
+          "character": "RADUE",
+          "line": "Because we have no children, Commander. Rashella was the last child born on this planet."
+        },
+        {
+          "character": "CRUSHER",
+          "line": "And your medical community can do nothing?"
+        },
+        {
+          "character": "RASHELLA",
+          "line": "They've tried, Doctor Crusher. And failed."
+        },
+        {
+          "character": "CRUSHER",
+          "line": "Perhaps we can help."
+        },
+        {
+          "character": "RIKER",
+          "line": "Radue, exactly why were we invited here?"
+        },
+        {
+          "character": "RADUE",
+          "line": "We propose a trade. One which will solve our problem and give something back to the Federation."
+        },
+        {
+          "character": "RIKER",
+          "line": "And the nature of this trade?"
+        },
+        {
+          "character": "RADUE",
+          "line": "We need some of your children. In payment, we will give you information that would take you centuries to acquire."
+        },
+        {
+          "character": "TROI",
+          "line": "That might be acceptable to some other races, but humans are unusually attached to their offspring."
+        },
+        {
+          "character": "CRUSHER",
+          "line": "Our children are not for sale at any price."
+        },
+        {
+          "character": "RIKER",
+          "line": "We sympathize with your situation, but what you ask is not possible."
+        },
+        {
+          "character": "RADUE",
+          "line": "And that's your final answer?"
+        },
+        {
+          "character": "RIKER",
+          "line": "That's my only answer. Now if there's some other way we can help you."
+        },
+        {
+          "character": "RADUE",
+          "line": "I am sorry you are intransigent."
+        }
+      ],
+      "location": "First Unit"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "LAFORGE",
+          "line": "Still no response, sir."
+        },
+        {
+          "character": "CRUSHER",
+          "line": "Wesley! They've taken my son."
+        },
+        {
+          "character": "WORF",
+          "line": "Captain, Saucer Section reports six more children are gone."
+        },
+        {
+          "character": "RIKER",
+          "line": "It's the children. That's why we've been brought here. That's what they wanted."
+        },
+        {
+          "character": "PICARD",
+          "line": "And that's what they have. Status."
+        },
+        {
+          "character": "TASHA",
+          "line": "Aldean shield still up. Hailing frequencies open. No response."
+        },
+        {
+          "character": "PICARD",
+          "line": "Keep trying. Counselor, you'll have to gather the parents."
+        },
+        {
+          "character": "TROI",
+          "line": "They'll need to speak to you as well, Captain."
+        },
+        {
+          "character": "RADUE",
+          "line": "Captain, your children are with us. My word of honor, no harm will ever come to them.",
+          "modifier": "screen"
+        },
+        {
+          "character": "PICARD",
+          "line": "Harm has already come to them."
+        },
+        {
+          "character": "RADUE",
+          "line": "Captain, let us begin diskussions regarding appropriate compensation.",
+          "modifier": "screen"
+        },
+        {
+          "character": "PICARD",
+          "line": "Compensation? You have stolen our children away from their classrooms, away from their bedrooms and you talk about compensation? You claim to be a civilized world and yet you have just committed an act of utter barbarity!"
+        },
+        {
+          "character": "RADUE",
+          "line": "Captain, we will continue these diskussions when you've calmed down.",
+          "modifier": "screen"
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "KATIE",
+          "line": "Wesley, I'm frightened."
+        },
+        {
+          "character": "WESLEY",
+          "line": "I know you are, Katie. We all are. But we're going to be all right. Everyone knows where we are, and no one is going to hurt you. I promise."
+        },
+        {
+          "character": "RADUE",
+          "line": "Greetings, Wesley Crusher. The Custodian indicated that you would be the leader."
+        },
+        {
+          "character": "WESLEY",
+          "line": "The Custodian? Who is the Custodian?"
+        },
+        {
+          "character": "RADUE",
+          "line": "The Custodian is not a person."
+        },
+        {
+          "character": "RASHELLA",
+          "line": "You have been brought to Aldea as our guests. We'll provide anything you need or want."
+        },
+        {
+          "character": "WESLEY",
+          "line": "We want to go home."
+        },
+        {
+          "character": "RADUE",
+          "line": "Wesley, all of you have been chosen because you are special. Just ask for anything you want, and you shall have it."
+        }
+      ],
+      "location": "First Unit"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TOYA",
+          "line": "What's happened to Alexandra and the other children, Captain? How are you getting them back?"
+        },
+        {
+          "character": "CRUSHER",
+          "line": "Toya, sit down. Don't give in to fear. Now, we all knew what the risks were when we signed on, and that's the choice we made. Now, Captain Picard will do everything possible to bring our children back."
+        },
+        {
+          "character": "PICARD",
+          "line": "The Aldeans are anxious to diskuss compensation."
+        },
+        {
+          "character": "BERNARD",
+          "line": "Compensation?"
+        },
+        {
+          "character": "PICARD",
+          "line": "That will buy us time. I've asked Doctor Crusher to be involved in the negotiations as your representative."
+        },
+        {
+          "character": "BERNARD",
+          "line": "Why were these specific children taken?"
+        },
+        {
+          "character": "TROI",
+          "line": "We can't be sure. We do know the Aldeans can't have children of their own."
+        },
+        {
+          "character": "BERNARD",
+          "line": "Then they won't let them go easily."
+        },
+        {
+          "character": "PICARD",
+          "line": "I won't insult you by pretending that any of this will be easy. But I can tell you that the Enterprise will not leave them behind. You can be assured of that."
+        },
+        {
+          "character": "BERNARD",
+          "line": "Can we talk with our children? Give them some reassurance. Let them know that we are here, and that they will be safe."
+        },
+        {
+          "character": "PICARD",
+          "line": "I'll do my best to arrange that."
+        },
+        {
+          "character": "BERNARD",
+          "line": "The last time I saw him, I yelled at him."
+        }
+      ],
+      "location": "Observation lounge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "RASHELLA",
+          "line": "There you are! I have you now!"
+        }
+      ],
+      "location": "Rashella's room"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "RADUE",
+          "line": "Come in. Don't be alarmed. The other children have been assigned to their units."
+        },
+        {
+          "character": "WESLEY",
+          "line": "Units?"
+        },
+        {
+          "character": "RADUE",
+          "line": "A unit is a group where those of similar talents and interests live together."
+        },
+        {
+          "character": "WESLEY",
+          "line": "Do you mean like a family."
+        },
+        {
+          "character": "RADUE",
+          "line": "Yes, you could call it that."
+        },
+        {
+          "character": "WESLEY",
+          "line": "We already have families. Does Captain Picard know you're doing this?"
+        },
+        {
+          "character": "RADUE",
+          "line": "We are keeping nothing from him."
+        },
+        {
+          "character": "LEDA",
+          "line": "We have been waiting for you so long, Harry. We are artists, just like you. We see within you the potential of what you can be."
+        },
+        {
+          "character": "HARRY",
+          "line": "I'm not an artist."
+        },
+        {
+          "character": "ACCOLAN",
+          "line": "You will be. And a great one."
+        },
+        {
+          "character": "LEDA",
+          "line": "This way. Unit B, three seven five."
+        },
+        {
+          "character": "RADUE",
+          "line": "Katie."
+        },
+        {
+          "character": "MELIAN",
+          "line": "I am honored."
+        },
+        {
+          "character": "KATIE",
+          "line": "Thank you."
+        },
+        {
+          "character": "RADUE",
+          "line": "Melian is the foremost musician on Aldea."
+        },
+        {
+          "character": "MELIAN",
+          "line": "Music speaks its own language. I know we'll have much to learn from each other. Don't worry, Katie, you'll be seeing Wesley soon."
+        },
+        {
+          "character": "WESLEY",
+          "line": "What about me? Don't I get a say in this?"
+        },
+        {
+          "character": "RADUE",
+          "line": "Wesley, sometimes something happens which you just must accept. You and the other children are now members of this society. That will not change. It is up to you to make the transition as easy as possible for the others. It's your duty, because you are their leader. Help them to accept it because nothing you, or those on the starship can do will change it. Because like you, we also have no choice."
+        },
+        {
+          "character": "RADUE",
+          "line": "Where have you been Rashella? Zena and Aran are waiting to take Alexandra."
+        },
+        {
+          "character": "RASHELLA",
+          "line": "No."
+        },
+        {
+          "character": "RADUE",
+          "line": "No? I told you that she"
+        },
+        {
+          "character": "RASHELLA",
+          "line": "No, Radue. They can't have her. I will never let her go."
+        }
+      ],
+      "location": "First Unit"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "PICARD",
+          "line": "Any response from Aldea, Lieutenant?"
+        },
+        {
+          "character": "TASHA",
+          "line": "Not yet, sir."
+        },
+        {
+          "character": "RIKER",
+          "line": "Captain, Data has found something interesting. The Aldean shield gives evidence of random fluctuations, weakening its structure in isolated sections."
+        },
+        {
+          "character": "PICARD",
+          "line": "You're saying there are holes in their defense system?"
+        },
+        {
+          "character": "RIKER",
+          "line": "In essence, yes. I find it surprising after all these eons that the Aldeans' have not perfected their technology. One would assume they would be aware of the weakness and repair it."
+        },
+        {
+          "character": "PICARD",
+          "line": "Can we beam down an away team through one of those holes?"
+        },
+        {
+          "character": "RIKER",
+          "line": "It's a possibility. It would have to be perfectly timed, and there's no guarantee."
+        },
+        {
+          "character": "DATA",
+          "line": "We may be more successful in deciphering the code they use to transport through the magnetic shield."
+        },
+        {
+          "character": "PICARD",
+          "line": "Can you do that?"
+        },
+        {
+          "character": "DATA",
+          "line": "Eventually, sir. I am working on it now but the number of permutations is almost endless."
+        },
+        {
+          "character": "PICARD",
+          "line": "Keep trying. While he's doing that, Number One, I want you and La Forge to try and find some way of getting through one of those holes, because one way or the other we have got to get an away team on the planet, locate the power source for the shield and neutralize it."
+        },
+        {
+          "character": "RIKER",
+          "line": "You're certain they'll negotiate?"
+        },
+        {
+          "character": "PICARD",
+          "line": "Oh, they'll negotiate, or they'll call it that. They've taken what they want. Now they'll rationalize it by throwing us some sort of bone."
+        },
+        {
+          "character": "RIKER",
+          "line": "And when we don't accept their offer?"
+        },
+        {
+          "character": "PICARD",
+          "line": "The minute they believe that we won't accept their compensation for the children, they'll break off the diskussion, they'll disappear behind their shield, locking us out and the children in forever. That's why I've got to keep them talking."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "DUANA",
+          "line": "Custodian, Wesley Crusher's voice will be entered into the authorized file for Third Level clearance."
+        },
+        {
+          "character": "CUSTODIAN",
+          "line": "Proceed, Duana."
+        },
+        {
+          "character": "DUANA",
+          "line": "Announce yourself to the Custodian."
+        },
+        {
+          "character": "WESLEY",
+          "line": "Hello, Custodian. I am Wesley Crusher."
+        },
+        {
+          "character": "CUSTODIAN",
+          "line": "Hello, Wesley. Your voice will now activate Third Level clearance."
+        },
+        {
+          "character": "WESLEY",
+          "line": "What does that mean?"
+        },
+        {
+          "character": "CUSTODIAN",
+          "line": "You may ask any questions you wish."
+        },
+        {
+          "character": "WESLEY",
+          "line": "Thank you. Duana, what does the Custodian do?"
+        },
+        {
+          "character": "DUANA",
+          "line": "It frees us from all burden. It takes care of all our needs. It regulates our lives."
+        },
+        {
+          "character": "WESLEY",
+          "line": "Who built it?"
+        },
+        {
+          "character": "DUANA",
+          "line": "The Progenitors."
+        },
+        {
+          "character": "WESLEY",
+          "line": "When?"
+        },
+        {
+          "character": "DUANA",
+          "line": "Oh, hundreds of centuries ago."
+        },
+        {
+          "character": "WESLEY",
+          "line": "What is its power source?"
+        },
+        {
+          "character": "DUANA",
+          "line": "Wesley, why is that important? It does what we ask it. It always has. What difference does it make how it works?"
+        },
+        {
+          "character": "WESLEY",
+          "line": "If you don't know how it works, then how can you repair it?"
+        },
+        {
+          "character": "DUANA",
+          "line": "Why would we want to repair it?"
+        },
+        {
+          "character": "WESLEY",
+          "line": "From time to time, every computer, I mean Custodian, requires maintenance."
+        },
+        {
+          "character": "DUANA",
+          "line": "Wesley, Radue is right. You ask questions I can't answer. Ask the Custodian instead."
+        },
+        {
+          "character": "WESLEY",
+          "line": "Custodian, can you show me where Harry is?"
+        },
+        {
+          "character": "CUSTODIAN",
+          "line": "Yes."
+        },
+        {
+          "character": "WESLEY",
+          "line": "Custodian, show me Harry."
+        },
+        {
+          "character": "HARRY",
+          "line": "I never did this before. It's fun.",
+          "modifier": "screen"
+        },
+        {
+          "character": "WESLEY",
+          "line": "You are going to make him into a sculptor?"
+        },
+        {
+          "character": "DUANA",
+          "line": "He already is. He was just never encouraged properly. The tool Leda is giving him will allow him to bring out his visions."
+        },
+        {
+          "character": "WESLEY",
+          "line": "It will take him years to learn to do that."
+        },
+        {
+          "character": "DUANA",
+          "line": "Oh, no. It will happen quite quickly."
+        },
+        {
+          "character": "WESLEY",
+          "line": "Custodian, show me Alexandra."
+        },
+        {
+          "character": "WESLEY",
+          "line": "Custodian, show me Mason."
+        },
+        {
+          "character": "DUANA",
+          "line": "Stop, Custodian. We must work now. There is much to learn."
+        },
+        {
+          "character": "WESLEY",
+          "line": "What's in there? The power source?"
+        },
+        {
+          "character": "DUANA",
+          "line": "I don't know. It's forbidden."
+        },
+        {
+          "character": "PICARD",
+          "line": "Captain's log, supplemental. We remain in orbit around Aldea. It's becoming all too evident that talk will not effect the return of our children. We must neutralize the Aldean shield. Until then, we are helpless.",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "Custodian room"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TASHA",
+          "line": "Sir, Radue is hailing us."
+        },
+        {
+          "character": "RADUE",
+          "line": "Captain Picard?",
+          "modifier": "screen"
+        },
+        {
+          "character": "PICARD",
+          "line": "Doctor Crusher and I are ready, Radue."
+        },
+        {
+          "character": "RADUE",
+          "line": "Are you ill, Captain?",
+          "modifier": "screen"
+        },
+        {
+          "character": "PICARD",
+          "line": "No. Doctor Crusher is a Staff Officer, Radue. Starfleet Regulation six point five seven requires that at least two Staff Officers are present during any treaty or contract negotiations."
+        },
+        {
+          "character": "RADUE",
+          "line": "Very well.",
+          "modifier": "screen"
+        },
+        {
+          "character": "RIKER",
+          "line": "Not much on pleasantries, is he?"
+        },
+        {
+          "character": "DATA",
+          "line": "I am not aware of Regulation six point five seven."
+        },
+        {
+          "character": "PICARD",
+          "line": "No, Data. Neither am I."
+        },
+        {
+          "character": "DATA",
+          "line": "I see, sir. Oh, I see, sir."
+        },
+        {
+          "character": "PICARD",
+          "line": "Doctor Crusher, please report to the Bridge. Now, we'll see what they have in mind."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "PICARD",
+          "line": "Before we begin, we want to see the children."
+        },
+        {
+          "character": "RADUE",
+          "line": "No. We're here to negotiate appropriate compensation, not to pander to emotions. Please sit."
+        },
+        {
+          "character": "PICARD",
+          "line": "We do not condone your actions. You're attempting to salve your conscience by offering goods in exchange for our children."
+        },
+        {
+          "character": "RADUE",
+          "line": "Why do you want them back so badly? You can always have more."
+        },
+        {
+          "character": "PICARD",
+          "line": "You are trifling with the primal instincts of our species. I must warn you that human parents are quite willing to die for their children."
+        },
+        {
+          "character": "RADUE",
+          "line": "Returning the children is non-negotiable."
+        },
+        {
+          "character": "RASHELLA",
+          "line": "I promise you, they'll have a beautiful life with us. And they'll be father and mother to a new breed born of an ancient culture."
+        },
+        {
+          "character": "CRUSHER",
+          "line": "But how can you be so sure that they can have children? You can't."
+        },
+        {
+          "character": "RADUE",
+          "line": "But they will. Our inability to bear children is a genetic dysfunction. It's not contagious."
+        },
+        {
+          "character": "PICARD",
+          "line": "We sympathize with your situation. Surely there is a solution which can be mutually satisfactory?"
+        },
+        {
+          "character": "RADUE",
+          "line": "For us, the problem is solved. And we're offering you information on areas of the galaxy you do not even know exist. What more can we offer? What more would you like?"
+        },
+        {
+          "character": "PICARD",
+          "line": "A significant beginning. But first, I must ask that Doctor Crusher be allowed to see her son before we continue."
+        },
+        {
+          "character": "RADUE",
+          "line": "You are a stubborn people. Ah, well, that too can be a positive trait. You may see him."
+        }
+      ],
+      "location": "First Unit"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "WESLEY",
+          "line": "Mom!"
+        },
+        {
+          "character": "CRUSHER",
+          "line": "Wes."
+        },
+        {
+          "character": "WESLEY",
+          "line": "I knew Captain Picard would get us home."
+        },
+        {
+          "character": "CRUSHER",
+          "line": "Not yet, Wes."
+        },
+        {
+          "character": "WESLEY",
+          "line": "Oh."
+        },
+        {
+          "character": "CRUSHER",
+          "line": "Are you okay? And the others?"
+        },
+        {
+          "character": "WESLEY",
+          "line": "Okay, really okay. We've been assigned to our units, like families. They're treating us like gods."
+        },
+        {
+          "character": "CRUSHER",
+          "line": "Don't let it go to your head."
+        },
+        {
+          "character": "WESLEY",
+          "line": "I won't."
+        }
+      ],
+      "location": "Wesley's room"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "CRUSHER",
+          "line": "Wes seems fine. He says the other children are too."
+        },
+        {
+          "character": "RASHELLA",
+          "line": "Of course they're well."
+        },
+        {
+          "character": "RADUE",
+          "line": "Captain Picard, you have our offer. It is final. Rashella."
+        }
+      ],
+      "location": "First Unit"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "RADUE",
+          "line": "Captain, we want you to understand the nature of your choice. A small demonstration of our power.",
+          "modifier": "screen"
+        },
+        {
+          "character": "PICARD",
+          "line": "What was that?"
+        },
+        {
+          "character": "DATA",
+          "line": "I believe it was a repulsor beam."
+        },
+        {
+          "character": "PICARD",
+          "line": "Position report."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "This is unbelievable, sir. According to my calculations, we're three days from Aldea. At warp nine."
+        },
+        {
+          "character": "RIKER",
+          "line": "And they call that a small demonstration?"
+        },
+        {
+          "character": "PICARD",
+          "line": "Geordi, get us back to Aldea. Warp nine."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Aye, sir."
+        },
+        {
+          "character": "RADUE",
+          "line": "Captain, if you don't accept our terms, the Enterprise will be pushed so far away that by the time you return, your children will be grandparents.",
+          "modifier": "screen"
+        },
+        {
+          "character": "PICARD",
+          "line": "Captain's log, stardate 41512.4. We are twenty hours away from Aldea, and no closer to a solution. Their deliberate show of force pushed us out of orbit and could have easily disintegrated the ship.",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "MELIAN",
+          "line": "Now, hold it a little bit more firmly. That's it. Perfect. Now think. No, think's not right. Feel the notes inside your head."
+        },
+        {
+          "character": "KATIE",
+          "line": "I'm sorry. Did I break it?"
+        },
+        {
+          "character": "MELIAN",
+          "line": "No, it's all right. You can't break this."
+        },
+        {
+          "character": "KATIE",
+          "line": "It did exactly what I thought. I mean, felt."
+        },
+        {
+          "character": "MELIAN",
+          "line": "Yes, it's a direct expression of the music within. Now we just have to teach you to structure that feeling. Try it again."
+        },
+        {
+          "character": "MELIAN",
+          "line": "That was beautiful. Now, play something happier."
+        },
+        {
+          "character": "KATIE",
+          "line": "That's not the way I feel. I don't want to do this any more."
+        }
+      ],
+      "location": "Music Unit"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "ACCOLAN",
+          "line": "You see, Harry, I told you you were going to be an artist."
+        },
+        {
+          "character": "HARRY",
+          "line": "Are you sure? Did I really do this?"
+        },
+        {
+          "character": "ACCOLAN",
+          "line": "Oh, yes. Your talent has always been there. The sculpting tool is just helping you develop it. It's what you were meant to do."
+        },
+        {
+          "character": "HARRY",
+          "line": "You mean I don't have to take calculus anymore?"
+        },
+        {
+          "character": "ACCOLAN",
+          "line": "You don't have to do anything you don't want to do. What's calculus?"
+        },
+        {
+          "character": "HARRY",
+          "line": "Nothing important. Can I do some more?"
+        },
+        {
+          "character": "PICARD",
+          "line": "Captain's log, supplemental. It has been three days since the Aldeans pushed us away. We have had no contact with Radue since then.",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "Artist's Unit"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "PICARD",
+          "line": "Open hailing frequencies, Lieutenant Yar."
+        },
+        {
+          "character": "TASHA",
+          "line": "Frequencies open, sir."
+        },
+        {
+          "character": "PICARD",
+          "line": "Radue, this is Picard."
+        },
+        {
+          "character": "RADUE",
+          "line": "Welcome back, Captain. What have you decided?",
+          "modifier": "screen"
+        },
+        {
+          "character": "PICARD",
+          "line": "That there is room for diskussion, Radue."
+        },
+        {
+          "character": "RADUE",
+          "line": "We will bring you down when we are ready.",
+          "modifier": "screen"
+        },
+        {
+          "character": "PICARD",
+          "line": "Data, find a way to defeat that shield."
+        },
+        {
+          "character": "DATA",
+          "line": "That may be impossible, sir."
+        },
+        {
+          "character": "PICARD",
+          "line": "Things are only impossible until they're not."
+        },
+        {
+          "character": "DATA",
+          "line": "Yes, sir."
+        },
+        {
+          "character": "CRUSHER",
+          "line": "Captain. Here's what I've learned so far. Duana is dying. I have no reason to believe the rest of the Aldeans are any healthier. They're suffering from some kind of chromosomal damage. It could be genetic or environmental."
+        },
+        {
+          "character": "PICARD",
+          "line": "And is that why they can't conceive?"
+        },
+        {
+          "character": "CRUSHER",
+          "line": "Yes. It also explains their lack of appetite, extreme pallor and sensitivity to light."
+        },
+        {
+          "character": "PICARD",
+          "line": "An entire civilisation that's terminally ill. Is it reversible?"
+        },
+        {
+          "character": "CRUSHER",
+          "line": "I won't know until I find the cause. And you don't need to tell me time is running out."
+        },
+        {
+          "character": "PICARD",
+          "line": "Good work, Doctor."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "ACCOLAN",
+          "line": "Have the lesions gone?"
+        },
+        {
+          "character": "LEDA",
+          "line": "Yes. The medicine worked again."
+        },
+        {
+          "character": "ACCOLAN",
+          "line": "Good. Come see what Harry's doing. Beautiful!"
+        },
+        {
+          "character": "HARRY",
+          "line": "Yeah, it really turned out well."
+        },
+        {
+          "character": "ACCOLAN",
+          "line": "It is so alive and graceful. What do you call it?"
+        },
+        {
+          "character": "HARRY",
+          "line": "It's a dolphin."
+        },
+        {
+          "character": "LEDA",
+          "line": "Dolphin?"
+        },
+        {
+          "character": "HARRY",
+          "line": "You know, it swims in the ocean. Like a fish, only it's not a fish."
+        },
+        {
+          "character": "LEDA",
+          "line": "Ah. A fish. We used to have them in our oceans. I've never seen one before."
+        },
+        {
+          "character": "HARRY",
+          "line": "I used to live near the ocean on Zadar Four. My dad's an oceanographer. He says that. Never mind. It doesn't matter."
+        }
+      ],
+      "location": "Artist's Unit"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "ALEXANDRA",
+          "line": "I want Mommy. I want Mommy."
+        }
+      ],
+      "location": "Rashella's room"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "DUANA",
+          "line": "You haven't eaten."
+        },
+        {
+          "character": "WESLEY",
+          "line": "You didn't eat anything."
+        },
+        {
+          "character": "RADUE",
+          "line": "We need very little."
+        },
+        {
+          "character": "DUANA",
+          "line": "I know you miss your family. But you will grow accustomed to us. I promise you'll be happy."
+        },
+        {
+          "character": "WESLEY",
+          "line": "We were happy before we came."
+        },
+        {
+          "character": "DUANA",
+          "line": "We are offering more, especially for you."
+        },
+        {
+          "character": "WESLEY",
+          "line": "Duana, I feel badly for you that you have no children, but I have to tell you that we don't want to be here and we will not cooperate."
+        }
+      ],
+      "location": "First Unit"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "CRUSHER",
+          "line": "No. That doesn't fit the pattern. Give me a list of the appropriate medical literature from the twenty-second century. There's not enough time!"
+        },
+        {
+          "character": "PICARD",
+          "line": "Is there anything I can do?"
+        },
+        {
+          "character": "CRUSHER",
+          "line": "You just did, Jean-Luc. Now I have to get back to work."
+        }
+      ],
+      "location": "Doctor's office"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "WESLEY",
+          "line": "Custodian's room."
+        }
+      ],
+      "location": "Wesley's room"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "WESLEY",
+          "line": "Custodian, this is Wesley Crusher."
+        },
+        {
+          "character": "CUSTODIAN",
+          "line": "Proceed, Wesley."
+        },
+        {
+          "character": "WESLEY",
+          "line": "Show me where the Enterprise children are in relation to this room. Thank you. Goodnight."
+        },
+        {
+          "character": "CUSTODIAN",
+          "line": "Good night, Wesley."
+        }
+      ],
+      "location": "Custodian room"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "WESLEY",
+          "line": "I think I know a way to get us home. I need your help. Chief Medical Officer's log, stardate 41512.9. I've begun to suspect that whatever is killing the Aldeans is related to a danger faced by Earth in the twenty first century. Can it be that Aldea's ozone layer has been weakened?"
+        }
+      ],
+      "location": "Katie's room"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "KATIE",
+          "line": "Why will not talking or eating make them send us home?"
+        },
+        {
+          "character": "WESLEY",
+          "line": "It's called passive resistance. We don't do what they want us to do and then they won't want us."
+        },
+        {
+          "character": "KATIE",
+          "line": "Will they get mad at us?"
+        },
+        {
+          "character": "WESLEY",
+          "line": "They won't hurt us."
+        },
+        {
+          "character": "HARRY",
+          "line": "But, Wes, I do kind of like them."
+        },
+        {
+          "character": "WESLEY",
+          "line": "So do I, but I don't want to stay here forever. Do you?"
+        },
+        {
+          "character": "HARRY",
+          "line": "No, but I like working with the wood."
+        },
+        {
+          "character": "WESLEY",
+          "line": "Harry, we all have to be in this together or it's not going to work."
+        },
+        {
+          "character": "HARRY",
+          "line": "Okay. I'll do it."
+        },
+        {
+          "character": "RASHELLA",
+          "line": "What are you all doing here together?"
+        },
+        {
+          "character": "RASHELLA",
+          "line": "What is going on here?"
+        }
+      ],
+      "location": "Wesley's room"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "CRUSHER",
+          "line": "I've got it, Captain. The Aldeans are suffering from a form of radiation poisoning."
+        },
+        {
+          "character": "PICARD",
+          "line": "Is that what made the Aldeans sterile?"
+        },
+        {
+          "character": "CRUSHER",
+          "line": "Yes."
+        },
+        {
+          "character": "PICARD",
+          "line": "Is it reversible?"
+        },
+        {
+          "character": "CRUSHER",
+          "line": "With the proper treatment, yes."
+        },
+        {
+          "character": "DATA",
+          "line": "Captain."
+        },
+        {
+          "character": "CRUSHER",
+          "line": "Sir."
+        },
+        {
+          "character": "DATA",
+          "line": "These permutations are going to take a very long time."
+        },
+        {
+          "character": "PICARD",
+          "line": "How long?"
+        },
+        {
+          "character": "DATA",
+          "line": "Weeks."
+        },
+        {
+          "character": "RIKER",
+          "line": "There is the option."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "We were able to further define the weakness in their shield. Now, it's not a hole as much as it is a fluctuation."
+        },
+        {
+          "character": "RIKER",
+          "line": "If the timing is precise, it's possible to beam through and onto the planet."
+        },
+        {
+          "character": "PICARD",
+          "line": "Why don't we just beam the children up through the hole?"
+        },
+        {
+          "character": "RIKER",
+          "line": "The timing would be more difficult, and the risk greater."
+        },
+        {
+          "character": "PICARD",
+          "line": "All right. You and Data beam down. Locate the power source of that shield. Knock it out. I'll delay the Aldeans until you're ready."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "LEDA",
+          "line": "Will you at least eat?"
+        },
+        {
+          "character": "WESLEY",
+          "line": "No, Alexandra."
+        },
+        {
+          "character": "ALEXANDRA",
+          "line": "Why?"
+        },
+        {
+          "character": "WESLEY",
+          "line": "We can't eat. I know you're hungry. We all are. But it's our way of telling them that we want to go home. Understand?"
+        },
+        {
+          "character": "ALEXANDRA",
+          "line": "Yes."
+        }
+      ],
+      "location": "Wesley's room"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "RIKER",
+          "line": "We're ready, Lieutenant Worf."
+        }
+      ],
+      "location": "Transporter room"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "RADUE",
+          "line": "Captain, you may come down now to conclude our diskussions, or your ship may leave. It's your choice.",
+          "modifier": "screen"
+        },
+        {
+          "character": "PICARD",
+          "line": "Doctor Crusher and I are prepared to conclude our negotiations."
+        },
+        {
+          "character": "WORF",
+          "line": "Transporter room, now!"
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "DATA",
+          "line": "This is it, Commander. It is programd to accept only authorized voice command."
+        },
+        {
+          "character": "RIKER",
+          "line": "There's no way we can override."
+        },
+        {
+          "character": "DATA",
+          "line": "No, but I can scramble the input so that nobody else can."
+        }
+      ],
+      "location": "Custodian room"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "RADUE",
+          "line": "Before we begin, Captain, you must speak with the children. It seems they are on some sort of strike. I don't understand it. You must deal with this, Captain. I'm not very good with children."
+        },
+        {
+          "character": "PICARD",
+          "line": "Strike? I'll see what I can do."
+        }
+      ],
+      "location": "First Unit"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "WESLEY",
+          "line": "I'm sure if we just stick together, guys, we'll all be"
+        },
+        {
+          "character": "KATIE",
+          "line": "Hi, Captain Picard."
+        },
+        {
+          "character": "HARRY",
+          "line": "Hi, Captain."
+        },
+        {
+          "character": "WESLEY",
+          "line": "Sir, I knew you'd come."
+        },
+        {
+          "character": "PICARD",
+          "line": "It's not over yet, Wesley."
+        },
+        {
+          "character": "WESLEY",
+          "line": "I think I figured out their computer controls, sir, but I'm not sure. It's a much different system than ours."
+        },
+        {
+          "character": "PICARD",
+          "line": "Good, Wesley. Now"
+        },
+        {
+          "character": "HARRY",
+          "line": "Captain."
+        },
+        {
+          "character": "PICARD",
+          "line": "Yes, Harry."
+        },
+        {
+          "character": "HARRY",
+          "line": "If something happens and you have to leave us here, will you tell my Dad that I'm sorry that I made him angry, and that I miss him."
+        },
+        {
+          "character": "PICARD",
+          "line": "You will tell him that, Harry, and I will tell him how much I admire his son. Hello, Alexandra."
+        },
+        {
+          "character": "ALEXANDRA",
+          "line": "Hi."
+        }
+      ],
+      "location": "Wesley's room"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "RADUE",
+          "line": "What is this?"
+        },
+        {
+          "character": "PICARD",
+          "line": "They want to go home."
+        },
+        {
+          "character": "RADUE",
+          "line": "No. They're staying."
+        },
+        {
+          "character": "PICARD",
+          "line": "Number One."
+        },
+        {
+          "character": "RIKER",
+          "line": "We're in position.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "PICARD",
+          "line": "Hold for orders."
+        },
+        {
+          "character": "CRUSHER",
+          "line": "The radiation levels on Aldea have been building up over a long period of time. It is similar to what was experienced on Earth in the twenty-first century. When the ozone layer had deteriorated and the surface of the planet was flooded with ultraviolet radiation."
+        },
+        {
+          "character": "PICARD",
+          "line": "The shield that protected your world in one way is weakening it in another. It is the radiation of your own sun that is destroying you."
+        },
+        {
+          "character": "RADUE",
+          "line": "You're trying to confuse the issue."
+        },
+        {
+          "character": "CRUSHER",
+          "line": "Please, listen. You're all suffering from radiation poisoning. Sterility is only the latest symptom. If the children remain, they will be affected as well."
+        },
+        {
+          "character": "RADUE",
+          "line": "It's impossible. Our scientists would have known."
+        },
+        {
+          "character": "CRUSHER",
+          "line": "How could they? Your scientists have forgotten how everything works."
+        },
+        {
+          "character": "RADUE",
+          "line": "No. All lies."
+        },
+        {
+          "character": "RASHELLA",
+          "line": "No. Wait. Don't send them back yet. What if they're right? Instead of the children being our hope, what if we're just condemning them to our fate?"
+        },
+        {
+          "character": "RADUE",
+          "line": "Rashella, they're just protecting their own interests."
+        },
+        {
+          "character": "RASHELLA",
+          "line": "As are we. But hear them out. The Captain and Doctor Crusher are saying that the very thing which has given us this wonderful world is what has caused this tragedy."
+        },
+        {
+          "character": "PICARD",
+          "line": "That's it, exactly. Your Custodian has controlled you so completely you've lost even the desire to even question it."
+        },
+        {
+          "character": "RADUE",
+          "line": "Lies, and the diskussion is over."
+        },
+        {
+          "character": "PICARD",
+          "line": "Commander Riker."
+        },
+        {
+          "character": "RIKER",
+          "line": "Here, sir.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "PICARD",
+          "line": "I assume you have control of the computer."
+        },
+        {
+          "character": "RIKER",
+          "line": "We've disabled the system temporarily.",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "First Unit"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "RIKER",
+          "line": "We found the power source to the shield and we've neutralized it."
+        }
+      ],
+      "location": "Custodian room"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "PICARD",
+          "line": "Good. Enterprise, this is Picard. Beam the children up."
+        },
+        {
+          "character": "HARRY",
+          "line": "Wait."
+        },
+        {
+          "character": "PICARD",
+          "line": "Enterprise, hold."
+        },
+        {
+          "character": "HARRY",
+          "line": "Thank you."
+        },
+        {
+          "character": "ACCOLAN",
+          "line": "Let me get the dolphin for you to take with you."
+        },
+        {
+          "character": "HARRY",
+          "line": "No, you keep it. I'll make another one."
+        },
+        {
+          "character": "PICARD",
+          "line": "All right, Harry?"
+        },
+        {
+          "character": "HARRY",
+          "line": "Yes, Captain."
+        },
+        {
+          "character": "WESLEY",
+          "line": "Okay, kids. Let's go home."
+        },
+        {
+          "character": "PICARD",
+          "line": "Beam them up."
+        },
+        {
+          "character": "RADUE",
+          "line": "You have destroyed us."
+        },
+        {
+          "character": "PICARD",
+          "line": "We are not here to destroy you, Radue. We can help you."
+        }
+      ],
+      "location": "First Unit"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "RADUE",
+          "line": "What is it?"
+        },
+        {
+          "character": "PICARD",
+          "line": "A legacy of your Progenitors, Radue. The source of your power and of your problems."
+        },
+        {
+          "character": "DATA",
+          "line": "It is reading incredible amounts of energy, sir. Even more since we have taken down the shield."
+        },
+        {
+          "character": "RASHELLA",
+          "line": "What are we going to do with it?"
+        },
+        {
+          "character": "RADUE",
+          "line": "Learn, all over again. All this time we've been destroying ourselves, so sure of our technological invulnerability. Now we must learn to use this power safely."
+        },
+        {
+          "character": "PICARD",
+          "line": "Will you let us help you?"
+        },
+        {
+          "character": "RADUE",
+          "line": "Yes. Please."
+        }
+      ],
+      "location": "Power room"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "HARRY",
+          "line": "Dad, I want to be an artist, but I don't want to take calculus anymore."
+        },
+        {
+          "character": "BERNARD",
+          "line": "You can be anything you want, Harry. Anything. But you still have to take calculus."
+        },
+        {
+          "character": "HARRY",
+          "line": "Okay. Thanks, Dad."
+        }
+      ],
+      "location": "Corridor"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "DATA",
+          "line": "It worked well, sir. We have successfully reseeded the ozone layer. But for their atmosphere to maintain it's integrity, they can never use the shield."
+        },
+        {
+          "character": "RIKER",
+          "line": "Or be cloaked again."
+        },
+        {
+          "character": "PICARD",
+          "line": "Are you finished?"
+        },
+        {
+          "character": "CRUSHER",
+          "line": "Yes, Captain, and they're responding very well to the treatment."
+        },
+        {
+          "character": "PICARD",
+          "line": "The legend will die, but the people will live."
+        },
+        {
+          "character": "TROI",
+          "line": "And we know they'll make good parents."
+        },
+        {
+          "character": "PICARD",
+          "line": "Wesley!"
+        },
+        {
+          "character": "WESLEY",
+          "line": "Sorry, Captain. She just wanted to thank you for bringing her home to her mother."
+        },
+        {
+          "character": "ALEXANDRA",
+          "line": "Thank you."
+        },
+        {
+          "character": "WESLEY",
+          "line": "Come on."
+        },
+        {
+          "character": "PICARD",
+          "line": "Mister La Forge, out of orbit. Warp five."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Yes, sir. Certainly, sir."
+        }
+      ],
+      "location": "Bridge"
+    }
+  ],
+  "schedule": {
+    "episode": 18,
+    "number": 18,
+    "season": 1
+  },
+  "stardate": "41509.1",
+  "title": "When The Bough Breaks"
+}

@@ -1,0 +1,1561 @@
+{
+  "airdate": 822891600,
+  "scenes": [
+    {
+      "dialogue": [
+        {
+          "character": "PARIS",
+          "line": "Warp five. Warp six. Warp seven. I've reached critical velocity."
+        },
+        {
+          "character": "TORRES",
+          "line": "Okay. Everything looks good on this end. Fire up the new engines.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "PARIS",
+          "line": "Acknowledged. Engaging transwarp drive in four, three, two. Transwarp online. Warp nine point two, nine point three. My vector's drifting."
+        },
+        {
+          "character": "KIM",
+          "line": "Try to stabilize your field symmetry.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "PARIS",
+          "line": "Got it. Warp nine point six, nine point seven. I'm reading a fracture in the port nacelle pylon."
+        },
+        {
+          "character": "TORRES",
+          "line": "Full power to structural integrity.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "PARIS",
+          "line": "Warp nine point nine, nine point nine five. I'm approaching the threshold, but the nacelle isn't holding!"
+        },
+        {
+          "character": "KIM",
+          "line": "Tie in auxiliary power!",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "PARIS",
+          "line": "It's no use. I'm breaking up! I'm breaking"
+        }
+      ],
+      "location": "Shuttlecraft"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TORRES",
+          "line": "You're dead."
+        }
+      ],
+      "location": "Holodeck"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TORRES",
+          "line": "It's the pylon again. Every time we get close to crossing the threshold, the subspace torque rips a nacelle off the shuttle."
+        },
+        {
+          "character": "KIM",
+          "line": "What about a duranium alloy? We could try using it to reinforce"
+        },
+        {
+          "character": "TORRES",
+          "line": "No, I've thought about that already. It's too brittle."
+        },
+        {
+          "character": "NEELIX",
+          "line": "More coffee? Ah, you look like a happy bunch."
+        },
+        {
+          "character": "KIM",
+          "line": "We've hit a wall."
+        },
+        {
+          "character": "NEELIX",
+          "line": "Oh. Well, maybe I can help."
+        },
+        {
+          "character": "PARIS",
+          "line": "Great. Do you know anything about quantum warp theory or multi-spectral subspace engine design?"
+        },
+        {
+          "character": "NEELIX",
+          "line": "No. But I'm a quick study. What are we working on?"
+        },
+        {
+          "character": "TORRES",
+          "line": "Do you have anything to eat?"
+        },
+        {
+          "character": "NEELIX",
+          "line": "Sure. There's some Kalavian biscuits, somewhere in the kitchen."
+        },
+        {
+          "character": "TORRES",
+          "line": "I guess I'll go find them myself. Fill him in."
+        },
+        {
+          "character": "KIM",
+          "line": "Neelix, it would take too long to"
+        },
+        {
+          "character": "NEELIX",
+          "line": "What are you saying? I'm not smart enough? I'll have you know I did two years as an engineer's assistant aboard a Trabalian freighter. I'm well-versed in warp theory."
+        },
+        {
+          "character": "PARIS",
+          "line": "Okay, okay. We'll tell you. We're trying to break the maximum warp barrier."
+        },
+        {
+          "character": "KIM",
+          "line": "Nothing in the universe can go warp ten. It's a theoretical impossibility. In principle, if you were ever to reach warp ten, you'd be traveling at infinite velocity."
+        },
+        {
+          "character": "NEELIX",
+          "line": "Infinite velocity. Got it. So that means very fast."
+        },
+        {
+          "character": "PARIS",
+          "line": "It means that you would occupy every point in the universe simultaneously. In theory, you could go any place in the wink of an eye. Time and distance would have no meaning."
+        },
+        {
+          "character": "KIM",
+          "line": "If Voyager achieved warp ten, we could be home in as long as it takes to push a button."
+        },
+        {
+          "character": "NEELIX",
+          "line": "Wow! And you're working on this?"
+        },
+        {
+          "character": "PARIS",
+          "line": "We diskovered a new form of dilithium in the asteroid field we surveyed last month. It remains stable at a much higher warp frequency."
+        },
+        {
+          "character": "KIM",
+          "line": "The problem is, every time we simulate crossing the transwarp threshold, the nacelles get torn off the ship."
+        },
+        {
+          "character": "NEELIX",
+          "line": "I remember there was a time when I lost a warp nacelle going through a dark matter nebula."
+        },
+        {
+          "character": "PARIS",
+          "line": "This is a very different problem."
+        },
+        {
+          "character": "NEELIX",
+          "line": "I realize that. I'm just using it as an example. As the ship went through the nebula, it sent out a dark matter bow wave. Eventually so much pressure built up, it tore the nacelle from its housing. Now, maybe the same thing is happening to you."
+        },
+        {
+          "character": "KIM",
+          "line": "No, the simulations don't indicate any kind of subspace stress on the nacelles."
+        },
+        {
+          "character": "PARIS",
+          "line": "Wait a minute. What about the shuttle itself?"
+        },
+        {
+          "character": "KIM",
+          "line": "What do you mean?"
+        },
+        {
+          "character": "PARIS",
+          "line": "Maybe we've been looking in the wrong place. What if the nacelles aren't being torn from the ship? What if the ship is being torn from the nacelles?"
+        },
+        {
+          "character": "KIM",
+          "line": "The hull of the shuttle is made of tritanium alloy. At the speeds we're talking about, that alloy could depolarize."
+        },
+        {
+          "character": "PARIS",
+          "line": "And create a velocity differential. The fuselage would be traveling at a faster rate of speed than the nacelles."
+        },
+        {
+          "character": "KIM",
+          "line": "That means we just have to set up a depolarization matrix around the fuselage."
+        },
+        {
+          "character": "PARIS",
+          "line": "That's it! Neelix, you're a genius."
+        },
+        {
+          "character": "NEELIX",
+          "line": "I have no idea what they just said."
+        }
+      ],
+      "location": "Mess hall"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "PARIS",
+          "line": "Warp nine point nine two. The pylons are secure. Everything looks good. Nine point nine seven, eight, nine. Warp ten!",
+          "modifier": "screen"
+        },
+        {
+          "character": "TORRES",
+          "line": "You've crossed the threshold. You've done it. And there's been no damage to the nacelles.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "JANEWAY",
+          "line": "When you came to me a month ago and said you had a way to cross the transwarp threshold, I thought it was more of a fantasy than a theory. Congratulations to all of you."
+        },
+        {
+          "character": "TORRES",
+          "line": "So we can try a manned test flight?"
+        },
+        {
+          "character": "JANEWAY",
+          "line": "What's your flight plan?"
+        },
+        {
+          "character": "PARIS",
+          "line": "I'll bring the shuttle up to speed. The second I cross the threshold, I'll cut the engines, drop out of warp and come about."
+        },
+        {
+          "character": "KIM",
+          "line": "After that, we'll analyze the shuttle's sensor logs. Once we know it's safe to travel at transwarp, we'll try a more extended flight."
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "To be honest, it's almost frightening. Up till now, it's all been theory. I never thought it would actually happen. Are we ready for it?"
+        },
+        {
+          "character": "JANEWAY",
+          "line": "In the last couple of centuries, we've always managed to use new technologies wisely. I'm confident this time won't be any different. Besides, there's no way to put the genie back in the bottle. All we can do now is keep moving forward, carefully. Well, good luck, Mister Paris. If this works, you'll be joining an elite group of pilots. Orville Wright, Neil Armstrong, Zefram Cochrane and Tom Paris."
+        },
+        {
+          "character": "PARIS",
+          "line": "I kind of like the way that sounds."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "I thought you might."
+        }
+      ],
+      "location": "Briefing room"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "PARIS",
+          "line": "Come in. Oh, Captain. I, er"
+        },
+        {
+          "character": "JANEWAY",
+          "line": "At ease, Mister Paris. I know it's late."
+        },
+        {
+          "character": "PARIS",
+          "line": "Can I get you anything?"
+        },
+        {
+          "character": "JANEWAY",
+          "line": "No, thank you."
+        },
+        {
+          "character": "PARIS",
+          "line": "Now, why do I get the feeling this isn't just a social call?"
+        },
+        {
+          "character": "JANEWAY",
+          "line": "I've just spoken to the Doctor, and it's his opinion that we let Ensign Kim make the test flight."
+        },
+        {
+          "character": "PARIS",
+          "line": "May I ask why?"
+        },
+        {
+          "character": "JANEWAY",
+          "line": "He checked over your biometric readings from the shuttle simulations. He says you have a slight enzymatic imbalance in your cerebellum."
+        },
+        {
+          "character": "PARIS",
+          "line": "So?"
+        },
+        {
+          "character": "JANEWAY",
+          "line": "I know it doesn't sound like much, but he can't predict what'll happen when you cross the threshold. He believes there's a small chance that you could suffer a brain hemorrhage under the subspace stress."
+        },
+        {
+          "character": "PARIS",
+          "line": "How big a chance?"
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Two percent."
+        },
+        {
+          "character": "PARIS",
+          "line": "Two percent? I'll take that chance."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "There's no reason to. Ensign Kim is capable of piloting the shuttle for this mission."
+        },
+        {
+          "character": "PARIS",
+          "line": "Yeah, he's capable. That's not the point."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "What is the point, Mister Paris?"
+        },
+        {
+          "character": "PARIS",
+          "line": "Well, it's hard to explain, but this is my flight."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Your flight?"
+        },
+        {
+          "character": "PARIS",
+          "line": "When I was a boy, my father used to tell me that I was special, that one day I'd do something significant. My teachers at school, all the kids, everyone used to say, Tom Paris is going to do something important when he grows up. Obviously, that didn't happen."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "This isn't about personal redemption. We're talking about medical risk. Your life could be in danger, and we need you."
+        },
+        {
+          "character": "PARIS",
+          "line": "Captain, this is the first time in ten years I feel I have a life to risk."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "You're sure about this?"
+        },
+        {
+          "character": "PARIS",
+          "line": "Captain, I've never been so sure about anything. Please. Please let me make the flight."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Good luck, Lieutenant."
+        }
+      ],
+      "location": "Paris'\nquarters"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TORRES",
+          "line": "Torres to Bridge. The pre-launch sequence is complete"
+        }
+      ],
+      "location": "Engineering"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TORRES",
+          "line": "Captain.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Acknowledged. Ensign Kim, depressurize the shuttle bay and open the space doors."
+        },
+        {
+          "character": "KIM",
+          "line": "Aye, Captain."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Bridge to Shuttlecraft Cochrane. You're cleared for launch."
+        },
+        {
+          "character": "PARIS",
+          "line": "Aye, Captain.",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "PARIS",
+          "line": "See you at warp ten."
+        },
+        {
+          "character": "PARIS",
+          "line": "Cochrane to Voyager. All systems are nominal. I'm increasing speed."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "We'll keep up with you as long as we can.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "PARIS",
+          "line": "Warp seven"
+        }
+      ],
+      "location": "Shuttlecraft Cochrane"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "PARIS",
+          "line": "Warp eight.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "TORRES",
+          "line": "How's his dilithium matrix holding up?"
+        },
+        {
+          "character": "PARIS",
+          "line": "Warp nine.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "JONAS",
+          "line": "There's a slight variance in the warp field, but nothing to worry about."
+        },
+        {
+          "character": "TORRES",
+          "line": "Okay. Torres to shuttlecraft Cochrane. You're clear for transwarp velocity."
+        }
+      ],
+      "location": "Engineering"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "PARIS",
+          "line": "Acknowledged. Engaging transwarp drive in four, three, two"
+        }
+      ],
+      "location": "Shuttlecraft Cochrane"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "PARIS",
+          "line": "Warp nine point seven, nine point eight, nine point nine.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "TUVOK",
+          "line": "He's exceeding our maximum velocity. I am switching to long range sensors."
+        },
+        {
+          "character": "PARIS",
+          "line": "Warp nine point nine five.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "TUVOK",
+          "line": "He is approaching the threshold."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "PARIS",
+          "line": "Engine output at maximum. Velocity, warp ten."
+        }
+      ],
+      "location": "Shuttlecraft Cochrane"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "KIM",
+          "line": "Yes!"
+        },
+        {
+          "character": "PARIS",
+          "line": "Transwarp engines are stable. So are the nacelle pylons. I'm going to",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Lieutenant, can you hear me?"
+        },
+        {
+          "character": "KIM",
+          "line": "Captain, he just disappeared off sensors."
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "Increase sensor gain to maximum."
+        },
+        {
+          "character": "KIM",
+          "line": "Nothing. I can't find him. He's gone."
+        },
+        {
+          "character": "KIM",
+          "line": "I've done three full sensor sweeps. No sign of the shuttle within five parsecs."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Tuvok, could the shuttle have been destroyed?"
+        },
+        {
+          "character": "TUVOK",
+          "line": "I don't believe so. Sensors indicate that he did cross the warp threshold."
+        },
+        {
+          "character": "KIM",
+          "line": "If that's true, then he could be anywhere in the universe."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "We'll just have to keep searching our small corner. Run a multispectral sweep. I want to see if"
+        },
+        {
+          "character": "TUVOK",
+          "line": "Captain, there's a quantum surge off the port bow. Something is coming out of subspace."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Janeway to Paris."
+        },
+        {
+          "character": "KIM",
+          "line": "He's alive, but his life signs are weak."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Bridge to Transporter room two. Beam Mister Paris directly to Sickbay. Commander, bring the shuttle aboard. I'll be in Sickbay."
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "Aye, Captain."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "EMH",
+          "line": "His life signs are normal. A few elevated serotonin readings in the hypothalamus. From what I can tell, he's just asleep."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Can you wake him?"
+        },
+        {
+          "character": "EMH",
+          "line": "I don't see why not."
+        },
+        {
+          "character": "EMH",
+          "line": "Wake up, Lieutenant!"
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Are you all right, Tom?"
+        },
+        {
+          "character": "PARIS",
+          "line": "I'm back."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "We tracked you until you crossed the threshold, then you disappeared from our sensors. Do you remember what happened?"
+        },
+        {
+          "character": "PARIS",
+          "line": "Oh, yeah. I was, I was staring at the velocity indicator. It said warp ten. And then, as I watched it, I suddenly realized that I was watching myself as well. I could see the outside of the shuttle, I could see Voyager, I could see inside Voyager. I could see inside this room. For a moment, I was everywhere. I mean, everywhere, Captain. With the Kazon, back home, with the Klingons, other galaxies. It was all there. I don't know how else to explain it. It was like. Well, no, it wasn't like anything."
+        },
+        {
+          "character": "EMH",
+          "line": "Well, I'm glad you had a good time."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "How did you get back to Voyager?"
+        },
+        {
+          "character": "PARIS",
+          "line": "I saw that you were looking for me, so I took the new engines offline and ended up back where I started. But, oh, it's starting to slip away. It all was so vivid, and now"
+        },
+        {
+          "character": "TORRES",
+          "line": "Tom!"
+        },
+        {
+          "character": "PARIS",
+          "line": "Oh, I'm fine. How's the shuttle?"
+        },
+        {
+          "character": "TORRES",
+          "line": "You brought it back without a scratch. The on-board sensors confirm that you did it. You made it to warp ten."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Congratulations, Mister Paris. You've just made the history books."
+        },
+        {
+          "character": "PARIS",
+          "line": "We should download the shuttle's sensor logs, analyze the telemetry they picked up during the flight before we make another attempt."
+        },
+        {
+          "character": "EMH",
+          "line": "You're not going anywhere. At least not for a few hours. I have some tests I'd like to run on Your Majesty before I release you back into the realm of ordinary humans."
+        },
+        {
+          "character": "PARIS",
+          "line": "You may proceed."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "We'll download the logs. I'll let you know what we find."
+        }
+      ],
+      "location": "Sickbay"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "JANEWAY",
+          "line": "Janeway to Kim. We're ready."
+        }
+      ],
+      "location": "Engineering"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "KIM",
+          "line": "Acknowledged. I'm downloading the logs into the Engineering computer core."
+        }
+      ],
+      "location": "Shuttlecraft Cochrane"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TORRES",
+          "line": "This data describes literally every cubic centimeter in this sector. It's over five billion gigaquads of information."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "It would appear that the theory of infinite velocity is correct. It may be possible to occupy every point in the universe simultaneously."
+        },
+        {
+          "character": "TORRES",
+          "line": "Then it's just a matter of navigation. If we could figure out how to come out of transwarp at a specific point, this could get us home."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "It could do more than that. It could change the very nature of our existence. Think of it. There would be nothing beyond our reach. This telemetry is giving us an invaluable record of this sector. We can use it to make a star chart. Transfer the shuttle logs to Stellar Cartography for analysis."
+        },
+        {
+          "character": "TORRES",
+          "line": "Right."
+        }
+      ],
+      "location": "Engineering"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "NEELIX",
+          "line": "This is a new blend. I'm calling it Paris Delight. It's in honor of you."
+        },
+        {
+          "character": "PARIS",
+          "line": "What? Oh! Oh, thanks. That's very flattering."
+        },
+        {
+          "character": "NEELIX",
+          "line": "I can tell."
+        },
+        {
+          "character": "TORRES",
+          "line": "Well, you might as well get used to it. You're a hero now."
+        },
+        {
+          "character": "PARIS",
+          "line": "I wish I could say it was nothing. Oh. Oh, I wish Neelix would name something after me that tasted a little better."
+        },
+        {
+          "character": "TORRES",
+          "line": "Smells okay."
+        },
+        {
+          "character": "PARIS",
+          "line": "No, trust me. You're taking your life into your hands. So, I think the next step is to try to duplicate the first shuttle flight, verify our results."
+        },
+        {
+          "character": "TORRES",
+          "line": "I agree. We have to confirm that none of this was a fluke."
+        },
+        {
+          "character": "PARIS",
+          "line": "But I do think that we should increase the shuttle's memory core by at least"
+        },
+        {
+          "character": "TORRES",
+          "line": "What? What's wrong?"
+        },
+        {
+          "character": "PARIS",
+          "line": "I don't think that coffee is settling too well."
+        },
+        {
+          "character": "TORRES",
+          "line": "Do you want to go back to Sickbay?"
+        },
+        {
+          "character": "PARIS",
+          "line": "No! No, I've seen enough of the Doctor for one day. Ow! On second thought, maybe I should"
+        },
+        {
+          "character": "TORRES",
+          "line": "Torres to Transporter room two. Medical emergency. Beam Lieutenant Paris directly to Sickbay."
+        },
+        {
+          "character": "CREWMAN",
+          "line": "I can't lock onto him. His pattern keeps changing.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "TORRES",
+          "line": "Torres to Sickbay. We need a medical team in the mess hall right away. Hang on, Tom."
+        }
+      ],
+      "location": "Mess hall"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "EMH",
+          "line": "Hmm. It looks like he's having an allergic reaction. What did he ingest?"
+        },
+        {
+          "character": "TORRES",
+          "line": "Just a cup of Neelix's coffee."
+        },
+        {
+          "character": "EMH",
+          "line": "It's a miracle he's still alive. This is strange."
+        },
+        {
+          "character": "TORRES",
+          "line": "What is?"
+        },
+        {
+          "character": "EMH",
+          "line": "He's definitely having an allergic reaction. To the water in the coffee."
+        },
+        {
+          "character": "TORRES",
+          "line": "He's allergic to water?"
+        },
+        {
+          "character": "EMH",
+          "line": "I don't know how this is possible, but it appears that his entire biochemistry is changing. His electrolytes are breaking down, interstitial fluids are congealing."
+        },
+        {
+          "character": "EMH",
+          "line": "The alveoli in his lungs are mutating. He's no longer processing oxygen."
+        },
+        {
+          "character": "TORRES",
+          "line": "What should we do?"
+        },
+        {
+          "character": "EMH",
+          "line": "Stand back. Computer, erect an isolation field around the surgical bay. Computer, remove all the air from within the forcefield and replace it with eighty percent nitrogen and twenty percent acidichloride. He can breath, for now."
+        },
+        {
+          "character": "TORRES",
+          "line": "What's happening to him?"
+        },
+        {
+          "character": "EMH",
+          "line": "I have no idea, but I assume it had something to do with his experience on the shuttle."
+        },
+        {
+          "character": "EMH",
+          "line": "His cellular membranes are deteriorating. He's dying. I need to know more about what happened on that shuttle, and I need to know it now. Radiation levels, unexplained anomalies, anything."
+        },
+        {
+          "character": "PARIS",
+          "line": "You're losing me, aren't you? I'm going to die."
+        },
+        {
+          "character": "EMH",
+          "line": "You're too stubborn to die, Mister Paris. I want to try high saturation radiometric therapy. It might slow down his cellular mutation."
+        },
+        {
+          "character": "PARIS",
+          "line": "Here lies Thomas Eugene Paris, beloved mutant."
+        },
+        {
+          "character": "EMH",
+          "line": "A fitting epitaph, but I don't intend to let you use it just yet."
+        },
+        {
+          "character": "KES",
+          "line": "Radiometric emitters are charged and ready."
+        },
+        {
+          "character": "EMH",
+          "line": "Begin with forty five rads per second."
+        },
+        {
+          "character": "PARIS",
+          "line": "Great. Now it'll read, beloved radioactive mutant."
+        },
+        {
+          "character": "EMH",
+          "line": "No effect. Increase the dosage to eighty five rads per second. I'm going to try inhibiting the cell mitosis with a biosuppresser field."
+        },
+        {
+          "character": "PARIS",
+          "line": "Big funeral with lots of pretty girls all crying. Except Torres. Torres doesn't cry. Did you ever notice that? I don't trust people who don't cry. Of course, my father, he'd say crying is a sign of weakness. I never believed that. Do you cry?"
+        },
+        {
+          "character": "EMH",
+          "line": "It's not in my program."
+        },
+        {
+          "character": "PARIS",
+          "line": "Shame. You know, it's funny. What I remember most about being a kid are the times I spent in my room crying. I liked my room, though. It was quiet in there. People would leave me alone. I'd keep the door locked, read, play games. I lost my virginity in that room. Seventeen. Parents were away for the weekend."
+        },
+        {
+          "character": "EMH",
+          "line": "I'll note that in your medical file."
+        },
+        {
+          "character": "PARIS",
+          "line": "Ow!"
+        },
+        {
+          "character": "EMH",
+          "line": "His lymphatic system is collapsing. Increase dosage to ninety eight rads per second."
+        },
+        {
+          "character": "PARIS",
+          "line": "Pepperoni! God, I'd love a pepperoni pizza with Kavarian olives right now. I'm starving!"
+        },
+        {
+          "character": "EMH",
+          "line": "His life signs are critical. Maximum dosage."
+        },
+        {
+          "character": "PARIS",
+          "line": "Kiss me."
+        },
+        {
+          "character": "EMH",
+          "line": "What?"
+        },
+        {
+          "character": "PARIS",
+          "line": "Not you. Her."
+        },
+        {
+          "character": "EMH",
+          "line": "She can't breathe the atmosphere in here."
+        },
+        {
+          "character": "PARIS",
+          "line": "Consider it a last request."
+        },
+        {
+          "character": "KES",
+          "line": "I'm sorry, Tom. If we let down the forcefield, you'll suffocate."
+        },
+        {
+          "character": "PARIS",
+          "line": "Oh, what's the difference? I'm dying anyway. Do me a favor. When I'm gone, call Starfleet Headquarters and tell Dad that I did it. Tell him"
+        },
+        {
+          "character": "EMH",
+          "line": "Prepare to activate the neural stimulator."
+        },
+        {
+          "character": "KES",
+          "line": "Ready."
+        },
+        {
+          "character": "EMH",
+          "line": "Now! Again. Again! No neural activity."
+        },
+        {
+          "character": "KES",
+          "line": "We can try to revive him."
+        },
+        {
+          "character": "EMH",
+          "line": "His cell membranes have degraded. There's nothing more we can do. Computer, remove the acidichloride gas from the isolation field and deactivate the field. It will be necessary for us to perform an autopsy on the Lieutenant's body in the morning. Until then, I suggest you get some rest."
+        },
+        {
+          "character": "EMH",
+          "line": "You're alive!"
+        },
+        {
+          "character": "PARIS",
+          "line": "What's happening?"
+        },
+        {
+          "character": "EMH",
+          "line": "All of your internal organs are functioning again. In fact, you seem to have an extra one."
+        },
+        {
+          "character": "PARIS",
+          "line": "What?"
+        },
+        {
+          "character": "EMH",
+          "line": "You have two hearts."
+        }
+      ],
+      "location": "Sickbay"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "JONAS",
+          "line": "I have thirty seconds before Security picks up this transmission. I'm sending you all current information on the warp ten shuttle flight."
+        },
+        {
+          "character": "RETTICK",
+          "line": "Warp ten? That's impossible.",
+          "modifier": "screen"
+        },
+        {
+          "character": "JONAS",
+          "line": "Not anymore. Lieutenant Paris crossed the threshold this morning."
+        },
+        {
+          "character": "RETTICK",
+          "line": "He survived?",
+          "modifier": "screen"
+        },
+        {
+          "character": "JONAS",
+          "line": "In a matter of speaking. It's all in the file. This should prove my worth to you, Rettick."
+        },
+        {
+          "character": "RETTICK",
+          "line": "We'll see.",
+          "modifier": "screen"
+        }
+      ],
+      "location": "Somewhere on Voyager"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "EMH",
+          "line": "He's body is going through some sort of mutation. His DNA is rewriting itself. To what end, I don't know."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Does this have anything to do with the enzymatic imbalance you found?"
+        },
+        {
+          "character": "EMH",
+          "line": "No."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Can you stop it?"
+        },
+        {
+          "character": "EMH",
+          "line": "So far, nothing has worked. The mutations are unlike anything in Starfleet medical records. His internal organs are being rearranged. Some have atrophied and been absorbed into his body, and there are at least three others that have appeared and have no identifiable function at all."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "What about his brain?"
+        },
+        {
+          "character": "EMH",
+          "line": "There are neuroelectrical transmutations at work. His synaptic patterns are changing almost every second. But he does still recognize me, the ship. He knows who he is."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Can I talk to him?"
+        },
+        {
+          "character": "EMH",
+          "line": "Of course. But I feel I should caution you that while he still is Tom Paris, he's becoming something else as well. His personality is erratic, unpredictable. There are moments of lucidity interspersed with almost deranged behavior."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "I'll keep it in mind."
+        }
+      ],
+      "location": "Doctor's office"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "PARIS",
+          "line": "Pretty disgusting, huh?"
+        },
+        {
+          "character": "JANEWAY",
+          "line": "You've looked better. How do you feel?"
+        },
+        {
+          "character": "PARIS",
+          "line": "Like a lab experiment gone wrong."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Well, we're trying to put that experiment right. The Doctor's working on a way to restore your DNA to its original"
+        },
+        {
+          "character": "PARIS",
+          "line": "Why?"
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Excuse me?"
+        },
+        {
+          "character": "PARIS",
+          "line": "Why? What I'm becoming will probably be better than who I was."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Lieutenant, you know that's not true."
+        },
+        {
+          "character": "PARIS",
+          "line": "Oh, yes, it is. Admit it. Part of you will be glad to see me gone. I'm the Maquis traitor who sits on your Bridge and insults your uniform, remember?"
+        },
+        {
+          "character": "JANEWAY",
+          "line": "We're all concerned about you, Tom. We're here to help you."
+        },
+        {
+          "character": "PARIS",
+          "line": "No, you're not. You're trying to take this away from me."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Take what away from you?"
+        },
+        {
+          "character": "PARIS",
+          "line": "What I'm becoming. How do you know this isn't good for me? How do you know this isn't the best thing that's ever happened to me?"
+        },
+        {
+          "character": "JANEWAY",
+          "line": "That's a possibility. And then again, it could kill you. We need to find out what's going on."
+        },
+        {
+          "character": "PARIS",
+          "line": "You're lying. Just like him. Just like everyone around here. Always lying. Always telling me that I'm doing a good job, that you're glad I'm on this ship. But none of that's true. Why can't you just say it? You're jealous that I broke the transwarp barrier, and now you're hoping I'll die!"
+        },
+        {
+          "character": "JANEWAY",
+          "line": "You're right, Doctor. I don't think there's anything I can do here."
+        },
+        {
+          "character": "PARIS",
+          "line": "Wait, Captain. I'm sorry. Please come back. I know you're doing what you can. It's just, I'm scared. I didn't mean to lash out at you."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "What you're going through would scare any of us, but you have to hang on, Tom. We're doing everything we can to help you."
+        },
+        {
+          "character": "PARIS",
+          "line": "I know you are. And I know you'll fail!"
+        },
+        {
+          "character": "PARIS",
+          "line": "You know, I used to look up to you. But now you seem so small, so insignificant. You don't even know what, what, what"
+        },
+        {
+          "character": "KES",
+          "line": "Doctor, the rate of genetic mutation has accelerated by twelve percent."
+        },
+        {
+          "character": "EMH",
+          "line": "I want you to run a nucleogenic scan to determine how much of his original DNA is left intact. In the meantime, I'm going to see about treating him with"
+        },
+        {
+          "character": "PARIS",
+          "line": "Doctor!"
+        },
+        {
+          "character": "EMH",
+          "line": "What is it now, Mister Paris?"
+        },
+        {
+          "character": "PARIS",
+          "line": "I need to talk."
+        },
+        {
+          "character": "EMH",
+          "line": "So I've noticed. Is it urgent? I'm rather busy right now."
+        },
+        {
+          "character": "PARIS",
+          "line": "Urgent. Yes, urgent. Let me out of here."
+        },
+        {
+          "character": "EMH",
+          "line": "I'm afraid that's not possible."
+        },
+        {
+          "character": "PARIS",
+          "line": "Please. I can't stay here. I have to get off this ship."
+        },
+        {
+          "character": "KES",
+          "line": "Leave Voyager? Why?"
+        },
+        {
+          "character": "PARIS",
+          "line": "I understand. It's all so clear now."
+        },
+        {
+          "character": "EMH",
+          "line": "What do you understand?"
+        },
+        {
+          "character": "PARIS",
+          "line": "The present, the past, they're both in the future. The future is in the past."
+        },
+        {
+          "character": "EMH",
+          "line": "I beg your pardon?"
+        },
+        {
+          "character": "PARIS",
+          "line": "Listen to me! I am more. I'm everything. Let me go."
+        },
+        {
+          "character": "KES",
+          "line": "Go where, Tom?"
+        },
+        {
+          "character": "PARIS",
+          "line": "I can't! Please. Please!"
+        },
+        {
+          "character": "EMH",
+          "line": "Something tells me we'd better hurry."
+        }
+      ],
+      "location": "Sickbay"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "EMH",
+          "line": "I believe the answer lies in forcing his DNA to revert to its original coding. Once that occurs, his body should return to its former state.",
+          "modifier": "screen"
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "How do we do that?"
+        },
+        {
+          "character": "EMH",
+          "line": "We destroy all of the new DNA in his body. His cells will have to use the original coding as a blueprint. But the only way to destroy the mutant DNA is with highly focused antiproton radiation.",
+          "modifier": "screen"
+        },
+        {
+          "character": "TORRES",
+          "line": "Antiprotons? The only place on this ship which generates antiprotons is the warp core."
+        },
+        {
+          "character": "EMH",
+          "line": "Exactly. I'd like to place Mister Paris in an isotopic restraint and then infuse it with controlled antiproton bursts. A tricky venture, but I see no other alternative.",
+          "modifier": "screen"
+        },
+        {
+          "character": "TORRES",
+          "line": "We'll have to take the warp core offline, then I'll need about three hours to set up an interface."
+        },
+        {
+          "character": "EMH",
+          "line": "In three hours, there won't be anything left of Mister Paris to save. We have to make the attempt within an hour, at the most.",
+          "modifier": "screen"
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Get moving."
+        }
+      ],
+      "location": "Briefing room"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "EMH",
+          "line": "What's your status, Lieutenant?",
+          "modifier": "screen"
+        },
+        {
+          "character": "TORRES",
+          "line": "The interface is charged and ready."
+        },
+        {
+          "character": "EMH",
+          "line": "Infuse him with a two second antiproton burst.",
+          "modifier": "screen"
+        },
+        {
+          "character": "TORRES",
+          "line": "Take the warp engines offline. Bleed off point zero five seven AMUs of antiproton radiation. Shunt it through the interface."
+        },
+        {
+          "character": "JONAS",
+          "line": "Transfer underway."
+        }
+      ],
+      "location": "Engineering"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "KES",
+          "line": "Doctor, the mutated DNA in his liver cells has begun to deteriorate, but the original coding isn't taking over."
+        },
+        {
+          "character": "EMH",
+          "line": "I don't understand. This should be working. We'll have to increase the duration of the bursts. Lieutenant, prepare a five second burst. Also, you'll need to begin depolarizing the"
+        },
+        {
+          "character": "TORRES",
+          "line": "Oh, my God.",
+          "modifier": "screen"
+        },
+        {
+          "character": "EMH",
+          "line": "Lieutenant?"
+        },
+        {
+          "character": "TORRES",
+          "line": "Call Security!",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "EMH",
+          "line": "Lieutenant! What's happening?"
+        },
+        {
+          "character": "CREWMAN",
+          "line": "I got him! I got him! Over there! Shut it all down!",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "TUVOK",
+          "line": "This is a Level three Security Alert. All hands report to duty stations.",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "Sickbay"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "JANEWAY",
+          "line": "Janeway to Bridge. Report."
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "Paris broke out of confinement in Engineering.",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "Corridor"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "CHAKOTAY",
+          "line": "He used a phaser on the port plasma conduit. We have power failures all over the ship."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Where is he now?",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "We're having trouble tracking him. We can't get power to the internal sensors. Tuvok has security teams searching deck by deck."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "JANEWAY",
+          "line": "I'm on my way to the Bridge."
+        }
+      ],
+      "location": "Corridor"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "KIM",
+          "line": "Phaser discharge on deck six."
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "Localize it."
+        },
+        {
+          "character": "KIM",
+          "line": "I'm still having trouble with internal sensors. It came from somewhere between sections twenty one and twenty seven alpha."
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "Tuvok doesn't have any security in that area. Chakotay to Tuvok. We think Paris may be on deck six. Deploy security to sections twenty one through twenty seven alpha."
+        },
+        {
+          "character": "KIM",
+          "line": "Commander, someone's depressurizing shuttlebay two."
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "What?"
+        },
+        {
+          "character": "KIM",
+          "line": "There's a launch in progress."
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "Tractor beam."
+        },
+        {
+          "character": "KIM",
+          "line": "It's offline."
+        },
+        {
+          "character": "TUVOK",
+          "line": "Tuvok to Bridge. We found the Captain's phaser on deck six, but there's no sign of her.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "Maintain a sensor lock on that shuttle."
+        },
+        {
+          "character": "KIM",
+          "line": "I've got main power back."
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "Engage warp engines. Follow them."
+        },
+        {
+          "character": "CREWWOMAN",
+          "line": "Aye, Commander."
+        },
+        {
+          "character": "KIM",
+          "line": "They're approaching warp nine point nine."
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "Increase speed to match."
+        },
+        {
+          "character": "COMPUTER",
+          "line": "Warning. Nearing maximum warp velocity. Structural collapse is imminent."
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "Are we in tractor range?"
+        },
+        {
+          "character": "KIM",
+          "line": "No, and they're still accelerating. Warp nine point nine seven."
+        },
+        {
+          "character": "COMPUTER",
+          "line": "Warning. At present speed, structural failure in forty five seconds."
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "Reduce sped to warp nine point five. Keep a sensor lock on them as long as you can."
+        },
+        {
+          "character": "KIM",
+          "line": "I've lost them, Commander. They've gone to transwarp. First Officer's log, stardate 49373.4. It's taken us three days to locate the shuttle. It appears to have dropped out of transwarp in an uninhabited star system."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "EMH",
+          "line": "I've re-examined the data on Mister Paris' transformation, and I think I understand what's happening to him. The mutations we observed are natural."
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "Natural?"
+        },
+        {
+          "character": "EMH",
+          "line": "The changes in his DNA are consistent with the evolutionary development of the human genotype observed over the past four million years. Increased brain capacity, the loss of vestigial organs."
+        },
+        {
+          "character": "TUVOK",
+          "line": "Are you saying Lieutenant Paris is evolving?"
+        },
+        {
+          "character": "EMH",
+          "line": "That's my theory. The only difference between natural evolution and what happened to Mister Paris is that his changes took place over a twenty four hour period. Somehow, traveling at infinite velocity accelerated the natural human evolutionary process by millions of years. It's possible that Mister Paris represents a future stage in human development, although I can't say it's very attractive."
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "What do we do about it?"
+        },
+        {
+          "character": "EMH",
+          "line": "I think my antiproton approach was correct. However, I'll need to intensify the treatment to restore his original DNA."
+        },
+        {
+          "character": "KIM",
+          "line": "Bridge to Chakotay.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "Go ahead."
+        },
+        {
+          "character": "KIM",
+          "line": "I think I've found the shuttlecraft, Commander. It's on the fourth planet, in one of the jungles near the equator.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "Acknowledged. Tuvok, have a security team meet us in Transporter room three."
+        }
+      ],
+      "location": "Sickbay"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "CHAKOTAY",
+          "line": "There are traces of human DNA. It's them. But I have to admit, I'm not sure which one is the Captain."
+        },
+        {
+          "character": "TUVOK",
+          "line": "The female, obviously."
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "I don't know how I'm going to enter this into the log."
+        },
+        {
+          "character": "TUVOK",
+          "line": "I look forward to reading it. First Officer's log, supplemental. We've transported the Captain and Mister Paris back to Sickbay. As for their offspring, I've decided to leave them in their new habitat."
+        }
+      ],
+      "location": "Planet surface"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "EMH",
+          "line": "I've eradicated all traces of the mutant DNA from your system and restored your original genome. Congratulations. You're human again."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Thank you, Doctor."
+        },
+        {
+          "character": "EMH",
+          "line": "Captain, it'll take some time for your genetic codes to stabilize. I'd like you to remain in Sickbay for the next three days, just to be safe."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Excuse me."
+        },
+        {
+          "character": "PARIS",
+          "line": "Captain, er"
+        },
+        {
+          "character": "JANEWAY",
+          "line": "I've thought about having children, but I must say I never considered having them with you."
+        },
+        {
+          "character": "PARIS",
+          "line": "Captain, I'm sorry. I, I don't know what to say, except I don't remember very much about, er, you know"
+        },
+        {
+          "character": "JANEWAY",
+          "line": "What makes you think it was your idea? Sometimes it's the female of the species that initiates mating. But apology accepted, nonetheless. You may be interested to know I'm putting you in for a commendation. Regardless of the outcome, you did make the first transwarp flight."
+        },
+        {
+          "character": "PARIS",
+          "line": "Thank you, Captain."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Is there something wrong, Lieutenant?"
+        },
+        {
+          "character": "PARIS",
+          "line": "I don't know. I guess this whole experience has left me feeling a little overwhelmed. Flying at warp ten, evolving into a new life form, mating, having alien offspring."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "You've broken more than one record, that's for sure."
+        },
+        {
+          "character": "PARIS",
+          "line": "Breaking the threshold. It was incredible. But somehow it doesn't mean as much as I thought it would."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Oh?"
+        },
+        {
+          "character": "PARIS",
+          "line": "I guess I went into this looking for a quick fix. I thought making history would change things. Not just my service record, my reputation."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "If I'm not mistaken, you've changed quite a few minds on this ship. You've earned a lot of people's respect and admiration."
+        },
+        {
+          "character": "PARIS",
+          "line": "Yeah. But I'm starting to realize that it's not other people's opinions I should be worried about. It's mine. It seems, Captain, that I still have a few barriers to break. I just hope they're not theoretical impossibilities."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Somehow, I don't think they will be."
+        }
+      ],
+      "location": "Sickbay"
+    }
+  ],
+  "schedule": {
+    "episode": 15,
+    "number": 31,
+    "season": 2
+  },
+  "stardate": "49373.4",
+  "title": "Threshold"
+}

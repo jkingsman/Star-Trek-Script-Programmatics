@@ -1,0 +1,1388 @@
+{
+  "airdate": 753944400,
+  "scenes": [
+    {
+      "dialogue": [
+        {
+          "character": "PICARD",
+          "line": "Captain's log, stardate 47410.2. The Atrean government has requested assistance in averting a natural disaster. Two of their geologists have come aboard, one of whom is a human who has been living on Atrea Four.",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "unknown"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "JULIANA",
+          "line": "Captain, our situation has worsened since my husband and I first contacted you. The molten core of our planet is not just cooling, it's begun to solidify."
+        },
+        {
+          "character": "PRAN",
+          "line": "Our gravitational field has been affected. Seismic activity has increased by a factor of three."
+        },
+        {
+          "character": "JULIANA",
+          "line": "If the cooling continues at this rate Atrea will become uninhabitable in thirteen months."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "We could minimize seismic activity by creating isobaric fissures and relieving some of the tectonic stress, but that would just be a temporary fix."
+        },
+        {
+          "character": "DATA",
+          "line": "The only permanent solution would be to re-liquefy the core."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "These pockets in the magma layer, how close are they to the molten region of the core?"
+        },
+        {
+          "character": "JULIANA",
+          "line": "A few kilometers, why?"
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Data, do you think that's close enough for ferro-plasmic infusion?"
+        },
+        {
+          "character": "DATA",
+          "line": "The procedure will involve using the ship's phasers to drill down through the planet's surface into the pockets, where we would set up a series of plasma infusion units."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "We'll trigger the units by firing modulated energy bursts down through the shafts."
+        },
+        {
+          "character": "JULIANA",
+          "line": "I see. Injecting sufficient plasma directly into the core should trigger a chain reaction, and that will reliquify the magma."
+        },
+        {
+          "character": "DATA",
+          "line": "It should be possible to stabilize the core temperature at ninety three percent of normal."
+        },
+        {
+          "character": "PRAN",
+          "line": "If it works, the core would remain molten for centuries."
+        },
+        {
+          "character": "PICARD",
+          "line": "If you give your permission, we could begin immediately."
+        },
+        {
+          "character": "PRAN",
+          "line": "Very well. But before we proceed, I'd like to update our geological surveys."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Fine. I'd be very happy to help you with that, Doctor."
+        },
+        {
+          "character": "PICARD",
+          "line": "I've assigned you quarters during out time here. Please, make yourselves comfortable."
+        },
+        {
+          "character": "PRAN",
+          "line": "Thank you, Captain."
+        },
+        {
+          "character": "JULIANA",
+          "line": "Data?"
+        },
+        {
+          "character": "DATA",
+          "line": "Yes, Doctor?"
+        },
+        {
+          "character": "JULIANA",
+          "line": "Do you have any idea who I am?"
+        },
+        {
+          "character": "DATA",
+          "line": "You are Doctor Juliana Tainer."
+        },
+        {
+          "character": "JULIANA",
+          "line": "You lost all your early memories. We thought you would, but we couldn't be certain."
+        },
+        {
+          "character": "DATA",
+          "line": "Have we met before?"
+        },
+        {
+          "character": "JULIANA",
+          "line": "Oh, Data, I was there, right at the beginning on Omicron Theta. I helped create you. Now look at you."
+        },
+        {
+          "character": "DATA",
+          "line": "You were a colleague of Doctor Soong?"
+        },
+        {
+          "character": "JULIANA",
+          "line": "Yes, I certainly was. And I was also his wife. In a way, I suppose you could say I am your mother."
+        }
+      ],
+      "location": "Observation lounge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "JULIANA",
+          "line": "I still can't believe I'm seeing you like this again, after all these years."
+        },
+        {
+          "character": "DATA",
+          "line": "Doctor, I have no memory of you."
+        },
+        {
+          "character": "JULIANA",
+          "line": "Oh, there's a reason for that. We wiped your processors after we finished refining your programming. Why don't you tell me what you do remember, and then I'll fill in the gaps."
+        },
+        {
+          "character": "DATA",
+          "line": "My memory record begins when I was activated by the Starfleet officers on the Omicron Theta outpost."
+        },
+        {
+          "character": "JULIANA",
+          "line": "After the attack of the Crystalline Entity."
+        },
+        {
+          "character": "DATA",
+          "line": "Yes. All of the inhabitants of the colony were killed. However, I diskovered that my memory banks contained the contents of their journals and logs."
+        },
+        {
+          "character": "JULIANA",
+          "line": "We hoped their experiences would be useful. After your childhood, we figured you could use all the help you could get."
+        },
+        {
+          "character": "DATA",
+          "line": "My childhood?"
+        },
+        {
+          "character": "JULIANA",
+          "line": "That's what I called it. You were like a baby, at first. A hundred kilogram baby, but still. You had trouble learning your motor skills, learning how to process sensory information. And of course Noonian was never satisfied. He kept tinkering, trying to make you as human as possible."
+        },
+        {
+          "character": "DATA",
+          "line": "So you wiped my memory processors after this childhood."
+        },
+        {
+          "character": "JULIANA",
+          "line": "Then we deactivated you and programd you with the colonists' logs. We had planned to reactivate you, but we never got the chance. That's when the Crystalline Entity attacked. We had to leave quickly. We wanted to take you with us, but there was only room for two in the escape pod."
+        },
+        {
+          "character": "DATA",
+          "line": "Doctor, I have scanned the journals of the colonists. There is only one Juliana mentioned in them. Her last name was O'Donnell."
+        },
+        {
+          "character": "JULIANA",
+          "line": "That's me."
+        },
+        {
+          "character": "DATA",
+          "line": "But there was no mention that my father was married to you."
+        },
+        {
+          "character": "JULIANA",
+          "line": "Because of my mother. She thought that Noonian was an eccentric scientist who was too old for me. We decided to marry secretly to give her a chance to get used to our being together. We slipped away to Mavala Four and got married there. A Klingon and a Corvallan trader were our witnesses. It wasn't exactly the wedding I'd hoped for. Somehow Noonian had a way of making even the oddest things seem romantic."
+        },
+        {
+          "character": "DATA",
+          "line": "My father did have an unusual way of looking at things."
+        },
+        {
+          "character": "JULIANA",
+          "line": "How would you know that?"
+        },
+        {
+          "character": "DATA",
+          "line": "I encountered him once in the Terlina system."
+        },
+        {
+          "character": "JULIANA",
+          "line": "That's where we went to after we left the outpost. I had no idea that you'd even met him."
+        },
+        {
+          "character": "DATA",
+          "line": "It was shortly before his death."
+        },
+        {
+          "character": "JULIANA",
+          "line": "He's dead?"
+        },
+        {
+          "character": "DATA",
+          "line": "Yes."
+        },
+        {
+          "character": "JULIANA",
+          "line": "I had no idea it would hit me this hard. We didn't exactly part on the best of terms."
+        },
+        {
+          "character": "DATA",
+          "line": "What do you mean?"
+        },
+        {
+          "character": "JULIANA",
+          "line": "I realized he loved his work as much as he loved me. Maybe more. There we were, stuck on this planet in the middle of the jungle with no one else to talk to. No life. It just wasn't enough. That's why I left. That was all a very, very long time ago. The important thing is that we're here now together. And I do want to get to know you."
+        },
+        {
+          "character": "DATA",
+          "line": "This has been an interesting encounter, and an altogether unexpected one. I would like to corroborate your story before we proceed further. Excuse me, Doctor."
+        }
+      ],
+      "location": "Ten Forward"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "LAFORGE",
+          "line": "Data, I'm almost finished reconfiguring the phaser banks. We should be able to start drilling in about an hour."
+        },
+        {
+          "character": "DATA",
+          "line": "Inform me when you are ready."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "What is it you're doing over there?"
+        },
+        {
+          "character": "DATA",
+          "line": "I am attempting to ascertain whether Doctor Tainer's story is true."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Don't you believe her?"
+        },
+        {
+          "character": "DATA",
+          "line": "I neither believe nor doubt. I am simply attempting to verify her assertions."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Well, what have you turned up so far?"
+        },
+        {
+          "character": "DATA",
+          "line": "The Registrar's Office on Mavala Four cannot confirm whether Doctor Soong was married there. Apparently many of the documents were lost when the government was overthrown."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "What's that you're looking at?"
+        },
+        {
+          "character": "DATA",
+          "line": "I am checking passenger manifests to see if they went to Mavala during the period in question. O'Donnell, Juliana. Soong, Noonian. They were both passengers on a transport which traveled from Omicron Theta to Mavala and returned four days later."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "That sure fits with her story."
+        },
+        {
+          "character": "DATA",
+          "line": "Still, the fact that they went to Mavala does not prove they were married there."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "You know, Data, it almost seems to me like you're trying to prove that Doctor Tainer wasn't telling the truth."
+        },
+        {
+          "character": "DATA",
+          "line": "Not at all. I am merely unable to reconcile her story with the fact that my father never mentioned her to me."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Well, she did leave him. Maybe she broke his heart. Maybe he just didn't want to talk about her. Let me ask you this. Doctor Soong created an emotion chip. Didn't Lore tell you that chip also contained memories, memories Soong wanted you to have?"
+        },
+        {
+          "character": "DATA",
+          "line": "Yes. It is possible that those are memories of my childhood. And of Mrs Soong."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "When you think about it, why would she want to lie? Why would anybody want to pretend to be your mother?"
+        },
+        {
+          "character": "DATA",
+          "line": "I can think of no motive for such a pretense."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "And I can understand that this might all be a little diskoncerting for you, Data. It came out of the blue, and it doesn't fit into your logical processors."
+        },
+        {
+          "character": "DATA",
+          "line": "That is true."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "But that's life, Data. Part of being human is learning how to deal with the unexpected. To risk new experiences even when they don't fit into your preconceptions."
+        },
+        {
+          "character": "DATA",
+          "line": "I admit I am finding it difficult to accept the possibility of a past about which I know nothing. But it is also true that I am curious to learn more about it."
+        }
+      ],
+      "location": "Engineering"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "JULIANA",
+          "line": "Data?"
+        },
+        {
+          "character": "DATA",
+          "line": "I would like to get to know you better, Mother."
+        }
+      ],
+      "location": "Ten Forward"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "JULIANA",
+          "line": "I wanted to make you female, but your father insisted on a son. We argued about it endlessly, right up until we were ready to assemble you."
+        },
+        {
+          "character": "DATA",
+          "line": "How did you decide?"
+        },
+        {
+          "character": "JULIANA",
+          "line": "Noonian walked in with your head in his hand and, innocent as you please, said it was up to me. He knew perfectly well what he was doing. Once again he had made it in his own image. What could I possibly say? Deanna Troi, is that who you're going to visit?"
+        },
+        {
+          "character": "DATA",
+          "line": "Yes."
+        },
+        {
+          "character": "JULIANA",
+          "line": "Your father would be so pleased."
+        },
+        {
+          "character": "DATA",
+          "line": "Pleased?"
+        },
+        {
+          "character": "JULIANA",
+          "line": "He was worried that the sexuality program he designed for you wouldn't work."
+        },
+        {
+          "character": "DATA",
+          "line": "You misunderstand. Counselor Troi is a therapist."
+        },
+        {
+          "character": "JULIANA",
+          "line": "Goodnight."
+        }
+      ],
+      "location": "Corridor"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "DATA",
+          "line": "We will be in position over the drilling site in three minutes twenty nine seconds."
+        },
+        {
+          "character": "DATA",
+          "line": "These scans indicate that the magma pockets where we plan to set up the infusion units are somewhat unstable."
+        },
+        {
+          "character": "JULIANA",
+          "line": "I'm going to monitor the density of the rock layers and adjust the strength of the particle beam as we go. That should minimize the seismic stress that we generate while we're drilling."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Data, I reconfigured the phasers to create the most highly focused particle beam possible."
+        },
+        {
+          "character": "DATA",
+          "line": "Thank you, Geordi."
+        },
+        {
+          "character": "JULIANA",
+          "line": "I'm just so pleased you've got good manners. It wasn't easy to strike the right balance with your programming. At first you couldn't have cared less about the social niceties like please and thank you. You were downright rude, in fact."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Data? That's hard to picture."
+        },
+        {
+          "character": "JULIANA",
+          "line": "That was nothing to the problems we encountered. Never mind. I don't want to embarrass you."
+        },
+        {
+          "character": "DATA",
+          "line": "I am incapable of embarrassment. Please continue."
+        },
+        {
+          "character": "JULIANA",
+          "line": "Well, the one thing we couldn't anticipate was that you didn't seem to mind about being naked. Some of the colonists objected to having an anatomically correct android running around without any clothes on. We asked you to dress, but you didn't feel it was necessary because you didn't suffer from the elements. We actually had to write a modesty sub-routine to get you to keep your clothes on."
+        },
+        {
+          "character": "RIKER",
+          "line": "Bridge to Engineering.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "LAFORGE",
+          "line": "La Forge here. Go ahead, Commander."
+        },
+        {
+          "character": "RIKER",
+          "line": "We've established a synchronous orbit over the drilling site.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Phaser modifications are online, sir."
+        },
+        {
+          "character": "DATA",
+          "line": "My calculations indicate"
+        }
+      ],
+      "location": "Engineering"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "DATA",
+          "line": "The first phaser blast will be approximately nineteen seconds in duration.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "RIKER",
+          "line": "Acknowledged."
+        },
+        {
+          "character": "PRAN",
+          "line": "Someone's checked his calculations, of course."
+        },
+        {
+          "character": "RIKER",
+          "line": "No, but I'm sure Mister Data knows what he's doing."
+        },
+        {
+          "character": "PRAN",
+          "line": "Even so, he is a machine. Someone should check up on him."
+        },
+        {
+          "character": "RIKER",
+          "line": "I have complete confidence in Mister Data's ability to check up on himself. Mister Worf?"
+        },
+        {
+          "character": "WORF",
+          "line": "Phasers locked on target."
+        },
+        {
+          "character": "RIKER",
+          "line": "Fire when ready."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "DATA",
+          "line": "We are within two kilometers of the magma pocket."
+        },
+        {
+          "character": "JULIANA",
+          "line": "Another five seconds should do it. We've broken through."
+        }
+      ],
+      "location": "Engineering"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "WORF",
+          "line": "Terminating the beam."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "JULIANA",
+          "line": "The pocket seems stable."
+        },
+        {
+          "character": "DATA",
+          "line": "I detect no increase in the stress levels of the surrounding magma."
+        },
+        {
+          "character": "RIKER",
+          "line": "Good work, Data.",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "Engineering"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "RIKER",
+          "line": "I don't think we could have gotten it any cleaner."
+        },
+        {
+          "character": "JULIANA",
+          "line": "We have Data to thank for that. I couldn't have done it without him. His figures were perfect.",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "DATA",
+          "line": "The drilling process has raised the temperature in the magma pockets by almost three hundred degrees Celsius. It will be several hours before it cools enough for us to enter."
+        },
+        {
+          "character": "JULIANA",
+          "line": "Data, do you have any plans right now?"
+        },
+        {
+          "character": "DATA",
+          "line": "I do not."
+        },
+        {
+          "character": "JULIANA",
+          "line": "Maybe we should spend a little time together? I'd love to see your quarters."
+        }
+      ],
+      "location": "Engineering"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "DATA",
+          "line": "Thank you. I will be playing this piece at a recital tomorrow evening."
+        },
+        {
+          "character": "JULIANA",
+          "line": "That was beautiful."
+        },
+        {
+          "character": "DATA",
+          "line": "I have been told that my playing is technically flawless, but no one has described it as beautiful."
+        },
+        {
+          "character": "JULIANA",
+          "line": "It was, really."
+        },
+        {
+          "character": "DATA",
+          "line": "Are you certain you are not saying this because you are my mother? I have noticed that parents tend to exaggerate when it comes to their children's accomplishments."
+        },
+        {
+          "character": "JULIANA",
+          "line": "I suppose there's a certain amount of vanity involved, considering that giving you a creative aspect was my idea. Your father didn't really see the point. He thought that since you didn't have emotions, there would be no real need for you to express yourself. Somehow I had the feeling the opposite would be true."
+        },
+        {
+          "character": "DATA",
+          "line": "I do not know for certain, but I believe it is during my creative endeavors that I come closest to experiencing what it must be like to be human."
+        },
+        {
+          "character": "JULIANA",
+          "line": "Well, I'm glad I insisted."
+        },
+        {
+          "character": "DATA",
+          "line": "As am I."
+        },
+        {
+          "character": "JULIANA",
+          "line": "Data, I'm very familiar with that Handel piece. How would you feel about my playing the viola part tomorrow?"
+        },
+        {
+          "character": "DATA",
+          "line": "I would like that very much."
+        },
+        {
+          "character": "JULIANA",
+          "line": "I'll have to practice. You don't have a viola?"
+        },
+        {
+          "character": "DATA",
+          "line": "I could replicate one for you. Computer, please replicate one viola."
+        },
+        {
+          "character": "JULIANA",
+          "line": "Did you paint these?"
+        },
+        {
+          "character": "DATA",
+          "line": "Yes. I am attempting to master all known styles of painting. This one is in the style of the early French impressionists."
+        },
+        {
+          "character": "JULIANA",
+          "line": "It's very good. Who's this?"
+        },
+        {
+          "character": "DATA",
+          "line": "That is Lal, my daughter."
+        },
+        {
+          "character": "JULIANA",
+          "line": "Your daughter?"
+        },
+        {
+          "character": "DATA",
+          "line": "I created her, using myself as a model."
+        },
+        {
+          "character": "JULIANA",
+          "line": "Where is she now?"
+        },
+        {
+          "character": "DATA",
+          "line": "The positronic matrix I designed for her was unstable. She only lived a short time."
+        },
+        {
+          "character": "JULIANA",
+          "line": "I see."
+        },
+        {
+          "character": "DATA",
+          "line": "In a sense, you were her grandmother. Would you like to practice now?"
+        },
+        {
+          "character": "JULIANA",
+          "line": "Yes. Yes, of course."
+        }
+      ],
+      "location": "Data's quarters"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "DATA",
+          "line": "The acoustics in Ten Forward are most favorable."
+        },
+        {
+          "character": "JULIANA",
+          "line": "Yes, yes, very nice. Data, may I ask you something?"
+        },
+        {
+          "character": "DATA",
+          "line": "Of course."
+        },
+        {
+          "character": "JULIANA",
+          "line": "Do you think you'll ever try to create an android again?"
+        },
+        {
+          "character": "DATA",
+          "line": "Perhaps. I created Lal because I wished to procreate. Despite what happened to her, I still have that wish."
+        },
+        {
+          "character": "JULIANA",
+          "line": "How do you know the same thing won't happen? Creating a stable positronic matrix is very tricky. Your father lost several prototypes before Lore."
+        },
+        {
+          "character": "DATA",
+          "line": "I was not aware he created other androids before my brother."
+        },
+        {
+          "character": "JULIANA",
+          "line": "There were three of them. They were like children to us. Losing them was very painful. When Noonian decided to try again, I was very much against it. I didn't think we had the right to bring a life into the world with so little chance of surviving. But your Father was sure that he'd figured out what went wrong, insisted he could make a stable matrix, and he did. But Lore was cruel. Evil. Eventually we had no choice, we had to dismantle him. Your father decided to build yet another android, one who didn't have emotions. I couldn't believe he would want to try again."
+        },
+        {
+          "character": "DATA",
+          "line": "I am that android. Are you saying you were against my creation?"
+        },
+        {
+          "character": "JULIANA",
+          "line": "Initially I was. But I was wrong, I know that now. I've followed your progress for years. I'm very proud of what you've accomplished."
+        },
+        {
+          "character": "DATA",
+          "line": "Then why did you never attempt to contact me?"
+        },
+        {
+          "character": "JULIANA",
+          "line": "Because I felt guilty about something I'd done."
+        },
+        {
+          "character": "DATA",
+          "line": "Perhaps if you told me what has made you feel this way, it may alleviated the guilt."
+        },
+        {
+          "character": "JULIANA",
+          "line": "I lied. When I said there was no room for you in the escape pod that we took from Omicron. There was. I didn't want to bring you with us. I was afraid if we reactivated you, you'd turn out like Lore. I made Noonian leave you behind."
+        }
+      ],
+      "location": "Ten Forward"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "DATA",
+          "line": "We are within four kilometers of the magma pocket."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "We're picking up feedback pulses along the particle beam."
+        },
+        {
+          "character": "JULIANA",
+          "line": "We must have hit a pocket of magnesite ore. I'll try to adjust the phaser harmonics to compensate."
+        },
+        {
+          "character": "RIKER",
+          "line": "Data, we're going to have to terminate the beam if this keeps up.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "DATA",
+          "line": "If we do, we will have to begin a new shaft at a suitable location."
+        },
+        {
+          "character": "JULIANA",
+          "line": "There is no other suitable location. Just give me a few more seconds."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Doctor, it's going to take longer than that to match the"
+        },
+        {
+          "character": "LAFORGE",
+          "line": "You did it."
+        },
+        {
+          "character": "JULIANA",
+          "line": "It was just luck I hit the right frequency. All right, we're less than two kilometers away from the target site. Stand by to terminate the beam."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "We've broken through."
+        },
+        {
+          "character": "JULIANA",
+          "line": "Now."
+        },
+        {
+          "character": "DATA",
+          "line": "I am detecting no signs of"
+        }
+      ],
+      "location": "Engineering"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "DATA",
+          "line": "Instability.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "PRAN",
+          "line": "Commander, may I suggest we set up the infusion unit in the first magma pocket and give this one a chance to cool."
+        },
+        {
+          "character": "RIKER",
+          "line": "Data"
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "RIKER",
+          "line": "Doctor Tainer, we'll meet you in transporter room two.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "DATA",
+          "line": "Acknowledged."
+        }
+      ],
+      "location": "Engineering"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "DATA",
+          "line": "I have initialized the plasma induction coils."
+        },
+        {
+          "character": "JULIANA",
+          "line": "I'll need another minute to align the diverter."
+        },
+        {
+          "character": "PRAN",
+          "line": "There are signs of stress in the surrounding magma, but the site should remain stable until we finish the plasma infusion."
+        },
+        {
+          "character": "JULIANA",
+          "line": "Good, we're almost done here."
+        },
+        {
+          "character": "PRAN",
+          "line": "Data, Juliana told me what she said to you last night. She's been very upset. I don't blame you for being angry with her"
+        },
+        {
+          "character": "DATA",
+          "line": "I am incapable of anger."
+        },
+        {
+          "character": "JULIANA",
+          "line": "It's all right, Pran. I know what I said to you must have been hard to hear, but I hope you understand my reasons."
+        },
+        {
+          "character": "DATA",
+          "line": "I am not certain I do. Perhaps you could clarify them for me?"
+        },
+        {
+          "character": "JULIANA",
+          "line": "Well, I'll try. What do you want to know?"
+        },
+        {
+          "character": "DATA",
+          "line": "If I had been your biological offspring, would you have left me on Omicron Theta?"
+        },
+        {
+          "character": "JULIANA",
+          "line": "Oh, Data, how can I answer that?"
+        },
+        {
+          "character": "DATA",
+          "line": "Doctor Tainer, I get the impression you are trying to spare my feelings. I assure you that is not necessary."
+        },
+        {
+          "character": "JULIANA",
+          "line": "I just don't want you to misunderstand my answer. No, I wouldn't have left you behind if you'd been my biological child."
+        },
+        {
+          "character": "DATA",
+          "line": "Is that because you place more value on biological life than on artificial life?"
+        },
+        {
+          "character": "JULIANA",
+          "line": "Absolutely not. I cherished every android your father and I created as if it were my child. Even Lore. Despite the fact that he turned on us, despite the dreadful things he did, dismantling him was the most difficult thing I ever had to do. I was afraid that if you turned out like him I would have to dismantle you, too. And I couldn't bear to do that. I'm not trying to justify leaving you behind. I'm just sorry I did. I hope you believe me."
+        },
+        {
+          "character": "DATA",
+          "line": "I do. Thank you for making it clear to me."
+        }
+      ],
+      "location": "Magma pocket"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "AUDIENCE",
+          "line": "Bravo, bravo."
+        }
+      ],
+      "location": "Ten Forward"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "CRUSHER",
+          "line": "Data, why do you want to look at Doctor Tainer's medical records? Is something wrong with her?"
+        },
+        {
+          "character": "DATA",
+          "line": "I was hoping you would be able to determine that from her transporter trace pattern."
+        },
+        {
+          "character": "CRUSHER",
+          "line": "Well, probably I could, but ordinarily I don't check somebody's medical status without a good reason."
+        },
+        {
+          "character": "DATA",
+          "line": "Doctor, I would ask that you not require me to be more specific. I assure you, I have a good reason for asking."
+        },
+        {
+          "character": "CRUSHER",
+          "line": "All right, Data. At first glance I see nothing wrong with her. Except for a mild case of hypertension, which is normal for a woman her age."
+        },
+        {
+          "character": "DATA",
+          "line": "I see."
+        },
+        {
+          "character": "CRUSHER",
+          "line": "Maybe you should tell me what her symptoms are."
+        },
+        {
+          "character": "DATA",
+          "line": "She has not complained of any diskomfort."
+        },
+        {
+          "character": "CRUSHER",
+          "line": "Then why do you want to see her medical records?"
+        },
+        {
+          "character": "DATA",
+          "line": "Because I have reason to believe she is not who she claims to be."
+        },
+        {
+          "character": "RIKER",
+          "line": "Bridge to Data.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "DATA",
+          "line": "Go ahead, sir."
+        },
+        {
+          "character": "RIKER",
+          "line": "There's been a cave-in in one of the magma pockets. You're needed in transporter room two.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "DATA",
+          "line": "On my way. Excuse me, Doctor."
+        }
+      ],
+      "location": "Sickbay"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "JULIANA",
+          "line": "What happened?"
+        },
+        {
+          "character": "PRAN",
+          "line": "We were running a final check on the infusion units when a part of the wall gave way."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "It looks like the area has stabilized, but seismic stress is building up. Eventually, the pocket will collapse."
+        },
+        {
+          "character": "RIKER",
+          "line": "How long, Geordi?",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "LAFORGE",
+          "line": "It's tough to tell, Commander. Twelve hours at most."
+        },
+        {
+          "character": "JULIANA",
+          "line": "Then we must finish configuring the unit and inject the plasma immediately."
+        }
+      ],
+      "location": "Transporter room"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "RIKER",
+          "line": "I'd rather not send anyone back down there."
+        },
+        {
+          "character": "JULIANA",
+          "line": "If you don't do it",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "JULIANA",
+          "line": "Now, Commander, it may take months to find another suitable site. The core may solidify by then."
+        },
+        {
+          "character": "PRAN",
+          "line": "She's right, we have to act now."
+        },
+        {
+          "character": "RIKER",
+          "line": "All right, but I want you in and out of there as quickly as possible.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "DATA",
+          "line": "Acknowledged."
+        },
+        {
+          "character": "JULIANA",
+          "line": "You're hurt. I'll go."
+        }
+      ],
+      "location": "Transporter room"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "DATA",
+          "line": "There will be more seismic activity. We must hurry."
+        },
+        {
+          "character": "DATA",
+          "line": "The shaft has not been obstructed by the seismic activity. It should be possible to trigger the unit from orbit."
+        },
+        {
+          "character": "JULIANA",
+          "line": "The infuser's been damaged. We're going to have to start the programming sequence all over again."
+        },
+        {
+          "character": "DATA",
+          "line": "Priming the energy-transfer matrix."
+        },
+        {
+          "character": "JULIANA",
+          "line": "Re-initializing the particle stream buffer."
+        },
+        {
+          "character": "RIKER",
+          "line": "Riker to Data. Are you there?",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "DATA",
+          "line": "Go ahead, sir."
+        },
+        {
+          "character": "RIKER",
+          "line": "We're reading an increase in seismic stress levels.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "DATA",
+          "line": "Understood, sir. We will attempt to expedite our work."
+        },
+        {
+          "character": "JULIANA",
+          "line": "There. Now we just have to re-align the diverter."
+        },
+        {
+          "character": "RIKER",
+          "line": "Data, are you all right?",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "DATA",
+          "line": "Yes, sir. We'll be returning to the beam-out point shortly."
+        },
+        {
+          "character": "JULIANA",
+          "line": "That's it. Let's go."
+        },
+        {
+          "character": "JULIANA",
+          "line": "Can we transport without the pattern enhancers?"
+        },
+        {
+          "character": "DATA",
+          "line": "No, we are too far below the surface."
+        },
+        {
+          "character": "JULIANA",
+          "line": "How are we going to get down there?"
+        },
+        {
+          "character": "DATA",
+          "line": "There are no handholds in the rock face. We are going to have to jump."
+        },
+        {
+          "character": "JULIANA",
+          "line": "No, it's too far! I won't make it!"
+        },
+        {
+          "character": "DATA",
+          "line": "You will."
+        }
+      ],
+      "location": "Magma pocket"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "LAFORGE",
+          "line": "Basically she's a Soong-type android, except everything about her is designed to fool you into thinking she's human."
+        },
+        {
+          "character": "CRUSHER",
+          "line": "She's got tear ducts, sweat glands, even veins and capillaries underneath her skin."
+        },
+        {
+          "character": "RIKER",
+          "line": "Why does the scanner read her as a human?"
+        },
+        {
+          "character": "CRUSHER",
+          "line": "Because she has a feedback processor designed to send out a false bio-signal."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "It's part of her aging program. Not only does she age in appearance like Data, her vital signs change too."
+        },
+        {
+          "character": "CRUSHER",
+          "line": "What I can't figure out is why she lost consciousness. As far as I can see, everything is fine. She should be awake."
+        },
+        {
+          "character": "DATA",
+          "line": "Check her positronic matrix. There may be a cascade anomaly."
+        },
+        {
+          "character": "RIKER",
+          "line": "You said you knew she was an android. How?"
+        },
+        {
+          "character": "DATA",
+          "line": "The first indication occurred when we were digging. I saw her perform complex calculations without the assistance of the computer."
+        },
+        {
+          "character": "RIKER",
+          "line": "That could have just meant she was good at math."
+        },
+        {
+          "character": "DATA",
+          "line": "That is true, but it was enough to get my attention. Later, I noticed something odd about the way she blinked her eyes. The intervals between blinks were governed by the Fourier system, the same mathematical formula my father used to give my blinking pattern the appearance of randomness."
+        },
+        {
+          "character": "RIKER",
+          "line": "Only you could have noticed something like that."
+        },
+        {
+          "character": "DATA",
+          "line": "Then there was the concert in Ten Forward."
+        },
+        {
+          "character": "RIKER",
+          "line": "What about it?"
+        },
+        {
+          "character": "DATA",
+          "line": "We had practiced the piece, and I noticed that she played it the same way during the performance. Every pitch, every intonation, was exactly the same. Only an artificial life form could have done that."
+        },
+        {
+          "character": "RIKER",
+          "line": "Does her husband know anything about this?"
+        },
+        {
+          "character": "DATA",
+          "line": "I do not believe so. He is on the surface monitoring the plasma infusion."
+        },
+        {
+          "character": "RIKER",
+          "line": "Probably just as well."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Data, come take a look at this."
+        },
+        {
+          "character": "DATA",
+          "line": "It appears to be an information module. With a holographic interface."
+        }
+      ],
+      "location": "Sickbay"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "SOONG",
+          "line": "Whoever you are, you must have found out about Juliana."
+        },
+        {
+          "character": "DATA",
+          "line": "That is correct."
+        },
+        {
+          "character": "SOONG",
+          "line": "I programd this hologram to answer any questions you might have. I am Noonian Soong. I created her."
+        },
+        {
+          "character": "DATA",
+          "line": "I am Data."
+        },
+        {
+          "character": "SOONG",
+          "line": "Data? I hoped somehow it might be you. I even created a response program to answer your questions. How are you, boy?"
+        },
+        {
+          "character": "DATA",
+          "line": "I am fine."
+        },
+        {
+          "character": "SOONG",
+          "line": "I'm glad you got the chance to meet your mother."
+        },
+        {
+          "character": "DATA",
+          "line": "You refer to Doctor Tainer as my mother, yet the complexity of her design indicates she was created after I was."
+        },
+        {
+          "character": "SOONG",
+          "line": "You're right. But there was a real Juliana O'Donnell. She was my wife. She helped me create you."
+        },
+        {
+          "character": "DATA",
+          "line": "What happened to her?"
+        },
+        {
+          "character": "SOONG",
+          "line": "She was injured when the Crystalline Entity attacked. We made it as far as Terlina Three but, she slipped into a coma. When I realized nothing could be done for her, I built an android. I tried to perfect my synaptic scanning technique so that I could transfer Juliana's memories into a positronic matrix. I didn't know if it would work, but I had to try. I couldn't stand the thought of losing the only woman I ever loved. A few days after Juliana died, I activated the android. She looked up at me and smiled. She recognized me. It had worked! Here was a life not two minutes old, and as far as she knew I was her husband. She'd just recovered from a terrible injury. It was incredible."
+        },
+        {
+          "character": "DATA",
+          "line": "Then you never told her the truth?"
+        },
+        {
+          "character": "SOONG",
+          "line": "Why? There was no reason for her to know. I wanted her to be happy. I wanted us to be happy. We were. For a while."
+        },
+        {
+          "character": "DATA",
+          "line": "What happened?"
+        },
+        {
+          "character": "SOONG",
+          "line": "I made a terrible mistake. I never really let her know how much I loved her. So she left me. The real Juliana probably would have left too, if she'd lived."
+        },
+        {
+          "character": "DATA",
+          "line": "If she recovers and learns that she is an android"
+        },
+        {
+          "character": "SOONG",
+          "line": "She doesn't have to know. I designed her to shut down in the event the truth was diskovered. When you put that chip back in, she will wake up and remember nothing. All you have to do is make up some excuse about what happened to her."
+        },
+        {
+          "character": "DATA",
+          "line": "Then you do not believe she should know the truth?"
+        },
+        {
+          "character": "SOONG",
+          "line": "Truth? The truth is, in every way that matters, she is Juliana Soong. I programd her to terminate after a long life. Let her live out her days, and die believing she was human. Don't rob her of that, son. Please."
+        }
+      ],
+      "location": "Holodeck"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "DATA",
+          "line": "It seems that I must make a decision. Whether to tell Doctor Tainer that she is an android or to withhold that information from her. I do not know what to do."
+        },
+        {
+          "character": "CRUSHER",
+          "line": "Why was Doctor Soong so adamant that she not be told?"
+        },
+        {
+          "character": "DATA",
+          "line": "He seemed certain that if she knew, it would preclude the possibility of her being happy."
+        },
+        {
+          "character": "PICARD",
+          "line": "Data, what do you think?"
+        },
+        {
+          "character": "DATA",
+          "line": "I am not certain. I understand why my father felt as he did, but his wishes are not necessarily paramount. I am more concerned with what would be best for her."
+        },
+        {
+          "character": "CRUSHER",
+          "line": "Wouldn't she be better off knowing the truth? Dealing with the reality of her existence?"
+        },
+        {
+          "character": "TROI",
+          "line": "I don't think so. She's believed she's human all her life. The truth might be devastating to her."
+        },
+        {
+          "character": "PICARD",
+          "line": "Data, there might come some time in the future when she would find out anyway. Another accident, perhaps. Maybe it would be easier for her if she learned the truth from you."
+        },
+        {
+          "character": "CRUSHER",
+          "line": "I can tell you that if I were in her place, I would rather be told by my son than by some stranger."
+        },
+        {
+          "character": "DATA",
+          "line": "I find I am having difficulty separating what would be best for her from what would be best for me."
+        },
+        {
+          "character": "TROI",
+          "line": "What do you mean?"
+        },
+        {
+          "character": "DATA",
+          "line": "If she knew she were an android, we would have something to share. I would no longer be alone in the universe."
+        },
+        {
+          "character": "TROI",
+          "line": "I know how much that means to you, Data, but at the same time, by telling her you're robbing her of the one thing you've wanted all your life. To be human."
+        },
+        {
+          "character": "PICARD",
+          "line": "It's a difficult choice. You must do what you think best, Data. But whatever decision you make, we will support it."
+        }
+      ],
+      "location": "Observation lounge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "JULIANA",
+          "line": "Data? What happened? The last thing I remember is jumping off a cliff."
+        },
+        {
+          "character": "DATA",
+          "line": "You were knocked unconscious by the fall. You broke a bone in your arm, but Doctor Crusher repaired it. Everything is fine."
+        },
+        {
+          "character": "PICARD",
+          "line": "Captain's log, supplemental. The infusion of plasma into the core of Atrea Four has been accomplished. The core should remain molten for several hundred years.",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "Sickbay"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "JULIANA",
+          "line": "When will I see you again?"
+        },
+        {
+          "character": "DATA",
+          "line": "Perhaps I can visit Atrea on my next leave."
+        },
+        {
+          "character": "JULIANA",
+          "line": "I would like that very much. Well, I'd better be going."
+        },
+        {
+          "character": "DATA",
+          "line": "There is something I thought you should know. My father told me that he had only one great love in his life and that he regretted never telling her how much he cared for her. I am certain he was referring to you."
+        },
+        {
+          "character": "JULIANA",
+          "line": "That's nice to know. On Atrea there is a saying, that a child born from parents who love each other will have nothing but goodness in his heart. I guess that explains you. Take care of yourself, son."
+        },
+        {
+          "character": "DATA",
+          "line": "Goodbye, Mother. Energize."
+        }
+      ],
+      "location": "Transporter room"
+    }
+  ],
+  "schedule": {
+    "episode": 10,
+    "number": 162,
+    "season": 7
+  },
+  "stardate": "47410.2",
+  "title": "Inheritance"
+}

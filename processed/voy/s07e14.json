@@ -1,0 +1,1946 @@
+{
+  "airdate": 981522000,
+  "scenes": [
+    {
+      "dialogue": [
+        {
+          "character": "JANEWAY",
+          "line": "Report."
+        },
+        {
+          "character": "PARIS",
+          "line": "A ship just decloaked off our port stern."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Can you identify them?"
+        },
+        {
+          "character": "KIM",
+          "line": "They re-cloaked."
+        },
+        {
+          "character": "TUVOK",
+          "line": "That disruptor blast had a Klingon signature."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Evasive maneuvers. Hail them."
+        },
+        {
+          "character": "TUVOK",
+          "line": "No response. Port shields are down to fifty percent."
+        },
+        {
+          "character": "KIM",
+          "line": "They've re-cloaked again. Tetryon readings indicate it's a D-Seven Class cruiser."
+        },
+        {
+          "character": "PARIS",
+          "line": "D-Seven? They were retired decades ago."
+        },
+        {
+          "character": "TUVOK",
+          "line": "If their technology is antiquated"
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "Perhaps a metaphasic scan might be able to penetrate their cloak."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Do it."
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "Bridge to Astrometrics."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "CHAKOTAY",
+          "line": "Initiate a metaphasic sweep.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "SEVEN",
+          "line": "I've detected a vessel. Transferring the trajectory to tactical."
+        }
+      ],
+      "location": "Astrometrics lab"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TUVOK",
+          "line": "I have them."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Fire phasers."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "MORAK",
+          "line": "Our cloak has failed."
+        },
+        {
+          "character": "KOHLAR",
+          "line": "Divert emergency power to shields."
+        },
+        {
+          "character": "MORAK",
+          "line": "Forward emitters are offline. The Federation ship is hailing again."
+        },
+        {
+          "character": "KOHLAR",
+          "line": "Answer them."
+        },
+        {
+          "character": "T'GRETH",
+          "line": "Captain!"
+        },
+        {
+          "character": "KOHLAR",
+          "line": "It may give us more time to get the cloak back on online. Visual."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "This is Captain Kathryn Janeway of the Federation starship Voyager. Stand down.",
+          "modifier": "screen"
+        },
+        {
+          "character": "KOHLAR",
+          "line": "We will not surrender to sworn enemies"
+        }
+      ],
+      "location": "Klingon Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "KOHLAR",
+          "line": "Of the Klingon Empire.",
+          "modifier": "screen"
+        },
+        {
+          "character": "JANEWAY",
+          "line": "I think there's been a misunderstanding. The Empire signed a peace treaty with the Federation more than eighty years ago. If I'm not mistaken, it's still in effect."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "KOHLAR",
+          "line": "You're lying."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "I'm not lying. But even if I were your ship is no match for mine. I suggest we diskuss this.",
+          "modifier": "screen"
+        },
+        {
+          "character": "KOHLAR",
+          "line": "What is there to talk about?"
+        }
+      ],
+      "location": "Klingon Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "JANEWAY",
+          "line": "The treaty, for one thing. I'll give you access to our database show you I'm telling the truth."
+        },
+        {
+          "character": "KOHLAR",
+          "line": "Databases can be falsified.",
+          "modifier": "screen"
+        },
+        {
+          "character": "JANEWAY",
+          "line": "I have a Klingon serving aboard this ship."
+        },
+        {
+          "character": "KOHLAR",
+          "line": "Impossible.",
+          "modifier": "screen"
+        },
+        {
+          "character": "JANEWAY",
+          "line": "She's my Chief Engineer."
+        },
+        {
+          "character": "KOHLAR",
+          "line": "I will meet this Chief Engineer.",
+          "modifier": "screen"
+        },
+        {
+          "character": "JANEWAY",
+          "line": "We'd be honored to have you as our guest."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "JANEWAY",
+          "line": "You're safe here. You have my word."
+        },
+        {
+          "character": "KOHLAR",
+          "line": "Forgive me if I don't find the word of a human very reassuring."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "I'd like to know what you're doing in the Delta Quadrant."
+        },
+        {
+          "character": "KOHLAR",
+          "line": "I'm not answering any questions until I see the Klingon."
+        }
+      ],
+      "location": "Corridor"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "JANEWAY",
+          "line": "Captain Kohlar. Lieutenant Torres, our Chief Engineer."
+        },
+        {
+          "character": "KOHLAR",
+          "line": "You're with child."
+        },
+        {
+          "character": "TORRES",
+          "line": "That's what the Doctor tells me."
+        },
+        {
+          "character": "KOHLAR",
+          "line": "Did you conceive during the holy month of Nay'Poq?"
+        },
+        {
+          "character": "TORRES",
+          "line": "I have no idea."
+        },
+        {
+          "character": "KOHLAR",
+          "line": "It would have been fourteen or fifteen weeks ago."
+        },
+        {
+          "character": "TORRES",
+          "line": "That sounds about right, not that it's any of your business."
+        },
+        {
+          "character": "KOHLAR",
+          "line": "I must return to my ship."
+        },
+        {
+          "character": "TUVOK",
+          "line": "Aren't you interested in learning about the Treaty?"
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "Here's a copy of the Khitomer Accords."
+        },
+        {
+          "character": "KOHLAR",
+          "line": "I must return to my vessel."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Not without your assurance that you won't fire on my ship again."
+        },
+        {
+          "character": "KOHLAR",
+          "line": "You have my word."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Escort Captain Kohlar back to the transporter room."
+        },
+        {
+          "character": "TUVOK",
+          "line": "Aye, Captain."
+        },
+        {
+          "character": "TORRES",
+          "line": "What the hell was that about?"
+        }
+      ],
+      "location": "Briefing room"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "KOHLAR",
+          "line": "It's the truth. T'GRETH?: How can you be certain?"
+        },
+        {
+          "character": "KOHLAR",
+          "line": "The scrolls say, you will find me after two warring houses make peace. Our people and the Federation, our greatest enem,y are at peace."
+        },
+        {
+          "character": "T'GRETH",
+          "line": "So the humans claim. These Accords may be a deception."
+        },
+        {
+          "character": "KOHLAR",
+          "line": "The other signs are present. You will know me before I know the world."
+        },
+        {
+          "character": "MORAK",
+          "line": "The child is unborn. It does not know the world."
+        },
+        {
+          "character": "KOHLAR",
+          "line": "You interpret the scrolls well."
+        },
+        {
+          "character": "T'GRETH",
+          "line": "We must verify the evidence."
+        },
+        {
+          "character": "KOHLAR",
+          "line": "Your skepticism darkens my heart, T'Greth. What evidence did our ancestors have when they began this journey? Nothing but their faith. Tell the others to prepare. The Day of Separation has arrived."
+        }
+      ],
+      "location": "Klingon ship"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "KIM",
+          "line": "Captain, the Klingon ship. Its core is breaching."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Red alert. Hail them."
+        },
+        {
+          "character": "KOHLAR",
+          "line": "I salute you, Captain. You did more damage to our vessel than my engineer thought.",
+          "modifier": "screen"
+        },
+        {
+          "character": "JANEWAY",
+          "line": "We can send over a team to help you establish a containment field."
+        },
+        {
+          "character": "KOHLAR",
+          "line": "There isn't time.",
+          "modifier": "screen"
+        },
+        {
+          "character": "KIM",
+          "line": "He's right. Their core is going to breach in less than thirty seconds."
+        },
+        {
+          "character": "KOHLAR",
+          "line": "I'm requesting emergency transport.",
+          "modifier": "screen"
+        },
+        {
+          "character": "TUVOK",
+          "line": "Captain. Their crew complement is two hundred and four."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Erect forcefields around the shuttlebay. Transport them there. Tell your crew to stand by for evacuation."
+        },
+        {
+          "character": "KIM",
+          "line": "Ten seconds."
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "If we're still too close when their core breaches"
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Go to warp as soon as their crew is aboard."
+        },
+        {
+          "character": "KIM",
+          "line": "Five, four, three."
+        },
+        {
+          "character": "TUVOK",
+          "line": "We have them."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "KOHLAR",
+          "line": "You spared us a dishonorable death."
+        },
+        {
+          "character": "TUVOK",
+          "line": "Sensor logs indicate that the containment failure was not caused by our weapons."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "You activated a self-destruct sequence."
+        },
+        {
+          "character": "KOHLAR",
+          "line": "It was the only way to get us aboard Voyager."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Why was that so important?"
+        },
+        {
+          "character": "KOHLAR",
+          "line": "It's our sacred duty to be here."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "I don't understand."
+        },
+        {
+          "character": "KOHLAR",
+          "line": "More than a hundred years ago, my great-grandfather was part of a sect which believed the Empire had lost its way. They diskovered a sacred text. It told them to embark on a journey to a distant region of the galaxy."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "You've been traveling for four generations?"
+        },
+        {
+          "character": "KOHLAR",
+          "line": "My people have always known the voyage would be long and difficult, but the scrolls said we would be rewarded."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "How?"
+        },
+        {
+          "character": "KOHLAR",
+          "line": "We would find the Kuvah'Magh, the savior of our people. The one who will lead us to a new empire. The scrolls instruct us to follow her wherever she goes."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "What does any of this have to do with Voyager?"
+        },
+        {
+          "character": "KOHLAR",
+          "line": "I believe the Kuvah'Magh is the unborn child of B'Elanna Torres."
+        }
+      ],
+      "location": "Ready room"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TORRES",
+          "line": "You're joking."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "They take their beliefs very seriously."
+        },
+        {
+          "character": "PARIS",
+          "line": "Seriously enough to destroy their own ship?"
+        },
+        {
+          "character": "KIM",
+          "line": "Couldn't they have just followed us?"
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Apparently, their sacred text told them to cast off the old ways as soon as they found this Kuvah'Magh."
+        },
+        {
+          "character": "TUVOK",
+          "line": "They saw their vessel as the last vestige of the corrupt Empire."
+        },
+        {
+          "character": "PARIS",
+          "line": "I was hoping our daughter would be special, but I never dreamed she'd turn out to be the Klingon messiah."
+        },
+        {
+          "character": "TORRES",
+          "line": "This isn't funny. They might be dangerous. I mean, what if they want to hurt the baby?"
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "To them, your baby's sacred. It's unlikely they would do anything to harm her."
+        },
+        {
+          "character": "TUVOK",
+          "line": "Two hundred Klingons pose a significant security threat. I suggest we keep them confined to the shuttlebay until we can find a suitable home for them."
+        },
+        {
+          "character": "NEELIX",
+          "line": "There are women and children down there. We can't just lock them up."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "I agree."
+        },
+        {
+          "character": "TUVOK",
+          "line": "Captain."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Assign extra security to every deck and make sure the Klingons know and abide by the rules."
+        },
+        {
+          "character": "TUVOK",
+          "line": "The bridge will have to be off limits. Engineering as well."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Keep them out of all restricted areas."
+        },
+        {
+          "character": "TUVOK",
+          "line": "Despite their reverence for Lieutenant Torres, she should be assigned a twenty four hour security detail."
+        },
+        {
+          "character": "TORRES",
+          "line": "Just what I need."
+        },
+        {
+          "character": "KIM",
+          "line": "Where are they going to sleep?"
+        },
+        {
+          "character": "NEELIX",
+          "line": "We'll double up in quarters. I'll ask for volunteers."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "I know this isn't going to be easy, but until we can find another place for them, we should do our best to make them feel comfortable. Dismissed."
+        }
+      ],
+      "location": "Briefing room"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "NEELIX",
+          "line": "Captain, you must try the gagh."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "I'll pass, thank you. But I'm glad to see you're getting into the spirit of things."
+        },
+        {
+          "character": "NEELIX",
+          "line": "Well, I've been studying the Klingon database. They're a fascinating people, very robust. And they certainly seem to appreciate my culinary skills."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Looks like everything's running smoothly."
+        },
+        {
+          "character": "NEELIX",
+          "line": "Ah, not quite everything. some of the Starfleet people have been complaining about the smell. Personally, I find it appealing. A kind of a musky aroma."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Maybe we can adjust the environmental controls to filter out the musk."
+        },
+        {
+          "character": "CH'REGA",
+          "line": "Thief! Touch my food again and I'll kill you."
+        },
+        {
+          "character": "KIM",
+          "line": "Okay, everybody relax."
+        },
+        {
+          "character": "CH'REGA",
+          "line": "He took gagh from my plate."
+        },
+        {
+          "character": "NEELIX",
+          "line": "If you don't mind, Ensign, I've been studying Klingon etiquette. You shouldn't quarrel over food. Save your strength for battle, to fight those who would challenge you."
+        },
+        {
+          "character": "KIM",
+          "line": "Take it easy."
+        },
+        {
+          "character": "KIM",
+          "line": "That's enough!"
+        },
+        {
+          "character": "CH'REGA",
+          "line": "You have a fiery spirit. You will make a worthy mate."
+        }
+      ],
+      "location": "Mess hall"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "NEELIX",
+          "line": "What a day. I never met a more ravenous group in my life. I must have served over three hundred meals."
+        },
+        {
+          "character": "TUVOK",
+          "line": "Mister Neelix, may I ask what you're doing here?"
+        },
+        {
+          "character": "NEELIX",
+          "line": "We're bunkmates."
+        },
+        {
+          "character": "TUVOK",
+          "line": "There must be some mistake."
+        },
+        {
+          "character": "NEELIX",
+          "line": "No, there's no mistake. I gave up my quarters to a Klingon family. By the time I checked with Commander Chakotay, you were the only one who hadn't been paired up."
+        },
+        {
+          "character": "TUVOK",
+          "line": "You should have consulted me."
+        },
+        {
+          "character": "NEELIX",
+          "line": "We're such close friends, I knew you wouldn't mind."
+        },
+        {
+          "character": "TUVOK",
+          "line": "Mister Neelix, as much as I enjoy your company, I prefer solitude in my own quarters."
+        },
+        {
+          "character": "NEELIX",
+          "line": "You don't really want me to go back there and tell that family to get out, do you? Good. Because I promise you we're going to have fun, Mister Vulcan. I learned some Klingon drinking songs. I'll teach them to you. 'ej HumtaH 'ej DechtaH 'Iw'ej Doq SodTah ghoSpa' Sqral bIQtiQ."
+        }
+      ],
+      "location": "Tuvok's quarters"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "PARIS",
+          "line": "Paris to Torres.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "TORRES",
+          "line": "I'm almost finished."
+        },
+        {
+          "character": "PARIS",
+          "line": "You said that an hour ago.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "TORRES",
+          "line": "I'll be there in a minute, I promise. Torres out. Keep an eye on the replicators, they've already gone down once today."
+        }
+      ],
+      "location": "Engineering"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "KLINGONS",
+          "line": "It's her."
+        }
+      ],
+      "location": "Corridor"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "PARIS",
+          "line": "When you said be there in a minute, you weren't kidding."
+        },
+        {
+          "character": "TORRES",
+          "line": "A group of Klingons ambushed me outside of Engineering. I decided transporting myself would be easier than running the gauntlet. I'm starting to feel like a prisoner."
+        },
+        {
+          "character": "PARIS",
+          "line": "Well, at least you have a handsome cellmate."
+        },
+        {
+          "character": "TORRES",
+          "line": "How long do you think they're going to be on board?"
+        },
+        {
+          "character": "PARIS",
+          "line": "I thought you'd be glad to have other Klingons around. You've always told me how uncomfortable it is being the only one."
+        },
+        {
+          "character": "TORRES",
+          "line": "I guess I should be careful what I wish for."
+        },
+        {
+          "character": "PARIS",
+          "line": "Maybe you should talk to some of them. Give them a chance."
+        },
+        {
+          "character": "PARIS",
+          "line": "Come in."
+        },
+        {
+          "character": "TORRES",
+          "line": "Captain."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "I'm sorry to bother you, but I need your help. Ten of the Klingons have started a hunger strike. They say they won't eat until you agree to meet with their Council of Elders."
+        },
+        {
+          "character": "TORRES",
+          "line": "That's ridiculous."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Their faith is obviously very important to them."
+        },
+        {
+          "character": "TORRES",
+          "line": "They think I'm something I'm not."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Just talk to them. Hear what they have to say."
+        },
+        {
+          "character": "PARIS",
+          "line": "We could be with these people for a while. You can't avoid them forever."
+        },
+        {
+          "character": "TORRES",
+          "line": "I can try."
+        },
+        {
+          "character": "PARIS",
+          "line": "If it'll make you feel any better, I'll go with you."
+        }
+      ],
+      "location": "Torres-Paris'\nquarters"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "KLINGONS",
+          "line": "Mobar dohlomaj, kuvah'magh. Mobar dohlomaj, kuvah'magh. Mobar dohlomaj, kuvah'magh. Mobar dohlomaj, kuvah'magh. Mobar dohlomaj, kuvah'magh. Mobar dohlomaj, kuvah'magh. Mobar dohlomaj, kuvah'magh."
+        },
+        {
+          "character": "KOHLAR",
+          "line": "You honor us with your presence."
+        },
+        {
+          "character": "T'GRETH",
+          "line": "Look at her ridges. Morak was right. Your blood is not pure."
+        },
+        {
+          "character": "TORRES",
+          "line": "No, my father was human."
+        },
+        {
+          "character": "T'GRETH",
+          "line": "Couldn't you see this for yourself?"
+        },
+        {
+          "character": "KOHLAR",
+          "line": "Yes, but"
+        },
+        {
+          "character": "T'GRETH",
+          "line": "Why didn't you tell us?"
+        },
+        {
+          "character": "KOHLAR",
+          "line": "It wasn't important."
+        },
+        {
+          "character": "T'GRETH",
+          "line": "Not important? We destroyed our ship because you said she was the mother of the Kuvah'Magh."
+        },
+        {
+          "character": "KOHLAR",
+          "line": "Show me where it's written that the Kuvah'Magh must have pure Klingon blood."
+        },
+        {
+          "character": "T'GRETH",
+          "line": "The Prophecy wouldn't lead us to a mongrel child."
+        },
+        {
+          "character": "PARIS",
+          "line": "Hey, take it easy."
+        },
+        {
+          "character": "T'GRETH",
+          "line": "Who are you?"
+        },
+        {
+          "character": "PARIS",
+          "line": "The father of that mongrel child."
+        },
+        {
+          "character": "T'GRETH",
+          "line": "More human blood. Your Kuvah'Magh isn't even half-Klingon."
+        },
+        {
+          "character": "KOHLAR",
+          "line": "I've spent my life interpreting the scroll,s and I say that all the signs of the Prophecy are here."
+        },
+        {
+          "character": "T'GRETH",
+          "line": "Liar. You've led us to a false savior."
+        }
+      ],
+      "location": "Cargo bay"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TORRES",
+          "line": "I told you this was a mistake."
+        },
+        {
+          "character": "KOHLAR",
+          "line": "Lieutenant, I need your help."
+        },
+        {
+          "character": "TORRES",
+          "line": "Any more help from me and you're going to have a holy war on your hands."
+        },
+        {
+          "character": "KOHLAR",
+          "line": "That's what I'm trying to prevent."
+        }
+      ],
+      "location": "Corridor"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TORRES",
+          "line": "My baby's just a baby. She's not a savior."
+        },
+        {
+          "character": "KOHLAR",
+          "line": "Perhaps you're right. But we must convince my people that she is."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Why?"
+        },
+        {
+          "character": "KOHLAR",
+          "line": "We've traveled more than thirty thousand light years in search of this savior, and in more than one hundred years we've found nothing except hardship and isolation. When I saw Lieutenant Torres, that she was with child, I didn't know if I was looking at the mother of the Kuvah'Magh or not. But I did know I was looking at an opportunity to end this wasteful journey."
+        },
+        {
+          "character": "PARIS",
+          "line": "Then you don't believe in the Prophecy?"
+        },
+        {
+          "character": "KOHLAR",
+          "line": "What I believe is that my people have suffered enough. If they accept your child as the Kuvah'Magh you'll hold great influence over them. We can find a suitable planet. You can tell them it's their new home and they'll follow you there."
+        },
+        {
+          "character": "TORRES",
+          "line": "I'm not going to lie to them."
+        },
+        {
+          "character": "KOHLAR",
+          "line": "What's the alternative? My people staying aboard your ship draining your resources?"
+        },
+        {
+          "character": "JANEWAY",
+          "line": "I agree with Lieutenant Torres. I'm not comfortable deceiving your people."
+        },
+        {
+          "character": "KOHLAR",
+          "line": "Perhaps you won't have to lie to them to convince them."
+        },
+        {
+          "character": "TORRES",
+          "line": "What are you suggesting?"
+        },
+        {
+          "character": "KOHLAR",
+          "line": "If you study the scrolls with me, we may be able to interpret them in way that appears consistent with the events of your life. Then we'll bring those consistencies to the attention of the Council."
+        },
+        {
+          "character": "PARIS",
+          "line": "So you just want to stretch the truth a little."
+        },
+        {
+          "character": "KOHLAR",
+          "line": "It is possible that the sacred scrolls were scrawled by a madman in a cave. Or perhaps they really were divinely inspired. Either way, they've guided us for over a century. If my people start to believe that the sacred scrolls have led them astray, there may be violence."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Is that a threat?"
+        },
+        {
+          "character": "KOHLAR",
+          "line": "Merely a fact. You're doing everything you can to get your people home, Captain. That's all I'm doing for mine."
+        }
+      ],
+      "location": "Briefing room"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TORRES",
+          "line": "It says the Kuvah'Magh will be descended from a noble house. I don't come from one and I'm pretty sure my husband doesn't, either."
+        },
+        {
+          "character": "KOHLAR",
+          "line": "We all have nobility in our blood if we go back far enough."
+        },
+        {
+          "character": "TORRES",
+          "line": "So these scrolls can mean anything you want them to."
+        },
+        {
+          "character": "KOHLAR",
+          "line": "It is written that the mother of the Kuvah'Magh would be an off-worlder. Weren't you born on a Federation colony?"
+        },
+        {
+          "character": "TORRES",
+          "line": "A lot of Klingons are born off-world."
+        },
+        {
+          "character": "KOHLAR",
+          "line": "It also says that you would have lived a life of solitude, and endured many hardships. That's accurate, isn't it?"
+        },
+        {
+          "character": "TORRES",
+          "line": "According to this, I'm supposed to have won a glorious victory against an army of ten thousand warriors."
+        },
+        {
+          "character": "KOHLAR",
+          "line": "Haven't you?"
+        },
+        {
+          "character": "TORRES",
+          "line": "We haven't even encountered ten thousand warriors. Unless you include the Borg."
+        },
+        {
+          "character": "KOHLAR",
+          "line": "Did you help destroy one of their vessels?"
+        },
+        {
+          "character": "TORRES",
+          "line": "I suppose."
+        },
+        {
+          "character": "KOHLAR",
+          "line": "Couldn't that have been your glorious victory?"
+        },
+        {
+          "character": "TORRES",
+          "line": "I guess so."
+        },
+        {
+          "character": "KOHLAR",
+          "line": "Where are the images of Kahless? Where is your family crest?"
+        },
+        {
+          "character": "TORRES",
+          "line": "They clashed with the carpet."
+        },
+        {
+          "character": "KOHLAR",
+          "line": "Don't you honor any of your people's traditions?"
+        },
+        {
+          "character": "TORRES",
+          "line": "Not really."
+        },
+        {
+          "character": "KOHLAR",
+          "line": "There is one tradition we can honor together."
+        },
+        {
+          "character": "TORRES",
+          "line": "What are you doing?"
+        },
+        {
+          "character": "KOHLAR",
+          "line": "It's midday. Time to remember the sacrifice of our ancestors. Haven't you made a plea for the dead before?"
+        },
+        {
+          "character": "TORRES",
+          "line": "Not since I was a child."
+        },
+        {
+          "character": "KOHLAR",
+          "line": "The dead can't rest in Sto-Vo-Kor if the living don't honor their memory. Perhaps there's someone I can honor on your behalf. Who did you plead for as a child?"
+        },
+        {
+          "character": "TORRES",
+          "line": "My grandmother."
+        },
+        {
+          "character": "KOHLAR",
+          "line": "She was called?"
+        },
+        {
+          "character": "TORRES",
+          "line": "L'Naan."
+        },
+        {
+          "character": "KOHLAR",
+          "line": "Kahless, we implore you to remember those warriors who have fallen in your name. Lift them out of the Cavern of Despair and reveal yourself to them in all your glory."
+        },
+        {
+          "character": "TORRES",
+          "line": "Right, in all your glory."
+        },
+        {
+          "character": "KOHLAR",
+          "line": "Remember Kolax, son of Amar. Remember Talij, daughter of K'Rene."
+        },
+        {
+          "character": "TORRES",
+          "line": "Remember L'Naan, daughter of Krelik."
+        }
+      ],
+      "location": "Torres-Paris'\nquarters"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "EMH",
+          "line": "What happened to you?"
+        },
+        {
+          "character": "KIM",
+          "line": "I cut myself shaving."
+        },
+        {
+          "character": "EMH",
+          "line": "Is that a bite mark?"
+        },
+        {
+          "character": "KIM",
+          "line": "One of the Klingons attacked me."
+        },
+        {
+          "character": "EMH",
+          "line": "Did you do something to provoke him?"
+        },
+        {
+          "character": "KIM",
+          "line": "Not him, her. And she wasn't provoked. She was aroused."
+        },
+        {
+          "character": "EMH",
+          "line": "Ah. I'm not surprised. I've studied the section on Klingon mating rituals in their cultural database."
+        },
+        {
+          "character": "KIM",
+          "line": "Then maybe you can tell me how to convince a female twice my size that I'm not interested."
+        },
+        {
+          "character": "EMH",
+          "line": "Hmm. You probably can't."
+        },
+        {
+          "character": "KIM",
+          "line": "Great."
+        },
+        {
+          "character": "EMH",
+          "line": "As I understand it, you have two options. Kill her, or mate with her. Since the first option is clearly unacceptable."
+        },
+        {
+          "character": "KIM",
+          "line": "What's this?"
+        },
+        {
+          "character": "EMH",
+          "line": "Authorisation for you to engage in intimate relations with a member of an alien species. Be sure to get the Captain's approval as well. Chief Engineer's personal log, stardate 54518.2. I've spent the last two days reviewing the sacred scrolls in preparation for my appearance before the Klingon council. Kohlar also suggested I prepare a few colorful stories to help win them over."
+        }
+      ],
+      "location": "Sickbay"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TORRES",
+          "line": "That's when they beamed aboard the Flyer, weapons firing. Tuvok and Neelix fought valiantly, but there were too many Hirogen. I had to face ten of their fiercest Hunters alone."
+        },
+        {
+          "character": "PARIS",
+          "line": "Is that how you remember it?"
+        },
+        {
+          "character": "TORRES",
+          "line": "took them down two at a time, but they kept coming."
+        },
+        {
+          "character": "NEELIX",
+          "line": "Exaggeration is part of Klingon custom. She's doing great."
+        },
+        {
+          "character": "TORRES",
+          "line": "I had my phaser shot out of my hand, forcing me to take down the last Hunter in hand-to-hand combat. It was a glorious fight!"
+        },
+        {
+          "character": "KOHLAR",
+          "line": "Your ancestors would be honored."
+        },
+        {
+          "character": "T'GRETH",
+          "line": "You tell a good story, but that's not why you're here. Some say you are the mother of the Kuvah'Magh, the one who will guide us to a new homeworld. Has your unborn child told you where it is?"
+        },
+        {
+          "character": "TORRES",
+          "line": "The scrolls say, you will follow in my footsteps before I have made them. Yesterday we changed course toward a planet very much like Kronos. So in a manner of speaking, you are now following my child to a new home."
+        },
+        {
+          "character": "T'GRETH",
+          "line": "You deliver the words we want to hear, but it's Kohlar who gives them to you. Are you his puppet in the bedchamber as well?"
+        },
+        {
+          "character": "PARIS",
+          "line": "Watch it. That's my wife you're talking about."
+        },
+        {
+          "character": "T'GRETH",
+          "line": "He speaks. I didn't think you had a tongue."
+        },
+        {
+          "character": "TORRES",
+          "line": "Leave him out of this."
+        },
+        {
+          "character": "T'GRETH",
+          "line": "You see how he hides behind his female? It is also written that the father of the Kuvah'Magh will be an honorable warrior. Would an honorable warrior ever refuse a challenge?"
+        },
+        {
+          "character": "PARIS",
+          "line": "I haven't refused any challenge."
+        },
+        {
+          "character": "T'GRETH",
+          "line": "I haven't made one yet. You and I."
+        },
+        {
+          "character": "T'GRETH",
+          "line": "To the death."
+        },
+        {
+          "character": "TORRES",
+          "line": "Tom."
+        },
+        {
+          "character": "PARIS",
+          "line": "Stay out of this."
+        },
+        {
+          "character": "KLINGON",
+          "line": "PetaQ."
+        },
+        {
+          "character": "PARIS",
+          "line": "I accept."
+        }
+      ],
+      "location": "Mess hall"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "PARIS",
+          "line": "What was I supposed to say?"
+        },
+        {
+          "character": "TORRES",
+          "line": "How about no?"
+        },
+        {
+          "character": "PARIS",
+          "line": "They were all watching. There would have been a riot if I refused."
+        },
+        {
+          "character": "TORRES",
+          "line": "So you're going to get yourself killed ?"
+        },
+        {
+          "character": "PARIS",
+          "line": "What makes you so sure I'd lose?"
+        },
+        {
+          "character": "TORRES",
+          "line": "Oh, please."
+        },
+        {
+          "character": "PARIS",
+          "line": "Look, I have no intention of fighting anyone to the death, but wasn't the whole point of this to get them to believe that we are the parents of their savior?"
+        },
+        {
+          "character": "TORRES",
+          "line": "Captain, this has gone too far. You've got to put a stop to it."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "I intend to. Mister Tuvok."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Gentlemen, I'm afraid Lieutenant Paris had no authority to accept this challenge. There will be no death matches aboard my ship."
+        },
+        {
+          "character": "T'GRETH",
+          "line": "I told you this petaQ was not the true father."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Lieutenant Paris is perfectly willing to fight you, Mister T'Greth. I'm the one preventing him from doing so."
+        },
+        {
+          "character": "T'GRETH",
+          "line": "The father of the Kuvah'Magh wouldn't let a woman speak for him."
+        },
+        {
+          "character": "KOHLAR",
+          "line": "T'Greth, there is precedent for an honorable compromise. A non-lethal bout, fought with blunted bat'leths. The victory goes to the first warrior to knock his opponent to the ground three times."
+        },
+        {
+          "character": "T'GRETH",
+          "line": "A coward's rules."
+        },
+        {
+          "character": "KOHLAR",
+          "line": "Was the Emperor Mur'Eq a coward? He was the one who instituted these rules to insure that his warriors would kill their enemies and not each other."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "If you agree to these terms I'll allow the match."
+        },
+        {
+          "character": "T'GRETH",
+          "line": "I'll see you on the field of battle."
+        },
+        {
+          "character": "TUVOK",
+          "line": "I assume you have a suitable holodeck training program for this, Lieutenant?"
+        },
+        {
+          "character": "KOHLAR",
+          "line": "He'll be ready. I'll train him myself."
+        }
+      ],
+      "location": "Ready room"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "NEELIX",
+          "line": "Hi."
+        },
+        {
+          "character": "KIM",
+          "line": "Psst! Neelix!"
+        },
+        {
+          "character": "NEELIX",
+          "line": "Something wrong, Harry?"
+        },
+        {
+          "character": "KIM",
+          "line": "Shush. Have you seen her?"
+        },
+        {
+          "character": "NEELIX",
+          "line": "Who?"
+        },
+        {
+          "character": "KIM",
+          "line": "That Klingon woman. The one I got into a scrape with in the mess hall."
+        },
+        {
+          "character": "NEELIX",
+          "line": "Officer Ch'Rega."
+        },
+        {
+          "character": "KIM",
+          "line": "That's her."
+        },
+        {
+          "character": "NEELIX",
+          "line": "I haven't seen her today."
+        },
+        {
+          "character": "KIM",
+          "line": "She's been following me everywhere."
+        },
+        {
+          "character": "NEELIX",
+          "line": "Why?"
+        },
+        {
+          "character": "KIM",
+          "line": "She wants to mate."
+        },
+        {
+          "character": "NEELIX",
+          "line": "Oh! You're a lucky man. She's a fine specimen of Klingon womanhood."
+        },
+        {
+          "character": "KIM",
+          "line": "I guess it's a matter of taste."
+        },
+        {
+          "character": "KIM",
+          "line": "You never saw me."
+        },
+        {
+          "character": "NEELIX",
+          "line": "Wait, I have a better idea."
+        },
+        {
+          "character": "KIM",
+          "line": "Neelix, what the hell are you doing?"
+        },
+        {
+          "character": "NEELIX",
+          "line": "Play along. I'm taking her off your hands. When I say you're limited to two servings of brak't, that's all you get. Do you understand me, Ensign?"
+        },
+        {
+          "character": "KIM",
+          "line": "Yes, sir. Whatever you say."
+        },
+        {
+          "character": "NEELIX",
+          "line": "I don't think you do. If I catch you eating more than your share again, I'll cut it out of your belly. Run."
+        },
+        {
+          "character": "KIM",
+          "line": "Excuse me."
+        },
+        {
+          "character": "NEELIX",
+          "line": "PetaQ!"
+        }
+      ],
+      "location": "Corridor"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "NEELIX",
+          "line": "I didn't think you approved of the competition."
+        },
+        {
+          "character": "EMH",
+          "line": "I don't. I'm here in an official capacity."
+        },
+        {
+          "character": "NEELIX",
+          "line": "Well, you do know they're fighting with non-lethal weapons?"
+        },
+        {
+          "character": "EMH",
+          "line": "You'd be surprised how much damage a blunt bat'leth can do."
+        },
+        {
+          "character": "KOHLAR",
+          "line": "Warriors, assemble!"
+        },
+        {
+          "character": "TORRES",
+          "line": "Today would be a very bad day to die."
+        },
+        {
+          "character": "PARIS",
+          "line": "I'll try to remember that."
+        },
+        {
+          "character": "KOHLAR",
+          "line": "Let honor guide you. Tagh."
+        },
+        {
+          "character": "T'GRETH",
+          "line": "I see fear in your eyes, human."
+        },
+        {
+          "character": "PARIS",
+          "line": "The only Klingon I'm afraid of is my wife after she's worked a double shift."
+        },
+        {
+          "character": "KOHLAR",
+          "line": "It's begun."
+        },
+        {
+          "character": "EMH",
+          "line": "What are you talking about?"
+        },
+        {
+          "character": "KOHLAR",
+          "line": "He's dying."
+        },
+        {
+          "character": "EMH",
+          "line": "Typically, I'm the one to make that kind of prognosis."
+        },
+        {
+          "character": "KOHLAR",
+          "line": "It's the nehret. It kills all of us who aren't fortunate enough to die in battle."
+        }
+      ],
+      "location": "Holodeck - Arena"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "EMH",
+          "line": "It's a retrovirus that destroys the cells by attacking the cytoplasmic membranes."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Shouldn't our bio-filters have detected it when we transported the Klingons aboard?"
+        },
+        {
+          "character": "EMH",
+          "line": "This is an insidious virus. It lies dormant, disguising itself as inert genetic material until it inexplicably activates."
+        },
+        {
+          "character": "KOHLAR",
+          "line": "The nehret always comes without warning."
+        },
+        {
+          "character": "EMH",
+          "line": "I've reviewed my scans of the other Klingons. They're all carriers."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Why didn't you tell us your people had a disease?"
+        },
+        {
+          "character": "KOHLAR",
+          "line": "We've never thought of it as a disease. It's more like old age."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Is it contagious?"
+        },
+        {
+          "character": "EMH",
+          "line": "Only to Klingons. If you'd give us some privacy, I'd like to examine Lieutenant Torres."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Of course."
+        },
+        {
+          "character": "TORRES",
+          "line": "The baby too?"
+        },
+        {
+          "character": "EMH",
+          "line": "I'm afraid so."
+        },
+        {
+          "character": "T'GRETH",
+          "line": "Why am I here?"
+        },
+        {
+          "character": "EMH",
+          "line": "You're ill. You collapsed during the fight."
+        },
+        {
+          "character": "T'GRETH",
+          "line": "The nehret."
+        },
+        {
+          "character": "TORRES",
+          "line": "Yes. Thank you for telling us. Now my baby and I have it too."
+        },
+        {
+          "character": "EMH",
+          "line": "Where do you think you're going?"
+        },
+        {
+          "character": "T'GRETH",
+          "line": "To prepare for my journey to Sto-Vo-Kor."
+        },
+        {
+          "character": "EMH",
+          "line": "You should be in Sickbay."
+        },
+        {
+          "character": "T'GRETH",
+          "line": "Can you make me well?"
+        },
+        {
+          "character": "EMH",
+          "line": "Not at the moment, but"
+        },
+        {
+          "character": "T'GRETH",
+          "line": "Then don't deny me my tradition."
+        }
+      ],
+      "location": "Sickbay"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "T'GRETH",
+          "line": "The child is not the Kuvah'Magh."
+        },
+        {
+          "character": "MORAK",
+          "line": "But the father accepted your challenge. He defeated you."
+        },
+        {
+          "character": "T'GRETH",
+          "line": "I was defeated by the nehret. B'Elanna Torres and her child will fall victim to it as well."
+        },
+        {
+          "character": "MORAK",
+          "line": "Impossible."
+        },
+        {
+          "character": "T'GRETH",
+          "line": "They both carry it. She told me herself."
+        },
+        {
+          "character": "MORAK",
+          "line": "But the scrolls say the Kuvah'Magh is younger than old age."
+        },
+        {
+          "character": "T'GRETH",
+          "line": "And stronger than sickness. She cannot be our savior. We should resume our search."
+        },
+        {
+          "character": "MORAK",
+          "line": "Kohlar and many of the others won't agree."
+        },
+        {
+          "character": "T'GRETH",
+          "line": "Then we must act alone for the good of our people."
+        },
+        {
+          "character": "MORAK",
+          "line": "How?"
+        },
+        {
+          "character": "T'GRETH",
+          "line": "We'll wait for the right moment, and when it comes we'll seize Voyager."
+        }
+      ],
+      "location": "Cargo bay"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "SEVEN",
+          "line": "We've identified two potential colony sites in the southern hemisphere."
+        },
+        {
+          "character": "KOHLAR",
+          "line": "We'll require topographical scans."
+        },
+        {
+          "character": "SEVEN",
+          "line": "I'll prepare them."
+        },
+        {
+          "character": "T'GRETH",
+          "line": "I shouldn't have doubted you. It appears the signs were there all along. I'll join the survey mission."
+        },
+        {
+          "character": "KOHLAR",
+          "line": "You're ill, old friend. You should remain here."
+        },
+        {
+          "character": "T'GRETH",
+          "line": "I want my final days to be spent in honorable pursuits. Don't ask me to die inside these walls."
+        },
+        {
+          "character": "KOHLAR",
+          "line": "We transport in one hour."
+        }
+      ],
+      "location": "Astrometrics lab"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "MORAK",
+          "line": "Your transporters are much more sophisticated than ours."
+        },
+        {
+          "character": "KIM",
+          "line": "I've studied Klingon transport systems. The basic technology isn't all that different."
+        },
+        {
+          "character": "MORAK",
+          "line": "But you were able to beam our entire crew aboard Voyager at one time."
+        },
+        {
+          "character": "KIM",
+          "line": "We usually don't like to do that for safety reasons, but in a pinch we can expand the buffer capacity."
+        },
+        {
+          "character": "MORAK",
+          "line": "These are the targeting scanners?"
+        },
+        {
+          "character": "KIM",
+          "line": "Exactly. They work on the same principles as yours."
+        }
+      ],
+      "location": "Transporter room"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TORRES",
+          "line": "You said it was urgent?"
+        },
+        {
+          "character": "EMH",
+          "line": "I need to conduct a more detailed bio-scan of your baby."
+        },
+        {
+          "character": "TORRES",
+          "line": "She's not sick, is she?"
+        },
+        {
+          "character": "EMH",
+          "line": "No. But I may be on to something."
+        }
+      ],
+      "location": "Sickbay"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "CHAKOTAY",
+          "line": "I'll be leading the team going to site A, Kohlar will be in charge of the site B team."
+        }
+      ],
+      "location": "Corridor"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "KIM",
+          "line": "Good morning, Commander."
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "Harry."
+        }
+      ],
+      "location": "Transporter room"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TUVOK",
+          "line": "Phaser fire in transporter room one."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Bridge to Chakotay."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "MORAK",
+          "line": "They're on the surface."
+        },
+        {
+          "character": "T'GRETH",
+          "line": "Now lock on to the bridge officers."
+        },
+        {
+          "character": "MORAK",
+          "line": "They've activated a forcefield around deck one."
+        },
+        {
+          "character": "T'GRETH",
+          "line": "Transport the rest of their crew."
+        }
+      ],
+      "location": "Transporter room"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "PARIS",
+          "line": "Captain, I'm detecting multiple transports. Some of our people are being beamed down to the surface."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Cut power to the transporters."
+        },
+        {
+          "character": "PARIS",
+          "line": "I can't."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Bridge to Engineering. B'Elanna, respond."
+        },
+        {
+          "character": "PARIS",
+          "line": "There's no one in Engineering."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "T'GRETH",
+          "line": "The bridge officers?"
+        },
+        {
+          "character": "MORAK",
+          "line": "I still can't get a lock."
+        },
+        {
+          "character": "T'GRETH",
+          "line": "Can you transport us there?"
+        },
+        {
+          "character": "MORAK",
+          "line": "I'll try."
+        }
+      ],
+      "location": "Transporter room"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TUVOK",
+          "line": "Computer, open the transporter room doors. Security override, Tuvok pi alpha."
+        }
+      ],
+      "location": "Outside transporter room"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "T'GRETH",
+          "line": "Grant me a warrior's death, I beg of you."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Sorry. No mercy killings on my bridge. Get our people back."
+        },
+        {
+          "character": "PARIS",
+          "line": "Yes, ma'am."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "T'GRETH",
+          "line": "Why am I not in Sto-Vo-Kor?"
+        },
+        {
+          "character": "EMH",
+          "line": "Because you are healthy as a targ."
+        },
+        {
+          "character": "T'GRETH",
+          "line": "The nehret?"
+        },
+        {
+          "character": "EMH",
+          "line": "Gone."
+        },
+        {
+          "character": "KOHLAR",
+          "line": "We have B'Elanna Torres's child to thank for it."
+        },
+        {
+          "character": "EMH",
+          "line": "The fetus has hybrid stem cells. They contain Klingon and human DNA. I used them to synthesize an antivirus."
+        },
+        {
+          "character": "T'GRETH",
+          "line": "The child cured me?"
+        },
+        {
+          "character": "EMH",
+          "line": "Well, I was the one who devised the treatment"
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Doctor."
+        },
+        {
+          "character": "EMH",
+          "line": "Yes, of course. The child cured you."
+        },
+        {
+          "character": "KOHLAR",
+          "line": "The Kuvah'Magh has healed all of us. She truly is our savior. Captain's log, stardate 54529.8. While we're helping the Klingons into their new home, life aboard Voyager is gradually returning to normal."
+        }
+      ],
+      "location": "Sickbay"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TUVOK",
+          "line": "Computer, open this door."
+        },
+        {
+          "character": "COMPUTER",
+          "line": "Access to these quarters has been restricted."
+        },
+        {
+          "character": "TUVOK",
+          "line": "On whose authority?"
+        },
+        {
+          "character": "COMPUTER",
+          "line": "Neelix."
+        },
+        {
+          "character": "TUVOK",
+          "line": "Mister Neelix, open this door."
+        },
+        {
+          "character": "NEELIX",
+          "line": "I'll be there in a minute, Commander. That's, that's my boot.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "TUVOK",
+          "line": "Computer, security override. Authorisation: Tuvok pi"
+        },
+        {
+          "character": "NEELIX",
+          "line": "Goodbye, my little par'machkai."
+        },
+        {
+          "character": "CH'REGA",
+          "line": "Goodbye, my fearless warrior."
+        },
+        {
+          "character": "NEELIX",
+          "line": "I'm really going to miss her."
+        }
+      ],
+      "location": "Outside Tuvok's quarters"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "NEELIX",
+          "line": "Oh. Don't you worry, Mister Vulcan. I'll have this place shipshape in no time at all."
+        },
+        {
+          "character": "TUVOK",
+          "line": "Just go, Mister Neelix."
+        }
+      ],
+      "location": "Tuvok's quarters"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TORRES",
+          "line": "What's this?"
+        },
+        {
+          "character": "KOHLAR",
+          "line": "The bat'leth given to me by my great-grandfather. It's for your daughter. I hope someday you'll tell her about us."
+        },
+        {
+          "character": "TORRES",
+          "line": "I will."
+        },
+        {
+          "character": "KOHLAR",
+          "line": "Qapla', B'Elanna Torres."
+        },
+        {
+          "character": "TORRES",
+          "line": "Qapla'."
+        }
+      ],
+      "location": "Transporter room"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "PARIS",
+          "line": "It doesn't seem right just to hang it on the wall."
+        },
+        {
+          "character": "TORRES",
+          "line": "I'm not letting you scratch it up on the holodeck."
+        },
+        {
+          "character": "PARIS",
+          "line": "I'm sure our daughter wouldn't mind lending it to the old man every now and then. You know, this is one special kid we're going to have."
+        },
+        {
+          "character": "TORRES",
+          "line": "You're just figuring that out?"
+        },
+        {
+          "character": "PARIS",
+          "line": "I was hoping for an artist, or maybe a musician, but she's already the savior of an entire race."
+        },
+        {
+          "character": "TORRES",
+          "line": "You don't really believe that."
+        },
+        {
+          "character": "PARIS",
+          "line": "I don't know. There are a lot of coincidences to explain. I mean, what were the odds that they'd run into the one ship in the whole quadrant with a Klingon aboard?"
+        },
+        {
+          "character": "TORRES",
+          "line": "Probably about the same odds that you and I would get married."
+        },
+        {
+          "character": "PARIS",
+          "line": "Maybe we should name her Kuvah'Magh, just to be safe."
+        },
+        {
+          "character": "TORRES",
+          "line": "Put it on the list."
+        }
+      ],
+      "location": "Torres - Paris' quarters"
+    }
+  ],
+  "schedule": {
+    "episode": 14,
+    "number": 160,
+    "season": 7
+  },
+  "stardate": "54529.8",
+  "title": "Prophecy"
+}

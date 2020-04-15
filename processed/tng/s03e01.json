@@ -1,0 +1,1693 @@
+{
+  "airdate": 623304000,
+  "scenes": [
+    {
+      "dialogue": [
+        {
+          "character": "DATA",
+          "line": "Captain. Doctor. I am honored by your presence, but may I suggest you attend the second concert."
+        },
+        {
+          "character": "CRUSHER",
+          "line": "Why, Data?"
+        },
+        {
+          "character": "DATA",
+          "line": "Ensign Ortiz will perform the violin part. My rendition will be less enjoyable."
+        },
+        {
+          "character": "PICARD",
+          "line": "Oh?"
+        },
+        {
+          "character": "DATA",
+          "line": "Although I am technically proficient, according to my fellow performers, I lack soul."
+        },
+        {
+          "character": "CRUSHER",
+          "line": "Data, telling us why you're going to fail before you make the attempt is never wise."
+        },
+        {
+          "character": "DATA",
+          "line": "But is not honesty always the preferred choice?"
+        },
+        {
+          "character": "PICARD",
+          "line": "Excessive honesty can be disastrous, particularly in a commander."
+        },
+        {
+          "character": "DATA",
+          "line": "Indeed?"
+        },
+        {
+          "character": "PICARD",
+          "line": "Knowing your limitations is one thing. Advertising them to a crew can damage your credibility as a leader."
+        },
+        {
+          "character": "DATA",
+          "line": "Because you will lose their confidence?"
+        },
+        {
+          "character": "CRUSHER",
+          "line": "And you may begin to believe in those limitations yourself."
+        },
+        {
+          "character": "RIKER",
+          "line": "Captain, we're receiving a message from the Sheliak Corporate.",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "Ten forward"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "WORF",
+          "line": "Origin point of the message confirmed, sir. It is from the Shelia star system."
+        },
+        {
+          "character": "RIKER",
+          "line": "The Sheliak have not attempted to communicate with the Federation for a hundred and eleven years. Why are they doing it now?"
+        },
+        {
+          "character": "PICARD",
+          "line": "On screen."
+        },
+        {
+          "character": "SHELIAK",
+          "line": "Federation creatures, there are humans on the fifth planet of Tau Cygna. This planet was ceded to the Corporate in section one hundred and thirty-three, paragraph seventy seven of the Treaty of Armens. We will begin settlement of this world in four days. Remove the humans.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "PICARD",
+          "line": "What the devil?"
+        },
+        {
+          "character": "SHELIAK",
+          "line": "Federation creatures, there are humans on the fifth planet",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "PICARD",
+          "line": "Cancel message."
+        },
+        {
+          "character": "RIKER",
+          "line": "Tau Cygna Five is in the de Laure Belt. Heavy concentrations of hyperonic radiation."
+        },
+        {
+          "character": "PICARD",
+          "line": "Humans can't survive in that environment. Exposure to hyperonic radiation is fatal."
+        },
+        {
+          "character": "RIKER",
+          "line": "Then the Sheliak are asking us to chase ghosts."
+        },
+        {
+          "character": "PICARD",
+          "line": "No, Number One. The Sheliak haven't broken a century of silence to send us after phantoms. An investigation is in order. Set course for Tau Cygna Five."
+        },
+        {
+          "character": "WORF",
+          "line": "Captain, human life form readings from the planet."
+        },
+        {
+          "character": "RIKER",
+          "line": "So the Sheliak weren't hallucinating."
+        },
+        {
+          "character": "PICARD",
+          "line": "Numbers?"
+        },
+        {
+          "character": "WORF",
+          "line": "Impossible to get an accurate reading. High levels of radiation are disrupting our sensors."
+        },
+        {
+          "character": "DATA",
+          "line": "Hyperonic radiation also interferes with ship's transporters. They are now inoperable."
+        },
+        {
+          "character": "WORF",
+          "line": "So are the ship's phasers."
+        },
+        {
+          "character": "RIKER",
+          "line": "How can humans survive down there?"
+        },
+        {
+          "character": "CRUSHER",
+          "line": "They must have found a way to adapt. Milan's work with radiation sensitivity suggests it is possible. Perhaps with extensive viral therapy."
+        },
+        {
+          "character": "PICARD",
+          "line": "Well, whoever they are, and however they survived, we've got to get them off the planet."
+        },
+        {
+          "character": "RIKER",
+          "line": "By treaty, that world still belongs to the Sheliak."
+        },
+        {
+          "character": "PICARD",
+          "line": "Who are within their rights to demand the removal of these trespassers."
+        },
+        {
+          "character": "RIKER",
+          "line": "And if we don't remove them, the Sheliak will. Forcefully."
+        },
+        {
+          "character": "CRUSHER",
+          "line": "How forcefully?"
+        },
+        {
+          "character": "RIKER",
+          "line": "The Sheliak consider humans a lower life form. They would have no compunctions about exterminating the intruders."
+        },
+        {
+          "character": "PICARD",
+          "line": "Mister Data, as you are unaffected by hyperonic radiation, I'd like you to go to the planet via shuttlecraft and commence evacuation procedures."
+        },
+        {
+          "character": "DATA",
+          "line": "Aye, sir."
+        },
+        {
+          "character": "PICARD",
+          "line": "Number One, any speculation on what we might find down there?"
+        },
+        {
+          "character": "RIKER",
+          "line": "My guess would be a lone survey ship. Maybe a dozen or so survivors."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "HARITATH",
+          "line": "I think it's some sort of shuttlecraft."
+        },
+        {
+          "character": "KENTOR",
+          "line": "Where's it from?"
+        },
+        {
+          "character": "HARITATH",
+          "line": "Look at the markings. It must be from the Federation."
+        },
+        {
+          "character": "DATA",
+          "line": "Greetings, gentlemen."
+        },
+        {
+          "character": "HARITATH",
+          "line": "We saw your ship You're the first visitor we've had in"
+        },
+        {
+          "character": "KENTOR",
+          "line": "The first visitor we've ever had."
+        },
+        {
+          "character": "HARITATH",
+          "line": "You're not human."
+        },
+        {
+          "character": "DATA",
+          "line": "That is correct. I am an android. I am Lieutenant Commander Data of the Federation Starship Enterprise."
+        },
+        {
+          "character": "HARITATH",
+          "line": "Our great-grandparents were citizens of the Federation. But you don't want to waste time talking to us."
+        },
+        {
+          "character": "KENTOR",
+          "line": "You want to speak to Gosheven. We'll take you to him."
+        },
+        {
+          "character": "HARITATH",
+          "line": "I'm sure the Federation will be very proud of us. Wait until you see all we've accomplished."
+        },
+        {
+          "character": "DATA",
+          "line": "And who, precisely, is us?"
+        },
+        {
+          "character": "HARITATH",
+          "line": "Don't you know? Oh, no, I don't guess you would. We're descendants of the original settlers, from the colony ship Artemis."
+        }
+      ],
+      "location": "Planet surface"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "RIKER",
+          "line": "Got it. The Artemis. Launched ninety two years ago. Destination Septimus Minor. When they failed to check in, Starfleet began an extensive search."
+        },
+        {
+          "character": "PICARD",
+          "line": "What carried the Artemis"
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "PICARD",
+          "line": "So far off course?",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "DATA",
+          "line": "My local informant does not have that information. In the early days on Tau Cygna Five, survival was more important than history."
+        },
+        {
+          "character": "PICARD",
+          "line": "Understood. How many are there?",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "DATA",
+          "line": "Fifteen thousand two hundred fifty three, sir."
+        }
+      ],
+      "location": "Planet surface"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "PICARD",
+          "line": "Fifteen thousand!"
+        },
+        {
+          "character": "RIKER",
+          "line": "Three days, no transporters. We'll never get them out in time."
+        },
+        {
+          "character": "PICARD",
+          "line": "Shuttles?"
+        },
+        {
+          "character": "WORF",
+          "line": "Loading all the Enterprise shuttlecraft to capacity, evacuation will take four weeks, four days."
+        },
+        {
+          "character": "PICARD",
+          "line": "We need more time. Mister Data, prepare the colonists for an evacuation."
+        },
+        {
+          "character": "DATA",
+          "line": "Aye, sir.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "PICARD",
+          "line": "Get me the Sheliak."
+        },
+        {
+          "character": "WORF",
+          "line": "Their home world is quite distant, Captain. This will take some time."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "HARITATH",
+          "line": "Gosheven, look what's come."
+        },
+        {
+          "character": "DATA",
+          "line": "Lieutenant Commander Data of the Starship Enterprise."
+        },
+        {
+          "character": "KENTOR",
+          "line": "He's an android."
+        },
+        {
+          "character": "GOSHEVEN",
+          "line": "So he is. Well, now that you're here, what do you want?"
+        },
+        {
+          "character": "DATA",
+          "line": "My mission is to prepare this colony for evacuation."
+        },
+        {
+          "character": "GOSHEVEN",
+          "line": "Why?"
+        },
+        {
+          "character": "DATA",
+          "line": "Because this planet belongs to the Sheliak."
+        },
+        {
+          "character": "GOSHEVEN",
+          "line": "And who is this Sheliak?"
+        },
+        {
+          "character": "DATA",
+          "line": "The term is plural. The Sheliak are a non-humanoid, intelligent life form, classification R3."
+        },
+        {
+          "character": "GOSHEVEN",
+          "line": "Well, this colony's been here over ninety years. We've never seen a Sheliak. I'd say that makes Tau Cygna Five our planet."
+        },
+        {
+          "character": "DATA",
+          "line": "The original destination of the Artemis was Septimus Minor."
+        },
+        {
+          "character": "GOSHEVEN",
+          "line": "The guidance system on the Artemis failed. Took them off course. Far off course. Our ancestors were lucky to find any place to land."
+        },
+        {
+          "character": "HARITATH",
+          "line": "And when they did, the radiation started killing them."
+        },
+        {
+          "character": "GOSHEVEN",
+          "line": "Hyperonic radiation took the lives of a third of the colonists before they learned they could adapt to it."
+        },
+        {
+          "character": "KENTOR",
+          "line": "But our colony survived and prospered."
+        },
+        {
+          "character": "GOSHEVEN",
+          "line": "Look around. We have brought water to the desert, built a community."
+        },
+        {
+          "character": "DATA",
+          "line": "Your accomplishments are truly remarkable. Yet the Sheliak and the Federation have a treaty which clearly makes this planet Sheliak domain."
+        },
+        {
+          "character": "GOSHEVEN",
+          "line": "Then change the treaty."
+        },
+        {
+          "character": "DATA",
+          "line": "That may not be possible. The Sheliak wish to colonize this planet, and are unwilling to share it with humans. If you are still here when the Sheliak colony ship arrives, they will eradicate you."
+        },
+        {
+          "character": "HARITATH",
+          "line": "They'd kill all of us?"
+        },
+        {
+          "character": "DATA",
+          "line": "They have little regard for human life. Thus, the most sensible course is to prepare a contingency plan for the evacuation of your people."
+        },
+        {
+          "character": "GOSHEVEN",
+          "line": "We're not evacuating."
+        },
+        {
+          "character": "DATA",
+          "line": "Perhaps I have not made myself clear."
+        },
+        {
+          "character": "GOSHEVEN",
+          "line": "Yes, you have. Let me be equally clear. There's going to be no evacuation. You've delivered your message, so go back to your ship. I have work to do."
+        },
+        {
+          "character": "ARD'RIAN",
+          "line": "Nice catch. Wonderful reflexes. Sorry to test you like that, but I was curious."
+        },
+        {
+          "character": "GOSHEVEN",
+          "line": "Found a new toy, have we, Ardi?"
+        },
+        {
+          "character": "ARD'RIAN",
+          "line": "Toy? This is the most incredible android I've ever seen."
+        },
+        {
+          "character": "DATA",
+          "line": "Have you seen many?"
+        },
+        {
+          "character": "ARD'RIAN",
+          "line": "Actually, no. You're the first."
+        },
+        {
+          "character": "GOSHEVEN",
+          "line": "Only you would get this excited over a walking calculator."
+        },
+        {
+          "character": "ARD'RIAN",
+          "line": "Cybernetic intelligence fascinates me. Are your neural pathways duotronic?"
+        },
+        {
+          "character": "DATA",
+          "line": "No, positronic."
+        },
+        {
+          "character": "ARD'RIAN",
+          "line": "I didn't know that was possible! What's your memory capacity? How many operations per second? I have a million questions."
+        },
+        {
+          "character": "DATA",
+          "line": "I'm afraid I have no time to answer a million questions. I have a mission to accomplish. I need to know more about your people, and Gosheven seems unwilling to talk to me further."
+        },
+        {
+          "character": "ARD'RIAN",
+          "line": "I'm Ard'rian McKenzie. Perhaps I can help you."
+        }
+      ],
+      "location": "Main square"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "RIKER",
+          "line": "Gentlemen, we're giving you an assignment. One thing we don't want to hear is that it is impossible."
+        },
+        {
+          "character": "PICARD",
+          "line": "I need the transporters to function despite the hyperonic radiation."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Yeah, but that's im. Yes, sir."
+        },
+        {
+          "character": "RIKER",
+          "line": "Even if we get the Sheliak to talk, they're not likely to be accommodating."
+        },
+        {
+          "character": "TROI",
+          "line": "Captain, when the treaty was first negotiated the Federation sent three hundred and seventy two legal experts. What do we have?"
+        },
+        {
+          "character": "PICARD",
+          "line": "Thee and me?"
+        }
+      ],
+      "location": "Observation lounge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "WORF",
+          "line": "No response."
+        },
+        {
+          "character": "PICARD",
+          "line": "Try them again. Boost the signal strength."
+        },
+        {
+          "character": "WORF",
+          "line": "Sheliak Corporate. This is the starship Enterprise. Respond please."
+        },
+        {
+          "character": "SHELIAK",
+          "line": "Conversation is neither required nor desired.",
+          "modifier": "screen"
+        },
+        {
+          "character": "PICARD",
+          "line": "Conversation is necessary if we are to find a solution to our mutual problem."
+        },
+        {
+          "character": "SHELIAK",
+          "line": "Our involvement in Federation illegality is not indicated.",
+          "modifier": "screen"
+        },
+        {
+          "character": "PICARD",
+          "line": "Both parties are involved, sir."
+        },
+        {
+          "character": "SHELIAK",
+          "line": "Remove the humans from the Tau Cygna system. Three Earth days remain.",
+          "modifier": "screen"
+        },
+        {
+          "character": "PICARD",
+          "line": "Let us negotiate in good faith."
+        },
+        {
+          "character": "SHELIAK",
+          "line": "Negotiate to what purpose? The treaty is signed.",
+          "modifier": "screen"
+        },
+        {
+          "character": "PICARD",
+          "line": "There is a thriving colony on that planet. Rather than uproot these people, may I offer a compromise?"
+        },
+        {
+          "character": "SHELIAK",
+          "line": "Denied.",
+          "modifier": "screen"
+        },
+        {
+          "character": "PICARD",
+          "line": "Why?"
+        },
+        {
+          "character": "SHELIAK",
+          "line": "The law is paramount. We are entitled.",
+          "modifier": "screen"
+        },
+        {
+          "character": "PICARD",
+          "line": "This is not a law. It is a treaty. It is designed to smooth relations between peoples. Not to act as a strait"
+        },
+        {
+          "character": "PICARD",
+          "line": "Jacket."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "ARD'RIAN",
+          "line": "You really think we'll have to leave Tau Cygna Five?"
+        },
+        {
+          "character": "DATA",
+          "line": "The possibility does exist, yet Gosheven seems unwilling to prepare for it. Why?"
+        },
+        {
+          "character": "ARD'RIAN",
+          "line": "Maybe because you're an android. I don't think Gosheven likes the idea of machines ordering him around."
+        },
+        {
+          "character": "DATA",
+          "line": "I am not ordering him to do anything. I am merely trying to persuade him that his people should prepare to evacuate. Do you believe my suggested course of action should be followed?"
+        },
+        {
+          "character": "ARD'RIAN",
+          "line": "Of course."
+        },
+        {
+          "character": "DATA",
+          "line": "In spite of the fact that I am an android?"
+        },
+        {
+          "character": "ARD'RIAN",
+          "line": "Because of that fact. I don't have any silly prejudice against computers. I like them. Not that any computer we have is half as sophisticated as you are."
+        },
+        {
+          "character": "DATA",
+          "line": "No, I would say not."
+        },
+        {
+          "character": "ARD'RIAN",
+          "line": "People can be selfish, irrational, stubborn, malicious, you name it. But computers don't have those failings."
+        },
+        {
+          "character": "DATA",
+          "line": "And you conclude because of this that I am impartial. Hence, you accept my recommendations? Yet Gosheven does not."
+        },
+        {
+          "character": "PICARD",
+          "line": "Picard to Commander Data.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "DATA",
+          "line": "Data here."
+        },
+        {
+          "character": "PICARD",
+          "line": "The Sheliak won't bargain.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "DATA",
+          "line": "Understood, sir."
+        }
+      ],
+      "location": "Ard'rian's home"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "PICARD",
+          "line": "I'm contacting Starfleet to arrange transport. Get those people prepared to evacuation. We may have to move quickly."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "DATA",
+          "line": "Aye, sir. We must speak to Gosheven immediately."
+        }
+      ],
+      "location": "Ard'rian's home"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "RIKER",
+          "line": "Gentlemen, how's it coming? What the hell is that?"
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Our first attempt."
+        },
+        {
+          "character": "RIKER",
+          "line": "Keep at it. We need those transporters."
+        }
+      ],
+      "location": "Transporter room"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "GOSHEVEN",
+          "line": "You see this? Do you have any idea what it is, or what it means?"
+        },
+        {
+          "character": "DATA",
+          "line": "It is water. A substance composed of two atoms of hydrogen"
+        },
+        {
+          "character": "GOSHEVEN",
+          "line": "It's not water. It's blood and it's sweat. It's the result of a ninety years of combined effort. This isn't a town. It's a monument to every man, woman, and child who's lived and died on Tau Cygna Five."
+        },
+        {
+          "character": "ARD'RIAN",
+          "line": "Gosheven, you're talking nonsense."
+        },
+        {
+          "character": "GOSHEVEN",
+          "line": "Am I? My grandfather is buried on that mountain. He died in a rock slide surveying the route for this aqueduct. This colony exists because of his sacrifice, and the sacrifice of thousands of others. No, we're not leaving."
+        },
+        {
+          "character": "DATA",
+          "line": "The Sheliak will not accept humans on their planet, And they will not hesitate to use force to remove you."
+        },
+        {
+          "character": "GOSHEVEN",
+          "line": "We will not be bullied off our land. Not by you, and not by the Sheliak."
+        },
+        {
+          "character": "ARD'RIAN",
+          "line": "Stubborn and irrational. Now what do we do?"
+        },
+        {
+          "character": "DATA",
+          "line": "Are his sentiments typical of the colonists?"
+        },
+        {
+          "character": "ARD'RIAN",
+          "line": "I hope not."
+        },
+        {
+          "character": "DATA",
+          "line": "If I can convince enough people of the necessity of leaving"
+        },
+        {
+          "character": "ARD'RIAN",
+          "line": "Don't you mean, if we can convince?"
+        }
+      ],
+      "location": "Main square"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "PICARD",
+          "line": "Come."
+        },
+        {
+          "character": "RIKER",
+          "line": "Yes, sir?"
+        },
+        {
+          "character": "PICARD",
+          "line": "Three weeks. Starfleet is profuse in their apologies, but it will still be three weeks until the arrival of a colony transport ship equipped with dedicated personnel shuttles."
+        },
+        {
+          "character": "RIKER",
+          "line": "We can't wait three weeks."
+        },
+        {
+          "character": "PICARD",
+          "line": "Then the Sheliak must agree to extend our deadline. They plan to settle Tau Cygna Five two days from now."
+        },
+        {
+          "character": "RIKER",
+          "line": "One of their ships must already be en route."
+        },
+        {
+          "character": "PICARD",
+          "line": "We're going to intercept that ship."
+        },
+        {
+          "character": "RIKER",
+          "line": "The Sheliak may interpret that as a hostile act."
+        },
+        {
+          "character": "PICARD",
+          "line": "A risk we have to take."
+        }
+      ],
+      "location": "Ready room"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "RIKER",
+          "line": "The Enterprise is going to try to intercept the Sheliak colony ship. Your job well, you know what your job is."
+        },
+        {
+          "character": "DATA",
+          "line": "Commander.",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "Observation lounge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "DATA",
+          "line": "In human parlance, I do not believe I can get the job done. My training has prepared me for starship command duties. As a cultural contact I am proving to be"
+        }
+      ],
+      "location": "Main square"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "DATA",
+          "line": "Less than exemplary.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "RIKER",
+          "line": "What's the situation?"
+        },
+        {
+          "character": "DATA",
+          "line": "Their leader refuses my counsel.",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "Observation lounge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "DATA",
+          "line": "He denies the logic of my arguments and speaks of structures they have built."
+        }
+      ],
+      "location": "Main square"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "RIKER",
+          "line": "Then try something else."
+        },
+        {
+          "character": "DATA",
+          "line": "I have, sir.",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "Observation lounge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "DATA",
+          "line": "In the last three hours and eight minutes, I have spoken to fifty six colonists. Ten of those refused to believe a threat exists. Twenty two favor staying and fighting the Sheliak. Sixteen prefer negotiation or"
+        }
+      ],
+      "location": "Main square"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "DATA",
+          "line": "Some form of passive resistance. Only eight were willing to consider evacuation. And of those eight",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "RIKER",
+          "line": "Data, I can't help you. I don't know these people. I haven't talked to them. You have. Use that fancy"
+        }
+      ],
+      "location": "Observation lounge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "RIKER",
+          "line": "Positronic brain of yours and carry out your mission.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "DATA",
+          "line": "Sir, if I do not succeed, how violent is the Sheliak reaction likely to be?"
+        }
+      ],
+      "location": "Main square"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "RIKER",
+          "line": "The treaty is the only thing that prevented them from eradicating the colony the moment they diskovered it."
+        }
+      ],
+      "location": "Observation lounge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "DATA",
+          "line": "Ah."
+        },
+        {
+          "character": "RIKER",
+          "line": "Ah is right, Data.",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "Main square"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "RIKER",
+          "line": "The lives of fifteen thousand people are riding on you."
+        }
+      ],
+      "location": "Observation lounge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "RIKER",
+          "line": "You'd better get innovative. Riker out.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "ARD'RIAN",
+          "line": "Data? We're having an effect. So many people are asking questions about the Sheliak that Gosheven has called a public meeting."
+        },
+        {
+          "character": "DATA",
+          "line": "Is there any indication that Gosheven has changed his position?"
+        },
+        {
+          "character": "ARD'RIAN",
+          "line": "No. But a meeting will give you the chance to present your recommendations."
+        },
+        {
+          "character": "DATA",
+          "line": "So far, my attempts at persuasion have been ineffective."
+        },
+        {
+          "character": "DATA",
+          "line": "Why did you do that?"
+        },
+        {
+          "character": "ARD'RIAN",
+          "line": "You appeared to need it."
+        },
+        {
+          "character": "DATA",
+          "line": "Among humans, a kiss usually serves to seal a friendship, or indicate support, attraction, affection. In this context, I must assume that your intention was to express support."
+        },
+        {
+          "character": "ARD'RIAN",
+          "line": "You don't really understand human behavior, do you?"
+        },
+        {
+          "character": "DATA",
+          "line": "That is something of an understatement."
+        },
+        {
+          "character": "ARD'RIAN",
+          "line": "Sometimes I don't either. androids are a lot more rational."
+        },
+        {
+          "character": "DATA",
+          "line": "Thus far, that quality has not helped me to accomplish my mission."
+        },
+        {
+          "character": "ARD'RIAN",
+          "line": "A rational argument isn't always enough. Maybe to be more persuasive, you need to use a little reverse psychology."
+        },
+        {
+          "character": "DATA",
+          "line": "Elicit a desired behavior by advocating its opposite. That implies deception, does it not?"
+        },
+        {
+          "character": "ARD'RIAN",
+          "line": "A little. But if it helps us get our point across."
+        },
+        {
+          "character": "DATA",
+          "line": "Perhaps this is a situation where excessive honesty can be detrimental."
+        }
+      ],
+      "location": "Main square"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "PICARD",
+          "line": "Now, are we progressing, Mister La Forge?"
+        },
+        {
+          "character": "LAFORGE",
+          "line": "About like you'd expect, sir."
+        },
+        {
+          "character": "PICARD",
+          "line": "Splendid. Splendid. Carry on."
+        },
+        {
+          "character": "WESLEY",
+          "line": "He wants the impossible."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "That's the short definition of Captain."
+        }
+      ],
+      "location": "Transporter room"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "GOSHEVEN",
+          "line": "You've all heard of the android Starfleet sent here, and you've been diskussing why he's come. I've called this meeting to replace misinformation with cold, hard fact."
+        },
+        {
+          "character": "DATA",
+          "line": "I wish to speak."
+        },
+        {
+          "character": "GOSHEVEN",
+          "line": "No. Leave now."
+        },
+        {
+          "character": "DATA",
+          "line": "Do you consider your position so weak that it cannot withstand debate?"
+        },
+        {
+          "character": "HARITATH",
+          "line": "Let him talk."
+        },
+        {
+          "character": "DATA",
+          "line": "You know of the Sheliak threat. Starfleet wishes to evacuate you for your own protection. Yet Gosheven has decided otherwise. That is his right, And I will not waste time trying to reverse that decision. I admire your conviction in the face of certain defeat. Though doomed, your effort will be valiant. And when you die, you will die for land and honor. Your children will understand that they are dying for a worthy cause. Long after the battle is over, their courage will be remembered and extolled."
+        },
+        {
+          "character": "ARD'RIAN",
+          "line": "Remembered by who?"
+        },
+        {
+          "character": "DATA",
+          "line": "Yes, that is true. There will be no one left alive to remember."
+        },
+        {
+          "character": "GOSHEVEN",
+          "line": "A valiant try, android, but what a low opinion you must have of us."
+        },
+        {
+          "character": "DATA",
+          "line": "I was simply attempting to describe your inevitable destruction in a manner that would have an emotional effect."
+        },
+        {
+          "character": "HARITATH",
+          "line": "And he describes it pretty damned well."
+        },
+        {
+          "character": "GOSHEVEN",
+          "line": "Are you ready to follow this machine? Give up without a fight? He says we're going to lose, but I think that's just his cowardice talking!"
+        },
+        {
+          "character": "KENTOR",
+          "line": "What if he's right and you're wrong? Shouldn't we consider that possibility?"
+        },
+        {
+          "character": "GOSHEVEN",
+          "line": "This colony exists because generations gave their lives for it. Many people died before we found a way to adapt to the radiation. And many more died bringing water to the desert. My grandfather"
+        },
+        {
+          "character": "ARD'RIAN",
+          "line": "Is buried on that mountain. Well, who'll be left to bury you?"
+        },
+        {
+          "character": "GOSHEVEN",
+          "line": "Have you considered what this evacuation means? Everything we have, we abandon. Everything that we have built turns into dust. Everything that we have accomplished means nothing. Well, I say no. You elected me your leader. Follow me now. I don't think our chances are as hopeless as he says. And I'm willing to stake our lives on it. Any objections? Good, because here we stand."
+        },
+        {
+          "character": "ALL",
+          "line": "Aye, We stand with you."
+        },
+        {
+          "character": "DATA",
+          "line": "Then here you die."
+        },
+        {
+          "character": "HARITATH",
+          "line": "Mister Data, I just want you to know that Gosheven doesn't speak for all of us. I see no reason to die needlessly."
+        },
+        {
+          "character": "DATA",
+          "line": "And you?"
+        },
+        {
+          "character": "KENTOR",
+          "line": "I'm not sure. Gosheven's done well for us, but I'd like to hear more of what you have to say."
+        },
+        {
+          "character": "HARITATH",
+          "line": "There are many others that feel the same way but they're very uneasy about confronting Gosheven."
+        },
+        {
+          "character": "ARD'RIAN",
+          "line": "Get them together and we'll meet at my house."
+        }
+      ],
+      "location": "Main square"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TROI",
+          "line": "In our dealings with other non-humanoid races there has been some point of reference. Not so with the Sheliak."
+        },
+        {
+          "character": "PICARD",
+          "line": "But we must have something in common. We communicate."
+        },
+        {
+          "character": "TROI",
+          "line": "Barely. They have learned several Federation languages, but theirs continues to elude us."
+        },
+        {
+          "character": "PICARD",
+          "line": "Telepaths?"
+        },
+        {
+          "character": "TROI",
+          "line": "Attempted and failed. Actually, the fact that any alien race communicates with another is quite remarkable. We are stranded on a planet. We have no language in common, but I want to teach you mine. S'smarith. What did I just say?"
+        },
+        {
+          "character": "PICARD",
+          "line": "Cup? Glass?"
+        },
+        {
+          "character": "TROI",
+          "line": "Are you sure? I may have meant liquid, clear, brown, hot. We conceptualize the universe in relatively the same way."
+        },
+        {
+          "character": "PICARD",
+          "line": "Point taken."
+        },
+        {
+          "character": "TROI",
+          "line": "In your talks, you must be extremely accurate. The treaty is five hundred thousand words. The length was to accommodate the Sheliak. They consider our language irrational, and demanded this level of complexity to avoid any future misunderstandings."
+        },
+        {
+          "character": "RIKER",
+          "line": "Captain, we have the vessel carrying the Sheliak colonists on visual.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "PICARD",
+          "line": "On my way. So, it begins."
+        }
+      ],
+      "location": "Ready room"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "PICARD",
+          "line": "Hailing frequencies."
+        },
+        {
+          "character": "WORF",
+          "line": "Open."
+        },
+        {
+          "character": "PICARD",
+          "line": "This is Captain Jean-Luc Picard of the Starship Enterprise."
+        },
+        {
+          "character": "SHELIAK",
+          "line": "Your purpose, Enterprise?",
+          "modifier": "screen"
+        },
+        {
+          "character": "PICARD",
+          "line": "We desire face-to-face negotiation to settle the crisis on Tau Cygna Five."
+        },
+        {
+          "character": "SHELIAK",
+          "line": "Meaningless.",
+          "modifier": "screen"
+        },
+        {
+          "character": "PICARD",
+          "line": "We are entitled to consultation under paragraph six hundred and fifty three subparagraph nine."
+        },
+        {
+          "character": "SHELIAK",
+          "line": "Granted.",
+          "modifier": "screen"
+        },
+        {
+          "character": "RIKER",
+          "line": "Was that an invitation?"
+        },
+        {
+          "character": "PICARD",
+          "line": "I am taking it as such. Counselor. You have the Bridge, Number One."
+        },
+        {
+          "character": "RIKER",
+          "line": "Helm, maintain relative position. Mister Worf, tell transporter room two to stand by."
+        },
+        {
+          "character": "WORF",
+          "line": "Aye, sir."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "KENTOR",
+          "line": "And once the Federation resettles us, we'll be left alone?"
+        },
+        {
+          "character": "DATA",
+          "line": "If you so desire."
+        },
+        {
+          "character": "HARITATH",
+          "line": "We do. We like to do things on our own."
+        },
+        {
+          "character": "DATA",
+          "line": "The Federation will offer as little or as much help as you dictate."
+        },
+        {
+          "character": "ARD'RIAN",
+          "line": "Kentor, are you with us?"
+        },
+        {
+          "character": "KENTOR",
+          "line": "Yes. The question is, how do we convince Gosheven?"
+        },
+        {
+          "character": "HARITATH",
+          "line": "Why do we need to?"
+        },
+        {
+          "character": "KENTOR",
+          "line": "Because he's respected. Most people will do what he says."
+        },
+        {
+          "character": "ARD'RIAN",
+          "line": "They respect you, too. If you take a stand, they'll fall in line."
+        },
+        {
+          "character": "KENTOR",
+          "line": "I don't know. Gosheven's got a lot of supporters."
+        },
+        {
+          "character": "GOSHEVEN",
+          "line": "Don't forget that, Kentor. I'm disappointed. I thought we'd settled this."
+        },
+        {
+          "character": "DATA",
+          "line": "Apparently, that is not correct."
+        },
+        {
+          "character": "GOSHEVEN",
+          "line": "Still stirring up trouble?"
+        },
+        {
+          "character": "ARD'RIAN",
+          "line": "Since when is talk trouble?"
+        },
+        {
+          "character": "GOSHEVEN",
+          "line": "It's over. Don't you get it? You had your say. You lost."
+        },
+        {
+          "character": "DATA",
+          "line": "I appear to be reversing that defeat."
+        },
+        {
+          "character": "GOSHEVEN",
+          "line": "No, you're not. You're just stubborn. Well, let me tell you something."
+        },
+        {
+          "character": "GOSHEVEN",
+          "line": "So am I."
+        },
+        {
+          "character": "ARD'RIAN",
+          "line": "Damn you, Gosheven."
+        },
+        {
+          "character": "HARITATH",
+          "line": "You killed him?"
+        },
+        {
+          "character": "GOSHEVEN",
+          "line": "I've killed no one. I merely shut down a machine. That's it, everyone. It's time to go home. You'll see that I'm right."
+        }
+      ],
+      "location": "Ard'rian's home"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "SHELIAK",
+          "line": "Advance and speak."
+        },
+        {
+          "character": "PICARD",
+          "line": "Director, we will comply with your request to remove the colony from Tau Cygna Five, but we need time."
+        },
+        {
+          "character": "SHELIAK",
+          "line": "The given time has elapsed. We carry the membership and we will proceed with their debarkation."
+        },
+        {
+          "character": "TROI",
+          "line": "The temporary presence of these humans should not interfere with your plans."
+        },
+        {
+          "character": "SHELIAK",
+          "line": "Unacceptable. You must remove the creatures."
+        },
+        {
+          "character": "PICARD",
+          "line": "I'm trying, but the needed ship will not be available for three weeks."
+        },
+        {
+          "character": "SHELIAK",
+          "line": "Then you are in violation."
+        },
+        {
+          "character": "PICARD",
+          "line": "I have admitted that. I am only asking for a little flexibility."
+        },
+        {
+          "character": "SHELIAK",
+          "line": "Section five hundred and one, paragraph seven hundred and sixteen, subparagraph five. Unwanted lifeforms inhabiting H class worlds may be removed at the diskretion of the Sheliak Corporate."
+        },
+        {
+          "character": "PICARD",
+          "line": "We will remove them, but you must grant us the time we require."
+        },
+        {
+          "character": "SHELIAK",
+          "line": "You need time, Picard of the Enterprise? We will save you time. We will eradicate the human infestation."
+        },
+        {
+          "character": "PICARD",
+          "line": "They are not vermin. They are citizens of the Federation. I will not permit this outrage!"
+        },
+        {
+          "character": "SHELIAK",
+          "line": "Intelligent converse is impossible. You do not diskuss, you gibber."
+        },
+        {
+          "character": "PICARD",
+          "line": "Between intelligent species of good will"
+        }
+      ],
+      "location": "Sheliak ship"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "RIKER",
+          "line": "I take it the Sheliak just hung up on us again."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "ARD'RIAN",
+          "line": "I was afraid your neural pathways were scrambled beyond repair."
+        },
+        {
+          "character": "DATA",
+          "line": "I am equipped with diagnostic circuits and am able to correct many malfunctions."
+        },
+        {
+          "character": "ARD'RIAN",
+          "line": "I'm not surprised at Gosheven's behavior. But Kentor and the others, they said they were with us. I guess words don't mean very much."
+        },
+        {
+          "character": "DATA",
+          "line": "Perhaps that is a part of our difficulty. Words are all we have been using. Humans seem to take much stronger notice of actions. I require a phaser."
+        },
+        {
+          "character": "ARD'RIAN",
+          "line": "What's a phaser?"
+        },
+        {
+          "character": "DATA",
+          "line": "A type of weapon. Unfortunately it does not function in the presence of hyperonic radiation. I will have to be innovative."
+        }
+      ],
+      "location": "Ard'rian's home"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "DATA",
+          "line": "Hyperonic radiation randomizes phaser beams. But I believe I can improvise a servocircuit which will compensate by continuously recollimating the output."
+        },
+        {
+          "character": "ARD'RIAN",
+          "line": "You're using your own neural subprocessors to build a smarter phaser."
+        },
+        {
+          "character": "DATA",
+          "line": "Essentially correct. Get word to Gosheven. Tell him I am coming to the pumping station. Tell him I am going to destroy the aqueduct."
+        },
+        {
+          "character": "ARD'RIAN",
+          "line": "He'll try to stop you."
+        },
+        {
+          "character": "DATA",
+          "line": "I sincerely hope so."
+        }
+      ],
+      "location": "Shuttlecraft"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "PICARD",
+          "line": "Go to yellow alert. Shields up."
+        },
+        {
+          "character": "WORF",
+          "line": "Aye, sir."
+        },
+        {
+          "character": "PICARD",
+          "line": "Mister Riker, put us nose to nose with the Sheliak ship. Any move she makes, match it."
+        },
+        {
+          "character": "RIKER",
+          "line": "Aye, sir."
+        },
+        {
+          "character": "PICARD",
+          "line": "Mister Worf, hailing frequency."
+        },
+        {
+          "character": "WORF",
+          "line": "Open. They are not responding."
+        },
+        {
+          "character": "PICARD",
+          "line": "They don't have to answer. They just have to listen. Sheliak vessel, you will have to get past me to get at the colony on Tau Cygna Five."
+        },
+        {
+          "character": "WORF",
+          "line": "No response."
+        },
+        {
+          "character": "PICARD",
+          "line": "Close channel. And get me that treaty. They've been beating us over the head with it for three days. Let's see if we can't find something in it that we can turn to our own advantage."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "DATA",
+          "line": "Stop. That was the stun setting. This is not."
+        },
+        {
+          "character": "DATA",
+          "line": "I can reduce this pumping station to a pile of debris, but I trust my point is clear. I am one android with a single weapon. There are hundreds of Sheliak on the way and their weapons are far more powerful. They may not offer you a target. They can obliterate you from orbit. You will die never having seen the faces of your killers. The choice is yours."
+        },
+        {
+          "character": "KENTOR",
+          "line": "There are other places, other challenges."
+        },
+        {
+          "character": "GOSHEVEN",
+          "line": "I really was willing to stay here and die for this."
+        },
+        {
+          "character": "DATA",
+          "line": "I know that. This is just a thing, and things can be replaced. Lives cannot."
+        }
+      ],
+      "location": "Main square"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "WORF",
+          "line": "This is hopeless. Fighting would be preferable."
+        },
+        {
+          "character": "PICARD",
+          "line": "That's it."
+        },
+        {
+          "character": "TROI",
+          "line": "I don't follow you, sir."
+        },
+        {
+          "character": "PICARD",
+          "line": "Mister Worf, get me the Sheliak."
+        },
+        {
+          "character": "WORF",
+          "line": "Yes, sir. Coming through, sir."
+        },
+        {
+          "character": "PICARD",
+          "line": "Pursuant to paragraph one thousand two hundred and ninety, I hereby formally request third party arbitration of our dispute."
+        },
+        {
+          "character": "SHELIAK",
+          "line": "You have the right.",
+          "modifier": "screen"
+        },
+        {
+          "character": "PICARD",
+          "line": "Furthermore, pursuant to subsection D three, I name the Grisellas to arbitrate."
+        },
+        {
+          "character": "SHELIAK",
+          "line": "Grisellas?",
+          "modifier": "screen"
+        },
+        {
+          "character": "PICARD",
+          "line": "Unfortunately, they are currently in their hibernation cycle, However, they will awaken in six months, at which time we can get this matter settled. Now, do you want to wait or give me my three weeks?"
+        },
+        {
+          "character": "SHELIAK",
+          "line": "Absurd. We carry the membership. We can brook no delay.",
+          "modifier": "screen"
+        },
+        {
+          "character": "PICARD",
+          "line": "Then I declare the treaty in abeyance,"
+        },
+        {
+          "character": "SHELIAK",
+          "line": "Wait! Negotiation is permiss",
+          "modifier": "screen"
+        },
+        {
+          "character": "RIKER",
+          "line": "You enjoyed that."
+        },
+        {
+          "character": "PICARD",
+          "line": "You're damned right."
+        },
+        {
+          "character": "WORF",
+          "line": "Captain, they are hailing us."
+        },
+        {
+          "character": "WORF",
+          "line": "Sir?"
+        },
+        {
+          "character": "PICARD",
+          "line": "On screen."
+        },
+        {
+          "character": "SHELIAK",
+          "line": "You may have your three weeks, Picard of the Enterprise.",
+          "modifier": "screen"
+        },
+        {
+          "character": "PICARD",
+          "line": "Thank you."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Captain, we can do it. We can modify the transporters."
+        },
+        {
+          "character": "PICARD",
+          "line": "Excellent."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "It'll take fifteen years, and a research team of a hundred."
+        },
+        {
+          "character": "PICARD",
+          "line": "Mister La Forge, I believe we will postpone."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Yes, sir."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "DATA",
+          "line": "Lieutenant Commander Data to Enterprise. I am preparing to leave Tau Cygna Five and await rendezvous instructions."
+        },
+        {
+          "character": "WORF",
+          "line": "Acknowledged. Stand by.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "ARD'RIAN",
+          "line": "Hi. The evacuation plan is going well. When the ship arrives, we'll be ready to leave. You succeeded."
+        },
+        {
+          "character": "DATA",
+          "line": "I could not have succeeded without your support and insight. I am grateful for your assistance."
+        },
+        {
+          "character": "ARD'RIAN",
+          "line": "Good. Then you won't forget me."
+        },
+        {
+          "character": "DATA",
+          "line": "I am incapable of forgetting. I will remember every detail of my visit here with perfect clarity."
+        },
+        {
+          "character": "ARD'RIAN",
+          "line": "But nothing more?"
+        },
+        {
+          "character": "DATA",
+          "line": "I do not understand."
+        },
+        {
+          "character": "ARD'RIAN",
+          "line": "I guess what I really want to know is, do you have any feelings for me?"
+        },
+        {
+          "character": "DATA",
+          "line": "I have no feelings of any kind."
+        },
+        {
+          "character": "ARD'RIAN",
+          "line": "No, of course you don't."
+        },
+        {
+          "character": "ARD'RIAN",
+          "line": "What was that for?"
+        },
+        {
+          "character": "DATA",
+          "line": "You appeared to need it."
+        },
+        {
+          "character": "ARD'RIAN",
+          "line": "So you saw I was unhappy and did what you concluded would make me feel better. Rational to the last."
+        },
+        {
+          "character": "ARD'RIAN",
+          "line": "Bye."
+        }
+      ],
+      "location": "Planet surface"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "PICARD",
+          "line": "Come. Welcome home, Mister Data. Well done."
+        },
+        {
+          "character": "DATA",
+          "line": "Thank you, sir."
+        },
+        {
+          "character": "PICARD",
+          "line": "The good doctor was kind enough to provide me with a recording of your concert. Your performance shows feeling."
+        },
+        {
+          "character": "DATA",
+          "line": "As I have recently reminded others, sir, I have no feeling."
+        },
+        {
+          "character": "PICARD",
+          "line": "It's hard to believe. Your playing is quite beautiful."
+        },
+        {
+          "character": "DATA",
+          "line": "Strictly speaking, sir, it is not my playing. It is a precise imitation of the techniques of Jascha Heifetz and Trenka Bronken."
+        },
+        {
+          "character": "PICARD",
+          "line": "Is there nothing of Data in what I'm hearing? You see, you chose the violinists. Heifetz and Bronken have radically different styles, different techniques, yet you combined them successfully."
+        },
+        {
+          "character": "DATA",
+          "line": "I suppose I have learned to be creative, sir, when necessary."
+        },
+        {
+          "character": "PICARD",
+          "line": "Mister Data, I look forward to your next concert."
+        }
+      ],
+      "location": "Ready room"
+    }
+  ],
+  "schedule": {
+    "episode": 1,
+    "number": 49,
+    "season": 3
+  },
+  "stardate": "43133.3",
+  "title": "The Ensigns of Command"
+}

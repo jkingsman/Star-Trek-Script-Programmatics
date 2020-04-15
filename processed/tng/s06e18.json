@@ -1,0 +1,1611 @@
+{
+  "airdate": 733381200,
+  "scenes": [
+    {
+      "dialogue": [
+        {
+          "character": "PICARD",
+          "line": "Captain's log, stardate 46682.4. The Enterprise is docked at the Remmler Array, where it will undergo a routine procedure to eliminate accumulated baryon particles. In preparation for the sweep, we are evacuating the ship.",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "unknown"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "CREWWOMAN",
+          "line": "Attention personnel on decks fourteen and fifteen. Your transporter room assignment has been changed. Report to transporter room three.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "TROI",
+          "line": "Captain. We're still behind schedule on decks seven and eight. Shall I tell Arkaria Base there'll be a delay?"
+        },
+        {
+          "character": "PICARD",
+          "line": "No. Open up the transporters in Cargo bay two and divert everyone from deck seven to there. That should put it back on track."
+        },
+        {
+          "character": "TROI",
+          "line": "Right."
+        },
+        {
+          "character": "CREWMAN",
+          "line": "All beta shift Engineering personnel are requested to report to main Engineering prior to disembarking.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "CRUSHER",
+          "line": "Captain. Arkaria Base does not have the medical storage units I have requested. I have seven living tissue samples that won't survive the baryon sweep anymore than you or I would. I've tried to reason with them, but"
+        },
+        {
+          "character": "PICARD",
+          "line": "All right, all right. Have Commander LaForge transport a stasis unit from the astrophysics lab. You should be able to convert it to store tissue samples."
+        },
+        {
+          "character": "CRUSHER",
+          "line": "Thank you, Captain."
+        },
+        {
+          "character": "CREWWOMAN",
+          "line": "All science personnel. Please check in with your section chief for station-side duty assignments.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "RIKER",
+          "line": "Captain. I was just heading for deck seven. I've put the auto-shutdown sequence on hold until we get back on schedule."
+        },
+        {
+          "character": "PICARD",
+          "line": "Oh, I think we can resume the sequence. Counselor Troi is taking care of the situation on deck seven."
+        },
+        {
+          "character": "RIKER",
+          "line": "Aye, sir."
+        }
+      ],
+      "location": "Corridor"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "DATA",
+          "line": "Captain."
+        },
+        {
+          "character": "PICARD",
+          "line": "Bridge."
+        },
+        {
+          "character": "DATA",
+          "line": "It has been quite a day, has it not?"
+        },
+        {
+          "character": "PICARD",
+          "line": "Yes, it has."
+        },
+        {
+          "character": "DATA",
+          "line": "However, a change of routine is often invigorating and can be a welcome diversion after a long assignment."
+        },
+        {
+          "character": "PICARD",
+          "line": "Exactly."
+        },
+        {
+          "character": "DATA",
+          "line": "I understand that Arkaria has some very interesting weather patterns."
+        },
+        {
+          "character": "PICARD",
+          "line": "Mister Data, are you all right?"
+        },
+        {
+          "character": "DATA",
+          "line": "Yes, sir. I am attempting to fill a silent moment with non-relevant conversation."
+        },
+        {
+          "character": "PICARD",
+          "line": "Small talk."
+        },
+        {
+          "character": "DATA",
+          "line": "Yes, sir. I have found that humans often use small talk during awkward moments. Therefore, I have written a new subroutine for that purpose. How did I do?"
+        },
+        {
+          "character": "PICARD",
+          "line": "Perhaps it was a little too non-relevant. But if you really are interested in small talk, then you should keep your eye on Commander Hutchinson at the reception this afternoon. He's a master."
+        },
+        {
+          "character": "DATA",
+          "line": "Thank you, sir. I will."
+        }
+      ],
+      "location": "Turbolift"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "LAFORGE",
+          "line": "Captain."
+        },
+        {
+          "character": "WORF",
+          "line": "Captain."
+        },
+        {
+          "character": "WORF",
+          "line": "After you, sir."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "No, after you."
+        },
+        {
+          "character": "WORF",
+          "line": "No sir. I believe you spoke first."
+        },
+        {
+          "character": "PICARD",
+          "line": "Gentlemen, gentlemen, we're running out of time. Mister Worf?"
+        },
+        {
+          "character": "WORF",
+          "line": "The computer needs your authorisation to disable command functions during the baryon sweep."
+        },
+        {
+          "character": "PICARD",
+          "line": "Are we ready, Commander La Forge?"
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Almost. I've requested two additional field diverters. One for the computer core and one for the Bridge. They haven't been installled yet."
+        },
+        {
+          "character": "PICARD",
+          "line": "Additional units?"
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Yes, sir. We've logged in five years more warp hours than most ships do in ten, so our baryon particle levels are high. I'm a little concerned that when the Remmler Array starts to sweep the ship it'll have to use a stronger beam than normal in order to get rid of all the radiation."
+        },
+        {
+          "character": "PICARD",
+          "line": "And that might overload the field diverters protecting our key systems. How long until the new ones are in place?"
+        },
+        {
+          "character": "LAFORGE",
+          "line": "I'd say about twenty minutes."
+        },
+        {
+          "character": "PICARD",
+          "line": "Very well. Computer, disable all command functions in thirty minutes. Authorisation, Picard gamma six zero seven three."
+        },
+        {
+          "character": "COMPUTER",
+          "line": "Authorisation acknowledged."
+        },
+        {
+          "character": "WORF",
+          "line": "Captain, incoming message. It's the station administrator, Mister Orton."
+        },
+        {
+          "character": "PICARD",
+          "line": "In my Ready room, Mister Worf."
+        },
+        {
+          "character": "WORF",
+          "line": "Captain. Request permission to be excused from Commander Hutchinson's reception."
+        },
+        {
+          "character": "PICARD",
+          "line": "Permission granted. I wish I could excuse myself as well."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Captain, permission to be"
+        },
+        {
+          "character": "PICARD",
+          "line": "Mister La Forge, I cannot excuse my entire senior staff. Mister Worf beat you to it."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "PICARD",
+          "line": "Go ahead, Mister Orton."
+        },
+        {
+          "character": "ORTON",
+          "line": "Captain, if you're on schedule, I'd like to confirm that we'll begin the baryon sweep at fifteen hundred hours, approximately one hour from now.",
+          "modifier": "screen"
+        },
+        {
+          "character": "PICARD",
+          "line": "Confirmed."
+        },
+        {
+          "character": "ORTON",
+          "line": "Commander Hutchinson also wanted me to make sure that you'll be able to attend his reception this afternoon.",
+          "modifier": "screen"
+        },
+        {
+          "character": "PICARD",
+          "line": "Tell him I'm looking forward to it."
+        },
+        {
+          "character": "ORTON",
+          "line": "He'll be delighted to hear that. Arkaria Base out.",
+          "modifier": "screen"
+        }
+      ],
+      "location": "Ready room"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "KELSEY",
+          "line": "Tell Arkaria base that we're almost finished here."
+        },
+        {
+          "character": "NEIL",
+          "line": "We're going to need two more conduits."
+        },
+        {
+          "character": "KIROS",
+          "line": "I need to run a diagnostic on the diverter."
+        },
+        {
+          "character": "DEVOR",
+          "line": "Get the diverter aligned so that we can begin the isolation procedure."
+        },
+        {
+          "character": "NEIL",
+          "line": "Where's the ODN interface?"
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "HUTCH",
+          "line": "Beverly. Lovely as ever. How do you manage it?"
+        },
+        {
+          "character": "CRUSHER",
+          "line": "It's good to see you again."
+        },
+        {
+          "character": "HUTCH",
+          "line": "It's been far too long. What is it, four years? Now I want to hear everything that happened after you left Starfleet Medical. And I have so much to tell you. Oh, that must be Commander Riker. Excuse me."
+        },
+        {
+          "character": "CRUSHER",
+          "line": "Of course."
+        },
+        {
+          "character": "MAN",
+          "line": "Pardon me."
+        },
+        {
+          "character": "HUTCH",
+          "line": "You must be Will Riker."
+        },
+        {
+          "character": "RIKER",
+          "line": "I must be."
+        },
+        {
+          "character": "HUTCH",
+          "line": "Calvin Hutchinson. Call me Hutch. Calvin, awful name, I've never forgiven my parents. As soon as I saw you, I knew you had to be the Enterprise's First Officer."
+        },
+        {
+          "character": "RIKER",
+          "line": "Oh?"
+        },
+        {
+          "character": "HUTCH",
+          "line": "Of course. Your reputation proceeds you. Flashing blue eyes, square jaw. Quite the ladies man I hear. Now don't be modest, Will. May I call you Will?"
+        },
+        {
+          "character": "RIKER",
+          "line": "Sure."
+        },
+        {
+          "character": "HUTCH",
+          "line": "I also hear that you're a musician. I certainly hope you'll play something for us. It's not often we get to entertain the command crew of the flagship. Oh, and speaking of command. Hello, Captain Picard."
+        },
+        {
+          "character": "PICARD",
+          "line": "Commander."
+        },
+        {
+          "character": "HUTCH",
+          "line": "I was just telling your First Officer what a real pleasure it is to have all of you here. So, how are you anyway?"
+        },
+        {
+          "character": "PICARD",
+          "line": "Very well, thank you."
+        },
+        {
+          "character": "DATA",
+          "line": "It is very good to see you both again. Beverly. May I call you Beverly? Beverly, have you noticed that the mean temperature here on Arkaria is slightly higher normal for human comfort levels? I have found that humans prefer a body temperature of twenty one degrees Celsius in order to operate most efficiently. However, there are several cultures who actually prefer that their body temperature is identical to the temperature of the room in which they are standing. The Sheliak, for example."
+        },
+        {
+          "character": "HUTCH",
+          "line": "I'm telling you, you have never seen anything like this. There were thousands of these creatures. The whole northern sky turned dark. I"
+        },
+        {
+          "character": "PICARD",
+          "line": "Oh, er, Geordi, Deanna. I don't think you've met our host. This is Lieutenant Commander Geordi La Forge, Counselor Deanna Troi. This is Commander Hutchinson."
+        },
+        {
+          "character": "HUTCH",
+          "line": "Oh, please, call me Hutch."
+        },
+        {
+          "character": "TROI",
+          "line": "Hello."
+        },
+        {
+          "character": "HUTCH",
+          "line": "I was just telling your captain about some of the fascinating sights here on Arkaria. Either of you interested in ornithology?"
+        },
+        {
+          "character": "TROI",
+          "line": "Er, well."
+        },
+        {
+          "character": "HUTCH",
+          "line": "The mating habits of the Arkarian horn fowl are quite interesting. If the weather were better, we could take horses to the southern promontory and visit the nesting grounds."
+        },
+        {
+          "character": "PICARD",
+          "line": "Horses?"
+        },
+        {
+          "character": "HUTCH",
+          "line": "Yes. We have a network of trails through the plains. Unfortunately, it's not very pleasant right now. Cold, muddy. Not a soul for kilometers."
+        },
+        {
+          "character": "PICARD",
+          "line": "Sounds perfect. Mister La Forge, how long before the baryon sweep begins on the Enterprise?"
+        },
+        {
+          "character": "LAFORGE",
+          "line": "About twenty five minutes, sir."
+        },
+        {
+          "character": "PICARD",
+          "line": "Then I have enough time to back to the ship and get my saddle."
+        },
+        {
+          "character": "TROI",
+          "line": "Your saddle?"
+        },
+        {
+          "character": "PICARD",
+          "line": "Yes. A saddle is a very personal thing. It has to be broken in, used, cared for."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "You keep a saddle on board the Enterprise?"
+        },
+        {
+          "character": "PICARD",
+          "line": "Oh yes, yes. I never know when I'll have the opportunity to ride."
+        },
+        {
+          "character": "TROI",
+          "line": "I see."
+        },
+        {
+          "character": "PICARD",
+          "line": "It's perfectly normal. Most serious riders do have their own saddles."
+        },
+        {
+          "character": "TROI",
+          "line": "Of course."
+        },
+        {
+          "character": "HUTCH",
+          "line": "Absolutely."
+        },
+        {
+          "character": "PICARD",
+          "line": "Well, if you'll excuse me."
+        },
+        {
+          "character": "HUTCH",
+          "line": "Amazing man. You know, he reminds me of another officer I knew years ago. A Captain Edwell. Now he was fascinating. Born on Gaspar Seven, but you wouldn't know it from the way he looked."
+        }
+      ],
+      "location": "Arkaria base"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "COMPUTER",
+          "line": "Auto-shutdown sequence in progress. Defensive systems offline. Baryon sweep begins in eight minutes."
+        },
+        {
+          "character": "DEVOR",
+          "line": "What are you doing?"
+        },
+        {
+          "character": "PICARD",
+          "line": "Someone left this ODN junction box open. I thought your crew was supposed to be off the ship once the field diverters were in place."
+        },
+        {
+          "character": "DEVOR",
+          "line": "The diverters have to be synchronized. I was laser bonding a backup link."
+        },
+        {
+          "character": "PICARD",
+          "line": "I see. Well, I'd better let you finish up so you can get off the ship."
+        },
+        {
+          "character": "DEVOR",
+          "line": "Excuse me a minute."
+        },
+        {
+          "character": "COMPUTER",
+          "line": "Auto-shutdown sequence in progress. Primary power offline in one minute."
+        },
+        {
+          "character": "KELSEY",
+          "line": "Get Pomet started on it right away."
+        },
+        {
+          "character": "COMPUTER",
+          "line": "Primary power offline in thirty seconds."
+        }
+      ],
+      "location": "Corridor"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "COMPUTER",
+          "line": "Final warning. Primary power offline in ten seconds."
+        }
+      ],
+      "location": "Transporter room"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "DATA",
+          "line": "Hmm. Yes. I find it fascinating that your family chose to drop the prefix Pel from your surname. It was my understanding that Pel Orton is a more noble appellation on Arkaria than simply Orton."
+        },
+        {
+          "character": "ORTON",
+          "line": "Yes."
+        },
+        {
+          "character": "DATA",
+          "line": "Perhaps the recent Arkarian trend toward a more egalitarian society is partly responsible, eh?"
+        },
+        {
+          "character": "ORTON",
+          "line": "Perhaps."
+        },
+        {
+          "character": "HUTCH",
+          "line": "The crew of the Magellan actually put on a talent show here. Captain Conklin did a poetry reading, if you can imagine that."
+        },
+        {
+          "character": "RIKER",
+          "line": "I'm trying to."
+        },
+        {
+          "character": "HUTCH",
+          "line": "Did I ever tell you how I came to be stationed here? It's a fascinating story. I was serving on Admiral Mitchell's staff on Starbase ninety seven. Awful place, by the way."
+        },
+        {
+          "character": "RIKER",
+          "line": "Have you met our Commander Data?"
+        },
+        {
+          "character": "DATA",
+          "line": "As a matter of fact, I find it oddly amusing."
+        },
+        {
+          "character": "HUTCH",
+          "line": "No, I don't think so."
+        },
+        {
+          "character": "RIKER",
+          "line": "I'll introduce you."
+        },
+        {
+          "character": "DATA",
+          "line": "There are several cultures in this sector with extremely similar etymological histories. For example"
+        },
+        {
+          "character": "RIKER",
+          "line": "Mister Data, I don't know if you've had a chance to meet our host, Commander Hutchinson. Call him Hutch. Lieutenant Commander Data, our second officer."
+        },
+        {
+          "character": "HUTCH",
+          "line": "A pleasure."
+        },
+        {
+          "character": "DATA",
+          "line": "The pleasure is mine, Hutch. I have been meaning to compliment you on your choice of colors here."
+        },
+        {
+          "character": "HUTCH",
+          "line": "Oh, you really think so? It wasn't easy making a final decision, let me tell you."
+        },
+        {
+          "character": "DATA",
+          "line": "I can well imagine. The light in this room would make color selection exceptionally problematic."
+        },
+        {
+          "character": "HUTCH",
+          "line": "Precisely."
+        },
+        {
+          "character": "ORTON",
+          "line": "Thank you."
+        },
+        {
+          "character": "RIKER",
+          "line": "You're welcome. I'm not sure which one to feel sorry for."
+        },
+        {
+          "character": "WAITER",
+          "line": "Mister Orton?"
+        },
+        {
+          "character": "ORTON",
+          "line": "You'll excuse me, Commander."
+        },
+        {
+          "character": "RIKER",
+          "line": "Geordi, what happened to the Captain?"
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Oh, he went back to the ship to get his saddle."
+        },
+        {
+          "character": "RIKER",
+          "line": "His saddle?"
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Any serious rider would have his own saddle."
+        },
+        {
+          "character": "RIKER",
+          "line": "Oh."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Probably he went right to the stables. I bet he's ten kilometers from here already."
+        },
+        {
+          "character": "RIKER",
+          "line": "Lucky him. Thank you."
+        }
+      ],
+      "location": "Arkaria base"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "KELSEY",
+          "line": "Kelsey to Devor. Devor, this is Kelsey. Reply. Devor, do you read me? Kelsey to Kiros.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "KIROS",
+          "line": "This is Kiros.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "KELSEY",
+          "line": "Devor isn't responding. There must be too much interference from the baryon sweep. Go find him and see if he finished by passing the regulator on deck seven, then meet us in main Engineering.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "KIROS",
+          "line": "Understood.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "PICARD",
+          "line": "Hey. Hey. Who are you? What are you doing on my ship?"
+        },
+        {
+          "character": "DEVOR",
+          "line": "The baryon sweep uses a high-frequency plasma field. Your phaser won't work."
+        },
+        {
+          "character": "PICARD",
+          "line": "You're probably right. But I'd like to bet this will. A laser welder can be deadly. What's going on in main Engineering? I suggest that you cooperate."
+        },
+        {
+          "character": "DEVOR",
+          "line": "You're Starfleet. You won't kill me."
+        },
+        {
+          "character": "PICARD",
+          "line": "You sure?"
+        },
+        {
+          "character": "PICARD",
+          "line": "Seems you're right."
+        }
+      ],
+      "location": "Sickbay"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "DATA",
+          "line": "Yes, but Tirellian laser art is very similar in both form and composition."
+        },
+        {
+          "character": "HUTCH",
+          "line": "Of course. You know, funny you should mention that. I used to be stationed on Tirellia."
+        },
+        {
+          "character": "DATA",
+          "line": "Really? Did you know that there are currently five Tirellians serving aboard the Enterprise."
+        },
+        {
+          "character": "HUTCH",
+          "line": "That's fascinating. Not too many people know this, but Tirellia is one of only three known inhabited worlds without a magnetic pole."
+        },
+        {
+          "character": "DATA",
+          "line": "I was aware of that. But are you aware that Tirellia is one of seven known planets with no atmosphere whatsoever."
+        },
+        {
+          "character": "HUTCH",
+          "line": "Really?"
+        },
+        {
+          "character": "TROI",
+          "line": "They're still at it."
+        },
+        {
+          "character": "RIKER",
+          "line": "Non-stop. I have to admit it has a certain strange fascination. How long can two people talk about nothing?"
+        },
+        {
+          "character": "WAITER",
+          "line": "Is something wrong?"
+        },
+        {
+          "character": "LAFORGE",
+          "line": "I don't know. I was just getting some very strange energy readings from your table here."
+        },
+        {
+          "character": "WAITER",
+          "line": "I'm sure it's nothing serious. Perhaps the heating element under the table is malfunctioning."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Maybe I should take a look at it for you."
+        },
+        {
+          "character": "ORTON",
+          "line": "I'm sure we can handle this, whatever it is, Commander. There's no need to concern yourself."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Well, maybe I should look at the heating element. I mean, in case it"
+        },
+        {
+          "character": "ORTON",
+          "line": "It's all right. Please, don't worry."
+        },
+        {
+          "character": "RIKER",
+          "line": "What was all that about?"
+        },
+        {
+          "character": "ORTON",
+          "line": "I assure you it's all right. We'll look into it. You don't have to concern yourself."
+        },
+        {
+          "character": "WAITER",
+          "line": "Orton, now!"
+        },
+        {
+          "character": "HUTCH",
+          "line": "What is going on?"
+        },
+        {
+          "character": "ORTON",
+          "line": "Stay right where you are."
+        }
+      ],
+      "location": "Arkaria base"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "SATLER",
+          "line": "Reduce the plasma pressure to zero point six percent nominal."
+        },
+        {
+          "character": "POMET",
+          "line": "Zero point six."
+        },
+        {
+          "character": "SATLER",
+          "line": "How does the conduit look?"
+        },
+        {
+          "character": "POMET",
+          "line": "It's clear."
+        },
+        {
+          "character": "SATLER",
+          "line": "All right. The main plasma flow has been shunted to the aft conduit. We're ready here."
+        },
+        {
+          "character": "NEIL",
+          "line": "Okay. That should do it. I think."
+        },
+        {
+          "character": "KELSEY",
+          "line": "Be sure, Neil."
+        },
+        {
+          "character": "NEIL",
+          "line": "Yes. Yes, that does it. All right. Transfer five hundred milligrams from the reserve system to the engine core."
+        },
+        {
+          "character": "NEIL",
+          "line": "Perfect."
+        },
+        {
+          "character": "KELSEY",
+          "line": "Adequate. Disable the containment overrides and get the interlocks off the magnetic seal. Pomet, prepare the transport assembly. Keep watching the power flow. It might"
+        },
+        {
+          "character": "KELSEY",
+          "line": "Keep working. Where did he come from?"
+        },
+        {
+          "character": "KIROS",
+          "line": "I found him on deck seven."
+        },
+        {
+          "character": "KELSEY",
+          "line": "Who are you?"
+        },
+        {
+          "character": "PICARD",
+          "line": "My name is Mot. I'm the barber."
+        },
+        {
+          "character": "KELSEY",
+          "line": "The barber? What the hell are you doing here? Everyone was supposed to be evacuated to the surface."
+        },
+        {
+          "character": "PICARD",
+          "line": "Yes, I know. But I wanted to go riding, but I didn't have my saddle, so I went back to get it and"
+        },
+        {
+          "character": "KELSEY",
+          "line": "Your saddle?"
+        },
+        {
+          "character": "PICARD",
+          "line": "Yes, that's right. It's on deck seven. I left it in the corridor. And then the power went out and I got lost"
+        },
+        {
+          "character": "KELSEY",
+          "line": "All right, all right, shut up. Shut up! Any sign of Devor?"
+        },
+        {
+          "character": "KIROS",
+          "line": "No."
+        },
+        {
+          "character": "KELSEY",
+          "line": "Satler. Get down here and keep an eye on our barber. All right, go see if you can find Devor. Make sure nothing's wrong."
+        },
+        {
+          "character": "SATLER",
+          "line": "Sit down."
+        },
+        {
+          "character": "PICARD",
+          "line": "All right. Just don't point that thing at me."
+        },
+        {
+          "character": "SATLER",
+          "line": "Just do what I tell you, and you won't have to worry."
+        },
+        {
+          "character": "KELSEY",
+          "line": "How long until you're ready?"
+        },
+        {
+          "character": "POMET",
+          "line": "Forty, maybe fifty minutes."
+        },
+        {
+          "character": "KELSEY",
+          "line": "The baryon sweep hits this compartment in thirty minutes."
+        },
+        {
+          "character": "POMET",
+          "line": "The field diverter will protect us."
+        },
+        {
+          "character": "KELSEY",
+          "line": "It's not us I'm worried about, it's that storage unit. I want the trilithium resin in there and secured before the sweep gets here. I don't want to take any chances."
+        },
+        {
+          "character": "POMET",
+          "line": "Understood."
+        }
+      ],
+      "location": "Engineering"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TROI",
+          "line": "They haven't tried to communicate with the outside."
+        },
+        {
+          "character": "RIKER",
+          "line": "No demands, no political statements, no theft. They must want something."
+        },
+        {
+          "character": "TROI",
+          "line": "Orton is not as calm as he looks. He's very agitated and nervous, as if something's gone wrong."
+        },
+        {
+          "character": "DATA",
+          "line": "It is possible that Geordi upset their timetable when he saw the hidden weapons."
+        },
+        {
+          "character": "RIKER",
+          "line": "Orton may be improvising. Maybe he didn't plan to take us hostage so early and now he doesn't know what to do."
+        },
+        {
+          "character": "DATA",
+          "line": "If they do not have a plan for this contingency, we may have the initiative."
+        },
+        {
+          "character": "RIKER",
+          "line": "Maybe, but we need to figure out how to use it. How is he?"
+        },
+        {
+          "character": "CRUSHER",
+          "line": "There's no permanent damage. I've adjusted the optical transducer in his visor to block some of the pain receptors in his brain. It's only partially effective. I need to get him to a medical facility."
+        },
+        {
+          "character": "RIKER",
+          "line": "I doubt if they'll agree to that. But maybe if we tell them Geordi's dying, they would give us access to a medical kit. We might be able to use some of the tools to make a weapon."
+        },
+        {
+          "character": "DATA",
+          "line": "Perhaps we can use the visor as a weapon. If the optical transducer were modified, we might be able to generate a hypersonic pulse."
+        },
+        {
+          "character": "CRUSHER",
+          "line": "A hypersonic pulse would overload the audio receptors of everyone in the room. It would cause immediate unconsciousness."
+        },
+        {
+          "character": "RIKER",
+          "line": "Can you make the adjustments on the visor by yourself? It'll look suspicious if you're both working on it."
+        },
+        {
+          "character": "CRUSHER",
+          "line": "I'll try. I might need Geordi to help me through some of it."
+        },
+        {
+          "character": "RIKER",
+          "line": "All right. Be as casual as you can. Let us know when you're ready."
+        }
+      ],
+      "location": "Arkaria base"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "POMET",
+          "line": "Ready."
+        },
+        {
+          "character": "KELSEY",
+          "line": "Begin draining the trilithium at one hundred milligrams per minute."
+        },
+        {
+          "character": "KELSEY",
+          "line": "Neil, what's going on? Neil, get over here. Put that down."
+        },
+        {
+          "character": "NEIL",
+          "line": "Don't worry, I've got it. I'll be right there."
+        }
+      ],
+      "location": "Engineering"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "NEIL",
+          "line": "The primary inducer is completely fused. There's no way to fix it. Without the diverter, we don't have any protection from the baryon sweep."
+        },
+        {
+          "character": "KELSEY",
+          "line": "I know that. How long before the baryon sweep gets here?"
+        },
+        {
+          "character": "NEIL",
+          "line": "About twelve minutes. We should go to Ten Forward. That's the last place on the ship that'll be swept by the baryon field."
+        },
+        {
+          "character": "KELSEY",
+          "line": "All right, we're leaving. But we're taking the trilithium with us."
+        },
+        {
+          "character": "NEIL",
+          "line": "What? Do you know how volatile trilithium is? We can't just start hauling it through the ship."
+        },
+        {
+          "character": "NEIL",
+          "line": "I'll, I'll try to make some modifications."
+        },
+        {
+          "character": "POMET",
+          "line": "Satler's dead. He ran into the baryon sweep."
+        },
+        {
+          "character": "KELSEY",
+          "line": "What about Mot?"
+        },
+        {
+          "character": "POMET",
+          "line": "I don't know. But I don't think he's a barber. I found this in the Jefferies Tube."
+        }
+      ],
+      "location": "Engineering"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "KELSEY",
+          "line": "Kelsey to Kiros.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "KIROS",
+          "line": "This is Kiros.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "KELSEY",
+          "line": "We have a problem. There's a Starfleet officer still on board. He's killed Satler and he may have killed Devor. He also destroyed the diverter in Engineering so we have to leave here before the baryon sweep enters this section.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "KIROS",
+          "line": "What about the trilithium resin?",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "KELSEY",
+          "line": "We're taking it with us to Ten Forward. There should be enough time before",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "PICARD",
+          "line": "Kelsey. Don't be a fool."
+        }
+      ],
+      "location": "Worf's quarters"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "PICARD",
+          "line": "You know better than to try and move trilithium resin.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "KELSEY",
+          "line": "Mister Mot. Or should I call you Lieutenant? Lieutenant Commander perhaps?"
+        },
+        {
+          "character": "PICARD",
+          "line": "You may call me whatever you wish.",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "Engineering"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "PICARD",
+          "line": "Moving trilithium resin requires very specific equipment. You can't simply improvise something."
+        }
+      ],
+      "location": "Worf's quarters"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "KELSEY",
+          "line": "I wouldn't need to improvise if you hadn't damaged our field diverter. But if you're so concerned about the trilithium"
+        }
+      ],
+      "location": "Engineering"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "KELSEY",
+          "line": "I suggest you stop interfering with us",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "Worf's quarters"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "KELSEY",
+          "line": "Before you set off an explosion that would destroy the Enterprise and you."
+        }
+      ],
+      "location": "Engineering"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "PICARD",
+          "line": "I would rather destroy the ship than allow that material to fall into the hands of terrorists."
+        }
+      ],
+      "location": "Worf's quarters"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "KELSEY",
+          "line": "What makes you think I'm a terrorist?"
+        }
+      ],
+      "location": "Engineering"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "PICARD",
+          "line": "Trilithium resin is a highly toxic waste product produced by our engines."
+        }
+      ],
+      "location": "Worf's quarters"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "PICARD",
+          "line": "It's only possible use could be as a weapon.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "KELSEY",
+          "line": "You might be right, Mister Mot, but we've been planning this for a long time, and I doubt that you'll really be able to stop us."
+        },
+        {
+          "character": "KELSEY",
+          "line": "Or even slow us down."
+        },
+        {
+          "character": "NEIL",
+          "line": "There. Three hundred milligrams of trilithium. I'm using a dynamic stabilizer to act as a control rod. There. That should keep the resin stable enough for transport."
+        },
+        {
+          "character": "KELSEY",
+          "line": "Come on! Don't be so tense, Neil. If something goes wrong, you won't have time to worry about it. Let's go."
+        }
+      ],
+      "location": "Engineering"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "KELSEY",
+          "line": "Three more decks, then we take corridor fifteen B all the way to Ten Forward."
+        },
+        {
+          "character": "NEIL",
+          "line": "What's wrong?"
+        },
+        {
+          "character": "KELSEY",
+          "line": "We have to find another way up. The rungs are cut."
+        }
+      ],
+      "location": "Jefferies tube"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "KELSEY",
+          "line": "That wasn't very clever, Mister Mot.",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "Sickbay"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "KELSEY",
+          "line": "If you knew where we were, you should have attacked us. Now we'll just take another route. One you might not be able"
+        }
+      ],
+      "location": "Jefferies tube"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "KELSEY",
+          "line": "To predict.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "PICARD",
+          "line": "There are only so many ways to Ten Forward. Ten Forward is the logical place to be if you want to stay ahead of the baryon sweep."
+        }
+      ],
+      "location": "Sickbay"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "KELSEY",
+          "line": "That sweep is just as big a threat to you as it is to us. In fact, if I were you, Mister Mot"
+        }
+      ],
+      "location": "Jefferies tube"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "KELSEY",
+          "line": "I'd be trying to find a way off this ship.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "PICARD",
+          "line": "I plan on leaving the same way you do. On your ship."
+        }
+      ],
+      "location": "Sickbay"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "KELSEY",
+          "line": "What ship?"
+        },
+        {
+          "character": "PICARD",
+          "line": "Come on, Kelsey.",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "Jefferies tube"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "PICARD",
+          "line": "If you've been planning this so long, you must have a way of getting off the Enterprise and leaving this system. I think you have a ship coming for you. I plan to be on it."
+        }
+      ],
+      "location": "Sickbay"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "KELSEY",
+          "line": "It's a small ship, Mot. I don't think there's going to be room for both of us."
+        }
+      ],
+      "location": "Jefferies tube"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "PICARD",
+          "line": "I'm sorry to hear that. I'll send your regrets."
+        }
+      ],
+      "location": "Sickbay"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "RIKER",
+          "line": "How is he, Doctor?"
+        },
+        {
+          "character": "CRUSHER",
+          "line": "He's in a lot of pain, but I think he should be fine. He needs some water. Is that all right?"
+        },
+        {
+          "character": "CRUSHER",
+          "line": "We're almost ready. When we set the visor to emit the hypersonic pulse, there'll be a short burst of light. We need a distraction."
+        },
+        {
+          "character": "TROI",
+          "line": "They need a distraction."
+        },
+        {
+          "character": "RIKER",
+          "line": "How long?"
+        },
+        {
+          "character": "TROI",
+          "line": "Just a few seconds."
+        },
+        {
+          "character": "RIKER",
+          "line": "I think I can distract Orton for a few seconds."
+        },
+        {
+          "character": "TROI",
+          "line": "I don't think Orton's in a talking mood, Will."
+        },
+        {
+          "character": "RIKER",
+          "line": "You just have to know how to talk to him. Orton, I think we need to diskuss the situation."
+        },
+        {
+          "character": "ORTON",
+          "line": "There is nothing to diskuss. Sit down."
+        },
+        {
+          "character": "RIKER",
+          "line": "There's a lot to diskuss. Can't we be reasonable?"
+        },
+        {
+          "character": "ORTON",
+          "line": "I am not interested in hearing your hostage negotiation tactics, Commander."
+        },
+        {
+          "character": "RIKER",
+          "line": "It can't hurt you to listen, can it?"
+        },
+        {
+          "character": "ORTON",
+          "line": "All right."
+        },
+        {
+          "character": "RIKER",
+          "line": "Thank you. Now, the first thing I think we need to diskuss is this."
+        }
+      ],
+      "location": "Arkaria base"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "KIROS",
+          "line": "Hold it. Put your weapon down. Kelsey, this is Kiros. I'm on deck ten."
+        }
+      ],
+      "location": "Corridor"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "KIROS",
+          "line": "I have Mott.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "KELSEY",
+          "line": "Is he alive?"
+        },
+        {
+          "character": "KIROS",
+          "line": "Yes.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "KELSEY",
+          "line": "Good. Meet us at intersection forty one."
+        },
+        {
+          "character": "KIROS",
+          "line": "Understood.",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "Jefferies tube"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "KIROS",
+          "line": "This way. Move."
+        }
+      ],
+      "location": "Corridor"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "KELSEY",
+          "line": "Give me the trilithium."
+        },
+        {
+          "character": "NEIL",
+          "line": "How much farther do we have to go?"
+        },
+        {
+          "character": "KELSEY",
+          "line": "Not far. With all the modifications you've made to this unit, are we going to have any troubles removing the trilithium?"
+        },
+        {
+          "character": "NEIL",
+          "line": "No. Just remove the control rod, drain the unit. There shouldn't be any problem."
+        },
+        {
+          "character": "KELSEY",
+          "line": "That's all I wanted to know."
+        }
+      ],
+      "location": "Jefferies tube"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "KELSEY",
+          "line": "Well, not as clever as you thought. Where's Pomet?"
+        },
+        {
+          "character": "KIROS",
+          "line": "He shot him with some kind of an arrow."
+        },
+        {
+          "character": "PICARD",
+          "line": "He's not dead."
+        },
+        {
+          "character": "KELSEY",
+          "line": "Well, he will be soon. The sweep's nearly here. We don't have time to go back for him."
+        },
+        {
+          "character": "KIROS",
+          "line": "What about Neil?"
+        },
+        {
+          "character": "KELSEY",
+          "line": "The sweep got him. Let's go."
+        }
+      ],
+      "location": "Corridor"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TROI",
+          "line": "I thought you were just going to talk to him."
+        },
+        {
+          "character": "RIKER",
+          "line": "I did. He just didn't like what I had to say."
+        },
+        {
+          "character": "DATA",
+          "line": "That was a perimeter warning from the Remmler Array. A small ship is approaching. I believe Mister Orton has dropped his defense shields."
+        },
+        {
+          "character": "RIKER",
+          "line": "This must be the sign they were waiting for. Mister Data, you will be the only one unaffected by the hypersonic burst. As soon as every else is unconscious, I need you to get to the computer panel and stop that ship somehow."
+        },
+        {
+          "character": "DATA",
+          "line": "I will try, sir."
+        },
+        {
+          "character": "CRUSHER",
+          "line": "Now."
+        }
+      ],
+      "location": "Arkaria base"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "PICARD",
+          "line": "Kelsey, perhaps we can work out a deal."
+        },
+        {
+          "character": "KELSEY",
+          "line": "You're the only one who needs a deal, Mot."
+        },
+        {
+          "character": "PICARD",
+          "line": "My name isn't Mot. It's Jean-Luc Picard."
+        },
+        {
+          "character": "KELSEY",
+          "line": "Captain Picard. This is all beginning to make sense."
+        },
+        {
+          "character": "PICARD",
+          "line": "Leave the trilithium here and take me with you. You can use me as a hostage instead of threatening"
+        },
+        {
+          "character": "KELSEY",
+          "line": "I'm not a terrorist Captain, nor do I have a political agenda, although I know some people who do have agendas. And they are very interested in this little container."
+        },
+        {
+          "character": "PICARD",
+          "line": "Profit. This is all about profit."
+        },
+        {
+          "character": "KELSEY",
+          "line": "I prefer to think of it as commerce. Open the door. Now go through, slowly."
+        }
+      ],
+      "location": "Corridor"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "KELSEY",
+          "line": "I guess, I'll be the one to send your regrets."
+        },
+        {
+          "character": "PICARD",
+          "line": "Picard to Arkaria base. Deactivate the baryon sweep. Arkaria Base, this is Captain Picard on board the Enterprise. Deactivate the baryon sweep!"
+        },
+        {
+          "character": "PICARD",
+          "line": "Arkaria Base, this is Captain Picard. Deactivate the baryon sweep immediately!"
+        },
+        {
+          "character": "DATA",
+          "line": "Data to Captain Picard. Do you read me, sir?",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "PICARD",
+          "line": "Picard here."
+        }
+      ],
+      "location": "Ten Forward"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "DATA",
+          "line": "Are you all right, Captain?"
+        }
+      ],
+      "location": "Arkaria base"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "PICARD",
+          "line": "Yes, Mister Data."
+        },
+        {
+          "character": "DATA",
+          "line": "Sir, an unidentified"
+        }
+      ],
+      "location": "Ten Forward"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "DATA",
+          "line": "Scout ship has just beamed someone off the Enterprise."
+        }
+      ],
+      "location": "Arkaria base"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "DATA",
+          "line": "Do you know anything about it?",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "PICARD",
+          "line": "I know they won't get very far."
+        }
+      ],
+      "location": "Ten Forward"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "CRUSHER",
+          "line": "Hold still. You have got a nasty little cut here."
+        },
+        {
+          "character": "PICARD",
+          "line": "Any luck?"
+        },
+        {
+          "character": "TROI",
+          "line": "I'm sorry, Captain. I don't know what could have happened to it."
+        },
+        {
+          "character": "CRUSHER",
+          "line": "Hold still. I can't heal this cleanly if you don't stop fidgeting."
+        },
+        {
+          "character": "RIKER",
+          "line": "I've had three security teams search deck seven. They couldn't find anything."
+        },
+        {
+          "character": "CRUSHER",
+          "line": "There."
+        },
+        {
+          "character": "WORF",
+          "line": "I found it. Someone put it in a maintenance locker."
+        },
+        {
+          "character": "PICARD",
+          "line": "Thank you."
+        },
+        {
+          "character": "WORF",
+          "line": "Captain, you keep a saddle on board?"
+        },
+        {
+          "character": "RIKER",
+          "line": "Mister Worf, I'm surprised at you."
+        },
+        {
+          "character": "CRUSHER",
+          "line": "Anyone who is an experienced rider naturally has his own saddle."
+        },
+        {
+          "character": "TROI",
+          "line": "It's perfectly normal."
+        },
+        {
+          "character": "PICARD",
+          "line": "Actually, it came in handy. I only wish I'd had the opportunity to use it on a horse."
+        },
+        {
+          "character": "WORF",
+          "line": "Of course."
+        }
+      ],
+      "location": "Sickbay"
+    }
+  ],
+  "schedule": {
+    "episode": 18,
+    "number": 144,
+    "season": 6
+  },
+  "stardate": "46682.4",
+  "title": "Starship Mine"
+}

@@ -1,0 +1,1616 @@
+{
+  "airdate": 625118400,
+  "scenes": [
+    {
+      "dialogue": [
+        {
+          "character": "DATA",
+          "line": "Commander, away team reporting in. Lieutenant Worf standing by."
+        },
+        {
+          "character": "RIKER",
+          "line": "This is Riker. Go ahead, Lieutenant."
+        },
+        {
+          "character": "WORF",
+          "line": "The archeologists have identified the markings in these caverns. This planet was apparently once home to a race known as the Koinonians.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "PICARD",
+          "line": "What do we know about them, Data?"
+        },
+        {
+          "character": "DATA",
+          "line": "The Koinonians were an intelligent culture which became embroiled in a war that lasted for several generations. Our best evidence indicates they destroyed themselves."
+        },
+        {
+          "character": "WORF",
+          "line": "We have completed our survey of the third tunnel and will proceed into the ceremonial chamber.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "RIKER",
+          "line": "Affirmative. Enterprise out."
+        },
+        {
+          "character": "PICARD",
+          "line": "Destroyed themselves, Data?"
+        },
+        {
+          "character": "DATA",
+          "line": "According to historical records. This will be the first opportunity for a Federation team"
+        },
+        {
+          "character": "TROI",
+          "line": "Captain! Beam them up quickly!"
+        },
+        {
+          "character": "WORF",
+          "line": "Captain. Emergency beam up! Enterprise, emergency! Severe injuries.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "PICARD",
+          "line": "Transporter Room!"
+        },
+        {
+          "character": "O'BRIEN",
+          "line": "I've got them, Captain.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "PICARD",
+          "line": "Beam them straight to Sickbay. Doctor Crusher, incoming wounded."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "CRUSHER",
+          "line": "Away Team is aboard, Captain."
+        }
+      ],
+      "location": "Sickbay"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "CRUSHER",
+          "line": "One dead on arrival. Captain's Log, stardate 43198.7. The Enterprise remains in standard orbit while we investigate the tragedy which has struck the away team. Lieutenant Marla Aster, ship's archeologist, has been killed in what should have been a routine mission. Whatever the explanation, it will not bring back a valued and trusted officer.",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "PICARD",
+          "line": "Lieutenant?"
+        },
+        {
+          "character": "WORF",
+          "line": "We had completed our investigation of the third tunnel. Our scans had indicated no weapons or traps of any kind. Lieutenant Aster was three meters behind me. An explosive device went off. There was no warning. Lieutenant Aster bore the full brunt of the detonation."
+        },
+        {
+          "character": "TROI",
+          "line": "Lieutenant Aster is survived by a son, Jeremy. Twelve years old. He's aboard the Enterprise, sir."
+        },
+        {
+          "character": "PICARD",
+          "line": "And his father?"
+        },
+        {
+          "character": "TROI",
+          "line": "He's also deceased. His only living relatives are an aunt and uncle residing on Earth."
+        },
+        {
+          "character": "PICARD",
+          "line": "Where is he now?"
+        },
+        {
+          "character": "TROI",
+          "line": "In class. I've alerted the teacher to expect us."
+        },
+        {
+          "character": "WORF",
+          "line": "Captain. I must accompany you. I commanded the away team."
+        },
+        {
+          "character": "PICARD",
+          "line": "I appreciate your offer, Lieutenant, but this is my responsibility."
+        }
+      ],
+      "location": "Sickbay"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "PICARD",
+          "line": "Picard to Bridge."
+        },
+        {
+          "character": "RIKER",
+          "line": "Yes, Captain.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "PICARD",
+          "line": "Assign Commander La Forge to lead another away team to the dig site. I want to know why this happened."
+        },
+        {
+          "character": "RIKER",
+          "line": "Yes, Captain.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "PICARD",
+          "line": "I will be with Counselor Troi"
+        }
+      ],
+      "location": "Corridor"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "PICARD",
+          "line": "And young Jeremy Aster.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "RIKER",
+          "line": "I understand. Riker out."
+        },
+        {
+          "character": "WESLEY",
+          "line": "He had to do the same thing for me."
+        },
+        {
+          "character": "RIKER",
+          "line": "Do you know Jeremy well?"
+        },
+        {
+          "character": "WESLEY",
+          "line": "But I know this is going to be like for him."
+        },
+        {
+          "character": "RIKER",
+          "line": "That's part of life in Starfleet, Wesley."
+        },
+        {
+          "character": "WESLEY",
+          "line": "I know. They're very careful to prepare us for anything, but still"
+        },
+        {
+          "character": "RIKER",
+          "line": "I know."
+        },
+        {
+          "character": "WESLEY",
+          "line": "How do you get used to it? Telling them?"
+        },
+        {
+          "character": "RIKER",
+          "line": "You hope you never do."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TROI",
+          "line": "I sense the weight of this duty on you, Captain."
+        },
+        {
+          "character": "PICARD",
+          "line": "I really wonder. Halt. I've always believed that carrying children on a starship is a very questionable policy. Serving on a starship means accepting certain risks, certain dangers. Did Jeremy Aster make that choice?"
+        },
+        {
+          "character": "TROI",
+          "line": "Death and loss are an integral part of life everywhere. Leaving him on Earth would not have protected him."
+        },
+        {
+          "character": "PICARD",
+          "line": "No, but Earth isn't likely to be ordered to the Neutral Zone, or to repel a Romulan attack, It was my command which sent his mother to her death. She understood her mission and my duty. Will he?"
+        },
+        {
+          "character": "TROI",
+          "line": "In time, and with help. Wesley Crusher does. He does. And so will Jeremy."
+        },
+        {
+          "character": "PICARD",
+          "line": "Resume."
+        }
+      ],
+      "location": "Turbolift"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "PICARD",
+          "line": "Jeremy, I have some bad news. There has been an accident. Your mother has died."
+        },
+        {
+          "character": "JEREMY",
+          "line": "How, sir?"
+        },
+        {
+          "character": "PICARD",
+          "line": "An explosive device at the mission site. She died instantly."
+        },
+        {
+          "character": "JEREMY",
+          "line": "I understand."
+        },
+        {
+          "character": "TROI",
+          "line": "Jeremy, I know your mother loved you very much."
+        },
+        {
+          "character": "PICARD",
+          "line": "I'm told that your father is also dead."
+        },
+        {
+          "character": "JEREMY",
+          "line": "Yes, sir. He died five years ago from a Rushton infection. I'm all alone now, sir."
+        },
+        {
+          "character": "PICARD",
+          "line": "Jeremy, on the starship Enterprise, no one is alone. No one."
+        }
+      ],
+      "location": "Teacher's office"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "DATA",
+          "line": "Excuse me, sir. Am I intruding?"
+        },
+        {
+          "character": "RIKER",
+          "line": "No, sit down."
+        },
+        {
+          "character": "DATA",
+          "line": "How well did you know Lieutenant Aster?"
+        },
+        {
+          "character": "RIKER",
+          "line": "We spent some time together. Not very well. How well did you know her?"
+        },
+        {
+          "character": "DATA",
+          "line": "Why do you ask?"
+        },
+        {
+          "character": "RIKER",
+          "line": "Well, you just asked me."
+        },
+        {
+          "character": "DATA",
+          "line": "But why do you ask the question? Since her death, I have been asked several times to define how well I knew Lieutenant Aster. And I heard you ask Wesley on the Bridge how well he knew Jeremy. Does the question of familiarity have some bearing on death?"
+        },
+        {
+          "character": "RIKER",
+          "line": "Do you remember how we all felt when Tasha died?"
+        },
+        {
+          "character": "DATA",
+          "line": "I do not sense the same feelings of absence that I associate with Lieutenant Yar, although I cannot say precisely why."
+        },
+        {
+          "character": "RIKER",
+          "line": "Just human nature, Data."
+        },
+        {
+          "character": "DATA",
+          "line": "Human nature, sir?"
+        },
+        {
+          "character": "RIKER",
+          "line": "We feel a loss more intensely when it's a friend."
+        },
+        {
+          "character": "DATA",
+          "line": "But should not the feelings run as deep regardless of who has died?"
+        },
+        {
+          "character": "RIKER",
+          "line": "Maybe they should, Data. Maybe if we felt the loss of any life as keenly as we felt the death of those close to us, human history would be a lot less bloody."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "La Forge to Riker",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "RIKER",
+          "line": "You're back, Geordi"
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Yes, sir, and we've brought back a souvenir.",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "Ten forward"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "LAFORGE",
+          "line": "There are five more just like them. All identical to the one that killed Lieutenant Aster."
+        },
+        {
+          "character": "DATA",
+          "line": "They employ a subspace proximity detonator. A normal tricorder would never detect it."
+        },
+        {
+          "character": "PICARD",
+          "line": "How long would you say they've been there, Data?"
+        },
+        {
+          "character": "DATA",
+          "line": "It comes from the time of the Koinonian Wars, sir."
+        },
+        {
+          "character": "RIKER",
+          "line": "Did you find them all, Geordi?"
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Yeah, but, well, it seemed like they were left there to be found."
+        },
+        {
+          "character": "PICARD",
+          "line": "Left by whom? There are no indications of life on this planet."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "I don't know, Captain, but it was pretty obvious that they'd been recently pulled out of the ground and defused."
+        }
+      ],
+      "location": "Ready room"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "WORF",
+          "line": "I have made my report to the Captain."
+        },
+        {
+          "character": "TROI",
+          "line": "I'm more interested in how you feel about what happened. I sense great anger."
+        },
+        {
+          "character": "WORF",
+          "line": "I cannot seek revenge against an enemy who's turned to dust centuries ago. Her death was senseless. The last victim of a forgotten war."
+        },
+        {
+          "character": "TROI",
+          "line": "Go on."
+        },
+        {
+          "character": "WORF",
+          "line": "There's nothing more to be said."
+        },
+        {
+          "character": "TROI",
+          "line": "A person died under your command. It may happen again. If you can't learn to release the anger and the guilt, to talk about it"
+        },
+        {
+          "character": "WORF",
+          "line": "A leader must stand alone. As Captain Picard does."
+        },
+        {
+          "character": "TROI",
+          "line": "Captain Picard talks to me."
+        },
+        {
+          "character": "WORF",
+          "line": "Then may I seek your counsel about my plan to make the R'uustai with the boy."
+        },
+        {
+          "character": "TROI",
+          "line": "The Bonding."
+        },
+        {
+          "character": "WORF",
+          "line": "It is my right."
+        },
+        {
+          "character": "TROI",
+          "line": "It's very generous, Worf, but he's not a Klingon child. He has different sensibilities."
+        },
+        {
+          "character": "WORF",
+          "line": "He is an orphan. I am an orphan. He will understand."
+        },
+        {
+          "character": "TROI",
+          "line": "Right now, there isn't much he can understand. He's holding all his feelings inside. Children often feel they must be true to the memory of a lost parent. If you offer affection to them too soon they can feel guilty returning that affection. As if they're betraying the love of the parent."
+        },
+        {
+          "character": "WORF",
+          "line": "I only wish to honor his mother."
+        },
+        {
+          "character": "TROI",
+          "line": "I know. And I understand this means a great deal to you. But you must be prepared. He's very angry too, but his anger is deep inside him. When he touches it, it will strike out in many directions, including yours. Be with him. Talk to him. But don't rush this. When he's ready, we'll know."
+        }
+      ],
+      "location": "Room"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "JEREMY",
+          "line": "Captain Patches, an alien ship on the surface. What's it made of, Captain. Oh, no, we've been hit, Captain. We're going down.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "DAD",
+          "line": "That was great. Now, let's get a shot of mom.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "MARLA",
+          "line": "What are you doing? I'll turn your lens into shards. Go away! Go away! Go away! Over there. Over there.",
+          "modifier": "screen"
+        },
+        {
+          "character": "JEREMY",
+          "line": "Patches. Captain Patches is coming in for a landing on the sofa!",
+          "modifier": "screen"
+        },
+        {
+          "character": "JEREMY",
+          "line": "Oh, no, he's going to crash.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "WORF",
+          "line": "Jeremy Aster? I'm Lieutenant Worf. May I enter?"
+        },
+        {
+          "character": "JEREMY",
+          "line": "You were in command of the away team."
+        },
+        {
+          "character": "WORF",
+          "line": "Yes. I was with Lieutenant Aster, your mother, when she died."
+        },
+        {
+          "character": "JEREMY",
+          "line": "You're a Klingon, aren't you."
+        },
+        {
+          "character": "WORF",
+          "line": "Yes."
+        },
+        {
+          "character": "JEREMY",
+          "line": "We studied about Klingons in school."
+        },
+        {
+          "character": "WORF",
+          "line": "What did they teach you about us?"
+        },
+        {
+          "character": "JEREMY",
+          "line": "You used to be our enemies."
+        },
+        {
+          "character": "WORF",
+          "line": "Did they also teach you that every Klingon hopes to die in the line of duty as your mother did? In my tradition, we do not grieve the loss of the body. We celebrate the releasing of the spirit."
+        },
+        {
+          "character": "JEREMY",
+          "line": "I understand death. They teach us all about it."
+        },
+        {
+          "character": "WORF",
+          "line": "Jeremy Aster, we may both understand it, but we must bring meaning to your mother's death. Perhaps we can do it together."
+        }
+      ],
+      "location": "Jeremy's quarters"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "PICARD",
+          "line": "Come. Counselor, how's the boy?"
+        },
+        {
+          "character": "TROI",
+          "line": "He's being very brave."
+        },
+        {
+          "character": "PICARD",
+          "line": "Good."
+        },
+        {
+          "character": "TROI",
+          "line": "No, he has to get past brave. He's very angry and he has to learn how to express that anger before he can really say goodbye to his mother."
+        },
+        {
+          "character": "PICARD",
+          "line": "How can we help?"
+        },
+        {
+          "character": "TROI",
+          "line": "Well, I've asked Beverly if we might get Wesley to talk to Jeremy about his father's death. The one unusual element is Worf."
+        },
+        {
+          "character": "PICARD",
+          "line": "Oh?"
+        },
+        {
+          "character": "TROI",
+          "line": "In many ways he's suffering as badly as the boy. He wishes to involve Jeremy in a Klingon ceremony called R'uustai, the Bonding"
+        },
+        {
+          "character": "PICARD",
+          "line": "I know of that. Perhaps it will be helpful to both of them."
+        },
+        {
+          "character": "TROI",
+          "line": "I don't think Jeremy's ready to accept Worf right now. Perhaps later, but it will have to be handled most delicately."
+        },
+        {
+          "character": "PICARD",
+          "line": "As you always do. I break the unpleasant news and there my responsibility ends, but you, you have to stay with them through the entire grieving process."
+        },
+        {
+          "character": "TROI",
+          "line": "We deal with our pain in many different ways, but over the years I've diskovered it is in our joy that the uniqueness of each individual is revealed. If I can help a person back to a state of joy, well, my role has its rewards."
+        },
+        {
+          "character": "RIKER",
+          "line": "Captain, we're picking up an energy field on the planet surface.",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "Ready room"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "PICARD",
+          "line": "Location?"
+        },
+        {
+          "character": "RIKER",
+          "line": "Two kilometers north of the away team's beam-down point."
+        },
+        {
+          "character": "PICARD",
+          "line": "Indeed? Full scan."
+        },
+        {
+          "character": "DATA",
+          "line": "Inconclusive, Captain."
+        },
+        {
+          "character": "TROI",
+          "line": "Sir, I', sensing a presence on the planet. Very vague."
+        },
+        {
+          "character": "PICARD",
+          "line": "Life form?"
+        },
+        {
+          "character": "TROI",
+          "line": "I can't be sure. The emotions of the crew are particularly strong right now. It's difficult to filter them out."
+        },
+        {
+          "character": "PICARD",
+          "line": "Data, scan analysis on main viewer."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "WESLEY",
+          "line": "Hi."
+        },
+        {
+          "character": "CRUSHER",
+          "line": "Hi. Troi stopped by a little while ago. She was wondering if you might be willing to talk to Jeremy Aster at some point."
+        },
+        {
+          "character": "WESLEY",
+          "line": "Me? What for?"
+        },
+        {
+          "character": "CRUSHER",
+          "line": "About your Dad."
+        },
+        {
+          "character": "WESLEY",
+          "line": "What am I going to tell him?"
+        },
+        {
+          "character": "CRUSHER",
+          "line": "It would help him to talk with someone who's been through this. We had each other, Wes. He doesn't have anyone to lean on right now. And he might be more comfortable talking to someone who's not much older than he is."
+        },
+        {
+          "character": "WESLEY",
+          "line": "Okay, I'll think about it."
+        },
+        {
+          "character": "CRUSHER",
+          "line": "Okay."
+        },
+        {
+          "character": "WESLEY",
+          "line": "Do you ever think about him, Mom?"
+        },
+        {
+          "character": "CRUSHER",
+          "line": "Your father? Sure I do."
+        },
+        {
+          "character": "WESLEY",
+          "line": "Sometimes I can't even remember what his face looks like. It scares me."
+        },
+        {
+          "character": "CRUSHER",
+          "line": "It happens to all of us, Wes. Sometimes I can't get his face out of my mind."
+        },
+        {
+          "character": "WESLEY",
+          "line": "Today, today it's like I can see it all as clearly as if it were yesterday. I can remember the way Dad looked when he hugged me goodbye. Captain Picard's eyes when he came to tell us"
+        }
+      ],
+      "location": "Crusher's office"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "RIKER",
+          "line": "Data, run comparison of known phenomena."
+        },
+        {
+          "character": "DATA",
+          "line": "The pattern has no exact match in Federation records, sir."
+        },
+        {
+          "character": "PICARD",
+          "line": "Is it alive?"
+        },
+        {
+          "character": "DATA",
+          "line": "A possibility."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Captain, I'm getting an unusual magnetic flux reading from the anti-matter containment pods.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "TROI",
+          "line": "My God."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "JEREMY",
+          "line": "Wait a minute, wait a minute. Okay, you've got ten seconds more, Mom. No peeking. Come on, Patches, in here. Shh. Okay, Mom, we're ready.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "MARLA",
+          "line": "Jeremy? I'm getting closer. Jeremy, I'm going to find you. You must be in here somewhere.",
+          "modifier": "screen"
+        },
+        {
+          "character": "MARLA",
+          "line": "Jeremy!"
+        },
+        {
+          "character": "JEREMY",
+          "line": "Mom?"
+        }
+      ],
+      "location": "Jeremy's quarters"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "LAFORGE",
+          "line": "All systems are functioning normally. Still, there's this fluctuation in the containment field. I can't account for it."
+        },
+        {
+          "character": "RIKER",
+          "line": "Data, is this possibly related to the energy fields on the planet?"
+        },
+        {
+          "character": "TROI",
+          "line": "Captain"
+        },
+        {
+          "character": "DATA",
+          "line": "There is a beam of highly charged particles emanating from the planet, sir, but I cannot pinpoint the location yet."
+        },
+        {
+          "character": "TROI",
+          "line": "Captain, there's a presence on the Enterprise."
+        },
+        {
+          "character": "PICARD",
+          "line": "An alien presence?"
+        },
+        {
+          "character": "DATA",
+          "line": "No intruder noted by the sensors, sir."
+        },
+        {
+          "character": "TROI",
+          "line": "There is a presence."
+        },
+        {
+          "character": "RIKER",
+          "line": "Security, all decks yellow alert. Possible intruder."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "JEREMY",
+          "line": "They said you were dead."
+        },
+        {
+          "character": "MARLA",
+          "line": "There was a mistake. It's okay."
+        },
+        {
+          "character": "JEREMY",
+          "line": "But there was an explosion. You were hurt."
+        },
+        {
+          "character": "MARLA",
+          "line": "I'm fine. You mustn't think any more about this. The important thing is I'm never going to leave you again. I think somebody needs a hug."
+        },
+        {
+          "character": "MARLA",
+          "line": "We have to go now."
+        },
+        {
+          "character": "JEREMY",
+          "line": "Where?"
+        },
+        {
+          "character": "MARLA",
+          "line": "To the planet. That's where we're going to live now."
+        },
+        {
+          "character": "JEREMY",
+          "line": "We're not going to stay on the Enterprise any more?"
+        },
+        {
+          "character": "MARLA",
+          "line": "No. We're going to live in a home just like we used to on Earth. You'll see. I promise."
+        },
+        {
+          "character": "JEREMY",
+          "line": "Lieutenant Worf! Did they tell you? It was a mistake. She didn't die. She's alive."
+        },
+        {
+          "character": "WORF",
+          "line": "Jeremy, come here."
+        },
+        {
+          "character": "MARLA",
+          "line": "Lieutenant Worf. It's all right. I'm here for the boy."
+        },
+        {
+          "character": "WORF",
+          "line": "Lieutenant Worf to Captain Picard."
+        }
+      ],
+      "location": "Jeremy's quarters"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "PICARD",
+          "line": "Go ahead."
+        },
+        {
+          "character": "WORF",
+          "line": "Lieutenant Aster is in her quarters.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "RIKER",
+          "line": "Repeat, Worf?"
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "WORF",
+          "line": "Lieutenant Aster is here. In her quarters with the boy."
+        },
+        {
+          "character": "PICARD",
+          "line": "Do not provoke her",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "Jeremy's quarters"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "PICARD",
+          "line": "Or interfere in any way until I arrive. Picard out. Number One, have Security moving that way but tell them to keep their distance. You have the Bridge. Counselor."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "MARLA",
+          "line": "There is nothing to worry about. I'm going to take care of Jeremy and make him happy. It's time to go."
+        },
+        {
+          "character": "WORF",
+          "line": "Where are you taking the child?"
+        },
+        {
+          "character": "JEREMY",
+          "line": "To the planet."
+        },
+        {
+          "character": "MARLA",
+          "line": "Come, Jeremy."
+        },
+        {
+          "character": "WORF",
+          "line": "Worf to Picard, they're leaving their quarters."
+        }
+      ],
+      "location": "Jeremy's quarters"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "WORF",
+          "line": "Captain, I believe we're headed for transporter room three.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "PICARD",
+          "line": "We're on our way."
+        }
+      ],
+      "location": "Turbolift"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "MARLA",
+          "line": "Chief O'Brien, Jeremy and I are going down to the surface."
+        },
+        {
+          "character": "PICARD",
+          "line": "Who are you?"
+        },
+        {
+          "character": "MARLA",
+          "line": "I'm Marla Aster."
+        },
+        {
+          "character": "JEREMY",
+          "line": "It's my mother, Captain. She's alive."
+        },
+        {
+          "character": "PICARD",
+          "line": "What do you want?"
+        },
+        {
+          "character": "MARLA",
+          "line": "To take my child down to the planet."
+        },
+        {
+          "character": "PICARD",
+          "line": "I cannot permit that. The boy is my responsibility."
+        },
+        {
+          "character": "MARLA",
+          "line": "I'm here to care for him. He needs me. Why do you resist?"
+        },
+        {
+          "character": "PICARD",
+          "line": "Because I don't know who or what you are."
+        },
+        {
+          "character": "JEREMY",
+          "line": "Can't you see who it is, Captain?"
+        },
+        {
+          "character": "PICARD",
+          "line": "Jeremy, she appears to be your mother, but she is not."
+        },
+        {
+          "character": "JEREMY",
+          "line": "What do you mean?"
+        },
+        {
+          "character": "MARLA",
+          "line": "You're confusing the boy."
+        },
+        {
+          "character": "JEREMY",
+          "line": "Hey! Wait! Stop! No! No! Wait! Stop!"
+        },
+        {
+          "character": "JEREMY",
+          "line": "Mom! Mom?"
+        },
+        {
+          "character": "TROI",
+          "line": "Jeremy"
+        },
+        {
+          "character": "JEREMY",
+          "line": "Wait a minute. Let go of me. She was right there!"
+        }
+      ],
+      "location": "Transporter room"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "JEREMY",
+          "line": "What did you do to her?"
+        },
+        {
+          "character": "TROI",
+          "line": "Jeremy, I don't know what that was, but it was not your mother."
+        },
+        {
+          "character": "JEREMY",
+          "line": "You saw her. She was here."
+        },
+        {
+          "character": "TROI",
+          "line": "Your mother's dead."
+        },
+        {
+          "character": "JEREMY",
+          "line": "But I touched her. She was real."
+        },
+        {
+          "character": "TROI",
+          "line": "Why would your real mother want you to go down to the planet? There's nothing there but dust and rocks."
+        }
+      ],
+      "location": "Corridor"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "JEREMY",
+          "line": "It's my house. It's my house on Earth."
+        },
+        {
+          "character": "MARLA",
+          "line": "Exactly the way it was. Remember, Jeremy?"
+        },
+        {
+          "character": "JEREMY",
+          "line": "How did you do it?"
+        },
+        {
+          "character": "MARLA",
+          "line": "Does it matter?"
+        },
+        {
+          "character": "TROI",
+          "line": "Yes, it matters."
+        },
+        {
+          "character": "MARLA",
+          "line": "I am trying to understand your resistance. You spoke of rocks and dust on the planet. I decided to show you what awaits us there."
+        },
+        {
+          "character": "TROI",
+          "line": "Why would you create this fantasy?"
+        },
+        {
+          "character": "MARLA",
+          "line": "It's his home. And it makes you happy, doesn't it?"
+        },
+        {
+          "character": "TROI",
+          "line": "But it's not real."
+        },
+        {
+          "character": "MARLA",
+          "line": "Isn't it? Jeremy, isn't that really Patches?"
+        },
+        {
+          "character": "JEREMY",
+          "line": "He knows me. It's him. It's real. It's all real."
+        },
+        {
+          "character": "TROI",
+          "line": "No, it's not. Could your real mother just make all this appear? You must not stay here. Come with me."
+        },
+        {
+          "character": "JEREMY",
+          "line": "I can't."
+        }
+      ],
+      "location": "Aster home"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "PICARD",
+          "line": "Is the boy in any danger?"
+        },
+        {
+          "character": "TROI",
+          "line": "I don't think so. She seems to want to help him.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "PICARD",
+          "line": "Help him?"
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TROI",
+          "line": "By easing his pain. She's very confused by our resistance, Captain."
+        }
+      ],
+      "location": "Aster home"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "PICARD",
+          "line": "Troi, would it be wise to remove Jeremy from his cabin?"
+        },
+        {
+          "character": "TROI",
+          "line": "He doesn't want to leave. I would not recommend taking him"
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TROI",
+          "line": "By force.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "RIKER",
+          "line": "She offers him everything. All we offer is the cold reality of his mother's death."
+        },
+        {
+          "character": "CRUSHER",
+          "line": "What would you choose? If somebody came along and offered to give you back your mother, father or husband, would any of us say no so easily?"
+        },
+        {
+          "character": "PICARD",
+          "line": "Counselor, stay with them in Jeremy's quarters."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "PICARD",
+          "line": "We'll try and put an end to this from here.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "TROI",
+          "line": "Understood."
+        }
+      ],
+      "location": "Aster home"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "PICARD",
+          "line": "Data, can you determine for certain that the energy source from the planet is powering this creation?"
+        },
+        {
+          "character": "DATA",
+          "line": "The beam from the planet is clearly tapping into the ship's anti-matter, Captain."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "I'd say they're running the manifestation off our own energy."
+        },
+        {
+          "character": "PICARD",
+          "line": "So there are limits to her power."
+        },
+        {
+          "character": "RIKER",
+          "line": "She needs the transporter to get the boy back."
+        },
+        {
+          "character": "PICARD",
+          "line": "So how do we cut the puppet's strings?"
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Increasing the shield harmonics to match our own antimatter containment fields will probably sever the beam."
+        },
+        {
+          "character": "PICARD",
+          "line": "Proceed."
+        },
+        {
+          "character": "RIKER",
+          "line": "Deanna, stand by."
+        },
+        {
+          "character": "TROI",
+          "line": "Standing by.",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TROI",
+          "line": "Jeremy, it's time for this to end. It's not real and it's over now."
+        },
+        {
+          "character": "MARLA",
+          "line": "Jeremy, I'm not going to leave you ever again."
+        },
+        {
+          "character": "TROI",
+          "line": "I won't trick you or lie to you."
+        },
+        {
+          "character": "MARLA",
+          "line": "We'll be happy together, Jeremy, as soon as"
+        },
+        {
+          "character": "JEREMY",
+          "line": "No."
+        }
+      ],
+      "location": "Aster home"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "LAFORGE",
+          "line": "Anti-matter containment pods reading nominal."
+        },
+        {
+          "character": "DATA",
+          "line": "The shield has severed the beam, sir. Captain, the energy field."
+        },
+        {
+          "character": "PICARD",
+          "line": "Mister Crusher, take us out of here."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "O'BRIEN",
+          "line": "Alien intruder, transporter room three. Security alert. Alien"
+        }
+      ],
+      "location": "Transporter room"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "WORF",
+          "line": "Security to transporter room three."
+        },
+        {
+          "character": "PICARD",
+          "line": "Commander La Forge, Mister Worf, come with me. Number One, you have the Bridge."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "MARLA",
+          "line": "Come, Jeremy. We will not let them separate us again. We're going home."
+        }
+      ],
+      "location": "Jeremy's quarters"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TROI",
+          "line": "Captain, she's back. She's trying to take Jeremy off the ship again.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "PICARD",
+          "line": "Acknowledged."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Engineering, this is La Forge. Shut down power to all transporters. I'm on my way."
+        },
+        {
+          "character": "CREWMAN",
+          "line": "Aye, aye, sir.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "PICARD",
+          "line": "Lieutenant Worf, to transporter room three."
+        }
+      ],
+      "location": "Turbolift"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "PICARD",
+          "line": "Bridge, seal off deck eight, corridors A and B."
+        }
+      ],
+      "location": "Corridor"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "DATA",
+          "line": "Engaging force fields, Captain. Transporters down."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "WORF",
+          "line": "Energy force has left transporter room three. Security alert, all decks."
+        }
+      ],
+      "location": "Transporter room"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "RIKER",
+          "line": "La Forge, the intruder may try to reinstate"
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "RIKER",
+          "line": "Transporter power.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Understood, Commander."
+        }
+      ],
+      "location": "Engineering"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "PICARD",
+          "line": "Bridge, release security forcefield eight B. Hello, Jeremy. How are you? Are you frightened?"
+        },
+        {
+          "character": "JEREMY",
+          "line": "No. Well, a little, sir."
+        },
+        {
+          "character": "PICARD",
+          "line": "Of course. These are frightening things that are happening. But we won't let anyone harm you. Counselor, why don't you take the boy to my quarters."
+        },
+        {
+          "character": "MARLA",
+          "line": "No!"
+        }
+      ],
+      "location": "Corridor"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "LAFORGE",
+          "line": "It's looking over everything, Commander, going to school. Let's just hope it doesn't blow us to kingdom come while it's figuring out how to blow us to kingdom come."
+        }
+      ],
+      "location": "Engineering"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "WORF",
+          "line": "Power's back in transporter room three."
+        }
+      ],
+      "location": "Transporter room"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "LAFORGE",
+          "line": "Bypassing the manual override. Shutting it down."
+        }
+      ],
+      "location": "Engineering"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "WORF",
+          "line": "Transporter is down again.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "RIKER",
+          "line": "Keep it down, Geordi, for as long as you can."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Understood, Commander.",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "MARLA",
+          "line": "It is only a matter of time, Captain, before we can power the transporters ourselves"
+        },
+        {
+          "character": "PICARD",
+          "line": "We? For whom else do you speak?"
+        },
+        {
+          "character": "MARLA",
+          "line": "The accident on the surface was caused by a remnant of an ancient and tragic era. Two species once shared this world. One of energy and one of matter. The physical beings you call the Koinonians destroyed themselves in unending, bitter wars. The surviving life forms on this world will not tolerate any further suffering as a result of that dishonorable past. So, they have made this possible. They have made me possible."
+        },
+        {
+          "character": "PICARD",
+          "line": "I appreciate your motives, but his mother is dead. He must learn to live with that."
+        },
+        {
+          "character": "MARLA",
+          "line": "I will be every bit his mother."
+        },
+        {
+          "character": "PICARD",
+          "line": "But not his mother. Picard to Lieutenant Worf."
+        },
+        {
+          "character": "WORF",
+          "line": "Go ahead, Captain.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "PICARD",
+          "line": "Will you escort Ensign Crusher to the Aster quarters?"
+        },
+        {
+          "character": "WORF",
+          "line": "Yes, sir.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "PICARD",
+          "line": "Picard out."
+        },
+        {
+          "character": "MARLA",
+          "line": "Your philosophy is curious, Captain. What is so noble about sorrow? I can provide him an existence where he will feel no pain, no anguish."
+        },
+        {
+          "character": "PICARD",
+          "line": "It is at the heart of our nature to feel pain and joy. It is an essential part of what makes us what we are."
+        },
+        {
+          "character": "MARLA",
+          "line": "He is alone now in your world. A child, alone. How can you know he won't be happier with me?"
+        },
+        {
+          "character": "PICARD",
+          "line": "For a brief moment in time, he surely would be. Any of us in his place would be."
+        },
+        {
+          "character": "TROI",
+          "line": "What would Jeremy do for friends in your world?"
+        },
+        {
+          "character": "MARLA",
+          "line": "He will have any friends he needs."
+        },
+        {
+          "character": "TROI",
+          "line": "And will you provide for his education, his health, his growth, a career, a wife?"
+        },
+        {
+          "character": "PICARD",
+          "line": "Yes, it's quite an undertaking you're proposing, isn't it?"
+        },
+        {
+          "character": "MARLA",
+          "line": "It is our duty to make him happy again."
+        },
+        {
+          "character": "PICARD",
+          "line": "Do you honestly believe he would be happy in this total fiction which you wish to create? What reason would he have to live? What you're offering him is a memory, something to cherish, not to live in. It is part of our life cycle that we accept the death of those we love. Jeremy must come to terms with his grief. He must not cover it or hide away from it. You see, we are mortal. Our time in this universe is finite. That is one of the truths that all human must learn."
+        },
+        {
+          "character": "WESLEY",
+          "line": "Acting Ensign Crusher reporting as ordered, sir."
+        },
+        {
+          "character": "PICARD",
+          "line": "Yes. Come in, Wesley. Please stay, Lieutenant. Jeremy, Wesley's father died on a Starfleet mission when he was younger than you are."
+        },
+        {
+          "character": "TROI",
+          "line": "Wes, your mother told me you were finding it difficult to talk to Jeremy. Why is that?"
+        },
+        {
+          "character": "WESLEY",
+          "line": "I don't know. I just didn't want to think about it any more. All this has reminded me so much of that day."
+        },
+        {
+          "character": "PICARD",
+          "line": "The day I told you your father had been killed. As I recall, Wesley, you took it very well."
+        },
+        {
+          "character": "WESLEY",
+          "line": "My parents taught me about the dangers of Starfleet missions. I knew what could happen."
+        },
+        {
+          "character": "PICARD",
+          "line": "So you were prepared?"
+        },
+        {
+          "character": "WESLEY",
+          "line": "No, I wasn't prepared at all. How could anyone be prepared to hear that a parent is never coming home again? I tried to be what everybody expected of me. Brave and mature."
+        },
+        {
+          "character": "PICARD",
+          "line": "Wesley, are you saying that you didn't want anybody to see what you were really feeling? What were you really feeling?"
+        },
+        {
+          "character": "WESLEY",
+          "line": "Like somebody had kicked me in the head."
+        },
+        {
+          "character": "PICARD",
+          "line": "Somebody?"
+        },
+        {
+          "character": "TROI",
+          "line": "Go on. You've wanted to tell him for a long time."
+        },
+        {
+          "character": "WESLEY",
+          "line": "I was angry at you."
+        },
+        {
+          "character": "PICARD",
+          "line": "Why angry? Why were you angry at me, Wesley? Were you angry at me because I was the one who told you your father was dead?"
+        },
+        {
+          "character": "WESLEY",
+          "line": "No."
+        },
+        {
+          "character": "PICARD",
+          "line": "Then why?"
+        },
+        {
+          "character": "WESLEY",
+          "line": "Because you led the mission. You came home and my father didn't."
+        },
+        {
+          "character": "TROI",
+          "line": "How long were you angry with the Captain, Wes?"
+        },
+        {
+          "character": "WESLEY",
+          "line": "For a long time. But not any more, sir. Not even a little."
+        },
+        {
+          "character": "TROI",
+          "line": "So, Jeremy, you must be very angry at Lieutenant Worf. He was in charge of your mother's mission, just as Captain Picard was in command when Wesley's father was killed. Isn't that right? Worf came back. Your mother didn't."
+        },
+        {
+          "character": "JEREMY",
+          "line": "Why? Why weren't you the one who died? Why did it have to be her?"
+        },
+        {
+          "character": "TROI",
+          "line": "He can't answer that. None of us can."
+        },
+        {
+          "character": "PICARD",
+          "line": "Lieutenant Worf also lost his parents."
+        },
+        {
+          "character": "WORF",
+          "line": "They were killed in battle when I was six. When I was alone, humans helped me. Let me help you. The Marla Aster I knew and honored is not in this room. Nor does she await you on the planet. Now she lives only here And here. Join me in the R'uustai, the Bonding. You will become part of my family now and for all time. We will be brothers."
+        }
+      ],
+      "location": "Aster home"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "WORF",
+          "line": "SoS jIH batlh SoH."
+        },
+        {
+          "character": "JEREMY",
+          "line": "What does that mean?"
+        },
+        {
+          "character": "WORF",
+          "line": "It honors the memory of our mothers. We have bonded and our families are stronger."
+        },
+        {
+          "character": "JEREMY",
+          "line": "SoS jIH batlh SoH."
+        }
+      ],
+      "location": "Worf's quarters"
+    }
+  ],
+  "schedule": {
+    "episode": 5,
+    "number": 53,
+    "season": 3
+  },
+  "stardate": "43198.7",
+  "title": "The Bonding"
+}

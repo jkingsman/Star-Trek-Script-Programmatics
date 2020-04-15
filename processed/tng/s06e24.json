@@ -1,0 +1,1471 @@
+{
+  "airdate": 738216000,
+  "scenes": [
+    {
+      "dialogue": [
+        {
+          "character": "PICARD",
+          "line": "Captain's log, stardate 46915.2. The Enterprise is orbiting Nervala Four, waiting for an opportunity to retrieve scientific data left there by Starfleet researchers when they were forced to evacuate eight years ago.",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "unknown"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "RIKER",
+          "line": "Thank you. Thank you very much. Thank you. Thank you very much. Any requests tonight?"
+        },
+        {
+          "character": "TROI",
+          "line": "Night Bird."
+        },
+        {
+          "character": "RIKER",
+          "line": "Any request?"
+        },
+        {
+          "character": "TROI",
+          "line": "Night Bird!"
+        },
+        {
+          "character": "RIKER",
+          "line": "Ladies and gentlemen, Night Bird. One, two."
+        },
+        {
+          "character": "CRUSHER",
+          "line": "What was that all about?"
+        },
+        {
+          "character": "TROI",
+          "line": "Will's been trying to get this piece right for ten years now. He's never made it through the solo."
+        },
+        {
+          "character": "TROI",
+          "line": "Here it comes."
+        },
+        {
+          "character": "DATA",
+          "line": "Data to Commander Riker.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "RIKER",
+          "line": "Go ahead."
+        },
+        {
+          "character": "DATA",
+          "line": "Commander, you are needed on the Bridge.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "RIKER",
+          "line": "On my way. Saved by the bell."
+        }
+      ],
+      "location": "Ten Forward"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "RIKER",
+          "line": "You wanted to see me, Mister Data?"
+        },
+        {
+          "character": "DATA",
+          "line": "Yes, sir. It appears we will be able to transport to the surface sooner than anticipated."
+        },
+        {
+          "character": "RIKER",
+          "line": "Is the planet's distortion field re-phasing sooner than we predicted?"
+        },
+        {
+          "character": "DATA",
+          "line": "No, sir. Using the Potemkin's transport logs from the original evacuation, Commander La Forge and I were able to modify the transporters."
+        },
+        {
+          "character": "RIKER",
+          "line": "So we can beam through a higher distortion field."
+        },
+        {
+          "character": "DATA",
+          "line": "The transporters are considerably more efficient than those used on the Potemkin eight years ago."
+        },
+        {
+          "character": "RIKER",
+          "line": "That's a good thing. I almost didn't make it off the surface. When can we get started?"
+        },
+        {
+          "character": "DATA",
+          "line": "Ninety seven minutes, sir."
+        },
+        {
+          "character": "RIKER",
+          "line": "How long will the transport window be open?"
+        },
+        {
+          "character": "DATA",
+          "line": "Twenty six minutes. After that, the distortion field will re-phase."
+        },
+        {
+          "character": "RIKER",
+          "line": "That doesn't give us much time to retrieve the database."
+        },
+        {
+          "character": "DATA",
+          "line": "The planet's proximity to its sun will create two additional transport windows in the next three days."
+        },
+        {
+          "character": "RIKER",
+          "line": "Let's hope that's enough."
+        },
+        {
+          "character": "DATA",
+          "line": "It will have to be, sir. The next transport window will not occur for another eight years, when the planet's orbit will bring it close enough to the sun to de-phase the distortion field."
+        },
+        {
+          "character": "RIKER",
+          "line": "Okay, notify the away team that we're going in ahead of schedule. I'll tell the Captain."
+        },
+        {
+          "character": "DATA",
+          "line": "Aye, sir."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "RIKER",
+          "line": "This is different than I remember. The place was a mess when we left."
+        },
+        {
+          "character": "DATA",
+          "line": "Commander."
+        },
+        {
+          "character": "RIKER",
+          "line": "Someone was here."
+        },
+        {
+          "character": "WORF",
+          "line": "A ship could have been caught in the distortion field and crashed. The survivors may have taken refuge here."
+        },
+        {
+          "character": "DATA",
+          "line": "Commander, someone is approaching. A humanoid. Forty meters due east and closing."
+        },
+        {
+          "character": "RIKER",
+          "line": "Who are you?"
+        },
+        {
+          "character": "RIKER 2",
+          "line": "Who are you?"
+        },
+        {
+          "character": "RIKER",
+          "line": "I'm Commander William Riker from the Federation Starship Enterprise."
+        },
+        {
+          "character": "RIKER 2",
+          "line": "That's not possible. I'm Will Riker."
+        },
+        {
+          "character": "DATA",
+          "line": "May I ask how you got here?"
+        },
+        {
+          "character": "RIKER 2",
+          "line": "Eight years ago, I led a team to evacuate this station."
+        },
+        {
+          "character": "RIKER",
+          "line": "What ship were you on?"
+        },
+        {
+          "character": "RIKER 2",
+          "line": "The Potemkin."
+        },
+        {
+          "character": "DATA",
+          "line": "Why did you not return to the Potemkin with the others?"
+        },
+        {
+          "character": "RIKER 2",
+          "line": "I was the last one out. The distortion field must have interfered with the transport. They lost their signal lock on me. When I tried to contact the ship, I couldn't get through the interference. If you check with Starfleet I'm sure they will have recorded that I was lost on that day."
+        },
+        {
+          "character": "RIKER",
+          "line": "That's not what happened. I was the last one out and I made it back to the Potemkin."
+        },
+        {
+          "character": "RIKER 2",
+          "line": "You don't believe me?"
+        },
+        {
+          "character": "RIKER",
+          "line": "It's not that we don't believe you. It's just hard to see how both stories could be true. Would you be willing have our Doctor check you out?"
+        },
+        {
+          "character": "RIKER 2",
+          "line": "Of course."
+        },
+        {
+          "character": "RIKER",
+          "line": "Mister Worf, take him directly to Sickbay, and notify the Captain once you're on board. Let's get to work."
+        },
+        {
+          "character": "WORF",
+          "line": "Worf to Enterprise. Two to beam up."
+        },
+        {
+          "character": "CREWMAN",
+          "line": "Aye, sir. Stand by.",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "Research station"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "CRUSHER",
+          "line": "Looks like you fractured your arm a few years ago."
+        },
+        {
+          "character": "RIKER 2",
+          "line": "I was doing some repairs under the station when an earthquake hit. I got caught in a rockslide. I had to set it myself."
+        },
+        {
+          "character": "PICARD",
+          "line": "Jean-Luc Picard."
+        },
+        {
+          "character": "RIKER 2",
+          "line": "Lieutenant Will Riker."
+        },
+        {
+          "character": "PICARD",
+          "line": "I hope you understand our need to verify your claim."
+        },
+        {
+          "character": "RIKER 2",
+          "line": "Yes, sir."
+        },
+        {
+          "character": "CRUSHER",
+          "line": "Genetically, he's indistinguishable from Commander Riker."
+        },
+        {
+          "character": "PICARD",
+          "line": "Could there be some sort of cloning involved here?"
+        },
+        {
+          "character": "CRUSHER",
+          "line": "I don't think so. There's no genetic drift."
+        },
+        {
+          "character": "PICARD",
+          "line": "But it's not conclusive."
+        },
+        {
+          "character": "CRUSHER",
+          "line": "That's why I compared their brain scans. Brain organization patterns are as unique as fingerprints. Except for minor, minor differences, theirs are identical."
+        },
+        {
+          "character": "PICARD",
+          "line": "But can't brain patterns be cloned?"
+        },
+        {
+          "character": "CRUSHER",
+          "line": "No. They're determined by experience, mostly from early childhood."
+        },
+        {
+          "character": "PICARD",
+          "line": "How can two grown men share the same childhood experiences? It just doesn't make any sense."
+        },
+        {
+          "character": "RIKER 2",
+          "line": "I am Will Riker. I don't know who or what made it back to the Potemkin that day, but it wasn't me."
+        },
+        {
+          "character": "PICARD",
+          "line": "Lieutenant, our Chief Engineer is checking the transport logs of the Potemkin. Perhaps that will shed some light on the matter. Don't worry, we will get to the bottom of this. And in the meantime, you will be taken to your quarters. Try and make yourself as comfortable as possible."
+        },
+        {
+          "character": "RIKER 2",
+          "line": "I will. The replicators on the station haven't worked for a long time ago. It's been a while since I've had a decent meal. Doctor."
+        }
+      ],
+      "location": "Sickbay"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "LAFORGE",
+          "line": "Apparently there was a massive energy surge in the distortion field around the planet just at the moment you tried to beam out. The Transporter Chief tried to compensate by initiating a second containment beam."
+        },
+        {
+          "character": "DATA",
+          "line": "An interesting approach. He must have been planning to reintegrate the two patterns in the transport buffer."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Actually, it wasn't really necessary. Commander Riker's pattern maintained its integrity with just the one containment beam. He made it back to the ship just fine."
+        },
+        {
+          "character": "CRUSHER",
+          "line": "What happened to the second beam?"
+        },
+        {
+          "character": "LAFORGE",
+          "line": "The Transporter Chief shut it down, but somehow it was reflected back to the surface."
+        },
+        {
+          "character": "PICARD",
+          "line": "And another William Riker materialized there."
+        },
+        {
+          "character": "RIKER",
+          "line": "How was the second pattern able to maintained its integrity?"
+        },
+        {
+          "character": "LAFORGE",
+          "line": "The containment beam must have had the exact same phase differential as the distortion field."
+        },
+        {
+          "character": "RIKER",
+          "line": "Which one of them is real?"
+        },
+        {
+          "character": "LAFORGE",
+          "line": "That's the thing. Both. You were both materialized from a complete pattern."
+        },
+        {
+          "character": "CRUSHER",
+          "line": "Up until that moment, you were the same person."
+        },
+        {
+          "character": "PICARD",
+          "line": "But of course, as you and Lieutenant Riker have lived very different lives for the past eight years, you are now very different people. I suppose it's a little like meeting someone's twin. But no matter how strange it may seem to us, we now have two Will Rikers on board. And as Lieutenant Riker will be with us for several days, I think we should do everything we can to make him comfortable and welcome."
+        },
+        {
+          "character": "RIKER",
+          "line": "We still have the problem of retrieving the database. The computer on the station is not completely operational."
+        },
+        {
+          "character": "DATA",
+          "line": "Many of its components have been removed. Apparently Lieutenant Riker used them to keep the station's radiation shield operational."
+        },
+        {
+          "character": "PICARD",
+          "line": "Can it be repaired, at least enough to access the database?"
+        },
+        {
+          "character": "RIKER",
+          "line": "Without knowing what he did, that'll be tough."
+        },
+        {
+          "character": "PICARD",
+          "line": "Perhaps he can help us."
+        },
+        {
+          "character": "PICARD",
+          "line": "He was alone down there for a long time. I'm hesitant to let him go back until he's been evaluated."
+        },
+        {
+          "character": "TROI",
+          "line": "I'll talk to him."
+        },
+        {
+          "character": "PICARD",
+          "line": "Thank you, Counselor."
+        }
+      ],
+      "location": "Observation lounge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "RIKER 2",
+          "line": "Come in."
+        },
+        {
+          "character": "TROI",
+          "line": "Hello, Will."
+        },
+        {
+          "character": "RIKER 2",
+          "line": "Imzadi."
+        },
+        {
+          "character": "TROI",
+          "line": "Will."
+        },
+        {
+          "character": "RIKER 2",
+          "line": "I never thought I'd see you again."
+        },
+        {
+          "character": "TROI",
+          "line": "We need to talk."
+        },
+        {
+          "character": "RIKER 2",
+          "line": "You're on board because of him."
+        },
+        {
+          "character": "TROI",
+          "line": "No. Commander Riker and I are friends. Close friends, but nothing more. Why don't we sit down? Do you remember the last time we saw each other?"
+        },
+        {
+          "character": "RIKER 2",
+          "line": "Like yesterday. The Janaran Falls on Betazed."
+        },
+        {
+          "character": "TROI",
+          "line": "It was the day before you started your tour on the Potemkin."
+        },
+        {
+          "character": "RIKER 2",
+          "line": "And we were going to meet on Risa, six weeks later."
+        },
+        {
+          "character": "TROI",
+          "line": "We never did."
+        },
+        {
+          "character": "RIKER 2",
+          "line": "I know."
+        },
+        {
+          "character": "TROI",
+          "line": "No, what I mean is, Commander Riker and I never did. You see, he earned a promotion very quickly."
+        },
+        {
+          "character": "RIKER 2",
+          "line": "I know that too. 'For exceptional valor during the evacuation of the research station on Nervala Four'. I looked at his service record."
+        },
+        {
+          "character": "TROI",
+          "line": "He chose to make his career a priority. There wasn't much time for anything else. We kept in touch but we didn't see each other again until we were both posted to the Enterprise two years later. By then our feelings for each other had changed. We've served together for six years. Things never went back to the way they used to be."
+        },
+        {
+          "character": "RIKER 2",
+          "line": "I had a lot of time on my hands when I was down on that station. There were days I felt so alone I thought I might lose my mind. Do you know how I made it through? I thought if I hung on for more day, they'd rescue me. Maybe I'd see you again. I guess things don't always work out the way you expect them to."
+        },
+        {
+          "character": "TROI",
+          "line": "I know this isn't what you were hoping for, but that doesn't mean you can't make a future for yourself."
+        },
+        {
+          "character": "RIKER 2",
+          "line": "Thanks."
+        },
+        {
+          "character": "TROI",
+          "line": "Captain Picard wanted me to find out if you'd be willing to help us retrieve the station's database."
+        },
+        {
+          "character": "RIKER 2",
+          "line": "I reconfigured that computer so many times they probably can't make heads or tails of it. I'd be happy to help."
+        },
+        {
+          "character": "TROI",
+          "line": "Do you feel up to it?"
+        },
+        {
+          "character": "RIKER 2",
+          "line": "Absolutely."
+        },
+        {
+          "character": "TROI",
+          "line": "Good. I'll tell the Captain. Well, I have to go."
+        },
+        {
+          "character": "RIKER 2",
+          "line": "Deanna. I know it's been a long time since we've been together, and I know your feelings have changed. Mine haven't. I can't just give up. I'd like to be with you again."
+        },
+        {
+          "character": "TROI",
+          "line": "Goodnight, Will."
+        }
+      ],
+      "location": "Lt Riker's quarters"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "PALMER",
+          "line": "Phase distortion is dropping. The second transport window opens in forty two seconds."
+        },
+        {
+          "character": "RIKER",
+          "line": "How long will we have, Lieutenant?"
+        },
+        {
+          "character": "PALMER",
+          "line": "Thirty six minutes, sir."
+        },
+        {
+          "character": "WORF",
+          "line": "We are losing time. Lieutenant Riker should be here."
+        },
+        {
+          "character": "RIKER",
+          "line": "Computer, locate Lieutenant"
+        },
+        {
+          "character": "RIKER",
+          "line": "Cancel inquiry."
+        },
+        {
+          "character": "WORF",
+          "line": "You were supposed to report here at eight hundred hours."
+        },
+        {
+          "character": "RIKER 2",
+          "line": "I'm sorry, I was"
+        },
+        {
+          "character": "RIKER",
+          "line": "I guess it's been a while since you've had to punch a clock. Let's go. Energize."
+        }
+      ],
+      "location": "Transporter room"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "RIKER 2",
+          "line": "I've shut down most of the consoles to save power. I re-routed just about everything through here."
+        },
+        {
+          "character": "RIKER",
+          "line": "Check out the primary EPS system. See if you can get some power to the rest of these consoles."
+        },
+        {
+          "character": "RIKER 2",
+          "line": "I shunted the database to the main core underneath the station."
+        },
+        {
+          "character": "RIKER",
+          "line": "Can we access it from here?"
+        },
+        {
+          "character": "RIKER 2",
+          "line": "There's been a lot of seismic activity over the years. If the servo-links were damaged we may not be able to. I'll try to tap into the command pathways. You see if you can access and disable the file server."
+        },
+        {
+          "character": "RIKER",
+          "line": "You know, I've been thinking we should probably let Dad know what happened."
+        },
+        {
+          "character": "RIKER 2",
+          "line": "I'm sure he'll be thrilled to know there are two of us now."
+        },
+        {
+          "character": "RIKER",
+          "line": "Actually, he and I have been able to patch a few things up."
+        },
+        {
+          "character": "RIKER 2",
+          "line": "I've been able to get by for a long time without seeing him. I'm not about to start now. What made you contact him?"
+        },
+        {
+          "character": "RIKER",
+          "line": "I didn't. He came on board the Enterprise to brief me when I was offered the Aries."
+        },
+        {
+          "character": "RIKER 2",
+          "line": "What did he say when you turned down your own command?"
+        },
+        {
+          "character": "RIKER",
+          "line": "He couldn't understand why I did it."
+        },
+        {
+          "character": "RIKER 2",
+          "line": "For once he and I agree on something."
+        },
+        {
+          "character": "WORF",
+          "line": "The primary EPS coupling is fused. The entire unit will have to be replaced."
+        },
+        {
+          "character": "RIKER 2",
+          "line": "I've accessed the command pathways. The interlink pathways are functioning now."
+        },
+        {
+          "character": "RIKER",
+          "line": "See if that did the trick. No, it's not working."
+        },
+        {
+          "character": "RIKER 2",
+          "line": "The servo-link must be damaged. We're going to have to go under the station and access the core directly."
+        },
+        {
+          "character": "DATA",
+          "line": "We have less than three minutes left."
+        },
+        {
+          "character": "RIKER 2",
+          "line": "I'll stay here. I'll be finished by the time the third window opens."
+        },
+        {
+          "character": "RIKER",
+          "line": "It's too dangerous. Our scans show the caverns are unstable."
+        },
+        {
+          "character": "RIKER 2",
+          "line": "I've been down there dozens of times. I know my way around."
+        },
+        {
+          "character": "RIKER",
+          "line": "We'll come back during the third window, We'll bring a new EPS coupling and try to access the core from another console up here. Riker to Enterprise."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "La Forge here.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "RIKER",
+          "line": "We're ready to beam out."
+        },
+        {
+          "character": "RIKER 2",
+          "line": "You go ahead. I'll be finished by the time you get back."
+        },
+        {
+          "character": "RIKER",
+          "line": "Hold it! I gave you an order, Lieutenant."
+        }
+      ],
+      "location": "Research station"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TROI",
+          "line": "Computer, valerian root tea, hot."
+        },
+        {
+          "character": "TROI",
+          "line": "Meet me in Transporter room three at nineteen hundred hours. It's important."
+        }
+      ],
+      "location": "Troi's quarters"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TROI",
+          "line": "It pulses unendingly all through the night. Seek out the crystal that powers our flight."
+        }
+      ],
+      "location": "Transporter room"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "LAFORGE",
+          "line": "Can I help you, Counselor?"
+        },
+        {
+          "character": "TROI",
+          "line": "No, thank you."
+        }
+      ],
+      "location": "Engineering"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TROI",
+          "line": "What the future holds no one can know, But forward we look and forward we go."
+        }
+      ],
+      "location": "Corridor"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "RIKER 2",
+          "line": "The Janaran falls."
+        },
+        {
+          "character": "TROI",
+          "line": "I remember. Where did you get this?"
+        },
+        {
+          "character": "RIKER 2",
+          "line": "I made it a couple of years ago down on the station."
+        },
+        {
+          "character": "TROI",
+          "line": "You made this?"
+        },
+        {
+          "character": "RIKER 2",
+          "line": "You should have seen the first two. It took a while to get a fine enough beam out of the phaser."
+        },
+        {
+          "character": "TROI",
+          "line": "It's lovely. Thank you."
+        },
+        {
+          "character": "RIKER 2",
+          "line": "Can you stay and talk? I wanted to remember our last night together."
+        },
+        {
+          "character": "TROI",
+          "line": "So, how does it feel being with people again?"
+        },
+        {
+          "character": "RIKER 2",
+          "line": "Great. Strange. For a long time I did whatever I wanted, whenever I wanted. It's been hard taking orders again."
+        },
+        {
+          "character": "TROI",
+          "line": "I can imagine."
+        },
+        {
+          "character": "RIKER 2",
+          "line": "But I guess I'll have to get used to it if I want to get my career going again."
+        },
+        {
+          "character": "TROI",
+          "line": "Is that what you've decided to do?"
+        },
+        {
+          "character": "RIKER 2",
+          "line": "Remember, I'm the one who wanted to make Captain by the time I was thirty five. I'm a little behind schedule, I'll admit that."
+        },
+        {
+          "character": "TROI",
+          "line": "It's good you don't feel set back."
+        },
+        {
+          "character": "RIKER 2",
+          "line": "I do. Things are a little more complicated than I had planned, but there's nothing going to stand in the way of my getting what I want."
+        },
+        {
+          "character": "WAITER",
+          "line": "There you go."
+        },
+        {
+          "character": "RIKER 2",
+          "line": "Thanks. You don't know how many times I thought about you, about us. For weeks after the evacuation, I kept thinking they'd find a way through the distortion field and come back for me. I even thought we'd meet on Risa like we planned. But days went by and nobody came. Then I realized why. They thought that I had been killed in the beam out. No one came down because they thought there was no one to come down for. So I figured that they'd had a memorial service for me. Somehow that made me feel better."
+        },
+        {
+          "character": "TROI",
+          "line": "I can understand that."
+        },
+        {
+          "character": "RIKER 2",
+          "line": "You were there, all dressed in black. Very flattering on you, by the way."
+        },
+        {
+          "character": "TROI",
+          "line": "I'm sure I looked terrible with my eyes all red and swollen from crying."
+        },
+        {
+          "character": "RIKER 2",
+          "line": "Sometimes I would look up into the sky and I'd think, if I tried hard enough, I could make you feel my presence. That if I could let you know that I was alive, maybe you'd wait for me. I know it sounds crazy, but there were times when I could've sworn. What am I talking about?"
+        },
+        {
+          "character": "TROI",
+          "line": "The other day, when I told you about how Commander Riker and I didn't meet on Risa, what I didn't say was how disappointed I was."
+        },
+        {
+          "character": "RIKER 2",
+          "line": "You didn't have to. I knew."
+        },
+        {
+          "character": "TROI",
+          "line": "I started to hear from him less and less. I knew his career was taking him away from me but I didn't want to believe it was over. I spent a lot of time thinking about him. Wondering where he was, what he was doing. Sometimes I'd look into the sky and imagine that he knew, and that somehow he could sense me thinking about him. So, who knows? Maybe one night we were looking up at the same star, and you were thinking about me, and in a way, I was thinking about you."
+        }
+      ],
+      "location": "Ten Forward"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "PICARD",
+          "line": "Come."
+        },
+        {
+          "character": "RIKER",
+          "line": "You wanted to see me, sir?"
+        },
+        {
+          "character": "PICARD",
+          "line": "Yes, Number One. Come in."
+        },
+        {
+          "character": "PICARD",
+          "line": "Lieutenant Riker has been to see me to talk about the away mission. He believes that the only way to retrieve the database is by directly accessing the main core underneath the station."
+        },
+        {
+          "character": "RIKER",
+          "line": "The seismic activity makes those caverns very unstable. In my opinion, it's too risky."
+        },
+        {
+          "character": "PICARD",
+          "line": "He said that he was down there recently. He seemed confident that it could be done safely."
+        },
+        {
+          "character": "RIKER",
+          "line": "There's a good chance we will be able to retrieve the database from one of the consoles inside the station."
+        },
+        {
+          "character": "PICARD",
+          "line": "But if it doesn't work, we won't have another chance for eight years."
+        },
+        {
+          "character": "RIKER",
+          "line": "Lieutenant Riker's plan is more dangerous, but it does have a better chance of succeeding."
+        },
+        {
+          "character": "PICARD",
+          "line": "Given the importance of the data, I think that it's worth the risk."
+        },
+        {
+          "character": "RIKER",
+          "line": "I'll look over the schematics and I'll draw up a mission plan."
+        },
+        {
+          "character": "PICARD",
+          "line": "I'm sure that Lieutenant Riker will be happy to help you with that."
+        },
+        {
+          "character": "RIKER",
+          "line": "I'll talk to him."
+        }
+      ],
+      "location": "Ready room"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "CREWWOMAN",
+          "line": "Sir."
+        },
+        {
+          "character": "RIKER",
+          "line": "Lieutenant."
+        },
+        {
+          "character": "RIKER 2",
+          "line": "Sir."
+        },
+        {
+          "character": "RIKER",
+          "line": "I just met with the Captain about your mission recommendation. I would appreciate it if next time you came to me first."
+        },
+        {
+          "character": "RIKER 2",
+          "line": "I tried talking to you yesterday on the station. You wouldn't hear me out."
+        },
+        {
+          "character": "RIKER",
+          "line": "I heard you, Lieutenant. I rejected your plan."
+        },
+        {
+          "character": "RIKER 2",
+          "line": "May I ask what the Captain decided?"
+        },
+        {
+          "character": "RIKER",
+          "line": "The Captain has decided to go with your recommendation, but that's not the point."
+        },
+        {
+          "character": "RIKER 2",
+          "line": "Isn't it?"
+        },
+        {
+          "character": "RIKER",
+          "line": "If you think I'm coming down on you because the Captain overruled me, think again. I happen to disagree with his decision, but he is my commanding officer and I follow his orders. Just so there's no confusion, I am your commanding officer and I expect you to do the same. If you can't, there's no place for you on my away team."
+        },
+        {
+          "character": "RIKER 2",
+          "line": "Yes, sir."
+        },
+        {
+          "character": "RIKER",
+          "line": "There will be a meeting in the Observation lounge at fourteen hundred hours to draw up a mission plan."
+        }
+      ],
+      "location": "Engineering"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TROI",
+          "line": "We stayed in Ten Forward talking for hours."
+        },
+        {
+          "character": "CRUSHER",
+          "line": "Then what happened?"
+        },
+        {
+          "character": "TROI",
+          "line": "He walked me to my quarters."
+        },
+        {
+          "character": "CRUSHER",
+          "line": "Then what happened?"
+        },
+        {
+          "character": "TROI",
+          "line": "Beverly!"
+        },
+        {
+          "character": "CRUSHER",
+          "line": "I'm just asking."
+        },
+        {
+          "character": "TROI",
+          "line": "You know it's been over between Will and me for a long time."
+        },
+        {
+          "character": "CRUSHER",
+          "line": "He's not Will. He is Will but, you know what I mean."
+        },
+        {
+          "character": "TROI",
+          "line": "It's really hard for me to separate my feelings for them."
+        },
+        {
+          "character": "CRUSHER",
+          "line": "Deanna, just because things turned out the way they did between you and Commander Riker, doesn't mean you shouldn't let things between you and Lieutenant Riker take their own course."
+        },
+        {
+          "character": "TROI",
+          "line": "I knew you'd encourage me."
+        },
+        {
+          "character": "CRUSHER",
+          "line": "I thought that's that why you brought it up."
+        },
+        {
+          "character": "CRUSHER",
+          "line": "Well, I think I'll call it a day."
+        },
+        {
+          "character": "TROI",
+          "line": "Beverly."
+        },
+        {
+          "character": "CRUSHER",
+          "line": "Bye."
+        },
+        {
+          "character": "RIKER 2",
+          "line": "Some form of tai chi chuan?"
+        },
+        {
+          "character": "TROI",
+          "line": "Klingon exercises, actually. Lieutenant Worf teaches a class."
+        },
+        {
+          "character": "RIKER 2",
+          "line": "The forms are very similar. Do that move again."
+        },
+        {
+          "character": "TROI",
+          "line": "You just did the KoH-man-ara."
+        },
+        {
+          "character": "RIKER 2",
+          "line": "Tai chi chuan. It's called the crane block. Now let's try something else."
+        },
+        {
+          "character": "RIKER 2",
+          "line": "What was that called? Mister Worf's a very good teacher."
+        }
+      ],
+      "location": "Gymnasium"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TROI",
+          "line": "Hello, Will."
+        },
+        {
+          "character": "RIKER",
+          "line": "If you want to be with him, you don't have to ask my permission. It's the look in your eyes. I recognize it. You used to have it for me."
+        },
+        {
+          "character": "TROI",
+          "line": "We've both had relationships with other people. This is different. I didn't know how you'd feel about it."
+        },
+        {
+          "character": "RIKER",
+          "line": "Flattered, sort of."
+        },
+        {
+          "character": "TROI",
+          "line": "This must be very strange for you."
+        },
+        {
+          "character": "RIKER",
+          "line": "Ever since he came on board, I find myself thinking about the choice you and I made."
+        },
+        {
+          "character": "TROI",
+          "line": "Me too."
+        },
+        {
+          "character": "RIKER",
+          "line": "Do me a favor. Be careful."
+        },
+        {
+          "character": "TROI",
+          "line": "Will, I know you and he have had some problems."
+        },
+        {
+          "character": "RIKER",
+          "line": "That's not what I'm talking about. If he had gotten off the planet instead of me, don't you think he would have made the same choices that I made? I just don't want you to be hurt again."
+        }
+      ],
+      "location": "Ten Forward"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "WORF",
+          "line": "Two pair."
+        },
+        {
+          "character": "RIKER",
+          "line": "Full boat, kings over. I'd like to thank you both for your very generous contributions."
+        },
+        {
+          "character": "RIKER",
+          "line": "Come in."
+        },
+        {
+          "character": "RIKER 2",
+          "line": "I thought you'd be alone. Excuse me."
+        },
+        {
+          "character": "RIKER",
+          "line": "Why don't you join us?"
+        },
+        {
+          "character": "DATA",
+          "line": "The game is five card draw, no limit. Ante, please."
+        },
+        {
+          "character": "DATA",
+          "line": "Lieutenant?"
+        },
+        {
+          "character": "RIKER 2",
+          "line": "Three. please."
+        },
+        {
+          "character": "DATA",
+          "line": "Mister Worf?"
+        },
+        {
+          "character": "WORF",
+          "line": "Four."
+        },
+        {
+          "character": "DATA",
+          "line": "Commander."
+        },
+        {
+          "character": "RIKER",
+          "line": "I'll play these."
+        },
+        {
+          "character": "DATA",
+          "line": "Dealer takes two. You control the bet, Lieutenant."
+        },
+        {
+          "character": "RIKER 2",
+          "line": "Fifty."
+        },
+        {
+          "character": "WORF",
+          "line": "Fold."
+        },
+        {
+          "character": "RIKER",
+          "line": "Here's your fifty. And ten more."
+        },
+        {
+          "character": "RIKER 2",
+          "line": "You didn't take any cards. You must be holding something. Why not make it a little sweeter?"
+        },
+        {
+          "character": "RIKER",
+          "line": "No, thanks."
+        },
+        {
+          "character": "RIKER 2",
+          "line": "Playing it safe?"
+        },
+        {
+          "character": "RIKER",
+          "line": "You in?"
+        },
+        {
+          "character": "DATA",
+          "line": "I will call."
+        },
+        {
+          "character": "RIKER 2",
+          "line": "Here's your ten, and it will cost you another one hundred."
+        },
+        {
+          "character": "RIKER",
+          "line": "I've practiced in the mirror too long to be fooled by that face. You're bluffing. Here's your hundred and twenty more."
+        },
+        {
+          "character": "DATA",
+          "line": "Dealer folds."
+        },
+        {
+          "character": "RIKER 2",
+          "line": "I thought if one thing were clear by now, it's that you and I play things a little differently."
+        },
+        {
+          "character": "RIKER",
+          "line": "Why don't we wait and see who comes out on top."
+        },
+        {
+          "character": "RIKER 2",
+          "line": "I thought you were willing to settle for second. Commander."
+        },
+        {
+          "character": "RIKER",
+          "line": "I've never settled for anything in my life. I know what I want, I know what I've got, and you'd be lucky to do as well. Lieutenant."
+        },
+        {
+          "character": "RIKER 2",
+          "line": "Here's your twenty. Three hundred more."
+        },
+        {
+          "character": "RIKER",
+          "line": "Now I know you're bluffing."
+        },
+        {
+          "character": "RIKER 2",
+          "line": "Are you in or not?"
+        },
+        {
+          "character": "RIKER",
+          "line": "Why don't we get this over with? I'll call your three, and I'll raise you anything you've got left. Well?"
+        },
+        {
+          "character": "RIKER 2",
+          "line": "Take it. You always had the better hand, in everything."
+        }
+      ],
+      "location": "Cmdr Riker's quarters"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TROI",
+          "line": "Come in."
+        },
+        {
+          "character": "RIKER 2",
+          "line": "Hi. I'm sorry to just stop by like this but there's something I'd like to talk to you about."
+        },
+        {
+          "character": "RIKER 2",
+          "line": "Captain Picard made has some inquiries. He managed to get me a posting on the Gandhi. And considering how long I've been out of commission, it's an amazing opportunity."
+        },
+        {
+          "character": "TROI",
+          "line": "When would you leave?"
+        },
+        {
+          "character": "RIKER 2",
+          "line": "In about a week."
+        },
+        {
+          "character": "TROI",
+          "line": "I see."
+        },
+        {
+          "character": "RIKER 2",
+          "line": "Deanna. After I've served for six months, I'm eligible to bring family aboard. If we got married"
+        },
+        {
+          "character": "TROI",
+          "line": "You said those exact words to me before you went to serve on the Potemkin."
+        },
+        {
+          "character": "RIKER 2",
+          "line": "I know. I was just held up for a while."
+        },
+        {
+          "character": "TROI",
+          "line": "But if you hadn't been, what would have happened between us?"
+        },
+        {
+          "character": "RIKER 2",
+          "line": "I wouldn't've made the mistake of leaving you. I know that much."
+        },
+        {
+          "character": "TROI",
+          "line": "I don't know if I can believe that. It took me a long time to get over what happened between Commander Riker and me. I don't know that I want to put myself in that position again."
+        },
+        {
+          "character": "RIKER 2",
+          "line": "I would never hurt you, Deanna."
+        },
+        {
+          "character": "TROI",
+          "line": "It's not just that. I've worked hard to make a life for myself on the Enterprise. I'm happy here."
+        },
+        {
+          "character": "RIKER 2",
+          "line": "If the situation were different, I'd stay. But I can't. Not while he's aboard."
+        },
+        {
+          "character": "TROI",
+          "line": "I know."
+        },
+        {
+          "character": "RIKER 2",
+          "line": "Are you saying it's over?"
+        },
+        {
+          "character": "TROI",
+          "line": "No. No. I just don't know if I'm ready to give up my life here. Maybe we both need some time."
+        },
+        {
+          "character": "RIKER 2",
+          "line": "Goodnight."
+        },
+        {
+          "character": "PICARD",
+          "line": "Captain's log, supplemental. The third transport window has opened and the away team is making their final attempt at retrieving the database.",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "Troi's quarters"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "RIKER 2",
+          "line": "Once we restore the servo link, you can shunt the database up to this console. Are you ready, Commander Data?"
+        },
+        {
+          "character": "RIKER",
+          "line": "You're with me, Lieutenant."
+        },
+        {
+          "character": "RIKER 2",
+          "line": "I thought Commander Data's expertise."
+        },
+        {
+          "character": "RIKER",
+          "line": "It doesn't take that much expertise to repair a servo link. You and I can handle it."
+        },
+        {
+          "character": "DATA",
+          "line": "Lieutenant, I am curious about something. If you met a double of yourself, would you have difficulty interacting with him?"
+        },
+        {
+          "character": "WORF",
+          "line": "I think so."
+        },
+        {
+          "character": "DATA",
+          "line": "Why?"
+        },
+        {
+          "character": "WORF",
+          "line": "I am not easy to get along with."
+        },
+        {
+          "character": "DATA",
+          "line": "But Commander Riker and Lieutenant Riker are. Yet they seem to have trouble getting along with each another. I have found that humans value their uniqueness, that sense that they are different from every one else. The existence of a double would preclude that feeling. Could that be the source of the friction?"
+        },
+        {
+          "character": "WORF",
+          "line": "Or perhaps it is more a matter of seeing something in your double. Something you do not like in yourself."
+        }
+      ],
+      "location": "Research station"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "RIKER 2",
+          "line": "This is it. There's the core, over there."
+        },
+        {
+          "character": "RIKER",
+          "line": "You waiting for something?"
+        },
+        {
+          "character": "RIKER 2",
+          "line": "Your orders, sir. How would you like me to get over there, sir?"
+        },
+        {
+          "character": "RIKER",
+          "line": "You've been down here dozens of times. I'm sure you know the best way."
+        },
+        {
+          "character": "RIKER 2",
+          "line": "Yes, sir. I do."
+        },
+        {
+          "character": "RIKER 2",
+          "line": "It's leaking ion radiation."
+        },
+        {
+          "character": "RIKER",
+          "line": "Why didn't you report this?"
+        },
+        {
+          "character": "RIKER 2",
+          "line": "It wasn't here before. This must have just happened recently. If we have to repair this conduit, we won't have time to access that computer core."
+        },
+        {
+          "character": "RIKER",
+          "line": "Scan it now."
+        },
+        {
+          "character": "RIKER 2",
+          "line": "It's working. The radiation levels are dropping to normal."
+        },
+        {
+          "character": "RIKER",
+          "line": "Next time, don't give up so easily."
+        },
+        {
+          "character": "RIKER",
+          "line": "Hang on! Come on, grab on. Come on! Come on, climb! Come on! I'm being pulled in."
+        },
+        {
+          "character": "RIKER 2",
+          "line": "Let go! One of us has to get out of here."
+        },
+        {
+          "character": "RIKER",
+          "line": "Climb! Come on! Climb! Climb!"
+        }
+      ],
+      "location": "Cavern"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "DATA",
+          "line": "They have restored the servo link to the core. We can begin downloading the database."
+        },
+        {
+          "character": "WORF",
+          "line": "Initiating data transfer."
+        },
+        {
+          "character": "PICARD",
+          "line": "Captain's log, stardate 46920.1. We have retrieved the database from Nervala station and are headed for our rendezvous with the Gandhi.",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "Research station"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "RIKER 2",
+          "line": "Come in."
+        },
+        {
+          "character": "TROI",
+          "line": "I hear the Gandhi's going on a terraforming mission to the Lagana Sector."
+        },
+        {
+          "character": "RIKER 2",
+          "line": "That's right. It'll take us four months just to get there."
+        },
+        {
+          "character": "TROI",
+          "line": "I won't be joining you."
+        },
+        {
+          "character": "RIKER 2",
+          "line": "I guess I'm not surprised to hear that."
+        },
+        {
+          "character": "TROI",
+          "line": "I'm just not ready to give up my life here. Not yet."
+        },
+        {
+          "character": "RIKER 2",
+          "line": "Come in."
+        },
+        {
+          "character": "RIKER",
+          "line": "I'm sorry."
+        },
+        {
+          "character": "RIKER 2",
+          "line": "It's all right."
+        },
+        {
+          "character": "RIKER",
+          "line": "I wanted to give you something."
+        },
+        {
+          "character": "RIKER",
+          "line": "My quarters are full of things that I suppose belong to both of us. The least I could do is give you this."
+        },
+        {
+          "character": "RIKER 2",
+          "line": "Thanks."
+        },
+        {
+          "character": "RIKER",
+          "line": "Good luck, Will."
+        },
+        {
+          "character": "RIKER 2",
+          "line": "I actually thought I might go with the name Thomas."
+        },
+        {
+          "character": "TROI",
+          "line": "Your middle name."
+        },
+        {
+          "character": "RIKER",
+          "line": "I guess we really are different. I never really cared for that name."
+        },
+        {
+          "character": "RIKER 2",
+          "line": "Well, I sort of like it. I guess I'd better get going."
+        },
+        {
+          "character": "RIKER 2",
+          "line": "I waited a long time. I guess I can wait a little longer. Take care of her."
+        }
+      ],
+      "location": "Lt. Riker's quarters"
+    }
+  ],
+  "schedule": {
+    "episode": 24,
+    "number": 150,
+    "season": 6
+  },
+  "stardate": "46915.2",
+  "title": "Second Chances"
+}

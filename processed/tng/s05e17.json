@@ -1,0 +1,1582 @@
+{
+  "airdate": 700722000,
+  "scenes": [
+    {
+      "dialogue": [
+        {
+          "character": "PICARD",
+          "line": "Captain's log, stardate 45614.6. We have been contacted by an androgynous race called the J'naii to investigate the mysterious disappearance of one of their shuttlecraft.",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "unknown"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "DATA",
+          "line": "Captain, we are approaching the designated coordinates."
+        },
+        {
+          "character": "PICARD",
+          "line": "On screen. Long range scan, Mister Data."
+        },
+        {
+          "character": "DATA",
+          "line": "Sensors find no evidence of the shuttle anywhere within the star system."
+        },
+        {
+          "character": "SOREN",
+          "line": "It couldn't have traveled outside the system."
+        },
+        {
+          "character": "RIKER",
+          "line": "Mister Data, reconfigure high resolution sweep, radius one million kilometers. Check for any debris."
+        },
+        {
+          "character": "DATA",
+          "line": "Scan shows no debris within that radius."
+        },
+        {
+          "character": "KRITE",
+          "line": "I don't understand it. A shuttle doesn't simply vanish."
+        },
+        {
+          "character": "SOREN",
+          "line": "There has to be an explanation."
+        },
+        {
+          "character": "DATA",
+          "line": "Captain, I am detecting an unusual reading. It appears to be a neutrino emission with no visible source."
+        },
+        {
+          "character": "PICARD",
+          "line": "Explanation?"
+        },
+        {
+          "character": "DATA",
+          "line": "I have none, sir. I recommend we launch a probe."
+        },
+        {
+          "character": "PICARD",
+          "line": "Make it so."
+        },
+        {
+          "character": "WORF",
+          "line": "Probe is launched."
+        },
+        {
+          "character": "DATA",
+          "line": "Sensors show no evidence of any unusual phenomenon."
+        },
+        {
+          "character": "DATA",
+          "line": "The probe is no longer transmitting."
+        },
+        {
+          "character": "SOREN",
+          "line": "What happened? Where did it go?"
+        },
+        {
+          "character": "PICARD",
+          "line": "Captain's log, supplemental. The sudden disappearance of our probe suggests that we may have found the first instance of what is called null space, an anomaly which until now had been only theoretical. Commander Riker has been working around the clock with a team of J'naii specialists to formalize this hypothesis.",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "SOREN",
+          "line": "During the creation of a star system, when clouds of interstellar dust and gas coalesce, turbulent regions of magnetic and gravitational fields may develop. If certain conditions occur, these fields can condense into abnormal pockets of space."
+        },
+        {
+          "character": "RIKER",
+          "line": "We think your system contains one of these null pockets. If we're right, the pocket would absorb electromagnetic energy from anything that entered it."
+        },
+        {
+          "character": "SOREN",
+          "line": "Like a shuttlecraft."
+        },
+        {
+          "character": "RIKER",
+          "line": "Or a probe. Making them powerless."
+        },
+        {
+          "character": "SOREN",
+          "line": "But outside the pocket, all the energy is bent around it, making it naturally cloaked. That's why we cannot see it, and our sensors cannot read it."
+        },
+        {
+          "character": "NOOR",
+          "line": "Is the shuttle still there?"
+        },
+        {
+          "character": "RIKER",
+          "line": "We think so. The shuttle probably wasn't able to sustain its energy, but other than that it wouldn't be damaged."
+        },
+        {
+          "character": "SOREN",
+          "line": "Since our shuttles carry plestorene based backup systems, we think life support would sustain for as long as ten days."
+        },
+        {
+          "character": "NOOR",
+          "line": "Then perhaps our crew has survived."
+        },
+        {
+          "character": "RIKER",
+          "line": "We can send one of our own shuttles, but its energy would also be absorbed. Our Chief Engineer is working on a way to maintain the power reserves long enough to rescue your crew."
+        },
+        {
+          "character": "NOOR",
+          "line": "Commander, we're grateful for your help. Whatever resources we can provide are yours."
+        },
+        {
+          "character": "SOREN",
+          "line": "I've been thinking. When the time comes, I would like to pilot the shuttle."
+        },
+        {
+          "character": "RIKER",
+          "line": "It's a Starfleet craft."
+        },
+        {
+          "character": "SOREN",
+          "line": "I cannot ask you to put yourself in danger to rescue our crew."
+        },
+        {
+          "character": "RIKER",
+          "line": "You can't pilot a shuttle you're not familiar with."
+        },
+        {
+          "character": "SOREN",
+          "line": "I happen to be a good pilot"
+        },
+        {
+          "character": "RIKER",
+          "line": "I happen to be a good pilot, too. And I know my way around the Starfleet shuttle. So what if we team up?"
+        },
+        {
+          "character": "SOREN",
+          "line": "When can we go over the shuttle flight operations?"
+        },
+        {
+          "character": "RIKER",
+          "line": "Right now."
+        }
+      ],
+      "location": "Civic chamber"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "SOREN",
+          "line": "Is this the one?"
+        },
+        {
+          "character": "RIKER",
+          "line": "This is it. Short-range craft, two twelve hundred fifty millicochrane warp engines."
+        },
+        {
+          "character": "SOREN",
+          "line": "Looks like microfusion thrusters."
+        },
+        {
+          "character": "RIKER",
+          "line": "Right."
+        },
+        {
+          "character": "SOREN",
+          "line": "Armament?"
+        },
+        {
+          "character": "RIKER",
+          "line": "None, usually. This one's been fitted with two type-four phaser emitters. We'll use those to chart the null space."
+        },
+        {
+          "character": "SOREN",
+          "line": "Chart it?"
+        },
+        {
+          "character": "RIKER",
+          "line": "Mister La Forge wants to get an idea of the size of the pocket. He thinks the rate of energy absorption is linked to its size."
+        },
+        {
+          "character": "SOREN",
+          "line": "I'm not sure how we go about mapping something we can't see."
+        },
+        {
+          "character": "RIKER",
+          "line": "Well, that's where the emitters come in. We shoot out a series of photon pulses into the pocket and chart where each one disappears. From that we should get a fairly complete outline."
+        },
+        {
+          "character": "SOREN",
+          "line": "Let's take a look at the controls."
+        }
+      ],
+      "location": "Shuttlebay"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "RIKER",
+          "line": "Later we'll try a flight simulation. Right now let's do a systems review. I'll talk you through it."
+        },
+        {
+          "character": "SOREN",
+          "line": "Let me try it. Propulsion system, transfer conduits. Where's the schematic reactor assembly? Oh, there it is. Engine nacelles. There's nothing here that's unfamiliar. Navigational deflector, redundant graviton polarity source generators."
+        },
+        {
+          "character": "RIKER",
+          "line": "You handle these controls like you grew up in a shuttle."
+        },
+        {
+          "character": "SOREN",
+          "line": "I did. My parents were pilots. I was flying with them before I could walk. And as soon as I was old enough, I entered flight school. Krite was my instructor."
+        },
+        {
+          "character": "RIKER",
+          "line": "He had a good student."
+        },
+        {
+          "character": "SOREN",
+          "line": "He? Commander, there are no he's or she's in a species without gender."
+        },
+        {
+          "character": "RIKER",
+          "line": "Okay. For two days I've been trying to construct sentences without personal pronouns. Now I give up. What should I use? It? To us, that's rude."
+        },
+        {
+          "character": "SOREN",
+          "line": "We use a pronoun which is neutral. I do not think there is really a translation."
+        },
+        {
+          "character": "RIKER",
+          "line": "Then I'll just have to muddle through. So forgive me if a stray he or she slips by, okay?"
+        },
+        {
+          "character": "SOREN",
+          "line": "Well, if that's the systems review, I don't see any problem. What's next?"
+        },
+        {
+          "character": "RIKER",
+          "line": "Lunch."
+        }
+      ],
+      "location": "Shuttlecraft"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "SOREN",
+          "line": "What is it?"
+        },
+        {
+          "character": "RIKER",
+          "line": "Split pea soup. It's my father's recipe. I had it programd into the replicators. Well?"
+        },
+        {
+          "character": "SOREN",
+          "line": "Unusual, but I think I like it."
+        },
+        {
+          "character": "RIKER",
+          "line": "It's very healthy. Helps to keep you warm on cold Alaskan nights."
+        },
+        {
+          "character": "SOREN",
+          "line": "We prefer to stay warm by sleeping with a friend."
+        },
+        {
+          "character": "RIKER",
+          "line": "I see."
+        },
+        {
+          "character": "SOREN",
+          "line": "Not to mate. Just to sleep together for warmth."
+        },
+        {
+          "character": "RIKER",
+          "line": "Still sounds better than pea soup."
+        },
+        {
+          "character": "SOREN",
+          "line": "We are puzzling to you, aren't we?"
+        },
+        {
+          "character": "RIKER",
+          "line": "A little. It's hard to grasp the idea of no gender."
+        },
+        {
+          "character": "SOREN",
+          "line": "It's just as hard for us to understand the strange division in your species. Males and females. You are male. Tell me about males. What is it that makes you different from females?"
+        },
+        {
+          "character": "RIKER",
+          "line": "Snips and snails and puppy dog tails?"
+        },
+        {
+          "character": "SOREN",
+          "line": "You have a dog's tail?"
+        },
+        {
+          "character": "RIKER",
+          "line": "It's an old nursery rhyme. Girls are made from sugar and spice, and boys are made from snips and snails."
+        },
+        {
+          "character": "SOREN",
+          "line": "That makes it sound better to be female."
+        },
+        {
+          "character": "RIKER",
+          "line": "It's an old-fashioned way of looking at the sexes. Not to say that there's no real difference between them. Physically, men are bigger, stronger in the upper body. We have different sexual organs. Men can't bear young."
+        },
+        {
+          "character": "SOREN",
+          "line": "And what about feelings, or emotional attitudes? Are they different?"
+        },
+        {
+          "character": "RIKER",
+          "line": "Most people think so. But that's the kind of question that would take a lifetime to answer. Let me ask you, what's it like on a planet where the people have no gender?"
+        },
+        {
+          "character": "SOREN",
+          "line": "I'm afraid I don't understand."
+        },
+        {
+          "character": "RIKER",
+          "line": "Well, who leads when you dance? If you dance."
+        },
+        {
+          "character": "SOREN",
+          "line": "We do, and whoever's taller leads."
+        },
+        {
+          "character": "RIKER",
+          "line": "Without the battle of the sexes you probably don't have as many arguments."
+        },
+        {
+          "character": "SOREN",
+          "line": "Just because we don't have gender doesn't mean we don't have conflicts. We're very strong-minded. We love a good fight."
+        },
+        {
+          "character": "RIKER",
+          "line": "From the sound of it there's not that much difference between our species."
+        },
+        {
+          "character": "SOREN",
+          "line": "Maybe not. What kind of woman do you find attractive?"
+        },
+        {
+          "character": "RIKER",
+          "line": "I like one who's intelligent and sure of herself, who I can talk with and get something back. But the most important thing of all? She has to laugh at my jokes."
+        },
+        {
+          "character": "SOREN",
+          "line": "Tell me, is that the kind of woman that all human males prefer?"
+        },
+        {
+          "character": "RIKER",
+          "line": "Not at all. Some like quiet, demure women. Others prefer a lot of energy. Some only respond to physical attractiveness. Others couldn't care less. There are no rules."
+        },
+        {
+          "character": "SOREN",
+          "line": "You make it sound very complex."
+        },
+        {
+          "character": "RIKER",
+          "line": "Believe me, it is."
+        },
+        {
+          "character": "SOREN",
+          "line": "Well, perhaps it is that complexity which makes differences in the sexes so interesting."
+        },
+        {
+          "character": "KRITE",
+          "line": "Good evening, Commander."
+        },
+        {
+          "character": "RIKER",
+          "line": "Good evening."
+        },
+        {
+          "character": "SOREN",
+          "line": "Please take my place, Krite. I have to be going. Thank you for going over the flight protocols, Commander. It was very helpful."
+        },
+        {
+          "character": "PICARD",
+          "line": "Captain's log, supplemental. Commander Riker and the J'naii pilot have set out to chart the null space pocket. If they are successful, we can then proceed with a rescue attempt.",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "Ten Forward"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "SOREN",
+          "line": "I've illuminated the delta four grid map. We'll start there and expand."
+        },
+        {
+          "character": "RIKER",
+          "line": "Stand by, forward phaser array."
+        },
+        {
+          "character": "SOREN",
+          "line": "Pulse vanished at delta four point two by point three."
+        },
+        {
+          "character": "RIKER",
+          "line": "Firing second burst."
+        },
+        {
+          "character": "SOREN",
+          "line": "Delta four point four by point five."
+        },
+        {
+          "character": "RIKER",
+          "line": "This is working. Initiating computer task hand-off."
+        },
+        {
+          "character": "SOREN",
+          "line": "Commander, tell me about your sexual organs."
+        },
+        {
+          "character": "RIKER",
+          "line": "Er."
+        },
+        {
+          "character": "SOREN",
+          "line": "Is that an uncomfortable subject for humans?"
+        },
+        {
+          "character": "RIKER",
+          "line": "No, but it doesn't tend to be a topic of casual conversation."
+        },
+        {
+          "character": "SOREN",
+          "line": "I'm interested in your mating practices. What is involved with two sexes?"
+        },
+        {
+          "character": "RIKER",
+          "line": "Correcting course. Zero two one mark zero."
+        },
+        {
+          "character": "SOREN",
+          "line": "Mating?"
+        },
+        {
+          "character": "RIKER",
+          "line": "Right. Well, it's pretty simple. Men inseminate the women. Women carry the baby."
+        },
+        {
+          "character": "SOREN",
+          "line": "Our fetuses are incubated in fibrous husks, which the parents inseminate. From what we know of other species, our method is less risky and less painful."
+        },
+        {
+          "character": "RIKER",
+          "line": "And less enjoyable."
+        },
+        {
+          "character": "SOREN",
+          "line": "Less enjoyable?"
+        },
+        {
+          "character": "RIKER",
+          "line": "For humans, the sexual act brings a closeness and intimacy. It can be a very pleasurable experience. Inseminating a husk."
+        },
+        {
+          "character": "SOREN",
+          "line": "That's just the last step. Mating is a long ritual for us, full of variety and invention. I assure you, it is extremely pleasurable."
+        },
+        {
+          "character": "RIKER",
+          "line": "I'm picking up a neutrino emission from within the null space."
+        },
+        {
+          "character": "SOREN",
+          "line": "That may be coming from our shuttle. I'll note these coordinates."
+        },
+        {
+          "character": "SOREN",
+          "line": "I wonder."
+        },
+        {
+          "character": "RIKER",
+          "line": "What?"
+        },
+        {
+          "character": "SOREN",
+          "line": "If a human and a J'naii would be sexually compatible."
+        },
+        {
+          "character": "RIKER",
+          "line": "I don't know."
+        },
+        {
+          "character": "SOREN",
+          "line": "Of course it would never be permitted."
+        },
+        {
+          "character": "RIKER",
+          "line": "Why not?"
+        },
+        {
+          "character": "SOREN",
+          "line": "The idea of gender. It is offensive to my people. You see, long ago we had two sexes, as you do. But we evolved into a higher form. I don't mean to sound insulting, but on my planet we have been taught that gender is primitive."
+        },
+        {
+          "character": "RIKER",
+          "line": "Primitive?"
+        },
+        {
+          "character": "SOREN",
+          "line": "Less evolved."
+        },
+        {
+          "character": "RIKER",
+          "line": "Maybe so, but sometimes there's a lot to be said for an experience that's primitive."
+        },
+        {
+          "character": "SOREN",
+          "line": "Delta five grid map is fully plotted."
+        },
+        {
+          "character": "RIKER",
+          "line": "Adjusting course. Zero two nine mark zero."
+        },
+        {
+          "character": "RIKER",
+          "line": "The port engine's down."
+        },
+        {
+          "character": "SOREN",
+          "line": "Reducing power in the starboard nacelle."
+        },
+        {
+          "character": "RIKER",
+          "line": "That's not enough. I have to activate the maneuvering thrusters."
+        },
+        {
+          "character": "SOREN",
+          "line": "Thrusters aren't responding. I'll try to reroute the firing sequence."
+        },
+        {
+          "character": "RIKER",
+          "line": "Inertial dampers are failing. Hang on!"
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Enterprise to shuttle, do you read me?",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "RIKER",
+          "line": "Affirmative. We've lost an engine."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "We'll try to get a tractor beam on you.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "RIKER",
+          "line": "The sooner the better. Enterprise, we have an injury. Transport Soren directly to Sickbay."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Right away, Commander.",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "Shuttlecraft"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "CRUSHER",
+          "line": "It's just a mild concussion. You're going to be fine. This will reduce the inflammation."
+        },
+        {
+          "character": "SOREN",
+          "line": "Doctor, you are female."
+        },
+        {
+          "character": "CRUSHER",
+          "line": "Yes."
+        },
+        {
+          "character": "SOREN",
+          "line": "Forgive me, I do not mean to be rude, but I'm curious. What is it like?"
+        },
+        {
+          "character": "CRUSHER",
+          "line": "Well, it's just the way I am. I've never really thought about what it's like."
+        },
+        {
+          "character": "SOREN",
+          "line": "I've noticed you tend to have longer hair, and you arrange it more elaborately. And you apply color to your bodies."
+        },
+        {
+          "character": "CRUSHER",
+          "line": "Color?"
+        },
+        {
+          "character": "SOREN",
+          "line": "You put color on your mouths, and your eyes, your cheeks, your fingernails. The men don't."
+        },
+        {
+          "character": "CRUSHER",
+          "line": "That's true."
+        },
+        {
+          "character": "SOREN",
+          "line": "Then it is up to women to attract the men."
+        },
+        {
+          "character": "CRUSHER",
+          "line": "Oh, no. Men want to be attractive too, believe me. They just go about it differently."
+        },
+        {
+          "character": "SOREN",
+          "line": "No color."
+        },
+        {
+          "character": "CRUSHER",
+          "line": "No color. They like to pretend they're not doing anything to attract a woman, even when it's the most important thing on their minds."
+        },
+        {
+          "character": "SOREN",
+          "line": "This is very confusing. Then, are women considered more superior, or are men?"
+        },
+        {
+          "character": "CRUSHER",
+          "line": "Neither. In the past, women were often considered weak and inferior. But that hasn't been true for a long time."
+        },
+        {
+          "character": "CRUSHER",
+          "line": "Will, your co-pilot is going to be fine. The injury was minor."
+        },
+        {
+          "character": "RIKER",
+          "line": "I'm glad to hear it."
+        },
+        {
+          "character": "SOREN",
+          "line": "I'm afraid you're not rid of me yet, Commander. I will be able to complete the mission."
+        },
+        {
+          "character": "RIKER",
+          "line": "Glad you feel better."
+        },
+        {
+          "character": "SOREN",
+          "line": "What happened? What made the shuttle go into a spin?"
+        },
+        {
+          "character": "RIKER",
+          "line": "The port nacelle must have nipped one of the protrusions from the null pocket and shut it down."
+        },
+        {
+          "character": "SOREN",
+          "line": "Are we still on schedule, then?"
+        },
+        {
+          "character": "RIKER",
+          "line": "That depends on how you're doing."
+        },
+        {
+          "character": "SOREN",
+          "line": "I'm fine. We should go check the port engine."
+        },
+        {
+          "character": "RIKER",
+          "line": "Whoa. Maybe we should get the doctor's opinion first."
+        },
+        {
+          "character": "SOREN",
+          "line": "Doctor?"
+        },
+        {
+          "character": "CRUSHER",
+          "line": "I don't see any problem. But if you feel any symptoms, headache, dizziness, come back."
+        },
+        {
+          "character": "SOREN",
+          "line": "You have my word."
+        }
+      ],
+      "location": "Sickbay"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TROI",
+          "line": "All right. This hand, the game is Federation Day."
+        },
+        {
+          "character": "WORF",
+          "line": "What is that?"
+        },
+        {
+          "character": "TROI",
+          "line": "Well, the Federation was founded in Twenty One Sixty One, so, twos, sixes, and aces are wild."
+        },
+        {
+          "character": "WORF",
+          "line": "That is a woman's game."
+        },
+        {
+          "character": "TROI",
+          "line": "Oh? Why is that?"
+        },
+        {
+          "character": "WORF",
+          "line": "All those wild cards. They support a weak hand. A man's game has no wild cards."
+        },
+        {
+          "character": "CRUSHER",
+          "line": "Let me get this straight. Are you saying it's a woman's game because women are weak and need more help?"
+        },
+        {
+          "character": "WORF",
+          "line": "Yes."
+        },
+        {
+          "character": "CRUSHER",
+          "line": "And just this afternoon I was insisting to one of the J'naii that those attitudes were but a distant memory."
+        },
+        {
+          "character": "WORF",
+          "line": "The J'naii. They bother me."
+        },
+        {
+          "character": "TROI",
+          "line": "Why, Worf?"
+        },
+        {
+          "character": "WORF",
+          "line": "They just do. They're all alike. No males, no females."
+        },
+        {
+          "character": "TROI",
+          "line": "Well I'm sure we're just as strange to them."
+        },
+        {
+          "character": "CRUSHER",
+          "line": "Well one of them seems to be overcoming the differences, at least in regards to one of us."
+        },
+        {
+          "character": "WORF",
+          "line": "What are you saying, Doctor?"
+        },
+        {
+          "character": "CRUSHER",
+          "line": "I could be wrong, but I get the definite impression that Soren is attracted to Commander Riker."
+        },
+        {
+          "character": "WORF",
+          "line": "A human and a J'naii? Impossible."
+        },
+        {
+          "character": "DATA",
+          "line": "Why?"
+        },
+        {
+          "character": "TROI",
+          "line": "Good question. Worf?"
+        },
+        {
+          "character": "WORF",
+          "line": "With all these wild cards, it is difficult to know exactly what is in my hand. However, I will open with fifty."
+        }
+      ],
+      "location": "Data's quarters"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "RIKER",
+          "line": "The portable transporter array is in. When we get into null space, we'll need to initialize it before we can transport the J'naii crew to this shuttle. But there should still be enough power left to beam all of us back to the Enterprise."
+        },
+        {
+          "character": "SOREN",
+          "line": "Is the buffer field generator installled?"
+        },
+        {
+          "character": "RIKER",
+          "line": "Not yet. Geordi thinks that'll be ready by oh eight hundred hours tomorrow. But before that, we should see if we can balance this engine. Can you access the starboard manifold thrust?"
+        },
+        {
+          "character": "SOREN",
+          "line": "There."
+        },
+        {
+          "character": "RIKER",
+          "line": "Set the arc at six point three. I'll optimize the plasma flow."
+        },
+        {
+          "character": "SOREN",
+          "line": "Commander, I'd like to tell you something. Something that's not easy to say."
+        },
+        {
+          "character": "RIKER",
+          "line": "What's that?"
+        },
+        {
+          "character": "SOREN",
+          "line": "I find you attractive. I'm taking a terrible risk telling you that. It means revealing something to you, something that, if it were known on my planet, would be very dangerous for me. Occasionally, among my people, there are a few who are born different, who are throwbacks from the era when we all had gender. Some have strong inclinations to maleness, and some have urges to be female. I am one of the latter."
+        },
+        {
+          "character": "RIKER",
+          "line": "I have to admit I had a feeling you were different."
+        },
+        {
+          "character": "SOREN",
+          "line": "I was hoping you would. But in front of Krite and the others, I must be careful not to reveal myself."
+        },
+        {
+          "character": "RIKER",
+          "line": "Why?"
+        },
+        {
+          "character": "SOREN",
+          "line": "On our world these feelings are forbidden. Those who are diskovered are shamed and ridiculed, and only by undergoing psychotectic therapy and having all elements of gender eliminated can they become accepted into society again. Those of us who have these urges live secret and guarded lives. We seek each other out, always hiding, always terrified of being diskovered."
+        },
+        {
+          "character": "RIKER",
+          "line": "How long have you known that you were like this?"
+        },
+        {
+          "character": "SOREN",
+          "line": "I've known I was different all my life. But I didn't understand how or why until I was older."
+        },
+        {
+          "character": "RIKER",
+          "line": "And when you realized, what then?"
+        },
+        {
+          "character": "SOREN",
+          "line": "I remember when I was very young, before I knew what I was, there was a rumor in my school that one of the students preferred a gender, in that case, male. The children started making fun of him, and every day they were more cruel They could tell he was afraid and somehow that seemed to encourage them. One morning in class, he appeared, bleeding and in ripped clothes. He said he had fallen down. And of course the school authorities found out and took him away, and gave him psychotectic treatments. When he came back, he stood in front of the whole school and told us how happy he was now that he had been cured. After that, I realized how dangerous it was to be different. And once I got older, and knew what I was, I was terrified. I have had to live with that fear ever since."
+        },
+        {
+          "character": "RIKER",
+          "line": "Do you have relationships with others?"
+        },
+        {
+          "character": "SOREN",
+          "line": "Yes, with those who have diskovered they are male. I have had to live a life of pretense and lies, but with you I can be honest. Please, don't say anything. Just think about it."
+        }
+      ],
+      "location": "Shuttlecraft"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "LAFORGE",
+          "line": "That's it, Commander, everything checks out. The energy buffer is installled and functioning. I estimate it should reduce the power drain to your systems by about forty percent."
+        },
+        {
+          "character": "RIKER",
+          "line": "Any guess how long we'll have?"
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Lets just say you don't want to waste any time once you get in there. You'll have to give him continuous readouts on energy consumption. I can't even predict if the drain will be at a constant rate."
+        },
+        {
+          "character": "SOREN",
+          "line": "I understand."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Then that's it. Commander, I'll monitor you as far as I can, but once you get inside that pocket you're on your own."
+        },
+        {
+          "character": "RIKER",
+          "line": "We don't have any idea what condition the shuttle crew is in, so we'll all beam directly to Sickbay."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "I'll notify Doctor Crusher to be standing by."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "La Forge to Bridge."
+        },
+        {
+          "character": "PICARD",
+          "line": "Picard here.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "LAFORGE",
+          "line": "We're ready to initiate shuttle pre-launch sequence."
+        }
+      ],
+      "location": "Shuttlebay"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "PICARD",
+          "line": "Proceed, Mister Data."
+        },
+        {
+          "character": "DATA",
+          "line": "Initiating pre-launch sequence."
+        },
+        {
+          "character": "RIKER",
+          "line": "Request flight clearance.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "DATA",
+          "line": "Clearance is granted. The shuttle is under way, sir."
+        },
+        {
+          "character": "PICARD",
+          "line": "Good hunting, Commander."
+        },
+        {
+          "character": "RIKER",
+          "line": "Thank you, sir. See you for dinner.",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "SOREN",
+          "line": "Heading confirmed. Energy readings are normal, with power reserves stabilized at one hundred percent."
+        },
+        {
+          "character": "RIKER",
+          "line": "Acknowledged."
+        },
+        {
+          "character": "SOREN",
+          "line": "It's dead ahead, approximately fifty kilometers."
+        },
+        {
+          "character": "RIKER",
+          "line": "Riker to Enterprise, we're taking her in."
+        },
+        {
+          "character": "RIKER",
+          "line": "Riker to Enterprise? Riker to Enterprise."
+        },
+        {
+          "character": "SOREN",
+          "line": "Power reserves are down to eighty four percent."
+        },
+        {
+          "character": "RIKER",
+          "line": "Look. Try hailing them."
+        },
+        {
+          "character": "SOREN",
+          "line": "Calling the Taris Murn. Do you read me?"
+        },
+        {
+          "character": "RIKER",
+          "line": "Getting sensor readings. They're unconscious but they're alive. Stand by. I'm going to transport them over here."
+        },
+        {
+          "character": "SOREN",
+          "line": "Power reserves at sixty eight percent and dropping."
+        },
+        {
+          "character": "RIKER",
+          "line": "The null space must be affecting the annular confinement beam."
+        },
+        {
+          "character": "SOREN",
+          "line": "We used ten megajoules with that attempt. We're down to thirty four percent of reserves."
+        },
+        {
+          "character": "RIKER",
+          "line": "We can give it one more try. More than that, we won't have enough power to get ourselves out of here."
+        },
+        {
+          "character": "SOREN",
+          "line": "They need medical attention quickly."
+        },
+        {
+          "character": "RIKER",
+          "line": "Okay. Stand by to transport to the Enterprise. Here we go."
+        },
+        {
+          "character": "RIKER",
+          "line": "Energy consumption?"
+        },
+        {
+          "character": "SOREN",
+          "line": "We're down to nine percent. We don't have enough to get back."
+        },
+        {
+          "character": "RIKER",
+          "line": "If we just sit here, we'll lose all of our systems within an hour, including life support. Okay, I'm rerouting the propulsion system to the transporter. Re-channel the navigation systems. Let's transfer every microjoule of energy we've got. Sensors, life support. This might give us one last shot."
+        },
+        {
+          "character": "SOREN",
+          "line": "But if we use an energy shift of that size, it'll overload the phase compensators. The shuttle"
+        },
+        {
+          "character": "RIKER",
+          "line": "Will explode. But if we stay here, we're dead anyway. Maximum energy levels, five seconds. See you in a minute."
+        }
+      ],
+      "location": "Shuttlecraft"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "CRUSHER",
+          "line": "They've been oxygen deprived. There doesn't seem to be any significant damage. Prepare some dexalin."
+        },
+        {
+          "character": "MEDIC",
+          "line": "Yes, Doctor."
+        },
+        {
+          "character": "KRITE",
+          "line": "Commander, thank you."
+        },
+        {
+          "character": "RIKER",
+          "line": "Your colleague Soren was very helpful."
+        },
+        {
+          "character": "KRITE",
+          "line": "Captain, would you all join us this evening? We would like to express our gratitude."
+        },
+        {
+          "character": "PICARD",
+          "line": "We'd be happy to."
+        },
+        {
+          "character": "KRITE",
+          "line": "Noor will be eager to get a first hand report. We should return to the surface."
+        },
+        {
+          "character": "SOREN",
+          "line": "I will see you later tonight, Commander."
+        }
+      ],
+      "location": "Sickbay"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "SOREN",
+          "line": "There you are, Commander. I wondered what had happened to our guest of honor."
+        },
+        {
+          "character": "RIKER",
+          "line": "I just needed some air. I can only take so much of these social functions, and then I need to breathe a little."
+        },
+        {
+          "character": "SOREN",
+          "line": "I would think you had attended so many affairs like this that it would become second nature to you."
+        },
+        {
+          "character": "RIKER",
+          "line": "I was raised outdoors. I'm never been very comfortable in crowded rooms."
+        },
+        {
+          "character": "SOREN",
+          "line": "What do you think of our planet? Isn't it beautiful?"
+        },
+        {
+          "character": "RIKER",
+          "line": "Yes, it is. It's beautiful."
+        },
+        {
+          "character": "SOREN",
+          "line": "We have many varieties of plant life. Perhaps you would like to inspect some of them?"
+        },
+        {
+          "character": "RIKER",
+          "line": "Yes, I would. I've always been interested in exobotany."
+        },
+        {
+          "character": "SOREN",
+          "line": "Please, let me take you on a tour."
+        },
+        {
+          "character": "RIKER",
+          "line": "Thank you. It's kind of you."
+        }
+      ],
+      "location": "Courtyard"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "SOREN",
+          "line": "One of my favorites is this menellen tree. The leaves first turn pure white, and then blue, when the weather gets cold. This is called a falla bush. It produces a fragrant flower on only one day of the year."
+        },
+        {
+          "character": "PICARD",
+          "line": "Captain's log, stardate 45620.4. In the hope that a detailed map of null space will prevent the loss of other ships, we remain in orbit of J'naii, charting the anomaly.",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "Woods"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TROI",
+          "line": "Come in. Hello, Will."
+        },
+        {
+          "character": "RIKER",
+          "line": "What's all this?"
+        },
+        {
+          "character": "TROI",
+          "line": "Wonderful things. My mother sent me a box that belonged to one of my father's ancestors. It was stored on Earth and just recently turned up."
+        },
+        {
+          "character": "RIKER",
+          "line": "Do you know who any of these people are?"
+        },
+        {
+          "character": "TROI",
+          "line": "No. Some of the pictures have names on, but most of them don't. I look at these faces and I wonder who they are and if they could be related to me."
+        },
+        {
+          "character": "RIKER",
+          "line": "This one looks like you. Deanna, I have something on my mind. I had to see you."
+        },
+        {
+          "character": "TROI",
+          "line": "Has something happened?"
+        },
+        {
+          "character": "RIKER",
+          "line": "I've met someone. Someone who's becoming important to me."
+        },
+        {
+          "character": "TROI",
+          "line": "Soren."
+        },
+        {
+          "character": "RIKER",
+          "line": "Yes. You're my friend. I thought, I don't know, I thought I should tell you."
+        },
+        {
+          "character": "TROI",
+          "line": "I'm glad you did."
+        },
+        {
+          "character": "RIKER",
+          "line": "Nothing will change between us, will it?"
+        },
+        {
+          "character": "TROI",
+          "line": "Of course it will. All relationships are constantly changing. But we'll still be friends, maybe better friends. You're a part of my life, and I'm a part of yours. That much will always be true."
+        }
+      ],
+      "location": "Troi's quarters"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "RIKER",
+          "line": "Hello. I'm here to see Soren."
+        },
+        {
+          "character": "KRITE",
+          "line": "I know."
+        },
+        {
+          "character": "RIKER",
+          "line": "We had an appointment. We were going to diskuss"
+        },
+        {
+          "character": "KRITE",
+          "line": "I don't think so, Commander."
+        },
+        {
+          "character": "RIKER",
+          "line": "Excuse me?"
+        },
+        {
+          "character": "KRITE",
+          "line": "We know about the two of you. We know what you're doing."
+        },
+        {
+          "character": "RIKER",
+          "line": "Where is Soren?"
+        },
+        {
+          "character": "KRITE",
+          "line": "We're going to make sure it doesn't happen again."
+        },
+        {
+          "character": "RIKER",
+          "line": "Answer me. Where is Soren?"
+        },
+        {
+          "character": "KRITE",
+          "line": "In custody, and there's nothing you can do about it."
+        },
+        {
+          "character": "RIKER",
+          "line": "The hell there isn't."
+        }
+      ],
+      "location": "Guest quarters"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "NOOR",
+          "line": "You are aware of the charges against you?"
+        },
+        {
+          "character": "SOREN",
+          "line": "Yes."
+        },
+        {
+          "character": "NOOR",
+          "line": "Do you intend to dispute them? Well? What is your response?"
+        },
+        {
+          "character": "NOOR",
+          "line": "Commander Riker, these proceedings are closed to everyone."
+        },
+        {
+          "character": "RIKER",
+          "line": "I think I just opened them."
+        },
+        {
+          "character": "NOOR",
+          "line": "Sir, this is a private matter. We are grateful for your recent help, but that gives you no right to interfere with our personal concerns."
+        },
+        {
+          "character": "RIKER",
+          "line": "I want you to know what really happened. It's all my fault. I was attracted to Soren. I pursued. I insisted. I didn't understand your ways until she explained them to me and rejected me. Nothing happened between us. I ask your forgiveness. I behaved inappropriately."
+        },
+        {
+          "character": "NOOR",
+          "line": "Is this true?"
+        },
+        {
+          "character": "SOREN",
+          "line": "No."
+        },
+        {
+          "character": "RIKER",
+          "line": "Soren."
+        },
+        {
+          "character": "SOREN",
+          "line": "I am tired of lies. I am female. I was born that way. I have had those feelings, those longings, all of my life. It is not unnatural. I am not sick because I feel this way. I do not need to be helped. I do not need to be cured. What I need, and what all of those who are like me need, is your understanding and your compassion. We have not injured you in any way. And yet, we are scorned and attacked. And all because we are different. What we do is no different from what you do. We talk and laugh. We complain about work and we wonder about growing old. We talk about our families, and we worry about the future. And we cry with each other when things seem hopeless. All of the loving things that you do with each other, that is what we do. And for that we are called misfits and deviants and criminals. What right do you have to punish us? What right do you have to change us? What makes you think you can dictate how people love each other?"
+        },
+        {
+          "character": "NOOR",
+          "line": "I congratulate you, Soren. Your decision to admit your perversion makes it much more likely that we can help you."
+        },
+        {
+          "character": "RIKER",
+          "line": "Wait, wait, wait. You don't have to do this."
+        },
+        {
+          "character": "NOOR",
+          "line": "Commander?"
+        },
+        {
+          "character": "RIKER",
+          "line": "Let me take her with me. She can go back to the Enterprise. We would give her asylum. You would never have to see her again. That would solve the problem, wouldn't it? You'd be rid of her. She would never be able to influence anyone again."
+        },
+        {
+          "character": "NOOR",
+          "line": "Commander, after Soren's diatribe, you must think that we are a cruel, repressive people. Nothing could be further from the truth."
+        },
+        {
+          "character": "RIKER",
+          "line": "I'm just trying to find a solution that would satisfy everyone."
+        },
+        {
+          "character": "NOOR",
+          "line": "We are concerned about our citizens. We take our obligations to them seriously. Soren is sick, and sick people want to get well."
+        },
+        {
+          "character": "RIKER",
+          "line": "Did it occur to you that she might like to stay the way she is?"
+        },
+        {
+          "character": "NOOR",
+          "line": "You don't understand. We have a very high success rate in treating deviants like this. And without exception, they become happier people after their treatment, and grateful that we care enough to cure them. You see, Commander, on this world, everyone wants to be normal."
+        },
+        {
+          "character": "RIKER",
+          "line": "She is."
+        },
+        {
+          "character": "NOOR",
+          "line": "Take Soren to quarters. Treatment will begin tomorrow."
+        },
+        {
+          "character": "RIKER",
+          "line": "Don't do this. Soren!"
+        },
+        {
+          "character": "NOOR",
+          "line": "No more, Commander."
+        },
+        {
+          "character": "RIKER",
+          "line": "Riker to Enterprise. One to transport."
+        }
+      ],
+      "location": "Civic chamber"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "RIKER",
+          "line": "I can't just leave her there. They'll give her these psychotectic treatments. I don't know what to do."
+        },
+        {
+          "character": "PICARD",
+          "line": "Well, I could talk to Noor. Perhaps there's a way to work something out."
+        },
+        {
+          "character": "RIKER",
+          "line": "Sir, their minds are set. They don't want to hear another alternative."
+        },
+        {
+          "character": "PICARD",
+          "line": "Then I'm not sure that there's much that we can do."
+        },
+        {
+          "character": "RIKER",
+          "line": "There has to be. My relationship with Soren is not trivial. She's very important to me. It's my fault that this happened. I have to help her."
+        },
+        {
+          "character": "PICARD",
+          "line": "Will, if you've come here for sanction to take matters into your own hands, I can't give it to you."
+        },
+        {
+          "character": "RIKER",
+          "line": "I know that, but I have to do something."
+        },
+        {
+          "character": "PICARD",
+          "line": "Interfering in the internal matters of the J'naii is prohibited by the Prime Directive."
+        },
+        {
+          "character": "RIKER",
+          "line": "I'm aware of that."
+        },
+        {
+          "character": "PICARD",
+          "line": "If you violate it, you may jeopardizing your career. Starfleet doesn't take these matters lightly, Will. I can't defend you if you go too far. Do you understand that?"
+        },
+        {
+          "character": "RIKER",
+          "line": "You've made yourself very clear, sir."
+        },
+        {
+          "character": "PICARD",
+          "line": "Don't risk everything you've worked for."
+        },
+        {
+          "character": "RIKER",
+          "line": "Thank you. May I be excused now?"
+        }
+      ],
+      "location": "Ready room"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "RIKER",
+          "line": "Who is it?"
+        },
+        {
+          "character": "WORF",
+          "line": "Lieutenant Worf.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "RIKER",
+          "line": "Come in."
+        },
+        {
+          "character": "WORF",
+          "line": "Commander, I have the plan for deploying warning buoys around the null space."
+        },
+        {
+          "character": "RIKER",
+          "line": "Fine. Leave it, I'll take a look at it later."
+        },
+        {
+          "character": "WORF",
+          "line": "Yes, sir."
+        },
+        {
+          "character": "RIKER",
+          "line": "Thank you. You're dismissed."
+        },
+        {
+          "character": "WORF",
+          "line": "Commander, I am aware of what transpired on the planet surface. Are you by any chance considering an unannounced visit? I will go with you."
+        },
+        {
+          "character": "RIKER",
+          "line": "Lieutenant."
+        },
+        {
+          "character": "WORF",
+          "line": "Sir, you are my commanding officer. If you order me to stay on board, I will obey. But I ask you not to give that order. A warrior does not let a friend face danger alone."
+        }
+      ],
+      "location": "Riker's quarters"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "RIKER",
+          "line": "Something's happening. They're leaving."
+        },
+        {
+          "character": "RIKER",
+          "line": "Okay. Excuse me. I need to speak to her alone for a moment."
+        },
+        {
+          "character": "SOREN",
+          "line": "Wait."
+        },
+        {
+          "character": "RIKER",
+          "line": "Don't worry. We'll be out of here in a minute."
+        },
+        {
+          "character": "SOREN",
+          "line": "Please. don't."
+        },
+        {
+          "character": "RIKER",
+          "line": "All right, 1e're almost there."
+        },
+        {
+          "character": "SOREN",
+          "line": "You cannot do this."
+        },
+        {
+          "character": "RIKER",
+          "line": "I won't let them hurt you. You'll be safe on the Enterprise."
+        },
+        {
+          "character": "SOREN",
+          "line": "I am so sorry. It was my fault that you got involved in all this."
+        },
+        {
+          "character": "RIKER",
+          "line": "Everything's going to be all right. Everything's going to be fine."
+        },
+        {
+          "character": "SOREN",
+          "line": "No, it is not."
+        },
+        {
+          "character": "RIKER",
+          "line": "What are you talking about?"
+        },
+        {
+          "character": "SOREN",
+          "line": "It was all a mistake, and I should have realized it from the beginning."
+        },
+        {
+          "character": "RIKER",
+          "line": "What?"
+        },
+        {
+          "character": "SOREN",
+          "line": "That I was sick. I had these terrible urges, and that is why I reached out to you. But it was wrong, and I see that now. I do not understand how I could have done what I did."
+        },
+        {
+          "character": "RIKER",
+          "line": "Maybe Doctor Crusher can treat you and bring you back to the way you were."
+        },
+        {
+          "character": "SOREN",
+          "line": "Why would I want that?"
+        },
+        {
+          "character": "RIKER",
+          "line": "Soren. I love you."
+        },
+        {
+          "character": "SOREN",
+          "line": "I'm sorry."
+        }
+      ],
+      "location": "Courtyard"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "PICARD",
+          "line": "How long to the Phelan system, Mister Data?"
+        },
+        {
+          "character": "DATA",
+          "line": "At warp six, fifty three hours, sir."
+        },
+        {
+          "character": "PICARD",
+          "line": "Commander?"
+        },
+        {
+          "character": "RIKER",
+          "line": "Captain."
+        },
+        {
+          "character": "PICARD",
+          "line": "Starfleet has sent a message asking us to proceed to the Phelan system to negotiate a trade agreement."
+        },
+        {
+          "character": "RIKER",
+          "line": "Yes, sir."
+        },
+        {
+          "character": "PICARD",
+          "line": "I didn't know when to tell them we will be there. Is our business with the J'naii finished?"
+        },
+        {
+          "character": "RIKER",
+          "line": "Finished, sir."
+        },
+        {
+          "character": "PICARD",
+          "line": "Very well. Ensign, take us out of orbit. Set a course for the Phelan system, warp six."
+        },
+        {
+          "character": "ENSIGN",
+          "line": "Aye, sir."
+        },
+        {
+          "character": "PICARD",
+          "line": "Engage."
+        }
+      ],
+      "location": "Bridge"
+    }
+  ],
+  "schedule": {
+    "episode": 17,
+    "number": 117,
+    "season": 5
+  },
+  "stardate": "45614.6",
+  "title": "The Outcast"
+}

@@ -1,0 +1,89 @@
+{
+   "$schema": "http://json-schema.org/draft-07/schema#",
+   "title": "Episode",
+   "description": "An episode of Star Trek",
+   "type": "object",
+   "required": [
+      "title",
+      "stardate",
+      "airdate",
+      "schedule",
+      "scenes"
+   ],
+   "properties": {
+      "title": {
+         "description": "The title of the episode",
+         "type": "string"
+      },
+      "stardate": {
+         "description": "Stardate of the episode",
+         "type": "string"
+      },
+      "airdate": {
+         "description": "Day of airing of the episode in UTC epoch timestamp",
+         "type": "integer"
+      },
+      "schedule": {
+         "description": "Information about the episode's temporal place in the series",
+         "type": "object",
+         "required": [
+            "season",
+            "episode",
+            "number"
+         ],
+         "properties": {
+            "season": {
+               "type": "number"
+            },
+            "episode": {
+               "type": "number"
+            },
+            "number": {
+               "type": "number"
+            }
+         }
+      },
+      "scenes": {
+         "description": "List of scenes within the episode",
+         "type": "array",
+         "items": {
+            "type": "object",
+            "required": [
+               "dialogue",
+               "location"
+            ],
+            "properties": {
+               "dialogue": {
+                  "type": "array",
+                  "items": {
+                     "type": "object",
+                     "required": [
+                        "character",
+                        "line"
+                     ],
+                     "properties": {
+                        "character": {
+                           "type": "string",
+                           "description": "The character speaking"
+                        },
+                        "line": {
+                           "type": "string",
+                           "description": "The line of speech spoken by the character"
+                        },
+                        "modifier": {
+                           "type": "string",
+                           "enum": ["voiceover", "screen"],
+                           "description": "A modifier of the speech."
+                        }
+                     }
+                  }
+               },
+               "location": {
+                  "type": "string",
+                  "description": "The location of the scene"
+               }
+            }
+         }
+      }
+   }
+}

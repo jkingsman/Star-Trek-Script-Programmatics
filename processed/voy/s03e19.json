@@ -1,0 +1,1683 @@
+{
+  "airdate": 856933200,
+  "scenes": [
+    {
+      "dialogue": [
+        {
+          "character": "JANEWAY",
+          "line": "Fire!"
+        },
+        {
+          "character": "TUVOK",
+          "line": "The asteroid is fragmenting, but most of the debris is still on a collision course with the planet."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Target the fragments. Destroy them."
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "That asteroid should have been vaporized. What happened?"
+        },
+        {
+          "character": "KIM",
+          "line": "Not sure. Sensors showed a simple nickel-iron composition. We shouldn't be seeing fragments more than a centimeter in diameter."
+        },
+        {
+          "character": "SKLAR",
+          "line": "Ambassador, I'm afraid I was right. This isn't going to work. The same thing happened to us yesterday. We tried to vaporize two incoming asteroids but they fragmented and struck the surface."
+        },
+        {
+          "character": "TUVOK",
+          "line": "I've destroyed most of the debris, Captain, however targeting scanners were unable to track two of the fragments. They have already entered the upper atmosphere."
+        },
+        {
+          "character": "TUVOK",
+          "line": "The debris impacted on the largest continent, approximately five hundred kilometers from the southern tip."
+        },
+        {
+          "character": "AMBASSADOR",
+          "line": "The central desert. Fortunately that region isn't heavily populated."
+        },
+        {
+          "character": "TUVOK",
+          "line": "Substantial cratering, atmospheric shockwaves, and large concentrations of dust and other stratospheric contaminants."
+        },
+        {
+          "character": "SKLAR",
+          "line": "How long until the next asteroid hits?"
+        },
+        {
+          "character": "TUVOK",
+          "line": "Approximately six hours."
+        },
+        {
+          "character": "AMBASSADOR",
+          "line": "Can you give us an idea of it's trajectory?"
+        },
+        {
+          "character": "TUVOK",
+          "line": "Same continent, but this time on the eastern coastal region."
+        },
+        {
+          "character": "AMBASSADOR",
+          "line": "Our largest colonies are there. Over five thousand citizens."
+        },
+        {
+          "character": "SKLAR",
+          "line": "Captain. We appreciate your efforts, but I think it's time we considered an evacuation. According to my analysis there are at least twelve more asteroids heading in our direction. How can we hope to destroy them all even with your help?"
+        },
+        {
+          "character": "KIM",
+          "line": "Incoming hail from the surface. It's coming from one of the heavily damaged areas."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "On screen."
+        },
+        {
+          "character": "VATM",
+          "line": "Ambassador, I've been analyzing the debris and I've diskovered disturbing evidence that the asteroids are not what they seem. They are composed of artificial materials. I must meet with you immediately. I think",
+          "modifier": "screen"
+        },
+        {
+          "character": "KIM",
+          "line": "I've lost the transmission."
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "Location?"
+        },
+        {
+          "character": "KIM",
+          "line": "I can't find him. Too much interference."
+        },
+        {
+          "character": "AMBASSADOR",
+          "line": "That was Doctor Vatm, our most prominent astrophysicist. He mentioned the composition of the asteroids. Could he have found something important?"
+        },
+        {
+          "character": "SKLAR",
+          "line": "At this point Ambassador, I don't know what that discovery could be."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Mister Paris, can we send a shuttle down through that turbulence?"
+        },
+        {
+          "character": "PARIS",
+          "line": "It would be a rough ride, but I think it's possible."
+        },
+        {
+          "character": "SKLAR",
+          "line": "Our chances of finding Doctor Vatm are slim. We should evacuate the colonies."
+        },
+        {
+          "character": "AMBASSADOR",
+          "line": "We haven't time to evacuate all those people. I won't give up, not now. Captain, I'm asking for your help again, but I won't ask you to risk your crew."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "In for a penny, in for a pound."
+        },
+        {
+          "character": "AMBASSADOR",
+          "line": "Excuse me?"
+        },
+        {
+          "character": "JANEWAY",
+          "line": "It's a human expression, Ambassador, and it means we're not leaving you now. Tuvok, assemble rescue teams. We'll send down three shuttles to find Doctor Vatm."
+        },
+        {
+          "character": "TUVOK",
+          "line": "Aye, Captain. Mister Paris."
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "Bridge to Engineering. B'Elanna, I want you to beam aboard a sample of the debris from that last asteroid. Let's find out why it wasn't vaporized."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "I'm going to study the data we've collected so far. I'll be in my Ready room."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "NEELIX",
+          "line": "I need analeptic compounds."
+        },
+        {
+          "character": "EMH",
+          "line": "Are you ill?"
+        },
+        {
+          "character": "NEELIX",
+          "line": "No, no, I'm feeling quite vigorous. I requested a place on the rescue team as part of my Starfleet training and the Captain said yes, so I thought it might be useful to bring along a few extra medical supplies."
+        },
+        {
+          "character": "KES",
+          "line": "We have some analeptic compounds in the biolab. I'll get them for you."
+        },
+        {
+          "character": "EMH",
+          "line": "May I suggest a tranquilizer?"
+        },
+        {
+          "character": "NEELIX",
+          "line": "No, no, no, I'll be fine. It's just that I'm a little apprehensive. I've been assigned to Lieutenant Tuvok's team and no matter what I do, I can't seem to please him."
+        },
+        {
+          "character": "EMH",
+          "line": "Vulcan's are notoriously difficult to impress. Mister Tuvok seldom acknowledges my brilliance. A word of advice, Mister Neelix. Try to restrain your enthusiasm. You're there to observe and learn."
+        },
+        {
+          "character": "NEELIX",
+          "line": "That's good advice, Doctor."
+        }
+      ],
+      "location": "Sickbay"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TUVOK",
+          "line": "Altitude, fifteen kilometers. Velocity, mach two point one. Entering the upper troposphere."
+        },
+        {
+          "character": "NEELIX",
+          "line": "Mister Sklar, are you all right?"
+        },
+        {
+          "character": "SKLAR",
+          "line": "I'm an exogeologist. I prefer working on the ground."
+        },
+        {
+          "character": "NEELIX",
+          "line": "We'll be landing shortly. Try to relax."
+        },
+        {
+          "character": "SKLAR",
+          "line": "Oh, oh, what's happening?"
+        },
+        {
+          "character": "TUVOK",
+          "line": "We're entering a layer of electrodynamic turbulence. Full power to thrusters."
+        },
+        {
+          "character": "NEELIX",
+          "line": "Thrusters aren't responding."
+        },
+        {
+          "character": "TUVOK",
+          "line": "Attempting to level our descent."
+        },
+        {
+          "character": "NEELIX",
+          "line": "We're losing main power."
+        },
+        {
+          "character": "TUVOK",
+          "line": "I will have to land the shuttle manually. Brace for impact."
+        }
+      ],
+      "location": "Shuttlecraft"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "KIM",
+          "line": "Commander, I've lost contact with Tuvok's shuttle."
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "Hail them."
+        },
+        {
+          "character": "KIM",
+          "line": "No response."
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "Notify Lieutenant Paris and the others. We may have a team down."
+        },
+        {
+          "character": "TORRES",
+          "line": "Torres to bridge.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "Go ahead."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TORRES",
+          "line": "We've beamed aboard a piece of the debris."
+        }
+      ],
+      "location": "Engineering"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "CHAKOTAY",
+          "line": "I'll be right there. Ambassador?"
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TUVOK",
+          "line": "Doctor Vatm."
+        },
+        {
+          "character": "VATM",
+          "line": "I heard what sounded like a ship crashing. I came looking for you. This is Hanjuan, he's a miner at the nearby gallacite excavation. He heard your ship too."
+        },
+        {
+          "character": "TUVOK",
+          "line": "Have you seen any other vessels like ours?"
+        },
+        {
+          "character": "VATM",
+          "line": "No, just you."
+        },
+        {
+          "character": "SKLAR",
+          "line": "Doctor, you said you had information on the composition of the asteroids. What is it?"
+        },
+        {
+          "character": "VATM",
+          "line": "That data is classified. I can only speak to the Ambassador."
+        },
+        {
+          "character": "TUVOK",
+          "line": "You may also speak to me. Your Ambassador sent us to find you."
+        },
+        {
+          "character": "VATM",
+          "line": "No. I prefer to wait."
+        },
+        {
+          "character": "SKLAR",
+          "line": "Doctor, we almost died trying to get that information. Tell us."
+        },
+        {
+          "character": "VATM",
+          "line": "Be silent, Sklar!"
+        },
+        {
+          "character": "NEELIX",
+          "line": "Now gentlemen, there's no point in arguing. Right now we have to get this shuttle off the ground."
+        },
+        {
+          "character": "TUVOK",
+          "line": "Unfortunately that will not be possible. All primary systems are offline. Warp drive and impulse engines have been destroyed. I suggest we repair the comm. system and send a distress call."
+        },
+        {
+          "character": "HANJUAN",
+          "line": "How long will that take?"
+        },
+        {
+          "character": "TUVOK",
+          "line": "Several hours at least."
+        },
+        {
+          "character": "SKLAR",
+          "line": "We don't have several hours. When the next asteroid hits, it could destroy this entire region. We've got to get out of here soon!"
+        },
+        {
+          "character": "TUVOK",
+          "line": "I assure you we're doing everything we can. Mister Neelix, please go outside and inspect the toroidal antenna. I need to know if any of the signal relays were damaged."
+        },
+        {
+          "character": "NEELIX",
+          "line": "If they were, I can try to repair them."
+        },
+        {
+          "character": "TUVOK",
+          "line": "A damage report will be sufficient."
+        },
+        {
+          "character": "NEELIX",
+          "line": "I've been studying with Lieutenant Torres. She gave me a full orientation on shuttlecraft systems."
+        },
+        {
+          "character": "TUVOK",
+          "line": "The damage report, Mister Neelix."
+        },
+        {
+          "character": "NEELIX",
+          "line": "Aye, sir."
+        },
+        {
+          "character": "TUVOK",
+          "line": "In the meantime, I suggest everyone try to remain calm. Allowing anxiety to overcome you will only hinder the efficiency of our efforts."
+        },
+        {
+          "character": "NEELIX",
+          "line": "He's really a very pleasant fellow once you get to know him. And intelligent. I'm sure he'll have the comm. system up and running"
+        },
+        {
+          "character": "TUVOK",
+          "line": "Neelix."
+        },
+        {
+          "character": "NEELIX",
+          "line": "On my way."
+        },
+        {
+          "character": "SKLAR",
+          "line": "Why won't you share the data with"
+        },
+        {
+          "character": "NEELIX",
+          "line": "Excuse me! Mister Tuvok."
+        },
+        {
+          "character": "TUVOK",
+          "line": "You couldn't have finished already."
+        },
+        {
+          "character": "NEELIX",
+          "line": "Not exactly. What I mean to say is, I know I'm here to observe, and I don't mean to step out of line, but I think I've observed a way of here."
+        },
+        {
+          "character": "HANJUAN",
+          "line": "Where?"
+        },
+        {
+          "character": "NEELIX",
+          "line": "I saw what appeared to be an orbital tether anchored nearby."
+        },
+        {
+          "character": "VATM",
+          "line": "Yes, we use those to lift cargo from the surface to the orbital supply station."
+        },
+        {
+          "character": "NEELIX",
+          "line": "May I assume it uses magnetic leverage to lift the carriage."
+        },
+        {
+          "character": "VATM",
+          "line": "Yes."
+        },
+        {
+          "character": "TUVOK",
+          "line": "What is your point?"
+        },
+        {
+          "character": "NEELIX",
+          "line": "What if we use that carriage to climb the tether?"
+        },
+        {
+          "character": "SKLAR",
+          "line": "That tether's over three hundred kilometers long. It takes twelve hours to reach the station."
+        },
+        {
+          "character": "NEELIX",
+          "line": "Well, we wouldn't have to go all the way to the station. We'd just have to leave the ionosphere. Once we get above all this interference, we can contact Voyager. They'll beam us aboard."
+        },
+        {
+          "character": "VATM",
+          "line": "I've already considered that option. The carriage was damaged on the last impact. The induction coils are offline."
+        },
+        {
+          "character": "NEELIX",
+          "line": "Maybe we can replace the coils with attitude control thrusters from the shuttle. It would take a little creative mechanics, but I think we can do it. I spent two years on a tether maintenance team on Rinax. The principles are undoubtedly the same."
+        },
+        {
+          "character": "TUVOK",
+          "line": "Our probability of being detected by Voyager or the other rescue teams is greatest if we remain here."
+        },
+        {
+          "character": "SKLAR",
+          "line": "What if they don't find us in time?"
+        },
+        {
+          "character": "HANJUAN",
+          "line": "He's right. We should try the tether. It's better than sitting here waiting to be buried in dust."
+        },
+        {
+          "character": "NEELIX",
+          "line": "I've helped rebuild a dozen mag-lev carriages. Give me a chance to get that one working. If I can't, we'll come back and wait for the others."
+        },
+        {
+          "character": "TUVOK",
+          "line": "Very well."
+        },
+        {
+          "character": "NEELIX",
+          "line": "You won't regret this, Lieutenant. We need to get to the base of the tether."
+        }
+      ],
+      "location": "Shuttlecraft"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "NEELIX",
+          "line": "I think we can integrate our thrusters into the induction matrix, but we'll need to"
+        },
+        {
+          "character": "NEELIX",
+          "line": "Looks like somebody's been here recently."
+        },
+        {
+          "character": "LILLIAS",
+          "line": "Get away or I'll kill him! Drop your weapon! Now!"
+        },
+        {
+          "character": "LILLIAS",
+          "line": "This is my shelter. These are my supplies."
+        },
+        {
+          "character": "TUVOK",
+          "line": "We have no interest in your supplies. We are here to use the carriage to get to safety."
+        },
+        {
+          "character": "HANJUAN",
+          "line": "He's telling the truth. We'll take you with us."
+        },
+        {
+          "character": "LILLIAS",
+          "line": "The carriage is damaged."
+        },
+        {
+          "character": "NEELIX",
+          "line": "Yes, we know. The induction coils. But we brought equipment to replace them."
+        },
+        {
+          "character": "VATM",
+          "line": "I know it's been difficult. This catastrophe has taken it's toll on everyone. But you have got to believe us. We only want to get off the surface."
+        },
+        {
+          "character": "LILLIAS",
+          "line": "What about the oxygen converters? They've been damaged too. They can't produce enough air for six people."
+        },
+        {
+          "character": "NEELIX",
+          "line": "Maybe we can augment the converters. We've brought along some equipment that might do the trick."
+        },
+        {
+          "character": "LILLIAS",
+          "line": "I don't have enough rations for everyone. Don't expect me to share."
+        },
+        {
+          "character": "NEELIX",
+          "line": "If I can fix the tether, no one will need your rations. We have a starship in orbit. They'll beam us aboard once we leave the ionosphere."
+        },
+        {
+          "character": "NEELIX",
+          "line": "If I'm not mistaken, it sounds like you know a thing or two about tethers too."
+        },
+        {
+          "character": "LILLIAS",
+          "line": "Not really. I'm a foundry worker."
+        },
+        {
+          "character": "NEELIX",
+          "line": "Good. We could use someone with metallurgical knowledge. Let's get to work. Have faith, Mister Vulcan. We'll be tether-borne in no time."
+        }
+      ],
+      "location": "Mag-lev carriage"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TORRES",
+          "line": "I've completed the mineralogical scans. The rock is composed of tryoxene, olivine. Wait a minute. I'm reading a concentration of triadium."
+        },
+        {
+          "character": "AMBASSADOR",
+          "line": "Triadium? Isn't that an alloy?"
+        },
+        {
+          "character": "TORRES",
+          "line": "Yes."
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "B'Elanna, give me a hand with this."
+        },
+        {
+          "character": "TORRES",
+          "line": "This doesn't look like any asteroid I've ever seen, but I'll bet it's the source of our triadium. It looks like a control node for some kind of guidance system."
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "Ambassador, I have a feeling these asteroids aren't striking your planet by chance."
+        }
+      ],
+      "location": "Engineering"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TUVOK",
+          "line": "Are we ready to bring main power back online?"
+        },
+        {
+          "character": "NEELIX",
+          "line": "I, I think so."
+        },
+        {
+          "character": "TUVOK",
+          "line": "The coil bypass is active."
+        },
+        {
+          "character": "NEELIX",
+          "line": "Bypass is holding. Congratulations, Mister Vulcan. We've done it!"
+        },
+        {
+          "character": "TUVOK",
+          "line": "We must still repair the oxygen regenerators and the damaged tether couplings."
+        },
+        {
+          "character": "NEELIX",
+          "line": "Then let's get started. I'll go check on the oxygen supply."
+        },
+        {
+          "character": "NEELIX",
+          "line": "How's it coming, Lillias?"
+        },
+        {
+          "character": "LILLIAS",
+          "line": "I still can't get this power relay online. I'm not an orbital engineer. I can't do this."
+        },
+        {
+          "character": "NEELIX",
+          "line": "Maybe I can help. Let's see. Ah ha! You need to recalibrate the pressure valve, like this. That should about do it. We're going to need a name."
+        },
+        {
+          "character": "LILLIAS",
+          "line": "A name?"
+        },
+        {
+          "character": "NEELIX",
+          "line": "For the mag-lev carriage. Whenever we finished building a tether on Rinax, we named the carriage for good luck. Any suggestions?"
+        },
+        {
+          "character": "LILLIAS",
+          "line": "No."
+        },
+        {
+          "character": "NEELIX",
+          "line": "How about Alixia?"
+        },
+        {
+          "character": "LILLIAS",
+          "line": "Alixia."
+        },
+        {
+          "character": "NEELIX",
+          "line": "My favorite sister. She was always taking me out to explore. She showed me the Caves of Touth, the equatorial dust shrouds. Once she even took me hunting for arctic spiders. Whenever I think of her, I think of adventure. And this is an adventure she would appreciate. What do you think?"
+        },
+        {
+          "character": "LILLIAS",
+          "line": "Where is your sister now?"
+        },
+        {
+          "character": "NEELIX",
+          "line": "She was killed when I was a young man, in a war on my home world. My entire family was lost."
+        },
+        {
+          "character": "LILLIAS",
+          "line": "I'm sorry."
+        },
+        {
+          "character": "NEELIX",
+          "line": "I still see each of them. Every night before I go to sleep, I recall their faces and share something about my day with each of them. Tonight I'm going to have quite a lot to tell them."
+        },
+        {
+          "character": "NEELIX",
+          "line": "Thank you."
+        },
+        {
+          "character": "LILLIAS",
+          "line": "I have a sister too. Halla. Three weeks ago after the first impact our home was destroyed and we were separated. I haven't seen her since. I don't even know if she's alive."
+        },
+        {
+          "character": "NEELIX",
+          "line": "When we get back to Voyager, I'll ask my Captain to help you find her."
+        },
+        {
+          "character": "TUVOK",
+          "line": "Mister Neelix.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "NEELIX",
+          "line": "Excuse me."
+        },
+        {
+          "character": "NEELIX",
+          "line": "Yes, sir!"
+        },
+        {
+          "character": "TUVOK",
+          "line": "Your interpersonal activities are delaying our progress."
+        },
+        {
+          "character": "NEELIX",
+          "line": "What do you mean?"
+        },
+        {
+          "character": "TUVOK",
+          "line": "Since we arrived, you have spent as much time engaged in idle conversation as you have making repairs."
+        },
+        {
+          "character": "NEELIX",
+          "line": "I'm just trying to cheer everyone up a little."
+        },
+        {
+          "character": "TUVOK",
+          "line": "Your function at the moment is to repair this vessel, not to boost morale. This is not the holodeck nor the mess hall. This is a life-threatening situation, and your attention should be focused on one thing alone. Our safe return to Voyager."
+        },
+        {
+          "character": "NEELIX",
+          "line": "Sorry, sir. I'll finish as fast as I can."
+        }
+      ],
+      "location": "Mag-lev carriage"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "LILLIAS",
+          "line": "Once we start going up the tether will we be able to"
+        },
+        {
+          "character": "TUVOK",
+          "line": "We've only been able to fix three of the seven power supplies. If we turn back we might not be able to reach the ionosphere. Mister Sklar, these"
+        },
+        {
+          "character": "NEELIX",
+          "line": "Doctor Vatm! What are you doing?"
+        },
+        {
+          "character": "LILLIAS",
+          "line": "He's opening the launch doors! He's leaving without us!"
+        },
+        {
+          "character": "NEELIX",
+          "line": "Doctor Vatm! Please stop! The tether's base hasn't been secured. If he launches now he'll destabilize the entire cavern."
+        },
+        {
+          "character": "SKLAR",
+          "line": "Wait, please! Don't leave us here!"
+        },
+        {
+          "character": "TUVOK",
+          "line": "Stand aside."
+        }
+      ],
+      "location": "Tether control room"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "NEELIX",
+          "line": "It's too late. The cabin support structure is collapsing. We've got to get out of here."
+        },
+        {
+          "character": "TUVOK",
+          "line": "Can we launch?"
+        },
+        {
+          "character": "NEELIX",
+          "line": "I think so."
+        },
+        {
+          "character": "TUVOK",
+          "line": "Seal that door."
+        },
+        {
+          "character": "SKLAR",
+          "line": "I despise enclosed spaces."
+        },
+        {
+          "character": "NEELIX",
+          "line": "Hang on."
+        },
+        {
+          "character": "NEELIX",
+          "line": "Velocity, thirty kilometers per hour. Internal atmospheric pressure, seven hundred millibars. Altitude, eight hundred meters and climbing."
+        },
+        {
+          "character": "TUVOK",
+          "line": "We're losing mag-lev cohesion."
+        },
+        {
+          "character": "NEELIX",
+          "line": "All right, we have to stabilize that right away, otherwise we'll go into free-fall."
+        },
+        {
+          "character": "SKLAR",
+          "line": "You mean we're going to drop?"
+        },
+        {
+          "character": "TUVOK",
+          "line": "How do we prevent that? Neelix!"
+        },
+        {
+          "character": "NEELIX",
+          "line": "Hold on, hold on, I'm thinking. Velocity. Let's try increasing the velocity. It should stabilize our ascent. See if you can increase power to the tether couplings."
+        },
+        {
+          "character": "TUVOK",
+          "line": "Routing back-up power to the tether couplings."
+        },
+        {
+          "character": "NEELIX",
+          "line": "Stand by. I'm going to try giving her a little more speed."
+        },
+        {
+          "character": "NEELIX",
+          "line": "Velocity, forty seven kilometers per hour and holding."
+        },
+        {
+          "character": "TUVOK",
+          "line": "Mag-lev cohesion stable."
+        },
+        {
+          "character": "NEELIX",
+          "line": "We're all right. Good girl, Alixia. I knew you could do it."
+        },
+        {
+          "character": "TUVOK",
+          "line": "Alixia?"
+        },
+        {
+          "character": "NEELIX",
+          "line": "I named the carriage after my sister."
+        },
+        {
+          "character": "TUVOK",
+          "line": "For good luck, no doubt. We will need it. One of the oxygen converters has ruptured."
+        },
+        {
+          "character": "NEELIX",
+          "line": "We'll have to find a way of increasing output to the other converter, otherwise we'll run out of air about half way up."
+        },
+        {
+          "character": "TUVOK",
+          "line": "What are our chances of reaching the ionosphere?"
+        },
+        {
+          "character": "NEELIX",
+          "line": "I'd say they were pretty good. We did leave ahead of schedule, and that could cause a few glitches along the way."
+        },
+        {
+          "character": "TUVOK",
+          "line": "Glitches?"
+        },
+        {
+          "character": "NEELIX",
+          "line": "I wasn't able to get the auto-ascent sequencer back online. That means I'll have to keep controlling the ascent manually. And there is the problem of maintaining atmospheric pressure. I'm already beginning to detect a few fissures in the hull."
+        },
+        {
+          "character": "TUVOK",
+          "line": "We must repair them. Where is the emergency containment grid?"
+        },
+        {
+          "character": "NEELIX",
+          "line": "Containment grid. Containment grid. Er, I'm not quite sure."
+        },
+        {
+          "character": "TUVOK",
+          "line": "Mister Neelix, you told me you had experience with this kind of technology."
+        },
+        {
+          "character": "NEELIX",
+          "line": "I did! I did! Sort of. They weren't exactly what you might call working carriages. They were more like prototypes."
+        },
+        {
+          "character": "TUVOK",
+          "line": "Specifically."
+        },
+        {
+          "character": "NEELIX",
+          "line": "All right, they were models. One tenth scale. But they were extremely detailed."
+        },
+        {
+          "character": "TUVOK",
+          "line": "You built models?"
+        },
+        {
+          "character": "NEELIX",
+          "line": "Yes, but they were basically identical to real mag-lev carriages. Same principles, same mechanical components. I was planning to familiarize myself with all the systems on this carriage. I just didn't plan on leaving ahead of schedule. But don't worry, I've got everything under control."
+        },
+        {
+          "character": "TUVOK",
+          "line": "There is little we can do now that we are thirty kilometers above the surface. I suggest we continue to"
+        },
+        {
+          "character": "VATM",
+          "line": "What are you doing! Let go!"
+        },
+        {
+          "character": "LILLIAS",
+          "line": "You wanted to leave, fine, then leave."
+        },
+        {
+          "character": "TUVOK",
+          "line": "That is enough! He may be crucial to the survival of your colonies."
+        },
+        {
+          "character": "LILLIAS",
+          "line": "He would have let us die down there."
+        },
+        {
+          "character": "TUVOK",
+          "line": "That is no justification for murder. Doctor Vatm, why did you try to launch without us? Does it have to do with the discovery you made about the asteroids?"
+        },
+        {
+          "character": "HANJUAN",
+          "line": "Answer him, or I'll throw you out myself."
+        },
+        {
+          "character": "TUVOK",
+          "line": "Compose yourself, Mister Hanjuan. Once we return to Voyager we will find out"
+        },
+        {
+          "character": "HANJUAN",
+          "line": "Who put you in command?"
+        },
+        {
+          "character": "TUVOK",
+          "line": "This rescue mission was authorized by the Captain of my ship and the Ambassador of your government."
+        },
+        {
+          "character": "HANJUAN",
+          "line": "I say we throw Vatm out the door. We could use the extra oxygen."
+        },
+        {
+          "character": "TUVOK",
+          "line": "If you are trying to intimidate me, I should inform you that as a Vulcan I possess physical strength many times your"
+        },
+        {
+          "character": "TUVOK",
+          "line": "It is going to be a long and perilous journey. As such, I will need your full co-operation. Understood?"
+        },
+        {
+          "character": "HANJUAN",
+          "line": "Yes."
+        },
+        {
+          "character": "TUVOK",
+          "line": "Mechanical glitches would seem to be the least of our problems."
+        }
+      ],
+      "location": "Mag-lev carriage"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "PARIS",
+          "line": "We've just completed our third low altitude survey. There's no sign of Doctor Vatm, or Tuvok and his rescue team.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "JANEWAY",
+          "line": "We're monitoring a major dust storm heading your way. You'll need to head due north within the hour."
+        },
+        {
+          "character": "PARIS",
+          "line": "Acknowledged. Paris out.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "KIM",
+          "line": "Captain, I'm getting more detailed sensor readings on the approaching asteroid. It's huge, over half a kilometer in diameter, and it's moving faster than the others."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Time to impact?"
+        },
+        {
+          "character": "KIM",
+          "line": "Approximately two hours."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TUVOK",
+          "line": "Doctor, I'm going to inject you with a tri-ox compound. It will help to oxygenate your blood."
+        },
+        {
+          "character": "TUVOK",
+          "line": "I've prepared an injection of"
+        },
+        {
+          "character": "SKLAR",
+          "line": "Yes, I know, I heard you. It won't be painful, will it?"
+        },
+        {
+          "character": "TUVOK",
+          "line": "No. It is a simple subdermal transfer."
+        },
+        {
+          "character": "SKLAR",
+          "line": "Oh good, good. I despise needles. Any progress with the, with the converters?"
+        },
+        {
+          "character": "TUVOK",
+          "line": "We were unable to salvage the damaged tank, but Lillias is working to increase the efficiency of the functioning one."
+        },
+        {
+          "character": "SKLAR",
+          "line": "And if she can't, we'll all suffocate."
+        },
+        {
+          "character": "TUVOK",
+          "line": "It is illogical to dwell on situations beyond your control. It will only serve to heighten your anxiety which, if I may say so, is heightened enough."
+        },
+        {
+          "character": "SKLAR",
+          "line": "Oh, well, thank you for the reassurance."
+        },
+        {
+          "character": "NEELIX",
+          "line": "How is everybody?"
+        },
+        {
+          "character": "TUVOK",
+          "line": "They are suffering the initial stages of carbon dioxide poisoning."
+        },
+        {
+          "character": "NEELIX",
+          "line": "And you?"
+        },
+        {
+          "character": "TUVOK",
+          "line": "My lungs are capable of respirating in an extremely thin atmosphere."
+        },
+        {
+          "character": "NEELIX",
+          "line": "Then if we can't fix this air supply, you may be the only one left to pilot this thing. I'd better start showing you how to use the ascent thrusters. They must be kept at a minimum temperature."
+        },
+        {
+          "character": "HANJUAN",
+          "line": "Stop! What are you doing?"
+        },
+        {
+          "character": "VATM",
+          "line": "Get away. Got to get out. Let me out. Let go of me. I'm needed."
+        },
+        {
+          "character": "LILLIAS",
+          "line": "So now he wants to leave."
+        },
+        {
+          "character": "HANJUAN",
+          "line": "Let him."
+        },
+        {
+          "character": "VATM",
+          "line": "No, you don't understand. There's something out there."
+        },
+        {
+          "character": "TUVOK",
+          "line": "What is out there?"
+        },
+        {
+          "character": "VATM",
+          "line": "On the roof."
+        },
+        {
+          "character": "TUVOK",
+          "line": "He's going into shock."
+        },
+        {
+          "character": "TUVOK",
+          "line": "He's dead."
+        },
+        {
+          "character": "NEELIX",
+          "line": "Can you revive him?"
+        },
+        {
+          "character": "TUVOK",
+          "line": "His cardiopulmonary tissues have begun to deteriorate."
+        },
+        {
+          "character": "HANJUAN",
+          "line": "From lack of oxygen?"
+        },
+        {
+          "character": "TUVOK",
+          "line": "No. I believe he was murdered."
+        },
+        {
+          "character": "LILLIAS",
+          "line": "Murdered? How?"
+        },
+        {
+          "character": "TUVOK",
+          "line": "Poisoning. According to my tricorder readings, his water supply has been contaminated with a lydroxide corrosive."
+        },
+        {
+          "character": "NEELIX",
+          "line": "Lydroxide? That's the coolant used in the tether couplings."
+        },
+        {
+          "character": "HANJUAN",
+          "line": "How do you know it wasn't an accident?"
+        },
+        {
+          "character": "TUVOK",
+          "line": "The coolant system is completely sealed, and there is no lydroxide anywhere else on board."
+        },
+        {
+          "character": "SKLAR",
+          "line": "Well, now we have a choice of death by suffocation or death by poisoning."
+        },
+        {
+          "character": "TUVOK",
+          "line": "I will conduct an investigation once we return to the ship. For now, we must focus on survival."
+        },
+        {
+          "character": "HANJUAN",
+          "line": "Again you take command. Again you decide our fate. How do we know you didn't kill him."
+        },
+        {
+          "character": "TUVOK",
+          "line": "I have no motive."
+        },
+        {
+          "character": "HANJUAN",
+          "line": "Your motive would be the same as ours. Revenge."
+        },
+        {
+          "character": "TUVOK",
+          "line": "I am Vulcan. I do not succumb to emotion."
+        },
+        {
+          "character": "HANJUAN",
+          "line": "Oh, and we are expected to believe that?"
+        },
+        {
+          "character": "NEELIX",
+          "line": "I think we should stop the carriage."
+        },
+        {
+          "character": "TUVOK",
+          "line": "Why?"
+        },
+        {
+          "character": "NEELIX",
+          "line": "Something Doctor Vatm said about getting up on the roof."
+        },
+        {
+          "character": "TUVOK",
+          "line": "Doctor Vatm was delirious from lack of oxygen. He attempted to open the hatch of this vessel and go outside. It would have killed him and possibly all of us as well."
+        },
+        {
+          "character": "NEELIX",
+          "line": "Exactly. He was desperate enough to risk his own life. I think we should go up and find out what he was talking about."
+        },
+        {
+          "character": "TUVOK",
+          "line": "If we stop the carriage, we will risk losing mag-lev cohesion again. We'll check the roof upon returning to Voyager."
+        },
+        {
+          "character": "NEELIX",
+          "line": "I don't know. I've got a funny feeling about this."
+        },
+        {
+          "character": "TUVOK",
+          "line": "I am not interested in your funny feeling."
+        },
+        {
+          "character": "NEELIX",
+          "line": "You're not listening to what I'm saying. Delirious or not, he said he needed whatever's up there. What if it's something that can help us?"
+        },
+        {
+          "character": "TUVOK",
+          "line": "I will not debate this with you. Please pilot the craft and remain silent."
+        },
+        {
+          "character": "NEELIX",
+          "line": "You're going to listen to me!"
+        },
+        {
+          "character": "TUVOK",
+          "line": "You are becoming emotionally distraught. There is little point in furthering this diskussion."
+        },
+        {
+          "character": "NEELIX",
+          "line": "I'll tell you who's being emotional. You! You hide it beneath that Vulcan calm but truth is, you're filled with contempt and sarcasm, and I'm tired of being the target of all your hostility."
+        },
+        {
+          "character": "TUVOK",
+          "line": "You are mistaken."
+        },
+        {
+          "character": "LILLIAS",
+          "line": "No, he's not. I can see it every time you talk to Neelix. You're dismissive and condescending."
+        },
+        {
+          "character": "TUVOK",
+          "line": "You are projecting your own emotional bias onto my actions. I have no feelings towards Mister Neelix."
+        },
+        {
+          "character": "NEELIX",
+          "line": "That's right! That's exactly what I'm talking about! You have no feelings for me, but you have feelings against me. For three years you've ridiculed me and made it obvious to everyone that you have no respect for me. And I've tolerated it. You know why? You know why? Because you are smarter than I am, Tuvok, and more logical, stronger, superior in almost every way. And I admire you. But you don't have any instincts, have any gut feelings, and you don't really understand people. But non-Vulcans have feelings and they have to listen to them, and I've got to listen to mine, And right now they're telling me we need to get up on that roof and find out what the Doctor was talking about."
+        },
+        {
+          "character": "TUVOK",
+          "line": "I disagree."
+        },
+        {
+          "character": "NEELIX",
+          "line": "Fine! But I'm the only one who can pilot this vessel, and we're not going anywhere until someone goes up on that roof."
+        },
+        {
+          "character": "TUVOK",
+          "line": "You leave me little choice."
+        },
+        {
+          "character": "NEELIX",
+          "line": "All right, then. One of us needs to go outside."
+        },
+        {
+          "character": "HANJUAN",
+          "line": "I'm not going out there."
+        },
+        {
+          "character": "SKLAR",
+          "line": "Don't even think about me."
+        },
+        {
+          "character": "NEELIX",
+          "line": "I'm willing to give it a"
+        },
+        {
+          "character": "TUVOK",
+          "line": "I will go."
+        },
+        {
+          "character": "NEELIX",
+          "line": "You?"
+        },
+        {
+          "character": "TUVOK",
+          "line": "I am the logical one to make the egress. I can breathe the rarified atmosphere."
+        },
+        {
+          "character": "SKLAR",
+          "line": "I can't believe you're going out there. You don't even know what you're looking for."
+        },
+        {
+          "character": "TUVOK",
+          "line": "I'm looking for Mister Neelix's instinct. Perhaps it will be marked."
+        },
+        {
+          "character": "NEELIX",
+          "line": "It's strange, but I really like him. I just wish the feeling were mutual."
+        }
+      ],
+      "location": "Mag-lev carriage"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TUVOK",
+          "line": "Tuvok to Neelix."
+        }
+      ],
+      "location": "Mag-lev carriage roof"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "NEELIX",
+          "line": "Go ahead."
+        },
+        {
+          "character": "TUVOK",
+          "line": "I have found a data storage device lodged in the internal circuitry. It appears to contain information about an alien starship.",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "Mag-lev carriage"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TUVOK",
+          "line": "but I will need to remove it and bring it into the cabin for further examination."
+        }
+      ],
+      "location": "Mag-lev carriage roof"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "NEELIX",
+          "line": "Be careful up there. If you can't remove it, don't. Sklar! What are you doing?"
+        },
+        {
+          "character": "LILLIAS",
+          "line": "Neelix!"
+        },
+        {
+          "character": "HANJUAN",
+          "line": "Where's Tuvok?"
+        },
+        {
+          "character": "SKLAR",
+          "line": "Mister Tuvok returned to the surface. Get this carriage moving."
+        },
+        {
+          "character": "LILLIAS",
+          "line": "What are you doing!"
+        },
+        {
+          "character": "SKLAR",
+          "line": "Now!"
+        },
+        {
+          "character": "LILLIAS",
+          "line": "He can't. He's hurt."
+        },
+        {
+          "character": "SKLAR",
+          "line": "Back away. Get up. Get up! oh. We're going to have to figure out how to fly this vessel."
+        }
+      ],
+      "location": "Mag-lev carriage"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "KIM",
+          "line": "Captain, the asteroid is within visual range."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Let's see it."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Ensign?"
+        },
+        {
+          "character": "KIM",
+          "line": "There's a large crew compliment. At least two thousand."
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "They remodulated their shields to fool our sensors. We're being hailed."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "On screen."
+        },
+        {
+          "character": "GOTH",
+          "line": "The Etanian Order claims this territory. You will withdraw.",
+          "modifier": "screen"
+        },
+        {
+          "character": "JANEWAY",
+          "line": "This planet belongs to the Nezu. They have five colonies here."
+        },
+        {
+          "character": "GOTH",
+          "line": "You are not Nezu.",
+          "modifier": "screen"
+        },
+        {
+          "character": "JANEWAY",
+          "line": "I'm a friend of theirs. Kathryn Janeway. And I'm not going anywhere until you've lowered your weapons."
+        },
+        {
+          "character": "GOTH",
+          "line": "You would be willing to die for them? A loyal friend, and a foolish one.",
+          "modifier": "screen"
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "They'll be here in under ten minutes, Captain."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Battle stations."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "SKLAR",
+          "line": "Why haven't we started?"
+        },
+        {
+          "character": "LILLIAS",
+          "line": "If we don't get moving soon the tether couplings will give out and they'll snap. We'll lose mag-lev cohesion."
+        },
+        {
+          "character": "SKLAR",
+          "line": "Then get us moving."
+        },
+        {
+          "character": "LILLIAS",
+          "line": "I can't. I don't know how."
+        },
+        {
+          "character": "SKLAR",
+          "line": "There's the accelerator control. Try it."
+        },
+        {
+          "character": "LILLIAS",
+          "line": "It's too dangerous. We've got to secure the tether first."
+        },
+        {
+          "character": "SKLAR",
+          "line": "Right, you. Go outside and check the couplings. Make sure they haven't been damaged."
+        },
+        {
+          "character": "HANJUAN",
+          "line": "Not me. Besides I wouldn't know where to look."
+        },
+        {
+          "character": "LILLIAS",
+          "line": "The only person who knows how to pilot this ship is Neelix."
+        },
+        {
+          "character": "SKLAR",
+          "line": "It can't be that complicated. Keep trying."
+        },
+        {
+          "character": "LILLIAS",
+          "line": "I'm doing my best."
+        },
+        {
+          "character": "SKLAR",
+          "line": "Come on, come on."
+        },
+        {
+          "character": "NEELIX",
+          "line": "I'm glad you're all right."
+        },
+        {
+          "character": "TUVOK",
+          "line": "Fortunately I was able to grab hold of an induction coil and climb to safety. Thank you, Mister Neelix."
+        },
+        {
+          "character": "NEELIX",
+          "line": "What?"
+        },
+        {
+          "character": "TUVOK",
+          "line": "I said thank you, for opening the door."
+        },
+        {
+          "character": "NEELIX",
+          "line": "Don't mention it."
+        },
+        {
+          "character": "TUVOK",
+          "line": "I believe we know now who killed Doctor Vatm."
+        },
+        {
+          "character": "HANJUAN",
+          "line": "But why did he kill him?"
+        },
+        {
+          "character": "TUVOK",
+          "line": "The data storage device contains tactical information about an alien starship. Weapons, warp drive, shield modulations. Apparently Sklar did not want us to find it. You have an occipital concussion. I'm afraid my understanding of Talaxian physiology is limited. I cannot treat you."
+        },
+        {
+          "character": "LILLIAS",
+          "line": "I don't know how to do this. We're going to lose cohesion any minute know."
+        },
+        {
+          "character": "TUVOK",
+          "line": "Neelix, we need you."
+        },
+        {
+          "character": "NEELIX",
+          "line": "I don't think I can do it."
+        },
+        {
+          "character": "TUVOK",
+          "line": "You must."
+        },
+        {
+          "character": "NEELIX",
+          "line": "I can barely keep my eyes open."
+        },
+        {
+          "character": "TUVOK",
+          "line": "Do it for Alixia. She would be proud of you."
+        },
+        {
+          "character": "NEELIX",
+          "line": "I'm glad to see your interpersonal skills are improving. You're learning how to motivate people."
+        },
+        {
+          "character": "NEELIX",
+          "line": "Speed, forty five kilometers per hour."
+        }
+      ],
+      "location": "Mag-lev carriage"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "CHAKOTAY",
+          "line": "The ship is within range. They're charging weapons."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Full power to the shields. Ready phasers."
+        },
+        {
+          "character": "KIM",
+          "line": "Shields down to eighty five percent."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Return fire."
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "No effect. We can't penetrate their shields."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "NEELIX",
+          "line": "Hang on! We're breaking through the ionosphere. Engaging induction dampers. We did it. We made it!"
+        },
+        {
+          "character": "TUVOK",
+          "line": "Tuvok to Voyager."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Janeway here. Are you all right, Lieutenant?",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "TUVOK",
+          "line": "Yes, Captain."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "We're a little busy right now. Prepare to beam aboard.",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "Mag-lev carriage"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "KIM",
+          "line": "Shields down to twenty three percent. Structural integrity is failing."
+        },
+        {
+          "character": "TUVOK",
+          "line": "Captain, this data device contains tactical information about the enemy vessel, including their shield modulation."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Adjust our phasers to match. Target their primary reactor."
+        },
+        {
+          "character": "TUVOK",
+          "line": "Ready."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Fire at will."
+        },
+        {
+          "character": "TUVOK",
+          "line": "Direct hit. Their reactor is offline."
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "They're remodulating their shields."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Target their weapons array. Fire!"
+        },
+        {
+          "character": "TUVOK",
+          "line": "Their weapons have been destroyed."
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "They're retreating, Captain."
+        },
+        {
+          "character": "AMBASSADOR",
+          "line": "What happened to you down there? Where's Sklar?"
+        },
+        {
+          "character": "NEELIX",
+          "line": "Mister Sklar returned to the surface."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "NEELIX",
+          "line": "I've just come from a staff briefing. The people who attacked your colonies, they call themselves the Etanian Order. Apparently they have a unique way of invading other worlds. First they create what appears to be a natural disaster, in your case an asteroid bombardment. Once the population has evacuated, they arrive and stake their claim."
+        },
+        {
+          "character": "LILLIAS",
+          "line": "But they didn't expect Voyager to intervene, so they arrived before our colonies had been evacuated"
+        },
+        {
+          "character": "NEELIX",
+          "line": "Exactly."
+        },
+        {
+          "character": "LILLIAS",
+          "line": "What about Doctor Vatm?"
+        },
+        {
+          "character": "NEELIX",
+          "line": "From what we could tell, Doctor Vatm found out about the Etanian Order and was secretly collecting information about their starship technology. He also knew that one of your colonists was a traitor, helping the Etanians, feeding your government false information about the asteroids. But he didn't know that it was Sklar. He didn't know who to trust."
+        },
+        {
+          "character": "LILLIAS",
+          "line": "So that's why he tried to hide the data storage device on the roof. The damage to our world could have been much worse. Thank you."
+        },
+        {
+          "character": "TUVOK",
+          "line": "I have just received word from the Ambassador. Your sister Halla has been found."
+        },
+        {
+          "character": "NEELIX",
+          "line": "Tell her I said hello."
+        },
+        {
+          "character": "TUVOK",
+          "line": "Mister Neelix, I thought you should know that I have submitted my mission report to the Captain. I've given you a special commendation for your endurance and bravery."
+        },
+        {
+          "character": "NEELIX",
+          "line": "I'm honored."
+        },
+        {
+          "character": "TUVOK",
+          "line": "Your instincts were correct. However, one day your intuition will fail, and you will finally understand that logic is primary above all else. Instinct is simply another term for serendipity."
+        },
+        {
+          "character": "NEELIX",
+          "line": "And one day, Mister Vulcan, I'll get you to trust your gut."
+        },
+        {
+          "character": "TUVOK",
+          "line": "That is doubtful."
+        },
+        {
+          "character": "NEELIX",
+          "line": "We'll see."
+        },
+        {
+          "character": "TUVOK",
+          "line": "Your attempts have yet to succeed."
+        },
+        {
+          "character": "NEELIX",
+          "line": "You always have to get in that last word, don't you."
+        },
+        {
+          "character": "TUVOK",
+          "line": "I'm simply responding to your erroneous statement."
+        },
+        {
+          "character": "NEELIX",
+          "line": "Something tells me you just hate to lose an argument."
+        },
+        {
+          "character": "TUVOK",
+          "line": "Losing is irrelevant."
+        },
+        {
+          "character": "NEELIX",
+          "line": "See what I mean?"
+        },
+        {
+          "character": "TUVOK",
+          "line": "No, I do not."
+        }
+      ],
+      "location": "Mess hall"
+    }
+  ],
+  "schedule": {
+    "episode": 19,
+    "number": 61,
+    "season": 3
+  },
+  "stardate": "50567.4",
+  "title": "Rise"
+}

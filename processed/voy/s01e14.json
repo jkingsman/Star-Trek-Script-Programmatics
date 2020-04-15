@@ -1,0 +1,1383 @@
+{
+  "airdate": 799905600,
+  "scenes": [
+    {
+      "dialogue": [
+        {
+          "character": "SULAN",
+          "line": "Regeneration phase completed. Deactivate the genitron. Shut down the biomatrix. B'Elanna? B'Elanna Torres, wake up."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Captain's log, stardate 48784.2. We have completed our survey of the Avery system and are returning to retrieve Lieutenants Paris, Torres and Durst. By now, they should have concluded their inspection of the magnesite formations on the third planet.",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "Laboratory"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "NEELIX",
+          "line": "Here we are Mister Tuvok, one bowl of authentic Vulcan plomeek soup."
+        },
+        {
+          "character": "TUVOK",
+          "line": "As I have told you, Mister Neelix, this is an unnecessary indulgence. I am quite content to eat whatever the rest of the crew is eating."
+        },
+        {
+          "character": "NEELIX",
+          "line": "Nonsense. Everyone aboard this ship deserves a little taste of home every now and then."
+        },
+        {
+          "character": "TUVOK",
+          "line": "Very well then, thank you."
+        },
+        {
+          "character": "NEELIX",
+          "line": "Don't thank me, I'm having a marvelous time experimenting with the native dishes of the entire crew. So far I've learned to make corn salad for Mister Chakotay, and peanut butter and jelly sandwiches for Mister Paris. He calls it comfort food. Isn't that charming? What are you waiting for, it's no good cold."
+        },
+        {
+          "character": "NEELIX",
+          "line": "Well?"
+        },
+        {
+          "character": "TUVOK",
+          "line": "It is rather piquant."
+        },
+        {
+          "character": "NEELIX",
+          "line": "It is zesty, isn't it. I tried following the recipe in the computer's databank but it seemed so bland, so I took the liberty of spicing it up a bit. Call it plomeek soup a la Neelix."
+        },
+        {
+          "character": "TUVOK",
+          "line": "I must point out that if you take the liberty of changing a time-honored recipe you are hardly presenting a taste of home."
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "Senior officers please report to the bridge.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "NEELIX",
+          "line": "But your soup?"
+        },
+        {
+          "character": "TUVOK",
+          "line": "Please, enjoy it."
+        },
+        {
+          "character": "NEELIX",
+          "line": "Ah, there's no place like home."
+        }
+      ],
+      "location": "Mess hall"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "CHAKOTAY",
+          "line": "The away team hasn't arrived at the pre-arranged coordinates, Captain, and they've failed to respond to our hails."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Have you tried locking on to their comm. signals?"
+        },
+        {
+          "character": "KIM",
+          "line": "We scanned the entire surface. No sign of them. They must still be underground, but I can't locate them there either."
+        },
+        {
+          "character": "TUVOK",
+          "line": "Then as we suspected, the dense magnesite formations in the planet's crust are blocking our sensors."
+        },
+        {
+          "character": "KIM",
+          "line": "Take a look at this. This is the cave system nearest the beam-in coordinates as it appeared in our initial geological scan. And this is the same system now. This tunnel here has shifted to the west by almost seventy five degrees."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Are you saying walls of solid rock have changed shape in the two days since the away team was deployed?"
+        },
+        {
+          "character": "KIM",
+          "line": "Apparently so, Captain, but our initial scans didn't indicate tectonic activity of anywhere near that magnitude."
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "In any case, it's possible that Torres and the others haven't returned to the beam-out site because they were trapped by these geological shifts. I'd like to lead a team down to investigate, Captain."
+        },
+        {
+          "character": "TUVOK",
+          "line": "And what is to prevent us from losing you as well, Commander?"
+        },
+        {
+          "character": "KIM",
+          "line": "Breadcrumbs."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Ensign?"
+        },
+        {
+          "character": "KIM",
+          "line": "I'm sorry, Captain. What I mean to say is I think I can modify some subspace transponders which could be deployed along the Commander's path, kind of like"
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Breadcrumbs. Got it."
+        },
+        {
+          "character": "KIM",
+          "line": "If they're placed at regular intervals I believe they'll maintain a signal link with the ship and they could serve as a transporter relay in case we need to stage an emergency beam-out."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Very well, Commander, take a team with you, but I want a transporter lock on you at all times."
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "Aye Captain. Tuvok, Kim, you're with me."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "SULAN",
+          "line": "I apologize for the restraints, but your presence here is very important to us. Do you understand?"
+        },
+        {
+          "character": "B'ELANNA",
+          "line": "Who are you?"
+        },
+        {
+          "character": "SULAN",
+          "line": "I am Sulan, chief surgeon of the Vidiian Sodality."
+        },
+        {
+          "character": "B'ELANNA",
+          "line": "I demand to know what is happening here."
+        },
+        {
+          "character": "B'ELANNA",
+          "line": "You've surgically altered my face. I look like a Klingon."
+        },
+        {
+          "character": "SULAN",
+          "line": "I've performed no surgery as you understand the term. There are several questions I need to ask you before we proceed."
+        },
+        {
+          "character": "B'ELANNA",
+          "line": "You can't possibly believe I'm going to cooperate with you."
+        },
+        {
+          "character": "SULAN",
+          "line": "Perhaps I was in error to leave your consciousness and memory intact."
+        },
+        {
+          "character": "B'ELANNA",
+          "line": "Durst. Paris. What have you done with them?"
+        },
+        {
+          "character": "SULAN",
+          "line": "What is your exact age, Klingon."
+        },
+        {
+          "character": "B'ELANNA",
+          "line": "If you want me to answer your question, you will have to answer one of mine first."
+        },
+        {
+          "character": "SULAN",
+          "line": "Very well."
+        },
+        {
+          "character": "B'ELANNA",
+          "line": "What exactly have you done to me."
+        },
+        {
+          "character": "SULAN",
+          "line": "I have reconstituted your genome. You are now purely Klingon."
+        },
+        {
+          "character": "B'ELANNA",
+          "line": "That's not possible."
+        },
+        {
+          "character": "SULAN",
+          "line": "I assure you it is. I have developed a procedure to stimulate cell division. A kind of enhanced mitosis. Your Klingon genetic material was extracted. It was then converted from matter to energy by our genetron. Finally you were rematerialized as the purified Klingon specimen that you are now."
+        },
+        {
+          "character": "B'ELANNA",
+          "line": "Why? Why have you done this?"
+        },
+        {
+          "character": "SULAN",
+          "line": "For generations my people have been searching the quadrant for a species immune to our disease in the hope that it would lead us to a cure."
+        },
+        {
+          "character": "B'ELANNA",
+          "line": "And you think Klingons are immune to this phage?"
+        },
+        {
+          "character": "SULAN",
+          "line": "I believe your genetic structure has phage-resistant nucleotide sequences, yes. But I needed a pure specimen to be certain. My people do not know it yet, but you are their greatest hope."
+        },
+        {
+          "character": "B'ELANNA",
+          "line": "I will never help you."
+        },
+        {
+          "character": "SULAN",
+          "line": "You are very strong. I can only hope that you will be truly resistant to the phage."
+        },
+        {
+          "character": "B'ELANNA",
+          "line": "And how will you know that?"
+        },
+        {
+          "character": "SULAN",
+          "line": "I have infected you."
+        }
+      ],
+      "location": "Laboratory"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "PARIS",
+          "line": "They're the ones with the guns, remember?"
+        },
+        {
+          "character": "DURST",
+          "line": "We've got to find a way out of this place."
+        },
+        {
+          "character": "PARIS",
+          "line": "Agreed. But I don't want to do anything until we find out what they've done with B'Elanna. In the meantime, we have to keep track of the guards movements. How long are their shifts, when do they eat, when do they sleep?"
+        },
+        {
+          "character": "DURST",
+          "line": "There don't seem to be many of them. I guess they figure we're all so exhausted we don't have any fight left."
+        },
+        {
+          "character": "PARIS",
+          "line": "We'll find an opening, Pete, and when the time is right we'll make our move."
+        },
+        {
+          "character": "PARIS",
+          "line": "Something funny, friend?"
+        },
+        {
+          "character": "TALAXIAN",
+          "line": "You."
+        },
+        {
+          "character": "PARIS",
+          "line": "Really. How's that?"
+        },
+        {
+          "character": "TALAXIAN",
+          "line": "Nobody ever escapes from this place. Those Vidiian leeches can yank the beating heart out of you in a heartbeat. Heart out of you in a heartbeat. Now that's funny."
+        },
+        {
+          "character": "DURST",
+          "line": "Hilarious."
+        },
+        {
+          "character": "PARIS",
+          "line": "Seems like you know this place pretty well."
+        },
+        {
+          "character": "TALAXIAN",
+          "line": "I should, I've been here six years."
+        },
+        {
+          "character": "PARIS",
+          "line": "Then tell me something. I thought those Vidiians were in the business of harvesting organs. How come we're all still in one piece?"
+        },
+        {
+          "character": "TALAXIAN",
+          "line": "The disease makes them weak. They need somebody to dig their tunnels. That's us. Best way to keep alive around here is to stay strong."
+        },
+        {
+          "character": "PARIS",
+          "line": "Thanks for the advice."
+        },
+        {
+          "character": "TALAXIAN",
+          "line": "Don't worry, they're always in need of replacement body parts. They'll get around to gutting you eventually. There were twenty three of us from my ship. I'm the only one left."
+        },
+        {
+          "character": "PARIS",
+          "line": "Listen. When they grabbed us there was a woman with us. B'Elanna Torres. Any idea what might have happened to her?"
+        },
+        {
+          "character": "TALAXIAN",
+          "line": "If she's not here, she's been taken to organ processing."
+        }
+      ],
+      "location": "Barracks"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "KIM",
+          "line": "I've deployed the transponders, Commander. The relay signal is coming through clearly."
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "Good work."
+        },
+        {
+          "character": "KIM",
+          "line": "Any sign of them?"
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "According to my tricorder readings they definitely came this way. The question is, where did they go from here?"
+        },
+        {
+          "character": "KIM",
+          "line": "Delightful spot to get lost."
+        },
+        {
+          "character": "TUVOK",
+          "line": "Commander, Ensign. Over here."
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "What is it."
+        },
+        {
+          "character": "TUVOK",
+          "line": "I detect traces of at least five humanoid lifeforms."
+        },
+        {
+          "character": "KIM",
+          "line": "Five? There were only three in the away team."
+        },
+        {
+          "character": "TUVOK",
+          "line": "Evidently they did not enter this cavern alone."
+        }
+      ],
+      "location": "Tunnels"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "SULAN",
+          "line": "Are you in pain?"
+        },
+        {
+          "character": "B'ELANNA",
+          "line": "It's nothing."
+        },
+        {
+          "character": "SULAN",
+          "line": "Remarkable. One of the symptoms of the early stages of the phage is excruciating joint pain. I find it extraordinary that you can endure it. Some who have been infected have been known to die from the agony itself."
+        },
+        {
+          "character": "B'ELANNA",
+          "line": "It's going to take more than an infection to kill me."
+        },
+        {
+          "character": "SULAN",
+          "line": "It appears you are correct. Your body's successfully fighting off the phage. I am overjoyed."
+        },
+        {
+          "character": "B'ELANNA",
+          "line": "How delightful for you."
+        },
+        {
+          "character": "SULAN",
+          "line": "Soon we will begin a series of procedures replicating your genetic code and attempting various methods of integrating your DNA with our own. In time we'll be successful and eliminate the phage forever. When that time comes you will be honored as a hero by my people."
+        },
+        {
+          "character": "B'ELANNA",
+          "line": "I know I'm the first Klingon you've ever seen, so I'll tell you that Klingons find honor as warriors on the battlefield, not as guinea pigs in a laboratory."
+        },
+        {
+          "character": "SULAN",
+          "line": "Earlier you accused me of mutilating you. Now you sound positively proud to be Klingon. You have me to thank for that, B'Elanna."
+        },
+        {
+          "character": "B'ELANNA",
+          "line": "You'll get no gratitude from me."
+        },
+        {
+          "character": "SULAN",
+          "line": "Perhaps you'll feel different in time, but I don't blame you for your obstinacy. I would be proud too, with a form as handsome as yours. I believe Klingons are the most impressive species I have ever seen."
+        }
+      ],
+      "location": "Laboratory"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TORRES",
+          "line": "Tom? Tom, wake up."
+        },
+        {
+          "character": "PARIS",
+          "line": "B'Elanna?"
+        },
+        {
+          "character": "TORRES",
+          "line": "Yeah, it's me."
+        },
+        {
+          "character": "PARIS",
+          "line": "B'Elanna, what have they done to you?"
+        },
+        {
+          "character": "TORRES",
+          "line": "I remember them grabbing us outside the caves and then I, I guess I just blacked out."
+        },
+        {
+          "character": "PARIS",
+          "line": "Yes, they stunned all of us."
+        },
+        {
+          "character": "TORRES",
+          "line": "The next thing I knew, they were waking me up in some kind of laboratory. I was so groggy I couldn't see. I asked them what they had done to me and then one of them said that they had completely extracted my Klingon DNA."
+        },
+        {
+          "character": "PARIS",
+          "line": "It doesn't seem possible, but you look human."
+        },
+        {
+          "character": "TORRES",
+          "line": "I feel so weak, sick to my stomach."
+        },
+        {
+          "character": "PARIS",
+          "line": "Considering what they've done to you, I'm not surprised."
+        },
+        {
+          "character": "TORRES",
+          "line": "So strange."
+        },
+        {
+          "character": "PARIS",
+          "line": "What?"
+        },
+        {
+          "character": "TORRES",
+          "line": "When I was a child, I did everything I could to hide my forehead. Hats, scarves, you name it."
+        },
+        {
+          "character": "PARIS",
+          "line": "When I was a kid, I wore a cap to cover the haircuts my father used to make me get first day of every summer."
+        },
+        {
+          "character": "TORRES",
+          "line": "I grew up on a colony on Kessik Four. My mother and I were the only Klingons there, and that was a time when relations between the Homeworld and the Federation weren't too cordial. Nobody ever said anything, but we were different and I didn't like that feeling. Then my father left when I was five years old. One day he was there and the next he wasn't. I cried myself to sleep every night for months. Of course I never told anybody. And then I finally decided that he'd left because I look like a Klingon. And so I tried to look human."
+        },
+        {
+          "character": "PARIS",
+          "line": "Looks like you finally got what you wanted."
+        }
+      ],
+      "location": "Barracks"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TUVOK",
+          "line": "Strange."
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "What is?"
+        },
+        {
+          "character": "TUVOK",
+          "line": "According to our last geological scan this cave should continue straight ahead for another eight kilometers."
+        },
+        {
+          "character": "KIM",
+          "line": "This is solid granite, more than fifty meters."
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "If these caves were changing configuration while we were here, we certainly would have felt it."
+        },
+        {
+          "character": "TUVOK",
+          "line": "True, Commander, but I do not believe there has been any tectonic activity. I believe this wall is merely an illusion, a disguised force field."
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "Away team to Voyager."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Go ahead Commander.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "We've run into some type of force field, Captain."
+        }
+      ],
+      "location": "Tunnels"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "CHAKOTAY",
+          "line": "One minute we were reading an empty tunnel, and the next we walked",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "CHAKOTAY",
+          "line": "Right into a solid wall of rock."
+        },
+        {
+          "character": "TUVOK",
+          "line": "Captain, the energy configuration of the force field matrix is virtually identical to those used by the Vidiians."
+        }
+      ],
+      "location": "Tunnels"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "JANEWAY",
+          "line": "Mister Ayala, scan for any alien vessels in the sector. Commander, we know from past experience that our phasers can disrupt that forcefield. I want to find out what's in there."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "CHAKOTAY",
+          "line": "Aye, Captain."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "But I don't want you taking any unnecessary risks. We'll be",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "Tunnels"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "JANEWAY",
+          "line": "Standing by to implement an emergency beam out."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "CHAKOTAY",
+          "line": "Acknowledged."
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "It's not working, Captain."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Try reconfiguring your phaser to match the band width modulation.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "KIM",
+          "line": "Commander!"
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "Three to beam up!"
+        }
+      ],
+      "location": "Tunnels"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "SULAN",
+          "line": "B'Elanna? How are you feeling today?"
+        },
+        {
+          "character": "B'ELANNA",
+          "line": "I feel strong. It's very frustrating to be restrained like this."
+        },
+        {
+          "character": "SULAN",
+          "line": "I sympathize."
+        },
+        {
+          "character": "B'ELANNA",
+          "line": "I don't like being chained up like an animal."
+        },
+        {
+          "character": "SULAN",
+          "line": "I'm sorry, I wish there was some"
+        },
+        {
+          "character": "B'ELANNA",
+          "line": "I've been thinking about what you said. It's because of you that I am Klingon and I do like this feeling. In a strange way I suppose I am grateful. Did you know that Klingon females are renowned in the Alpha Quadrant not only for their physical prowess but for their voracious sexual appetites as well? Why not let your creation out of her harness. Study her in action."
+        },
+        {
+          "character": "SULAN",
+          "line": "I wish it were possible, B'Elanna, but I'm afraid I can't risk releasing you just yet."
+        },
+        {
+          "character": "SULAN",
+          "line": "Forgive me."
+        },
+        {
+          "character": "B'ELANNA",
+          "line": "For what?"
+        },
+        {
+          "character": "SULAN",
+          "line": "Please, don't condescend. I may have a grotesque appearance but I assure you my instincts are finely honed, and I do have feelings. Hard as it may be for you to imagine, B'Elanna, my people were once handsome and vigorous like yours, and with your help we will be again. Perhaps when that time comes I will not disgust you quite so much as I do now."
+        }
+      ],
+      "location": "Laboratory"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "PARIS",
+          "line": "They're coming to take us to the work detail. You can't let them see how sick you are."
+        },
+        {
+          "character": "TORRES",
+          "line": "Maybe if they think I'm too weak they'll leave me behind. I could try to get my hands on that console over there."
+        },
+        {
+          "character": "PARIS",
+          "line": "Or maybe they'll skip the preliminaries and take you straight to organ processing."
+        },
+        {
+          "character": "GUARD",
+          "line": "You. Come with me."
+        },
+        {
+          "character": "DURST",
+          "line": "What for?"
+        },
+        {
+          "character": "GUARD",
+          "line": "You asked to contact your ship. The Prefect wishes to diskuss your request."
+        },
+        {
+          "character": "PARIS",
+          "line": "I'm the senior officer here. If your superiors want to talk with one of us, it should be me. He's not going anywhere without me."
+        },
+        {
+          "character": "TORRES",
+          "line": "Tom, don't. They'll kill you."
+        },
+        {
+          "character": "GUARD",
+          "line": "Stop!"
+        },
+        {
+          "character": "DURST",
+          "line": "It's okay, Tom. They're the ones with the guns, remember?"
+        },
+        {
+          "character": "PARIS",
+          "line": "What is it?"
+        }
+      ],
+      "location": "Barracks"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "JANEWAY",
+          "line": "Now that the Vidiians know we're here, we have to be prepared for the possibility they'll call in reinforcements."
+        },
+        {
+          "character": "KIM",
+          "line": "So far long range sensors haven't located any alien vessels near here."
+        },
+        {
+          "character": "TUVOK",
+          "line": "However, it is possible that the same technology that disguises their forcefields, cloaks their ships."
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "The other thing we have to consider is that the prisoners may be at greater risk now."
+        },
+        {
+          "character": "KIM",
+          "line": "Captain, take a look at this. Using our tricorder data I've been able to scan the entire planet for the forcefield signature, and it looks like the field surrounds an area more than six hundred kilometers in circumference."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Is there any way to scan inside it?"
+        },
+        {
+          "character": "KIM",
+          "line": "Every reconfiguration I've tried has failed."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "If it's the same kind of forcefield that the Vidiians used the last time we ran into them, why didn't our phasers breach it?"
+        },
+        {
+          "character": "TUVOK",
+          "line": "Apparently it has been adapted to repulse phaser fire."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "If the Vidiians can move in and out of there, so can we. Start setting up simulations. Find a way to get through that forcefield."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "SULAN",
+          "line": "B'Elanna? I have something I want to show you."
+        },
+        {
+          "character": "B'ELANNA",
+          "line": "Durst."
+        },
+        {
+          "character": "SULAN",
+          "line": "I thought perhaps this new face would make you more comfortable with me."
+        },
+        {
+          "character": "B'ELANNA",
+          "line": "You've killed him."
+        },
+        {
+          "character": "SULAN",
+          "line": "Yes, B'Elanna, but his organs will save more than a dozen lives."
+        }
+      ],
+      "location": "Laboratory"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "KIM",
+          "line": "Deep level scans have revealed a network of microfissures, miniscule openings that develop each time the field matrix remodulates."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Just how small are these microfissures?"
+        },
+        {
+          "character": "KIM",
+          "line": "Less than one micron. And they close up within a few seconds."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Would it be possible to use our phasers to expand one of these openings as it's forming?"
+        },
+        {
+          "character": "TUVOK",
+          "line": "That was our first thought. But we realized such an attempt would have to be at close range and would carry the risk of alerting the Vidiians to our presence."
+        },
+        {
+          "character": "KIM",
+          "line": "So then it occurred to us. If we could narrow the transporters energy beam tightly enough, it might be possible to transport one of us through the microfissures."
+        },
+        {
+          "character": "TUVOK",
+          "line": "Of course, timing the transport to the precise moment of an opening would be critical."
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "But if we could get someone inside, we might be able to find our people, and also deactivate the forcefield."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "And then, presumably, we could beam everyone back to the ship."
+        },
+        {
+          "character": "TUVOK",
+          "line": "Precisely. But you should be aware that because we are incapable of scanning beyond the forcefield we will have no way of communicating with whoever transports inside it. Nor will we be able to verify that the transport has been successfully completed."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Moreover, what's to prevent whoever goes in from being captured by the Vidiians."
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "I have an idea about that, Captain."
+        }
+      ],
+      "location": "Briefing room"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "EMH",
+          "line": "Dermal stimulator, please."
+        },
+        {
+          "character": "KES",
+          "line": "Remarkable work, Doctor."
+        },
+        {
+          "character": "EMH",
+          "line": "If you think this is remarkable, you should see me remove a bunion."
+        },
+        {
+          "character": "TUVOK",
+          "line": "I have done my best to replicate Vidiian attire. I trust it will prove sufficiently convincing."
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "It's a fine piece of work, Mister Tuvok. Next time I need a tailor, I'll know just where to look."
+        }
+      ],
+      "location": "Sickbay"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "GUARD",
+          "line": "Quickly, now. In there!"
+        },
+        {
+          "character": "PARIS",
+          "line": "Here, B'Elanna. Sit down."
+        },
+        {
+          "character": "TALAXIAN",
+          "line": "Here. It's water."
+        },
+        {
+          "character": "PARIS",
+          "line": "Thanks."
+        },
+        {
+          "character": "TALAXIAN",
+          "line": "Rest while you can. The guard won't be back right away. Keep it."
+        },
+        {
+          "character": "TORRES",
+          "line": "Tom, I've been thinking. When they did this thing to me, I think it changed more than just the way I look."
+        },
+        {
+          "character": "PARIS",
+          "line": "What do you mean?"
+        },
+        {
+          "character": "TORRES",
+          "line": "Back there, when they took Durst away, I was terrified."
+        },
+        {
+          "character": "PARIS",
+          "line": "No one could blame you for that."
+        },
+        {
+          "character": "TORRES",
+          "line": "You don't understand. I've been in worse situations but I've never felt like that before. Never. I mean, my heart was pounding and my hands were shaking. I didn't even try to help you."
+        },
+        {
+          "character": "PARIS",
+          "line": "B'Elanna, I'm no doctor, but I have to believe that what ever they did to you has seriously depleted your strength. There's nothing you could have done."
+        },
+        {
+          "character": "TORRES",
+          "line": "No, that's not it. I think that when they extracted my Klingon DNA, they turned me into some kind of a coward."
+        },
+        {
+          "character": "PARIS",
+          "line": "Sometimes fear can be a good thing. Keeps you from taking unnecessary chances. Courage doesn't mean that you don't have fear. It means that you've learnt to overcome it. And I know that you can find the courage to hold on until we can find a way out of this place."
+        },
+        {
+          "character": "GUARD",
+          "line": "What's going on here?"
+        },
+        {
+          "character": "PARIS",
+          "line": "She's ill. She needed a rest."
+        },
+        {
+          "character": "GUARD",
+          "line": "If she's too weak, I'll take her back to the barracks."
+        },
+        {
+          "character": "TORRES",
+          "line": "That's okay, Tom. Maybe if I'm there I can try to make contact with the ship."
+        }
+      ],
+      "location": "Tunnels"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "KIM",
+          "line": "The emitter array has been initialized, Captain."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Good. Are you ready, Mister Chakotay?"
+        },
+        {
+          "character": "TUVOK",
+          "line": "Captain. There's an opening forming in the forcefield."
+        },
+        {
+          "character": "KIM",
+          "line": "Initiating auto sequence."
+        },
+        {
+          "character": "TUVOK",
+          "line": "Targeting scanners to match coordinates. Scanners locked."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "On my mark, Mister Kim. Energize. Well, now we wait."
+        }
+      ],
+      "location": "Transporter Room"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "B'ELANNA",
+          "line": "Make a sound and I'll break your neck, understand? I'm looking for my friend, Tom Paris, a human male. Have you seen him?"
+        },
+        {
+          "character": "TALAXIAN",
+          "line": "He was here, but they sent him to another tunnel."
+        },
+        {
+          "character": "TORRES",
+          "line": "Which one?"
+        },
+        {
+          "character": "TALAXIAN",
+          "line": "Back that way. There was another human with him, but they took her back to the barracks."
+        },
+        {
+          "character": "TORRES",
+          "line": "A human female?"
+        }
+      ],
+      "location": "Tunnels"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "GUARD 2",
+          "line": "I need your help here."
+        },
+        {
+          "character": "GUARD",
+          "line": "What are you doing? Come with us."
+        },
+        {
+          "character": "TORRES",
+          "line": "Where are you taking me?"
+        },
+        {
+          "character": "GUARD 2",
+          "line": "For a shower and a hot meal."
+        },
+        {
+          "character": "TORRES",
+          "line": "No, please."
+        }
+      ],
+      "location": "Barracks"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "B'ELANNA",
+          "line": "Wake up, petaQ! Eat!"
+        },
+        {
+          "character": "TORRES",
+          "line": "What is it?"
+        },
+        {
+          "character": "B'ELANNA",
+          "line": "Some rodent I killed."
+        },
+        {
+          "character": "TORRES",
+          "line": "No, thanks."
+        },
+        {
+          "character": "B'ELANNA",
+          "line": "I'm sorry I can't replicate you a souffl\u00e9 but you need nourishment. I can't carry you all the way out of here."
+        },
+        {
+          "character": "TORRES",
+          "line": "How are we supposed to escape this place? There are guards everywhere."
+        },
+        {
+          "character": "B'ELANNA",
+          "line": "We fight our way out."
+        },
+        {
+          "character": "TORRES",
+          "line": "Maybe you haven't noticed, but I'm not exactly in fighting form."
+        },
+        {
+          "character": "B'ELANNA",
+          "line": "That's why you need food. Eat. So, you're what's left over when all the Klingon DNA is taken out."
+        },
+        {
+          "character": "TORRES",
+          "line": "Apparently."
+        },
+        {
+          "character": "B'ELANNA",
+          "line": "If I hadn't come along, were you just going to waste away in that prison camp until they killed you for your body parts? Were you too frightened to act?"
+        },
+        {
+          "character": "TORRES",
+          "line": "I was looking for a way to escape."
+        },
+        {
+          "character": "B'ELANNA",
+          "line": "Looking! I'll show you the way to escape! This and this."
+        },
+        {
+          "character": "TORRES",
+          "line": "That's the way you respond every situation, isn't it? If it doesn't work, hit it. If it's in your way, knock it down. No wonder I got kicked out of the Academy."
+        },
+        {
+          "character": "B'ELANNA",
+          "line": "For which you should be eternally grateful."
+        },
+        {
+          "character": "TORRES",
+          "line": "Well, I'm not! Your temper has gotten me into trouble more times that I can. Listen to me. Listen to us. This is ridiculous. Do you realize we're each fighting with our self."
+        },
+        {
+          "character": "B'ELANNA",
+          "line": "I'm not the one who's fighting, petaQ. If I remember correctly, I'm the one who rescued you from that prison and carried you here. Don't you think you could at least acknowledge that? Can't you even admit that you won't be able to get out of here without me?"
+        },
+        {
+          "character": "TORRES",
+          "line": "I don't know that I can get out of here with you. Brute force isn't going to do it."
+        },
+        {
+          "character": "B'ELANNA",
+          "line": "Maybe not. Maybe we'll die in the attempt. But that's better than sitting here like frightened tik'kah cats doing nothing."
+        },
+        {
+          "character": "TORRES",
+          "line": "There you go again. Out of control. Just leaping into action before you think things through."
+        },
+        {
+          "character": "B'ELANNA",
+          "line": "Fine. You stay here. I'm getting out."
+        },
+        {
+          "character": "TORRES",
+          "line": "No, wait a minute, that's not what I meant. I'm sorry. Please. Just before you rescued me, I logged onto the Vidiian's computer system. I only had a few seconds, but I think I found a way to access the force field that's cloaking this place. With a few minutes more I could have deactivated it."
+        },
+        {
+          "character": "B'ELANNA",
+          "line": "Then Voyager could get a lock on us, beam us back. Paris, too."
+        },
+        {
+          "character": "TORRES",
+          "line": "It may not be as exciting as fighting our way out, but it stands a much better chance of working, if I have your help."
+        },
+        {
+          "character": "B'ELANNA",
+          "line": "So. You need me."
+        },
+        {
+          "character": "TORRES",
+          "line": "I can't get back to that computer without you. And you'll have to cover for me while I work."
+        },
+        {
+          "character": "B'ELANNA",
+          "line": "We can't go to the prison barracks. There are too many guards there. In the lab where they were holding me, there was a security console. That's the last place they would expect us to be."
+        }
+      ],
+      "location": "Cave"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TALAXIAN",
+          "line": "They must have taken her to organ processing."
+        },
+        {
+          "character": "PARIS",
+          "line": "Tell me how to get there."
+        },
+        {
+          "character": "PARIS",
+          "line": "Keep your hands off me!"
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "Whatever you say, Paris, but I thought you might like to get out of this place."
+        },
+        {
+          "character": "PARIS",
+          "line": "Chakotay?"
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "Where are Torres and Durst?"
+        },
+        {
+          "character": "PARIS",
+          "line": "I think they've been taken to what the Vidiians call organ processing."
+        },
+        {
+          "character": "GUARD",
+          "line": "You! Why are you talking to that prisoner."
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "I was ordered to take him to organ processing."
+        },
+        {
+          "character": "GUARD",
+          "line": "Why wasn't I notified?"
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "I was told you had been."
+        },
+        {
+          "character": "GUARD",
+          "line": "I've never seen you before."
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "My face was just grafted."
+        },
+        {
+          "character": "GUARD",
+          "line": "Very well, take him. But from now on I expect to be notified in advance of all transfers."
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "Yes, sir."
+        }
+      ],
+      "location": "Barracks"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "B'ELANNA",
+          "line": "There."
+        },
+        {
+          "character": "TORRES",
+          "line": "I have to bypass the security code so I can access the force field grid. Then I'll have a better idea of what we're dealing with. That should do it. There! That's what we're up against, and I think we're here."
+        },
+        {
+          "character": "B'ELANNA",
+          "line": "Can you shut it down?"
+        },
+        {
+          "character": "TORRES",
+          "line": "I'm working on it."
+        },
+        {
+          "character": "B'ELANNA",
+          "line": "What now?"
+        },
+        {
+          "character": "TORRES",
+          "line": "If they didn't know we were here before, they do now. Take it easy. I'll be done in a minute."
+        },
+        {
+          "character": "B'ELANNA",
+          "line": "You're not frightened any more, are you?"
+        },
+        {
+          "character": "TORRES",
+          "line": "Maybe I just don't have time to think about it."
+        },
+        {
+          "character": "TORRES",
+          "line": "Are you hurt?"
+        },
+        {
+          "character": "B'ELANNA",
+          "line": "Keep working."
+        },
+        {
+          "character": "SULAN",
+          "line": "B'Elanna, stop."
+        },
+        {
+          "character": "B'ELANNA",
+          "line": "You're not going to hurt me. You need me."
+        },
+        {
+          "character": "SULAN",
+          "line": "You're right. But if you do not surrender, I will kill her."
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "Drop it!"
+        },
+        {
+          "character": "SULAN",
+          "line": "Who are you?"
+        },
+        {
+          "character": "B'ELANNA",
+          "line": "That's what I want to know."
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "It's Chakotay!"
+        },
+        {
+          "character": "TORRES",
+          "line": "I think I've just about accessed the forcefield."
+        },
+        {
+          "character": "B'ELANNA",
+          "line": "Hurry!"
+        },
+        {
+          "character": "TORRES",
+          "line": "Got it! There!"
+        }
+      ],
+      "location": "Laboratory"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TUVOK",
+          "line": "Captain, the forcefield has been disrupted."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Mister Kim, can you get a lock on Commander Chakotay?"
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "Chakotay to Voyager, do you read?",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Loud and clear, Commander."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "CHAKOTAY",
+          "line": "I've found them, Captain."
+        },
+        {
+          "character": "B'ELANNA",
+          "line": "No!"
+        },
+        {
+          "character": "SULAN",
+          "line": "No!"
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "Three humans and one Klingon to beam up."
+        }
+      ],
+      "location": "Laboratory"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "PARIS",
+          "line": "She's badly wounded, Captain."
+        },
+        {
+          "character": "TORRES",
+          "line": "Beam her to Sickbay!"
+        },
+        {
+          "character": "B'ELANNA",
+          "line": "Don't. No time. You showed true courage. It makes my death an honorable one."
+        }
+      ],
+      "location": "Transporter room"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "EMH",
+          "line": "Using tissue from your counterpart, I can replicate the Klingon DNA, then over the course of several days, I'll reintegrate that genetic material into your cellular structure."
+        },
+        {
+          "character": "TORRES",
+          "line": "Wait a minute. You're not saying that you're going to change me back?"
+        },
+        {
+          "character": "EMH",
+          "line": "That's precisely what I'm saying. Your cell's ability to synthesis proteins has been severely compromised. You need the Klingon genes to survive."
+        },
+        {
+          "character": "TORRES",
+          "line": "So she's saving my life again."
+        },
+        {
+          "character": "EMH",
+          "line": "I'll get started on the DNA."
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "How are you doing?"
+        },
+        {
+          "character": "TORRES",
+          "line": "I'm not sure. It's been a pretty strange experience. I do know that right now, the way I am, I'm more at peace with myself than I've ever been before. And that's a good feeling."
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "But?"
+        },
+        {
+          "character": "TORRES",
+          "line": "I'm incomplete. It doesn't feel like me. I guess I've had someone else living inside of me for too long to feel right without her."
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "I'd have to say that you two made quite a team down there."
+        },
+        {
+          "character": "TORRES",
+          "line": "I know. I came to admire a lot of things about her. Her strength, her bravery. I guess I just have to accept the fact that I'll spend the rest of my life fighting with her."
+        }
+      ],
+      "location": "Sickbay"
+    }
+  ],
+  "schedule": {
+    "episode": 14,
+    "number": 14,
+    "season": 1
+  },
+  "stardate": "448784.2",
+  "title": "Faces"
+}

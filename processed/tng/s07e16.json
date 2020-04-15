@@ -1,0 +1,1402 @@
+{
+  "airdate": 761202000,
+  "scenes": [
+    {
+      "dialogue": [
+        {
+          "character": "unknown",
+          "line": "Bridge Officer's log, stardate 47611.2. Doctor Beverly Crusher reporting. We have rendezvoused with Counselor Troi's shuttlecraft. She has just returned from a three day class reunion on Starbase two three one."
+        }
+      ],
+      "location": "unknown"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "CRUSHER",
+          "line": "Send a message to Commander Data and inform him of our delay."
+        },
+        {
+          "character": "RAINER",
+          "line": "Aye, sir."
+        },
+        {
+          "character": "CRUSHER",
+          "line": "Deanna, welcome back."
+        },
+        {
+          "character": "TROI",
+          "line": "Thank you. I was just reporting in. I didn't expect to find anyone up except Data."
+        },
+        {
+          "character": "CRUSHER",
+          "line": "Data's away on assignment. A Federation deep space probe went off course and crashed on Barkon Four. Some of the material in the casing was radioactive, so Data was sent to recover it before it could contaminate the biosphere."
+        },
+        {
+          "character": "TROI",
+          "line": "Isn't Barkon Four inhabited?"
+        },
+        {
+          "character": "CRUSHER",
+          "line": "Yes, it's a pre-industrial society, but the probe crashed over a hundred kilometers from the nearest settlement so Data shouldn't have any contact with the Barkonians. So, how was the reunion?"
+        },
+        {
+          "character": "TROI",
+          "line": "Fine. It was good to see some old friends. I'd lost touch with most of them. It's interesting to see the different paths some of their lives have taken. Beverly, you don't usually stand a watch on the Bridge even when Data's not here."
+        },
+        {
+          "character": "CRUSHER",
+          "line": "I volunteered tonight. I like to put in a little Bridge time now and then, stay on top of operations, tactical procedures. The truth is, I like it. It's not every doctor who gets to command a starship, even if it is the night shift."
+        },
+        {
+          "character": "TROI",
+          "line": "May I ask you a personal question? Why did you decide to become a Commander? I mean, you didn't need the rank in order to be Chief Medical Officer, so why put yourself through all the extra work?"
+        },
+        {
+          "character": "CRUSHER",
+          "line": "Oh, I don't know. I never even thought about my rank for a long time. It seemed pretty trivial compared to being a doctor. But then, about eight years ago, I started to feel like I wanted to stretch myself a little."
+        },
+        {
+          "character": "RAINER",
+          "line": "Commander, there's no response from Commander Data to our signal."
+        },
+        {
+          "character": "CRUSHER",
+          "line": "Continue sending him updates on our schedule."
+        },
+        {
+          "character": "RAINER",
+          "line": "Aye, sir."
+        },
+        {
+          "character": "TROI",
+          "line": "Is something wrong?"
+        },
+        {
+          "character": "CRUSHER",
+          "line": "No. I wanted to let Data know there'd be a delay in picking him up for a few of days. We have orders to rendezvous with the Lexington and take some medical supplies to the Taranko Colony."
+        },
+        {
+          "character": "TROI",
+          "line": "But he's not responding."
+        },
+        {
+          "character": "CRUSHER",
+          "line": "Geordi said that the radiation from the probe might interfere with communications. I just thought I'd try anyway."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "GARVIN",
+          "line": "So when you return from school tonight, I'll be meeting with the village elders."
+        },
+        {
+          "character": "GIA",
+          "line": "Again?"
+        },
+        {
+          "character": "GARVIN",
+          "line": "Gia."
+        },
+        {
+          "character": "GIA",
+          "line": "I know, I know. You're the town magistrate and you have a lot of work to do, but it always seems like you're always in some meeting or"
+        },
+        {
+          "character": "GARVIN",
+          "line": "Gia, go home. Now. Who are you? What do you want?"
+        },
+        {
+          "character": "DATA",
+          "line": "Who are you? What do you want?"
+        },
+        {
+          "character": "GARVIN",
+          "line": "What's wrong with you?"
+        },
+        {
+          "character": "DATA",
+          "line": "What's wrong with you?"
+        },
+        {
+          "character": "GARVIN",
+          "line": "There's nothing wrong with me. Who are you? What is your name? Can you understand me? My name is Garvin."
+        },
+        {
+          "character": "DATA",
+          "line": "My name is Garvin?"
+        },
+        {
+          "character": "GARVIN",
+          "line": "I thought I told you to go home."
+        },
+        {
+          "character": "GIA",
+          "line": "I know."
+        },
+        {
+          "character": "DATA",
+          "line": "I do not know my name."
+        },
+        {
+          "character": "GARVIN",
+          "line": "What?"
+        },
+        {
+          "character": "DATA",
+          "line": "You asked if I knew my name. I do not."
+        },
+        {
+          "character": "GARVIN",
+          "line": "Well at least you seem to be understanding a little more."
+        },
+        {
+          "character": "DATA",
+          "line": "Yes. It is becoming easier."
+        },
+        {
+          "character": "GIA",
+          "line": "Ask him where he's from, father."
+        },
+        {
+          "character": "GARVIN",
+          "line": "Gia, go on to school. I'll deal with the stranger."
+        },
+        {
+          "character": "GIA",
+          "line": "Yes, Father. Goodbye."
+        },
+        {
+          "character": "DATA",
+          "line": "Goodbye."
+        },
+        {
+          "character": "GARVIN",
+          "line": "Your eyes and skin look so strange. Your clothes, you look like you've been in some kind of accident."
+        },
+        {
+          "character": "DATA",
+          "line": "I do not remember being in an accident."
+        },
+        {
+          "character": "GARVIN",
+          "line": "What do you remember?"
+        },
+        {
+          "character": "DATA",
+          "line": "I walked here from the mountains."
+        },
+        {
+          "character": "GARVIN",
+          "line": "The mountains? The mountains are over two hundred seltons from here."
+        },
+        {
+          "character": "DATA",
+          "line": "I have a clear memory of my journey."
+        },
+        {
+          "character": "GARVIN",
+          "line": "What do you remember before that?"
+        },
+        {
+          "character": "DATA",
+          "line": "I have no prior memory."
+        },
+        {
+          "character": "GARVIN",
+          "line": "Do you know what that is?"
+        },
+        {
+          "character": "DATA",
+          "line": "No."
+        },
+        {
+          "character": "GARVIN",
+          "line": "May I? May I have it?"
+        },
+        {
+          "character": "DATA",
+          "line": "Yes."
+        },
+        {
+          "character": "GARVIN",
+          "line": "There might be something in here that can tell us who you are."
+        },
+        {
+          "character": "GARVIN",
+          "line": "I wonder what these markings mean."
+        },
+        {
+          "character": "DATA",
+          "line": "Radioactive."
+        },
+        {
+          "character": "GARVIN",
+          "line": "What?"
+        },
+        {
+          "character": "DATA",
+          "line": "That is what is written on the container."
+        },
+        {
+          "character": "GARVIN",
+          "line": "You can read this language?"
+        },
+        {
+          "character": "DATA",
+          "line": "Evidently."
+        },
+        {
+          "character": "GARVIN",
+          "line": "Radioactive. What does that mean?"
+        },
+        {
+          "character": "DATA",
+          "line": "I do not know. Perhaps it is my name."
+        },
+        {
+          "character": "GARVIN",
+          "line": "I've never heard a name like that. You must come from a very distant place."
+        }
+      ],
+      "location": "Town square"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TROI",
+          "line": "Is that supposed to be a question?"
+        },
+        {
+          "character": "TROI",
+          "line": "Because if you're asking me if I liked what you were playing, then the answer is yes."
+        },
+        {
+          "character": "TROI",
+          "line": "You know, this is a much better way of communicating for you. It's far less confusing than the way you normally speak."
+        },
+        {
+          "character": "RIKER",
+          "line": "I knew I could count on my Imzadi, the ship's Counselor to boost my self-image."
+        },
+        {
+          "character": "TROI",
+          "line": "I'm glad to be of service."
+        },
+        {
+          "character": "RIKER",
+          "line": "Did you come here for something in particular, or just general Riker bashing?"
+        },
+        {
+          "character": "TROI",
+          "line": "Actually I wanted to ask your opinion about something. I've been thinking about taking the Bridge Officer's test and becoming a full Commander."
+        },
+        {
+          "character": "RIKER",
+          "line": "What brought this up?"
+        },
+        {
+          "character": "TROI",
+          "line": "A lot of things. Working on the personnel review last month, talking with Beverly about her experiences, going to my class reunion."
+        },
+        {
+          "character": "RIKER",
+          "line": "Ah, the class reunion. You saw a few old friends who had already taken the test?"
+        },
+        {
+          "character": "TROI",
+          "line": "All right, I admit it was a catalyst. But I can honestly say that I've been thinking about this off and on over the past two years."
+        },
+        {
+          "character": "RIKER",
+          "line": "Why the past two years?"
+        },
+        {
+          "character": "TROI",
+          "line": "Do you remember when the Enterprise hit that quantum filament and I was in command on the Bridge?"
+        },
+        {
+          "character": "RIKER",
+          "line": "I do."
+        },
+        {
+          "character": "TROI",
+          "line": "Well, when that happened, I was overwhelmed. But when it was over I realized that a part of me missed it. Not the actual disaster, but the experience of being in command. I felt like I was exploring a whole new side of myself. Not that I want to give up counseling by any means, but I really would like to stretch myself a little."
+        },
+        {
+          "character": "RIKER",
+          "line": "Deanna, if you take the Bridge Officer's test, you'll have my complete support. But as First Officer, I'll be the one judging your performance, and you should know I am a pretty tough judge."
+        },
+        {
+          "character": "TROI",
+          "line": "And I'm a pretty good student."
+        },
+        {
+          "character": "RIKER",
+          "line": "We'll start tomorrow morning, oh eight hundred hours."
+        }
+      ],
+      "location": "Riker's quarters"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TALUR",
+          "line": "Remarkable set of teeth. Breath smells like, well, it doesn't have any smell actually. You can close your mouth. Let's see. Heartbeat sounds a little odd, but seems very regular. Skin feels clammy, but you say you feel fine?"
+        },
+        {
+          "character": "DATA",
+          "line": "That is correct."
+        },
+        {
+          "character": "TALUR",
+          "line": "No headaches, palpitations, sluggishness, indigestion?"
+        },
+        {
+          "character": "DATA",
+          "line": "No. But I cannot have indigestion since I have not eaten."
+        },
+        {
+          "character": "TALUR",
+          "line": "Ah. Malnutrition. You should try to eat something that will build strength and return your vitality. Lots of meat, butter, cheese, that should be a start."
+        },
+        {
+          "character": "GARVIN",
+          "line": "What about his eyes and his skin? They're so odd."
+        },
+        {
+          "character": "TALUR",
+          "line": "Quite so, quite so. I'm sure my grandmother would have called our friend here a demon or spirit or some kind of monster. But current scientific methodology allows us to dismiss such ridiculous superstitions and concentrate on scientific reality."
+        },
+        {
+          "character": "DATA",
+          "line": "Then what do you believe I am?"
+        },
+        {
+          "character": "TALUR",
+          "line": "You are an ice man."
+        },
+        {
+          "character": "DATA",
+          "line": "Ice man?"
+        },
+        {
+          "character": "TALUR",
+          "line": "Yes. You probably come from a race of people who lived in the snow and ice of the Vellorian mountains. Your skin and eye coloration are a result of prolonged exposure to harsh winter conditions."
+        },
+        {
+          "character": "DATA",
+          "line": "Then I am not ill?"
+        },
+        {
+          "character": "TALUR",
+          "line": "Aside from your memory loss, you do not seem to have any symptoms of any illness that I am familiar with. No. You are an ice man. Now, get something to eat and a good night's rest, and I will come back tomorrow to see if your memory has begun to return."
+        },
+        {
+          "character": "DATA",
+          "line": "Thank you."
+        },
+        {
+          "character": "TALUR",
+          "line": "Hello, Gia."
+        },
+        {
+          "character": "GIA",
+          "line": "Hello."
+        },
+        {
+          "character": "GIA",
+          "line": "What did Talur say about him? Is he sick?"
+        },
+        {
+          "character": "GARVIN",
+          "line": "Not exactly. She said he's lost his memory, but seems to be fine otherwise. Talur thinks he's from a race that lives in the mountains."
+        },
+        {
+          "character": "DATA",
+          "line": "I am an ice man."
+        },
+        {
+          "character": "GARVIN",
+          "line": "We'll have to call you something besides Ice man until your memory returns. What was the word on the container?"
+        },
+        {
+          "character": "DATA",
+          "line": "Radioactive."
+        },
+        {
+          "character": "GARVIN",
+          "line": "Mister Radioactive?"
+        },
+        {
+          "character": "GIA",
+          "line": "I don't like that name. Let's call him Jayden."
+        },
+        {
+          "character": "GARVIN",
+          "line": "What do you think of that?"
+        },
+        {
+          "character": "DATA",
+          "line": "Jayden. That is acceptable."
+        },
+        {
+          "character": "GARVIN",
+          "line": "Right now, we need to clean him up and get him something decent to wear. Run upstairs and get some of my old clothes for him."
+        },
+        {
+          "character": "GIA",
+          "line": "Yes, Father."
+        },
+        {
+          "character": "GARVIN",
+          "line": "I wonder if Skoran can tell us something about this metal of yours."
+        }
+      ],
+      "location": "Garvin's home"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "SKORAN",
+          "line": "You, Ice man, where'd you find this?"
+        },
+        {
+          "character": "DATA",
+          "line": "I do not know."
+        },
+        {
+          "character": "GARVIN",
+          "line": "I told you, he's lost his memory and we're calling him Jayden for now."
+        },
+        {
+          "character": "SKORAN",
+          "line": "Jayden, huh? The metal is slightly warm."
+        },
+        {
+          "character": "GARVIN",
+          "line": "All the fragments are like that."
+        },
+        {
+          "character": "SKORAN",
+          "line": "It's obviously been tempered and milled. The lustrous quality of the metal is so pure. This wasn't made in any forge I've ever seen. Will you sell them?"
+        },
+        {
+          "character": "GARVIN",
+          "line": "You want them?"
+        },
+        {
+          "character": "SKORAN",
+          "line": "The metal's malleable enough to make some jewellry."
+        },
+        {
+          "character": "GARVIN",
+          "line": "They belong to Jayden. Do you want to sell them? You're going to need money."
+        },
+        {
+          "character": "DATA",
+          "line": "You may be right. But I do not wish to sell all the fragments. They may provide a clue to my identity."
+        },
+        {
+          "character": "SKORAN",
+          "line": "I'll give you twenty doraks for half the lot."
+        },
+        {
+          "character": "GARVIN",
+          "line": "Agreed."
+        },
+        {
+          "character": "APPRENTICE",
+          "line": "My leg! My leg! Get it off! Get it off!"
+        },
+        {
+          "character": "SKORAN",
+          "line": "We need a lever."
+        },
+        {
+          "character": "GARVIN",
+          "line": "It'll be all right. Don't struggle. It will only"
+        },
+        {
+          "character": "GARVIN",
+          "line": "Jayden, put it down."
+        },
+        {
+          "character": "DATA",
+          "line": "I believe the support structure on the anvil collapsed because some of the wood had rotted. Did I do something wrong, Garvin?"
+        },
+        {
+          "character": "GARVIN",
+          "line": "No, just unexpected."
+        }
+      ],
+      "location": "Town square"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TALUR",
+          "line": "It's perfectly understandable. Your people probably all have great strength. It will allow them to fight off the ferocious creatures that live in the Vellorian Mountains."
+        },
+        {
+          "character": "DATA",
+          "line": "You have told me no one from the village has ever been to the Vellorian Mountains. How can you be certain there are ferocious creatures there?"
+        },
+        {
+          "character": "TALUR",
+          "line": "It's a well known fact."
+        },
+        {
+          "character": "DATA",
+          "line": "But no one has actually seen one?"
+        },
+        {
+          "character": "TALUR",
+          "line": "Well, not to my knowledge, but"
+        },
+        {
+          "character": "GIA",
+          "line": "Father, are you all right?"
+        },
+        {
+          "character": "GARVIN",
+          "line": "I've been tired since this afternoon. I'm sure it's nothing."
+        },
+        {
+          "character": "TALUR",
+          "line": "You feel slightly warm. Some fresh air and a brisk walk will do you good."
+        },
+        {
+          "character": "GARVIN",
+          "line": "That sounds like a good idea. I'll be back soon."
+        },
+        {
+          "character": "GIA",
+          "line": "You didn't like it?"
+        },
+        {
+          "character": "DATA",
+          "line": "I neither liked it nor disliked it. I simply had no appetite."
+        },
+        {
+          "character": "GIA",
+          "line": "Father's cooking isn't as good as mother's. He tries, though."
+        },
+        {
+          "character": "DATA",
+          "line": "Where is your mother?"
+        },
+        {
+          "character": "GIA",
+          "line": "She died about a year ago. Father says she went to a beautiful place where everything is peaceful and everyone loves each other, and no one ever gets sick. Do you think there's really a place like that?"
+        },
+        {
+          "character": "DATA",
+          "line": "Yes. I do."
+        }
+      ],
+      "location": "Garvin's home"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "LAFORGE",
+          "line": "We just lost contact with everything above deck twenty one, including the Bridge."
+        },
+        {
+          "character": "WORF",
+          "line": "There is something wrong with one of the antimatter containment units. The magnetic field is starting to fluctuate."
+        },
+        {
+          "character": "TROI",
+          "line": "Switch to auxiliary control."
+        },
+        {
+          "character": "WORF",
+          "line": "Auxiliary control is not online. We are starting to lose containment on antimatter storage unit three."
+        },
+        {
+          "character": "TROI",
+          "line": "All right. Switch the EM power inverter to the lateral. No, wait. Use the neodyne relay."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Commander, the neodyne relay isn't holding. Containment failure in ten seconds."
+        },
+        {
+          "character": "TROI",
+          "line": "Computer, emergency procedure. Eject antimatter storage unit three. Authorisation, Troi omega omega three one."
+        },
+        {
+          "character": "COMPUTER",
+          "line": "Unable to comply. All power to ejection systems has been terminated and cannot be restored."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Commander, the unit's beginning to o"
+        },
+        {
+          "character": "RIKER",
+          "line": "Congratulations. You just destroyed the Enterprise."
+        },
+        {
+          "character": "TROI",
+          "line": "Thank you for the encouragement."
+        },
+        {
+          "character": "RIKER",
+          "line": "Don't feel bad. You passed everything else. Diplomatic law, first contact procedures, Bridge operations. The Engineering qualification's one of the toughest parts of the test."
+        },
+        {
+          "character": "TROI",
+          "line": "So what did I do wrong?"
+        },
+        {
+          "character": "RIKER",
+          "line": "I'm afraid I can't tell you that."
+        },
+        {
+          "character": "TROI",
+          "line": "Why not? What kind of a test is this?"
+        },
+        {
+          "character": "RIKER",
+          "line": "It's the kind of a test that you'll have to take again if you want to be a Bridge Officer. Only next time, the problem won't be so easy, so I suggest you study up on your emergency procedures."
+        },
+        {
+          "character": "TROI",
+          "line": "Well how do I know what to study if you won't tell me what I did wrong?"
+        },
+        {
+          "character": "RIKER",
+          "line": "I don't know. I'm afraid I can't tell you that either."
+        }
+      ],
+      "location": "Holodeck - Engineering"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TALUR",
+          "line": "Rock, fire, sky, and water are the basic elements of the universe. They can be found in every object, every person, every animal, everything. The rock in this wood can be felt by its weight and by its hardness. If we expose the wood to flame, we can encourage the fire within the wood to show itself. We can also see smoke, which is a part of the sky. The water in wood is difficult to see. Sometimes the elements are buried deep within the objects, but the four elements are always there. Yes, Jayden?"
+        },
+        {
+          "character": "DATA",
+          "line": "I do not believe that is correct."
+        },
+        {
+          "character": "TALUR",
+          "line": "Oh?"
+        },
+        {
+          "character": "DATA",
+          "line": "I believe you are reasoning by analogy, classifying objects and phenomena according to superficial observation rather than empirical evidence. Wood, for example, does not contain fire simply because it is combustible, nor does it contain rock simply because it is heavy. Wood, like any complex organic form, is composed of thousands of different chemical compounds, none of which is fire."
+        },
+        {
+          "character": "TALUR",
+          "line": "That will be enough for now, Jayden. As I told you earlier, our friend Jayden here has lost much of his memory, so I wouldn't put too much faith in any of his ideas. Now that will be all for today. I will see you tomorrow. Be sure to practice your spelling and arithmetic tonight."
+        },
+        {
+          "character": "GIA",
+          "line": "Are you all right?"
+        },
+        {
+          "character": "DATA",
+          "line": "Yes. But I do not agree with Talur's assessment. Although I do have gaps in my memory, I know that fire is not an element."
+        },
+        {
+          "character": "GARVIN",
+          "line": "That is not what you promised me!"
+        },
+        {
+          "character": "SKORAN",
+          "line": "You're getting old, Garvin. I offered you fifteen for the metal and I've given it to you. No more."
+        },
+        {
+          "character": "GARVIN",
+          "line": "We agreed on twenty."
+        },
+        {
+          "character": "DATA",
+          "line": "Garvin is correct. You agreed on twenty."
+        },
+        {
+          "character": "SKORAN",
+          "line": "Stay out of this, Ice man. Your memory is not very reliable."
+        },
+        {
+          "character": "GIA",
+          "line": "Father! Father, what's wrong?"
+        },
+        {
+          "character": "GARVIN",
+          "line": "I don't know I feel very weak suddenly."
+        },
+        {
+          "character": "GIA",
+          "line": "You have got a fever. We should get him home."
+        }
+      ],
+      "location": "Town square school"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "GIA",
+          "line": "What's wrong with him?"
+        },
+        {
+          "character": "TALUR",
+          "line": "I suspect he I don't know. I've never encountered anything like this before. These lesions look like burn marks. The fluids of his body have overheated. That would explain the fever and the burning skin. Keep him cool, let plenty of fresh air into the house, and I want you to give him these herbs. That will bring his fluidic temperature down and allow this to pass."
+        },
+        {
+          "character": "GIA",
+          "line": "I understand."
+        },
+        {
+          "character": "DATA",
+          "line": "With an increased focal length and an achromatic objective lens, this instrument will have a higher effective magnification."
+        },
+        {
+          "character": "TALUR",
+          "line": "I will come back tomorrow and check on you."
+        },
+        {
+          "character": "GARVIN",
+          "line": "Thank you."
+        },
+        {
+          "character": "DATA",
+          "line": "Garvin, with your permission, I would like to begin my own investigation regarding the cause of your illness."
+        },
+        {
+          "character": "GARVIN",
+          "line": "Go ahead."
+        },
+        {
+          "character": "DATA",
+          "line": "Gia, I would like you to accompany me to the village. I will need some supplies."
+        }
+      ],
+      "location": "Garvin's home"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "GIA",
+          "line": "What are you going to do with all this?"
+        },
+        {
+          "character": "DATA",
+          "line": "I will use these materials to make the laboratory equipment I need to research your father's illness."
+        },
+        {
+          "character": "GIA",
+          "line": "Do you think you can help him?"
+        },
+        {
+          "character": "DATA",
+          "line": "I do not know. First I must isolate the cause of the illness."
+        },
+        {
+          "character": "SKORAN",
+          "line": "There he is! It's his fault! None of us were sick before he came to the village!"
+        },
+        {
+          "character": "CROWD",
+          "line": "True."
+        },
+        {
+          "character": "DATA",
+          "line": "Am I to understand that Garvin's illness has spread?"
+        },
+        {
+          "character": "SKORAN",
+          "line": "That's right. And you're the cause."
+        },
+        {
+          "character": "GIA",
+          "line": "That's not true!"
+        },
+        {
+          "character": "DATA",
+          "line": "Gia, I think we should leave."
+        },
+        {
+          "character": "SKORAN",
+          "line": "That's it. Leave. Get out of here. Go back where you came from!"
+        }
+      ],
+      "location": "Town square"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TALUR",
+          "line": "Jayden what are you doing?"
+        },
+        {
+          "character": "DATA",
+          "line": "I am studying skin samples from Gia and Garvin in an attempt to isolate the cause of the illness."
+        },
+        {
+          "character": "TALUR",
+          "line": "Gia?"
+        },
+        {
+          "character": "DATA",
+          "line": "Yes. She is also beginning to show signs of the illness."
+        },
+        {
+          "character": "TALUR",
+          "line": "What is that?"
+        },
+        {
+          "character": "DATA",
+          "line": "It is a magnifying device based on your hand-held instrument. I have refined the design to increase the magnification level."
+        },
+        {
+          "character": "TALUR",
+          "line": "May I?"
+        },
+        {
+          "character": "DATA",
+          "line": "Of course."
+        },
+        {
+          "character": "TALUR",
+          "line": "How strong is the magnification?"
+        },
+        {
+          "character": "DATA",
+          "line": "Objects appear approximately five hundred times their normal size. As you can see, the cellular damage is quite extensive. However, based on interstitial transparency and membrane integrity, I do not believe it is an infection or any other form of communicable disease."
+        },
+        {
+          "character": "TALUR",
+          "line": "I see."
+        },
+        {
+          "character": "DATA",
+          "line": "At the moment, I am looking for a common event or experience that Gia, Garvin and Skoran might have shared that could have a causal relationship to their illness."
+        },
+        {
+          "character": "TALUR",
+          "line": "Well they've all lived here in the village for many years. I'm sure they have many common experiences."
+        },
+        {
+          "character": "DATA",
+          "line": "Yes, but since the illness struck all three in a relatively short period of time, it is reasonable to assume the experience is recent and unusual."
+        },
+        {
+          "character": "TALUR",
+          "line": "Actually, Jayden, encountering you has been the most unusual experience that they've all shared recently."
+        },
+        {
+          "character": "DATA",
+          "line": "I am aware of that. Excuse me. I am also open to the possibility that I may in some way be the causal factor. However, since you have had a great deal of contact with me and you show no signs of the sickness, I tend to diskount myself as a likely candidate."
+        },
+        {
+          "character": "TALUR",
+          "line": "Still, it has to be more than just a coincidence that shortly after you arrived, people started to become ill."
+        },
+        {
+          "character": "DATA",
+          "line": "I agree."
+        },
+        {
+          "character": "GIA",
+          "line": "Jayden I tried to give father his broth, but he won't eat."
+        },
+        {
+          "character": "TALUR",
+          "line": "You have a fever. You should be in bed."
+        },
+        {
+          "character": "GIA",
+          "line": "No, I'm all right. Father needs me."
+        },
+        {
+          "character": "DATA",
+          "line": "Talur is correct. You should rest. I will attend to your father. Gia, when did you begin wearing that pendant?"
+        },
+        {
+          "character": "GIA",
+          "line": "Two days ago. Father bought it from Skoran. Why?"
+        },
+        {
+          "character": "DATA",
+          "line": "May I see it? This is one of the metal fragments I sold to Skoran."
+        }
+      ],
+      "location": "Garvin's home"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TROI",
+          "line": "The secondary plasma vent has a triple redundant bypass. Which means that the primary access junction is routed through"
+        },
+        {
+          "character": "TROI",
+          "line": "Come in. Would be routed through the port transducer matrix. Come to give me more encouragement?"
+        },
+        {
+          "character": "RIKER",
+          "line": "No. I'm actually here to tell you that I've decided to cancel the rest of your test."
+        },
+        {
+          "character": "TROI",
+          "line": "What?"
+        },
+        {
+          "character": "RIKER",
+          "line": "I'm canceling the test."
+        },
+        {
+          "character": "TROI",
+          "line": "May I ask why?"
+        },
+        {
+          "character": "RIKER",
+          "line": "You've taken the Engineering qualification three times. You're no closer to passing."
+        },
+        {
+          "character": "TROI",
+          "line": "Well, then I'll take it four times, or fourteen times, or however many times are necessary for me to get it right."
+        },
+        {
+          "character": "RIKER",
+          "line": "Deanna, this is nothing personal. Not everyone is cut out to be a Bridge Officer. I don't think this is for you."
+        },
+        {
+          "character": "TROI",
+          "line": "Why? Because I'm not the most technically-minded person on the ship? I may have trouble telling the difference between a plasma conduit and a phase inducer, but there's more to being a bridge officer than memorizing technical manuals."
+        },
+        {
+          "character": "RIKER",
+          "line": "That's right, there is. You could spend the next month memorizing all the technical manuals in the computer, I still don't think you'd pass the test."
+        },
+        {
+          "character": "TROI",
+          "line": "Tell me one thing. Is there a solution? Or is this simply a test of my ability to handle a no-win situation?"
+        },
+        {
+          "character": "RIKER",
+          "line": "There is a solution."
+        },
+        {
+          "character": "TROI",
+          "line": "Then give me time to find it."
+        },
+        {
+          "character": "RIKER",
+          "line": "I can't. As much as I care about you, my first duty is to the ship. I cannot let any Bridge Officer serve who's not qualified. I'm sorry."
+        },
+        {
+          "character": "TROI",
+          "line": "My first duty is to the ship. The ship!"
+        }
+      ],
+      "location": "Troi's quarters"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TROI",
+          "line": "Computer, load Bridge Officer's test, Engineering qualification section one."
+        },
+        {
+          "character": "COMPUTER",
+          "line": "Computer ready."
+        },
+        {
+          "character": "TROI",
+          "line": "Run program."
+        },
+        {
+          "character": "WORF",
+          "line": "The control system for the primary containment field is not functioning."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Something's severed the ODN conduit between here and the antimatter storage deck."
+        },
+        {
+          "character": "TROI",
+          "line": "Geordi, could you repair the ODN conduit if you went into the crawlspace?"
+        },
+        {
+          "character": "WORF",
+          "line": "Sir, that crawlway is in a warp-plasma shaft. He would never survive the radiation."
+        },
+        {
+          "character": "TROI",
+          "line": "I know that. Geordi, could you repair the conduit?"
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Yeah, I think I could."
+        },
+        {
+          "character": "TROI",
+          "line": "Then do it. That's an order."
+        },
+        {
+          "character": "RIKER",
+          "line": "End simulation. Something told me you wouldn't let this go. Congratulations. You passed."
+        },
+        {
+          "character": "TROI",
+          "line": "That's what this was all about, wasn't it? To see if I'd order someone to their death."
+        },
+        {
+          "character": "RIKER",
+          "line": "That's right."
+        },
+        {
+          "character": "TROI",
+          "line": "I knew that was part of being in command and I thought I'd prepared for it, but when the moment came I hesitated. Maybe you were right. Maybe I'm not cut out for this."
+        },
+        {
+          "character": "RIKER",
+          "line": "You did exactly what you had to do. You considered all your options, you tried every alternative, and then you made the hard choice. Come on, let's get out of here, Commander."
+        }
+      ],
+      "location": "Holodeck - Engineering"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "DATA",
+          "line": "I have coated this piece of cloth with the liquid which is used in lamps. As you can see, the cloth becomes luminescent when it is exposed to an energy source. This pendant also appears to be an energy source."
+        },
+        {
+          "character": "TALUR",
+          "line": "But where is this pattern of light coming from?"
+        },
+        {
+          "character": "DATA",
+          "line": "I believe a stream of particles is emanating from the metallic pendant and hitting the cloth."
+        },
+        {
+          "character": "TALUR",
+          "line": "I don't see any particles coming from the pendant."
+        },
+        {
+          "character": "DATA",
+          "line": "You will see there are. I can even block them."
+        },
+        {
+          "character": "DATA",
+          "line": "It would appear that this container was constructed of a material which absorbs or blocks the particles coming from the metal."
+        },
+        {
+          "character": "TALUR",
+          "line": "It's a trick."
+        },
+        {
+          "character": "DATA",
+          "line": "No. It is empirical data. I believe the fragments were originally placed in this container to protect people from accidental exposure. The word radioactive may be a warning about the dangerous nature of the metal."
+        },
+        {
+          "character": "TALUR",
+          "line": "All right. Let's say for the moment that you're right, that there are invisible particles coming from the metal. What should we do?"
+        },
+        {
+          "character": "DATA",
+          "line": "I will continue my experiment. I would like you to gather all the pieces of metal in the village and place them in this container."
+        },
+        {
+          "character": "TALUR",
+          "line": "All right. But when I return, I want a more thorough explanation of all this. And I want to examine your data, in detail."
+        },
+        {
+          "character": "DATA",
+          "line": "Of course."
+        },
+        {
+          "character": "SKORAN",
+          "line": "There you are. You're the cause of this, Ice man."
+        },
+        {
+          "character": "DATA",
+          "line": "If you are referring to the illness, you are partially correct. However, it is more complex than that. The metal fragment which"
+        },
+        {
+          "character": "SKORAN",
+          "line": "What, what are you?"
+        },
+        {
+          "character": "DATA",
+          "line": "I do not know."
+        },
+        {
+          "character": "SKORAN",
+          "line": "I saw it with my own eyes. He's not a person. He's some kind of creature."
+        },
+        {
+          "character": "GIA",
+          "line": "It's not true, Father."
+        },
+        {
+          "character": "SKORAN",
+          "line": "We must find him and stop him before he kills us all."
+        },
+        {
+          "character": "GARVIN",
+          "line": "I don't. Not Jayden. He wouldn't try to hurt us."
+        },
+        {
+          "character": "SKORAN",
+          "line": "Come on."
+        },
+        {
+          "character": "TALUR",
+          "line": "Let him rest for now. You should rest as well. Exerting yourself will only make you sicker. I'll be back."
+        },
+        {
+          "character": "DATA",
+          "line": "Gia."
+        },
+        {
+          "character": "GIA",
+          "line": "Jayden? Everyone's looking for you. Skoran said you're some kind of creature."
+        },
+        {
+          "character": "DATA",
+          "line": "I do not know what I am. But I am not like you."
+        },
+        {
+          "character": "GIA",
+          "line": "I know. You're an Ice man. We talked about that."
+        },
+        {
+          "character": "DATA",
+          "line": "No. I am not."
+        },
+        {
+          "character": "GIA",
+          "line": "Jayden, why are you wearing that hood?"
+        },
+        {
+          "character": "DATA",
+          "line": "I do not wish to frighten you."
+        },
+        {
+          "character": "GIA",
+          "line": "I won't be afraid. Take it off. Please, I have to see."
+        },
+        {
+          "character": "DATA",
+          "line": "I understand your reaction. But I do not wish to harm you. You or Garvin or anyone else. I only wish to help, to find a cure for the illness. I was very close. I must to continue my work, but it will take time. How long until Skoran and the others return?"
+        },
+        {
+          "character": "GIA",
+          "line": "I don't know. They're looking for you now."
+        },
+        {
+          "character": "DATA",
+          "line": "Then I must hurry."
+        },
+        {
+          "character": "DATA",
+          "line": "Gia, I believe I have found the answer."
+        },
+        {
+          "character": "GIA",
+          "line": "You think you found a cure?"
+        },
+        {
+          "character": "DATA",
+          "line": "I believe so. I tested this medicine on skin samples from your father. They showed improvement, so I administered this to him. He is now recovering."
+        },
+        {
+          "character": "GIA",
+          "line": "What kind of medicine is it?"
+        },
+        {
+          "character": "DATA",
+          "line": "A compound I made which will neutralize the particles that are making you ill. Swallow this. I must administer this to everyone in the village, but I do not think they will trust me after what happened to Skoran."
+        },
+        {
+          "character": "GIA",
+          "line": "I could tell them."
+        },
+        {
+          "character": "DATA",
+          "line": "I am afraid they will not believe you either. Gia, is the well in the town square the only source of water for this village?"
+        },
+        {
+          "character": "GIA",
+          "line": "Well?"
+        },
+        {
+          "character": "DATA",
+          "line": "This is very important. Are there any other sources of fresh water near the village?"
+        },
+        {
+          "character": "GIA",
+          "line": "No. The nearest river is two days away."
+        },
+        {
+          "character": "DATA",
+          "line": "Then I will put this compound into the well water. It may be diluted, but it should still have enough potency to work."
+        },
+        {
+          "character": "GIA",
+          "line": "Compound"
+        }
+      ],
+      "location": "Garvin's home"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "SKORAN",
+          "line": "There he is! You see? It's just as I said."
+        },
+        {
+          "character": "DATA",
+          "line": "I only wish to help."
+        },
+        {
+          "character": "SKORAN",
+          "line": "This is how you've helped us, by bringing this plague? Tried to kill us all? Well, you won't succeed. I won't let you!"
+        }
+      ],
+      "location": "Town square"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "CRUSHER",
+          "line": "Excuse me. We're looking for a friend of ours. He might have wandered into your village a few days ago."
+        },
+        {
+          "character": "RIKER",
+          "line": "You'd remember him. He would have appeared very strange. Pale skin, gold eyes."
+        },
+        {
+          "character": "GIA",
+          "line": "He was your friend?"
+        },
+        {
+          "character": "CRUSHER",
+          "line": "Yes. Do you know him?"
+        },
+        {
+          "character": "RIKER",
+          "line": "Where is he?"
+        },
+        {
+          "character": "CRUSHER",
+          "line": "I don't understand."
+        },
+        {
+          "character": "GIA",
+          "line": "We didn't know his real name, so we called him Jayden."
+        },
+        {
+          "character": "RIKER",
+          "line": "You're saying he's dead?"
+        },
+        {
+          "character": "GIA",
+          "line": "They killed him because they were afraid of him, but he saved all of us from the sickness."
+        },
+        {
+          "character": "CRUSHER",
+          "line": "The sickness?"
+        },
+        {
+          "character": "GIA",
+          "line": "There were these pieces of metal. They made everyone sick. But Jayden put something in the water and now everyone's better."
+        },
+        {
+          "character": "RIKER",
+          "line": "What happened to these pieces of metal?"
+        },
+        {
+          "character": "GIA",
+          "line": "We buried them in the forest. What was his real name?"
+        },
+        {
+          "character": "RIKER",
+          "line": "Data."
+        },
+        {
+          "character": "GIA",
+          "line": "Data. He was my friend, too."
+        },
+        {
+          "character": "CRUSHER",
+          "line": "It's Data all right. He's buried about two meters down. He's been deactivated so I can't tell how bad the damage is."
+        },
+        {
+          "character": "RIKER",
+          "line": "We could beam him and the probe fragments right onto the ship. No one would know."
+        }
+      ],
+      "location": "Town square"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "CRUSHER",
+          "line": "Positronic net online. Subprocessor relays in place and neuroelectrical systems enabled."
+        },
+        {
+          "character": "CRUSHER",
+          "line": "Data, are you all right?"
+        },
+        {
+          "character": "DATA",
+          "line": "I do not know. I am surprised to find myself here. I thought I was on Barkon Four."
+        },
+        {
+          "character": "PICARD",
+          "line": "What's the last thing you remember?"
+        },
+        {
+          "character": "DATA",
+          "line": "I had located the crashed Federation probe and collected the radioactive fragments. I was attempting to download the sensor logs from the probe's onboard computer. There was a power surge. I believe the surge overloaded my positronic matrix. After that, I have no memory until this moment. It appears I had an interesting time."
+        },
+        {
+          "character": "RIKER",
+          "line": "We don't know much about what happened either. Apparently you saved an entire village from radiation poisoning."
+        },
+        {
+          "character": "CRUSHER",
+          "line": "And you were a very special friend to a little girl."
+        },
+        {
+          "character": "TROI",
+          "line": "Well, if you'll excuse me, I have the Bridge this watch."
+        },
+        {
+          "character": "DATA",
+          "line": "Counselor, have you been promoted in my absence?"
+        },
+        {
+          "character": "TROI",
+          "line": "That's right. Which means from now on you can call me sir."
+        },
+        {
+          "character": "DATA",
+          "line": "Yes, sir."
+        }
+      ],
+      "location": "Sickbay"
+    }
+  ],
+  "schedule": {
+    "episode": 16,
+    "number": 168,
+    "season": 7
+  },
+  "stardate": "47611.2",
+  "title": "Thine Own Self"
+}

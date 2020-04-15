@@ -1,0 +1,1941 @@
+{
+  "airdate": 596091600,
+  "scenes": [
+    {
+      "dialogue": [
+        {
+          "character": "COMPUTER",
+          "line": "Repulse shuttle has cleared docking bay three."
+        },
+        {
+          "character": "RIKER",
+          "line": "Open hailing frequencies."
+        },
+        {
+          "character": "WORF",
+          "line": "Hailing frequencies opened."
+        },
+        {
+          "character": "RIKER",
+          "line": "Repulse, this is the Enterprise. We are getting underway."
+        },
+        {
+          "character": "REPULSE",
+          "line": "Acknowledged, Enterprise. Transfer complete. Good luck on your mission.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "RIKER",
+          "line": "And to you."
+        },
+        {
+          "character": "REPULSE",
+          "line": "Give my regards to your Captain. Repulse out.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "WESLEY",
+          "line": "Shuttlebay is secure, sir."
+        },
+        {
+          "character": "RIKER",
+          "line": "Thank you, Mister Crusher. Make all preparations to get underway."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "LAFORGE",
+          "line": "We're constructing the enclosure on cargo deck five."
+        },
+        {
+          "character": "PICARD",
+          "line": "Come."
+        },
+        {
+          "character": "RIKER",
+          "line": "The transfer's been complete. Doctor Pulaski is being shown to her quarters. We're ready to get underway."
+        },
+        {
+          "character": "PICARD",
+          "line": "Grand. Take a look at the containment module our Chief Engineer has designed."
+        },
+        {
+          "character": "RIKER",
+          "line": "Chief Engineer. It still has a nice ring to it."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Each of these units will have total environmental control. Gravity, temperature, atmosphere, light, all in a protective stasis field."
+        },
+        {
+          "character": "RIKER",
+          "line": "And these get put into the large containment unit."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Right. See, these modules will keep the specimens alive, but it's this large containment area that's going to keep us alive. Now, I have to go and replicate this five hundred and twelve times, which means I'll have to divert power from the warp engines to the replicator for a while."
+        },
+        {
+          "character": "PICARD",
+          "line": "How long will we be on impulse power?"
+        },
+        {
+          "character": "LAFORGE",
+          "line": "A couple of hours. Can't be helped."
+        },
+        {
+          "character": "RIKER",
+          "line": "When we leave 'audet Nine, I'm going to need all the power you can slam into those warp engines."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "You'll have it."
+        },
+        {
+          "character": "PICARD",
+          "line": "I'll relieve you at zero three zero zero."
+        }
+      ],
+      "location": "Ready room"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "RIKER",
+          "line": "Take us out of orbit, Mister Crusher. Set course for 'audet Nine."
+        },
+        {
+          "character": "WESLEY",
+          "line": "Aye, sir. Course for 'audet Nine has been input."
+        },
+        {
+          "character": "RIKER",
+          "line": "Maximum impulse velocity."
+        },
+        {
+          "character": "WESLEY",
+          "line": "Aye, sir."
+        },
+        {
+          "character": "RIKER",
+          "line": "Engage."
+        },
+        {
+          "character": "DATA",
+          "line": "Engineering, this is Science One. I have just observed what appeared to be a random energy transference."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "LAFORGE",
+          "line": "Where?"
+        },
+        {
+          "character": "DATA",
+          "line": "Aft. Outboard of the port nacelle.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Hold on, I'll check."
+        }
+      ],
+      "location": "La Forge's office"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "LAFORGE",
+          "line": "No, I show nothing here, Data."
+        }
+      ],
+      "location": "Engineering"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "RIKER",
+          "line": "Problem, Commander?"
+        },
+        {
+          "character": "DATA",
+          "line": "Possibility, sir. An unexplained power fluctuation."
+        },
+        {
+          "character": "RIKER",
+          "line": "Let me know if it reoccurs."
+        },
+        {
+          "character": "DATA",
+          "line": "Aye, sir."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "PICARD",
+          "line": "Captain's log, Stardate 42073.1. There has been an outbreak of an unclassified plasma plague in the Rachelis system. We are on an emergency run to collect specimens of the deadly plague and transport them to Science Station Tango Sierra, where hopefully an antidote can be produced.",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "Corridor"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "LAFORGE",
+          "line": "How's it going?"
+        },
+        {
+          "character": "CREWMAN",
+          "line": "Finished. Just waiting to insert the modules."
+        }
+      ],
+      "location": "Cargo deck five"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "PICARD",
+          "line": "Number One."
+        },
+        {
+          "character": "RIKER",
+          "line": "Lieutenant La Forge says we will be able to engage the warp drive within the hour."
+        },
+        {
+          "character": "PICARD",
+          "line": "Grand. Mister Data, when we have a complete list of all the specimens we will be carrying, I want you and Doctor er,"
+        },
+        {
+          "character": "DATA",
+          "line": "Pulaski, sir."
+        },
+        {
+          "character": "PICARD",
+          "line": "Doctor Pulaski. I want you to go through them."
+        },
+        {
+          "character": "DATA",
+          "line": "Aye, sir."
+        },
+        {
+          "character": "PICARD",
+          "line": "By the way, where is our new doctor? Has she reported in?"
+        },
+        {
+          "character": "RIKER",
+          "line": "Not yet."
+        },
+        {
+          "character": "PICARD",
+          "line": "Sickbay, this is the captain."
+        },
+        {
+          "character": "SICKBAY",
+          "line": "Sickbay, aye."
+        },
+        {
+          "character": "PICARD",
+          "line": "Is Doctor Pulaski there?"
+        },
+        {
+          "character": "SICKBAY",
+          "line": "Er, no, sir. The Doctor is in Ten forward.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "PICARD",
+          "line": "Thank you."
+        },
+        {
+          "character": "SICKBAY",
+          "line": "Aye, sir.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "PICARD",
+          "line": "A few hours on board and already she's found Ten forward."
+        },
+        {
+          "character": "RIKER",
+          "line": "I'll go get her."
+        },
+        {
+          "character": "PICARD",
+          "line": "No. I'll go."
+        },
+        {
+          "character": "WORF",
+          "line": "Not the best way to meet your new Captain."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "PICARD",
+          "line": "Deck ten, forward station one."
+        },
+        {
+          "character": "WESLEY",
+          "line": "Hello, Captain."
+        },
+        {
+          "character": "PICARD",
+          "line": "Ensign. I'm sorry this mission will delay your reunion with your mother."
+        },
+        {
+          "character": "WESLEY",
+          "line": "That's all right. That will give me the time to finish some projects I have to do. It's going to be hard leaving the Enterprise."
+        },
+        {
+          "character": "PICARD",
+          "line": "Mixed feelings for all of us. It's always difficult leaving any ship, just as it was for your mother"
+        }
+      ],
+      "location": "Turbolift"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "PICARD",
+          "line": "When she left to become head of Starfleet Medical. But going from one assignment to another is part of the life which you are choosing."
+        },
+        {
+          "character": "WESLEY",
+          "line": "I know, but this isn't any ship."
+        },
+        {
+          "character": "PICARD",
+          "line": "How true."
+        }
+      ],
+      "location": "Corridor"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "PICARD",
+          "line": "Guinan."
+        },
+        {
+          "character": "GUINAN",
+          "line": "Captain."
+        },
+        {
+          "character": "PICARD",
+          "line": "Where is Doctor Pulaski? Thank you. (Picard goes over to a table by a window occupied by Troi and another woman. Everyone say Hi! to Ann Mulhall, or Miranda Jones if you prefer)"
+        },
+        {
+          "character": "PICARD",
+          "line": "Doctor Katherine Pulaski?"
+        },
+        {
+          "character": "PULASKI",
+          "line": "Ah you must be Captain Picard."
+        },
+        {
+          "character": "PICARD",
+          "line": "Doctor, protocol may have been lax on your last assignment, but here on the Enterprise."
+        },
+        {
+          "character": "PULASKI",
+          "line": "Sit down, Captain. You'd better listen to this."
+        }
+      ],
+      "location": "Ten forward"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "PICARD",
+          "line": "Lieutenant La Forge, status report."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "The containment area is completed, Captain, and the last of the modules are being inserted.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "PICARD",
+          "line": "Take us to warp six as soon as possible."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Acknowledged.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "PICARD",
+          "line": "This is Doctor Katherine Pulaski. We will handle the formal introduction later. Counselor Deanna Troi is pregnant. She is going to have a baby."
+        },
+        {
+          "character": "RIKER",
+          "line": "Baby? This is a surprise."
+        },
+        {
+          "character": "TROI",
+          "line": "More so for me."
+        },
+        {
+          "character": "PULASKI",
+          "line": "This pregnancy is unlike anything I have ever encountered. Since she came to me a few hours ago, I have done two complete examinations of Counselor Troi. This is from the first examination. The fetus is about halfway through the first trimester, about six weeks old. Now, understand we believe conception took place eleven hours ago."
+        },
+        {
+          "character": "RIKER",
+          "line": "What?"
+        },
+        {
+          "character": "PULASKI",
+          "line": "It gets better. This is the second exam one hour later. Now, it's consistent, except for the fact that it appears the fetus is several weeks older. At this growth rate, Counselor Troi will have her baby in about thirty six hours. The normal gestation rate for a Betazoid is ten months."
+        },
+        {
+          "character": "RIKER",
+          "line": "I don't mean to be indelicate, but who's the father?"
+        },
+        {
+          "character": "TROI",
+          "line": "Last night, while I slept, something which I can only describe as a presence, entered my body."
+        },
+        {
+          "character": "PICARD",
+          "line": "A life form of unknown origin and intent is breeding right now inside Counselor Troi. Our purpose here is to determine what is to be done about this very unusual situation. Diskussion."
+        },
+        {
+          "character": "RIKER",
+          "line": "No, wait. Let me get this straight. Deanna was impregnated by by what? Doctor, what do the tests show? Is it a humanoid? An alien?"
+        },
+        {
+          "character": "PULASKI",
+          "line": "It's a male human, or in this case half-human half-Betazoid."
+        },
+        {
+          "character": "RIKER",
+          "line": "Exactly the same as Deanna."
+        },
+        {
+          "character": "PULASKI",
+          "line": "In every way. In fact, there is nothing to indicate that there are any genetic patterns other than hers."
+        },
+        {
+          "character": "RIKER",
+          "line": "I don't think this is a random occurrence. I think there's a purpose here. A reason. What, I don't know."
+        },
+        {
+          "character": "WORF",
+          "line": "Captain, obviously the pregnancy must be terminated for the safety of the ship and crew."
+        },
+        {
+          "character": "RIKER",
+          "line": "Worf, you can't assume the intent was belligerent."
+        },
+        {
+          "character": "WORF",
+          "line": "That is the safest assumption."
+        },
+        {
+          "character": "DATA",
+          "line": "Captain, this is a life form. Not to allow it to develop naturally would deny us the opportunity to study it."
+        },
+        {
+          "character": "WORF",
+          "line": "If the fetus is aborted, laboratory analysis is still possible."
+        },
+        {
+          "character": "RIKER",
+          "line": "Doctor, is there any health risk to Counselor Troi if the fetus is aborted?"
+        },
+        {
+          "character": "TROI",
+          "line": "Captain, do whatever you feel is necessary to protect the ship and the crew, but know this. I'm going to have this baby."
+        },
+        {
+          "character": "PICARD",
+          "line": "Then it seems that the diskussion is over."
+        },
+        {
+          "character": "PICARD",
+          "line": "Captain's log, supplemental. We have finally arrived at 'audet Nine, where we will pick up the specimens of plasma plague for transport to Rachelis. It is only because so many lives are at stake that I am willing to put this ship and crew at such great risk. Meanwhile, Counselor Troi's pregnancy continues to progress at an astonishing rate.",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "Observation lounge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "PICARD",
+          "line": "How are you feeling?"
+        },
+        {
+          "character": "TROI",
+          "line": "I should be feeling uncomfortable with all the changes in my body but, I don't. I feel fine. Better than fine. Wonderful."
+        },
+        {
+          "character": "RIKER",
+          "line": "Standard orbit."
+        },
+        {
+          "character": "WESLEY",
+          "line": "Standard orbit, sir."
+        },
+        {
+          "character": "PICARD",
+          "line": "Open hailing frequencies."
+        },
+        {
+          "character": "WORF",
+          "line": "Hailing frequencies open."
+        },
+        {
+          "character": "PICARD",
+          "line": "'Audet Nine, this is Captain Jean-Luc Picard of the USS Enterprise."
+        },
+        {
+          "character": "DEALT",
+          "line": "Ah, the Enterprise, here at last. Well, good. Let's get going.",
+          "modifier": "screen"
+        },
+        {
+          "character": "PICARD",
+          "line": "Excuse me, to whom am I speaking?"
+        },
+        {
+          "character": "DEALT",
+          "line": "To whom are you speaking? Oh I'm Lieutenant Commander Hester Dealt, Medical Trustee, Federation Medical Collection Station.",
+          "modifier": "screen"
+        },
+        {
+          "character": "PICARD",
+          "line": "Are the specimens ready for transfer?"
+        },
+        {
+          "character": "DEALT",
+          "line": "Yes, but with your permission I would like to inspect the containment area before we proceed. Now it's not that I doubt the ability of your crew, but we cannot afford a mistake.",
+          "modifier": "screen"
+        },
+        {
+          "character": "PICARD",
+          "line": "I appreciate your caution. In the like vein, I want a complete, detailed manifest of everything you intend to bring on board my ship."
+        },
+        {
+          "character": "DEALT",
+          "line": "Very good. I will allow access you to my computer banks, okay?",
+          "modifier": "screen"
+        },
+        {
+          "character": "PICARD",
+          "line": "Mister Data, download the inventory and cross-reference it with the medical computer. Number One, arrange to have Hester Dealt transported up."
+        },
+        {
+          "character": "PICARD",
+          "line": "Captain's log, supplemental. Although it's been fourteen hours since we arrived at 'audet Nine. Hester Dealt has still not completed inspection of the containment unit. A transfer will not be permitted until he's assured of zero growth during our voyage. Meanwhile, the desperate pleas from the Rachelis System continue.",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "DATA",
+          "line": "Captain, the final manifest has been received."
+        },
+        {
+          "character": "PICARD",
+          "line": "At last. Review it with Doctor Pulaski. I want you both to be completely familiar with it."
+        },
+        {
+          "character": "DATA",
+          "line": "Aye, sir."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TROI",
+          "line": "Data, will you help me get to Sickbay."
+        }
+      ],
+      "location": "Corridor"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TROI",
+          "line": "It's time."
+        },
+        {
+          "character": "PULASKI",
+          "line": "Oh, you bet it is. Let's get you to Maternity."
+        },
+        {
+          "character": "DATA",
+          "line": "Worf, assemble your security team in Sickbay."
+        },
+        {
+          "character": "PULASKI",
+          "line": "Is that necessary?"
+        },
+        {
+          "character": "DATA",
+          "line": "Yes, Doctor. Captain's orders."
+        },
+        {
+          "character": "PULASKI",
+          "line": "Well, it's strange to need armed guards in a delivery room. This way."
+        }
+      ],
+      "location": "Pulaski's office"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "PULASKI",
+          "line": "How frequent are your contractions?"
+        },
+        {
+          "character": "TROI",
+          "line": "Very close together."
+        },
+        {
+          "character": "PULASKI",
+          "line": "In my other deliveries, except for a couple, the father was always present."
+        },
+        {
+          "character": "TROI",
+          "line": "Difficult under the circumstances."
+        },
+        {
+          "character": "DATA",
+          "line": "Perhaps I could serve in that capacity."
+        },
+        {
+          "character": "PULASKI",
+          "line": "Counselor Troi is going to need the comfort of a human touch, not the cold hand of technology."
+        },
+        {
+          "character": "TROI",
+          "line": "Doctor, I think Commander Data will do very nicely."
+        },
+        {
+          "character": "PULASKI",
+          "line": "Your choice."
+        },
+        {
+          "character": "TROI",
+          "line": "You don't have to do anything, Data. Just be with me."
+        },
+        {
+          "character": "PULASKI",
+          "line": "There is nothing to be nervous about."
+        },
+        {
+          "character": "DATA",
+          "line": "Nervous? I find this very interesting. Although I understand, in technical terms, how life is formed, there is still a part of the process which eludes me. The child inside you, are you able to access his thought process? Does he have thoughts? You are aware of him. Is he aware of you? And when does that awareness begin?"
+        },
+        {
+          "character": "TROI",
+          "line": "It's happening."
+        },
+        {
+          "character": "DATA",
+          "line": "How does it feel?"
+        },
+        {
+          "character": "TROI",
+          "line": "Data!"
+        },
+        {
+          "character": "DATA",
+          "line": "Yes?"
+        },
+        {
+          "character": "TROI",
+          "line": "Now!"
+        },
+        {
+          "character": "DATA",
+          "line": "Now? Now! Doctor! Doctor! Doctor!"
+        },
+        {
+          "character": "PULASKI",
+          "line": "This is an impatient baby. He's eager to make his appearance. Do you want something for the pain? It will in no way diminish the experience."
+        },
+        {
+          "character": "TROI",
+          "line": "I have felt no pain."
+        },
+        {
+          "character": "PULASKI",
+          "line": "None?"
+        },
+        {
+          "character": "TROI",
+          "line": "No, none at all."
+        },
+        {
+          "character": "PULASKI",
+          "line": "Have your Security men stand back. I understand the importance of having you here, but keep out from underfoot. Fetal position?"
+        },
+        {
+          "character": "NURSE",
+          "line": "Normal."
+        },
+        {
+          "character": "PULASKI",
+          "line": "Fetal pulse?"
+        },
+        {
+          "character": "NURSE",
+          "line": "One thirty seven."
+        },
+        {
+          "character": "PULASKI",
+          "line": "The baby is showing healthy respiratory movements."
+        },
+        {
+          "character": "PULASKI",
+          "line": "The action of the heart rate is good. The baby's doing wonderfully, Troi. Breathe slowly. You're doing great. Stay calm. That's it. There it is. I've got him. You can relax."
+        },
+        {
+          "character": "PULASKI",
+          "line": "There, there. That's a good boy. It's okay. Oh, my, he's beautiful. Are easy births the norm for Betazoids?"
+        },
+        {
+          "character": "TROI",
+          "line": "Not according to my mother."
+        },
+        {
+          "character": "PULASKI",
+          "line": "You can come in the rest of the way now. There's no threat, Lieutenant. You and your men can relax. It's just a baby."
+        },
+        {
+          "character": "DATA",
+          "line": "Thank you for allowing me to participate. It was remarkable."
+        },
+        {
+          "character": "PULASKI",
+          "line": "Do you have a name?"
+        },
+        {
+          "character": "TROI",
+          "line": "Ian Andrew, after my father."
+        },
+        {
+          "character": "TROI",
+          "line": "Were you hear all along?"
+        },
+        {
+          "character": "RIKER",
+          "line": "Yes. He's beautiful, Deanna. Just like his mother."
+        },
+        {
+          "character": "PULASKI",
+          "line": "How do you feel?"
+        },
+        {
+          "character": "TROI",
+          "line": "Fine. Wonderful. Thank you, Doctor, for everything."
+        },
+        {
+          "character": "PULASKI",
+          "line": "Amazing."
+        }
+      ],
+      "location": "Sickbay"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "PULASKI",
+          "line": "Captain."
+        },
+        {
+          "character": "PICARD",
+          "line": "Doctor. Welcome to the Bridge. Please, sit down. How is Counselor Troi? Did she have a good night?"
+        },
+        {
+          "character": "PULASKI",
+          "line": "I've delivered dozens of babies, but none like this. There was no pain, no trauma."
+        },
+        {
+          "character": "RIKER",
+          "line": "It's true."
+        },
+        {
+          "character": "PULASKI",
+          "line": "It was effortless for both of them."
+        },
+        {
+          "character": "PICARD",
+          "line": "I'm not sure of your point."
+        },
+        {
+          "character": "PULASKI",
+          "line": "She had her baby yesterday. If I were to examine her now, I would not be able to tell she had a baby, or had ever had a baby. It was as if the incident never happened."
+        },
+        {
+          "character": "PICARD",
+          "line": "Data, how long before we begin the transfer?"
+        },
+        {
+          "character": "DATA",
+          "line": "Two hours nineteen minutes, sir."
+        },
+        {
+          "character": "PICARD",
+          "line": "Number One, you have the Bridge."
+        },
+        {
+          "character": "RIKER",
+          "line": "Aye, sir."
+        },
+        {
+          "character": "PICARD",
+          "line": "You will accompany me, Doctor? Please? I think it's time I paid my respects."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TROI",
+          "line": "Come in."
+        },
+        {
+          "character": "PICARD",
+          "line": "Deanna, I wanted to see how you were and have a look at your baby! My goodness. How old is he?"
+        },
+        {
+          "character": "PULASKI",
+          "line": "In actuality, a day."
+        },
+        {
+          "character": "PICARD",
+          "line": "Yes, but"
+        },
+        {
+          "character": "PULASKI",
+          "line": "In appearance, almost four earth years old."
+        },
+        {
+          "character": "TROI",
+          "line": "Ian, say hello to Captain Picard."
+        },
+        {
+          "character": "PICARD",
+          "line": "You mean he can talk?"
+        },
+        {
+          "character": "IAN",
+          "line": "Hello."
+        },
+        {
+          "character": "PICARD",
+          "line": "Hello, Ian."
+        },
+        {
+          "character": "IAN",
+          "line": "Please don't worry. Everything is okay."
+        },
+        {
+          "character": "PICARD",
+          "line": "Captain's log, supplemental. We are faced with two major problems. Troi's child and the deadly cargo we are about to take on. In the hours since his birth, Troi's baby has continued his rapid growth and now appears, physically and mentally, to be a child of eight. Still there is no indication as to who he is, or why he is here.",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "Troi's quarters"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "RIKER",
+          "line": "Sickbay, this is the Bridge. We are ready to begin loading."
+        },
+        {
+          "character": "PULASKI",
+          "line": "We need a little more time. It's taking longer than we anticipated to categorize these specimens.",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "PULASKI",
+          "line": "Da ta, look at this."
+        },
+        {
+          "character": "DATA",
+          "line": "Data."
+        },
+        {
+          "character": "PULASKI",
+          "line": "What?"
+        },
+        {
+          "character": "DATA",
+          "line": "My name. It is pronounced Data."
+        },
+        {
+          "character": "PULASKI",
+          "line": "Oh?"
+        },
+        {
+          "character": "DATA",
+          "line": "You called me Da ta."
+        },
+        {
+          "character": "PULASKI",
+          "line": "What's the difference?"
+        },
+        {
+          "character": "DATA",
+          "line": "One is my name. The other is not."
+        },
+        {
+          "character": "PULASKI",
+          "line": "Is this possible? With all of your neural nets, algorithms, and heuristics, is there some combination makes up a circuit for bruised feelings? Possible? I am unfamiliar with this symbol."
+        },
+        {
+          "character": "DATA",
+          "line": "It indicates a genetically engineered biological life form."
+        },
+        {
+          "character": "PULASKI",
+          "line": "About twenty percent of the specimens fall into that category. Some eager beaver at play."
+        },
+        {
+          "character": "DATA",
+          "line": "Query. Eager beaver?"
+        },
+        {
+          "character": "PULASKI",
+          "line": "Well in this case, eager beaver refers to some overachieving genetic engineer, who, probably because of lack of anything better to do, has forced this strain of virus to mutate, just so we can see how bad, bad can get. Captain Picard."
+        }
+      ],
+      "location": "Pulaski's office"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "PICARD",
+          "line": "Picard."
+        },
+        {
+          "character": "PULASKI",
+          "line": "I just wanted you to know what risks we're about to take.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "PICARD",
+          "line": "Go on."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "PULASKI",
+          "line": "If the most innocuous specimen on the manifest list gets loose,"
+        }
+      ],
+      "location": "Pulaski's office"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "PULASKI",
+          "line": "It will destroy all life on the Enterprise in a matter of hours.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "PICARD",
+          "line": "I understand, Doctor. Do you have a recommendation?"
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "PULASKI",
+          "line": "Considering how desperately this is needed, no, I don't. I just wanted you to know what we were carrying."
+        },
+        {
+          "character": "PICARD",
+          "line": "Thank you.",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "Pulaski's office"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "PICARD",
+          "line": "Commander Data, if you have completed your review, you are needed in transporter room three."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "DATA",
+          "line": "Aye, sir. Excuse me, Doctor."
+        },
+        {
+          "character": "PULASKI",
+          "line": "That's all right. Da ta. Data. Whatever."
+        }
+      ],
+      "location": "Pulaski's office"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TROI",
+          "line": "Ian? Ian!"
+        },
+        {
+          "character": "MISS GLADSTONE",
+          "line": "He's a very tactile child. He wants to touch and feel everything."
+        },
+        {
+          "character": "TROI",
+          "line": "It's time to go, sweetheart."
+        },
+        {
+          "character": "MISS GLADSTONE",
+          "line": "Unbelievable. I think he's actually grown since you dropped him off."
+        },
+        {
+          "character": "IAN",
+          "line": "I like it here, Mommy."
+        },
+        {
+          "character": "TROI",
+          "line": "I thought you would. Say thank you to Miss Gladstone for having you, and let's go get something to eat."
+        },
+        {
+          "character": "IAN",
+          "line": "Thank you."
+        },
+        {
+          "character": "BOY",
+          "line": "Bye."
+        },
+        {
+          "character": "TROI",
+          "line": "Thank you."
+        }
+      ],
+      "location": "Children's play area"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "COMPUTER",
+          "line": "Bio-transfer authorisation complete."
+        },
+        {
+          "character": "O'BRIEN",
+          "line": "Cargo deck five, we will commence transportation"
+        }
+      ],
+      "location": "Transporter room"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "O'BRIEN",
+          "line": "On your command.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Transporter three, we are ready to receive."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Data, the first batch is in place, and we're ready for the next."
+        },
+        {
+          "character": "RIKER",
+          "line": "You'll inform me when loading is complete and the cargo secure."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Aye, sir."
+        }
+      ],
+      "location": "Cargo deck five"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TROI",
+          "line": "Come in."
+        },
+        {
+          "character": "PULASKI",
+          "line": "I wanted to stop by and see how Ian was doing."
+        },
+        {
+          "character": "TROI",
+          "line": "We're doing fine. I was just about to get him his supper."
+        },
+        {
+          "character": "IAN",
+          "line": "Do you want your supper now, too?"
+        },
+        {
+          "character": "PICARD",
+          "line": "No, Ian, but thank you for the invitation."
+        },
+        {
+          "character": "IAN",
+          "line": "You're welcome. Have you ever played with puppies?"
+        },
+        {
+          "character": "TROI",
+          "line": "They had a litter today in the nursery."
+        },
+        {
+          "character": "PICARD",
+          "line": "No, Ian, I don't think I've played with puppies."
+        },
+        {
+          "character": "IAN",
+          "line": "You should come to the nursery while the puppies are still there."
+        },
+        {
+          "character": "PICARD",
+          "line": "Perhaps later."
+        },
+        {
+          "character": "IAN",
+          "line": "Ow! Mom."
+        },
+        {
+          "character": "PULASKI",
+          "line": "Let me see that. That's not so bad."
+        },
+        {
+          "character": "IAN",
+          "line": "My face is wet."
+        },
+        {
+          "character": "TROI",
+          "line": "Is that better, sweetheart? Everything's going to be fine."
+        },
+        {
+          "character": "PULASKI",
+          "line": "He allowed himself to be burned."
+        },
+        {
+          "character": "PICARD",
+          "line": "For the experience."
+        },
+        {
+          "character": "PULASKI",
+          "line": "Who is he? Why is he here? What does he want?"
+        },
+        {
+          "character": "PICARD",
+          "line": "Ian, could you tell us why you are here?"
+        },
+        {
+          "character": "IAN",
+          "line": "Because Mommy said it was time to eat."
+        },
+        {
+          "character": "PICARD",
+          "line": "No, I mean, why you are here on this ship?"
+        },
+        {
+          "character": "IAN",
+          "line": "I live here."
+        },
+        {
+          "character": "TROI",
+          "line": "Ian, I think the Captain wants to know if you are ready to tell us why you came here."
+        },
+        {
+          "character": "IAN",
+          "line": "No, not yet."
+        },
+        {
+          "character": "TROI",
+          "line": "The answer is within him. When his cognitive powers have sufficiently developed, he will be able to articulate it."
+        },
+        {
+          "character": "PICARD",
+          "line": "I hope he will tell us soon."
+        },
+        {
+          "character": "IAN",
+          "line": "Bye."
+        }
+      ],
+      "location": "Troi's quarters"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "RIKER",
+          "line": "Cargo has been loaded and is secure."
+        },
+        {
+          "character": "PICARD",
+          "line": "Then take us out of orbit, Number One. Set a course for Rachelis, warp six."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "GUINAN",
+          "line": "Can I get you something?"
+        },
+        {
+          "character": "WESLEY",
+          "line": "No, nothing. I just like to stand here."
+        },
+        {
+          "character": "GUINAN",
+          "line": "I don't blame you. It's beautiful."
+        },
+        {
+          "character": "WESLEY",
+          "line": "Yes."
+        },
+        {
+          "character": "GUINAN",
+          "line": "How about some nice Mareuvian Tea?"
+        },
+        {
+          "character": "WESLEY",
+          "line": "No, nothing. Thank you."
+        },
+        {
+          "character": "GUINAN",
+          "line": "You'll be leaving soon."
+        },
+        {
+          "character": "WESLEY",
+          "line": "Yes."
+        },
+        {
+          "character": "GUINAN",
+          "line": "What do you see when you look out there?"
+        },
+        {
+          "character": "WESLEY",
+          "line": "The Lorenze cluster, and there Arneb and there Epsilon Indi."
+        },
+        {
+          "character": "GUINAN",
+          "line": "That's not what I mean. I mean, when you look there, don't you see your future?"
+        },
+        {
+          "character": "WESLEY",
+          "line": "It'll still be there."
+        },
+        {
+          "character": "GUINAN",
+          "line": "How about a cup of nectar direct from Prometheus?"
+        },
+        {
+          "character": "WESLEY",
+          "line": "No, nothing. That's the third time you've asked me."
+        },
+        {
+          "character": "GUINAN",
+          "line": "It's what I'm expected to do. Don't you always do what's expected?"
+        },
+        {
+          "character": "WESLEY",
+          "line": "I try."
+        },
+        {
+          "character": "GUINAN",
+          "line": "Even if it's not what you really want?"
+        },
+        {
+          "character": "WESLEY",
+          "line": "Sometimes. Sometimes it's more important to consider others before yourself."
+        },
+        {
+          "character": "GUINAN",
+          "line": "Yes. But sometimes the game is to know when to consider yourself before others. Give yourself permission to be selfish."
+        }
+      ],
+      "location": "Ten forward"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "DEALT",
+          "line": "Something's wrong."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "What is it?"
+        },
+        {
+          "character": "DEALT",
+          "line": "Growth."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Where?"
+        },
+        {
+          "character": "DEALT",
+          "line": "L seven three."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Bridge, this is cargo deck five."
+        }
+      ],
+      "location": "Cargo deck five"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "PICARD",
+          "line": "Yes, La Forge?"
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Captain, we have a malfunction in the containment area.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "PICARD",
+          "line": "How serious?"
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "DEALT",
+          "line": "Very."
+        },
+        {
+          "character": "PICARD",
+          "line": "Captain's log, supplemental. For reasons as yet unknown, one of the deadly specimens of plasma plague has begun to grow.",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "Cargo deck five"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "PICARD",
+          "line": "Report, Mister La Forge."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "LAFORGE",
+          "line": "Captain, we've checked everything. There's no reason for this to be happening. I can't even isolate the cause of the problem."
+        }
+      ],
+      "location": "Cargo deck five"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "RIKER",
+          "line": "Come on Data, we'd better get down there."
+        },
+        {
+          "character": "PICARD",
+          "line": "Doctor Pulaski."
+        },
+        {
+          "character": "PULASKI",
+          "line": "Yes, Captain?",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "PICARD",
+          "line": "We're having a little difficulty on cargo deck five. Your presence is requested."
+        },
+        {
+          "character": "PULASKI",
+          "line": "I'm on my way.",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "WESLEY",
+          "line": "You never talk about yourself."
+        },
+        {
+          "character": "GUINAN",
+          "line": "Sure I do. All the time."
+        },
+        {
+          "character": "WESLEY",
+          "line": "People say you're very old."
+        },
+        {
+          "character": "GUINAN",
+          "line": "Oh?"
+        },
+        {
+          "character": "WESLEY",
+          "line": "And that you knew Captain Picard when he was on the Stargazer."
+        },
+        {
+          "character": "GUINAN",
+          "line": "No, I never knew the Captain till I came onboard."
+        },
+        {
+          "character": "WESLEY",
+          "line": "Everyone's very curious about you."
+        },
+        {
+          "character": "GUINAN",
+          "line": "Yes, I'll bet they are."
+        },
+        {
+          "character": "WESLEY",
+          "line": "They want to know where you're from."
+        },
+        {
+          "character": "GUINAN",
+          "line": "Where do they say?"
+        },
+        {
+          "character": "WESLEY",
+          "line": "I heard that you're from Nova Kron and that"
+        },
+        {
+          "character": "PICARD",
+          "line": "Mister Crusher, report to the Bridge.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "WESLEY",
+          "line": "Aye, sir. Got to go. Thanks."
+        },
+        {
+          "character": "GUINAN",
+          "line": "For a dish of Delovian souffl\u00e9?"
+        },
+        {
+          "character": "WESLEY",
+          "line": "No, not for the souffl\u00e9. I meant, for the rest."
+        },
+        {
+          "character": "GUINAN",
+          "line": "That's why I'm here."
+        },
+        {
+          "character": "WESLEY",
+          "line": "Thanks. Bye."
+        }
+      ],
+      "location": "Ten forward"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "RIKER",
+          "line": "Why this module and not the others?"
+        },
+        {
+          "character": "DATA",
+          "line": "Computer, run diagnostic on module L seven three."
+        },
+        {
+          "character": "COMPUTER",
+          "line": "All circuits functional."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Environment's as programd. Temperature ninety seven degrees Kelvin. Radiation flux zero. Stasis field nominal. Everything exactly as it should be, right down the line."
+        },
+        {
+          "character": "DATA",
+          "line": "Perhaps it is a sensor malfunction. Computer, inquiry. Is growth actually occurring in module L seven three?"
+        },
+        {
+          "character": "COMPUTER",
+          "line": "Confirmed."
+        },
+        {
+          "character": "RIKER",
+          "line": "Doctor, one of the specimens is growing."
+        },
+        {
+          "character": "PULASKI",
+          "line": "Destroy it now."
+        },
+        {
+          "character": "DEALT",
+          "line": "I can't."
+        },
+        {
+          "character": "RIKER",
+          "line": "Data, prepare to jettison the module."
+        },
+        {
+          "character": "DEALT",
+          "line": "We can't do that either. It will go into a spore and remain until it comes in contact with a planet or another ship. The results would be disastrous."
+        },
+        {
+          "character": "RIKER",
+          "line": "Commander, your attitude tells me that however bad I think it is, it's actually worse."
+        },
+        {
+          "character": "DEALT",
+          "line": "This is not going to hold it."
+        },
+        {
+          "character": "RIKER",
+          "line": "Go on."
+        },
+        {
+          "character": "DEALT",
+          "line": "The rate of growth is increasing so rapidly, within thirty minutes it's going to push out of it's module. Within two hours, it'll break out of the containment area."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "No, no, no. It can't break through this."
+        },
+        {
+          "character": "DEALT",
+          "line": "Yes, it will."
+        },
+        {
+          "character": "RIKER",
+          "line": "Captain, we may not be able to get control of this situation. I recommend we arrange transfer of all non-essential personnel to the saucer section."
+        }
+      ],
+      "location": "Cargo deck five"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "RIKER",
+          "line": "If we lose containment, we should be prepared to separate.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "PICARD",
+          "line": "Make it so."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "PULASKI",
+          "line": "Why this one specimen and none of the others? Something is stimulating it. Do you have its etiology? Do you know how it was developed?"
+        },
+        {
+          "character": "DEALT",
+          "line": "Yes, it's right over here."
+        },
+        {
+          "character": "PULASKI",
+          "line": "It's a mutated strain developed by Doctor Susan Nuress during an outbreak of plasma plague seventy years ago in the Oby System. It was number nine in a series of fifty eight tests. This particular one bombarded by low levels of Eichner radiation. Could exposure to Eichner radiation stimulate growth?"
+        },
+        {
+          "character": "DEALT",
+          "line": "It could, but I. I've got something."
+        },
+        {
+          "character": "RIKER",
+          "line": "Why didn't you detect this before?"
+        },
+        {
+          "character": "DEALT",
+          "line": "I don't know. It wasn't here before."
+        },
+        {
+          "character": "PULASKI",
+          "line": "Well, it is now. What emits that type of radiation?"
+        },
+        {
+          "character": "DATA",
+          "line": "A subspace phase inverter."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "We don't have one."
+        },
+        {
+          "character": "DATA",
+          "line": "Certain cyanoacrylates."
+        },
+        {
+          "character": "PULASKI",
+          "line": "Also not on this ship. What else? Because it's here and we better find it."
+        }
+      ],
+      "location": "Cargo deck five"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "IAN",
+          "line": "I can feel that some of the people are very worried."
+        },
+        {
+          "character": "TROI",
+          "line": "Yes. I feel it too, but don't you worry."
+        },
+        {
+          "character": "IAN",
+          "line": "It's me, Mommy. I'm the reason."
+        },
+        {
+          "character": "TROI",
+          "line": "What?"
+        },
+        {
+          "character": "IAN",
+          "line": "It's me."
+        },
+        {
+          "character": "TROI",
+          "line": "You?"
+        },
+        {
+          "character": "IAN",
+          "line": "Yes. I have to leave you now, or it'll be very bad for everyone."
+        },
+        {
+          "character": "TROI",
+          "line": "What are you saying?"
+        },
+        {
+          "character": "IAN",
+          "line": "I have to leave now."
+        },
+        {
+          "character": "TROI",
+          "line": "Leave? You are going to die. No, you can't! Sickbay, this is Counselor Troi, I need the Doctor in my quarters now! Ian! Ian, no. Ian."
+        },
+        {
+          "character": "TROI",
+          "line": "It's Ian. Hurry."
+        },
+        {
+          "character": "PULASKI",
+          "line": "What happened? Did he eat anything? Did he fall?"
+        },
+        {
+          "character": "TROI",
+          "line": "No."
+        },
+        {
+          "character": "DATA",
+          "line": "Commander, the child is the source of the unusual radiation."
+        },
+        {
+          "character": "TROI",
+          "line": "Ian said he's the reason the ship is in danger."
+        },
+        {
+          "character": "DATA",
+          "line": "That analysis is correct."
+        },
+        {
+          "character": "PULASKI",
+          "line": "I'm losing life signs."
+        },
+        {
+          "character": "TROI",
+          "line": "You must save him."
+        },
+        {
+          "character": "PULASKI",
+          "line": "I'm sorry."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Commander Riker, the containment field has stabilized.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "RIKER",
+          "line": "Thank you, Lieutenant."
+        },
+        {
+          "character": "TROI",
+          "line": "Then Ian was right. He was the cause."
+        },
+        {
+          "character": "RIKER",
+          "line": "Apparently so."
+        },
+        {
+          "character": "TROI",
+          "line": "He is a life force entity. When we passed each other in space, he was curious about us, so he decided the best way to learn was to go through the process. To be born, to live as one of us and in that way to understand us. He never meant any harm."
+        },
+        {
+          "character": "RIKER",
+          "line": "There was a moment when you smiled."
+        },
+        {
+          "character": "TROI",
+          "line": "He said, thank you. I told him we will miss him. And I will."
+        }
+      ],
+      "location": "Troi's quarters"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "PICARD",
+          "line": "Standard station orbit, Mister Crusher."
+        },
+        {
+          "character": "WESLEY",
+          "line": "Aye, sir, standard orbit."
+        },
+        {
+          "character": "PICARD",
+          "line": "Transporter room three, this is the Captain. We have arrived."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "PICARD",
+          "line": "Let's make this transfer with all deliberate speed.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "DATA",
+          "line": "Aye, sir."
+        }
+      ],
+      "location": "Transporter room"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "RIKER",
+          "line": "I'll be glad to be relieved of this cargo."
+        },
+        {
+          "character": "PICARD",
+          "line": "You have the Bridge, Number One."
+        },
+        {
+          "character": "WESLEY",
+          "line": "Captain. Could I see you when you have a moment?"
+        },
+        {
+          "character": "PICARD",
+          "line": "In my Ready room, when your duties permit."
+        },
+        {
+          "character": "WESLEY",
+          "line": "Thank you, sir."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "LAFORGE",
+          "line": "How long is it going to take to develop a vaccine?"
+        },
+        {
+          "character": "DEALT",
+          "line": "We may never develop one."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "All of this might have been in vain?"
+        },
+        {
+          "character": "DEALT",
+          "line": "Let's hope not."
+        },
+        {
+          "character": "DATA",
+          "line": "Stand by to energize.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Good luck."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Data, you can lock on to the first group and begin transporting on my mark."
+        }
+      ],
+      "location": "Cargo deck five"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "PICARD",
+          "line": "Come."
+        },
+        {
+          "character": "WESLEY",
+          "line": "Captain Picard, I've thought about this a lot. I want to remain on the Enterprise."
+        },
+        {
+          "character": "PICARD",
+          "line": "Have you diskussed this with your mother?"
+        },
+        {
+          "character": "WESLEY",
+          "line": "No, sir. Before I do that, I'd like your permission to stay."
+        },
+        {
+          "character": "PICARD",
+          "line": "Wesley, it's a little more complicated than that."
+        },
+        {
+          "character": "WESLEY",
+          "line": "Captain, this is where I want to be. This is where I feel I belong."
+        },
+        {
+          "character": "RIKER",
+          "line": "Captain, transfer complete. We are ready to leave orbit.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "PICARD",
+          "line": "Make it so, Number One. Return to your position."
+        }
+      ],
+      "location": "Ready room"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "RIKER",
+          "line": "All stations secure."
+        },
+        {
+          "character": "PICARD",
+          "line": "Take us out of orbit, Mister Crusher. Lay in a course for the Morgana Quadrant."
+        },
+        {
+          "character": "WESLEY",
+          "line": "Yes, sir."
+        },
+        {
+          "character": "PICARD",
+          "line": "Ensign Crusher has requested to remain on the Enterprise."
+        },
+        {
+          "character": "RIKER",
+          "line": "I'm not surprised. How did you respond?"
+        },
+        {
+          "character": "PICARD",
+          "line": "I haven't as yet, Number One. I didn't think it was my responsibility alone. His remaining will create difficulties for us all."
+        },
+        {
+          "character": "RIKER",
+          "line": "Yes, indeed. With his mother gone, who will see to his studies?"
+        },
+        {
+          "character": "PICARD",
+          "line": "Exactly. Of course, that duty will fall to Commander Data."
+        },
+        {
+          "character": "RIKER",
+          "line": "And who will tuck him in at night?"
+        },
+        {
+          "character": "WESLEY",
+          "line": "Come on, Commander."
+        },
+        {
+          "character": "WORF",
+          "line": "I will accept that responsibility."
+        },
+        {
+          "character": "TROI",
+          "line": "Well, we know he'll get his sleep."
+        },
+        {
+          "character": "PICARD",
+          "line": "That takes care of the practical, but there's more to growing up than that. It's my belief, Number One, that you're best qualified to supervise that. Are you willing to serve?"
+        },
+        {
+          "character": "RIKER",
+          "line": "Difficult decision. Yes, I can do that."
+        },
+        {
+          "character": "PICARD",
+          "line": "Well, Mister Crusher, communicate with your mother at Starfleet Medical headquarters. Give her my regards, and tell her you have my permission to remain on the Enterprise, but I will abide by her wishes."
+        },
+        {
+          "character": "WESLEY",
+          "line": "Yes, sir. Thank you, sir. I know she'll agree."
+        },
+        {
+          "character": "PICARD",
+          "line": "Now, if you have course and speed laid in."
+        },
+        {
+          "character": "WESLEY",
+          "line": "Yes sir, they are."
+        },
+        {
+          "character": "PICARD",
+          "line": "Then, Mister Crusher, engage."
+        }
+      ],
+      "location": "Bridge"
+    }
+  ],
+  "schedule": {
+    "episode": 1,
+    "number": 27,
+    "season": 2
+  },
+  "stardate": "42073.1",
+  "title": "The Child"
+}

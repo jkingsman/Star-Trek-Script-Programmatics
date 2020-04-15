@@ -1,0 +1,1672 @@
+{
+  "airdate": 769060800,
+  "scenes": [
+    {
+      "dialogue": [
+        {
+          "character": "PICARD",
+          "line": "Captain's log, stardate 47941.7. The Enterprise is en route to a briefing on the situation in the Demilitarized Zone along the Cardassian border. Meanwhile, we're celebrating the return of an old friend.",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "unknown"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "LAFORGE",
+          "line": "Ro!"
+        },
+        {
+          "character": "CRUSHER",
+          "line": "Welcome home."
+        },
+        {
+          "character": "RO",
+          "line": "Thanks. It's good to be back."
+        },
+        {
+          "character": "TROI",
+          "line": "Congratulations on your promotion, Lieutenant."
+        },
+        {
+          "character": "RO",
+          "line": "Same to you, Commander."
+        },
+        {
+          "character": "TROI",
+          "line": "Thank you."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Say, I understand that Advanced Tactical Training is a real picnic."
+        },
+        {
+          "character": "RO",
+          "line": "Right."
+        },
+        {
+          "character": "CRUSHER",
+          "line": "Did you see the buffet?"
+        },
+        {
+          "character": "TROI",
+          "line": "This is real Bajoran foraiga."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "It wasn't easy to find."
+        },
+        {
+          "character": "RO",
+          "line": "You shouldn't have gone to all this trouble. Really."
+        },
+        {
+          "character": "CRUSHER",
+          "line": "We wanted you to know how glad we are to have you back."
+        },
+        {
+          "character": "TROI",
+          "line": "So, where are your new quarters?"
+        },
+        {
+          "character": "RO",
+          "line": "Deck four, section eight."
+        },
+        {
+          "character": "CRUSHER",
+          "line": "What are do you planning to do"
+        },
+        {
+          "character": "PICARD",
+          "line": "Lieutenant Ro.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "RO",
+          "line": "Go ahead, sir."
+        },
+        {
+          "character": "PICARD",
+          "line": "Please report to the Bridge.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "RO",
+          "line": "Yes, sir. Excuse me."
+        }
+      ],
+      "location": "Ten Forward"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "RO",
+          "line": "Captain."
+        },
+        {
+          "character": "PICARD",
+          "line": "You seemed a bit overwhelmed by all the attention."
+        },
+        {
+          "character": "RO",
+          "line": "Well, to tell you the truth, I really want to see everyone. I'd just rather do it one at a time."
+        },
+        {
+          "character": "PICARD",
+          "line": "You look very fit, Lieutenant. Tactical Training seems to agree with you."
+        },
+        {
+          "character": "RO",
+          "line": "You know me, I enjoy a challenge."
+        },
+        {
+          "character": "PICARD",
+          "line": "That school is more than a challenge. Half the class washes out every year. But somehow I didn't think you'd be one of those."
+        },
+        {
+          "character": "RO",
+          "line": "Captain, I want you to know that I really appreciate your recommending me. If it weren't for you, my life would be a very different one right now."
+        },
+        {
+          "character": "RIKER",
+          "line": "Bridge to Picard.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "PICARD",
+          "line": "Go ahead."
+        }
+      ],
+      "location": "Corridor"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "RIKER",
+          "line": "We're receiving a distress signal from a Cardassian ship near the Demilitarized Zone."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "PICARD",
+          "line": "Change course to intercept. I'm on my way. I'd like you at the conn, Lieutenant."
+        }
+      ],
+      "location": "Corridor"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "PICARD",
+          "line": "Ensign Gates."
+        },
+        {
+          "character": "PICARD",
+          "line": "Report."
+        },
+        {
+          "character": "RIKER",
+          "line": "The Cardassian ship relayed a distress signal but it was cut off before we could find out what was wrong."
+        },
+        {
+          "character": "RO",
+          "line": "I have the ship on long range sensors. It appears to be under attack by several small ships."
+        },
+        {
+          "character": "PICARD",
+          "line": "Can you identify them?"
+        },
+        {
+          "character": "RO",
+          "line": "No, sir. They're not transmitting identification codes."
+        },
+        {
+          "character": "DATA",
+          "line": "I will scan their warp signatures. Sir, sensors indicate the attacking vessels are Federation ships."
+        },
+        {
+          "character": "RO",
+          "line": "We're coming into visual range."
+        },
+        {
+          "character": "PICARD",
+          "line": "On screen."
+        },
+        {
+          "character": "RIKER",
+          "line": "Those are Federation ships."
+        },
+        {
+          "character": "PICARD",
+          "line": "Isolate one and magnify. The Maquis. Open a channel."
+        },
+        {
+          "character": "WORF",
+          "line": "Open."
+        },
+        {
+          "character": "PICARD",
+          "line": "To all Maquis ships. Call off your attack or we will be forced to engage you."
+        },
+        {
+          "character": "WORF",
+          "line": "No response."
+        },
+        {
+          "character": "PICARD",
+          "line": "You are Federation citizens. Your actions are in violation of our treaty with the Cardassians. Call off your attack."
+        },
+        {
+          "character": "DATA",
+          "line": "They are not responding, sir."
+        },
+        {
+          "character": "PICARD",
+          "line": "Mister Worf, are we in firing range?"
+        },
+        {
+          "character": "WORF",
+          "line": "Not yet, sir."
+        },
+        {
+          "character": "PICARD",
+          "line": "Arm phasers and photon torpedoes and stand by."
+        },
+        {
+          "character": "RIKER",
+          "line": "I never thought we'd be firing on our own people to protect a Cardassian ship."
+        },
+        {
+          "character": "DATA",
+          "line": "The Maquis ships are regrouping, sir. They are closing in on the Cardassian vessel."
+        },
+        {
+          "character": "WORF",
+          "line": "The Cardassian's shields are down to thirty percent."
+        },
+        {
+          "character": "RIKER",
+          "line": "They may not be able to withstand another hit."
+        },
+        {
+          "character": "WORF",
+          "line": "Sir, we are within weapons range."
+        },
+        {
+          "character": "PICARD",
+          "line": "Mister Worf, can you detonate a torpedo spread between the Maquis ships and the Cardassians?"
+        },
+        {
+          "character": "WORF",
+          "line": "Yes, sir."
+        },
+        {
+          "character": "PICARD",
+          "line": "Do it."
+        },
+        {
+          "character": "WORF",
+          "line": "The Maquis are breaking formation. They are withdrawing."
+        },
+        {
+          "character": "PICARD",
+          "line": "Signal the Cardassians that we're standing by to assist them if they have any wounded."
+        },
+        {
+          "character": "WORF",
+          "line": "Aye, sir."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "GUL EVEK",
+          "line": "Do you people have experience treating Cardassians?"
+        },
+        {
+          "character": "CRUSHER",
+          "line": "Yes. Do you mind?"
+        },
+        {
+          "character": "PICARD",
+          "line": "Gul Evek. I'm sorry that we could not come to your aid sooner."
+        },
+        {
+          "character": "GUL EVEK",
+          "line": "I suppose we're lucky you came at all. Lately Starfleet seems to look the other way when the Maquis attack."
+        },
+        {
+          "character": "PICARD",
+          "line": "I can assure you that is not the case. We're doing everything in our power to control them."
+        },
+        {
+          "character": "GUL EVEK",
+          "line": "The fact that my ship was attacked suggests that your efforts have met with limited success. They came at us with photon torpedoes and type eight phasers. Tell me, Captain, how do you suppose that a group of civilians acquired such weaponry?"
+        },
+        {
+          "character": "PICARD",
+          "line": "I can assure you it was not through official channels."
+        },
+        {
+          "character": "GUL EVEK",
+          "line": "So you don't think the fact that some of the Maquis are former Starfleet officers has anything to do with it?"
+        },
+        {
+          "character": "PICARD",
+          "line": "Starfleet does not condone the Maquis' actions in the Demilitarized Zone any more than your government would condone the paramilitary actions of Cardassian civilians."
+        },
+        {
+          "character": "GUL EVEK",
+          "line": "We have taken measures to deal with our colonists who have armed themselves."
+        },
+        {
+          "character": "PICARD",
+          "line": "Considering that they destroyed a Juhryan freighter less than a week ago, I would say that your efforts are meeting with limited success."
+        },
+        {
+          "character": "GUL EVEK",
+          "line": "Captain, if the Maquis are not stopped, this situation will continue to escalate to the point where the Cardassian military will have no choice but to take matters into their own hands."
+        },
+        {
+          "character": "PICARD",
+          "line": "Captain's log, supplemental. Gul Evek and his crew have left the Enterprise, and we have proceeded to our rendezvous with Admiral Nechayev.",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "Sickbay"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "NECHAYEV",
+          "line": "No Bularian canap\u00e9s this time, Captain?"
+        },
+        {
+          "character": "PICARD",
+          "line": "I thought twice was pushing it a little."
+        },
+        {
+          "character": "NECHAYEV",
+          "line": "It's just as well. They're extremely fattening."
+        },
+        {
+          "character": "PICARD",
+          "line": "You missed Gul Evek by a matter of hours. I asked him to stay. I thought that an Admiral's assurances might convince him that we are trying to deal with this Maquis situation."
+        },
+        {
+          "character": "NECHAYEV",
+          "line": "Evek manages to make the Cardassians sound like helpless sheep being preyed on by Federation wolves. The truth is, we caught the Cardassian government supplying its colonies in the Demilitarized Zone with weapons."
+        },
+        {
+          "character": "PICARD",
+          "line": "Gul Evek assured me that they had stopped that practice."
+        },
+        {
+          "character": "NECHAYEV",
+          "line": "Ha. How comforting."
+        },
+        {
+          "character": "PICARD",
+          "line": "Admiral, this Maquis situation has you worried."
+        },
+        {
+          "character": "NECHAYEV",
+          "line": "Believe me, Captain, if I were living that close to the Cardassians, I'd keep a phaser under my pillow too. But in the last weeks we've seen signs that the Maquis are moving beyond self-defense. Their ranks are growing. They're acquiring ships, weapons. They seem to be preparing for a more aggressive military posture. We've got to put a stop to them before the entire Demilitarized Zone ignites. But before we stop them, we have to find them. They seem to be scattered in small cells around the Zone. And we don't have reliable intelligence about any of them."
+        },
+        {
+          "character": "PICARD",
+          "line": "Perhaps you need an undercover operative."
+        },
+        {
+          "character": "NECHAYEV",
+          "line": "Our thinking exactly. We intend to infiltrate their organization, and the person we want to do it is aboard your ship right now."
+        }
+      ],
+      "location": "Ready room"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "RO",
+          "line": "Starfleet wants me to infiltrate the Maquis?"
+        },
+        {
+          "character": "PICARD",
+          "line": "Because of your recent training, because you're Bajoran, and because of your past troubles with Starfleet gives you a certain credibility."
+        },
+        {
+          "character": "RO",
+          "line": "Well, that's certainly true. And just how soon would this mission begin?"
+        },
+        {
+          "character": "PICARD",
+          "line": "Immediately."
+        },
+        {
+          "character": "RO",
+          "line": "I see. I've spent the better part of my life fighting the Cardassians. I never thought I'd be helping them out."
+        },
+        {
+          "character": "PICARD",
+          "line": "This is a rare case when our interests and theirs coincide. We both want peace in the Demilitarized Zone."
+        },
+        {
+          "character": "RO",
+          "line": "I've heard a lot about the Maquis. One of my instructors at Tactical Training, a Lieutenant Commander in Starfleet, a man I admired and respected, he was sympathetic to them. He resigned and left to join them."
+        },
+        {
+          "character": "PICARD",
+          "line": "We're all sympathetic, Lieutenant. Our civilian population in the Demilitarized Zone is in a very difficult situation, but even sympathy has to end at some point. The peace treaty isn't just a piece of paper. If the Maquis force us into a war with Cardassia, it could mean hundreds of thousands of lives. Two years ago, Starfleet would never have tapped you for this mission. They must have a lot of confidence in you now."
+        },
+        {
+          "character": "RO",
+          "line": "The way I see it, there's one good reason to take this mission, and that's to validate your faith in me."
+        }
+      ],
+      "location": "Ro's quarters"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "WORF",
+          "line": "We are looking for a Bajoran woman, dark hair."
+        },
+        {
+          "character": "DATA",
+          "line": "She is responsible for the death of a Cardassian soldier."
+        },
+        {
+          "character": "WORF",
+          "line": "If we learn that she has been here, this establishment will be closed down."
+        },
+        {
+          "character": "SANTOS",
+          "line": "You say she had dark hair?"
+        },
+        {
+          "character": "WORF",
+          "line": "Yes."
+        },
+        {
+          "character": "SANTOS",
+          "line": "She was here. You just missed her."
+        },
+        {
+          "character": "DATA",
+          "line": "Do you know where she went?"
+        },
+        {
+          "character": "SANTOS",
+          "line": "No."
+        },
+        {
+          "character": "RO",
+          "line": "It was really nice meeting you."
+        },
+        {
+          "character": "RO",
+          "line": "Thanks."
+        },
+        {
+          "character": "SANTOS",
+          "line": "So, did you kill that Cardassian?"
+        },
+        {
+          "character": "RO",
+          "line": "Starfleet thinks I did. That's reason enough to hide. Why did you tell them that I'd left?"
+        },
+        {
+          "character": "SANTOS",
+          "line": "There are worse things a person can do than kill a Cardassian soldier."
+        },
+        {
+          "character": "RO",
+          "line": "You don't often meet someone willing to say that out loud."
+        },
+        {
+          "character": "SANTOS",
+          "line": "In the Zone, there are a lot of us who feel that way."
+        },
+        {
+          "character": "RO",
+          "line": "I'd like to meet people like that."
+        }
+      ],
+      "location": "Alien bar"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "MACIAS",
+          "line": "Don't be afraid. You're not in danger here."
+        },
+        {
+          "character": "SANTOS",
+          "line": "What is your name?"
+        },
+        {
+          "character": "KALITA",
+          "line": "Did you kill that Cardassian soldier?"
+        },
+        {
+          "character": "RO",
+          "line": "Who are you?"
+        },
+        {
+          "character": "SANTOS",
+          "line": "We're the people who saved you from Starfleet."
+        },
+        {
+          "character": "RO",
+          "line": "Thanks, but I'll be going now."
+        },
+        {
+          "character": "SANTOS",
+          "line": "Did you kill that Cardassian?"
+        },
+        {
+          "character": "RO",
+          "line": "Yes."
+        },
+        {
+          "character": "KALITA",
+          "line": "That's a risky thing to do in the Demilitarized Zone. You can end up being hunted by Starfleet and the Cardassians."
+        },
+        {
+          "character": "RO",
+          "line": "Then why did he risk bringing me here?"
+        },
+        {
+          "character": "KALITA",
+          "line": "We're asking the questions. Who are you?"
+        },
+        {
+          "character": "RO",
+          "line": "My name is Ro Laren. I grew up in the Bajoran camps."
+        },
+        {
+          "character": "MACIAS",
+          "line": "That would explain why you have no love for Cardassians."
+        },
+        {
+          "character": "RO",
+          "line": "I know what they're capable of. They tortured my father to death and I was forced to watch."
+        },
+        {
+          "character": "SANTOS",
+          "line": "Where are you living now?"
+        },
+        {
+          "character": "RO",
+          "line": "Nowhere. I was a Starfleet officer, but I was court-martialled and sent to the stockade on Jaros Two. I'm not exactly what you'd call Starfleet material."
+        },
+        {
+          "character": "SANTOS",
+          "line": "When were you on Jaros?"
+        },
+        {
+          "character": "RO",
+          "line": "What difference does it make?"
+        },
+        {
+          "character": "KALITA",
+          "line": "We want to check your story. When were you there?"
+        },
+        {
+          "character": "RO",
+          "line": "Starfleet let me out about three years ago because I agreed to do some work for them, mostly having to do with Bajor. But I got tired of watching them placate the Cardassians, and so I left."
+        },
+        {
+          "character": "KALITA",
+          "line": "You resigned?"
+        },
+        {
+          "character": "RO",
+          "line": "Not officially. That's part of the reason why they're looking for me."
+        },
+        {
+          "character": "SANTOS",
+          "line": "What were you doing on Omara?"
+        },
+        {
+          "character": "RO",
+          "line": "Look, I think I've answered enough of your questions. I would like to know who you people are."
+        },
+        {
+          "character": "MACIAS",
+          "line": "Let's say that we sympathize with those who oppose Cardassia."
+        },
+        {
+          "character": "RO",
+          "line": "Are you Maquis?"
+        },
+        {
+          "character": "MACIAS",
+          "line": "What if we were?"
+        },
+        {
+          "character": "RO",
+          "line": "If you were, I would ask if I could join you and help you fight."
+        },
+        {
+          "character": "MACIAS",
+          "line": "We'll check your story. Go ahead, I'll keep an eye on her."
+        },
+        {
+          "character": "MACIAS",
+          "line": "Come, let's stretch our legs."
+        }
+      ],
+      "location": "Room"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "RO",
+          "line": "Aren't you taking a chance by letting me see all of this? What if my story doesn't check out? What if I'm not who I say I am?"
+        },
+        {
+          "character": "MACIAS",
+          "line": "Well, then we'll have a problem, won't we?"
+        },
+        {
+          "character": "RO",
+          "line": "You are Maquis, aren't you?"
+        },
+        {
+          "character": "MACIAS",
+          "line": "Many of the people here are."
+        },
+        {
+          "character": "RO",
+          "line": "Starfleet considers you outlaws. They're afraid you'll destroy the peace treaty."
+        },
+        {
+          "character": "MACIAS",
+          "line": "They don't understand the situation here in the Zone. I lived on Juhraya. When the treaty was signed the colony suddenly found itself in Cardassian territory. Some of us chose to stay, take our chances. Then one night I was dragged from my bed and beaten. The authorities clucked their tongues and agreed it was an unfortunate incident, and did nothing."
+        },
+        {
+          "character": "RO",
+          "line": "I'm not surprised. The Cardassians intend to make life so unpleasant for Federation citizens that they'll leave."
+        },
+        {
+          "character": "MACIAS",
+          "line": "Exactly. And no one seems to see that, except the Maquis. How old were you when your father was killed?"
+        },
+        {
+          "character": "RO",
+          "line": "I'd rather not talk about it."
+        },
+        {
+          "character": "MACIAS",
+          "line": "Hungry? Would you like something?"
+        },
+        {
+          "character": "RO",
+          "line": "No, thank you."
+        },
+        {
+          "character": "MACIAS",
+          "line": "Hasperat."
+        },
+        {
+          "character": "RO",
+          "line": "You like hasperat?"
+        },
+        {
+          "character": "MACIAS",
+          "line": "An old Bajoran friend of mine used to make it. His was stronger. He was killed many years ago fighting the Cardassian occupation of Bajor. I miss his company, and his hasperat."
+        },
+        {
+          "character": "RO",
+          "line": "My father used to make the strongest hasperat you've ever tasted. Everything else seems mild by comparison."
+        },
+        {
+          "character": "MACIAS",
+          "line": "Did he teach you how to make it?"
+        },
+        {
+          "character": "RO",
+          "line": "Yes. But I haven't tried it in years."
+        },
+        {
+          "character": "MACIAS",
+          "line": "If you would make the brine for a really strong hasperat. I mean eye watering, tongue searing strong, you'd make an old man very happy."
+        },
+        {
+          "character": "RO",
+          "line": "I would enjoy making it again."
+        },
+        {
+          "character": "SANTOS",
+          "line": "Macias. I've checked with my sources at Starfleet. Her story's true."
+        },
+        {
+          "character": "MACIAS",
+          "line": "I was sure it was. Kalita, she'll stay with you until we can find her a room."
+        }
+      ],
+      "location": "Settlement"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "MACIAS",
+          "line": "Ah there you are."
+        },
+        {
+          "character": "KALITA",
+          "line": "We've just heard a disturbing rumor."
+        },
+        {
+          "character": "RO",
+          "line": "Another rumor?"
+        },
+        {
+          "character": "KALITA",
+          "line": "One that I think we should take seriously. A trader coming from Pendi Two said he could verify that the Cardassians are going to start supplying their colonists with biogenic weapons."
+        },
+        {
+          "character": "RO",
+          "line": "I thought every shipment coming into the Zone was searched."
+        },
+        {
+          "character": "KALITA",
+          "line": "The Cardassians always seem to find a way around problems like that."
+        },
+        {
+          "character": "SANTOS",
+          "line": "Then we have to make a preemptive strike. Send a message to the Cardassians that we won't sit still while they kill us with toxins."
+        },
+        {
+          "character": "MACIAS",
+          "line": "Agreed. But we can't mount a strike without medical supplies and our stockpile is dangerously low."
+        },
+        {
+          "character": "KALITA",
+          "line": "If we put in a request for more, it'll draw suspicion."
+        },
+        {
+          "character": "RO",
+          "line": "I can get medical supplies. I served on the Enterprise. They always have extra medkits on hand for relief missions."
+        },
+        {
+          "character": "SANTOS",
+          "line": "You're wanted by Starfleet. They're not going to give you medkits just because you ask for them."
+        },
+        {
+          "character": "RO",
+          "line": "I have no intention of asking for them. I intend to take them."
+        },
+        {
+          "character": "KALITA",
+          "line": "How? The Enterprise is a fortress."
+        },
+        {
+          "character": "RO",
+          "line": "I know its security systems work. Give me a ship. I can do it."
+        },
+        {
+          "character": "SANTOS",
+          "line": "It's madness."
+        },
+        {
+          "character": "KALITA",
+          "line": "We can't let her do something like this. We don't know anything about her."
+        },
+        {
+          "character": "MACIAS",
+          "line": "I know that she can make very strong hasperat."
+        },
+        {
+          "character": "KALITA",
+          "line": "What?"
+        },
+        {
+          "character": "MACIAS",
+          "line": "We need medical supplies. I think we should let her try."
+        },
+        {
+          "character": "KALITA",
+          "line": "All right. But I'm going with her."
+        },
+        {
+          "character": "RO",
+          "line": "I could use an extra hand at the controls. And a witness."
+        }
+      ],
+      "location": "Meeting room"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "RO",
+          "line": "I set the transporter confinement parameters to maximum. We should be able to fill our hold with medical supplies with just one single beam out."
+        },
+        {
+          "character": "KALITA",
+          "line": "I had no idea it was going to be so easy."
+        },
+        {
+          "character": "RO",
+          "line": "We're approaching the Federation border."
+        },
+        {
+          "character": "KALITA",
+          "line": "How do you plan to get out of the Demilitarized Zone without being searched at one of the checkpoints?"
+        },
+        {
+          "character": "RO",
+          "line": "We're going to cross the border here."
+        },
+        {
+          "character": "KALITA",
+          "line": "There are sensor buoys all along the border. If we cross anywhere other than a checkpoint, Starfleet will send a ship to investigate."
+        },
+        {
+          "character": "RO",
+          "line": "With the right security codes, we can disable the proximity detectors on the buoys."
+        },
+        {
+          "character": "KALITA",
+          "line": "Starfleet changes those codes all the time."
+        },
+        {
+          "character": "RO",
+          "line": "I know the encryption algorithms. If I can access the buoy's protocol subsystem I should be able to figure out the codes."
+        },
+        {
+          "character": "KALITA",
+          "line": "Should be able to?"
+        },
+        {
+          "character": "RO",
+          "line": "Do you want this mission to succeed?"
+        },
+        {
+          "character": "KALITA",
+          "line": "Of course I do. We need those medical supplies."
+        },
+        {
+          "character": "RO",
+          "line": "In that case, let me do my job. I'm in."
+        },
+        {
+          "character": "KALITA",
+          "line": "What's wrong?"
+        },
+        {
+          "character": "RO",
+          "line": "If I don't input the right code in the next twenty seconds, we'll trigger the proximity alarm."
+        },
+        {
+          "character": "KALITA",
+          "line": "I'm getting us out of sensor range."
+        },
+        {
+          "character": "RO",
+          "line": "Don't. If we break the comm. link, we won't be able to try again."
+        },
+        {
+          "character": "RO",
+          "line": "It worked. Until they change the access codes again, we can cross the border here."
+        },
+        {
+          "character": "PICARD",
+          "line": "Captain's log, stardate 47943.2. It has been over a week since Lieutenant Ro left the Enterprise. We have yet to receive any communication from her.",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "Ro's ship"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "RIKER",
+          "line": "We picked up a request for emergency assistance from a Federation science ship in the Topin system."
+        },
+        {
+          "character": "PICARD",
+          "line": "Are there any other ships in the vicinity?"
+        },
+        {
+          "character": "RIKER",
+          "line": "We're the closest."
+        },
+        {
+          "character": "PICARD",
+          "line": "Helm, set course for the Topin system. Mister Data, will you signal the science ship that we're on our way."
+        },
+        {
+          "character": "DATA",
+          "line": "It is unlikely that they would receive our communication, sir. The Topin system contains an unstable protostar. It generates significant magnetoscopic interference."
+        },
+        {
+          "character": "PICARD",
+          "line": "Can we use our sensors to find them?"
+        },
+        {
+          "character": "DATA",
+          "line": "Most of our sensors would be ineffective, although our directional array should cut through the interference."
+        },
+        {
+          "character": "RIKER",
+          "line": "That array has such a narrow scan field. We might as well break out the palm beacons and try to find them that way."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "KALITA",
+          "line": "This is insane. We're sitting here, no sensors, blind to the outside, waiting for a galaxy class Starship to come swooping down on us."
+        },
+        {
+          "character": "RO",
+          "line": "Don't worry. It'll be hard for them to locate us with just the directional sensors. Besides, they're looking for a damaged science ship that wants to be found. They're here. Standby to engage thrusters."
+        }
+      ],
+      "location": "Ro's ship"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "RIKER",
+          "line": "Anything?"
+        },
+        {
+          "character": "DATA",
+          "line": "No, sir. It will take approximately six hours to scan this system."
+        },
+        {
+          "character": "WORF",
+          "line": "Captain, the distress call is being repeated."
+        },
+        {
+          "character": "PICARD",
+          "line": "Data, can you locate the signal?"
+        },
+        {
+          "character": "DATA",
+          "line": "I am attempting to do so."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "KALITA",
+          "line": "They're scanning our last position."
+        },
+        {
+          "character": "RO",
+          "line": "All right, I've locked onto their sensor beam. I'm going to use it to maneuver into transporter range."
+        },
+        {
+          "character": "KALITA",
+          "line": "How are we going to beam through their shields?"
+        },
+        {
+          "character": "RO",
+          "line": "We can't. If we're going to get those medical supplies, we're going to have to take this ship through their shields."
+        }
+      ],
+      "location": "Ro's ship"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "DATA",
+          "line": "Sir, I am scanning the area from which the distress signal was sent, but I am unable to detect a vessel."
+        },
+        {
+          "character": "WORF",
+          "line": "Captain, the computer has detected a piggyback communication on the last distress signal."
+        },
+        {
+          "character": "PICARD",
+          "line": "Can you decode it?"
+        },
+        {
+          "character": "WORF",
+          "line": "It will take a few moments."
+        },
+        {
+          "character": "PICARD",
+          "line": "Do it."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "RO",
+          "line": "The Enterprise shields have a weak point. When the ship is at impulse, the thrust destabilizes the shield configuration right at this point. I'm going to try to punch through there."
+        },
+        {
+          "character": "KALITA",
+          "line": "Won't they detect us?"
+        },
+        {
+          "character": "RO",
+          "line": "They'll know something's penetrated the shields. With all the interference it'll take them a few seconds to find us. We'll have to beam the medical supplies aboard and get out fast."
+        }
+      ],
+      "location": "Ro's ship"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "WORF",
+          "line": "The message is difficult to decode. Interference has garbled much of the transmission, but it seems to be from Lieutenant Ro."
+        },
+        {
+          "character": "PICARD",
+          "line": "Ro is on that ship?"
+        },
+        {
+          "character": "DATA",
+          "line": "Sir, a vessel of some kind is attempting to penetrate our aft shields."
+        },
+        {
+          "character": "PICARD",
+          "line": "Let it through."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "RO",
+          "line": "We're going to make it. All right, we're in."
+        },
+        {
+          "character": "KALITA",
+          "line": "Energizing."
+        },
+        {
+          "character": "RO",
+          "line": "Let's get out of here."
+        }
+      ],
+      "location": "Ro's ship"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "WORF",
+          "line": "Captain, a quantity of medical supplies was beamed from cargo bay seven."
+        },
+        {
+          "character": "DATA",
+          "line": "The vessel that penetrated our shields is of the same design as the ships used by the Maquis. It is moving off."
+        },
+        {
+          "character": "PICARD",
+          "line": "Let it go. There must be someone with her. We should make it look as though we're trying to stop them. Mister Worf, lock phasers on their previous position and fire."
+        },
+        {
+          "character": "WORF",
+          "line": "Aye, sir."
+        },
+        {
+          "character": "RIKER",
+          "line": "Now we know what they mean by Advanced Tactical Training."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "SANTOS",
+          "line": "You took your ship through their shields?"
+        },
+        {
+          "character": "KALITA",
+          "line": "Ro parked us between their warp nacelles. I thought she was crazy, but it worked. She knew exactly what she was doing."
+        },
+        {
+          "character": "MACIAS",
+          "line": "Well done."
+        },
+        {
+          "character": "SANTOS",
+          "line": "I have to inventory supplies and find out what we have."
+        },
+        {
+          "character": "KALITA",
+          "line": "See you later."
+        },
+        {
+          "character": "MACIAS",
+          "line": "Well, it seems that Kalita has decided you're not a Federation spy after all. She's suspicious of everyone at first. And rightly so. We've learned to be cautious with strangers."
+        },
+        {
+          "character": "RO",
+          "line": "I understand."
+        },
+        {
+          "character": "MACIAS",
+          "line": "But I've known since I first met you that in your heart, you're one of us."
+        },
+        {
+          "character": "PICARD",
+          "line": "Captain's log, supplemental. Having earned the Maquis' trust with her raid on the Enterprise, Lieutenant Ro has been given access to a ship and allowed to leave the settlement by herself.",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "Settlement"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "RO",
+          "line": "There are rumors that the Cardassians are supplying their colonists with biogenic weapons."
+        },
+        {
+          "character": "PICARD",
+          "line": "Frankly, I find it hard to believe. Every ship that enters the Demilitarized Zone is being searched."
+        },
+        {
+          "character": "RO",
+          "line": "The Maquis are convinced that the Cardassians are finding a way around these searches."
+        },
+        {
+          "character": "PICARD",
+          "line": "You know, we could make use of that."
+        },
+        {
+          "character": "RO",
+          "line": "Sir?"
+        },
+        {
+          "character": "PICARD",
+          "line": "We have come up with a plan that has the potential to seriously curtail the Maquis. We want to give them a target so threatening to them that they'll be willing to commit as many ships and people as possible in order to destroy it."
+        },
+        {
+          "character": "RO",
+          "line": "What do you mean, give them a target?"
+        },
+        {
+          "character": "PICARD",
+          "line": "Biogenic weapons, for example. You could provide them with intelligence that would show that the Cardassians are, in fact, supplying their colonists with them."
+        },
+        {
+          "character": "RO",
+          "line": "That would get their attention, all right."
+        },
+        {
+          "character": "PICARD",
+          "line": "You could tell them that in order to get past the check points, they're shipping the components for these weapons through third parties, and then we could put together a convoy and send it toward the Demilitarized Zone."
+        },
+        {
+          "character": "RO",
+          "line": "And when the Maquis attack it, Starfleet will be waiting for them."
+        },
+        {
+          "character": "PICARD",
+          "line": "We could station our ships in the Hugora Nebula to avoid detection."
+        },
+        {
+          "character": "RO",
+          "line": "Basically, I would be leading them into a trap."
+        },
+        {
+          "character": "PICARD",
+          "line": "That's right. If you have a problem with any of this, I need to know it now."
+        },
+        {
+          "character": "RO",
+          "line": "Well, if I do, sir, it will not stop me from carrying out my duty."
+        },
+        {
+          "character": "PICARD",
+          "line": "I knew that I could count on you."
+        }
+      ],
+      "location": "Observation lounge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "RO",
+          "line": "It took me a while, but I managed to patch through into Starfleet's comm. system. I intercepted a communication from one of the checkpoints on the border. They're concerned because a Pakled transport came through carrying retro-viral vaccines."
+        },
+        {
+          "character": "SANTOS",
+          "line": "Why is that a concern?"
+        },
+        {
+          "character": "RO",
+          "line": "Well, last week a Ferengi transport came through carrying biomimetic gels. By themselves, neither of these is dangerous, but Starfleet is concerned because with along with other components the Cardassians could put together a biogenic device."
+        },
+        {
+          "character": "KALITA",
+          "line": "What is Starfleet going to do about it?"
+        },
+        {
+          "character": "RO",
+          "line": "They can't do anything about it. These items are all perfectly legal."
+        },
+        {
+          "character": "MACIAS",
+          "line": "How close are the Cardassians to having the components they need?"
+        },
+        {
+          "character": "RO",
+          "line": "Very close. Two days ago, a Yridian convoy left Deep Space Nine for the Demilitarized Zone. It's carrying isomiotic hypos, plasma flares and quarantine pods."
+        },
+        {
+          "character": "KALITA",
+          "line": "We can't let that convoy reach its destination."
+        },
+        {
+          "character": "SANTOS",
+          "line": "But it's too big for us to go after alone."
+        },
+        {
+          "character": "MACIAS",
+          "line": "I'll diskuss the situation with the other cell leaders. Considering what's at stake, they'll want to help."
+        }
+      ],
+      "location": "Meeting Room"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "MACIAS",
+          "line": "I've sent a communication to the others. When this is over, we'll celebrate."
+        },
+        {
+          "character": "RO",
+          "line": "When it's over?"
+        },
+        {
+          "character": "MACIAS",
+          "line": "When Cardassia realizes they can't intimidate us into leaving our colonies."
+        },
+        {
+          "character": "RO",
+          "line": "Something tells me it'll be a long time before we'll be celebrating."
+        },
+        {
+          "character": "MACIAS",
+          "line": "Don't be diskouraged, Ro. It'll take time, but the important thing is that we not give up."
+        },
+        {
+          "character": "RO",
+          "line": "I spent ten years in the camps. I don't give up."
+        },
+        {
+          "character": "MACIAS",
+          "line": "I've been thinking a long time about what our celebration will be like. We'll have a huge dinner. You'll make hasperat and I'll make blueberry pie. We'll drink wine and we'll dance. I'll even play the belaklavion. That'll give everyone a laugh."
+        },
+        {
+          "character": "RO",
+          "line": "You play the klavion?"
+        },
+        {
+          "character": "MACIAS",
+          "line": "Yes, badly. It's a difficult instrument, but I enjoy the challenge."
+        },
+        {
+          "character": "RO",
+          "line": "My father played the klavion. When I was very young and afraid of monsters under my bed, he'd play for me. He said that the klavion had special powers. Monsters were afraid of it and when they heard it they would disappear. When I listened to that music he played for me I was never afraid to go to sleep. When he died I realized even he couldn't make all the monsters go away."
+        },
+        {
+          "character": "MACIAS",
+          "line": "Why wait? Let's go to the market. Let's get food for a feast, for a celebration."
+        },
+        {
+          "character": "RO",
+          "line": "A celebration of what?"
+        },
+        {
+          "character": "MACIAS",
+          "line": "Of absolutely nothing. Just to celebrate."
+        },
+        {
+          "character": "RO",
+          "line": "I'd like that."
+        },
+        {
+          "character": "MACIAS",
+          "line": "Come, let's go to the market. If I'm going to make a pie, we'll have to find a substitute for blueberries. Haven't seen real ones in years."
+        },
+        {
+          "character": "RO",
+          "line": "On Bajor, there's a berry"
+        },
+        {
+          "character": "MACIAS",
+          "line": "Yes, I know it, very sweet."
+        },
+        {
+          "character": "SANTOS",
+          "line": "Ro!"
+        },
+        {
+          "character": "RO",
+          "line": "Macias?"
+        },
+        {
+          "character": "MACIAS",
+          "line": "They must have found out that there was a Maquis cell here."
+        },
+        {
+          "character": "RO",
+          "line": "Kalita, get one of the medkits. Hurry. You have to hang on."
+        },
+        {
+          "character": "MACIAS",
+          "line": "When an old fighter like me dies someone always steps forward to take his place."
+        }
+      ],
+      "location": "Settlement"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "RO",
+          "line": "Not tonight. Hello. Are you alone?"
+        },
+        {
+          "character": "PICARD",
+          "line": "I hope not."
+        },
+        {
+          "character": "RO",
+          "line": "Why don't we get acquainted? There's a table in the back that's more private."
+        },
+        {
+          "character": "PICARD",
+          "line": "I'd like that."
+        },
+        {
+          "character": "RO",
+          "line": "We have to cancel the mission."
+        },
+        {
+          "character": "PICARD",
+          "line": "Why?"
+        },
+        {
+          "character": "RO",
+          "line": "The Maquis didn't go for the bait. They think the convoy is too big a target."
+        },
+        {
+          "character": "PICARD",
+          "line": "But there are only six ships. We could even cut back that number."
+        },
+        {
+          "character": "RO",
+          "line": "It's the commitment of resources, of grouping so many of the Maquis together at once. They feel that it makes them too vulnerable."
+        },
+        {
+          "character": "PICARD",
+          "line": "Every intelligence report that I get from Starfleet suggests that the Maquis are eager to expand their strikes, they want to escalate their activities. Now you're telling me this isn't true?"
+        },
+        {
+          "character": "RO",
+          "line": "It's probably different in every cell. The people I've met tend to be more conservative. I'm sure others have a more militant attitude."
+        },
+        {
+          "character": "PICARD",
+          "line": "Laren, what's going on?"
+        },
+        {
+          "character": "RO",
+          "line": "Do you have the money I asked you to bring?"
+        },
+        {
+          "character": "PICARD",
+          "line": "Yes."
+        },
+        {
+          "character": "RO",
+          "line": "Put some on the table."
+        },
+        {
+          "character": "PICARD",
+          "line": "What?"
+        },
+        {
+          "character": "RO",
+          "line": "By this time, you should be negotiating my price. When you sent me on this mission, I thought that I could do it. Even though it meant helping Cardassians, even though it meant betraying people who are fighting against them. Now I'm not sure where I stand."
+        },
+        {
+          "character": "PICARD",
+          "line": "Are you saying you want to back out of this mission?"
+        },
+        {
+          "character": "RO",
+          "line": "Sir, I don't want to let you down, I swear that I don't."
+        },
+        {
+          "character": "PICARD",
+          "line": "This has nothing to do with me. This is about you. If you back out now, you'll throw away everything you've worked for. We're committed to this mission. My only question for you is, can you carry out your orders? I could put you before a board of inquiry for having lied to me about this operation. I would certainly have you court-martialled if you sabotage it. Now, it's your decision."
+        },
+        {
+          "character": "RO",
+          "line": "I'll carry out my orders, sir."
+        },
+        {
+          "character": "PICARD",
+          "line": "I feel it necessary to have Commander Riker go back with you. He can pose as a relative. I just want to make sure that nothing happens to obstruct this mission."
+        },
+        {
+          "character": "PICARD",
+          "line": "I'm sorry. I don't have that kind of money."
+        },
+        {
+          "character": "PICARD",
+          "line": "Captain's log, supplemental. We have received word from Commander Riker and Lieutenant Ro that the Maquis will be attacking the convoy as planned. Our ships have taken up position in the Hugora Nebula to wait for them.",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "Alien bar"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "DATA",
+          "line": "I have established a relay link with the sensor probe we left on the perimeter of the Nebula. This is the convoy. We are expecting the Maquis attack force to cross the border from the Demilitarized Zone."
+        },
+        {
+          "character": "PICARD",
+          "line": "As soon as they cross the border, we'll intercept them."
+        },
+        {
+          "character": "WORF",
+          "line": "Captain, in order to ensure that the ship Commander Riker and Lieutenant Ro are piloting does not come under fire, I have relayed their warp signature to the rest of the attack force."
+        },
+        {
+          "character": "DATA",
+          "line": "Sir, the Maquis squadron is coming into sensor range."
+        },
+        {
+          "character": "PICARD",
+          "line": "Go to Red alert."
+        },
+        {
+          "character": "WORF",
+          "line": "Aye, sir."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "SANTOS",
+          "line": "Squad leader to all ships.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "RO",
+          "line": "Go ahead, squad leader."
+        }
+      ],
+      "location": "Ro's ship"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "SANTOS",
+          "line": "We'll be crossing the border in less than one minute. Arm your weapons."
+        },
+        {
+          "character": "RO",
+          "line": "Acknowledged.",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "Santos' ship"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "RIKER",
+          "line": "Starfleet can't make its move until we're out of the Demilitarized Zone. We're to break formation and take cover in the Nebula as soon as they appear."
+        },
+        {
+          "character": "RO",
+          "line": "The ships in the convoy are raising their shields. They've spotted us."
+        },
+        {
+          "character": "RIKER",
+          "line": "We cross the border in thirty seconds."
+        },
+        {
+          "character": "RIKER",
+          "line": "What the?"
+        },
+        {
+          "character": "RO",
+          "line": "I'm sorry. I can't let this happen."
+        }
+      ],
+      "location": "Ro's ship"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "DATA",
+          "line": "Sir, the vessel being piloted by Lieutenant Ro is firing a low intensity particle beam into the nebula."
+        },
+        {
+          "character": "PICARD",
+          "line": "What the hell is she doing?"
+        },
+        {
+          "character": "DATA",
+          "line": "The polarizing effect being created by the beam may make it possible for us to be detected."
+        },
+        {
+          "character": "PICARD",
+          "line": "Can you counter the effect?"
+        },
+        {
+          "character": "DATA",
+          "line": "I will attempt to do so."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "SANTOS",
+          "line": "Ro, why are you firing?"
+        },
+        {
+          "character": "RO",
+          "line": "Scan the nebula.",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "Santos's ship"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "RO",
+          "line": "There's a Starfleet attack force hiding inside it."
+        }
+      ],
+      "location": "Ro's ship"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "SANTOS",
+          "line": "I see it! Squad leader to all ships. Abort the mission. Repeat, abort the mission."
+        }
+      ],
+      "location": "Santos' ship"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "DATA",
+          "line": "Sir, the Maquis ships are breaking formation."
+        },
+        {
+          "character": "PICARD",
+          "line": "Have they crossed the border?"
+        },
+        {
+          "character": "DATA",
+          "line": "No, sir. They are withdrawing."
+        },
+        {
+          "character": "WORF",
+          "line": "Captain, Lieutenant Ro's ship is not retreating with the others. It is heading toward us."
+        },
+        {
+          "character": "PICARD",
+          "line": "When she comes aboard take her into custody."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "RO",
+          "line": "Alpha Seven to Alpha Nine."
+        },
+        {
+          "character": "KALITA",
+          "line": "Go ahead.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "RO",
+          "line": "Stand by to beam me aboard."
+        },
+        {
+          "character": "KALITA",
+          "line": "Standing by.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "RO",
+          "line": "You can take this ship back to the Enterprise."
+        },
+        {
+          "character": "RIKER",
+          "line": "You're going with them?"
+        },
+        {
+          "character": "RO",
+          "line": "It's been a long time since I really felt like I really belonged somewhere. Could you tell Captain Picard something for me?"
+        },
+        {
+          "character": "RIKER",
+          "line": "Of course. What is it?"
+        },
+        {
+          "character": "RO",
+          "line": "Tell him I'm sorry."
+        },
+        {
+          "character": "RIKER",
+          "line": "So long, Ro. Take care of yourself."
+        },
+        {
+          "character": "RO",
+          "line": "Goodbye, Will. Energize."
+        }
+      ],
+      "location": "Ro's ship"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "RIKER",
+          "line": "She seemed very sure that she was making the right choice. I think her only real regret was that she let you down. Here's my report."
+        }
+      ],
+      "location": "Ready room"
+    }
+  ],
+  "schedule": {
+    "episode": 24,
+    "number": 176,
+    "season": 7
+  },
+  "stardate": "47941.7",
+  "title": "Preemptive Strike"
+}

@@ -1,0 +1,1500 @@
+{
+  "airdate": 717652800,
+  "scenes": [
+    {
+      "dialogue": [
+        {
+          "character": "unknown",
+          "line": "Captain's Log, Stardate 46041.1. We have located the USS Yosemite, a Starfleet science vessel sent to the Igo sector to observe a remote plasma streamer. The ship has not been heard from in several days."
+        }
+      ],
+      "location": "unknown"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "PICARD",
+          "line": "Magnify."
+        },
+        {
+          "character": "RIKER",
+          "line": "The last report we have says they were observing the streamer at medium range. Maybe they went in for a closer look, got more than they bargained for."
+        },
+        {
+          "character": "PICARD",
+          "line": "Hail them."
+        },
+        {
+          "character": "WORF",
+          "line": "No response."
+        },
+        {
+          "character": "PICARD",
+          "line": "Life signs?"
+        },
+        {
+          "character": "DATA",
+          "line": "Our scanners cannot penetrate the plasma streamer's distortion field."
+        },
+        {
+          "character": "PICARD",
+          "line": "Can we tractor them out?"
+        },
+        {
+          "character": "DATA",
+          "line": "No, sir. Ionic interference is too heavy."
+        },
+        {
+          "character": "RIKER",
+          "line": "I'll take a shuttle in."
+        },
+        {
+          "character": "PICARD",
+          "line": "Too risky. You could be pulled in too. Bridge to Engineering."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "PICARD",
+          "line": "Mister La Forge, can we beam an away team onto the science ship?",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "LAFORGE",
+          "line": "We can beam them over there, Captain, but with all this interference, we might not get a positive lock to bring them back."
+        },
+        {
+          "character": "BARCLAY",
+          "line": "Commander, if we bridged our transporter system with theirs we might be able to cut through the ionic field."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "That's a good idea, Barclay. Captain, I think we can do it. We're going to bridge the two transporter systems."
+        },
+        {
+          "character": "PICARD",
+          "line": "Acknowledged. Meet Commander Riker in Transporter room three.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Aye sir. Barclay, I'm going to need a systems engineer on this Away Team."
+        },
+        {
+          "character": "BARCLAY",
+          "line": "I'll ask Ensign Dern to join you."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "I meant you, Barclay."
+        },
+        {
+          "character": "BARCLAY",
+          "line": "Shouldn't I stay here and set up the remote link?"
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Dern can do that. Come on, let's go."
+        }
+      ],
+      "location": "Engineering"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "RIKER",
+          "line": "Status, Mister O'Brien?"
+        },
+        {
+          "character": "O'BRIEN",
+          "line": "I'll have to send you over one at a time, Commander, because of band width limitations, and the transport cycle will take a little longer."
+        },
+        {
+          "character": "RIKER",
+          "line": "How much longer?"
+        },
+        {
+          "character": "O'BRIEN",
+          "line": "Four, five seconds. About twice the normal time. I'm afraid you're in for a bumpy ride, Commander."
+        },
+        {
+          "character": "BARCLAY",
+          "line": "What do you? What exactly do you mean by a bumpy ride?"
+        },
+        {
+          "character": "O'BRIEN",
+          "line": "There may be a small amount of static charge accumulation. You'll feel a bit of tingling. It's nothing to worry about."
+        },
+        {
+          "character": "RIKER",
+          "line": "Let's do it. Mister Worf."
+        },
+        {
+          "character": "O'BRIEN",
+          "line": "Engaging system interlock. Pattern buffers synchronized. Phase transition coils at stand by. Energizing. He's there."
+        },
+        {
+          "character": "RIKER",
+          "line": "I'll go next."
+        },
+        {
+          "character": "O'BRIEN",
+          "line": "Engaging interlock. Buffers synched. Energizing."
+        },
+        {
+          "character": "CRUSHER",
+          "line": "I'm ready."
+        },
+        {
+          "character": "O'BRIEN",
+          "line": "Engaging interlock. Buffers synched. Oh, wait a minute. I'm reading an ionic fluctuation in the matter stream. Oh, no problem. Okay. Energizing."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Reg, you're up. Reg."
+        },
+        {
+          "character": "BARCLAY",
+          "line": "Aye, sir."
+        },
+        {
+          "character": "O'BRIEN",
+          "line": "Engaging interlock. Buffers in synch. Phase coils"
+        },
+        {
+          "character": "BARCLAY",
+          "line": "I'm sorry, I just can't do this."
+        }
+      ],
+      "location": "Transporter room"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TROI",
+          "line": "Reg, you were faced with a difficult transport. Anyone would have been apprehensive in that situation."
+        },
+        {
+          "character": "BARCLAY",
+          "line": "Tell that to Commander La Forge and the rest of the away team."
+        },
+        {
+          "character": "TROI",
+          "line": "I'm sure they understand. As soon as you feel up to it, you can probably still join them."
+        },
+        {
+          "character": "BARCLAY",
+          "line": "No!"
+        },
+        {
+          "character": "TROI",
+          "line": "Reg, is there something you're not telling me?"
+        },
+        {
+          "character": "BARCLAY",
+          "line": "Actually, this isn't the first time I've been apprehensive. Every single time that I tried to do it, I had a certain feeling. I guess you could call it mortal terror."
+        },
+        {
+          "character": "TROI",
+          "line": "Why have you kept it a secret?"
+        },
+        {
+          "character": "BARCLAY",
+          "line": "Why? Because my career in Starfleet would be over, that's why."
+        },
+        {
+          "character": "TROI",
+          "line": "I doubt that."
+        },
+        {
+          "character": "BARCLAY",
+          "line": "I've always managed to avoid it somehow. You wouldn't believe how many hours that I've logged in shuttlecraft. I mean, The idea of being deconstructed, molecule by molecule. It's more than I can stand. Even when I was a child, I always had a dreadful fear that if ever I was dematerialized that I would never come back again whole. I know it sounds crazy, but"
+        },
+        {
+          "character": "TROI",
+          "line": "It's not crazy about it. You are being taken apart molecule by molecule. Reg, you're not the first person to have anxiety about transporting. We can desensitize you to this type of fear. It's a slow and gradual process, but it works."
+        },
+        {
+          "character": "BARCLAY",
+          "line": "It does? How?"
+        },
+        {
+          "character": "TROI",
+          "line": "Well, you might first try a relaxation technique, like plexing."
+        },
+        {
+          "character": "BARCLAY",
+          "line": "Plexing?"
+        },
+        {
+          "character": "TROI",
+          "line": "Yes, it's a Betazoid method. The next time you feel nervous about transporting, you stimulate a neural pressure point, like this."
+        },
+        {
+          "character": "TROI",
+          "line": "There's a nerve cluster just behind the carotid artery. It stimulates the part of the brain that releases natural endorphins."
+        },
+        {
+          "character": "BARCLAY",
+          "line": "Plexing. Sounds easy enough."
+        },
+        {
+          "character": "TROI",
+          "line": "Here. There."
+        },
+        {
+          "character": "BARCLAY",
+          "line": "You know, I feel better already. I think I can do this."
+        },
+        {
+          "character": "TROI",
+          "line": "There's no need to rush."
+        },
+        {
+          "character": "BARCLAY",
+          "line": "No, no. We talked about confronting my fears. The best way out is through. You said that once, remember?"
+        },
+        {
+          "character": "TROI",
+          "line": "I suppose I did."
+        },
+        {
+          "character": "BARCLAY",
+          "line": "I'm going to beam over there. I can do it."
+        }
+      ],
+      "location": "Troi's office"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "RIKER",
+          "line": "There's no sign of any survivors. No sign of anyone."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Maybe they abandoned ship."
+        },
+        {
+          "character": "WORF",
+          "line": "Unlikely. The escape pods are still on board."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "There was an explosion. That much we do know."
+        },
+        {
+          "character": "RIKER",
+          "line": "Any idea what caused it?"
+        },
+        {
+          "character": "LAFORGE",
+          "line": "I've ruled out a reactor core failure and there's no sign of a systems overload."
+        },
+        {
+          "character": "WORF",
+          "line": "Blast analysis indicates the explosion originated here, in the center of the transport chamber."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "How is that possible? The transporter is still functioning."
+        },
+        {
+          "character": "RIKER",
+          "line": "Could they have beamed an explosive device aboard?"
+        },
+        {
+          "character": "CRUSHER",
+          "line": "Commander Riker? Could you come here, please."
+        },
+        {
+          "character": "RIKER",
+          "line": "Excuse me."
+        }
+      ],
+      "location": "USS Yosemite Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "CRUSHER",
+          "line": "Lieutenant Joshua Kelly. He was the ship's engineer."
+        },
+        {
+          "character": "RIKER",
+          "line": "How did he die?"
+        },
+        {
+          "character": "CRUSHER",
+          "line": "He has second and third degree burns over most of his body, but I don't think they were the cause of his death. I'm like to take him back to do an autopsy."
+        }
+      ],
+      "location": "USS Yosemite"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "O'BRIEN",
+          "line": "You're sure about this, sir?"
+        },
+        {
+          "character": "BARCLAY",
+          "line": "Sure. Please proceed."
+        },
+        {
+          "character": "O'BRIEN",
+          "line": "It'll only take a minute. It should be a smooth ride over."
+        },
+        {
+          "character": "BARCLAY",
+          "line": "Good. Good."
+        },
+        {
+          "character": "O'BRIEN",
+          "line": "I know how you feel about this, sir."
+        },
+        {
+          "character": "BARCLAY",
+          "line": "You're afraid of transporting, too?"
+        },
+        {
+          "character": "O'BRIEN",
+          "line": "No. Arachnids. Sickening, crawly little things, don't you think? All those legs."
+        },
+        {
+          "character": "BARCLAY",
+          "line": "Spiders? They've never bothered me."
+        },
+        {
+          "character": "O'BRIEN",
+          "line": "A few years back, I was called in to re-route an emitter array at a Starbase on Zayra Four. Turns out the entire system was infested with Talarian hook spiders. You ever seen a Talarian hook spider? Their legs are half a meter long. Well, I had a choice. Do I walk away and let the emitter blow itself to hell, or do I crawl in the Jeffries tube with twenty hook spiders?"
+        },
+        {
+          "character": "BARCLAY",
+          "line": "What happened?"
+        },
+        {
+          "character": "O'BRIEN",
+          "line": "It was the hardest thing I ever did, but I got through it. After that, I was never quite as afraid of spiders."
+        },
+        {
+          "character": "BARCLAY",
+          "line": "Thanks."
+        },
+        {
+          "character": "O'BRIEN",
+          "line": "Energizing."
+        }
+      ],
+      "location": "Transporter room"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "LAFORGE",
+          "line": "Reg. Welcome aboard. You ready to work?"
+        },
+        {
+          "character": "BARCLAY",
+          "line": "Yes, sir."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Good. Why don't you start by downloading the ship's science logs over there."
+        },
+        {
+          "character": "BARCLAY",
+          "line": "Aye, sir."
+        },
+        {
+          "character": "RIKER",
+          "line": "Still four members of the crew unaccounted for. Did you come up with anything?"
+        },
+        {
+          "character": "LAFORGE",
+          "line": "I don't know how these fit in, but I found them all around the transporter platform."
+        },
+        {
+          "character": "RIKER",
+          "line": "What are they?"
+        },
+        {
+          "character": "LAFORGE",
+          "line": "They look like pieces of a standard sample container."
+        },
+        {
+          "character": "RIKER",
+          "line": "Take them back to the ship, analyze them there. Mister Barclay. Glad you could join us."
+        },
+        {
+          "character": "BARCLAY",
+          "line": "Me too, sir."
+        }
+      ],
+      "location": "USS Yosemite Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "HAYES",
+          "line": "The Ferengi are claiming two of their freighters were destroyed by a Cardassian warship in your sector.",
+          "modifier": "screen"
+        },
+        {
+          "character": "PICARD",
+          "line": "Is there any evidence to support this?"
+        },
+        {
+          "character": "HAYES",
+          "line": "Although I'm loathe to believe the Ferengi about anything, there was evidence of Cardassian weapons. If the Cardassians also attacked the Yosemite, it could indicate a large scale movement into this sector.",
+          "modifier": "screen"
+        },
+        {
+          "character": "PICARD",
+          "line": "I have an away team on board the ship. The initial report indicates there was an explosion on board, but we're not sure if it was from an attack."
+        },
+        {
+          "character": "HAYES",
+          "line": "How soon until you know?",
+          "modifier": "screen"
+        },
+        {
+          "character": "PICARD",
+          "line": "A few hours. If it looks like Cardassians, I'll contact you immediately."
+        },
+        {
+          "character": "HAYES",
+          "line": "Very well.",
+          "modifier": "screen"
+        },
+        {
+          "character": "DATA",
+          "line": "Bridge to Captain Picard.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "PICARD",
+          "line": "Go ahead, Mister Data."
+        },
+        {
+          "character": "DATA",
+          "line": "The away team is returning to the Enterprise, sir.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "PICARD",
+          "line": "Acknowledged. Have Commander Riker come to my Ready room as soon as he's on board."
+        },
+        {
+          "character": "DATA",
+          "line": "Aye, sir.",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "Ready room"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "LAFORGE",
+          "line": "La Forge to Transporter room three. I'm ready to go.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "O'BRIEN",
+          "line": "Stand by, Commander."
+        }
+      ],
+      "location": "Transporter room"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "BARCLAY",
+          "line": "Barclay to Enterprise. One to beam back."
+        },
+        {
+          "character": "O'BRIEN",
+          "line": "Stand by, sir.",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "USS Yosemite"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "O'BRIEN",
+          "line": "You see, sir? That wasn't so bad, was it."
+        }
+      ],
+      "location": "Transporter room"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "LAFORGE",
+          "line": "Mission logs, science logs, medical logs, they're all scrambled. Looks like the blast wiped out the ship's core memory."
+        },
+        {
+          "character": "BARCLAY",
+          "line": "We could try to reconstitute the data stream."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "It's worth a try."
+        },
+        {
+          "character": "BARCLAY",
+          "line": "Commander, has anything strange ever happened to you during transport?"
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Like what?"
+        },
+        {
+          "character": "BARCLAY",
+          "line": "I don't know. Anything out of the ordinary."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "No, not really. This looks hopeless. We're not going to get anything out of these logs. You know, maybe this broken sample container I found can tell us something. Let's try to get this thing back into one piece."
+        },
+        {
+          "character": "BARCLAY",
+          "line": "I mean, have you ever seen anything?"
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Where?"
+        },
+        {
+          "character": "BARCLAY",
+          "line": "In the, during transport."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Sometimes my visor picks up resonance patterns from the matter energy conversion. It's actually kind of pretty. Why?"
+        },
+        {
+          "character": "BARCLAY",
+          "line": "Just wondering."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Reg, what are you getting at? Did you saw something during transport?"
+        },
+        {
+          "character": "BARCLAY",
+          "line": "When I was returning to the Enterprise I could've sworn I saw something in the matter stream."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Something?"
+        },
+        {
+          "character": "BARCLAY",
+          "line": "There was phased matter all around. At first I thought it was some kind of energy discharge, but then it flew toward me and it touched my arm. How could something be in there? Molecules flying apart, half phased? I mean, it's impossible, isn't it?"
+        },
+        {
+          "character": "LAFORGE",
+          "line": "We'd better check it out. When we're done here, we'll run a full diagnostic on the transporter, all right?"
+        },
+        {
+          "character": "BARCLAY",
+          "line": "All right."
+        }
+      ],
+      "location": "Engineering"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "O'BRIEN",
+          "line": "The confinement beam subsystems check out. So do the phase transition coils."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "The pattern buffer is fine."
+        },
+        {
+          "character": "O'BRIEN",
+          "line": "Emitter pads, targeting scanners, they're all working fine. This system's clean. So is the science vessel's."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Reg, there's a lot of energy floating around in the beam. Maybe you saw a surge in the matter stream."
+        },
+        {
+          "character": "BARCLAY",
+          "line": "Yeah."
+        },
+        {
+          "character": "O'BRIEN",
+          "line": "I'll run a scan on the Heisenberg compensators."
+        },
+        {
+          "character": "BARCLAY",
+          "line": "No, Chief, you've done enough already."
+        },
+        {
+          "character": "O'BRIEN",
+          "line": "It's no problem. Why don't you give me a hand?"
+        },
+        {
+          "character": "BARCLAY",
+          "line": "You know, maybe ignorance really is bliss."
+        },
+        {
+          "character": "O'BRIEN",
+          "line": "Sir?"
+        },
+        {
+          "character": "BARCLAY",
+          "line": "Well, if I didn't know so much about these things, maybe they wouldn't scare me so much. I can still remember the day in Doctor Olafson's Transporter Theory class when he was talking about the body being converted into billions of kiloquads of data, zipping through subspace, and I realized there's no margin for error. One atom out of place and poof! You never come back. It's amazing people aren't lost all the time."
+        },
+        {
+          "character": "O'BRIEN",
+          "line": "With all due respect, sir, I've been doing this for twenty two years and I haven't lost anybody yet."
+        },
+        {
+          "character": "BARCLAY",
+          "line": "Yes, but you realize if these imaging scanners are off even a thousandth of a percent."
+        },
+        {
+          "character": "O'BRIEN",
+          "line": "That's why each pad has four redundant scanners. If any one scanner fails, the other three take over."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Reg, how many transporter accidents have there been in the last ten years? Two? Three? There are millions of people who transport safely every day without a problem."
+        },
+        {
+          "character": "BARCLAY",
+          "line": "I've heard of problems. What about transporter psychosis?"
+        },
+        {
+          "character": "O'BRIEN",
+          "line": "Transporter Psychosis? There hasn't been a case of that in over fifty years. Not since they perfected the multiplex pattern buffers."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Reg, transporting really is the safest way to travel."
+        }
+      ],
+      "location": "Transporter room"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "CRUSHER",
+          "line": "I'd like to take a closer look at those burns. Take a tissue sample, please."
+        },
+        {
+          "character": "OGAWA",
+          "line": "Yes, Doctor."
+        },
+        {
+          "character": "CRUSHER",
+          "line": "Damage to the epidermis only. Initiate a circulatory probe."
+        },
+        {
+          "character": "OGAWA",
+          "line": "Doctor Crusher!"
+        },
+        {
+          "character": "CRUSHER",
+          "line": "His heart's beating! Cardio-stimulator. Now. It's gone."
+        },
+        {
+          "character": "OGAWA",
+          "line": "Neuro-electrical activity in the cerebral cortex. Nothing."
+        },
+        {
+          "character": "CRUSHER",
+          "line": "Now the respiratory system's active. What the hell is going on?"
+        }
+      ],
+      "location": "Sickbay"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "BARCLAY",
+          "line": "Water, ten degrees Celsius. Computer, access Starfleet Medical Database. Tell me about, er. Describe the disorder transporter psychosis."
+        },
+        {
+          "character": "COMPUTER",
+          "line": "Transporter psychosis was diagnosed in the year twenty two oh nine by researchers on Delinia Two."
+        },
+        {
+          "character": "BARCLAY",
+          "line": "No, no stop. All I need is, what causes it?"
+        },
+        {
+          "character": "COMPUTER",
+          "line": "It is caused by a breakdown of neuro-chemical molecules during transport, affecting the body's motor functions, autonomic systems, and the brain's higher reasoning centers."
+        },
+        {
+          "character": "BARCLAY",
+          "line": "What are the symptoms?"
+        },
+        {
+          "character": "COMPUTER",
+          "line": "Victims suffer from paranoid delusions, multi-infarct dementia, hallucinations."
+        },
+        {
+          "character": "BARCLAY",
+          "line": "Hallucinations? What kind of hallucinations?"
+        },
+        {
+          "character": "COMPUTER",
+          "line": "Victims experience somatic, tactile and visual hallucinations, accompanied by psychogenic hysteria. Peripheral symptoms include sleeplessness, accelerated heart rate, diminished eyesight leading to acute myopia, painful spasms in the extremities, and in most cases, dehydration."
+        },
+        {
+          "character": "BARCLAY",
+          "line": "Computer what is the treatment for transporter psychosis?"
+        },
+        {
+          "character": "COMPUTER",
+          "line": "There is no known treatment."
+        }
+      ],
+      "location": "Barclay's quarters"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "CRUSHER",
+          "line": "The autopsy showed residual ionization in every one of Lieutenant Kelly's systems. I think that's what caused the muscular and systemic contractions."
+        },
+        {
+          "character": "RIKER",
+          "line": "From where did the ionization come?"
+        },
+        {
+          "character": "CRUSHER",
+          "line": "There's evidence of electrical burns on the victim's body, as if he was exposed to ionized gas or high energy plasma."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Plasma? There's no way they could've been exposed, unless it was matter from the streamer."
+        },
+        {
+          "character": "PICARD",
+          "line": "Is there evidence of a hull breach? Could plasma from the streamer have found its way into the ship?"
+        },
+        {
+          "character": "LAFORGE",
+          "line": "No. Data, what's the report on that broken sample container?"
+        },
+        {
+          "character": "DATA",
+          "line": "The analysis of the fragments is not yet complete."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Captain, if there's evidence of similar ionization in those fragments, it could mean they tried to beam aboard material from the streamer."
+        },
+        {
+          "character": "PICARD",
+          "line": "If the plasma exploded that would explain a few things. Let me know when the analysis is complete."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Aye, sir."
+        }
+      ],
+      "location": "Observation lounge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "LAFORGE",
+          "line": "From the looks of these fracture patterns, I'd say that the explosive force came from within the container."
+        },
+        {
+          "character": "DATA",
+          "line": "The container does show evidence of residual ionization. I believe your hypothesis was correct. It was used to store high energy plasma."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "So they were collecting samples from the plasma streamer. They had the proper container. How could it have exploded?"
+        },
+        {
+          "character": "DATA",
+          "line": "Perhaps we should attempt to recreate their experiment to see what happens when matter is beamed aboard under similar conditions."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "That's a good idea. We'll prepare a new container. Reg, I don't want to take any chances here. Start setting up a level five containment field here in Engineering, okay?"
+        },
+        {
+          "character": "BARCLAY",
+          "line": "Aye, sir."
+        },
+        {
+          "character": "DATA",
+          "line": "Are you all right, Lieutenant?"
+        },
+        {
+          "character": "BARCLAY",
+          "line": "I'm fine. Yes, thank you."
+        },
+        {
+          "character": "DATA",
+          "line": "Geordi. Lieutenant Barclay appears inordinately preoccupied with his physiological condition. I have seen him check his pulse rate, as well as his visual acuity several times over the last twenty minutes."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Thanks, Data."
+        }
+      ],
+      "location": "Engineering"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "LAFORGE",
+          "line": "Reg?"
+        },
+        {
+          "character": "BARCLAY",
+          "line": "Yes, sir?"
+        },
+        {
+          "character": "LAFORGE",
+          "line": "You okay?"
+        },
+        {
+          "character": "BARCLAY",
+          "line": "I'm just fine, sir."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "You look a little pale."
+        },
+        {
+          "character": "BARCLAY",
+          "line": "I do?"
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Look, Reg, it's been a long couple of days. Why don't you get some rest. We've got everything under control here."
+        },
+        {
+          "character": "BARCLAY",
+          "line": "I think I'll do that, sir. Thank you."
+        }
+      ],
+      "location": "Jefferies tube"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "LAFORGE",
+          "line": "La Forge to Counselor Troi."
+        },
+        {
+          "character": "TROI",
+          "line": "Go ahead, Commander.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Counselor, do you have a minute?"
+        }
+      ],
+      "location": "Engineering"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TROI",
+          "line": "Lieutenant Barclay, I've been calling you, why haven't you responded? Reg, what are you doing?"
+        },
+        {
+          "character": "BARCLAY",
+          "line": "I'm walking."
+        },
+        {
+          "character": "TROI",
+          "line": "I can see that. Where are you going?"
+        },
+        {
+          "character": "BARCLAY",
+          "line": "Nowhere. I just don't get to these decks very often. Look, there's Stellar Cartography. I thought that was deck eleven."
+        },
+        {
+          "character": "TROI",
+          "line": "Mister Barclay."
+        },
+        {
+          "character": "BARCLAY",
+          "line": "I was I was having trouble sleeping and I'm trying to wear myself out. It is a perfectly normal thing to be doing, isn't it?"
+        },
+        {
+          "character": "TROI",
+          "line": "Commander La Forge said you seemed a little nervous this morning."
+        },
+        {
+          "character": "BARCLAY",
+          "line": "I'm always nervous. Everybody knows that."
+        },
+        {
+          "character": "TROI",
+          "line": "He also mentioned that you said you saw something in the transporter beam."
+        },
+        {
+          "character": "BARCLAY",
+          "line": "Well I was wrong. They checked the transporter and there wasn't. I mean, there was nothing there. I imagined the whole thing."
+        },
+        {
+          "character": "TROI",
+          "line": "You don't sound very convinced of that."
+        },
+        {
+          "character": "BARCLAY",
+          "line": "Listen, Counselor, I really appreciate your concern in this matter but I really wish you wouldn't continue this conversation. I'm really perfectly fine."
+        },
+        {
+          "character": "TROI",
+          "line": "Mister Barclay, you're exhausted and highly agitated, and I cannot allow a member of this crew to endanger himself and others. I think"
+        },
+        {
+          "character": "BARCLAY",
+          "line": "I'm not endangering anyone else and I wish you would"
+        },
+        {
+          "character": "TROI",
+          "line": "I think it would be in your best interest to take a leave of absence. Reg, I'm temporarily relieving you of duty."
+        },
+        {
+          "character": "BARCLAY",
+          "line": "Fine, fine. Do what you have to do, Counselor."
+        }
+      ],
+      "location": "Corridor"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "BARCLAY",
+          "line": "Computer more birds. End stress reduction program. Water."
+        },
+        {
+          "character": "COMPUTER",
+          "line": "Specify temperature."
+        },
+        {
+          "character": "BARCLAY",
+          "line": "I don't care. Just give me water!"
+        },
+        {
+          "character": "BARCLAY",
+          "line": "Calm, calm, stay calm. All right, Computer, let's try some music. Something soothing."
+        }
+      ],
+      "location": "Barclay's quarters"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "O'BRIEN",
+          "line": "Sir, begging your pardon, but couldn't this wait til the morning?"
+        },
+        {
+          "character": "BARCLAY",
+          "line": "No. Chief, I've just, I've been reviewing the transport logs. What are these energy variations that keep appearing? There was one when I transported to the science ship, you see?"
+        },
+        {
+          "character": "O'BRIEN",
+          "line": "They're just ionic fluctuations, sir. A result of our interlock with the Yosemite's transporter system."
+        },
+        {
+          "character": "BARCLAY",
+          "line": "A fluctuation occurred while I was inside the matter stream?"
+        },
+        {
+          "character": "O'BRIEN",
+          "line": "It's nothing to worry about, sir."
+        },
+        {
+          "character": "BARCLAY",
+          "line": "I need you to transport me to the science ship and then directly back again. And while I'm in the beam, can you recreate one of those ionic fluctuations?"
+        },
+        {
+          "character": "O'BRIEN",
+          "line": "I guess so. But if you don't mind my asking, sir, what for?"
+        },
+        {
+          "character": "BARCLAY",
+          "line": "I need. Commander La Forge wants some tricorder readings on those fluctuations."
+        },
+        {
+          "character": "O'BRIEN",
+          "line": "We can do that from right here."
+        },
+        {
+          "character": "BARCLAY",
+          "line": "No, I, the transporter sensors may not be sensitive enough. I'm giving you an order, Mister O'Brien."
+        },
+        {
+          "character": "O'BRIEN",
+          "line": "Aye, sir. If you don't mind my making an observation, sir, you forgot to bring a tricorder."
+        },
+        {
+          "character": "BARCLAY",
+          "line": "Either there's something in there or I'm going crazy, and I've just got to know. You can understand that, can't you?"
+        },
+        {
+          "character": "O'BRIEN",
+          "line": "Yes sir, I can. Stand by, sir."
+        },
+        {
+          "character": "BARCLAY",
+          "line": "I want you to wake the senior staff."
+        }
+      ],
+      "location": "Transporter room"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "BARCLAY",
+          "line": "Then I saw it again, just twenty minutes ago. It was the same exact thing just moving around in the transporter beam."
+        },
+        {
+          "character": "RIKER",
+          "line": "Let me get this straight. You think this thing was alive?"
+        },
+        {
+          "character": "BARCLAY",
+          "line": "It was dark and distorted, and it had what looked like a mouth."
+        },
+        {
+          "character": "WORF",
+          "line": "A mouth."
+        },
+        {
+          "character": "CRUSHER",
+          "line": "I don't see anything wrong with his arm."
+        },
+        {
+          "character": "TROI",
+          "line": "Reg, why did you wait so long to tell anybody about your arm?"
+        },
+        {
+          "character": "BARCLAY",
+          "line": "Well, I thought I was hallucinating, that I had, that it was transporter psychosis. But now I know what I saw in there was real. I was the only one who experienced ionic fluctuations in the transport. Maybe that's why no one else saw it."
+        },
+        {
+          "character": "PICARD",
+          "line": "Mister Barclay, I've been told you've been under a considerable amount of strain the past couple of days. Isn't it possible that you simply imagined"
+        },
+        {
+          "character": "BARCLAY",
+          "line": "I know what you're going to say, Captain. I know I've been acting strange lately. But you've got to believe me. I would never have called you in here unless I was absolutely certain."
+        },
+        {
+          "character": "PICARD",
+          "line": "Commander La Forge, get Mister O'Brien. Take that transporter system apart piece by piece if you have to. Mister Worf, I want a level three security alert until further notice."
+        },
+        {
+          "character": "WORF",
+          "line": "Aye, sir."
+        },
+        {
+          "character": "CRUSHER",
+          "line": "I'll run a micro-cellular scan of Mister Barclay's arm. It might take some time, but if there's a problem, I'll find it."
+        },
+        {
+          "character": "PICARD",
+          "line": "Keep me apprised. Dismissed."
+        }
+      ],
+      "location": "Observation lounge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "CRUSHER",
+          "line": "I'm reading minute levels of residual ionization in the subdermal tissue of his left arm. The patterns correspond exactly to those we measured in Lieutenant Kelly's body and in the sample container from the science ship. There's no question. You have been exposed to the same high energy plasma they were."
+        },
+        {
+          "character": "BARCLAY",
+          "line": "So something did happen to me in the transporter beam."
+        },
+        {
+          "character": "CRUSHER",
+          "line": "You might've been exposed to something from the science ship. You did say something touched your left arm during transport, and that's exactly where the ionization is focused."
+        },
+        {
+          "character": "RIKER",
+          "line": "Does this ionization pose a threat to Mister Barclay?"
+        },
+        {
+          "character": "CRUSHER",
+          "line": "It might. I'll have to run a base pair correlation to see if there's any sign of DNA breakdown."
+        },
+        {
+          "character": "BARCLAY",
+          "line": "Sir, Commander La Forge and I were planning to recreate the circumstances of the explosion on the Yosemite. That might give us some answers. Permission to continue with the experiment?"
+        },
+        {
+          "character": "RIKER",
+          "line": "Granted. Tell Mister O'Brien to take all the primary transporters offline. I don't want to risk any further contaminations. Make sure you take all the necessary safety precautions."
+        },
+        {
+          "character": "BARCLAY",
+          "line": "Aye, sir."
+        },
+        {
+          "character": "CRUSHER",
+          "line": "I'd like you to wear this monitoring device. It will tell me if there's the slightest sign of increased ionization."
+        },
+        {
+          "character": "BARCLAY",
+          "line": "Yes, Doctor."
+        }
+      ],
+      "location": "Sickbay"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "DATA",
+          "line": "Structural reinforcement is at two hundred forty percent."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Activating containment field. Well, that should do it. Okay, Reg. We've locked onto the coordinates of the plasma streamer. Go ahead and beam aboard a sample, will you?"
+        },
+        {
+          "character": "BARCLAY",
+          "line": "Aye, sir."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Okay. What would they have done first?"
+        },
+        {
+          "character": "DATA",
+          "line": "A standard analysis begins with a resonance frequency scan."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "That sounds like a good place to start. Let's get it done."
+        },
+        {
+          "character": "DATA",
+          "line": "Initiating resonance sweep. Frequency range at three"
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Barclay, check the containment field."
+        },
+        {
+          "character": "BARCLAY",
+          "line": "The field is at its maximum limit, but it is holding."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "My visor's picking up bio-magnetic energy. Highly complex patterns. You know, I think these things are alive. Reg."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Reg? Reg."
+        }
+      ],
+      "location": "Engineering"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "BARCLAY",
+          "line": "Life forms?"
+        },
+        {
+          "character": "DATA",
+          "line": "That is correct. They appear to be quasi-energy microbes that exist within the distortion field of the plasma streamer."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "We didn't detect them until we tried to run the resonance frequency scan. Apparently, they didn't like it very much. They shattered the sample container."
+        },
+        {
+          "character": "BARCLAY",
+          "line": "Which caused a plasma explosion similar to the one on the science ship."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Exactly. When we linked up with their transporter system, one or more of the microbes must have got into our system. We think they're still caught in the buffer. It might explain what you saw."
+        },
+        {
+          "character": "BARCLAY",
+          "line": "But what I saw was much bigger than a microbe."
+        },
+        {
+          "character": "DATA",
+          "line": "Normal spatial relationships are often distorted within the matter stream. Your perceptions may have been exaggerated."
+        },
+        {
+          "character": "CRUSHER",
+          "line": "Some of these microbes are also in your body, Reg."
+        },
+        {
+          "character": "BARCLAY",
+          "line": "Inside me?"
+        },
+        {
+          "character": "CRUSHER",
+          "line": "They were in Lieutenant Kelly's body as well. That's what caused the contractions during the autopsy."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "The biofilter should have screened them out but it didn't."
+        },
+        {
+          "character": "DATA",
+          "line": "The microbes exist simultaneously as both matter and energy. The biofilter cannot distinguish them from the matter stream."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Right, but if we held Barclay suspended in mid-transport at the point where matter starts to lose molecular cohesion."
+        },
+        {
+          "character": "DATA",
+          "line": "The molecules would begin to emit nucleonic particles. We may be able to derive a pattern the computer would recognize."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "And then reprogram the biofilters to screen the microbes out. I think this'll work, Reg."
+        },
+        {
+          "character": "BARCLAY",
+          "line": "Suspend me? I don't like the sound of this."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "We'd have to hold you in there for a while."
+        },
+        {
+          "character": "BARCLAY",
+          "line": "How long?"
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Thirty, forty seconds. It's tough to tell. But I think it'd be safe."
+        },
+        {
+          "character": "BARCLAY",
+          "line": "But if I'm in the matter stream too long."
+        },
+        {
+          "character": "DATA",
+          "line": "Your pattern would degrade to the point where your signal would be permanently lost."
+        }
+      ],
+      "location": "Sickbay"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "O'BRIEN",
+          "line": "After fifteen seconds or so in the beam, you may start to feel light-headed. Try to stay calm. Oh, and it's important not to move around too much."
+        },
+        {
+          "character": "BARCLAY",
+          "line": "Right."
+        },
+        {
+          "character": "O'BRIEN",
+          "line": "Initializing the back-up pattern buffer. Holding at stand by."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Ready, Reg?"
+        },
+        {
+          "character": "BARCLAY",
+          "line": "Energize."
+        },
+        {
+          "character": "O'BRIEN",
+          "line": "Molecular resolution at sixty percent. Engaging static mode. His pattern is locked and holding."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Starting biofilter scan."
+        },
+        {
+          "character": "O'BRIEN",
+          "line": "Signal's holding."
+        },
+        {
+          "character": "CRUSHER",
+          "line": "The imaging scanners still haven't isolated the microbes."
+        },
+        {
+          "character": "O'BRIEN",
+          "line": "I'll try increasing molecular dispersion."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "His signal resolution's dropped to fifty five percent."
+        },
+        {
+          "character": "O'BRIEN",
+          "line": "Don't worry. I can hold him together."
+        },
+        {
+          "character": "O'BRIEN",
+          "line": "Commander, the signal resolution's down to fifty percent. We need to bring him back."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "I know, I know. Just give me one more second. We need more dispersion. Increase phase transition frequency"
+        },
+        {
+          "character": "O'BRIEN",
+          "line": "Aye, sir."
+        },
+        {
+          "character": "CRUSHER",
+          "line": "The imaging scanners are actuating."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Got it. Pattern acquisition Positive."
+        },
+        {
+          "character": "O'BRIEN",
+          "line": "Programming biofilter."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Don't worry, Reg. This won't hurt a bit."
+        },
+        {
+          "character": "O'BRIEN",
+          "line": "I'm reading a ninety two percent increase in mass!"
+        },
+        {
+          "character": "LAFORGE",
+          "line": "There's something in the beam with him. Security to Transporter room three."
+        },
+        {
+          "character": "WORF",
+          "line": "Right away.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "O'BRIEN",
+          "line": "I'm setting up a force field round the chamber."
+        },
+        {
+          "character": "CRUSHER",
+          "line": "Drop the force field."
+        },
+        {
+          "character": "BARCLAY",
+          "line": "There are more crew members in the beam. You have to grab them and hold on."
+        },
+        {
+          "character": "WORF",
+          "line": "Understood. Follow me."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Reg, what happened?"
+        },
+        {
+          "character": "BARCLAY",
+          "line": "Well, when I saw there was more than one of them, I thought maybe the other crew was trying the same thing that we were."
+        },
+        {
+          "character": "CREWMAN",
+          "line": "We're infected with something. Lieutenant Kelly tried to reprogram the biofilter"
+        },
+        {
+          "character": "LAFORGE",
+          "line": "It looks like he pushed molecular dispersion past the integrity point. Your patterns got caught in the beam."
+        },
+        {
+          "character": "BARCLAY",
+          "line": "The residual energy from the plasma streamer. It must've amplified the charge in the buffer enough to keep your patterns from degrading."
+        },
+        {
+          "character": "PICARD",
+          "line": "Captain's log, stardate 46043.6. The reprogramd biofilter was effective in removing the alien microbes from Mister Barclay and the four crewmembers. The microbes have been returned to the plasma streamer.",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "Transporter room"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "BARCLAY",
+          "line": "Chief."
+        },
+        {
+          "character": "O'BRIEN",
+          "line": "Lieutenant. I'm glad you could make it. You know, I think this is the first time we've ever spoken outside of the Transporter room."
+        },
+        {
+          "character": "BARCLAY",
+          "line": "Well, to be honest, I always avoided you."
+        },
+        {
+          "character": "O'BRIEN",
+          "line": "Why?"
+        },
+        {
+          "character": "BARCLAY",
+          "line": "Because you run the transporters, and I hate the transporters. At least, I used to. So, what's in the box?"
+        },
+        {
+          "character": "O'BRIEN",
+          "line": "I thought you might like to meet Christina. Christina, Lieutenant Barclay."
+        },
+        {
+          "character": "BARCLAY",
+          "line": "It's your pet spider."
+        },
+        {
+          "character": "O'BRIEN",
+          "line": "Lycosa tarantula. Don't worry, she won't bite."
+        },
+        {
+          "character": "BARCLAY",
+          "line": "She's very large."
+        },
+        {
+          "character": "O'BRIEN",
+          "line": "I found her on Titus Four. Almost stepped on her by accident. Oh, I'll get us a couple of drinks, okay? Keep an eye on her, will you?"
+        },
+        {
+          "character": "BARCLAY",
+          "line": "Sure."
+        },
+        {
+          "character": "BARCLAY",
+          "line": "Er, Chief?"
+        }
+      ],
+      "location": "Ten Forward"
+    }
+  ],
+  "schedule": {
+    "episode": 2,
+    "number": 128,
+    "season": 6
+  },
+  "stardate": "46041.1",
+  "title": "Realm of Fear"
+}

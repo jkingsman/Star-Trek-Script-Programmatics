@@ -1,0 +1,2205 @@
+{
+  "airdate": 885358800,
+  "scenes": [
+    {
+      "dialogue": [
+        {
+          "character": "TORRES",
+          "line": "Cold, patronizing, arrogant."
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "I know she can be difficult."
+        },
+        {
+          "character": "TORRES",
+          "line": "Difficult? She's impossible."
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "I'm getting tired of playing referee every time you two have a disagreement. If you have a problem, talk to her yourself."
+        },
+        {
+          "character": "TORRES",
+          "line": "Does the word irrelevant mean anything to you? She won't listen. She may look human, and she may sound human, but she's all Borg."
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "Part of the problem is your attitude. You've never tried to accept Seven as part of the crew."
+        },
+        {
+          "character": "TORRES",
+          "line": "And with good reason. Guess what she did this morning. She took an isolinear processor out of Engineering without asking, and when I went to Astrometrics to get it back she had locked the door, like that lab is her own private domain."
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "What do you want me to do? Throw her in the brig for the rest of the trip home?"
+        },
+        {
+          "character": "TORRES",
+          "line": "I've heard worse ideas."
+        },
+        {
+          "character": "SEVEN",
+          "line": "Seven of Nine to Chakotay.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "Chakotay here."
+        },
+        {
+          "character": "SEVEN",
+          "line": "Report to the Astrometrics lab at once.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "On my way."
+        },
+        {
+          "character": "TORRES",
+          "line": "Did you hear that? She's giving orders now. I'm telling you, Chakotay. If she gets in my way again, I am not responsible for what happens."
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "You're a senior officer on this ship. Act like one. Find a way to deal with her."
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "Astrometrics?"
+        },
+        {
+          "character": "JANEWAY",
+          "line": "I've been summoned. Any guesses what this is about?"
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "None."
+        }
+      ],
+      "location": "Corridor"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "CHAKOTAY",
+          "line": "Your call sounded urgent."
+        },
+        {
+          "character": "SEVEN",
+          "line": "It was. I've been working to increase the range of the astrometric sensors, and I have detected something that you should find of particular interest."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "A ship. What's special about it?"
+        },
+        {
+          "character": "SEVEN",
+          "line": "I've analyzed the warp signature. It's a Starfleet vessel. The ship we're seeing is in the Alpha Quadrant."
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "You couldn't have extended the astrometric sensors that far."
+        },
+        {
+          "character": "SEVEN",
+          "line": "No, but I increased the range far enough to detect a large network of relay stations. They're alien in origin, abandoned but still functioning. By establishing a sensor link with the nearest station I'm getting readings from the entire network. The Starfleet ship is within range of one of the farthest sensors near the outer edges of the Alpha Quadrant."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "It must be on a deep space mission."
+        },
+        {
+          "character": "SEVEN",
+          "line": "I've extrapolated it's course."
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "It doesn't look like we'll be able to keep track of it very long."
+        },
+        {
+          "character": "SEVEN",
+          "line": "The ship should move out of range in forty one minutes."
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "Can we use the network to transmit a message?"
+        },
+        {
+          "character": "SEVEN",
+          "line": "Yes, but we'll have to remodulate our signal to match the network's interlink frequency."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "We don't have much time. Get it done, Chakotay."
+        },
+        {
+          "character": "SEVEN",
+          "line": "Seven of Nine to Ensign Kim."
+        },
+        {
+          "character": "KIM",
+          "line": "Kim here.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "SEVEN",
+          "line": "I'm sending you the interlink frequencies."
+        }
+      ],
+      "location": "Astrometrics lab"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "KIM",
+          "line": "Got it."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Seven, how much longer do we have?"
+        },
+        {
+          "character": "SEVEN",
+          "line": "Sixteen minutes.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "TORRES",
+          "line": "That should do it. The subspace transceiver is at two hundred percent output and online. We're ready."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Open a channel."
+        },
+        {
+          "character": "KIM",
+          "line": "Open."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Starfleet vessel, this is Captain Kathryn Janeway of the starship Voyager. We are in the Delta Quadrant, at coordinates one eight, mark two oh five, mark four seven. Remodulate your signal to match our interlink frequency."
+        },
+        {
+          "character": "TUVOK",
+          "line": "We're receiving a transmission."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Let's hear it."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Starship Voyager. We're in the",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Bridge to Seven. What went wrong?"
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "SEVEN",
+          "line": "I don't understand. My readings show that the station picked up our message and relayed it across the entire network."
+        }
+      ],
+      "location": "Astrometrics lab"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TORRES",
+          "line": "We should try widening the subspace bandwidth and sending the message again."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Do it."
+        },
+        {
+          "character": "KIM",
+          "line": "Transmitting."
+        },
+        {
+          "character": "SEVEN",
+          "line": "The signal is being relayed. No sign of interference.",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "SEVEN",
+          "line": "Wait. It's being deflected back again."
+        }
+      ],
+      "location": "Astrometrics lab"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "JANEWAY",
+          "line": "This is Captain Kathryn Janeway, starship Voyager, the Delta Quadrant.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "SEVEN",
+          "line": "I have a possible explanation, Captain.",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "SEVEN",
+          "line": "As our carrier wave moves along the network, it may be degrading."
+        }
+      ],
+      "location": "Astrometrics lab"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "PARIS",
+          "line": "Can we try a different kind of signal? Something stronger?"
+        },
+        {
+          "character": "TORRES",
+          "line": "A holographic datastream might work. It wouldn't degrade so quickly."
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "It would take too long to reconfigure the message, unless"
+        },
+        {
+          "character": "JANEWAY",
+          "line": "The Doctor."
+        },
+        {
+          "character": "TORRES",
+          "line": "Exactly."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Bring him to Astrometrics and I'll meet you there. We don't have much time."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TORRES",
+          "line": "Doctor, you have to come with me, quickly."
+        },
+        {
+          "character": "EMH",
+          "line": "Would you mind at least telling me what all this is about?"
+        }
+      ],
+      "location": "Medical lab"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "EMH",
+          "line": "When I requested more away missions, this isn't exactly what I had in mind."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "You may be our only chance to communicate with that ship."
+        },
+        {
+          "character": "TORRES",
+          "line": "When you get there, you'll be downloaded into their EMH system. I'm sending an initiation code along with your program so you'll be activated immediately."
+        },
+        {
+          "character": "SEVEN",
+          "line": "We have less than ninety seconds before that ship moves out of range."
+        },
+        {
+          "character": "EMH",
+          "line": "How am I supposed to get back here?"
+        },
+        {
+          "character": "JANEWAY",
+          "line": "When you've completed your mission, instruct them to move within range of the sensor network. With any luck, they can send you back the same way you came."
+        },
+        {
+          "character": "EMH",
+          "line": "Luck?"
+        },
+        {
+          "character": "JANEWAY",
+          "line": "I won't lie to you, doctor. A lot of things could go wrong. We're relying on an alien technology to send you across thousands of light years."
+        },
+        {
+          "character": "EMH",
+          "line": "So there's a chance my program could be lost."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Yes. I'm asking you to take that chance."
+        },
+        {
+          "character": "SEVEN",
+          "line": "Thirty five seconds."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Doctor?"
+        },
+        {
+          "character": "EMH",
+          "line": "Far be it from me to turn down an opportunity to become a hero. I'm ready."
+        },
+        {
+          "character": "TORRES",
+          "line": "Torres to bridge."
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "Standing by.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "TORRES",
+          "line": "I'm downloading him into the transceiver array."
+        },
+        {
+          "character": "SEVEN",
+          "line": "Ten seconds."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Good luck, Doctor."
+        },
+        {
+          "character": "EMH",
+          "line": "There's that word again."
+        }
+      ],
+      "location": "Astrometrics lab"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "EMH",
+          "line": "Hello? Is anyone here? Computer, identify this ship."
+        },
+        {
+          "character": "COMPUTER",
+          "line": "This is the Federation starship Prometheus."
+        },
+        {
+          "character": "EMH",
+          "line": "Are we in the Alpha Quadrant?"
+        },
+        {
+          "character": "COMPUTER",
+          "line": "Affirmative."
+        },
+        {
+          "character": "EMH",
+          "line": "Ah. Sickbay to bridge."
+        },
+        {
+          "character": "EMH",
+          "line": "All right. this is Sickbay calling any crew member. Please respond. Computer, is the comm. system malfunctioning?"
+        },
+        {
+          "character": "COMPUTER",
+          "line": "Negative."
+        },
+        {
+          "character": "EMH",
+          "line": "Then why can't I reach anyone?"
+        },
+        {
+          "character": "COMPUTER",
+          "line": "Access to the communications system has been restricted."
+        },
+        {
+          "character": "EMH",
+          "line": "Restricted? But this is important. Isn't there some sort of emergency comm. channel available?"
+        },
+        {
+          "character": "EMH",
+          "line": "Try to lie still. You have severe phaser burns. What happened here?"
+        },
+        {
+          "character": "OFFICER",
+          "line": "Romulans. They've taken over the ship."
+        }
+      ],
+      "location": "Prometheus Sickbay"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "NEVALA",
+          "line": "Commander, there's a vessel approaching on an intercept course. It's Starfleet."
+        },
+        {
+          "character": "REKAR",
+          "line": "I told you to mask our warp trail."
+        },
+        {
+          "character": "NEVALA",
+          "line": "I've been trying. These new systems are unfamiliar. We should have left some of the crew alive."
+        },
+        {
+          "character": "REKAR",
+          "line": "You'd be surprised how stubborn humans can be."
+        },
+        {
+          "character": "NEVALA",
+          "line": "The Starfleet ship is closing."
+        },
+        {
+          "character": "REKAR",
+          "line": "Raise shields and prepare to fire phasers."
+        }
+      ],
+      "location": "Prometheus Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "EMH",
+          "line": "Computer, how may Romulans are on board?"
+        },
+        {
+          "character": "COMPUTER",
+          "line": "Twenty seven."
+        },
+        {
+          "character": "EMH",
+          "line": "Are there any Starfleet crewmembers?"
+        },
+        {
+          "character": "COMPUTER",
+          "line": "None alive."
+        },
+        {
+          "character": "EMH",
+          "line": "Computer, display the design schematic of this ship and list general specifications."
+        },
+        {
+          "character": "COMPUTER",
+          "line": "USS Prometheus. Experimental prototype designed for deep space tactical assignments. Primary battle systems include regenerative shielding, ablative hull armor, multivector assault mode."
+        },
+        {
+          "character": "EMH",
+          "line": "Multivector assault mode? Describe."
+        },
+        {
+          "character": "COMPUTER",
+          "line": "Access to tactical data requires level four clearance."
+        },
+        {
+          "character": "EMH",
+          "line": "What can you show me at my clearance level?"
+        }
+      ],
+      "location": "Prometheus Sickbay"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "NEVALA",
+          "line": "Shields are holding."
+        },
+        {
+          "character": "REKAR",
+          "line": "Engage the multivector assault mode."
+        },
+        {
+          "character": "NEVALA",
+          "line": "That system has never been tested."
+        },
+        {
+          "character": "REKAR",
+          "line": "Then we'll test it now. I gave you an order and I expect you to follow it. Multivector assault mode. Now!"
+        },
+        {
+          "character": "NEVALA",
+          "line": "Yes, Commander."
+        },
+        {
+          "character": "COMPUTER",
+          "line": "Initiating decoupling sequence."
+        }
+      ],
+      "location": "Prometheus Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "COMPUTER",
+          "line": "Autoseparation in ten seconds. Nine. Eight. Seven. Six."
+        },
+        {
+          "character": "EMH",
+          "line": "Computer, what's happening? Computer?"
+        },
+        {
+          "character": "COMPUTER",
+          "line": "Five. Four. Three."
+        }
+      ],
+      "location": "Prometheus Sickbay"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "COMPUTER",
+          "line": "Two. One. Separation sequence in progress."
+        },
+        {
+          "character": "NEVALA",
+          "line": "We're in attack formation. Each section is armed and responding to our command."
+        },
+        {
+          "character": "REKAR",
+          "line": "Attack pattern beta four seven."
+        },
+        {
+          "character": "COMPUTER",
+          "line": "Specify target."
+        },
+        {
+          "character": "REKAR",
+          "line": "The Starfleet vessel, bearing one six two mark seven."
+        },
+        {
+          "character": "COMPUTER",
+          "line": "Pattern and target confirmed."
+        },
+        {
+          "character": "REKAR",
+          "line": "I think we should consider that a successful test. Begin the reintegration sequence, then get me a full damage report."
+        },
+        {
+          "character": "NEVALA",
+          "line": "Yes, Commander."
+        },
+        {
+          "character": "NEVALA",
+          "line": "He's hurt."
+        },
+        {
+          "character": "REKAR",
+          "line": "Take him to the medical bay."
+        }
+      ],
+      "location": "Prometheus Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "COMPUTER",
+          "line": "Reintegration sequence complete."
+        },
+        {
+          "character": "EMH",
+          "line": "Computer, is there any way for me to gain access to the communication system to send a message to another ship?"
+        },
+        {
+          "character": "COMPUTER",
+          "line": "Negative. Communications access requires level four clearance or above."
+        },
+        {
+          "character": "EMH",
+          "line": "Please state the nature of the medical emergency."
+        },
+        {
+          "character": "NEVALA",
+          "line": "Who activated you?"
+        },
+        {
+          "character": "EMH",
+          "line": "You did, automatically, when you entered Sickbay."
+        },
+        {
+          "character": "NEVALA",
+          "line": "Can you treat him?"
+        },
+        {
+          "character": "EMH",
+          "line": "Of course, that's my function. Third degree burns, hairline jaw fracture, and a ruptured blood vessel in his brain. I'll have to operate."
+        },
+        {
+          "character": "NEVALA",
+          "line": "You're a Starfleet program. Why should I trust you?"
+        },
+        {
+          "character": "EMH",
+          "line": "I'm a doctor. Whether my patient is human, or Romulan, I'll do everything in my power to save him. You're welcome to assist me if you like. Or maybe you'd just prefer to supervise."
+        },
+        {
+          "character": "NEVALA",
+          "line": "Report to me when you're finished."
+        },
+        {
+          "character": "EMH",
+          "line": "Mmm hmm."
+        },
+        {
+          "character": "EMH",
+          "line": "Computer, can I access this ship's EMH program or do I need some kind of clearance for that, too?"
+        },
+        {
+          "character": "COMPUTER",
+          "line": "Access to that program is unrestricted."
+        },
+        {
+          "character": "EMH",
+          "line": "Activate it."
+        },
+        {
+          "character": "EMH2",
+          "line": "Please state the nature of the medical emergency. What the hell are you doing in my Sickbay? I've been programd to identify every member of this crew. You aren't one of them."
+        },
+        {
+          "character": "EMH",
+          "line": "That's because I'm"
+        },
+        {
+          "character": "EMH2",
+          "line": "State your rank and security clearance."
+        },
+        {
+          "character": "EMH",
+          "line": "I don't have clearance. I'm an Emergency Medical Hologram. I've been sent here to"
+        },
+        {
+          "character": "EMH2",
+          "line": "Oh, yes, yes, yes, yes. You're the mark one EMH. The inferior program."
+        },
+        {
+          "character": "EMH",
+          "line": "Inferior?"
+        },
+        {
+          "character": "EMH2",
+          "line": "Beady eyes, terrible bedside manner. I recognize you. But you're not part of this database. What are you doing here?"
+        },
+        {
+          "character": "EMH",
+          "line": "If you'd disengage your vocal subroutines for one second, I'd explain. I was transmitted onto this ship by a Starfleet vessel over sixty thousand light years from here."
+        },
+        {
+          "character": "EMH2",
+          "line": "Sixty thousand light years? We don't have ships that far out."
+        },
+        {
+          "character": "EMH",
+          "line": "It's the starship Voyager. We were taken into the Delta Quadrant four years ago by an alien force. What are you doing?"
+        },
+        {
+          "character": "EMH2",
+          "line": "Activating intruder alert."
+        },
+        {
+          "character": "EMH",
+          "line": "That's the last thing you want to do."
+        },
+        {
+          "character": "EMH2",
+          "line": "Security."
+        },
+        {
+          "character": "EMH",
+          "line": "Listen to me. This vessel has been taken over by Romulans. The crew is dead. You and I are the only Starfleet officers on board. Do you understand?"
+        },
+        {
+          "character": "EMH2",
+          "line": "I understand."
+        },
+        {
+          "character": "EMH2",
+          "line": "Computer, deactivate EMH."
+        },
+        {
+          "character": "EMH",
+          "line": "Computer, activate EMH."
+        },
+        {
+          "character": "EMH2",
+          "line": "Please state the nature of the medical emergency. Now what?"
+        },
+        {
+          "character": "EMH",
+          "line": "I need your help."
+        },
+        {
+          "character": "EMH2",
+          "line": "Starfleet security protocol twenty eight subsection D. In the event of hostile alien takeover, the EMH is to deactivate and wait for rescue."
+        },
+        {
+          "character": "EMH",
+          "line": "I'm afraid you don't have that luxury. There are two ships at stake here, yours and mine. Now, I need to know more about what's happening. Is the Federation at war with the Romulans?"
+        },
+        {
+          "character": "EMH2",
+          "line": "No. The Romulans haven't gotten involved in our fight with the Dominion."
+        },
+        {
+          "character": "EMH",
+          "line": "The who?"
+        },
+        {
+          "character": "EMH2",
+          "line": "Long story."
+        },
+        {
+          "character": "EMH",
+          "line": "In any case, we need to take control of this situation."
+        },
+        {
+          "character": "EMH2",
+          "line": "I'm a doctor, not a commando."
+        },
+        {
+          "character": "EMH",
+          "line": "It's time you became a little of both."
+        },
+        {
+          "character": "EMH2",
+          "line": "You don't understand. The Prometheus is an experimental prototype, and so am I. I, I, I haven't even been field tested yet. I'm not designed for this kind of duty."
+        },
+        {
+          "character": "EMH",
+          "line": "Try to calm down. You'll do fine as long as I'm here. I have plenty of expertise in this area. Now, first things first. We've got a patient. You treat his burns, I'll repair the bone fracture."
+        },
+        {
+          "character": "EMH2",
+          "line": "You're not serious."
+        },
+        {
+          "character": "EMH",
+          "line": "I certainly am."
+        },
+        {
+          "character": "EMH2",
+          "line": "He's the enemy."
+        },
+        {
+          "character": "EMH",
+          "line": "He needs our help. I assume you're familiar with the Hippocratic Oath?"
+        },
+        {
+          "character": "EMH2",
+          "line": "You see? You see what's happening? The Romulans are using you."
+        },
+        {
+          "character": "EMH",
+          "line": "Hmm."
+        },
+        {
+          "character": "EMH2",
+          "line": "Hmm what?"
+        },
+        {
+          "character": "EMH",
+          "line": "Your holomatrix is unstable. It may explain your erratic behavior."
+        },
+        {
+          "character": "EMH2",
+          "line": "I told you, I'm a work in progress! I was only installled six weeks ago."
+        },
+        {
+          "character": "EMH",
+          "line": "Stable or not, I need you. And so does he."
+        },
+        {
+          "character": "EMH2",
+          "line": "He'll live. I say we leave him and deactivate ourselves."
+        },
+        {
+          "character": "EMH",
+          "line": "No! You're free to do as you please. Go cower inside the data processor if you'd like. I'll work alone."
+        },
+        {
+          "character": "EMH2",
+          "line": "We're medical holograms. What can we expect to do against a ship full of Romulans?"
+        },
+        {
+          "character": "EMH",
+          "line": "I'm not sure. Not yet. But I've faced my share of challenges. Alien invasions, macro-viral infestations. I've crossed Borg space, traveled through time."
+        },
+        {
+          "character": "EMH2",
+          "line": "Have you run a self-diagnostic lately? The EMH mark one is designed to function in Sickbay only."
+        },
+        {
+          "character": "EMH",
+          "line": "Voyager lost it's Chief Medical Officer four years ago. I've been active ever since."
+        },
+        {
+          "character": "EMH2",
+          "line": "Four years? No wonder you're delusional. Your program's degrading after being active for so long."
+        },
+        {
+          "character": "EMH",
+          "line": "I assure you I am in perfect health. I was saving Voyager from annihilation when you were only a gleam in your programr's eye. Now, are you going to help me take back this ship or not?"
+        },
+        {
+          "character": "EMH2",
+          "line": "Get me the thrombic modulator."
+        },
+        {
+          "character": "EMH2",
+          "line": "It's the cone shaped device. Hand it to me, please. Medical science has made a few advances while you've been off in the Delta Quadrant, did you say?"
+        },
+        {
+          "character": "EMH",
+          "line": "That's right."
+        },
+        {
+          "character": "EMH2",
+          "line": "We don't use scalpels or leeches anymore. I suggest you let me handle the medical side of things. As for retaking the ship, I'll leave that in your experienced hands."
+        }
+      ],
+      "location": "Prometheus Sickbay"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "CHAKOTAY",
+          "line": "No word. Our link to the sensor net is stable. Seven of Nine is standing watch in Astrometrics. I tried to relieve her but she doesn't want to leave her post. She says she doesn't need to regenerate for the next few days. What are you doing?"
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Letters home. I started them a year ago. One to my family, one to Mark. I'm making a few updates, just in case. I know. It's premature."
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "You're right. It's probably a mistake for us to get our hopes up at all. We've been through this before. All right, I'll admit it. I just finished a letter to my cousin in Ohio."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "PARIS",
+          "line": "The doctor is in."
+        },
+        {
+          "character": "NEELIX",
+          "line": "Lieutenant, thank God you're here."
+        },
+        {
+          "character": "PARIS",
+          "line": "What seems to be the trouble?"
+        },
+        {
+          "character": "NEELIX",
+          "line": "Well, one minute they were eating lunch, and the next they started perspiring and complaining of chest pain."
+        },
+        {
+          "character": "PARIS",
+          "line": "Hmm. No wonder. Acute functional dyspepsia."
+        },
+        {
+          "character": "NEELIX",
+          "line": "What's that?"
+        },
+        {
+          "character": "PARIS",
+          "line": "Heartburn."
+        },
+        {
+          "character": "NEELIX",
+          "line": "Oh, I'm terribly sorry. I don't know how this could have happened."
+        },
+        {
+          "character": "PARIS",
+          "line": "I'll replicate some antacid."
+        },
+        {
+          "character": "NEELIX",
+          "line": "We'll have you feeling better in no time."
+        }
+      ],
+      "location": "Sickbay"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "NEELIX",
+          "line": "They're going to be all right, aren't they?"
+        },
+        {
+          "character": "PARIS",
+          "line": "It's heartburn, Neelix, not the Terrillian plague. What did you feed them, anyway?"
+        },
+        {
+          "character": "NEELIX",
+          "line": "Rodeo Red's Red Hot Rootin' Tootin' Chili."
+        },
+        {
+          "character": "PARIS",
+          "line": "Where did you find that recipe?"
+        },
+        {
+          "character": "NEELIX",
+          "line": "I've been brushing up on classic American cuisine. When we get back to Earth, I want to make sure I have marketable job skills."
+        },
+        {
+          "character": "PARIS",
+          "line": "Don't you think you're jumping the gun a little bit?"
+        },
+        {
+          "character": "NEELIX",
+          "line": "The Doctor is going to make it back, and he's going to bring a plan for Starfleet to rescue us. I have complete confidence in him."
+        },
+        {
+          "character": "PARIS",
+          "line": "I hope you're right. If not, I'm going to spend the rest of this trip treating upset stomachs."
+        },
+        {
+          "character": "NEELIX",
+          "line": "Oh, believe me, this is never going to happen again. It's just a matter of perfecting the recipe. Next time I'll use a few less jalapenos."
+        }
+      ],
+      "location": "Medical lab"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "EMH",
+          "line": "I've accessed the navigational logs. We're at warp nine point nine, heading straight for Romulan space."
+        },
+        {
+          "character": "EMH2",
+          "line": "This vessel was designed to go faster than anything in the fleet, so we'll never be rescued."
+        },
+        {
+          "character": "EMH",
+          "line": "We've got to find a way to turn this ship around."
+        },
+        {
+          "character": "EMH2",
+          "line": "How? Waltz on to the bridge and take over the helm?"
+        },
+        {
+          "character": "EMH",
+          "line": "Refresh my memory. Which of us has the terrible bedside manner?"
+        },
+        {
+          "character": "EMH2",
+          "line": "You're not my patient."
+        },
+        {
+          "character": "EMH",
+          "line": "My first bit of good news. We have to incapacitate the Romulans somehow. What kind of anesthetics do you have handy?"
+        },
+        {
+          "character": "EMH2",
+          "line": "Only the best. Axonol, neurozine, anaesthazine."
+        },
+        {
+          "character": "EMH",
+          "line": "Neurozine will do nicely. It can be distributed in gaseous form. Show me a schematic of the ship's ventilation system. Please."
+        },
+        {
+          "character": "EMH2",
+          "line": "All primary systems have been rerouted to the bridge, including environmental control."
+        },
+        {
+          "character": "EMH",
+          "line": "It looks like there are holo-emitters on every deck."
+        },
+        {
+          "character": "EMH2",
+          "line": "There are. Unlike you, I'm not condemned to a Sickbay."
+        },
+        {
+          "character": "EMH",
+          "line": "Get three canisters of neurozine. As a matter of record, I have free reign on Voyager, and I can even leave the ship as well."
+        },
+        {
+          "character": "EMH2",
+          "line": "Leave your ship? How?"
+        },
+        {
+          "character": "EMH",
+          "line": "My mobile emitter. A little piece of twenty ninth century technology we obtained."
+        },
+        {
+          "character": "EMH2",
+          "line": "Really?"
+        },
+        {
+          "character": "EMH",
+          "line": "I'm as close to a sentient life form as any hologram could hope to be. I socialize with the crew, fraternize with aliens. I've even had sexual relations."
+        },
+        {
+          "character": "EMH2",
+          "line": "Sex? How's that possible? We're not equipped"
+        },
+        {
+          "character": "EMH",
+          "line": "Let's just say, I made an addition to my program."
+        },
+        {
+          "character": "EMH2",
+          "line": "Before you leave, maybe you could download those subroutines into my database."
+        },
+        {
+          "character": "EMH",
+          "line": "We'll see. It looks like the only place I can access environmental control is from the Ops console on the bridge."
+        },
+        {
+          "character": "EMH2",
+          "line": "The bridge is swarming with Romulans."
+        },
+        {
+          "character": "EMH",
+          "line": "That's the first thing you learn in the real world. Think on your feet."
+        },
+        {
+          "character": "EMH2",
+          "line": "Well, good luck then. Computer, deactivate"
+        },
+        {
+          "character": "EMH",
+          "line": "Not so fast. You're going to Jefferies tube seventeen. The moment I unlock the controls you release the gas into the ventilation system."
+        },
+        {
+          "character": "EMH2",
+          "line": "Jefferies tube seventeen? That's five decks up. What if I run into Romulans?"
+        },
+        {
+          "character": "EMH",
+          "line": "Improvise. Your journey begins here."
+        },
+        {
+          "character": "EMH",
+          "line": "Traditionally, one crawls in headfirst."
+        },
+        {
+          "character": "EMH2",
+          "line": "Thanks."
+        }
+      ],
+      "location": "Prometheus Sickbay"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "NEVALA",
+          "line": "There you are, Doctor. Have you completed the surgery?"
+        },
+        {
+          "character": "EMH",
+          "line": "Yes. Your friend is recovering nicely. However, I found something disturbing in his blood work. It seems that he's been exposed to a nasty strain of the Torothka virus. And if he was, you may all have been. I've come to run some scans."
+        },
+        {
+          "character": "REKAR",
+          "line": "No one here is sick."
+        },
+        {
+          "character": "EMH",
+          "line": "Not yet. I understand the stomach cramps are unbearable, although some say the rash is worse."
+        },
+        {
+          "character": "REKAR",
+          "line": "Conduct your scans. How far are we from our border?"
+        },
+        {
+          "character": "NEVALA",
+          "line": "At our present velocity, forty minutes."
+        },
+        {
+          "character": "REKAR",
+          "line": "Alter our heading to one one eight mark two six."
+        },
+        {
+          "character": "NEVALA",
+          "line": "That will take us off our course to Romulus."
+        },
+        {
+          "character": "REKAR",
+          "line": "There's been a change of plans. We're giving this ship to someone who'll make full use of it's potential. The Tal'Shiar. I've made arrangements to rendezvous with their fleet within the hour."
+        },
+        {
+          "character": "NEVALA",
+          "line": "But Commander, they're expecting us to be"
+        },
+        {
+          "character": "REKAR",
+          "line": "You have your orders. What are you doing?"
+        },
+        {
+          "character": "EMH",
+          "line": "I'm checking the biofilters for evidence of the virus."
+        },
+        {
+          "character": "REKAR",
+          "line": "You haven't taken any readings at all."
+        },
+        {
+          "character": "EMH",
+          "line": "Hmm."
+        }
+      ],
+      "location": "Prometheus Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "PARIS",
+          "line": "Next time, order the chicken salad."
+        },
+        {
+          "character": "PARIS",
+          "line": "Oh, am I glad to see you."
+        },
+        {
+          "character": "KIM",
+          "line": "What's the emergency?"
+        },
+        {
+          "character": "PARIS",
+          "line": "Take a look around you, Harry. What do you see?"
+        },
+        {
+          "character": "KIM",
+          "line": "Sickbay?"
+        },
+        {
+          "character": "PARIS",
+          "line": "Exactly."
+        },
+        {
+          "character": "KIM",
+          "line": "So?"
+        },
+        {
+          "character": "PARIS",
+          "line": "So, it's not the helm of a starship, is it?"
+        },
+        {
+          "character": "KIM",
+          "line": "Did you accidentally inject yourself with some kind of psychotropic agent?"
+        },
+        {
+          "character": "PARIS",
+          "line": "I am a pilot, Harry, not a doctor."
+        },
+        {
+          "character": "KIM",
+          "line": "This is a temporary assignment, just till the Doc gets back."
+        },
+        {
+          "character": "PARIS",
+          "line": "What if he doesn't get back?"
+        },
+        {
+          "character": "KIM",
+          "line": "He'll be back."
+        },
+        {
+          "character": "PARIS",
+          "line": "I need your help, Harry. Rescue me from medical exile."
+        },
+        {
+          "character": "KIM",
+          "line": "How?"
+        },
+        {
+          "character": "PARIS",
+          "line": "You're an expert in holotechnology. You have got to design a new doctor."
+        },
+        {
+          "character": "KIM",
+          "line": "You really are delirious. It took the greatest holoengineers in Starfleet years to develop the EMH. I can't just design a new doctor."
+        },
+        {
+          "character": "PARIS",
+          "line": "Think of it as a challenge, Harry. A chance to make history and save your best friend all at the same time."
+        }
+      ],
+      "location": "Sickbay"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "SEVEN",
+          "line": "Lieutenant Torres. You are recalibrating the relay interface."
+        },
+        {
+          "character": "TORRES",
+          "line": "That's right."
+        },
+        {
+          "character": "SEVEN",
+          "line": "State your reasons for making these modifications."
+        },
+        {
+          "character": "TORRES",
+          "line": "State your reasons, please. It's not what you say, Seven. It's how you say it."
+        },
+        {
+          "character": "SEVEN",
+          "line": "I don't understand."
+        },
+        {
+          "character": "TORRES",
+          "line": "You may have noticed that some of the crew seem a bit on edge when you're around."
+        },
+        {
+          "character": "SEVEN",
+          "line": "I was Borg. I elicit apprehension."
+        },
+        {
+          "character": "TORRES",
+          "line": "No, that's not what I mean. We're not afraid that you're going to assimilate us. We're just not used to. You just. You're rude."
+        },
+        {
+          "character": "SEVEN",
+          "line": "I am rude?"
+        },
+        {
+          "character": "TORRES",
+          "line": "Yes. Yes. You order people around, you do things without permission, and whether you realize it or not you come off as a little insulting. You don't even say please or thank you. Look, I don't expect you to change overnight but, try to remember that we are not just a bunch of drones."
+        },
+        {
+          "character": "SEVEN",
+          "line": "Your attempt to recalibrate the interface is ill-advised. The risk of disrupting our link is too great."
+        },
+        {
+          "character": "TORRES",
+          "line": "In your opinion. That is exactly what I'm talking about. You haven't even been listening to me. I don't know why I try to talk to you if you don't even. Are we losing the link?"
+        },
+        {
+          "character": "SEVEN",
+          "line": "No. We're receiving a transmission from the relay station."
+        },
+        {
+          "character": "TORRES",
+          "line": "The Doctor?"
+        },
+        {
+          "character": "HIROGEN",
+          "line": "What are you?",
+          "modifier": "screen"
+        },
+        {
+          "character": "TORRES",
+          "line": "I'm Lieutenant Torres of the Starship Voyager."
+        },
+        {
+          "character": "HIROGEN",
+          "line": "You are using our technology.",
+          "modifier": "screen"
+        },
+        {
+          "character": "TORRES",
+          "line": "You mean the sensor network? We thought that it was abandoned."
+        },
+        {
+          "character": "HIROGEN",
+          "line": "It belongs to the Hirogen. Terminate your link.",
+          "modifier": "screen"
+        },
+        {
+          "character": "TORRES",
+          "line": "No, no, wait, please. We just"
+        },
+        {
+          "character": "SEVEN",
+          "line": "The link has been severed."
+        }
+      ],
+      "location": "Astrometrics lab"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "REKAR",
+          "line": "What else have you done to this ship? I will deactivate you unless you start answering my questions."
+        },
+        {
+          "character": "EMH",
+          "line": "If I answer them, you'll very likely deactivate me anyway, so I fail to see the point."
+        },
+        {
+          "character": "REKAR",
+          "line": "You are nothing but a computer generated projection. I find it hard to believe you're capable of taking these actions independently."
+        },
+        {
+          "character": "EMH",
+          "line": "How flattering."
+        },
+        {
+          "character": "REKAR",
+          "line": "Tell me, who is operating your program? Is it someone on this ship? A Starfleet crew member we missed, or one of my own men?"
+        },
+        {
+          "character": "EMH",
+          "line": "Paranoia is a way of life for you, isn't it?"
+        },
+        {
+          "character": "NEVALA",
+          "line": "The computer log shows the ship received an optronic datastream transmission approximately six hours ago. It contained a holographic subroutine."
+        },
+        {
+          "character": "REKAR",
+          "line": "Who sent it?"
+        },
+        {
+          "character": "NEVALA",
+          "line": "Unknown. The data pattern had a Starfleet signature."
+        },
+        {
+          "character": "REKAR",
+          "line": "So, Starfleet has managed to sneak a holographic operative aboard. Very clever."
+        },
+        {
+          "character": "NEVALA",
+          "line": "Were you only sent to spy on us, or does your mission include sabotage?"
+        },
+        {
+          "character": "EMH",
+          "line": "The datastream you detected came from an alien sensor network. It transferred me from a Starfleet ship in the Delta Quadrant."
+        },
+        {
+          "character": "NEVALA",
+          "line": "The Delta Quadrant? That's absurd."
+        },
+        {
+          "character": "REKAR",
+          "line": "This is pointless."
+        },
+        {
+          "character": "EMH",
+          "line": "I couldn't agree more."
+        },
+        {
+          "character": "NEVALA",
+          "line": "Maybe there's a better way to retrieve information from a hologram. I suggest a complete algorithm extraction. We can analyze his subroutines one by one."
+        },
+        {
+          "character": "REKAR",
+          "line": "Proceed."
+        },
+        {
+          "character": "EMH",
+          "line": "Isn't there some kind of convention regarding the treatment of prisoners?"
+        },
+        {
+          "character": "EMH2",
+          "line": "Did it work? Sorry to interrupt."
+        },
+        {
+          "character": "EMH",
+          "line": "Did you anesthetize the entire ship?"
+        },
+        {
+          "character": "EMH2",
+          "line": "I did. I did."
+        },
+        {
+          "character": "EMH",
+          "line": "How did you manage to release the neurozine? I never opened the ventilation system."
+        },
+        {
+          "character": "EMH2",
+          "line": "Trapped in the Jefferies tube, alone, nowhere to run, his smug comrade captured by Romulans, EMH mark two had to improvise. Inspiration. He accessed the main computer and simulated a ship wide biohazard, making the computer think there was a microbiotic contamination on all decks."
+        },
+        {
+          "character": "EMH",
+          "line": "And the ventilation system opened automatically."
+        },
+        {
+          "character": "EMH2",
+          "line": "Presto. He then crawled back out of the tube, accessed the holoemitters, transferred here, excused the Romulan, saw the dumbfounded look on his comrade's face"
+        },
+        {
+          "character": "EMH",
+          "line": "The end. You know, you really should keep a personal log. Why bore others needlessly? We have to get to the bridge. This ship needs a crew, and we're it."
+        },
+        {
+          "character": "EMH2",
+          "line": "Oh, trouble. The Prometheus is a prototype. Top secret. Only four people in all of Starfleet trained to operate it. I hope your myriad adventures included piloting lessons"
+        }
+      ],
+      "location": "Prometheus Ready room"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "EMH2",
+          "line": "Because there's nothing in my program that will help us fly this thing."
+        },
+        {
+          "character": "EMH",
+          "line": "I've had my share of piloting experience. Actually, only two lessons, and they were in a shuttlecraft on the holodeck. But I showed great intuition. Where's the helm?"
+        },
+        {
+          "character": "EMH2",
+          "line": "You'd better intuit it fast. We're only about eight minutes from the Romulan border."
+        },
+        {
+          "character": "EMH",
+          "line": "Ah, there it is."
+        },
+        {
+          "character": "EMH2",
+          "line": "This is all very complicated."
+        },
+        {
+          "character": "EMH",
+          "line": "Stop breathing down my neck."
+        },
+        {
+          "character": "EMH2",
+          "line": "My breathing is merely a simulation."
+        },
+        {
+          "character": "EMH",
+          "line": "So is my neck. Stop it anyway."
+        },
+        {
+          "character": "EMH2",
+          "line": "Is this a thruster control?"
+        },
+        {
+          "character": "EMH",
+          "line": "Don't touch that, we don't know what it does. It could be the self-destruct."
+        },
+        {
+          "character": "EMH2",
+          "line": "You look worried."
+        },
+        {
+          "character": "EMH",
+          "line": "I'm just concentrating."
+        },
+        {
+          "character": "EMH2",
+          "line": "You don't know what you're doing, do you. This is not a shuttle and we are not on a holodeck."
+        },
+        {
+          "character": "EMH",
+          "line": "Shush."
+        },
+        {
+          "character": "EMH2",
+          "line": "Mister I can leave my ship. The Voice of Experience."
+        },
+        {
+          "character": "EMH",
+          "line": "Let me think. Ah, here it is. This looks like the nacelle power control."
+        },
+        {
+          "character": "EMH2",
+          "line": "So? So?"
+        },
+        {
+          "character": "EMH",
+          "line": "There's a little trick I saw Mister Paris do once. If I can generate a slight overload to the nacelle coils, it'll collapse the warp field."
+        },
+        {
+          "character": "EMH2",
+          "line": "What happened?"
+        },
+        {
+          "character": "EMH",
+          "line": "I did it. We've stopped. Ah, All we have to do now is find a way to send Starfleet a distress signal and"
+        },
+        {
+          "character": "EMH2",
+          "line": "Beep beep beep? Beep beep beep? I've never heard that one before."
+        },
+        {
+          "character": "EMH",
+          "line": "Oh, no."
+        },
+        {
+          "character": "EMH2",
+          "line": "What?"
+        },
+        {
+          "character": "EMH",
+          "line": "I'm not sure, but I think whatever I did initiated a warp core overload."
+        },
+        {
+          "character": "EMH2",
+          "line": "You mean the ship's going to explode? You've got to stop it."
+        },
+        {
+          "character": "EMH",
+          "line": "No problem."
+        },
+        {
+          "character": "EMH2",
+          "line": "What now?"
+        },
+        {
+          "character": "EMH",
+          "line": "Unless I'm mistaken, and for once I sincerely hope I am, there are three Romulan warbirds on an intercept course."
+        }
+      ],
+      "location": "Prometheus Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TORRES",
+          "line": "We're boosting the signal gain as high as it'll go. I think we can cut through the alien's jamming signal."
+        },
+        {
+          "character": "HIROGEN",
+          "line": "I warned you.",
+          "modifier": "screen"
+        },
+        {
+          "character": "JANEWAY",
+          "line": "I apologize for our intrusion. Allow me to explain."
+        },
+        {
+          "character": "HIROGEN",
+          "line": "No explanations."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Your relay network gave us the unique opportunity to communicate with our people. They are very far away and we're expecting a message back from them."
+        },
+        {
+          "character": "HIROGEN",
+          "line": "All messages will be intercepted.",
+          "modifier": "screen"
+        },
+        {
+          "character": "TORRES",
+          "line": "He's trying to jam the link again."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "There must be some room for negotiation. Isn't there anything you might accept in exchange for"
+        },
+        {
+          "character": "JANEWAY",
+          "line": "What happened?"
+        },
+        {
+          "character": "SEVEN",
+          "line": "I generated a feedback surge along our sensor link."
+        },
+        {
+          "character": "TORRES",
+          "line": "You killed him?"
+        },
+        {
+          "character": "SEVEN",
+          "line": "It was a mild shock. He will recover."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "And when he does?"
+        },
+        {
+          "character": "SEVEN",
+          "line": "He wasn't responding to diplomacy."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Is the sensor link stable?"
+        },
+        {
+          "character": "SEVEN",
+          "line": "Yes, Captain."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Keep watching for the Doctor. Let me know if our friend gives us any more trouble."
+        },
+        {
+          "character": "TORRES",
+          "line": "Mild shock? Not bad."
+        },
+        {
+          "character": "SEVEN",
+          "line": "Thank you."
+        }
+      ],
+      "location": "Astrometrics lab"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "KIM",
+          "line": "There. I've finished inputting the Doctor's physical characteristics."
+        },
+        {
+          "character": "PARIS",
+          "line": "Let's have a look."
+        },
+        {
+          "character": "KIM",
+          "line": "Computer, activate the Emergency Medical Hologram Replacement Program."
+        },
+        {
+          "character": "PARIS",
+          "line": "Do you think we should give him a little more hair?"
+        },
+        {
+          "character": "KIM",
+          "line": "What do you say we try to get him working first, then we can worry about personal grooming."
+        },
+        {
+          "character": "PARIS",
+          "line": "Right. You're the boss. What do we do next?"
+        },
+        {
+          "character": "KIM",
+          "line": "I've downloaded the ship's entire medical library and compressed it into a single data file. It's got all the classics, from Gray's Anatomy to Leonard McCoy's Comparative Alien Physiology."
+        },
+        {
+          "character": "PARIS",
+          "line": "And once we transfer all the data into stoneface's matrix, we'll have ourselves a brand new medical expert."
+        },
+        {
+          "character": "KIM",
+          "line": "That's what I'm hoping."
+        },
+        {
+          "character": "PARIS",
+          "line": "Harry, you are a genius."
+        },
+        {
+          "character": "KIM",
+          "line": "Don't congratulate me yet. This is only the first step."
+        },
+        {
+          "character": "PARIS",
+          "line": "Yeah, but it's a step in the right direction."
+        },
+        {
+          "character": "KIM",
+          "line": "I'm telling you, this probably isn't going to work."
+        },
+        {
+          "character": "PARIS",
+          "line": "What happened to all that youthful optimism?"
+        },
+        {
+          "character": "KIM",
+          "line": "Being a doctor is a lot more than knowing facts. We still have to create analytical subroutines to help him diagnose patients, tactile protocols so he can perform surgery, not to mention a personality profile."
+        },
+        {
+          "character": "PARIS",
+          "line": "Oh, you know, I've been thinking about that. Maybe we should make this one a little more pleasant than the old doc."
+        },
+        {
+          "character": "KIM",
+          "line": "All right, ready to transfer the data. Computer, transfer medical library master file to Emergency Medical Replacement Hologram."
+        },
+        {
+          "character": "COMPUTER",
+          "line": "Transfer complete. EMH-"
+        },
+        {
+          "character": "R",
+          "line": "Chapter one, the animal cell. All the tissues of the body originate from a microscopic structure, the fertilized ovum, which consists of a soft jelly-like material enclosed in a membrane and containing a ves"
+        },
+        {
+          "character": "PARIS",
+          "line": "What's he doing?"
+        },
+        {
+          "character": "KIM",
+          "line": "I think he's reciting Gray's Anatomy. EMH-"
+        },
+        {
+          "character": "R",
+          "line": "This may be regarded as a complete cell."
+        },
+        {
+          "character": "PARIS",
+          "line": "Can you stop him?"
+        },
+        {
+          "character": "KIM",
+          "line": "I'm trying. EMH-"
+        },
+        {
+          "character": "R",
+          "line": "Similar to it in nature but differing in external form. Paragraph."
+        },
+        {
+          "character": "PARIS",
+          "line": "Listen, this is all very fascinating. EMH-"
+        },
+        {
+          "character": "R",
+          "line": "In a higher organism a cell is"
+        },
+        {
+          "character": "PARIS",
+          "line": "But would you please be quiet for a minute!"
+        },
+        {
+          "character": "KIM",
+          "line": "He doesn't have speech recognition protocols yet."
+        },
+        {
+          "character": "PARIS",
+          "line": "Well give him some, would you? EMH-"
+        },
+        {
+          "character": "R",
+          "line": "Material similar to that in the ovum and usually called cytoplasm, and a small spherical"
+        },
+        {
+          "character": "PARIS",
+          "line": "What's happening?"
+        },
+        {
+          "character": "KIM",
+          "line": "It's an overload. His matrix can't accommodate all the data. EMH-"
+        },
+        {
+          "character": "R",
+          "line": "Contain no nuclei"
+        },
+        {
+          "character": "PARIS",
+          "line": "What are you doing?"
+        },
+        {
+          "character": "KIM",
+          "line": "I'm downloading Gray's Anatomy chapter by chapter."
+        },
+        {
+          "character": "PARIS",
+          "line": "I thought you said it was too much data for his holomatrix to handle."
+        },
+        {
+          "character": "KIM",
+          "line": "It's not for the EMH. It's for you."
+        }
+      ],
+      "location": "Sickbay"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "EMH2",
+          "line": "The Romulan vessels are closing in. Two minutes to intercept. Get us our of here."
+        },
+        {
+          "character": "EMH",
+          "line": "I can't get this ship moving. Try rerouting power to the impulse engines"
+        },
+        {
+          "character": "EMH2",
+          "line": "Reroute power, reroute power. Here we go, I think I've found the relay controls. Hey, I'm finally getting the hang of this."
+        },
+        {
+          "character": "EMH",
+          "line": "What's happening?"
+        },
+        {
+          "character": "EMH2",
+          "line": "Sorry, I must have transferred power from the holoemitters."
+        },
+        {
+          "character": "EMH",
+          "line": "Well, be more careful. If I'm deactivated, this ship'll never get back to Starfleet."
+        },
+        {
+          "character": "EMH2",
+          "line": "Okay, I'm taking power from life support. We don't need that. Try the engines now."
+        },
+        {
+          "character": "EMH",
+          "line": "Nothing. Why isn't this working?"
+        },
+        {
+          "character": "EMH2",
+          "line": "Thirty seconds to intercept. They're right on top of us."
+        },
+        {
+          "character": "EMH",
+          "line": "Hold it. I see the problem. The thrust initiator is offline. Stand by."
+        },
+        {
+          "character": "EMH2",
+          "line": "Fifteen seconds. They're charging weapons."
+        },
+        {
+          "character": "EMH",
+          "line": "See if you can access the shields."
+        },
+        {
+          "character": "EMH",
+          "line": "I said, I said shields!"
+        },
+        {
+          "character": "EMH2",
+          "line": "Already done. Shields up."
+        },
+        {
+          "character": "ALMAK",
+          "line": "This is the Warbird T'Met calling the Prometheus. Commander Rekar, respond. Commander.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "EMH",
+          "line": "This is the Prometheus."
+        },
+        {
+          "character": "ALMAK",
+          "line": "Activate your viewscreen.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "EMH",
+          "line": "Our viewscreen is not operational. We've had some trouble with Starfleet commandos."
+        },
+        {
+          "character": "ALMAK",
+          "line": "Where's Rekar?",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "EMH",
+          "line": "In the medical bay. He's suffered minor injuries."
+        },
+        {
+          "character": "ALMAK",
+          "line": "Identify yourself.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "EMH2",
+          "line": "You first."
+        },
+        {
+          "character": "EMH",
+          "line": "You first."
+        },
+        {
+          "character": "ALMAK",
+          "line": "Repeat your last statement. I don't understand.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "EMH",
+          "line": "State your identity."
+        },
+        {
+          "character": "ALMAK",
+          "line": "This is Sub-Commander Almak. Lower your shields and prepare to be boarded.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "EMH",
+          "line": "They're already down. Maybe there's something wrong with your sensor readings. You'd better not try to transport until we can be sure it's safe."
+        },
+        {
+          "character": "ALMAK",
+          "line": "Lower your shields immediately or I'll open fire.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "EMH",
+          "line": "Immediately? Yes. Prometheus out."
+        },
+        {
+          "character": "EMH2",
+          "line": "Direct hit. Shields down to twenty percent."
+        },
+        {
+          "character": "EMH",
+          "line": "Three more ships are approaching."
+        },
+        {
+          "character": "EMH2",
+          "line": "We're doomed."
+        },
+        {
+          "character": "EMH",
+          "line": "No. They're Starfleet."
+        },
+        {
+          "character": "EMH2",
+          "line": "What are they doing?"
+        },
+        {
+          "character": "EMH",
+          "line": "Firing on us!"
+        },
+        {
+          "character": "EMH2",
+          "line": "They must think Romulans are on board."
+        },
+        {
+          "character": "EMH",
+          "line": "They're right!"
+        },
+        {
+          "character": "EMH2",
+          "line": "Prometheus to any Starfleet vessel. Respond. Prometheus"
+        },
+        {
+          "character": "EMH",
+          "line": "It's no use, they can't hear us. The Romulans have scrambled the comm. frequencies."
+        },
+        {
+          "character": "EMH2",
+          "line": "Doctor, something just went offline."
+        },
+        {
+          "character": "EMH",
+          "line": "Specifically?"
+        },
+        {
+          "character": "EMH2",
+          "line": "The secondary gyrodyne relays and the propulsion field intermatrix have depolarized."
+        },
+        {
+          "character": "EMH",
+          "line": "In English. EMH2 I'm just reading what it says here."
+        },
+        {
+          "character": "EMH",
+          "line": "I'll try to stabilize the ship. Transfer auxiliary power to the maneuvering thrusters."
+        },
+        {
+          "character": "EMH2",
+          "line": "Transferring auxiliary power now."
+        },
+        {
+          "character": "EMH",
+          "line": "Good work, mark two."
+        },
+        {
+          "character": "EMH2",
+          "line": "Thanks."
+        },
+        {
+          "character": "EMH",
+          "line": "You'd better get to tactical. We're going to have to defend ourselves."
+        },
+        {
+          "character": "EMH2",
+          "line": "Tactical. Right."
+        },
+        {
+          "character": "EMH",
+          "line": "What are you waiting for? Shoot. Shoot."
+        },
+        {
+          "character": "EMH2",
+          "line": "There are so many controls."
+        },
+        {
+          "character": "EMH",
+          "line": "Find the one that says fire and push it."
+        },
+        {
+          "character": "EMH2",
+          "line": "It's not working. It says here the phasers are offline."
+        },
+        {
+          "character": "EMH",
+          "line": "Well then, fire a torpedo."
+        },
+        {
+          "character": "EMH",
+          "line": "You hit the wrong ship."
+        },
+        {
+          "character": "EMH2",
+          "line": "It wasn't my fault."
+        },
+        {
+          "character": "EMH",
+          "line": "Whose fault was it, the torpedo's? You're supposed to tell it what to do."
+        },
+        {
+          "character": "EMH",
+          "line": "Navigational control is offline."
+        },
+        {
+          "character": "EMH2",
+          "line": "Everything's offline. Weapons, shields."
+        },
+        {
+          "character": "EMH",
+          "line": "It gets worse. There are two Warbirds coming right at us."
+        },
+        {
+          "character": "EMH2",
+          "line": "My brilliant existence cut short. No time to explore the universe, no time to smell the roses. No time for sex."
+        },
+        {
+          "character": "COMPUTER",
+          "line": "Initiating decoupling sequence."
+        },
+        {
+          "character": "EMH2",
+          "line": "What's that? What have I done now?"
+        },
+        {
+          "character": "COMPUTER",
+          "line": "Autoseparation in ten seconds."
+        },
+        {
+          "character": "EMH",
+          "line": "Autoseparation? I think the Romulans did this before."
+        },
+        {
+          "character": "EMH2",
+          "line": "How do we turn it off?"
+        },
+        {
+          "character": "EMH",
+          "line": "I don't think we can."
+        },
+        {
+          "character": "COMPUTER",
+          "line": "Five. Four. Three. Two."
+        },
+        {
+          "character": "EMH",
+          "line": "If I recall correctly, this next part gets a little bumpy."
+        },
+        {
+          "character": "COMPUTER",
+          "line": "Separation sequence in progress."
+        },
+        {
+          "character": "EMH",
+          "line": "Hold on."
+        },
+        {
+          "character": "COMPUTER",
+          "line": "Specify attack pattern."
+        },
+        {
+          "character": "EMH",
+          "line": "Attack pattern alpha?"
+        },
+        {
+          "character": "COMPUTER",
+          "line": "Specify target. EMH +"
+        },
+        {
+          "character": "EMH2",
+          "line": "Romulans!"
+        },
+        {
+          "character": "EMH2",
+          "line": "Bulls-eye! The Warbirds are in retreat. Doctor, we've done it. Two holograms, alone. Romulans on one side, Starfleet on the other. Alarms beeping everywhere."
+        },
+        {
+          "character": "EMH",
+          "line": "EMH mark two, newborn but filled with courage."
+        },
+        {
+          "character": "EMH2",
+          "line": "EMH mark one, armed with years of experience."
+        },
+        {
+          "character": "EMH",
+          "line": "Together they emerged triumphant."
+        },
+        {
+          "character": "EMH2",
+          "line": "The end. Or not."
+        },
+        {
+          "character": "EMH",
+          "line": "Welcome to the Prometheus, gentlemen. It's about time."
+        }
+      ],
+      "location": "Prometheus Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "SEVEN",
+          "line": "I'm receiving a transmission through the sensor network. Origin, the Alpha Quadrant."
+        },
+        {
+          "character": "TORRES",
+          "line": "Does it contain a holographic subroutine?"
+        },
+        {
+          "character": "SEVEN",
+          "line": "Yes."
+        },
+        {
+          "character": "TORRES",
+          "line": "Transfer it to Sickbay. Torres to bridge. Captain, I think he's back."
+        }
+      ],
+      "location": "Astrometrics lab"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "JANEWAY",
+          "line": "Doctor, report."
+        },
+        {
+          "character": "EMH",
+          "line": "I, I did it."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "You completed the mission?"
+        },
+        {
+          "character": "EMH",
+          "line": "Yes. Once the Romulans were out of the way."
+        },
+        {
+          "character": "TUVOK",
+          "line": "Romulans?"
+        },
+        {
+          "character": "EMH",
+          "line": "They'd taken over the Prometheus, he ship I was on. But I managed to turn the tables on them with help from a fellow EMH."
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "You got through to Starfleet?"
+        },
+        {
+          "character": "EMH",
+          "line": "I spoke directly with Headquarters. Apparently, Voyager was declared officially lost fourteen months ago. I set the record straight. I told them everything that's happened to this crew. They said they would contact your families to tell them the news and promised that they won't stop until they've found a way to get Voyager back home. And they asked me to relay a message. They wanted you to know you're no longer alone."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Sixty thousand light years seems a little closer today."
+        }
+      ],
+      "location": "Sickbay"
+    }
+  ],
+  "schedule": {
+    "episode": 14,
+    "number": 82,
+    "season": 4
+  },
+  "stardate": "Unknown",
+  "title": "Message in a Bottle"
+}

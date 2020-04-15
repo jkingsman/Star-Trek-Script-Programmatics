@@ -1,0 +1,1693 @@
+{
+  "airdate": 705556800,
+  "scenes": [
+    {
+      "dialogue": [
+        {
+          "character": "PICARD",
+          "line": "Captain's log, stardate 45854.2. The Enterprise is charting six star systems that make up the Argolis cluster, an area being considered for colonization.",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "unknown"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "RIKER",
+          "line": "Very impressive."
+        },
+        {
+          "character": "TROI",
+          "line": "It's beautiful, but frightening at the same time."
+        },
+        {
+          "character": "DATA",
+          "line": "Captain, I am detecting a transmission emanating from within the system."
+        },
+        {
+          "character": "RIKER",
+          "line": "What sort of signal?"
+        },
+        {
+          "character": "DATA",
+          "line": "It is self-repeating, of unknown pattern."
+        },
+        {
+          "character": "PICARD",
+          "line": "Where is it coming from?"
+        },
+        {
+          "character": "DATA",
+          "line": "A small moon orbiting the fourth planet."
+        },
+        {
+          "character": "PICARD",
+          "line": "Life signs?"
+        },
+        {
+          "character": "DATA",
+          "line": "Indeterminate. I am attempting to screen out sensor interference. Readings are still inconclusive, however the moon's atmosphere is capable of supporting life."
+        },
+        {
+          "character": "RIKER",
+          "line": "It could be a distress call. Helm, take us into transport range. Doctor Crusher, meet me in transporter room two with a medical away team."
+        },
+        {
+          "character": "CRUSHER",
+          "line": "Acknowledged.",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "CRUSHER",
+          "line": "I'm reading one life form, very weak signs."
+        },
+        {
+          "character": "RIKER",
+          "line": "Riker to Enterprise."
+        },
+        {
+          "character": "PICARD",
+          "line": "Go ahead, Number One.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "RIKER",
+          "line": "We've found the wreckage of a small craft."
+        }
+      ],
+      "location": "Crash site"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "RIKER",
+          "line": "One survivor. It's a Borg. Male, adolescent. He's badly hurt.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "DATA",
+          "line": "Sir, there is no indication of other Borg activity within sensor range."
+        },
+        {
+          "character": "PICARD",
+          "line": "Away team, prepare to return to the ship."
+        },
+        {
+          "character": "CRUSHER",
+          "line": "Captain, we can't",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "CRUSHER",
+          "line": "Leave him here. He won't survive."
+        },
+        {
+          "character": "RIKER",
+          "line": "I think the Captain understands that."
+        },
+        {
+          "character": "CRUSHER",
+          "line": "I don't."
+        },
+        {
+          "character": "RIKER",
+          "line": "The Borg usually collect their dead."
+        },
+        {
+          "character": "CRUSHER",
+          "line": "He's not dead."
+        },
+        {
+          "character": "RIKER",
+          "line": "The transmission"
+        },
+        {
+          "character": "CRUSHER",
+          "line": "At least not yet."
+        },
+        {
+          "character": "RIKER",
+          "line": "The transmission that we intercepted was probably a homing signal. We have to assume they're on their way."
+        },
+        {
+          "character": "CRUSHER",
+          "line": "Let me at least stabilize his condition, give him a chance of surviving until they get here."
+        }
+      ],
+      "location": "Crash site"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "PICARD",
+          "line": "Your concern is noted, Doctor, but any intervention on our part would alert the Borg to our having been here."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "CRUSHER",
+          "line": "I'm afraid we've turned that corner already."
+        },
+        {
+          "character": "WORF",
+          "line": "Kill it now. Make it appear that it died in the crash."
+        }
+      ],
+      "location": "Crash site"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "WORF",
+          "line": "Leave no evidence that we were ever here.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "PICARD",
+          "line": "Security measures must be taken before we beam it on board."
+        },
+        {
+          "character": "CRUSHER",
+          "line": "Thank you, Captain. Standing by.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "PICARD",
+          "line": "Mister Data, notify Security to prepare a detention cell. Bridge to Engineering."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "La Forge here.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "PICARD",
+          "line": "We're bringing a Borg survivor on board. We'll need to neutralize the homing signal"
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "PICARD",
+          "line": "Prevent it from sending or receiving transmissions of any kind.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "LAFORGE",
+          "line": "I'll set up a subspace damping field around the detention cell."
+        },
+        {
+          "character": "PICARD",
+          "line": "Very well.",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "Engineering"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "WORF",
+          "line": "Four more. None survived."
+        },
+        {
+          "character": "PICARD",
+          "line": "Picard to Riker.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "RIKER",
+          "line": "Go ahead, Enterprise."
+        }
+      ],
+      "location": "Crash site"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "PICARD",
+          "line": "We are transporting you directly to the detention cell."
+        },
+        {
+          "character": "CRUSHER",
+          "line": "I need him in Sickbay, Captain.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "PICARD",
+          "line": "The cell, Doctor. Whatever equipment you need will be brought to you there."
+        },
+        {
+          "character": "CRUSHER",
+          "line": "Very well.",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "PICARD",
+          "line": "Come."
+        },
+        {
+          "character": "TROI",
+          "line": "Captain, I just wondered if there's anything you wanted to talk about."
+        },
+        {
+          "character": "PICARD",
+          "line": "I don't think so, Counselor."
+        },
+        {
+          "character": "TROI",
+          "line": "I would have thought having a Borg on the ship would stir some feelings."
+        },
+        {
+          "character": "PICARD",
+          "line": "I'm quite recovered from my experience, thank you."
+        },
+        {
+          "character": "TROI",
+          "line": "Sometimes even when a victim has dealt with his assault there are residual effects of the event that linger. You were treated violently by the Borg. Kidnapped, assaulted, mutilated."
+        },
+        {
+          "character": "PICARD",
+          "line": "Counselor. Counselor, I very much appreciate your concern for me, but I can assure you it is quite misplaced. I have carefully considered the implications of having a Borg on this ship. I have weighed the possible risks, and I am convinced that we are doing the right thing. Now, I am quite comfortable with my decision."
+        },
+        {
+          "character": "TROI",
+          "line": "I see. Well, if at any point you want to talk more."
+        },
+        {
+          "character": "PICARD",
+          "line": "I shall certainly avail myself of your help."
+        }
+      ],
+      "location": "Ready room"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "WORF",
+          "line": "Lower the forcefield."
+        },
+        {
+          "character": "WORF",
+          "line": "Captain, the Borg is still unconscious."
+        },
+        {
+          "character": "CRUSHER",
+          "line": "He suffered massive internal injuries. We've been able to control the hemorrhaging, but some of the implants in his brain were damaged. I may have to remove them."
+        },
+        {
+          "character": "PICARD",
+          "line": "The Borg will die if they're removed permanently. Their brains grow dependent on the biochips."
+        },
+        {
+          "character": "CRUSHER",
+          "line": "Perhaps Geordi can construct some new implants."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "They contain relatively straightforward programming, interface protocols. We have the files we downloaded after your experience, Captain. I think I can manage it."
+        },
+        {
+          "character": "PICARD",
+          "line": "Mister La Forge, do you know enough about Borg programming to alter the pathways to their root command structure?"
+        },
+        {
+          "character": "LAFORGE",
+          "line": "I'm not sure, sir. The subroutines are pretty complicated. I'd probably have to study the data processing algorithms. It's the only way I could trace the access codes."
+        },
+        {
+          "character": "PICARD",
+          "line": "If we could get to the root command, we could introduce an invasive programming sequence through its biochip system and then return it to the hive."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "The Borg are so interconnected it would act like a virus."
+        },
+        {
+          "character": "PICARD",
+          "line": "Which would infect the entire Collective. We could disable their neural network at a stroke."
+        },
+        {
+          "character": "CRUSHER",
+          "line": "Infect it? You make it sound like a disease."
+        },
+        {
+          "character": "PICARD",
+          "line": "Quite right, Doctor. If all goes well, a terminal one."
+        }
+      ],
+      "location": "Brig"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "LAFORGE",
+          "line": "If this works the way I think it will, once the invasive program starts spreading, it'll only be a matter of months before the Borg suffer total systems failure."
+        },
+        {
+          "character": "PICARD",
+          "line": "Comments."
+        },
+        {
+          "character": "CRUSHER",
+          "line": "A question. What exactly is total systems failure?"
+        },
+        {
+          "character": "DATA",
+          "line": "The Borg are extremely computer dependent. A systems failure will destroy them."
+        },
+        {
+          "character": "CRUSHER",
+          "line": "I just think we should be plain about that. We're talking about annihilating an entire race."
+        },
+        {
+          "character": "PICARD",
+          "line": "Which under most circumstances would be unconscionable. But as I see it, the Borg leave us with little choice."
+        },
+        {
+          "character": "RIKER",
+          "line": "I agree. We're at war."
+        },
+        {
+          "character": "CRUSHER",
+          "line": "There's been no formal declaration of war."
+        },
+        {
+          "character": "TROI",
+          "line": "Not from us, but certainly from them. They've attacked us in every encounter."
+        },
+        {
+          "character": "PICARD",
+          "line": "They've declared war on our way of life. We are to be assimilated."
+        },
+        {
+          "character": "CRUSHER",
+          "line": "But even in war there are rules. You don't kill civilians indiskriminately."
+        },
+        {
+          "character": "RIKER",
+          "line": "There are no civilians among the Borg."
+        },
+        {
+          "character": "PICARD",
+          "line": "Think of them as a single, collective being. There's no one Borg who is more an individual than your arm or your leg."
+        },
+        {
+          "character": "CRUSHER",
+          "line": "How convenient."
+        },
+        {
+          "character": "PICARD",
+          "line": "Your point, Doctor?"
+        },
+        {
+          "character": "CRUSHER",
+          "line": "When I look at my patient, I don't see a collective consciousness. I don't see a hive. I see a living, breathing boy who's been hurt and who needs our help. And we're talking about sending him back to his people as an instrument of destruction."
+        },
+        {
+          "character": "PICARD",
+          "line": "It comes down to this. We're faced with an enemy who are determined to destroy us, and we have no hope of negotiating a peace. Unless that changes, we are justified in doing anything we can to survive."
+        },
+        {
+          "character": "SECURITY",
+          "line": "Security to Captain.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "PICARD",
+          "line": "Picard here."
+        },
+        {
+          "character": "SECURITY",
+          "line": "The Borg has regained consciousness, sir.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "PICARD",
+          "line": "Acknowledged. We proceed with the plan."
+        }
+      ],
+      "location": "Observation lounge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "CRUSHER",
+          "line": "What's he doing?"
+        },
+        {
+          "character": "PICARD",
+          "line": "He's trying to find an access terminal so he can interface with the collective. He doesn't understand that the signal has been cut off."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "He's emitting a homing signal and a second subspace beacon, but our damping field is blocking both signals."
+        },
+        {
+          "character": "PICARD",
+          "line": "He's alone. For the first time he's being forced to cope with his environment without the resources of the Collective."
+        },
+        {
+          "character": "CRUSHER",
+          "line": "He must be hungry. The Borg don't ingest food. Their implants can synthesize any organic molecules the biological tissues require. What they need is energy."
+        },
+        {
+          "character": "PICARD",
+          "line": "Arrange to feed it."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Aye, sir."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "I'll have to adapt a power conduit and installl it in there."
+        },
+        {
+          "character": "CRUSHER",
+          "line": "If I didn't know better, I'd think he was scared."
+        }
+      ],
+      "location": "Brig"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "GUINAN",
+          "line": "I don't think I like this sport."
+        },
+        {
+          "character": "PICARD",
+          "line": "Last week when you scored two touches, you liked it well enough. Today you were dropping your foil. You kept letting me inside."
+        },
+        {
+          "character": "GUINAN",
+          "line": "Ah, but if I lift up, you lunge right underneath. Let's face it, you're just better at this than I am. I understand we have a guest on board."
+        },
+        {
+          "character": "PICARD",
+          "line": "Yes."
+        },
+        {
+          "character": "GUINAN",
+          "line": "Is that wise?"
+        },
+        {
+          "character": "PICARD",
+          "line": "I'm not sure. I hope so."
+        },
+        {
+          "character": "GUINAN",
+          "line": "I thought I understood you, Picard, but I don't understand this."
+        },
+        {
+          "character": "PICARD",
+          "line": "It was an errand of mercy. He was injured, Doctor Crusher decided for humanitarian reasons to care for him."
+        },
+        {
+          "character": "GUINAN",
+          "line": "They're going to come after us, you know that. You, of all people, know that."
+        },
+        {
+          "character": "PICARD",
+          "line": "Shall we go again?"
+        },
+        {
+          "character": "PICARD",
+          "line": "Are you all right?"
+        },
+        {
+          "character": "GUINAN",
+          "line": "You felt sorry for me. Look what it got you."
+        }
+      ],
+      "location": "Gymnasium"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "LAFORGE",
+          "line": "I'll have to go in to connect the power conduit."
+        },
+        {
+          "character": "WORF",
+          "line": "I will follow the Commander. Reactivate the field once we're through."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Good. Now stay that way."
+        },
+        {
+          "character": "WORF",
+          "line": "Commander."
+        },
+        {
+          "character": "BORG",
+          "line": "We are Borg. You will be assimilated. Resistance is futile."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Just look around, pal. You're hardly in a position to make any demands."
+        },
+        {
+          "character": "BORG",
+          "line": "We must return to the Collective."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Who's we?"
+        },
+        {
+          "character": "BORG",
+          "line": "We are Borg."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Yeah, but there's only one of you. Do you have a name? A means of identification?"
+        },
+        {
+          "character": "BORG",
+          "line": "Third of five."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "There were five on your ship. Is that it? Just a number?"
+        },
+        {
+          "character": "BORG",
+          "line": "Third of five."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "It does kind of suit you. Okay. This is for you. It regulates the power flow to the frequency that you're used to. This connection should fit the coupling on your arm. You're welcome. Let's get out of here."
+        },
+        {
+          "character": "WORF",
+          "line": "Lower the forcefield."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "He's hungry, all right."
+        },
+        {
+          "character": "BORG",
+          "line": "Why do you do this?"
+        },
+        {
+          "character": "LAFORGE",
+          "line": "I'm just a nice guy at heart. You feeling better?"
+        },
+        {
+          "character": "BORG",
+          "line": "You are not Borg."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "That's right. And I hope to stay that way."
+        },
+        {
+          "character": "BORG",
+          "line": "You will be assimilated. Resistance is futile."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "That's gratitude for you."
+        }
+      ],
+      "location": "Brig"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "LAFORGE",
+          "line": "I've been rationing his portions of energy. I think he understands. When he cooperates, he gets fed. If not."
+        },
+        {
+          "character": "CRUSHER",
+          "line": "Like a rat in a cage."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Look, if I'm going to figure out his command pathways, I need to learn how he processes information, and the only way I know to do that is by giving him perceptual tests. And for that, I need his cooperation."
+        },
+        {
+          "character": "CRUSHER",
+          "line": "So he can participate in the destruction of his entire species."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Doctor."
+        },
+        {
+          "character": "CRUSHER",
+          "line": "I know, I know. We're at war. I'm here to help but I don't have to like it."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Okay, I think we're ready to transport him. If he gives us any trouble, we can access the force field through that console. Are you ready?"
+        },
+        {
+          "character": "LAFORGE",
+          "line": "La Forge to transporter room three. We're ready here."
+        },
+        {
+          "character": "CREWMAN",
+          "line": "We're standing by, Commander.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Energize."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Third of Five, this is Doctor Crusher. Doctor Crusher, this is Third of Five."
+        },
+        {
+          "character": "CRUSHER",
+          "line": "Hello."
+        },
+        {
+          "character": "BORG",
+          "line": "What is a doctor?"
+        },
+        {
+          "character": "CRUSHER",
+          "line": "A doctor heals the sick and repairs the injured."
+        },
+        {
+          "character": "BORG",
+          "line": "The sick and injured are reabsorbed. Others take their place."
+        },
+        {
+          "character": "CRUSHER",
+          "line": "That isn't what happen to you. When we found you, you were dying. I saved your life."
+        },
+        {
+          "character": "BORG",
+          "line": "Why?"
+        },
+        {
+          "character": "CRUSHER",
+          "line": "It's my duty to help those who are hurt."
+        },
+        {
+          "character": "BORG",
+          "line": "You give us food."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Yeah."
+        },
+        {
+          "character": "BORG",
+          "line": "Is that your duty?"
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Yeah, that's right. Listen, Third of Five, Doctor Crusher here has repaired a lot of the damage to your biochip implants. We want to run a few tests, make sure everything's working okay."
+        },
+        {
+          "character": "BORG",
+          "line": "Tests?"
+        },
+        {
+          "character": "CRUSHER",
+          "line": "I'd like to show you a few diagrams and ask you some questions about them. It's very simple really."
+        },
+        {
+          "character": "BORG",
+          "line": "You will be assimilated."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Yes, but before that happens, could we ask you a few questions?"
+        },
+        {
+          "character": "BORG",
+          "line": "We will answer."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Terrific. All right, hang on just a second here, Third of Five."
+        },
+        {
+          "character": "BORG",
+          "line": "What is your designation?"
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Designation?"
+        },
+        {
+          "character": "BORG",
+          "line": "Third of Five."
+        },
+        {
+          "character": "CRUSHER",
+          "line": "You mean our names. We don't have designations. We have names. I'm Beverly. This is Geordi."
+        },
+        {
+          "character": "BORG",
+          "line": "Do I have a name?"
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Do you want one?"
+        },
+        {
+          "character": "BORG",
+          "line": "A name."
+        },
+        {
+          "character": "CRUSHER",
+          "line": "I'm Beverly, he's Geordi, and you."
+        },
+        {
+          "character": "BORG",
+          "line": "You"
+        },
+        {
+          "character": "CRUSHER",
+          "line": "You"
+        },
+        {
+          "character": "LAFORGE",
+          "line": "No, no, wait a minute. That's it. Hugh. What do you think?"
+        },
+        {
+          "character": "BORG",
+          "line": "You."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "No, not you. Hugh."
+        },
+        {
+          "character": "BORG",
+          "line": "Hugh."
+        },
+        {
+          "character": "CRUSHER",
+          "line": "Okay. Now, I'm Beverly."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "I'm Geordi."
+        },
+        {
+          "character": "BORG",
+          "line": "We are Hugh."
+        },
+        {
+          "character": "CRUSHER",
+          "line": "Now imagine what this shape would look like if it were turned inside out. Which one is it?"
+        },
+        {
+          "character": "BORG",
+          "line": "This one."
+        },
+        {
+          "character": "CRUSHER",
+          "line": "That's right. He's gotten every one. Eight out of eight. That blows the top right off the spatial-acuity percentiles."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "It's the prosthetic eye. It seems to be giving him very complex visual information."
+        },
+        {
+          "character": "CRUSHER",
+          "line": "Like some kind of holographic imaging system."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "That could be helpful. Hugh, I'd like to take a closer look at your eyepiece. Is that okay?"
+        },
+        {
+          "character": "BORG",
+          "line": "Here."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Thanks."
+        },
+        {
+          "character": "BORG",
+          "line": "When you are assimilated, you will have a similar device."
+        },
+        {
+          "character": "CRUSHER",
+          "line": "Hugh, do you understand we don't want to be assimilated?"
+        },
+        {
+          "character": "BORG",
+          "line": "Why do you resist us?"
+        },
+        {
+          "character": "CRUSHER",
+          "line": "Because we don't want to live the way you do."
+        },
+        {
+          "character": "BORG",
+          "line": "Here it is quiet. There are no other voices."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Other voices?"
+        },
+        {
+          "character": "BORG",
+          "line": "On a Borg ship we live with the thoughts of the others in our minds. Thousands of voices with us always."
+        },
+        {
+          "character": "CRUSHER",
+          "line": "I think what you're saying is that you're lonely."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Here."
+        },
+        {
+          "character": "BORG",
+          "line": "When you have completed these tests, what will be done with us?"
+        },
+        {
+          "character": "LAFORGE",
+          "line": "We'll er, we'll send you home."
+        },
+        {
+          "character": "BORG",
+          "line": "We will rejoin the Collective."
+        }
+      ],
+      "location": "Science lab"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "LAFORGE",
+          "line": "You know, it's funny. When I first creating this invasive program I didn't have a problem with it. The more I work with Hugh, the more I"
+        },
+        {
+          "character": "GUINAN",
+          "line": "Hugh?"
+        },
+        {
+          "character": "LAFORGE",
+          "line": "That's what we call him."
+        },
+        {
+          "character": "GUINAN",
+          "line": "You named the Borg?"
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Well, it was easier to have something to call him."
+        },
+        {
+          "character": "GUINAN",
+          "line": "Oh, so now you have a Borg named Hugh."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Right. And he's nothing like what I expected."
+        },
+        {
+          "character": "GUINAN",
+          "line": "How so?"
+        },
+        {
+          "character": "LAFORGE",
+          "line": "I don't know. It's like he's just some kid who's far way from home."
+        },
+        {
+          "character": "GUINAN",
+          "line": "Do you know that you're the second person today to refer to that Borg as though it were some sort of lost child."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Anyway, I'm having second thoughts about what we're doing here. I mean, programming him like some sort of walking bomb. Sending him back to destroy the others."
+        },
+        {
+          "character": "GUINAN",
+          "line": "Let me tell you something. When that kid's big brothers come looking for him, they're not going to stop until they find him. And then they're going to come looking for us, and they will destroy us. And they will not do any of the soul-searching that you are apparently doing right now."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Then why don't you go and talk to him. It might not be so clear cut then."
+        },
+        {
+          "character": "GUINAN",
+          "line": "Because I wouldn't have anything to say."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Then why don't you just listen? That is what you do best, isn't it?"
+        }
+      ],
+      "location": "Ten Forward"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "PICARD",
+          "line": "What is it, Number One?"
+        },
+        {
+          "character": "RIKER",
+          "line": "We've picked up a vessel on the long range scanners, headed this way."
+        },
+        {
+          "character": "PICARD",
+          "line": "Analysis."
+        },
+        {
+          "character": "DATA",
+          "line": "The vessel is traveling at warp seven point six. Mass two point five million metric tons. Configuration, cubical."
+        },
+        {
+          "character": "RIKER",
+          "line": "The Borg."
+        },
+        {
+          "character": "DATA",
+          "line": "Its dimensions indicate that it is a scout ship similar to the one that crashed. Interference from the star's radiation will shield us from their sensors. We should remain undetected until they enter the system."
+        },
+        {
+          "character": "PICARD",
+          "line": "How long do we have?"
+        },
+        {
+          "character": "DATA",
+          "line": "At present speed they will arrive in thirty one hours seven minutes."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "GUINAN",
+          "line": "You don't look so tough."
+        },
+        {
+          "character": "BORG",
+          "line": "We are Borg."
+        },
+        {
+          "character": "GUINAN",
+          "line": "Aren't you going to tell me you have to assimilate me?"
+        },
+        {
+          "character": "BORG",
+          "line": "You wish to be assimilated?"
+        },
+        {
+          "character": "GUINAN",
+          "line": "No, but that's what you things do, isn't it?"
+        },
+        {
+          "character": "GUINAN",
+          "line": "Resistance is futile."
+        },
+        {
+          "character": "BORG",
+          "line": "Resistance is futile."
+        },
+        {
+          "character": "GUINAN",
+          "line": "It isn't. My people resisted when the Borg came to assimilate us. Some of us survived."
+        },
+        {
+          "character": "BORG",
+          "line": "Resistance is not futile?"
+        },
+        {
+          "character": "GUINAN",
+          "line": "No. But thanks to you, there are very few of us left. We're scattered throughout the galaxy. We don't even have a home any more."
+        },
+        {
+          "character": "BORG",
+          "line": "What you are saying is that you are lonely."
+        },
+        {
+          "character": "GUINAN",
+          "line": "What?"
+        },
+        {
+          "character": "BORG",
+          "line": "You have no others. You have no home. We are also lonely."
+        }
+      ],
+      "location": "Brig"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "BORG",
+          "line": "What is Geordi doing?"
+        },
+        {
+          "character": "LAFORGE",
+          "line": "I'm studying the components in your prosthesis."
+        },
+        {
+          "character": "BORG",
+          "line": "Why?"
+        },
+        {
+          "character": "LAFORGE",
+          "line": "We're trying to learn more about you."
+        },
+        {
+          "character": "BORG",
+          "line": "Why?"
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Because you're different than we are. Part of what we do is to learn more about other species."
+        },
+        {
+          "character": "BORG",
+          "line": "We assimilate species. Then we know everything about them."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Yeah. I know."
+        },
+        {
+          "character": "BORG",
+          "line": "Is that not easier?"
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Maybe it is. It's just not what we do."
+        },
+        {
+          "character": "BORG",
+          "line": "Why?"
+        },
+        {
+          "character": "LAFORGE",
+          "line": "All right, think of it this way. Every time you talk about yourself, you use the word we. We want this, we want that. You don't even know how to think of yourself as a single individual. You don't say, I want this, or I am Hugh. We are all separate individuals. I am Geordi. I choose what I want to do with my life. I make decisions for myself. For somebody like me, losing that sense of individuality is almost worse than dying."
+        },
+        {
+          "character": "BORG",
+          "line": "When you sleep, there are no other voices in your mind?"
+        },
+        {
+          "character": "LAFORGE",
+          "line": "No."
+        },
+        {
+          "character": "BORG",
+          "line": "Are you ever lonely?"
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Sometimes. But that's why we have friends."
+        },
+        {
+          "character": "BORG",
+          "line": "Friends?"
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Sure. Someone you talk to, who will be with you when you're lonely. Someone who makes you feel better."
+        },
+        {
+          "character": "BORG",
+          "line": "Like Geordi and Hugh."
+        }
+      ],
+      "location": "Science lab"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "LAFORGE",
+          "line": "That's it, Captain."
+        },
+        {
+          "character": "PICARD",
+          "line": "It looks harmless enough."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "We had to disguise it as something innocuous. The Borg have ways of screening out program anomalies."
+        },
+        {
+          "character": "PICARD",
+          "line": "How can a geometric form disable a computer system?"
+        },
+        {
+          "character": "DATA",
+          "line": "The shape is a paradox, sir. It cannot exist in real space or time."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "When Hugh's imaging apparatus imprints this on his biochips, he'll try to analyze it."
+        },
+        {
+          "character": "DATA",
+          "line": "He will be unsuccessful, and will store the shape in his memory banks. It will be shunted to a subroutine for further analysis."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Then when the Borg download his memory, it'll be incorporated it into their network, then they'll try to analyze it."
+        },
+        {
+          "character": "DATA",
+          "line": "It is designed so that each approach they take will spawn an anomalous solution. The anomalies are designed to interact with each other, linking together to form an endless and unsolvable puzzle."
+        },
+        {
+          "character": "PICARD",
+          "line": "Quite original. How long before a total systems failure?"
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Not until the shape has gone through several hundred computational cycles."
+        },
+        {
+          "character": "PICARD",
+          "line": "When can you begin the process?"
+        },
+        {
+          "character": "LAFORGE",
+          "line": "About another twenty hours. Doctor Crusher wants to make sure the new implants have taken hold."
+        },
+        {
+          "character": "PICARD",
+          "line": "Very well. Begin as soon as you're ready."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Captain. I have to admit I've been having second thoughts about this plan."
+        },
+        {
+          "character": "PICARD",
+          "line": "In what way?"
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Well, I've been getting to know him. The Borg."
+        },
+        {
+          "character": "PICARD",
+          "line": "I see."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "He's not what I expected, Captain. He's got feelings. He's homesick. I don't know. It just doesn't seem right using him this way."
+        },
+        {
+          "character": "PICARD",
+          "line": "Centuries ago, when laboratory animals were used for experiments, scientists would sometimes become attached to the creatures. This would a problem if the experiment involved killing them. I would suggest that you unattach yourself from the Borg, Mister La Forge."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Aye, Captain."
+        }
+      ],
+      "location": "Observation lounge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "PICARD",
+          "line": "Guinan. Please, come in."
+        },
+        {
+          "character": "GUINAN",
+          "line": "Are you sure? You look like you're preparing for a quiet evening."
+        },
+        {
+          "character": "PICARD",
+          "line": "No, I'm delighted to see you. Can I get you something to drink?"
+        },
+        {
+          "character": "GUINAN",
+          "line": "No, thank you. I was thinking about how you said the other day that my foil was dipping. That I should get some exercise and strengthen my arm."
+        },
+        {
+          "character": "PICARD",
+          "line": "Well. a strong forearm is certainly an advantage in fencing."
+        },
+        {
+          "character": "GUINAN",
+          "line": "And bartending. About the Borg. Aren't you the least bit surprised by him?"
+        },
+        {
+          "character": "PICARD",
+          "line": "Surprised?"
+        },
+        {
+          "character": "GUINAN",
+          "line": "Did you know he has a name? La Forge gave it to him. His name's Hugh. And he's lonely. I don't know what made me go see him. La Forge said I should, but I said no. And suddenly there I was standing there, staring at him. I thought it was just curiosity. Just curious. I need to hear you say that you are sure you're doing the right thing."
+        },
+        {
+          "character": "PICARD",
+          "line": "If you're here to persuade me not to use the invasive program."
+        },
+        {
+          "character": "GUINAN",
+          "line": "No. I think I need you to persuade me."
+        },
+        {
+          "character": "PICARD",
+          "line": "Two days ago, you were so upset about the Borg even being on the ship that you tore my foil out of my hand. And now you're here questioning whether it should be treated as the enemy."
+        },
+        {
+          "character": "GUINAN",
+          "line": "No. But when you talk to him face to face, can you honestly say you don't have any doubt?"
+        },
+        {
+          "character": "PICARD",
+          "line": "I haven't talked to it."
+        },
+        {
+          "character": "GUINAN",
+          "line": "Why not?"
+        },
+        {
+          "character": "PICARD",
+          "line": "I saw no need."
+        },
+        {
+          "character": "GUINAN",
+          "line": "If you're going to use this person"
+        },
+        {
+          "character": "PICARD",
+          "line": "It's not a person, damn it, it's a Borg!"
+        },
+        {
+          "character": "GUINAN",
+          "line": "If you are going to use this person to destroy his race, you should at least look him in the eye once before you do it. Because I am not sure he is still a Borg."
+        },
+        {
+          "character": "PICARD",
+          "line": "Because it's been given a name by a member of my crew doesn't mean it's not a Borg. Because it's young doesn't mean that it's innocent. It is what it is, and in spite of efforts to turn it into some kind of pet I will not alter my plans."
+        },
+        {
+          "character": "GUINAN",
+          "line": "Fine. But if you don't talk to him at least once, you may find that decision a harder to live with than you realize."
+        }
+      ],
+      "location": "Picard's quarters"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "WORF",
+          "line": "Worf to Captain Picard.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "PICARD",
+          "line": "Yes, Lieutenant."
+        },
+        {
+          "character": "WORF",
+          "line": "We are ready to transport.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "PICARD",
+          "line": "Proceed."
+        },
+        {
+          "character": "PICARD",
+          "line": "Lieutenant, you may wait outside."
+        },
+        {
+          "character": "BORG",
+          "line": "Locutus."
+        },
+        {
+          "character": "PICARD",
+          "line": "Yes. I am Locutus of Borg."
+        },
+        {
+          "character": "BORG",
+          "line": "Why are you here?"
+        },
+        {
+          "character": "PICARD",
+          "line": "This is a primitive culture. I am here to facilitate its incorporation. Identify yourself."
+        },
+        {
+          "character": "BORG",
+          "line": "Hugh."
+        },
+        {
+          "character": "PICARD",
+          "line": "Identify yourself."
+        },
+        {
+          "character": "BORG",
+          "line": "We are Hugh."
+        },
+        {
+          "character": "PICARD",
+          "line": "This is not a Borg identification."
+        },
+        {
+          "character": "BORG",
+          "line": "Third of Five."
+        },
+        {
+          "character": "PICARD",
+          "line": "This culture will be assimilated."
+        },
+        {
+          "character": "BORG",
+          "line": "They do not wish it."
+        },
+        {
+          "character": "PICARD",
+          "line": "Irrelevant."
+        },
+        {
+          "character": "BORG",
+          "line": "They will resist us."
+        },
+        {
+          "character": "PICARD",
+          "line": "Resistance is futile."
+        },
+        {
+          "character": "BORG",
+          "line": "Resistance is not futile. Some have escaped."
+        },
+        {
+          "character": "PICARD",
+          "line": "They will be found. It is inevitable. All will be assimilated."
+        },
+        {
+          "character": "BORG",
+          "line": "Must Geordi be assimilated?"
+        },
+        {
+          "character": "PICARD",
+          "line": "Yes."
+        },
+        {
+          "character": "BORG",
+          "line": "He does not wish it. He would rather die than be assimilated."
+        },
+        {
+          "character": "PICARD",
+          "line": "Then he will die."
+        },
+        {
+          "character": "BORG",
+          "line": "No. Geordi must not die. Geordi is a friend."
+        },
+        {
+          "character": "PICARD",
+          "line": "You will assist us to assimilate this vessel. You are Borg. You will assist us."
+        },
+        {
+          "character": "BORG",
+          "line": "I will not."
+        },
+        {
+          "character": "PICARD",
+          "line": "What did you say?"
+        },
+        {
+          "character": "BORG",
+          "line": "I will not assist you."
+        },
+        {
+          "character": "PICARD",
+          "line": "I?"
+        },
+        {
+          "character": "BORG",
+          "line": "Geordi must not be assimilated."
+        },
+        {
+          "character": "PICARD",
+          "line": "But you are Borg."
+        },
+        {
+          "character": "BORG",
+          "line": "No. I am Hugh."
+        }
+      ],
+      "location": "Ready room"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "PICARD",
+          "line": "I think I deliberately avoided speaking with the Borg because I didn't want anything to get in the way of our plan. But now that I have, he seems to be a fully realized individual. He has even accepted me as Picard, Captain of this ship, and not as Locutus."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "So you've reconsidered the plan?"
+        },
+        {
+          "character": "PICARD",
+          "line": "Yes. To use him in this manner, we'd be no better than the enemy that we seek to destroy. So, I want other options."
+        },
+        {
+          "character": "RIKER",
+          "line": "We could return him to the crash site. We'd have to remove his memory of being on the Enterprise."
+        },
+        {
+          "character": "CRUSHER",
+          "line": "But if we erase his memory, who he is or who he has become would be destroyed."
+        },
+        {
+          "character": "RIKER",
+          "line": "Isn't that the point? He'd be reassimilated into the hive without any questions."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Does that seems right, to help him become an individual and then take that away from him?"
+        },
+        {
+          "character": "CRUSHER",
+          "line": "Is there any danger that the Borg might destroy him if they find out what's happened?"
+        },
+        {
+          "character": "PICARD",
+          "line": "I doubt it. There'd be nothing to gain. It's more likely that they would simply wipe out his memory of those experiences."
+        },
+        {
+          "character": "RIKER",
+          "line": "Then either way, his memory would have been erased."
+        },
+        {
+          "character": "PICARD",
+          "line": "But perhaps in that short time before they purge his memory, the sense of individuality which he has gained here might be transmitted throughout the entire Borg Collective. Every one of the Borg being given the opportunity to experience the feeling of singularity. Perhaps that's the most pernicious program of all. The knowledge of self being spread throughout the Collective, in that brief moment, might alter them forever. We leave his memory intact."
+        },
+        {
+          "character": "CRUSHER",
+          "line": "I have a question. What if he doesn't want to go back?"
+        }
+      ],
+      "location": "Observation lounge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "LAFORGE",
+          "line": "Hello, Hugh."
+        },
+        {
+          "character": "BORG",
+          "line": "Hello, Geordi."
+        },
+        {
+          "character": "PICARD",
+          "line": "Hugh, a Borg rescue vessel is approaching. It will be here within three hours. We can return you to the crash site, where they will find you and take then you home. Or, if you wish, you can stay here with us."
+        },
+        {
+          "character": "BORG",
+          "line": "What I wish is irrelevant."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "It's not irrelevant, Hugh. It matters to us."
+        },
+        {
+          "character": "BORG",
+          "line": "No Borg leaves the Collective. If they find I am missing, they will come for me."
+        },
+        {
+          "character": "PICARD",
+          "line": "Well, we'll deal with the repercussions later. We must know what you want."
+        },
+        {
+          "character": "BORG",
+          "line": "You are many, I am one. What I want is not important."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Don't you understand, Hugh? We're giving you a choice."
+        },
+        {
+          "character": "BORG",
+          "line": "Choice?"
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Yes, a choice. Do you want to go back with the Borg or stay with us?"
+        },
+        {
+          "character": "BORG",
+          "line": "I could stay with you?"
+        },
+        {
+          "character": "PICARD",
+          "line": "We could grant you asylum, Hugh."
+        },
+        {
+          "character": "BORG",
+          "line": "Choose what I want? I would choose to stay with Geordi, but it is too dangerous. They will follow. Return me to the crash site. It is the only way."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Hugh, think about this. Are you sure?"
+        },
+        {
+          "character": "BORG",
+          "line": "Yes."
+        }
+      ],
+      "location": "Ready room"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "PICARD",
+          "line": "The Borg ship will enter orbit in one hour. You'll soon be headed home. We'll beam him down and then we'll take up a position in the star's chromosphere. The interference will hide us from their sensors."
+        },
+        {
+          "character": "CRUSHER",
+          "line": "Goodbye, Hugh. It was nice getting to know you."
+        },
+        {
+          "character": "BORG",
+          "line": "Goodbye, Beverly. You saved my life."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Hugh, it's not too late to change your mind."
+        },
+        {
+          "character": "BORG",
+          "line": "I must return."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Captain, I'd like to go down with him."
+        },
+        {
+          "character": "PICARD",
+          "line": "My experience suggests that they would ignore him. Would you agree?"
+        },
+        {
+          "character": "BORG",
+          "line": "The Borg assimilate civilisations, not individuals."
+        },
+        {
+          "character": "CRUSHER",
+          "line": "But, Captain, they kidnapped you."
+        },
+        {
+          "character": "PICARD",
+          "line": "Because they needed a liaison to communicate with humans. They ignored every away team we sent to their ship, including yours, Doctor. You may accompany him. Goodbye."
+        },
+        {
+          "character": "BORG",
+          "line": "Captain, I do not want to forget that I am Hugh."
+        },
+        {
+          "character": "PICARD",
+          "line": "Energize."
+        }
+      ],
+      "location": "Transporter room"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "LAFORGE",
+          "line": "We found you there, in the middle of that debris."
+        },
+        {
+          "character": "BORG",
+          "line": "Then that is where I will wait."
+        }
+      ],
+      "location": "Crash site"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "DATA",
+          "line": "We are now entering position. Radiation levels are rising."
+        },
+        {
+          "character": "PICARD",
+          "line": "Increase power to the shields. Hold us here."
+        },
+        {
+          "character": "RIKER",
+          "line": "Status of the Borg ship?"
+        },
+        {
+          "character": "DATA",
+          "line": "Solar radiation is rendering our sensors inoperable. At last known course and speed, the Borg vessel should enter the system in three minutes."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "LAFORGE",
+          "line": "Well, I guess this is it, huh? So long, Hugh."
+        },
+        {
+          "character": "BORG",
+          "line": "Goodbye, Geordi. I will try to remember you."
+        }
+      ],
+      "location": "Crash site"
+    }
+  ],
+  "schedule": {
+    "episode": 23,
+    "number": 123,
+    "season": 5
+  },
+  "stardate": "45854.2",
+  "title": "I, Borg"
+}

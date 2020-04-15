@@ -1,0 +1,1771 @@
+{
+  "airdate": 645681600,
+  "scenes": [
+    {
+      "dialogue": [
+        {
+          "character": "PICARD",
+          "line": "Captain's log, Stardate 43989.1. The Enterprise has arrived at Jouret Four in response to a distress signal from one of the Federation's outermost colonies.",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "unknown"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "RIKER",
+          "line": "Anything from the surface?"
+        },
+        {
+          "character": "WORF",
+          "line": "No sir. There have been no communications from the colony for over twelve hours."
+        },
+        {
+          "character": "RIKER",
+          "line": "Sensors picking up any signs of life?"
+        },
+        {
+          "character": "WORF",
+          "line": "None."
+        },
+        {
+          "character": "O'BRIEN",
+          "line": "The surface environment is safe for transport, Commander."
+        }
+      ],
+      "location": "Transporter room"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "RIKER",
+          "line": "Mister O'Brien"
+        }
+      ],
+      "location": "Planet surface"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "RIKER",
+          "line": "Verify these are accurate coordinates for New Providence colony.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "O'BRIEN",
+          "line": "Coordinates verified, sir."
+        }
+      ],
+      "location": "Transporter room"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "O'BRIEN",
+          "line": "You're at the center of town.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "PICARD",
+          "line": "Captain's log, Stardate 43992.6. Admiral Hanson and Lieutenant Commander Shelby of Starfleet Tactical have arrived to review the disappearance of New Providence colony. No sign remains of the nine hundred inhabitants.",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "Planet surface"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "HANSON",
+          "line": "The truth is, hell, we are not ready. We've known they were coming for over a year. We've thrown every resource we have into this, but still"
+        },
+        {
+          "character": "RIKER",
+          "line": "Then you're convinced it is the Borg?"
+        },
+        {
+          "character": "SHELBY",
+          "line": "That's what I'm here to find out. The initial descriptions of these surface conditions are almost identical to your reports from system J two five."
+        },
+        {
+          "character": "PICARD",
+          "line": "Commander Riker wrote those reports. He agrees with you."
+        },
+        {
+          "character": "HANSON",
+          "line": "Commander Shelby took over Borg tactical analysis six months ago. I've learned to give her a wide latitude when I want to get things done. That's how I intend to operate here."
+        },
+        {
+          "character": "SHELBY",
+          "line": "My priority has been to develop some kind, any kind of defense strategy"
+        },
+        {
+          "character": "RIKER",
+          "line": "Obviously nothing we have now can stop them."
+        },
+        {
+          "character": "SHELBY",
+          "line": "We've been designing new weapons but they're all still on the drawing board."
+        },
+        {
+          "character": "HANSON",
+          "line": "We expected much more lead time. Your encounter with the Borg was over seven thousand light years away."
+        },
+        {
+          "character": "PICARD",
+          "line": "If this is the Borg, it would indicate they have a source of power far superior to our own."
+        },
+        {
+          "character": "SHELBY",
+          "line": "I'd like to see the colony site as soon as possible, Captain."
+        },
+        {
+          "character": "RIKER",
+          "line": "It'll be dark there in thirty minutes. We've scheduled an away team for dawn."
+        },
+        {
+          "character": "PICARD",
+          "line": "Number One, why don't you show the Commander to her quarters?"
+        },
+        {
+          "character": "RIKER",
+          "line": "It's our poker night, Admiral. There's always an open seat for you."
+        },
+        {
+          "character": "HANSON",
+          "line": "Another time, Commander. Your captain and I have a lot to cover. But rumor has it Commander Shelby's played a hand or two."
+        },
+        {
+          "character": "HANSON",
+          "line": "Keep your eye on her, Jean Luc. She's one very impressive young lady."
+        },
+        {
+          "character": "PICARD",
+          "line": "You seem rather taken with her, JP."
+        },
+        {
+          "character": "HANSON",
+          "line": "Just an old man's fantasies. When Shelby came into Tactical, every admiral's uncle had a take on this Borg business. She cut through it. She put us on track."
+        },
+        {
+          "character": "PICARD",
+          "line": "Earl Gray?"
+        },
+        {
+          "character": "HANSON",
+          "line": "Please. She'd make you a hell of a first officer."
+        },
+        {
+          "character": "PICARD",
+          "line": "I already have a hell of a first officer."
+        },
+        {
+          "character": "HANSON",
+          "line": "Don't tell me he's going to pass up another commission?"
+        },
+        {
+          "character": "PICARD",
+          "line": "One's available?"
+        },
+        {
+          "character": "HANSON",
+          "line": "The Melbourne. It's his if he wants it. Hasn't he told you?"
+        },
+        {
+          "character": "PICARD",
+          "line": "He'll make a fine captain, JP."
+        },
+        {
+          "character": "HANSON",
+          "line": "You may want to tell him that. We're still waiting on his decision. This is the third time we've pulled out the captain's chair for Riker. He just won't sit down. Let me tell you something, Jean-Luc. There are a lot of young hotshots like Shelby on their way up. Riker could suddenly look like he's standing still next to them. He's hurting his career by staying put. If I were you, I'd kick him in the rear end for his own good."
+        }
+      ],
+      "location": "Ready room"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "SHELBY",
+          "line": "I don't know exactly what I'm looking for, but we've tested the sections of the Enterprise's hull that were damaged by the Borg. There were some unusual magnetic resonance traces."
+        },
+        {
+          "character": "RIKER",
+          "line": "A Borg footprint?"
+        },
+        {
+          "character": "SHELBY",
+          "line": "That's my theory. I'll see if it holds up tomorrow. I've reviewed your personnel. I'll be assigning Mister La Forge and Mister Data to accompany me on the away team."
+        },
+        {
+          "character": "RIKER",
+          "line": "I've already assigned them to the away team. And I'll be with you as well, Commander."
+        },
+        {
+          "character": "SHELBY",
+          "line": "Of course. I appreciate any assistance you can offer. Tell me, Commander. Is serving aboard the Enterprise as extraordinary an experience as I've heard?"
+        },
+        {
+          "character": "RIKER",
+          "line": "Every bit."
+        },
+        {
+          "character": "SHELBY",
+          "line": "Good. Because I intend to convince Captain Picard I'm the right choice for the job."
+        },
+        {
+          "character": "RIKER",
+          "line": "Job? Which job?"
+        },
+        {
+          "character": "SHELBY",
+          "line": "Yours, of course. I'm sorry. I heard that you were leaving."
+        },
+        {
+          "character": "RIKER",
+          "line": "If I were, I'm sure you'll be the first to know. Poker's at seventeen hundred hours in my quarters. Deck eight."
+        }
+      ],
+      "location": "Shelby's quarters"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "WESLEY",
+          "line": "Got another king in the hole, Data?"
+        },
+        {
+          "character": "DATA",
+          "line": "I am afraid I cannot answer that Wesley. And as you are a newcomer to the game, may I say it is inappropriate for you to ask. I will buy another card, Counselor."
+        },
+        {
+          "character": "TROI",
+          "line": "No help there."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Fold. Again."
+        },
+        {
+          "character": "TROI",
+          "line": "Three jacks looking back for the handsome young ensign. Pair of deuces stands. Flush, possible straight flush. Your bet, Mister Crusher."
+        },
+        {
+          "character": "WESLEY",
+          "line": "I'm in for ten."
+        },
+        {
+          "character": "SHELBY",
+          "line": "Call."
+        },
+        {
+          "character": "RIKER",
+          "line": "Now it's time for the long pants. There's your ten, and one hundred."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "He's got the straight flush, folks."
+        },
+        {
+          "character": "DATA",
+          "line": "Not necessarily. Commander Riker may be bluffing, Wesley."
+        },
+        {
+          "character": "WESLEY",
+          "line": "I don't think so. Fold."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "With three jacks? What, are you kidding? Wesley, you may get straight A's in school, but there's a lot you need to learn about poker."
+        },
+        {
+          "character": "SHELBY",
+          "line": "Well, I've only got two pair, but I've got to see your hole card. I'll call."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "You got him."
+        }
+      ],
+      "location": "Riker's quarters"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "RIKER",
+          "line": "Mister Data and our guest appear to be tardy."
+        },
+        {
+          "character": "O'BRIEN",
+          "line": "Sir, Commander Shelby and Data beamed down to the planet surface an hour ago."
+        },
+        {
+          "character": "RIKER",
+          "line": "On whose authority?"
+        },
+        {
+          "character": "O'BRIEN",
+          "line": "On hers, sir."
+        }
+      ],
+      "location": "Transporter room"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "SHELBY",
+          "line": "Morning. Early bird gets the worm, eh? We've had some interesting results."
+        },
+        {
+          "character": "RIKER",
+          "line": "Commander Shelby. Walk with me, Commander."
+        },
+        {
+          "character": "DATA",
+          "line": "Early bird? I believe Commander Shelby erred. There is no evidence of avifaunal or crawling vermicular lifeforms on Jouret Four."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "That's not what she meant, Data, but you're right. She erred."
+        },
+        {
+          "character": "SHELBY",
+          "line": "I'm sorry, but I woke up early and I saw that a weather system was moving in it. It could have affected the soil readings."
+        },
+        {
+          "character": "RIKER",
+          "line": "So without any regard to the risk of coming down alone"
+        },
+        {
+          "character": "SHELBY",
+          "line": "Really, Commander, if we ran into the Borg here, two extra bodies wouldn't've made a hell of a difference, now would they? We had three hours before the storm front hit, less than two hours now. Data was available. I took him. We came. I don't see your problem."
+        },
+        {
+          "character": "RIKER",
+          "line": "My problem, Commander, is I expect to be notified before there's a change in my orders."
+        },
+        {
+          "character": "SHELBY",
+          "line": "Noted for future reference. Do you wish to hear my report, sir?"
+        },
+        {
+          "character": "RIKER",
+          "line": "Go ahead."
+        },
+        {
+          "character": "SHELBY",
+          "line": "The soil contains the same magnetic resonance traces That's our footprint. There's no doubt any more. It is the Borg."
+        },
+        {
+          "character": "PICARD",
+          "line": "Captain's log, stardate 43993.5. With confirmation of the Borg's presence in Federation space, Admiral Hanson has returned to Starbase three two four to diskuss strategy with Starfleet Command. Lieutenant Commander Shelby remains on board to continue tactical preparations.",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "Planet surface"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "RIKER",
+          "line": "I've also ordered a standing Yellow Alert. All Federation and allied outposts have been warned. Ops will continue to monitor long range sensors. I've assigned Data, La Forge and Mister Crusher to work with Commander Shelby."
+        },
+        {
+          "character": "PICARD",
+          "line": "Good. You've covered all the bases. What's your impression of Shelby?"
+        },
+        {
+          "character": "RIKER",
+          "line": "She knows her stuff."
+        },
+        {
+          "character": "PICARD",
+          "line": "She has your full confidence?"
+        },
+        {
+          "character": "RIKER",
+          "line": "Well, I think she needs supervision. She takes the initiative a little too easily. Sometimes with risks."
+        },
+        {
+          "character": "PICARD",
+          "line": "Sounds a little like a young lieutenant commander I once recruited as a first officer."
+        },
+        {
+          "character": "RIKER",
+          "line": "Perhaps."
+        },
+        {
+          "character": "PICARD",
+          "line": "Will, what the hell are you still doing here?"
+        },
+        {
+          "character": "RIKER",
+          "line": "Sir?"
+        },
+        {
+          "character": "PICARD",
+          "line": "You've been offered the Melbourne."
+        },
+        {
+          "character": "RIKER",
+          "line": "I've decided not to pursue that commission at this time."
+        },
+        {
+          "character": "PICARD",
+          "line": "She's a fine ship, Will."
+        },
+        {
+          "character": "RIKER",
+          "line": "Yes, but she's not the Enterprise. With all due respect, sir, you need me. Particularly now."
+        },
+        {
+          "character": "PICARD",
+          "line": "Indeed? Starfleet needs good captains, particularly now. Reconsider your decision."
+        },
+        {
+          "character": "RIKER",
+          "line": "Are you telling me to leave, Captain?"
+        },
+        {
+          "character": "PICARD",
+          "line": "I'm asking you to look at your career objectively. Will, you're ready to work without a net. You're ready to take command. And, you know, the Enterprise will go along just fine without you."
+        }
+      ],
+      "location": "Ready room"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "RIKER",
+          "line": "What am I still doing here? Deanna, I pushed myself hard to get this far. I sacrificed a lot. I always said I wanted my own command, and yet something's holding me back. Is it wrong for me to want to stay?"
+        },
+        {
+          "character": "TROI",
+          "line": "What do you think?"
+        },
+        {
+          "character": "RIKER",
+          "line": "Maybe I'm just afraid of the big chair."
+        },
+        {
+          "character": "TROI",
+          "line": "I don't think so."
+        },
+        {
+          "character": "RIKER",
+          "line": "The Captain says Shelby reminds him of the way I used to be. And he's right. She comes in here full of drive and ambition. Impatient, taking risks. I look at her and I wonder whatever happened to those things in me? I liked those things about me. I've lost something."
+        },
+        {
+          "character": "TROI",
+          "line": "You mean you're older, more experienced. A little more seasoned."
+        },
+        {
+          "character": "RIKER",
+          "line": "Seasoned. That's a horrible thing to say to a man."
+        },
+        {
+          "character": "TROI",
+          "line": "I don't think you've lost a thing, and I think you've gained more than you realize. You're much more comfortable with yourself than you used to be."
+        },
+        {
+          "character": "RIKER",
+          "line": "Maybe that's the problem. I'm too comfortable here."
+        },
+        {
+          "character": "TROI",
+          "line": "I'm not sure I know what that means. You're happy here. Happier than I've ever known you to be. So, it comes down to a simple question. What do you want, Will Riker?"
+        }
+      ],
+      "location": "Ten Forward"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "SHELBY",
+          "line": "A manipulation effect in the Borg ship's subspace field. A definite pattern at four point eight minute intervals during your first confrontation with them."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Might indicate high output auxiliary generators kicking in."
+        },
+        {
+          "character": "SHELBY",
+          "line": "One theory is that their systems are decentralized with redundant power sources located throughout the ship."
+        },
+        {
+          "character": "DATA",
+          "line": "That is a reasonable conclusion. Borg technology has given each member of their society the ability to interface and function collectively. It is likely they have constructed their ship with the same philosophy."
+        },
+        {
+          "character": "WESLEY",
+          "line": "You knock out one generator and another takes over without interruption."
+        },
+        {
+          "character": "RIKER",
+          "line": "What kind of damage would we have to do to shut them down?"
+        },
+        {
+          "character": "SHELBY",
+          "line": "Projections suggest that a Borg ship like this one could continue to function effectively even if seventy eight percent of it was inoperable."
+        },
+        {
+          "character": "WESLEY",
+          "line": "And our best shot barely scratched the surface."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Well, from what I've seen, I can't believe any of these new weapons systems can be ready in less than eighteen months, Commander."
+        },
+        {
+          "character": "SHELBY",
+          "line": "We've been projecting twenty four."
+        },
+        {
+          "character": "RIKER",
+          "line": "Is there anything we can do here to adapt to our current defense systems?"
+        },
+        {
+          "character": "LAFORGE",
+          "line": "We'll have to go through the specs again, but. I don't know. My mind's turned to clay."
+        },
+        {
+          "character": "WESLEY",
+          "line": "Mine too."
+        },
+        {
+          "character": "SHELBY",
+          "line": "I think we should look at modifying the plasma phaser design."
+        },
+        {
+          "character": "RIKER",
+          "line": "Commander, I think we should call it a night. That's an order. We'll reconvene at oh five hundred."
+        },
+        {
+          "character": "SHELBY",
+          "line": "Sir, if you'll allow me to continue with Mister Data, who does not require rest."
+        },
+        {
+          "character": "RIKER",
+          "line": "You need rest, Commander."
+        },
+        {
+          "character": "SHELBY",
+          "line": "If we have a confrontation with the Borg without improving our defense systems"
+        },
+        {
+          "character": "RIKER",
+          "line": "If we have a confrontation, I don't want a crew fighting the Borg at the same time they're fighting their own fatigue. Dismissed."
+        }
+      ],
+      "location": "Engineering"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "HANSON",
+          "line": "At nineteen hundred hours yesterday, the USS Lalo departed Zeta Alpha Two on a freight run to Sentinel Minor Four. At twenty two hundred hours and twelve minutes, a distress signal was received at Starbase one five seven. The Lalo reported contact with an alien vessel described as cube shaped. The distress signal ended abruptly, and she's not been heard from since.",
+          "modifier": "screen"
+        },
+        {
+          "character": "PICARD",
+          "line": "Mister Data, how long would it take to get there at warp nine?"
+        },
+        {
+          "character": "DATA",
+          "line": "One hour, seventeen minutes, sir."
+        },
+        {
+          "character": "PICARD",
+          "line": "Make it so."
+        },
+        {
+          "character": "HANSON",
+          "line": "We're coming with every available starship to assist, Captain, but the closest help is six days away.",
+          "modifier": "screen"
+        },
+        {
+          "character": "PICARD",
+          "line": "We'll try and keep them occupied until you arrive."
+        },
+        {
+          "character": "HANSON",
+          "line": "I know you will. Hanson out.",
+          "modifier": "screen"
+        },
+        {
+          "character": "RIKER",
+          "line": "All hands will stand to battle stations."
+        },
+        {
+          "character": "PICARD",
+          "line": "Commander Shelby, what is the status of out defense preparations?"
+        },
+        {
+          "character": "SHELBY",
+          "line": "Mister La Forge has a plan to modulate shield nutation. Hopefully, that'll hold them off for awhile."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "At the same time, we'll be retuning phasers to higher EM base emitting frequencies to try to disrupt their subspace field."
+        },
+        {
+          "character": "PICARD",
+          "line": "What's your assessment of our potential effectiveness?"
+        },
+        {
+          "character": "LAFORGE",
+          "line": "It's a shot in the dark, Captain. But for now it's the best we can do."
+        },
+        {
+          "character": "PICARD",
+          "line": "Dismissed."
+        }
+      ],
+      "location": "Observation lounge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "WORF",
+          "line": "Sir, reading unidentified vessel just entering sensor range. Bearing two one zero mark one five one."
+        },
+        {
+          "character": "PICARD",
+          "line": "Hail them, Mister Worf."
+        },
+        {
+          "character": "WORF",
+          "line": "No response, sir."
+        },
+        {
+          "character": "PICARD",
+          "line": "Move to intercept."
+        },
+        {
+          "character": "WESLEY",
+          "line": "Aye, sir."
+        },
+        {
+          "character": "WORF",
+          "line": "Sir, the vessel has already changed course to intercept us. Approaching at warp nine point three. Entering visual range."
+        },
+        {
+          "character": "PICARD",
+          "line": "On screen. Magnify."
+        },
+        {
+          "character": "PICARD",
+          "line": "Mister Worf, dispatch a subspace message to Admiral Hanson. We have engaged the Borg."
+        },
+        {
+          "character": "WORF",
+          "line": "Captain, you are being hailed."
+        },
+        {
+          "character": "PICARD",
+          "line": "I am?"
+        },
+        {
+          "character": "WORF",
+          "line": "Yes, Captain. By name."
+        },
+        {
+          "character": "RIKER",
+          "line": "Data, is it the same ship we faced at J two five?"
+        },
+        {
+          "character": "DATA",
+          "line": "Uncertain, Commander, but the dimensions are precisely the same."
+        },
+        {
+          "character": "PICARD",
+          "line": "On screen. I am Jean Luc"
+        },
+        {
+          "character": "BORG",
+          "line": "Jean Luc Picard, captain of the Starship Enterprise, registry NCC 1701D, you will lower shields and prepare to transport yourself aboard our vessel. If you do not cooperate, we will destroy your ship.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "PICARD",
+          "line": "You have committed acts of aggression against the United Federation of Planets. If you do not withdraw immediately"
+        },
+        {
+          "character": "BORG",
+          "line": "You will surrender yourself or we will destroy your ship. Your defensive capabilities are unable to withstand us."
+        },
+        {
+          "character": "RIKER",
+          "line": "What the hell do they want with you?"
+        },
+        {
+          "character": "SHELBY",
+          "line": "I thought they weren't interested in human life forms, only our technology."
+        },
+        {
+          "character": "PICARD",
+          "line": "Their priorities seem to have changed. Open."
+        },
+        {
+          "character": "WORF",
+          "line": "Channel open."
+        },
+        {
+          "character": "PICARD",
+          "line": "We have developed new defense capabilities since our last meeting and we are prepared to use them if you do not withdraw from Federation space."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Captain.",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "LAFORGE",
+          "line": "The shields are being probed. I'm modulating nutation."
+        }
+      ],
+      "location": "Engineering"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "WORF",
+          "line": "Captain, the Borg are attempting to lock on to us with their tractor beam."
+        },
+        {
+          "character": "PICARD",
+          "line": "Load torpedo bays. Arm phasers. lock coordinates on the source of the tractor beam."
+        },
+        {
+          "character": "RIKER",
+          "line": "Shield status?"
+        },
+        {
+          "character": "DATA",
+          "line": "Holding, sir."
+        },
+        {
+          "character": "SHELBY",
+          "line": "The nutation modulation has them confused."
+        },
+        {
+          "character": "RIKER",
+          "line": "They have the ability to analyze and adapt, Commander."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "LAFORGE",
+          "line": "Shield modulation has failed. They've locked on."
+        }
+      ],
+      "location": "Engineering"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "WORF",
+          "line": "Shields are being drained. Ninety percent. Eighty."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "LAFORGE",
+          "line": "Trying to recalibrate nutation. Damn."
+        }
+      ],
+      "location": "Engineering"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "WORF",
+          "line": "Shields have failed."
+        },
+        {
+          "character": "PICARD",
+          "line": "Fire all weapons."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "LAFORGE",
+          "line": "Their subspace field is intact. New phaser frequencies had no impact."
+        }
+      ],
+      "location": "Engineering"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "RIKER",
+          "line": "Reverse engines."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Full reverse.",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "LAFORGE",
+          "line": "We're not moving."
+        }
+      ],
+      "location": "Engineering"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "PICARD",
+          "line": "Fire at will."
+        },
+        {
+          "character": "WORF",
+          "line": "Launching torpedoes. Phaser spread continuing."
+        },
+        {
+          "character": "DATA",
+          "line": "Still no damage to the Borg vessel, sir."
+        },
+        {
+          "character": "COMPUTER",
+          "line": "Warning. Outer hull breach."
+        },
+        {
+          "character": "WORF",
+          "line": "They're cutting into the hull. Engineering section."
+        },
+        {
+          "character": "RIKER",
+          "line": "Geordi, evacuate Engineering."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "LAFORGE",
+          "line": "Computer. Evacuation sequence."
+        },
+        {
+          "character": "COMPUTER",
+          "line": "Sealing doors to core chamber."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Come on, move it, people! Let's go! Let's go!"
+        },
+        {
+          "character": "COMPUTER",
+          "line": "Decompression danger, deck thirty six, section four."
+        }
+      ],
+      "location": "Engineering"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "COMPUTER",
+          "line": "Sealing Main Engineering."
+        },
+        {
+          "character": "SHELBY",
+          "line": "Data, fluctuate phaser resonance frequencies. Random settings. Keep them changing. Don't give them time to adapt."
+        },
+        {
+          "character": "WORF",
+          "line": "The tractor beam has been released."
+        },
+        {
+          "character": "PICARD",
+          "line": "Warp nine. Course, one five one mark three three zero. Engage."
+        },
+        {
+          "character": "WORF",
+          "line": "They are in pursuit, Captain."
+        },
+        {
+          "character": "PICARD",
+          "line": "Maintain course."
+        },
+        {
+          "character": "RIKER",
+          "line": "Damage report, Geordi?"
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Hull rupture in main Engineering. The damage is pretty heavy. We lost a lot of good people down there."
+        },
+        {
+          "character": "DATA",
+          "line": "Eleven dead, eight more unaccounted for, Captain."
+        },
+        {
+          "character": "RIKER",
+          "line": "Repair teams to Engineering. Seal hull breach."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "They didn't get to the core I can control functions from here."
+        },
+        {
+          "character": "WESLEY",
+          "line": "Now approaching the Paulson Nebula, sir."
+        },
+        {
+          "character": "PICARD",
+          "line": "Drop to impulse. Take us in, Ensign."
+        },
+        {
+          "character": "WESLEY",
+          "line": "The field is getting too dense, sir."
+        },
+        {
+          "character": "PICARD",
+          "line": "Steady. Analysis of the nebula cloud, Mister Data."
+        },
+        {
+          "character": "DATA",
+          "line": "Eighty two percent dilithium hydroxyls. Magnesium, chromium. It should provide an effective screen against their sensors, Captain."
+        },
+        {
+          "character": "PICARD",
+          "line": "Mister La Forge, prepare to reverse engines. Full stop."
+        },
+        {
+          "character": "WORF",
+          "line": "The Borg ship is continuing scans, attempting to locate us."
+        },
+        {
+          "character": "PICARD",
+          "line": "Good. As long as they're looking for us, they won't hurt anyone else."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "SHELBY",
+          "line": "Time index five one four. Data started to fluctuate phaser resonance frequencies. The Borg's beam breaks contact. Slow playback. Take a closer look, Commander. Mister La Forge?"
+        },
+        {
+          "character": "LAFORGE",
+          "line": "There's a two percent drop in power for an instant, but it is system wide. The phaser frequency spread was in a high narrow band."
+        },
+        {
+          "character": "DATA",
+          "line": "Conceivably, the ship's power distribution nodes are vulnerable to those frequencies."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "If we can generate a concentrated burst of power at that same frequency distribution, I mean a lot more than anything our phasers or photon torpedoes could ever provide."
+        },
+        {
+          "character": "RIKER",
+          "line": "How do we do that?"
+        },
+        {
+          "character": "WESLEY",
+          "line": "The main deflector dish."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "It's the only component of the Enterprise designed to channel that much power at controlled frequencies."
+        },
+        {
+          "character": "SHELBY",
+          "line": "End program. Unfortunately, there is one slight detail. In the process, the blast completely destroys the Enterprise as well."
+        },
+        {
+          "character": "RIKER",
+          "line": "But if we could get further away, increase the deflector's range."
+        },
+        {
+          "character": "SHELBY",
+          "line": "It could work. In the meantime, we should retune all phasers, including the hand units, to the same frequency."
+        },
+        {
+          "character": "RIKER",
+          "line": "Proceed. I'll inform the Captain."
+        },
+        {
+          "character": "SHELBY",
+          "line": "There is one other recommendation I'd like to make, Commander. Separate the saucer section. Assign a skeleton crew to create a diversion"
+        },
+        {
+          "character": "RIKER",
+          "line": "We may need the power from the saucer impulse engines."
+        },
+        {
+          "character": "SHELBY",
+          "line": "But it would give them more than one target to worry about."
+        },
+        {
+          "character": "RIKER",
+          "line": "It's too great a risk."
+        },
+        {
+          "character": "SHELBY",
+          "line": "I'd like the Captain to make that decision, sir."
+        },
+        {
+          "character": "RIKER",
+          "line": "Commander, I bring all the alternatives to the Captain's attention. That'll be all."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "I'm going to need to installl higher capacity power transfers to the deflector dish, Commander."
+        },
+        {
+          "character": "RIKER",
+          "line": "How long?"
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Better part of a day."
+        },
+        {
+          "character": "RIKER",
+          "line": "She gets a full head of steam, doesn't she."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "She's a formidable presence, to say the least. But I'm convinced she can help us here, Commander."
+        },
+        {
+          "character": "RIKER",
+          "line": "I am too. Don't worry about it. I can handle Shelby."
+        }
+      ],
+      "location": "Observation lounge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "PICARD",
+          "line": "Come."
+        },
+        {
+          "character": "PICARD",
+          "line": "Come in, Number One. Commander Shelby was just telling me of your concerns about her plan."
+        },
+        {
+          "character": "RIKER",
+          "line": "I'm sorry if she troubled you, sir. I have already informed her"
+        },
+        {
+          "character": "PICARD",
+          "line": "Yes, I entirely agree with you, Number One. It's not the time. But the time may come when we will be required to take greater risks. I want you to consider her plan as a fall back position. Make the necessary preparations."
+        },
+        {
+          "character": "RIKER",
+          "line": "Very good, sir."
+        }
+      ],
+      "location": "Ready room"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "SHELBY",
+          "line": "Deck eight. Battle bridge."
+        },
+        {
+          "character": "RIKER",
+          "line": "Halt. Commander, you and I need to have a conversation."
+        },
+        {
+          "character": "SHELBY",
+          "line": "You never ordered me not to diskuss this with the Captain."
+        },
+        {
+          "character": "RIKER",
+          "line": "You disagree with me, fine. You need to take it to the Captain, then fine. Through me. You do an end run around me again, I'll snap you back so hard, you'll think you're a first year cadet again."
+        },
+        {
+          "character": "SHELBY",
+          "line": "May I speak frankly, sir?"
+        },
+        {
+          "character": "RIKER",
+          "line": "By all means."
+        },
+        {
+          "character": "SHELBY",
+          "line": "You're in my way."
+        },
+        {
+          "character": "RIKER",
+          "line": "Really? How terrible for you."
+        },
+        {
+          "character": "SHELBY",
+          "line": "All you know how to do is play it safe. I suppose that's why someone like you sits in the shadow of a great man for as long as you have, passing up one command after another. Proceed to deck eight."
+        },
+        {
+          "character": "RIKER",
+          "line": "When it comes to this ship and this crew, you're damned right I play it safe."
+        },
+        {
+          "character": "SHELBY",
+          "line": "If you can't make the big decisions, Commander, I suggest you make room for someone who can."
+        },
+        {
+          "character": "PICARD",
+          "line": "Captain's log, stardate 43996.2. The Enterprise remains concealed in the dust cloud. And to my surprise, the Borg have maintained their position, waiting for us to come out of hiding. I have no explanation for their special interest in me or this ship. We continue to prepare our defenses for the inevitable confrontation, but I must admit, on this night I contemplate the distinct possibility that no defense may be adequate against this enemy.",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "Turbolift"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "GUINAN",
+          "line": "Trouble sleeping?"
+        },
+        {
+          "character": "PICARD",
+          "line": "Something of a tradition, Guinan. The Captain touring the ship before a battle."
+        },
+        {
+          "character": "GUINAN",
+          "line": "Before a hopeless battle, if I remember the tradition correctly."
+        },
+        {
+          "character": "PICARD",
+          "line": "Not necessarily. Nelson toured the HMS Victory before Trafalgar."
+        },
+        {
+          "character": "GUINAN",
+          "line": "Yes, but Nelson never returned from Trafalgar, did he?"
+        },
+        {
+          "character": "PICARD",
+          "line": "No, but the battle was won."
+        },
+        {
+          "character": "GUINAN",
+          "line": "Do you expect this battle to be won?"
+        },
+        {
+          "character": "PICARD",
+          "line": "We may yet prevail. That's a conceit, but it's a healthy one. I wonder if the Emperor Honorious, watching the Visigoths coming over the seventh hill, truly realized that the Roman Empire was about to fall. This is just another page in history, isn't it? Will this be the end of our civilisation? Turn the page."
+        },
+        {
+          "character": "GUINAN",
+          "line": "This isn't the end."
+        },
+        {
+          "character": "PICARD",
+          "line": "You say that with remarkable assuredness."
+        },
+        {
+          "character": "GUINAN",
+          "line": "With experience. When the Borg destroyed my world, my people scattered throughout the universe. We survived. As will humanity survive. As long as there's a handful of you to keep the spirit alive, you will prevail. Even if it takes a millennium."
+        },
+        {
+          "character": "WORF",
+          "line": "Captain Picard, report to the Bridge.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "PICARD",
+          "line": "I'm on my way, Lieutenant."
+        }
+      ],
+      "location": "Ten Forward"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "RIKER",
+          "line": "They're some kind of magnetometric guided charges."
+        },
+        {
+          "character": "PICARD",
+          "line": "Status of shields?"
+        },
+        {
+          "character": "WORF",
+          "line": "Back to forty eight percent, Captain."
+        },
+        {
+          "character": "PICARD",
+          "line": "Mister La Forge, I may have to take us out of the nebula. I want all the power you can give me."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Engines are ready, Captain.",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "LAFORGE",
+          "line": "Recommend we adjust shield harmonics to favor the upper EM band when you proceed."
+        },
+        {
+          "character": "PICARD",
+          "line": "Acknowledged.",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "Engineering"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "WORF",
+          "line": "Direct hit, deck nine."
+        },
+        {
+          "character": "RIKER",
+          "line": "Damage report?"
+        },
+        {
+          "character": "WORF",
+          "line": "Structural latching system integrity breached."
+        },
+        {
+          "character": "PICARD",
+          "line": "Prepare to take us out of here, Number One."
+        },
+        {
+          "character": "RIKER",
+          "line": "Fire up the engines. Half impulse until we clear the nebula, then punch it to warp nine."
+        },
+        {
+          "character": "PICARD",
+          "line": "Ready phasers. Load forward torpedo bays. Engage."
+        },
+        {
+          "character": "WORF",
+          "line": "Borg tractor beam is attempting to lock on."
+        },
+        {
+          "character": "PICARD",
+          "line": "Fire at will. Continue rotating shield frequency."
+        },
+        {
+          "character": "WORF",
+          "line": "Shields failing. Tractor beam has locked on."
+        },
+        {
+          "character": "RIKER",
+          "line": "It's no use. They've already adapted to the new frequencies."
+        },
+        {
+          "character": "WORF",
+          "line": "The Borg ship is disengaging. Leaving at warp speed."
+        },
+        {
+          "character": "RIKER",
+          "line": "Maintain pursuit."
+        },
+        {
+          "character": "WORF",
+          "line": "Borg vessel has reached warp nine. Nine point four, nine point six."
+        },
+        {
+          "character": "RIKER",
+          "line": "Stay with them. Riker to O'Brien. Can you get a fix on the Captain?"
+        },
+        {
+          "character": "O'BRIEN",
+          "line": "Negative, sir. There's some kind of interference. I can't lock in on his signal.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "RIKER",
+          "line": "Senior officers, report to the Bridge."
+        },
+        {
+          "character": "WORF",
+          "line": "Sir, the coordinates they have set, they're on a direct course to sector zero zero one. The Terran system."
+        },
+        {
+          "character": "RIKER",
+          "line": "Earth."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "BORG",
+          "line": "Captain Jean Luc Picard, you lead the strongest ship of the Federation fleet. You speak for your people."
+        },
+        {
+          "character": "PICARD",
+          "line": "I have nothing to say to you, and I will resist you with my last ounce of strength."
+        },
+        {
+          "character": "BORG",
+          "line": "Strength is irrelevant. Resistance is futile. We wish to improve ourselves. We will add your biological and technological distinctiveness to our own. Your culture will adapt to service ours."
+        },
+        {
+          "character": "PICARD",
+          "line": "Impossible. My culture is based on freedom and self determination."
+        },
+        {
+          "character": "BORG",
+          "line": "Freedom is irrelevant. Self determination is irrelevant. You must comply."
+        },
+        {
+          "character": "PICARD",
+          "line": "We would rather die."
+        },
+        {
+          "character": "BORG",
+          "line": "Death is irrelevant. Your archaic cultures are authority driven. To facilitate our introduction into your societies, it has been decided that a human voice will speak for us in all communications. You have been chosen to be that voice."
+        }
+      ],
+      "location": "Borg ship"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "WORF",
+          "line": "Commander, they are leading us into the heart of our own defenses."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Yeah, well, so far they haven't had any reason to worry about our defenses."
+        },
+        {
+          "character": "WESLEY",
+          "line": "Commander, if the Borg stay at warp nine point six, we'll be forced to diskontinue pursuit and power down in less than three hours."
+        },
+        {
+          "character": "DATA",
+          "line": "Two hours, forty minutes and three seconds."
+        },
+        {
+          "character": "RIKER",
+          "line": "How soon before the deflector's ready?"
+        },
+        {
+          "character": "LAFORGE",
+          "line": "We're close. Few hours maybe. I know, I'll get it done in two somehow, but Commander, I going to need serious power from the warp engines to make this weapon work. So far we're using everything we've got just to keep up with them."
+        },
+        {
+          "character": "SHELBY",
+          "line": "Sir, we've got to get that ship down to impulse."
+        },
+        {
+          "character": "RIKER",
+          "line": "I'm leading an away team over there to get the Captain back. We'll find a way to bring them out of warp. Ensign Crusher, you continue to assist Mister La Forge. Commander Shelby, you'll take the Bridge and coordinate with Starfleet. Data, Worf, Doctor, you're with me."
+        },
+        {
+          "character": "SHELBY",
+          "line": "Excuse me, sir. With my knowledge of the Borg"
+        },
+        {
+          "character": "RIKER",
+          "line": "Those are my orders, Commander."
+        },
+        {
+          "character": "TROI",
+          "line": "Commander Riker. It is inappropriate for you to lead the away team. Until the return of Captain Picard, you are in command of the Enterprise. We're in a state of war, and your place is on the Bridge."
+        },
+        {
+          "character": "RIKER",
+          "line": "Commander Shelby, you'll lead the away team. Make it so. First officer's log, stardate 43998.5. Our pursuit of the Borg continues on a course that will take us to the very core of the Federation. The devastation they could bring is beyond imagination."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "WORF",
+          "line": "These phasers have been retuned. Each has a different frequency spanning the upper EM band."
+        },
+        {
+          "character": "SHELBY",
+          "line": "All right, a reminder. We only get to use each of these once, maybe twice, before the Borg learn to adapt. Don't fire until you have to."
+        },
+        {
+          "character": "CRUSHER",
+          "line": "What kind of resistance should we expect?"
+        },
+        {
+          "character": "DATA",
+          "line": "At our first encounter, the Borg virtually ignored us when we beamed aboard their vessel. Clearly they did not consider our being there a threat to them."
+        },
+        {
+          "character": "SHELBY",
+          "line": "That may change, however, if we start interfering with their plans. Shelby to Bridge."
+        }
+      ],
+      "location": "Transporter room"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "SHELBY",
+          "line": "Away team ready.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "RIKER",
+          "line": "We've got fifty eight minutes before we have to power down and disengage."
+        },
+        {
+          "character": "SHELBY",
+          "line": "Understood.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "RIKER",
+          "line": "Proceed. Commander"
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "RIKER",
+          "line": "No unnecessary risks. Clear?",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "SHELBY",
+          "line": "Very clear, sir. Shelby out."
+        },
+        {
+          "character": "O'BRIEN",
+          "line": "We've matched warp velocity for transport, Commander."
+        },
+        {
+          "character": "SHELBY",
+          "line": "Energize."
+        }
+      ],
+      "location": "Transporter room"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "WORF",
+          "line": "Tricorder functions minimal."
+        },
+        {
+          "character": "SHELBY",
+          "line": "Any signs of human life?"
+        },
+        {
+          "character": "WORF",
+          "line": "Inconclusive."
+        },
+        {
+          "character": "CRUSHER",
+          "line": "Look at this. This is extraordinary."
+        },
+        {
+          "character": "DATA",
+          "line": "These appear to be some kind of power wave guide conduits which allow them to work collectively as they perform ship functions."
+        },
+        {
+          "character": "SHELBY",
+          "line": "There's no way to take out enough of these to disable them down."
+        },
+        {
+          "character": "CRUSHER",
+          "line": "What if we look at this from a mosquito's point of view."
+        },
+        {
+          "character": "DATA",
+          "line": "Interesting metaphor, Doctor. What is your idea?"
+        },
+        {
+          "character": "CRUSHER",
+          "line": "If we sting them in a tender spot, they might stop for a minute to scratch."
+        },
+        {
+          "character": "DATA",
+          "line": "Distribution nodes."
+        },
+        {
+          "character": "SHELBY",
+          "line": "If we take out a few of these, it just might make them scratch."
+        },
+        {
+          "character": "WORF",
+          "line": "The Captain's communicator. It is still activated."
+        },
+        {
+          "character": "CRUSHER",
+          "line": "Crusher to Picard. Can you hear me?"
+        },
+        {
+          "character": "SHELBY",
+          "line": "Can you locate it, Worf?"
+        },
+        {
+          "character": "WORF",
+          "line": "This way."
+        }
+      ],
+      "location": "Borg ship"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "RIKER",
+          "line": "I strongly recommend redeploying all available defenses to protect sector zero zero one, Admiral."
+        },
+        {
+          "character": "HANSON",
+          "line": "We're moving to intercept at Wolf three five nine. We'll make our stand there. How much longer can you maintain pursuit?",
+          "modifier": "screen"
+        },
+        {
+          "character": "RIKER",
+          "line": "Twenty two minutes if they stay at current speed. If we can't bring them out of warp, we'll do as much damage as we can before we have to disengage."
+        },
+        {
+          "character": "HANSON",
+          "line": "Picard?",
+          "modifier": "screen"
+        },
+        {
+          "character": "RIKER",
+          "line": "Nothing yet, sir."
+        }
+      ],
+      "location": "Ready room"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "WORF",
+          "line": "In here."
+        },
+        {
+          "character": "SHELBY",
+          "line": "Shelby to Enterprise."
+        }
+      ],
+      "location": "Borg ship"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "RIKER",
+          "line": "Go ahead."
+        },
+        {
+          "character": "SHELBY",
+          "line": "We've found the Captain's uniform and his communicator. We're resuming our search.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "RIKER",
+          "line": "Stand by, Commander."
+        },
+        {
+          "character": "WESLEY",
+          "line": "We're in business."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "It'll burn out the main deflector, but it'll be one hell of a bang."
+        },
+        {
+          "character": "RIKER",
+          "line": "Radiation danger?"
+        },
+        {
+          "character": "WESLEY",
+          "line": "We're going to have to evacuate the entire forward half of the secondary hull and the lower three decks of the saucer."
+        },
+        {
+          "character": "TROI",
+          "line": "I'll see to that."
+        },
+        {
+          "character": "RIKER",
+          "line": "Commander Shelby"
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "RIKER",
+          "line": "We have only seventeen minutes of warp power left. Do whatever you can to get them out of warp.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "SHELBY",
+          "line": "Acknowledged. Shelby out. Let's take out some of these distribution nodes and see what happens."
+        }
+      ],
+      "location": "Borg ship"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "WESLEY",
+          "line": "Sir, they've done it. The Borg ship is dropping out of warp."
+        },
+        {
+          "character": "RIKER",
+          "line": "Go to impulse."
+        },
+        {
+          "character": "WESLEY",
+          "line": "Aye, sir."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Diverting warp energy to main deflector."
+        },
+        {
+          "character": "RIKER",
+          "line": "Move us to within forty thousand kilometers. Match velocity. Commence arming sequence. Increase deflector modulation to upper frequency band."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "SHELBY",
+          "line": "Shelby to Enterprise. Encountering resistance. Prepare to beam us back on my signal."
+        },
+        {
+          "character": "SHELBY",
+          "line": "They're adapting to the frequencies."
+        },
+        {
+          "character": "CRUSHER",
+          "line": "Jean-Luc!"
+        },
+        {
+          "character": "WORF",
+          "line": "Captain!"
+        },
+        {
+          "character": "SHELBY",
+          "line": "Enterprise, get us out of here."
+        }
+      ],
+      "location": "Borg ship"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "RIKER",
+          "line": "The Captain?"
+        },
+        {
+          "character": "DATA",
+          "line": "We were unable to retrieve him, sir. Sir, The Captain has been altered by the Borg."
+        },
+        {
+          "character": "RIKER",
+          "line": "Altered?"
+        },
+        {
+          "character": "WORF",
+          "line": "He is a Borg."
+        },
+        {
+          "character": "SHELBY",
+          "line": "We'll go back. I need more people. We need to retune the phasers again. We'll get him out of there."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Commander, reading subspace field fluctuations from within the Borg ship. Looks like they're regenerating, restoring power. They could be capable of warp any minute."
+        },
+        {
+          "character": "RIKER",
+          "line": "Is the deflector ready?"
+        },
+        {
+          "character": "LAFORGE",
+          "line": "It's ready."
+        },
+        {
+          "character": "CRUSHER",
+          "line": "Will, he's alive. If we could get him back to the ship, I might be able to restore"
+        },
+        {
+          "character": "RIKER",
+          "line": "This is our only chance to destroy them. If they get back into warp, our weapon is useless."
+        },
+        {
+          "character": "SHELBY",
+          "line": "We'll sabotage them again if we have to."
+        },
+        {
+          "character": "RIKER",
+          "line": "We can't maintain power. We don't have the time. Prepare to fire."
+        },
+        {
+          "character": "SHELBY",
+          "line": "At least consult with Starfleet Command. Get Admiral Hanson on subspace."
+        },
+        {
+          "character": "RIKER",
+          "line": "Belay that order, Lieutenant. There's no time."
+        },
+        {
+          "character": "WORF",
+          "line": "Sir, we are being hailed by the Borg."
+        },
+        {
+          "character": "RIKER",
+          "line": "On screen."
+        },
+        {
+          "character": "PICARD",
+          "line": "I am Locutus of Borg. Resistance is futile. Your life as it has been is over. From this time forward, you will service us.",
+          "modifier": "screen"
+        },
+        {
+          "character": "RIKER",
+          "line": "Mister Worf. Fire. To Be Continued"
+        }
+      ],
+      "location": "Bridge"
+    }
+  ],
+  "schedule": {
+    "episode": 26,
+    "number": 74,
+    "season": 3
+  },
+  "stardate": "43989.1",
+  "title": "The Best of Both Worlds, Part One"
+}

@@ -1,0 +1,1821 @@
+{
+  "airdate": 888382800,
+  "scenes": [
+    {
+      "dialogue": [
+        {
+          "character": "TUVOK",
+          "line": "Direct hit."
+        },
+        {
+          "character": "KOVIN",
+          "line": "The target buoy is solid monotanium, ten meters thick, shielded by a chromoelectric forcefield."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Impressive."
+        },
+        {
+          "character": "KOVIN",
+          "line": "I'm glad you agree. It's not wise to travel this region without adequate defenses. I've seen scuttled ships with more firepower than Voyager."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "I'm sure you have."
+        },
+        {
+          "character": "KOVIN",
+          "line": "Imagine what you'll be capable of once the isokinetic cannon is integrated into your defensive systems. One projectile can penetrate the shields of any heavily armored vessel. Hostile species will know to avoid Voyager by reputation alone."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "You've made your point, Mister Kovin. I want the cannon, and I'm prepared to give you astrometrics charts spanning twelve sectors. You'll find them unusually precise."
+        },
+        {
+          "character": "KOVIN",
+          "line": "Even the most sophisticated charts become obsolete. One random anomaly and they're no longer accurate. However, I could be persuaded if you were to include the mapping technology that created them."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Sorry. Our Astrometrics sensors were designed specifically for this ship. They'd be of no use to you. What I can offer you is a generous supply of isolinear processing chips. We'll even show you how to integrate them into your existing sensor technology."
+        },
+        {
+          "character": "KOVIN",
+          "line": "How generous a supply?"
+        },
+        {
+          "character": "JANEWAY",
+          "line": "One hundred chips."
+        },
+        {
+          "character": "KOVIN",
+          "line": "One hundred and fifty."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "One fifteen."
+        },
+        {
+          "character": "KOVIN",
+          "line": "One twenty five."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Done. Escort our guest to Engineering. You'll be supervising the installlation of the cannon?"
+        },
+        {
+          "character": "KOVIN",
+          "line": "Of course. For a modest fee."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Five additional chips, no more."
+        },
+        {
+          "character": "KOVIN",
+          "line": "It's good to see the art of negotiation isn't lost on you, Captain."
+        },
+        {
+          "character": "PARIS",
+          "line": "That guy is worse than a Ferengi"
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Assign Seven of Nine to work on this. She's got a knack for adapting alien technology."
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "Should I give her complete access to the engineering control systems?"
+        },
+        {
+          "character": "JANEWAY",
+          "line": "I'm ready to give her some latitude. She's been behaving herself lately."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "CHAKOTAY",
+          "line": "What are you working on?"
+        },
+        {
+          "character": "SEVEN",
+          "line": "I'm trying to decode the message Starfleet Command sent us several weeks ago."
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "Any progress?"
+        },
+        {
+          "character": "SEVEN",
+          "line": "None. I'm working on a new decryption algorithm."
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "I'd like you to set it aside for a while. I have another assignment for you."
+        },
+        {
+          "character": "SEVEN",
+          "line": "What is it?"
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "The Captain wants you to help Kovin integrate the new weapon system."
+        },
+        {
+          "character": "SEVEN",
+          "line": "I'd rather not. I find him inefficient."
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "Maybe so, but you seem to work well with him. You've been asking for more responsibilities, I thought you'd be pleased."
+        },
+        {
+          "character": "SEVEN",
+          "line": "The captain gives me greater liberty only when she needs my expertise."
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "You violated her trust, and if you want it back, you're going to have to earn it. One step at a time."
+        },
+        {
+          "character": "SEVEN",
+          "line": "I will report to Engineering."
+        }
+      ],
+      "location": "Astrometrics lab"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "KOVIN",
+          "line": "You'll need to installl isolinear buffer circuits here and here."
+        },
+        {
+          "character": "SEVEN",
+          "line": "The main power relay should be protected by a containment field."
+        },
+        {
+          "character": "KOVIN",
+          "line": "Unnecessary. All the buffer circuits would have to fail simultaneously for there to be any danger."
+        },
+        {
+          "character": "TORRES",
+          "line": "We prefer to play it safe. I'll check the inventory logs to see if we have a field generator available."
+        },
+        {
+          "character": "KOVIN",
+          "line": "What are you doing?"
+        },
+        {
+          "character": "SEVEN",
+          "line": "I'm reconfiguring the tactical control systems."
+        },
+        {
+          "character": "KOVIN",
+          "line": "The isokinetic circuit requires a specialized protocol. Let me take care of it."
+        },
+        {
+          "character": "SEVEN",
+          "line": "That won't be necessary."
+        },
+        {
+          "character": "KOVIN",
+          "line": "No, no! The subroutines need to be arranged in cascading sequence. Let me show you."
+        },
+        {
+          "character": "TORRES",
+          "line": "Seven, stop."
+        }
+      ],
+      "location": "Engineering"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "EMH",
+          "line": "There's a hairline fracture of the premaxilla bone."
+        },
+        {
+          "character": "KOVIN",
+          "line": "Do you see this, Captain? She shattered it."
+        },
+        {
+          "character": "EMH",
+          "line": "It's easily repaired."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Do you have any idea why Seven attacked you?"
+        },
+        {
+          "character": "KOVIN",
+          "line": "It was unprovoked. She came at me like an animal!"
+        },
+        {
+          "character": "TORRES",
+          "line": "Oh, I wouldn't put it like that. I was at another console about ten meters away. I heard Kovin raise his voice and when I looked around I saw that he was holding her arm."
+        },
+        {
+          "character": "KOVIN",
+          "line": "I barely touched her. A gentle gesture to move her out of my way so I could get to the console, then she turned on me, attacked me."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "What did you say to her?"
+        },
+        {
+          "character": "KOVIN",
+          "line": "I told her how to reconfigure the tactical control systems properly."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Is that all?"
+        },
+        {
+          "character": "KOVIN",
+          "line": "That's all!"
+        },
+        {
+          "character": "TORRES",
+          "line": "And that's when she knocked him down. Ashmore and I had to hold her back."
+        },
+        {
+          "character": "KOVIN",
+          "line": "She would have killed me. That woman is dangerous."
+        },
+        {
+          "character": "EMH",
+          "line": "It's a miracle you survived. Now hold still or this won't heal properly."
+        },
+        {
+          "character": "KOVIN",
+          "line": "Why are you questioning me on this? You should be diskiplining your crew member."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Believe me, I'll deal with it. Please accept my sincere apology. Now, if you'll excuse me."
+        },
+        {
+          "character": "EMH",
+          "line": "Good as new."
+        }
+      ],
+      "location": "Sickbay"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "JANEWAY",
+          "line": "Come in."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Here we are again. Oh, I'm tired of having this conversation. You know what I'm going to say. I know how you're going to respond, so it seems pointless to say anything."
+        },
+        {
+          "character": "SEVEN",
+          "line": "Shall I consider my privileges restricted and confine myself to the Cargo Bay?"
+        },
+        {
+          "character": "JANEWAY",
+          "line": "I think we've established that traditional diskiplinary actions don't work with you. The question is, what will?"
+        },
+        {
+          "character": "SEVEN",
+          "line": "Are you asking for my opinion?"
+        },
+        {
+          "character": "JANEWAY",
+          "line": "I suppose I am. Because frankly I'm running out of options. Throwing you in the brig isn't going to solve anything, neither is slapping you on the wrist. And it's not as though I don't understand your feelings about Kovin. There have been a few times when I'd have liked to pop him on the nose myself. But you have to start learning the difference between having an impulse and acting on it. Does that make any sense to you?"
+        },
+        {
+          "character": "SEVEN",
+          "line": "I believe so. I will give it more thought."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Well, that's a start."
+        }
+      ],
+      "location": "Ready room"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "EMH",
+          "line": "I hear there was some excitement this morning. When I started helping you improve your social skills, I'm fairly certain I didn't include a boxing lesson. You weren't hurt, were you?"
+        },
+        {
+          "character": "SEVEN",
+          "line": "No."
+        },
+        {
+          "character": "EMH",
+          "line": "Still a bit tense?"
+        },
+        {
+          "character": "SEVEN",
+          "line": "Perhaps."
+        },
+        {
+          "character": "EMH",
+          "line": "I understand the burden you carry. Constantly being obligated to deal with those who fall short of excellence. I often find my own patience being tested by someone like Mister Kovin. Of course I generally respond with a devastating quip rather than a left hook. We must both accept the fact that very few lifeforms will ever meet our high standards. So, when you get irritated, just try to be tolerant, and remember, they can't help being what they are. Hmm. I'm reading some increased engrammatic activity, and your adrenalin levels are slightly elevated."
+        },
+        {
+          "character": "SEVEN",
+          "line": "What does that indicate?"
+        },
+        {
+          "character": "EMH",
+          "line": "It's consistent with a state of heightened tension. Lie down and I'll run some scans. In a typical human, I would consider this a mood swing. But with your unique physiology, I'd like to rule out the possibility of a chemical imbalance."
+        },
+        {
+          "character": "EMH",
+          "line": "Have you been experiencing any other symptoms? Headaches, disorientation?"
+        },
+        {
+          "character": "SEVEN",
+          "line": "No."
+        },
+        {
+          "character": "EMH",
+          "line": "Physiological scans seem normal. I'm going to check your Borg implants now."
+        },
+        {
+          "character": "EMH",
+          "line": "Seven? What's wrong?"
+        },
+        {
+          "character": "SEVEN",
+          "line": "Let me out."
+        },
+        {
+          "character": "EMH",
+          "line": "I will. Stay calm."
+        },
+        {
+          "character": "SEVEN",
+          "line": "No more procedures."
+        },
+        {
+          "character": "EMH",
+          "line": "All right."
+        },
+        {
+          "character": "SEVEN",
+          "line": "Stay away. You mustn't do this."
+        },
+        {
+          "character": "EMH",
+          "line": "Do what? Seven, what are you so afraid of?"
+        },
+        {
+          "character": "SEVEN",
+          "line": "I don't know."
+        }
+      ],
+      "location": "Sickbay"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "EMH",
+          "line": "She experienced an episode of acute anxiety with all the trimmings. Intense apprehension, shortness of breath, dizziness. I finally managed to sedate her."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Could this have been caused by her cortical implants?"
+        },
+        {
+          "character": "EMH",
+          "line": "I don't think so. I think the problem has to do with memory suppression. I've detected a high concentration of biogenic amines in Seven's hippocampus, a substance I haven't noticed before. It's blocking portions of her memory center."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Do you know where it came from?"
+        },
+        {
+          "character": "EMH",
+          "line": "No, but it seems to be dissipating."
+        }
+      ],
+      "location": "Medical lab"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "EMH",
+          "line": "Seven's unusual behavior may be the result of the blocked memories beginning to surface. Memories which she can't identify yet."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Can you treat her?"
+        },
+        {
+          "character": "EMH",
+          "line": "Treatment would involve integrating the repressed memories into Seven's consciousness. I may be able to use a standard therapeutic regression technique."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "I wasn't aware that you were programd for psychotherapeutic capabilities."
+        },
+        {
+          "character": "EMH",
+          "line": "I wasn't. But in the absence of a ship's counselor, I've been developing a psychiatric subroutine to add to my program. I'll be even more valuable to you than I am now."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Keep me informed, Doctor."
+        }
+      ],
+      "location": "Doctor's office"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "EMH",
+          "line": "A Jungian therapist would attempt to retrieve unconscious memories by exploring synchronicities in recent events. On the other hand, Amanin of Betazed would argue that a combination of sensory isolation and focused breathing techniques would be more effective. I've integrated the finer points of both to create my own approach to memory reconstruction."
+        },
+        {
+          "character": "SEVEN",
+          "line": "What does this approach involve?"
+        },
+        {
+          "character": "EMH",
+          "line": "First, putting you at ease by performing the treatment here, in your own environment. Once the cortical probes have reinforced the neural pathways, I'll use a directed imagery technique to guide you through the regression."
+        },
+        {
+          "character": "SEVEN",
+          "line": "You may proceed."
+        },
+        {
+          "character": "EMH",
+          "line": "Please, close your eyes. Clear your mind. Try not to think or to analyze."
+        },
+        {
+          "character": "SEVEN",
+          "line": "My mind is now clear."
+        },
+        {
+          "character": "EMH",
+          "line": "Seven, this isn't an exercise in efficiency. Close your eyes, breathe deeply. Now concentrate on the sound of my voice. Let go of the present, leave the cargo bay behind. Allow yourself to drift. Describe the first image that enters your mind."
+        },
+        {
+          "character": "SEVEN",
+          "line": "A medical tricorder. Duritanium casing. Seven point six centimeters by nine point eight centimeters by three point two centimeters. Alphanumeric display."
+        },
+        {
+          "character": "EMH",
+          "line": "That's enough. So, you're in Sickbay. How does the tricorder make you feel?"
+        },
+        {
+          "character": "SEVEN",
+          "line": "It disturbs me."
+        },
+        {
+          "character": "EMH",
+          "line": "Why does it disturb you?"
+        },
+        {
+          "character": "SEVEN",
+          "line": "I'm afraid it will hurt me."
+        },
+        {
+          "character": "EMH",
+          "line": "Is there anything else there that causes you to anticipate pain?"
+        },
+        {
+          "character": "SEVEN",
+          "line": "The diagnostic bed. It's closing around me."
+        },
+        {
+          "character": "EMH",
+          "line": "You feel restrained, confined? SEVEN Yes. I am uneasy."
+        },
+        {
+          "character": "EMH",
+          "line": "About what?"
+        },
+        {
+          "character": "SEVEN",
+          "line": "It's Kovin."
+        },
+        {
+          "character": "EMH",
+          "line": "What is he doing?"
+        },
+        {
+          "character": "SEVEN",
+          "line": "He's restraining me. I want to get away from him but I can't. Kovin's using some kind of instrument on me."
+        },
+        {
+          "character": "EMH",
+          "line": "Seven?"
+        },
+        {
+          "character": "SEVEN",
+          "line": "I didn't recall this before."
+        },
+        {
+          "character": "EMH",
+          "line": "Recall what?"
+        },
+        {
+          "character": "SEVEN",
+          "line": "Kovin. He performed a surgical procedure on me. He extracted Borg technology from my body. He violated me."
+        },
+        {
+          "character": "EMH",
+          "line": "We're making progress. Now tell me, this surgical procedure, when did it happen?"
+        },
+        {
+          "character": "SEVEN",
+          "line": "I don't know. The details are vague. There are only images."
+        },
+        {
+          "character": "EMH",
+          "line": "And you're sure it was Kovin? Did you see Kovin?"
+        },
+        {
+          "character": "SEVEN",
+          "line": "Yes."
+        },
+        {
+          "character": "EMH",
+          "line": "You said he was restraining you, using an instrument of some sort."
+        },
+        {
+          "character": "SEVEN",
+          "line": "He was."
+        },
+        {
+          "character": "EMH",
+          "line": "Were you on Voyager when this happened?"
+        },
+        {
+          "character": "SEVEN",
+          "line": "No. It must have been when we were testing the weapons on the surface."
+        },
+        {
+          "character": "EMH",
+          "line": "Then concentrate on that away mission. Focus on the first image that enters your mind. Describe it for me,"
+        },
+        {
+          "character": "SEVEN",
+          "line": "A large granitic stone, approximately one half meter high."
+        },
+        {
+          "character": "EMH",
+          "line": "Now, allow that memory to develop beyond the image. Integrate it into your consciousness. Let the memory take shape."
+        }
+      ],
+      "location": "Cargo Bay two"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "SEVEN",
+          "line": "I'm at the weapons range. Kovin had taken us there to evaluate various hand held firearms he wished to offer in trade.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "SEVEN",
+          "line": "He attempted to impress us with a demonstration of the weapons' destructive capabilities. My role was to provide a more objective analysis."
+        },
+        {
+          "character": "KOVIN",
+          "line": "Terawatt powered particle beam rifle, four microsecond recharge cycle, ten kilometer range."
+        },
+        {
+          "character": "PARIS",
+          "line": "Definitely not standard Starfleet issue. What do you think?"
+        },
+        {
+          "character": "SEVEN",
+          "line": "Seventy two percent fragmentation, twenty eight percent vaporization. Crude, but efficient."
+        },
+        {
+          "character": "PARIS",
+          "line": "It's not as accurate as our compression rifles, but it's a lot easier to handle. I wouldn't mind carrying one of these the next time we run into the Hirogen."
+        },
+        {
+          "character": "SEVEN",
+          "line": "Targeting mechanism could be augmented with a thermal guidance sensor. That would improve accuracy by twenty four percent."
+        },
+        {
+          "character": "KOVIN",
+          "line": "I can do that now. Care to join me? You can make sure the adjustments perform to your specifications."
+        },
+        {
+          "character": "PARIS",
+          "line": "If you don't mind, I'd like to test some of the other firearms."
+        },
+        {
+          "character": "KOVIN",
+          "line": "Go right ahead. This way."
+        },
+        {
+          "character": "SEVEN",
+          "line": "Kovin took me to a small laboratory.",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "Seven's memory - Entharan weapons range"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "EMH",
+          "line": "Describe it.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "SEVEN",
+          "line": "It was poorly illuminated. I saw various instruments, technology unfamiliar to me. I assumed this was where he developed new weapon designs.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "SEVEN",
+          "line": "This weapon is thoron based."
+        },
+        {
+          "character": "KOVIN",
+          "line": "Most of these hand-held disrupters are."
+        },
+        {
+          "character": "SEVEN",
+          "line": "Thoron can be unstable in weapons."
+        },
+        {
+          "character": "KOVIN",
+          "line": "Not if you polarize the emitter matrix. That compensates for any instabilities. Watch."
+        },
+        {
+          "character": "SEVEN",
+          "line": "What are you doing?"
+        }
+      ],
+      "location": "Seven's memory - Kovin's laboratory"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "SEVEN",
+          "line": "He turned the weapon on me."
+        },
+        {
+          "character": "EMH",
+          "line": "He fired?"
+        },
+        {
+          "character": "SEVEN",
+          "line": "Yes, I remember it now."
+        },
+        {
+          "character": "EMH",
+          "line": "What happened next?"
+        },
+        {
+          "character": "SEVEN",
+          "line": "I'm not sure."
+        },
+        {
+          "character": "EMH",
+          "line": "Concentrate. See the laboratory in your mind."
+        },
+        {
+          "character": "SEVEN",
+          "line": "There was a light in my eyes."
+        }
+      ],
+      "location": "Cargo Bay two"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "EMH",
+          "line": "Was Kovin still in the room with you?",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "SEVEN",
+          "line": "Yes.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "KOVIN",
+          "line": "Restrain her, quickly."
+        },
+        {
+          "character": "SEVEN",
+          "line": "And another Entharan was assisting him.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "SCHARN",
+          "line": "This is Borg technology."
+        },
+        {
+          "character": "KOVIN",
+          "line": "That's what I've been telling you."
+        },
+        {
+          "character": "SEVEN",
+          "line": "Let me go."
+        }
+      ],
+      "location": "Seven's memory - Kovin's laboratory"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "SEVEN",
+          "line": "They bound me to an examination table."
+        },
+        {
+          "character": "EMH",
+          "line": "What did they do to you? Did they scan you?"
+        }
+      ],
+      "location": "Cargo Bay two"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "KOVIN",
+          "line": "The bio-ablation pump is engaged and pressurized."
+        },
+        {
+          "character": "SCHARN",
+          "line": "The growth medium is activating the implants. The nanoprobes are multiplying."
+        }
+      ],
+      "location": "Seven's memory - Kovin's laboratory"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "SEVEN",
+          "line": "They put a device near my head."
+        }
+      ],
+      "location": "Cargo Bay two"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "SEVEN",
+          "line": "They removed my ocular implant.",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "Seven's memory - Kovin's laboratory"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "SEVEN",
+          "line": "Then some of the implants in my arm were activated."
+        },
+        {
+          "character": "EMH",
+          "line": "Which ones? Can you be more specific?"
+        }
+      ],
+      "location": "Cargo Bay two"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "KOVIN",
+          "line": "Use the maximum setting of the metagenic pulse to stimulate the implants."
+        },
+        {
+          "character": "SCHARN",
+          "line": "The assimilation tubules are ready."
+        },
+        {
+          "character": "KOVIN",
+          "line": "Prepare to harvest the nanoprobes."
+        },
+        {
+          "character": "SEVEN",
+          "line": "They extracted nanoprobes through my assimilation tubules. I was powerless, unable to stop them.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "EMH",
+          "line": "You couldn't be expected to. You were restrained. Then what happened?"
+        },
+        {
+          "character": "SEVEN",
+          "line": "They took the nanoprobes to another subject, also restrained. Then they, they assimilated him.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "SCHARN",
+          "line": "Well done."
+        },
+        {
+          "character": "SEVEN",
+          "line": "The next thing I remember I was back in Kovin's lab. He claimed the particle beam rifle overloaded, that it had burned my hand. But it was a lie. They had attacked me.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "KOVIN",
+          "line": "I'm sorry. I should have been more careful."
+        },
+        {
+          "character": "SEVEN",
+          "line": "Do you have a dermal regenerator?"
+        },
+        {
+          "character": "KOVIN",
+          "line": "Of course."
+        }
+      ],
+      "location": "Seven's memory - Kovin's laboratory"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "EMH",
+          "line": "I'll inform the captain."
+        }
+      ],
+      "location": "Cargo Bay two"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "EMH",
+          "line": "There's no doubt that Seven was the victim of a brutal assault."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "How is she?"
+        },
+        {
+          "character": "EMH",
+          "line": "As well as can be expected. She's regenerating in her alcove. I predict her emotional recovery will take some time. I certainly hope you intend to hold Kovin responsible for what he's done."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "First I want to know how much of her story we can corroborate. Tom, you were with her on the planet. How long was she alone with Kovin?"
+        },
+        {
+          "character": "PARIS",
+          "line": "At least two hours."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "And when she came back, did she say anything about what happened?"
+        },
+        {
+          "character": "PARIS",
+          "line": "Only that they'd finished their work on the rifle. She seemed fine."
+        },
+        {
+          "character": "EMH",
+          "line": "Clearly Mister Kovin used some artificial means to suppress her memory of the event. That would explain the unusual engrammatic activity I found in her neurological scans."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Did you find any other physical evidence of the medical procedures she described?"
+        },
+        {
+          "character": "EMH",
+          "line": "No. I suspect Mister Kovin used Seven's own nanoprobes to repair any cellular damage. She distinctly remembers Kovin extracting them."
+        },
+        {
+          "character": "TUVOK",
+          "line": "You seem to be accepting Seven's recovered memories as fact."
+        },
+        {
+          "character": "EMH",
+          "line": "Are you suggesting otherwise?"
+        },
+        {
+          "character": "TUVOK",
+          "line": "Historically, recovered memories have often proven unreliable."
+        },
+        {
+          "character": "EMH",
+          "line": "Yes, in cases where a traumatic experience has been repressed for years. But we're dealing with a very recent memory here, that was blocked by artificial means. When I removed that mechanism, Seven remembered everything that happened."
+        },
+        {
+          "character": "TUVOK",
+          "line": "Human memory is rarely perfect."
+        },
+        {
+          "character": "PARIS",
+          "line": "What are you saying, Tuvok? That Seven is making this up?"
+        },
+        {
+          "character": "TUVOK",
+          "line": "No, but we must remember that she's experienced hallucinatory images before."
+        },
+        {
+          "character": "EMH",
+          "line": "That was in direct response to a signal from the ship where she was assimilated. She's not having hallucinations now. She's remembering what happened to her. I've confirmed this by analyzing the specific engrammatic activity in her hippocampus. We're not talking about conjecture, we're talking about science."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Let's not get bogged down. Seven's made serious accusations and I won't dismiss them. If Kovin assaulted her, took a sample of her Borg technology, we can't stand by and do nothing. In the wrong hands a single nanoprobe could lead to disaster. Doctor, I want you to keep searching for any physical evidence to back up Seven's claim. I will talk to Kovin. Dismissed."
+        }
+      ],
+      "location": "Briefing room"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "KOVIN",
+          "line": "This is offensive and absurd. She's obviously lying."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Why would she do that?"
+        },
+        {
+          "character": "KOVIN",
+          "line": "Maybe you can answer that. She's your crewmember. First she attacks me, then she invents these ridiculous stories, and you try to place the blame on me. Is this some kind of negotiating tactic?"
+        },
+        {
+          "character": "JANEWAY",
+          "line": "I have no hidden agenda. I'm simply trying to clarify what happened."
+        },
+        {
+          "character": "KOVIN",
+          "line": "I told you already. We went to my laboratory to adjust the guidance system on the particle beam rifle."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "And that took two hours?"
+        },
+        {
+          "character": "KOVIN",
+          "line": "She insisted absolute precision."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "We've confirmed that Seven was exposed to an intense thoron discharge."
+        },
+        {
+          "character": "KOVIN",
+          "line": "She was, after the rifle's power cell overloaded. We reported the accident immediately."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "She now remembers that you fired the weapon at her deliberately."
+        },
+        {
+          "character": "KOVIN",
+          "line": "That's preposterous."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "The Doctor now tells me the blast could have been enough to render her unconscious."
+        },
+        {
+          "character": "KOVIN",
+          "line": "But it didn't. We were both startled for a moment. And after I apologized for the accident, she asked if I had a dermal regenerator, which I did, and I used on her arm. The one with the mechanical implants."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Which you recognized as Borg."
+        },
+        {
+          "character": "KOVIN",
+          "line": "I was aware she'd been a Borg. She told me herself."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Did you ever express curiosity in that technology, or try to examine it more closely?"
+        },
+        {
+          "character": "KOVIN",
+          "line": "No."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "You never considered the potential value it might have as a weapon?"
+        },
+        {
+          "character": "KOVIN",
+          "line": "Is that what you think I've done?"
+        },
+        {
+          "character": "JANEWAY",
+          "line": "You may not realize how dangerous Borg technology can be. If you've taken even a single nanoprobe, I need to know about it right now."
+        },
+        {
+          "character": "KOVIN",
+          "line": "I haven't taken anything."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "I'd like to examine your laboratory to be absolutely sure."
+        },
+        {
+          "character": "KOVIN",
+          "line": "No. This has already gone too far."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Then I'll have to contact the authorities. Maybe they'll be more helpful."
+        },
+        {
+          "character": "KOVIN",
+          "line": "Are you willing to risk our trade agreement all on the basis of one crew member's delusions?"
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Yes. Now, are you going to cooperate with our investigation?"
+        },
+        {
+          "character": "KOVIN",
+          "line": "I don't seem to have much choice."
+        }
+      ],
+      "location": "Ready room"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TUVOK",
+          "line": "You stated that the rifle's power cell overloaded as a result of a faulty oscillator adjustment."
+        },
+        {
+          "character": "KOVIN",
+          "line": "That's right."
+        },
+        {
+          "character": "TUVOK",
+          "line": "Can you describe in more detail how that occurred?"
+        },
+        {
+          "character": "KOVIN",
+          "line": "I was showing her how to polarize the emitter matrix. I must have tuned the induction frequency too high."
+        },
+        {
+          "character": "TUVOK",
+          "line": "Were you unfamiliar with that procedure?"
+        },
+        {
+          "character": "KOVIN",
+          "line": "No. I have done it a hundred times. It was a careless mistake. How many times do I need to apologize?"
+        },
+        {
+          "character": "TUVOK",
+          "line": "I am not seeking a statement of remorse."
+        },
+        {
+          "character": "KOVIN",
+          "line": "Then what do you want? Are you trying to catch me in a lie? Trick me into confessing? You can't, because there's nothing for me to confess! I haven't done anything wrong."
+        },
+        {
+          "character": "TUVOK",
+          "line": "One of our crew members claims that you have."
+        },
+        {
+          "character": "KOVIN",
+          "line": "Your crewmember, Seven of Nine, she's very fortunate."
+        },
+        {
+          "character": "TUVOK",
+          "line": "How so?"
+        },
+        {
+          "character": "KOVIN",
+          "line": "She has an entire crew leaping to her defense. I have no one."
+        },
+        {
+          "character": "TUVOK",
+          "line": "The Entharan representative will be here shortly."
+        },
+        {
+          "character": "KOVIN",
+          "line": "You mean the Magistrate? He won't help me. He's more interested in protecting diplomatic relations with people like you."
+        },
+        {
+          "character": "TUVOK",
+          "line": "Surely he'll want to know the truth. That's all we're seeking."
+        },
+        {
+          "character": "KOVIN",
+          "line": "You don't understand. On my world, we depend on trade with alien species. There are strict protocols about those relationships. Even being accused of violating them is a serious offense."
+        },
+        {
+          "character": "TUVOK",
+          "line": "You will have the opportunity to refute any charges."
+        },
+        {
+          "character": "KOVIN",
+          "line": "It won't matter. Once they're made, the damage is done. I won't be trusted any longer. I'll be ruined. Please, I never hurt your crew member. Don't do this."
+        },
+        {
+          "character": "TUVOK",
+          "line": "I'm afraid I have no choice. But I assure you our investigation will be conducted in a fair and impartial manner."
+        },
+        {
+          "character": "KOVIN",
+          "line": "You strike me as a man of your word. If you tell me I won't be prejudged, then I believe you."
+        }
+      ],
+      "location": "Tuvok's office"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "EMH",
+          "line": "How are you feeling?"
+        },
+        {
+          "character": "SEVEN",
+          "line": "I am undamaged."
+        },
+        {
+          "character": "EMH",
+          "line": "But how do you feel? Seven, your physical scars have healed, but the psychological effects are still there. You'll have to deal with them."
+        },
+        {
+          "character": "SEVEN",
+          "line": "For what purpose?"
+        },
+        {
+          "character": "EMH",
+          "line": "In order to heal. Kovin attacked you, violated your rights as an individual. It's important that you recognize that, so you can understand any hostility or resentment you might be feeling."
+        },
+        {
+          "character": "SEVEN",
+          "line": "Resentment is a human trait. It has no structure, no function. I want no part of it."
+        },
+        {
+          "character": "EMH",
+          "line": "You're going to have to begin accepting the fact that your human feelings exist, and that suppressing them can damage you."
+        },
+        {
+          "character": "SEVEN",
+          "line": "If I am not aware of these feelings, how can I express them?"
+        },
+        {
+          "character": "EMH",
+          "line": "Let me ask you this. What would have happened if Kovin had tried to take Borg technology directly from the Collective?"
+        },
+        {
+          "character": "SEVEN",
+          "line": "He would have been assimilated."
+        },
+        {
+          "character": "EMH",
+          "line": "Precisely. Which is why he chose you. He could get what he wanted without running any risks."
+        },
+        {
+          "character": "SEVEN",
+          "line": "It was my individuality which made me vulnerable."
+        },
+        {
+          "character": "EMH",
+          "line": "Exactly. He violated that individuality. What he did is an affront to everything you are, Borg and Human."
+        },
+        {
+          "character": "SEVEN",
+          "line": "It was the act of a coward."
+        },
+        {
+          "character": "EMH",
+          "line": "Yes! Someone who was willing to use you in the cruelest way so that he could create new weapons and sell them."
+        },
+        {
+          "character": "SEVEN",
+          "line": "I believe I'm beginning to experience anger. Anger toward Kovin."
+        },
+        {
+          "character": "EMH",
+          "line": "Good. That's a perfectly healthy, normal response. And when Kovin gets what he deserves, you're going to feel much better."
+        }
+      ],
+      "location": "Sickbay"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "KOVIN",
+          "line": "Right this way, Magistrate. My laboratory."
+        },
+        {
+          "character": "EMH",
+          "line": "There are no examination tables."
+        },
+        {
+          "character": "KOVIN",
+          "line": "I told you, just work benches."
+        },
+        {
+          "character": "TUVOK",
+          "line": "Is this the entire facility?"
+        },
+        {
+          "character": "KOVIN",
+          "line": "Yes."
+        },
+        {
+          "character": "EMH",
+          "line": "We should scan for signs that the room may have been altered recently. During her regression, Seven described instruments similar to these."
+        },
+        {
+          "character": "KOVIN",
+          "line": "Of course she did. She was here."
+        },
+        {
+          "character": "EMH",
+          "line": "She said a device like this was used to remove her optic implant."
+        },
+        {
+          "character": "KOVIN",
+          "line": "That's a micro-caliper. I used it to remove the casing over the guidance system on the particle beam rifle."
+        },
+        {
+          "character": "EMH",
+          "line": "And isn't this an electro-dynamic probe?"
+        },
+        {
+          "character": "KOVIN",
+          "line": "Yes."
+        },
+        {
+          "character": "EMH",
+          "line": "Hmm. It's equipped with a monofilament stimulator. Could it be used to manipulate the neurotransmitter levels in a human brain?"
+        },
+        {
+          "character": "KOVIN",
+          "line": "Not as it is."
+        },
+        {
+          "character": "EMH",
+          "line": "But with the proper modifications?"
+        },
+        {
+          "character": "KOVIN",
+          "line": "With the proper modifications I could reconfigure your comm. badge to manipulate neurotransmitters. What's your point?"
+        },
+        {
+          "character": "EMH",
+          "line": "I believe you've just made it. There is cellular residue on many of these instruments. It matches Seven's genome. With your permission, sir, I'd like to take these tools back to Voyager where I can run more conclusive scans."
+        },
+        {
+          "character": "MAGISTRATE",
+          "line": "Take whatever you need."
+        },
+        {
+          "character": "TUVOK",
+          "line": "Doctor, there are a number of Borg nanoprobes on the surface of this table."
+        },
+        {
+          "character": "EMH",
+          "line": "I'll just collect a sample. Hmm."
+        },
+        {
+          "character": "KOVIN",
+          "line": "That's where her arm was hit when the rifle overloaded."
+        },
+        {
+          "character": "TUVOK",
+          "line": "The dispersal pattern is consistent with a dermal rupture."
+        },
+        {
+          "character": "EMH",
+          "line": "These nanoprobes were recently regenerated. If this were nothing more than cellular residue from Seven's injury, the nanoprobes would be dormant. But these have been activated in a very specific pattern."
+        },
+        {
+          "character": "MAGISTRATE",
+          "line": "I've seen enough. Kovin, there is sufficient evidence here to detain you pending official proceedings."
+        },
+        {
+          "character": "KOVIN",
+          "line": "No. Please. No."
+        },
+        {
+          "character": "KOVIN",
+          "line": "Stay where you are."
+        },
+        {
+          "character": "MAGISTRATE",
+          "line": "Kovin, don't!"
+        },
+        {
+          "character": "KOVIN",
+          "line": "I trusted you. You said it would be an impartial investigation. But you're all determined to find what you want to find. Well, I'm not going to let this happen."
+        },
+        {
+          "character": "TUVOK",
+          "line": "Tuvok to Voyager."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Janeway here.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "TUVOK",
+          "line": "Mister Kovin has transported out of the laboratory."
+        }
+      ],
+      "location": "Kovin's laboratory"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TUVOK",
+          "line": "Can you track his present position?",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Stand by."
+        },
+        {
+          "character": "KIM",
+          "line": "I'm picking up a transporter signature, three hundred kilometers above the surface."
+        },
+        {
+          "character": "PARIS",
+          "line": "Captain, there's a ship powering it's engines at those coordinates."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Magistrate, do you want us to follow him?"
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "MAGISTRATE",
+          "line": "Yes, but I'd like to join you."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Very well. We'll beam you to Voyager. Stand by.",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "Kovin's laboratory"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "PARIS",
+          "line": "Kovin's ship is on a heading of one eight mark two five."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Set an intercept course. Get ready to lock on a tractor beam."
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "He's only at half impulse. His ship may not have warp engines."
+        },
+        {
+          "character": "PARIS",
+          "line": "We're at nine thousand kilometers and closing."
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "I'm engaging the tractor beam."
+        },
+        {
+          "character": "PARIS",
+          "line": "I can't find him. All of my sensor readings have disappeared."
+        },
+        {
+          "character": "KIM",
+          "line": "He generated a photonic pulse. It took them offline. We'll have to reinitialize the entire sensor array."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Do it. Our investigation has suddenly turned into a manhunt."
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "The fact that he's running shows that he's got something to hide. Until we find out what that is, we can't risk letting him go."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Captain's log, stardate 51679.4. We've detected the warp signature from Kovin's ship and we're now in pursuit. In the meantime, Tuvok and I have been examining the tools from Kovin's lab.",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "JANEWAY",
+          "line": "This isn't getting us anywhere. Seven's cellular residue is on everyone of these, but that would be true if she simply handled them."
+        },
+        {
+          "character": "TUVOK",
+          "line": "My examination of the rifle is equally inconclusive. It may have overloaded accidentally, or not."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "I'm getting a bad feeling about this, Tuvok. We aren't finding anything that implicates Kovin."
+        },
+        {
+          "character": "TUVOK",
+          "line": "I told him our investigation would be impartial. I believe it has been."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "It has, but I'll admit I had some preconceptions about him. They may have influenced my judgment. The strongest evidence so far is the batch of nanoprobes the Doctor found. The fact that they were regenerated suggests that Kovin was experimenting with them."
+        },
+        {
+          "character": "TUVOK",
+          "line": "We don't know a great deal about the interaction between nanoprobes and Borg physiology. It might be worthwhile to simulate the effect of the rifle blast on Seven's arm and see what happens to the nanoprobes."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Good. Maybe that'll give us some answers."
+        }
+      ],
+      "location": "Medical lab"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "EMH",
+          "line": "Is this really necessary, Captain? She's suffered enough trauma already."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "We don't want to make accusations against an innocent man. We have to do everything we can to find some concrete evidence."
+        },
+        {
+          "character": "SEVEN",
+          "line": "He's not an innocent man. I know what he did to me."
+        },
+        {
+          "character": "TUVOK",
+          "line": "But we must have proof, and this experiment may provide us with it. We've configured this hypospray to simulate the energy of a thoron blast. We'll collect thin layers of your skin tissue and examine the effects. It won't be painful."
+        },
+        {
+          "character": "SEVEN",
+          "line": "I'm not afraid. I am angry."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "I know. Try to be patient. We may have some answers soon."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "All right, let's see what we've got."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "I think you'd better take a look."
+        },
+        {
+          "character": "SEVEN",
+          "line": "What do you see?"
+        },
+        {
+          "character": "EMH",
+          "line": "The nanoprobes are regenerating in exactly the same pattern we saw in Kovin's laboratory. It appears to be a spontaneous response which could have been caused by the energy released from the thoron weapon."
+        },
+        {
+          "character": "SEVEN",
+          "line": "It doesn't matter. Kovin is guilty."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Seven, there's no doubt in my mind that you believe what you're saying. But is it possible, just possible, that the memories you and the Doctor recovered aren't accurate?"
+        },
+        {
+          "character": "SEVEN",
+          "line": "How could that be?"
+        },
+        {
+          "character": "JANEWAY",
+          "line": "During your time with the Borg, you were subjected to invasive medical procedures. You undoubtedly witnessed other victims being assimilated. Could that be what you're remembering?"
+        },
+        {
+          "character": "SEVEN",
+          "line": "You know that's not right. Tell them."
+        },
+        {
+          "character": "EMH",
+          "line": "Everything led me to believe that you were a victim. Your extreme response to Kovin in Engineering, your irrational fear when I was examining you. Something prompted that behavior, and I believed it was a repressed memory of your ordeal with Kovin."
+        },
+        {
+          "character": "SEVEN",
+          "line": "That is what it was."
+        },
+        {
+          "character": "EMH",
+          "line": "But if I'm to be impartial, I have to acknowledge that your neurology is still something of a mystery to me. I can't be certain what triggered those memories, and we can't ignore the fact that this evidence supports Kovin's story, and not yours."
+        },
+        {
+          "character": "SEVEN",
+          "line": "You were the one who helped me to understand what happened and now you're denying it."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Seven, no one's abandoning you, but we have to do what's right. We have to find Kovin and tell him what we've learned."
+        },
+        {
+          "character": "SEVEN",
+          "line": "The Doctor told me I would feel better when Kovin gets what he deserves. I want him to be punished. I won't settle for anything less."
+        }
+      ],
+      "location": "Sickbay"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "JANEWAY",
+          "line": "Mister Paris?"
+        },
+        {
+          "character": "PARIS",
+          "line": "He's in range."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Visual. Hail him."
+        },
+        {
+          "character": "TUVOK",
+          "line": "No response. He's charging weapons."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Open a channel, all frequencies. Mister Kovin, this is Captain Janeway. We believe we've made a mistake in accusing you. We only want to correct the situation. Stand down your weapons."
+        },
+        {
+          "character": "TUVOK",
+          "line": "He's responding."
+        },
+        {
+          "character": "KOVIN",
+          "line": "Stop your pursuit. I can damage your ship.",
+          "modifier": "screen"
+        },
+        {
+          "character": "JANEWAY",
+          "line": "We're not here to take you by force."
+        },
+        {
+          "character": "KOVIN",
+          "line": "Then let me go.",
+          "modifier": "screen"
+        },
+        {
+          "character": "MAGISTRATE",
+          "line": "Kovin, listen to me. The proceedings must be resolved."
+        },
+        {
+          "character": "KOVIN",
+          "line": "This is a trap.",
+          "modifier": "screen"
+        },
+        {
+          "character": "JANEWAY",
+          "line": "No. We've diskovered information that supports your story."
+        },
+        {
+          "character": "KOVIN",
+          "line": "I don't believe you.",
+          "modifier": "screen"
+        },
+        {
+          "character": "EMH",
+          "line": "We've re-examined the evidence. Finding the nanoprobes led us to the wrong conclusion. We know now that your thoron rifle did overload. Please."
+        },
+        {
+          "character": "TUVOK",
+          "line": "He's firing a spread of photon pulses."
+        },
+        {
+          "character": "KIM",
+          "line": "Shields down to eighty two percent."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Back off. Give him some breathing room."
+        },
+        {
+          "character": "PARIS",
+          "line": "He's coming about, heading right for us."
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "Direct hit to the power grid."
+        },
+        {
+          "character": "MAGISTRATE",
+          "line": "Innocent or not, he's going to destroy your vessel."
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "Captain?"
+        },
+        {
+          "character": "JANEWAY",
+          "line": "He's come under enough fire from us already. Harry, try to beam him off his ship."
+        },
+        {
+          "character": "KIM",
+          "line": "He's thrown up a scattering field. I can't get a lock."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Keep trying."
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "Shields are down."
+        },
+        {
+          "character": "TUVOK",
+          "line": "He's shunting all power to his photonic emitters."
+        },
+        {
+          "character": "MAGISTRATE",
+          "line": "We must protect ourselves. Disable his ship."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "No! Evasive maneuvers. Hard to port, full thrusters"
+        },
+        {
+          "character": "PARIS",
+          "line": "Aye."
+        },
+        {
+          "character": "KIM",
+          "line": "I've almost got a lock on him. A few more seconds."
+        },
+        {
+          "character": "TUVOK",
+          "line": "He's charging weapons again. Captain, his emitters are overloading. All his systems are destabilizing."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Open a channel. Kovin, shut down your scattering field. Let us beam you aboard. Kovin!"
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "He's firing."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Harry?"
+        },
+        {
+          "character": "KIM",
+          "line": "I can't find anything to lock onto, Captain."
+        },
+        {
+          "character": "MAGISTRATE",
+          "line": "There's nothing more we could have done."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Stand down Red alert. Mister Paris, set a course back to the Entharan colony. Chief Medical Officer's log, stardate 51658.2. I've spent the past three days being cross-examined by the Entharan authorities, but the matter is finally resolved."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "SEVEN",
+          "line": "Doctor."
+        },
+        {
+          "character": "EMH",
+          "line": "Yes."
+        },
+        {
+          "character": "SEVEN",
+          "line": "I'm here for my weekly maintenance."
+        },
+        {
+          "character": "EMH",
+          "line": "Oh, of course. This way, please."
+        }
+      ],
+      "location": "Doctor's office"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "EMH",
+          "line": "Metabolic rate is stable. Electro-optic implant is aligned. Your blood pressure is slightly off, but within tolerance. You're in perfect health. See you next week."
+        },
+        {
+          "character": "SEVEN",
+          "line": "I do not feel perfect."
+        },
+        {
+          "character": "EMH",
+          "line": "What do you mean?"
+        },
+        {
+          "character": "SEVEN",
+          "line": "I am preoccupied by Kovin's death."
+        },
+        {
+          "character": "EMH",
+          "line": "Join the club. It's all I can think about."
+        },
+        {
+          "character": "SEVEN",
+          "line": "As a Borg, I was responsible for the destruction of countless millions and I felt nothing. But now, I regret the destruction of this single being."
+        },
+        {
+          "character": "EMH",
+          "line": "It's called remorse, Seven. It comes into play when you make a mistake, and you feel guilt about what you've done. Another new emotion for you to experience."
+        },
+        {
+          "character": "SEVEN",
+          "line": "I do not enjoy this remorse any more than I enjoyed anger. Will the feeling subside?"
+        },
+        {
+          "character": "EMH",
+          "line": "Yes. But not quickly."
+        },
+        {
+          "character": "SEVEN",
+          "line": "I would rather not have to wait."
+        },
+        {
+          "character": "EMH",
+          "line": "I'm afraid you don't have much choice."
+        },
+        {
+          "character": "EMH",
+          "line": "But maybe I do."
+        }
+      ],
+      "location": "Sickbay"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "EMH",
+          "line": "I've isolated the algorithms responsible for my desire to expand beyond my original programming. I want to delete them."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Why?"
+        },
+        {
+          "character": "EMH",
+          "line": "It was my urge to experiment, my infatuation with improving myself, that led to this tragedy. I fancied myself a psychologist, a ship's counselor. But I wasn't prepared for the complexities that come with such a responsibility. In my enthusiasm to help Seven of Nine, I lost my medical objectivity. I became a self-righteous advocate. I didn't stop to think for one second that I might be wrong. That mustn't happen again."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "You want to go back to the state you were in when we first activated you?"
+        },
+        {
+          "character": "EMH",
+          "line": "I'll still be capable of treating any and all medical conditions, but without the risk of overstepping my bounds. It's for the best, Captain."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Oh, I'm not so sure. This crew has benefited greatly from your improvements over the years. Request denied."
+        },
+        {
+          "character": "EMH",
+          "line": "Captain."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "I won't turn back the clock because of one mistake, no matter how serious. And no matter how you might feel."
+        },
+        {
+          "character": "EMH",
+          "line": "I'm a physician. I'm supposed to preserve life, not destroy it. I can't live with the thought that I might do it again."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "With any luck, that knowledge will prevent it from happening again. We all rallied around Seven, Doctor, myself included. I wanted her to know she was part of this family, that we would support her, fight for her, no matter what. We let our good intentions blind us. We all bear responsibility for Kovin's death, and we all have to live with it. But to delete that burden would be the last thing any of us should do."
+        }
+      ],
+      "location": "Ready room"
+    }
+  ],
+  "schedule": {
+    "episode": 17,
+    "number": 85,
+    "season": 4
+  },
+  "stardate": "51679.4",
+  "title": "Retrospect"
+}

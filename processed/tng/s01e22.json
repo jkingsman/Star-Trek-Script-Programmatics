@@ -1,0 +1,1930 @@
+{
+  "airdate": 577944000,
+  "scenes": [
+    {
+      "dialogue": [
+        {
+          "character": "PICARD",
+          "line": "Captain's log, stardate 41601.3. We are crossing through the Zed Lapis sector, where we will rendezvous with shuttlecraft thirteen, carrying Deanna Troi, who is returning from a conference. Because Engineering is involved in preventive maintenance on our dilithium crystals, we are presently traveling on impulse power.",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "unknown"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "WORF",
+          "line": "Routine deep sensor probe indicates no obstacles or vessels within a range of three light years."
+        },
+        {
+          "character": "TASHA",
+          "line": "Confirm."
+        },
+        {
+          "character": "WORF",
+          "line": "The martial arts competition is in three days. Are you prepared?"
+        },
+        {
+          "character": "TASHA",
+          "line": "I will be if you'll meet me on the holodeck later. I need your help on the Mishiama wrist-lock and break. If it works on you, I can use it on anyone."
+        },
+        {
+          "character": "WORF",
+          "line": "A valid assumption. Who is your first competitor?"
+        },
+        {
+          "character": "TASHA",
+          "line": "Science Officer Swenson."
+        },
+        {
+          "character": "WORF",
+          "line": "You will defeat him easily."
+        },
+        {
+          "character": "TASHA",
+          "line": "I'm more concerned with Lieutenant Minnerly's kick boxing."
+        },
+        {
+          "character": "WORF",
+          "line": "You are favored in the ship's pool."
+        },
+        {
+          "character": "TASHA",
+          "line": "You bet on me?"
+        },
+        {
+          "character": "WORF",
+          "line": "A sure thing."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Captain, estimated rendezvous with the shuttle in one hour and ten minutes."
+        },
+        {
+          "character": "PICARD",
+          "line": "Thank you, Lieutenant."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Aye, sir."
+        },
+        {
+          "character": "PICARD",
+          "line": "It'll be good to have Counselor Troi back, won't it, Number One?"
+        },
+        {
+          "character": "RIKER",
+          "line": "It certainly will."
+        },
+        {
+          "character": "WORF",
+          "line": "Sir, I'm receiving an emergency transmission from the shuttle."
+        },
+        {
+          "character": "PICARD",
+          "line": "On main viewer."
+        },
+        {
+          "character": "TASHA",
+          "line": "I can't, sir. We're receiving audio only."
+        },
+        {
+          "character": "PICARD",
+          "line": "Open the frequency."
+        },
+        {
+          "character": "TASHA",
+          "line": "Aye, sir."
+        },
+        {
+          "character": "PRIETO",
+          "line": "What a jolt!",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "RIKER",
+          "line": "Position report."
+        },
+        {
+          "character": "PRIETO",
+          "line": "Sir, I have an onboard systems failure. You'll have to tell me where I am.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "LAFORGE",
+          "line": "I read your coordinates at three seven zero point two three six. Confirm."
+        },
+        {
+          "character": "PRIETO",
+          "line": "I can't confirm. My instruments are haywire.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "PICARD",
+          "line": "Lieutenant Prieto, is Counselor Troi all right?"
+        },
+        {
+          "character": "PRIETO",
+          "line": "Yes, sir. Just a little shaken. We're being buffeted a bit. Losing more power! My flight control computer's fried.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "PICARD",
+          "line": "Main Engineering."
+        },
+        {
+          "character": "LYNCH",
+          "line": "Lieutenant Commander Leland T. Lynch here, sir.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "PICARD",
+          "line": "How long before we can return to warp power?"
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "LYNCH",
+          "line": "Captain, I'm in the middle of realigning the dilithium crystals."
+        },
+        {
+          "character": "PICARD",
+          "line": "There is an emergency. We need warp drive. How long?",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "LYNCH",
+          "line": "Twenty minutes. Maybe more."
+        }
+      ],
+      "location": "Engineering"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "PICARD",
+          "line": "We don't have it, Mister Lynch."
+        },
+        {
+          "character": "LYNCH",
+          "line": "I'll align it by hand.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "PICARD",
+          "line": "Whatever it takes."
+        },
+        {
+          "character": "LYNCH",
+          "line": "Aye, sir.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Shuttle, this is the Enterprise. Your coordinates now read two three seven point one zero one. Ben, you're dangerously close to a planet."
+        },
+        {
+          "character": "PRIETO",
+          "line": "I can see it.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "DATA",
+          "line": "The planet is Vagra Two, sir, in the Zed Lapis sector. Uninhabited."
+        },
+        {
+          "character": "PICARD",
+          "line": "Lieutenant, report!"
+        },
+        {
+          "character": "TROI",
+          "line": "This is Counselor Troi. I'll relay, sir. The pilot is busy. We've lost most of our impulse power.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "PICARD",
+          "line": "Engineering, status report."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "LYNCH",
+          "line": "Working on it, Captain. Three minutes."
+        }
+      ],
+      "location": "Engineering"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "LYNCH",
+          "line": "But there are no guarantees.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "PRIETO",
+          "line": "Captain, we're out of control. We're caught in the planet's gravity.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "PICARD",
+          "line": "Captain's log, supplemental. We've lost all contact with shuttlecraft thirteen, and can only assume they've crash-landed on Vagra Two. Meanwhile, main Engineering is trying to return us to warp power.",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "LYNCH",
+          "line": "Forget the final check. Initiate start-up sequence."
+        },
+        {
+          "character": "COMPUTER",
+          "line": "Beginning check list."
+        },
+        {
+          "character": "LYNCH",
+          "line": "Override. We are going directly to start-up."
+        },
+        {
+          "character": "COMPUTER",
+          "line": "That procedure is not recommended."
+        },
+        {
+          "character": "LYNCH",
+          "line": "Understood. Now. Prime matter-antimatter injectors. Set ratio at twenty-five to one"
+        },
+        {
+          "character": "COMPUTER",
+          "line": "Ratio set."
+        },
+        {
+          "character": "LYNCH",
+          "line": "Power engine core. Inject reactants."
+        }
+      ],
+      "location": "Engineering"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "LYNCH",
+          "line": "Leland T. Lynch here, Captain. We now have minimum warp drive.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Course plotted and set for Vagra Two."
+        },
+        {
+          "character": "PICARD",
+          "line": "Warp eight."
+        },
+        {
+          "character": "LYNCH",
+          "line": "I said minimum warp drive, Captain.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "PICARD",
+          "line": "You heard the order, Mister Lynch. Make it so."
+        },
+        {
+          "character": "LYNCH",
+          "line": "Yes, sir.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Approaching Vagra Two, Captain."
+        },
+        {
+          "character": "DATA",
+          "line": "Strange, sir. There's no emergency signal from the shuttle as yet."
+        },
+        {
+          "character": "PICARD",
+          "line": "What is this place, Mister Data?"
+        },
+        {
+          "character": "DATA",
+          "line": "There is little information in the library computer other than the fact of its existence. Our sensor show no signs of life forms, virtually no vegetation."
+        },
+        {
+          "character": "RIKER",
+          "line": "Atmosphere?"
+        },
+        {
+          "character": "DATA",
+          "line": "Minimum for our needs, sir."
+        },
+        {
+          "character": "PICARD",
+          "line": "Standard orbit."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Aye, sir. Standard orbit."
+        },
+        {
+          "character": "WORF",
+          "line": "I've located the shuttle."
+        },
+        {
+          "character": "PICARD",
+          "line": "Life signs?"
+        },
+        {
+          "character": "WORF",
+          "line": "Not yet, sir. Still probing. It appears to be buried under a lot of debris. I may have something, sir. Faint life signs. Very faint."
+        },
+        {
+          "character": "RIKER",
+          "line": "How many?"
+        },
+        {
+          "character": "WORF",
+          "line": "There's no way of telling from here."
+        },
+        {
+          "character": "PICARD",
+          "line": "Data, can we beam up the injured?"
+        },
+        {
+          "character": "DATA",
+          "line": "No, sir. Our sensors are not fully penetrating whatever the debris is."
+        },
+        {
+          "character": "PICARD",
+          "line": "That's very unusual."
+        },
+        {
+          "character": "DATA",
+          "line": "Yes, sir. I cannot explain."
+        },
+        {
+          "character": "PICARD",
+          "line": "Number One, prepare your away team."
+        },
+        {
+          "character": "RIKER",
+          "line": "Right away. Data, Yar."
+        },
+        {
+          "character": "PICARD",
+          "line": "Doctor Crusher, have you been monitoring all this?"
+        },
+        {
+          "character": "CRUSHER",
+          "line": "Yes. I'll meet the away team in transporter room four.",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "CRUSHER",
+          "line": "Let's go. The life signs are weak."
+        },
+        {
+          "character": "RIKER",
+          "line": "What is this?"
+        },
+        {
+          "character": "TASHA",
+          "line": "No idea. We'll go around, just to be on the safe side."
+        },
+        {
+          "character": "TASHA",
+          "line": "Let's try the other way."
+        },
+        {
+          "character": "RIKER",
+          "line": "Enterprise, this is Riker. We've got a problem."
+        }
+      ],
+      "location": "Planet surface"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "PICARD",
+          "line": "What kind of problem, Number One?"
+        },
+        {
+          "character": "RIKER",
+          "line": "I'm not sure yet. There appears to be some kind of a slick blocking our path. Will keep you apprised.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "PICARD",
+          "line": "Maintain an open frequency."
+        },
+        {
+          "character": "RIKER",
+          "line": "Aye, sir."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "RIKER",
+          "line": "Analysis, Mister Data."
+        },
+        {
+          "character": "DATA",
+          "line": "Inconclusive, sir. I cannot tell you what it is, but I can tell you what it is not."
+        },
+        {
+          "character": "RIKER",
+          "line": "Explain."
+        },
+        {
+          "character": "DATA",
+          "line": "There is no evidence of neural or circulatory systems. No internal organs. Cellular structure unknown. It does not have any proteins which are known to us."
+        },
+        {
+          "character": "CRUSHER",
+          "line": "It's narrower over here. We can get over it."
+        },
+        {
+          "character": "RIKER",
+          "line": "How is it moving, Data?"
+        },
+        {
+          "character": "DATA",
+          "line": "I do not know, sir. It does not appear to have a skeletal framework or musculature."
+        },
+        {
+          "character": "RIKER",
+          "line": "Then what's causing it to move?"
+        },
+        {
+          "character": "DATA",
+          "line": "It appears to be following us, sir."
+        },
+        {
+          "character": "RIKER",
+          "line": "No sign of intelligence, no brain as we know it, yet evidence of thought, Mister Data?"
+        },
+        {
+          "character": "DATA",
+          "line": "Insufficient information, sir."
+        }
+      ],
+      "location": "Planet surface"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "PICARD",
+          "line": "Is it a life form, Data?"
+        },
+        {
+          "character": "DATA",
+          "line": "Again, insufficient information, sir.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "PICARD",
+          "line": "Theorize."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "DATA",
+          "line": "It is possible."
+        },
+        {
+          "character": "ARMUS",
+          "line": "Very good, tin man."
+        }
+      ],
+      "location": "Planet surface"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "PICARD",
+          "line": "What is it, Number One? What are you seeing?"
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "RIKER",
+          "line": "Trouble."
+        },
+        {
+          "character": "PICARD",
+          "line": "Captain's log, supplemental. While on a mission to rescue survivors from an unexplained shuttle crash, the away team has encountered a strange creature which seems able to assume different forms, including one which resembles humanoid.",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "Planet surface"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "PICARD",
+          "line": "Easy, Number One. Let's find out what it is we're dealing with."
+        },
+        {
+          "character": "RIKER",
+          "line": "Agreed, Captain.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "PICARD",
+          "line": "Number One, I don't believe that the location of the crash and the proximity of the creature is a coincidence."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "RIKER",
+          "line": "I am Commander William Riker of the USS Enterprise."
+        },
+        {
+          "character": "ARMUS",
+          "line": "I am Armus. Why are you here?"
+        },
+        {
+          "character": "RIKER",
+          "line": "We mean you no harm. We have injured crewmen in the shuttlecraft. We need to get to them. May we pass?"
+        },
+        {
+          "character": "ARMUS",
+          "line": "You haven't given me a good enough reason."
+        },
+        {
+          "character": "RIKER",
+          "line": "Preserving life, all life, is very important to us."
+        },
+        {
+          "character": "ARMUS",
+          "line": "Why?"
+        },
+        {
+          "character": "RIKER",
+          "line": "We believe everything in the universe has a right to exist."
+        },
+        {
+          "character": "ARMUS",
+          "line": "An interesting notion which I do not share. You may now leave, if you wish."
+        },
+        {
+          "character": "TASHA",
+          "line": "We're not going without our shuttle crew."
+        },
+        {
+          "character": "ARMUS",
+          "line": "I warn you."
+        },
+        {
+          "character": "TASHA",
+          "line": "Enough! We have people who need attention. We won't hurt you, but we must help them."
+        },
+        {
+          "character": "PICARD",
+          "line": "Number One!",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "RIKER",
+          "line": "The creature attacked us. Lieutenant Yar is down."
+        },
+        {
+          "character": "DATA",
+          "line": "It seems to feed on our phaser energy."
+        },
+        {
+          "character": "RIKER",
+          "line": "We had no effect on it."
+        },
+        {
+          "character": "PICARD",
+          "line": "What's Lieutenant Yar's condition? Doctor Crusher, report!"
+        },
+        {
+          "character": "CRUSHER",
+          "line": "She's dead."
+        }
+      ],
+      "location": "Planet surface"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "PICARD",
+          "line": "Transporter room, get them up, now."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "CRUSHER",
+          "line": "I need her in Sickbay now."
+        }
+      ],
+      "location": "Transporter Room"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "PICARD",
+          "line": "Go to Yellow Alert, Lieutenant Worf. I'll be in Sickbay."
+        },
+        {
+          "character": "WORF",
+          "line": "Aye, sir."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "PICARD",
+          "line": "Status, Doctor?"
+        },
+        {
+          "character": "CRUSHER",
+          "line": "Unchanged."
+        },
+        {
+          "character": "PICARD",
+          "line": "Can you bring her back?"
+        },
+        {
+          "character": "CRUSHER",
+          "line": "We'll see. Neural stimulator."
+        },
+        {
+          "character": "NURSE",
+          "line": "Neural stimulator locked in."
+        },
+        {
+          "character": "CRUSHER",
+          "line": "Interlock current feeds. Set sensitivity factor to four point four."
+        },
+        {
+          "character": "NURSE",
+          "line": "Affirmative."
+        },
+        {
+          "character": "NURSE 2",
+          "line": "Monitoring two point three, one point eight."
+        },
+        {
+          "character": "RIKER",
+          "line": "You did it."
+        },
+        {
+          "character": "CRUSHER",
+          "line": "No. I've got her on full support. There is no independent brain function."
+        },
+        {
+          "character": "NURSE 2",
+          "line": "Current feeds operating."
+        },
+        {
+          "character": "NURSE",
+          "line": "She's not responding, Doctor. Her synaptic network is breaking down."
+        },
+        {
+          "character": "CRUSHER",
+          "line": "Inject norep."
+        },
+        {
+          "character": "NURSE",
+          "line": "Neurons are beginning to depolarize."
+        },
+        {
+          "character": "CRUSHER",
+          "line": "Let's go for direct reticular stimulation."
+        },
+        {
+          "character": "NURSE",
+          "line": "Direct?"
+        },
+        {
+          "character": "CRUSHER",
+          "line": "Do it! Increase to seventy microvolts."
+        },
+        {
+          "character": "CRUSHER",
+          "line": "Eighty five microvolts. Again. Ninety. Again. Again. She's gone."
+        },
+        {
+          "character": "PICARD",
+          "line": "Gone?"
+        },
+        {
+          "character": "CRUSHER",
+          "line": "There was too much synaptic damage. That thing just sucked the life right out of her. There's nothing I can do."
+        }
+      ],
+      "location": "Sickbay"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "ARMUS",
+          "line": "Your friends have deserted you. They're not coming back.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "TROI",
+          "line": "You're wrong."
+        },
+        {
+          "character": "ARMUS",
+          "line": "I killed one of them.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "TROI",
+          "line": "Yes. I know."
+        },
+        {
+          "character": "ARMUS",
+          "line": "How could you be in there and know that?",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "TROI",
+          "line": "I felt her die."
+        },
+        {
+          "character": "ARMUS",
+          "line": "Do you want to know why I killed her?",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "TROI",
+          "line": "Your answer would be meaningless. That act had no reason."
+        },
+        {
+          "character": "ARMUS",
+          "line": "Exactly. It had no meaning. I did it because I wanted to. It amused me.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "TROI",
+          "line": "No. You thought it would amuse you, but it didn't. You felt no satisfaction."
+        },
+        {
+          "character": "ARMUS",
+          "line": "No. It was too easy.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "TROI",
+          "line": "You wanted her to suffer. You have a great need."
+        },
+        {
+          "character": "ARMUS",
+          "line": "I need nothing.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "TROI",
+          "line": "Liar. End this. Let us go."
+        },
+        {
+          "character": "ARMUS",
+          "line": "Not yet.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "TROI",
+          "line": "They won't give you what you want."
+        },
+        {
+          "character": "ARMUS",
+          "line": "And what is that?",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "TROI",
+          "line": "To break their spirit."
+        },
+        {
+          "character": "ARMUS",
+          "line": "Oh, is that what I want? If breaking their spirit will amuse me, then that's what I will have.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "TROI",
+          "line": "Never."
+        }
+      ],
+      "location": "Shuttlecraft"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "CRUSHER",
+          "line": "She didn't do anything. Her phaser was lowered."
+        },
+        {
+          "character": "DATA",
+          "line": "She only wanted to get to Troi and Lieutenant Prieto."
+        },
+        {
+          "character": "RIKER",
+          "line": "There was nothing provocative about what she did."
+        },
+        {
+          "character": "CRUSHER",
+          "line": "She was killed in a brutal, senseless act."
+        },
+        {
+          "character": "PICARD",
+          "line": "Lieutenant Yar's death is very painful for all of us. We will have to deal with it as best we can for now. Until the shuttle crew is safely beamed aboard this ship, our feelings will have to wait. Is that understood? Lieutenant Worf, you are now Acting Chief of Security."
+        },
+        {
+          "character": "WORF",
+          "line": "I will do my best, sir."
+        },
+        {
+          "character": "PICARD",
+          "line": "Doctor, what is the state of the shuttle crew?"
+        },
+        {
+          "character": "CRUSHER",
+          "line": "We're still receiving faint life signs, but the sensor readings are fluctuating. They may not be accurate."
+        },
+        {
+          "character": "DATA",
+          "line": "Armus is capable of creating undefined forcefields. In effect, we are powerless to communicate or use the transporter unless it allows it."
+        },
+        {
+          "character": "PICARD",
+          "line": "A creature against whom we seem to have no defense. Number One?"
+        },
+        {
+          "character": "RIKER",
+          "line": "It's down on that planet waiting for us to come back. It killed Tasha and it could have killed us, but it didn't. Deanna and Ben are alive for a reason, and it knows we're not going anywhere as long as they're still alive."
+        },
+        {
+          "character": "PICARD",
+          "line": "Are you saying it's attack on Yar was not arbitrary but part of some tactic?"
+        },
+        {
+          "character": "RIKER",
+          "line": "The only way to find out is to go back down."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Commander, I may be able to see something in the creature which might be helpful."
+        },
+        {
+          "character": "PICARD",
+          "line": "Agreed. Prepare your away team, Number One."
+        },
+        {
+          "character": "RIKER",
+          "line": "Lieutenant Worf?"
+        },
+        {
+          "character": "WORF",
+          "line": "I will remain on the ship. The object here is not to engage the creature in battle. The goal is the safe return of Counselor Troi and Lieutenant Prieto. I can best accomplish this at the Tactical Station."
+        },
+        {
+          "character": "PICARD",
+          "line": "Very good. Number One?"
+        }
+      ],
+      "location": "Observation lounge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "RIKER",
+          "line": "Enterprise."
+        },
+        {
+          "character": "PICARD",
+          "line": "Number One.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "RIKER",
+          "line": "We're approaching the shuttlecraft. The creature is covering it."
+        }
+      ],
+      "location": "Planet surface"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "ARMUS",
+          "line": "I lied to you. They came back.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "TROI",
+          "line": "Let me talk with them."
+        },
+        {
+          "character": "ARMUS",
+          "line": "No.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "TROI",
+          "line": "Why? Does the thought of my having contact with them make you uneasy?"
+        },
+        {
+          "character": "ARMUS",
+          "line": "No. Not being able to contact you, not knowing if you are alive, makes them uneasy. Can't you feel how worried they are?",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "TROI",
+          "line": "Yes. Yes, they are worried."
+        },
+        {
+          "character": "ARMUS",
+          "line": "They care for you. You must be very special.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "TROI",
+          "line": "We are members of a community. We all care for one another."
+        },
+        {
+          "character": "ARMUS",
+          "line": "Equally?",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "TROI",
+          "line": "You were really surprised they came back."
+        },
+        {
+          "character": "ARMUS",
+          "line": "Yes.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "TROI",
+          "line": "Why? Because the others did not?"
+        },
+        {
+          "character": "ARMUS",
+          "line": "What others?",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "TROI",
+          "line": "You can't hide the emptiness from me. The others. The ones who hurt you. Who left you alone, rejected. The ones who make you so angry."
+        },
+        {
+          "character": "ARMUS",
+          "line": "What do you know of them?",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "TROI",
+          "line": "Only what you tell me."
+        },
+        {
+          "character": "ARMUS",
+          "line": "I will tell you nothing.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "TROI",
+          "line": "Not now. But soon."
+        }
+      ],
+      "location": "Shuttlecraft"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "WORF",
+          "line": "Captain, look at this. The force of the energy field around the shuttlecraft decreased for a few moments when the creature was draped over it."
+        },
+        {
+          "character": "PICARD",
+          "line": "But not low enough to beam them out."
+        },
+        {
+          "character": "WORF",
+          "line": "Almost."
+        },
+        {
+          "character": "WESLEY",
+          "line": "It's approaching the away team now, and the energy field over the shuttlecraft is back to full intensity."
+        },
+        {
+          "character": "PICARD",
+          "line": "Chart it. I want to see if there's a pattern."
+        },
+        {
+          "character": "WORF",
+          "line": "Aye, sir."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "ARMUS",
+          "line": "She said you'd be back."
+        },
+        {
+          "character": "RIKER",
+          "line": "Then she is alive."
+        },
+        {
+          "character": "ARMUS",
+          "line": "For now. Why have you returned?"
+        },
+        {
+          "character": "RIKER",
+          "line": "We have no choice. We're here to negotiate for our team. What do you want?"
+        },
+        {
+          "character": "ARMUS",
+          "line": "Maybe I want nothing."
+        },
+        {
+          "character": "RIKER",
+          "line": "Then you would have killed all of us."
+        },
+        {
+          "character": "ARMUS",
+          "line": "I still might."
+        },
+        {
+          "character": "RIKER",
+          "line": "What do you want? Tell me. Maybe we can reach an accommodation."
+        },
+        {
+          "character": "ARMUS",
+          "line": "If I tell you, will you give it to me?"
+        },
+        {
+          "character": "RIKER",
+          "line": "I might. It depends."
+        },
+        {
+          "character": "CRUSHER",
+          "line": "I am a doctor. I need to treat our injured friends."
+        },
+        {
+          "character": "ARMUS",
+          "line": "Say please."
+        },
+        {
+          "character": "CRUSHER",
+          "line": "Please."
+        },
+        {
+          "character": "ARMUS",
+          "line": "You ask nicely. I will allow it. Wait! I've changed my mind. Talk to her from here."
+        },
+        {
+          "character": "CRUSHER",
+          "line": "How? Troi, can you hear me?"
+        }
+      ],
+      "location": "Planet surface"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "BEVERLY",
+          "line": "Deanna, are you all right?",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "TROI",
+          "line": "Beverly?"
+        }
+      ],
+      "location": "Shuttlecraft"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TROI",
+          "line": "I can hear you.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "CRUSHER",
+          "line": "Are you all right?"
+        }
+      ],
+      "location": "Planet surface"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TROI",
+          "line": "Yes."
+        }
+      ],
+      "location": "Shuttlecraft"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "CRUSHER",
+          "line": "We've encountered some difficulty."
+        }
+      ],
+      "location": "Planet surface"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TROI",
+          "line": "I know."
+        }
+      ],
+      "location": "Shuttlecraft"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "RIKER",
+          "line": "She needs our help."
+        },
+        {
+          "character": "ARMUS",
+          "line": "So what."
+        },
+        {
+          "character": "CRUSHER",
+          "line": "Our friends are suffering only a few meters away, yet you block our path. Why?"
+        },
+        {
+          "character": "ARMUS",
+          "line": "You are all ungrateful."
+        },
+        {
+          "character": "CRUSHER",
+          "line": "What is he made of?"
+        },
+        {
+          "character": "DATA",
+          "line": "It did not register on the tricorder."
+        },
+        {
+          "character": "ARMUS",
+          "line": "It? Does that mean I am not alive?"
+        },
+        {
+          "character": "DATA",
+          "line": "No. Clearly you are some kind of intelligent form."
+        },
+        {
+          "character": "ARMUS",
+          "line": "But you said I did not register on your instrument. Perhaps your instruments are useless."
+        },
+        {
+          "character": "ARMUS",
+          "line": "Don't help him."
+        },
+        {
+          "character": "RIKER",
+          "line": "Data."
+        },
+        {
+          "character": "DATA",
+          "line": "Half meter to the right, Geordi."
+        },
+        {
+          "character": "ARMUS",
+          "line": "Aren't you going to lead him to his sight again, robot?"
+        },
+        {
+          "character": "DATA",
+          "line": "No. You will just move it again, and I will not help you hurt him."
+        },
+        {
+          "character": "ARMUS",
+          "line": "Then give it to him. I will find something else to amuse me."
+        }
+      ],
+      "location": "Planet surface"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "ARMUS",
+          "line": "You said they wouldn't amuse me. You were right.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "TROI",
+          "line": "And the emptiness remains. You sound so alone."
+        },
+        {
+          "character": "ARMUS",
+          "line": "I am alone.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "TROI",
+          "line": "Abandoned. Who deserted you?"
+        },
+        {
+          "character": "ARMUS",
+          "line": "Creatures whose beauty now dazzles all who see them. They would not exist without me.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "TROI",
+          "line": "You were together?"
+        },
+        {
+          "character": "ARMUS",
+          "line": "They perfected a means of bringing to the surface all that was evil and negative within. Erupting, spreading, connecting. In time it formed second skin, dank and vile.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "TROI",
+          "line": "You."
+        },
+        {
+          "character": "ARMUS",
+          "line": "Yes.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "TROI",
+          "line": "They diskarded you and left."
+        },
+        {
+          "character": "ARMUS",
+          "line": "And here I am.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "TROI",
+          "line": "You have my pity."
+        },
+        {
+          "character": "ARMUS",
+          "line": "Your pity? Save that for yourself.",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "Shuttlecraft"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "RIKER",
+          "line": "Help! Data, something's got me!"
+        },
+        {
+          "character": "ARMUS",
+          "line": "Touch him and he dies."
+        },
+        {
+          "character": "RIKER",
+          "line": "No! No, don't!"
+        },
+        {
+          "character": "DATA",
+          "line": "Enterprise?"
+        }
+      ],
+      "location": "Planet surface"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "DATA",
+          "line": "Armus has enveloped Commander Riker.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "PICARD",
+          "line": "I'm beaming you up."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "ARMUS",
+          "line": "If any of you leave now, he dies."
+        }
+      ],
+      "location": "Planet surface"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "ARMUS",
+          "line": "And so do the survivors of the crash.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "PICARD",
+          "line": "Captain's log, supplemental. There is grave danger to the crew on Vagra Two. My first officer is missing, attacked by this entity known as Armus.",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "WORF",
+          "line": "Captain, perhaps you should look at this. We have the chart of the energy field surrounding the shuttle."
+        },
+        {
+          "character": "PICARD",
+          "line": "There are a great deal of fluctuations."
+        },
+        {
+          "character": "WORF",
+          "line": "Yes, but there is a pattern. Here is when it killed Lieutenant Yar, and here is when it absorbed Commander Riker."
+        },
+        {
+          "character": "PICARD",
+          "line": "And here, here, where the energy is lowest?"
+        },
+        {
+          "character": "WORF",
+          "line": "Both times it had enveloped the shuttle."
+        },
+        {
+          "character": "PICARD",
+          "line": "It has something to do with Counselor Troi. Somehow when it's dealing with her, the energy field is affected. I want to talk to her. I'm going to beam down. Lieutenant Worf, you have the conn."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TROI",
+          "line": "Imzadi! No! Please, stop hurting him!"
+        },
+        {
+          "character": "ARMUS",
+          "line": "He resists. If he would give himself over, the pain would diminish. He struggles. You should feel his strength.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "TROI",
+          "line": "I can."
+        },
+        {
+          "character": "ARMUS",
+          "line": "Should I let him go?",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "TROI",
+          "line": "You only ask to torment me."
+        },
+        {
+          "character": "ARMUS",
+          "line": "Perhaps.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "TROI",
+          "line": "How should I answer? What can I offer except myself?"
+        },
+        {
+          "character": "ARMUS",
+          "line": "And would you give yourself for him? Would you give that much?",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "TROI",
+          "line": "Yes. Without hesitation."
+        },
+        {
+          "character": "ARMUS",
+          "line": "Just for him?",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "TROI",
+          "line": "No, not just for him. I would do the same for any of the others. Armus, you have me. Let them go."
+        },
+        {
+          "character": "ARMUS",
+          "line": "Perhaps. Ah, another has arrived.",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "Shuttlecraft"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "ARMUS",
+          "line": "You are the one in charge?"
+        },
+        {
+          "character": "PICARD",
+          "line": "Is Commander Riker alive?"
+        },
+        {
+          "character": "ARMUS",
+          "line": "Answer, Tin Man."
+        },
+        {
+          "character": "DATA",
+          "line": "I would guess that death is no longer sufficient entertainment to alleviate its boredom. Therefore, Commander Riker is alive."
+        },
+        {
+          "character": "ARMUS",
+          "line": "Maybe. Don't you want to ask me what I want?"
+        },
+        {
+          "character": "PICARD",
+          "line": "No."
+        },
+        {
+          "character": "ARMUS",
+          "line": "Not even to protect your own existence?"
+        },
+        {
+          "character": "PICARD",
+          "line": "I want to see my people in the shuttle."
+        },
+        {
+          "character": "ARMUS",
+          "line": "Entertain me. Then I will do it myself. You, Tin Man."
+        },
+        {
+          "character": "ARMUS",
+          "line": "Now tell me, how would you feel if you were the instrument of death for your leader?"
+        },
+        {
+          "character": "PICARD",
+          "line": "Don't struggle, Data."
+        },
+        {
+          "character": "DATA",
+          "line": "I have no control over what you do with the phaser. Therefore, I would not be the instrument of his death."
+        },
+        {
+          "character": "ARMUS",
+          "line": "Perhaps killing the Doctor would engender more feeling?"
+        },
+        {
+          "character": "DATA",
+          "line": "No, the control is still yours."
+        },
+        {
+          "character": "ARMUS",
+          "line": "And what about you, Doctor? Are you ready to die? Tell me you are not afraid."
+        },
+        {
+          "character": "CRUSHER",
+          "line": "I am afraid."
+        },
+        {
+          "character": "ARMUS",
+          "line": "Beg me to spare you."
+        },
+        {
+          "character": "CRUSHER",
+          "line": "No."
+        },
+        {
+          "character": "ARMUS",
+          "line": "One of you is going to die, and you, Doctor, get to choose. You don't like that, do you?"
+        },
+        {
+          "character": "CRUSHER",
+          "line": "Then I choose myself."
+        },
+        {
+          "character": "ARMUS",
+          "line": "No. You are going to live. One of them dies."
+        },
+        {
+          "character": "ARMUS",
+          "line": "Maybe this one. Though I would not call it death, since he is only a device. Tell me, Tin Man, how does it feel to face your own extinction."
+        },
+        {
+          "character": "DATA",
+          "line": "Curious. You are capable of great sadism and cruelty. Interesting. No redeeming qualities."
+        },
+        {
+          "character": "ARMUS",
+          "line": "So what do you think?"
+        },
+        {
+          "character": "DATA",
+          "line": "I think you should be destroyed."
+        },
+        {
+          "character": "ARMUS",
+          "line": "A moral judgment from a machine."
+        },
+        {
+          "character": "PICARD",
+          "line": "Data. Armus, we're finished dealing with you."
+        },
+        {
+          "character": "ARMUS",
+          "line": "I have your man in here, and the others in the shuttle."
+        },
+        {
+          "character": "PICARD",
+          "line": "It doesn't matter. We will no longer be a source of amusement."
+        },
+        {
+          "character": "ARMUS",
+          "line": "I can kill them."
+        },
+        {
+          "character": "PICARD",
+          "line": "Yes. You can. But only I can command them. They follow my orders."
+        },
+        {
+          "character": "ARMUS",
+          "line": "Have them amuse me."
+        },
+        {
+          "character": "PICARD",
+          "line": "Only if you let me see my people on the shuttle first. I must see them."
+        },
+        {
+          "character": "ARMUS",
+          "line": "Not possible."
+        },
+        {
+          "character": "PICARD",
+          "line": "Then our business with you is concluded."
+        },
+        {
+          "character": "ARMUS",
+          "line": "And you claim you care about your comrades."
+        },
+        {
+          "character": "PICARD",
+          "line": "I care. Which is why I must see them."
+        },
+        {
+          "character": "ARMUS",
+          "line": "You want to see your people? Then, here. Look at this one."
+        },
+        {
+          "character": "CRUSHER",
+          "line": "He's alive. Don't move."
+        },
+        {
+          "character": "PICARD",
+          "line": "Is he all right?"
+        },
+        {
+          "character": "CRUSHER",
+          "line": "All signs show normal."
+        },
+        {
+          "character": "RIKER",
+          "line": "So much frustration. It had to get rid of me."
+        },
+        {
+          "character": "PICARD",
+          "line": "Now, let me see the others."
+        },
+        {
+          "character": "ARMUS",
+          "line": "No."
+        },
+        {
+          "character": "PICARD",
+          "line": "I will not allow my people to entertain you until you do."
+        },
+        {
+          "character": "ARMUS",
+          "line": "They are incapable of entertaining me."
+        },
+        {
+          "character": "PICARD",
+          "line": "I want the four of you out of here. Enterprise, beam up the away team immediately."
+        },
+        {
+          "character": "WORF",
+          "line": "Aye, sir.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "PICARD",
+          "line": "They're no longer involved. This is between you and me."
+        },
+        {
+          "character": "ARMUS",
+          "line": "They may leave."
+        },
+        {
+          "character": "PICARD",
+          "line": "Now."
+        },
+        {
+          "character": "ARMUS",
+          "line": "I want to leave this place."
+        },
+        {
+          "character": "PICARD",
+          "line": "You want me to give you transportation?"
+        },
+        {
+          "character": "ARMUS",
+          "line": "For which I will trade you lives."
+        },
+        {
+          "character": "PICARD",
+          "line": "I must see my people in the shuttle."
+        },
+        {
+          "character": "ARMUS",
+          "line": "Will you give me what I want?"
+        },
+        {
+          "character": "PICARD",
+          "line": "I have the means. But first I must see my people."
+        },
+        {
+          "character": "ARMUS",
+          "line": "If you must."
+        }
+      ],
+      "location": "Planet surface"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "PICARD",
+          "line": "Troi, are you all right?"
+        },
+        {
+          "character": "TROI",
+          "line": "Yes, but Ben is not."
+        },
+        {
+          "character": "PICARD",
+          "line": "He's alive."
+        },
+        {
+          "character": "TROI",
+          "line": "Were you able to help Tasha?"
+        },
+        {
+          "character": "PICARD",
+          "line": "No. Troi. Troi, we must talk. I believe it's possible to outmaneuver this creature, and beam you and Ben back up to the ship. We've been monitoring the energy field that surrounds the shuttle. When the creature is here, the field weakens. Do you know why?"
+        },
+        {
+          "character": "TROI",
+          "line": "The creature is filled with rage. Undirected, unfocused rage. When he confronts it, his guard goes down because he's feeling it instead of suppressing it. Acknowledging his needs makes him vulnerable."
+        },
+        {
+          "character": "PICARD",
+          "line": "What caused the rage?"
+        },
+        {
+          "character": "TROI",
+          "line": "He was left here. Abandoned."
+        }
+      ],
+      "location": "Shuttlecraft"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "WORF",
+          "line": "The forcefield will have to drop below two point seven before we can beam them up."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "ARMUS",
+          "line": "Satisfied?"
+        },
+        {
+          "character": "PICARD",
+          "line": "Yes."
+        },
+        {
+          "character": "ARMUS",
+          "line": "Then can we leave?"
+        },
+        {
+          "character": "PICARD",
+          "line": "Where do you want to go? Do you want to try to find those who left you here?"
+        },
+        {
+          "character": "ARMUS",
+          "line": "She told you about them."
+        },
+        {
+          "character": "PICARD",
+          "line": "How long have you been here?"
+        },
+        {
+          "character": "ARMUS",
+          "line": "Since they left. A very long time."
+        },
+        {
+          "character": "PICARD",
+          "line": "A long time to be alone."
+        },
+        {
+          "character": "ARMUS",
+          "line": "Save your compassion. It's revolting. You offer it like a prize when in fact it's an insult."
+        },
+        {
+          "character": "PICARD",
+          "line": "Because you feel unworthy."
+        },
+        {
+          "character": "ARMUS",
+          "line": "You overrate your gift. You humans are puny, weak."
+        },
+        {
+          "character": "PICARD",
+          "line": "But our spirit, it is indomitable."
+        },
+        {
+          "character": "ARMUS",
+          "line": "And still you die from a flake of my power."
+        },
+        {
+          "character": "PICARD",
+          "line": "A great poet once said, 'all spirits are enslaved that serve things evil'."
+        },
+        {
+          "character": "ARMUS",
+          "line": "You do not understand. I do not serve things evil. I am evil."
+        },
+        {
+          "character": "PICARD",
+          "line": "Oh, no, you are not."
+        },
+        {
+          "character": "ARMUS",
+          "line": "I am a skin of evil left here by a race of Titans who believed if they rid themselves of me, they would free the bonds of destructiveness."
+        },
+        {
+          "character": "PICARD",
+          "line": "Yes. So here you are. Feeding on your own loneliness. Consumed by your own pain. Believing your own lies."
+        }
+      ],
+      "location": "Planet surface"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "WORF",
+          "line": "Set the computer. When the energy level reaches two point six point two zero five, automatically beam up Troi and Prieto. We'll do a parallel transport on the Captain."
+        },
+        {
+          "character": "WESLEY",
+          "line": "Yes, sir."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "PICARD",
+          "line": "You say you are true evil? Shall I tell you what true evil is? It is to submit to you. It is when we surrender our freedom, our dignity, instead of defying you."
+        },
+        {
+          "character": "ARMUS",
+          "line": "I will kill you, and those in there."
+        },
+        {
+          "character": "PICARD",
+          "line": "But you will still be here. In this place. For ever. Alone. Immortal."
+        }
+      ],
+      "location": "Planet surface"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "COMPUTER",
+          "line": "Stand by for parallel transport."
+        },
+        {
+          "character": "WORF",
+          "line": "The energy level has dropped to two point six point three."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "PICARD",
+          "line": "That's your real fear. Never to die. Never again to be united with those who left you here."
+        }
+      ],
+      "location": "Planet surface"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "WORF",
+          "line": "Energy field is two point six. Computer beginning transport."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "PICARD",
+          "line": "I'm not taking you anywhere."
+        },
+        {
+          "character": "PICARD",
+          "line": "Captain's log, stardate 41602.1. The shuttlecraft has been destroyed to prevent any possibility of Armus leaving the planet. Vagra Two will be declared off limits. But the damage has been done. One of the saddest duties I've ever had to perform is now ahead of me.",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "Planet surface"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "PICARD",
+          "line": "We are here together to honor our friend and comrade, Lieutenant Natasha Yar. Coming to terms with the loss of a colleague is perhaps the most difficult tasks we must face in the work we have chosen to pursue. We will all find time to grieve for her in the days that are ahead, but for now she has asked that we celebrate her life with this."
+        },
+        {
+          "character": "TASHA",
+          "line": "Hello, my friends. You are here now watching this image of me because I have died. It probably happened while I was on duty, and quickly, which is what I expected. Never forget I died doing exactly what I chose to do. What I want you to know is how much I loved my life, and those of you who shared it with me. You are my family. You all know where I came from and what my life was like before. But Starfleet took that frightened, angry young girl and tempered her. I have been blessed with your friendship and your love. Will Riker, you are the best. You trusted me, you encouraged me, and most of all you made me laugh. Deanna, you are capable of so much love. You taught me without ever having to say a word. I realized I could be feminine without losing anything. Ah, Worf. We are so much alike, you and I. Both warriors, orphans who found ourselves this family. I hope I met death with my eyes wide open. Beverly. Your fierce devotion comes from within. It can't be diminished. From you, I have learned to strive for excellence, no matter what the personal cost. Wesley, I'm sorry I won't be able to see you grow into the exceptional man you'll be. But your kindness and innocence are ageless. Geordi, in those moments I felt the most despair, you took my hand and helped me to see things differently. You taught me to look beyond the moment. My friend Data. You see things with the wonder of a child, and that makes you more human than any of us. Captain Jean-Luc Picard. I wish I could say you've been like a father to me, but I've never had one, so I don't know what it feels like. But if there was someone in this universe I could choose to be like, someone who I would want to make proud of me, it's you. You who have the heart of an explorer and the soul of a poet. So, you'll understand when I say, death is that state in which one exists only in the memory of others. Which is why it is not an end. No goodbyes. Just good memories. Hailing frequencies closed, sir."
+        },
+        {
+          "character": "PICARD",
+          "line": "Au revoir, Natasha. The gathering is concluded."
+        },
+        {
+          "character": "DATA",
+          "line": "Sir, the purpose of this gathering confuses me."
+        },
+        {
+          "character": "PICARD",
+          "line": "Oh? How so?"
+        },
+        {
+          "character": "DATA",
+          "line": "My thoughts are not for Tasha, but for myself. I keep thinking how empty it will feel without her presence. Did I miss the point?"
+        },
+        {
+          "character": "PICARD",
+          "line": "No, you didn't, Data. You got it."
+        }
+      ],
+      "location": "Holodeck - meadow"
+    }
+  ],
+  "schedule": {
+    "episode": 22,
+    "number": 22,
+    "season": 1
+  },
+  "stardate": "41601.3",
+  "title": "Skin of Evil"
+}

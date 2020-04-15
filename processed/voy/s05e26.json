@@ -1,0 +1,4353 @@
+{
+  "airdate": 927691200,
+  "scenes": [
+    {
+      "dialogue": [
+        {
+          "character": "RANSOM",
+          "line": "Stay on your course."
+        },
+        {
+          "character": "BURKE",
+          "line": "Shields are down to twenty nine percent. They're breaking through."
+        },
+        {
+          "character": "RANSOM",
+          "line": "Let them."
+        },
+        {
+          "character": "BURKE",
+          "line": "Sir?"
+        },
+        {
+          "character": "RANSOM",
+          "line": "Take the shields offline and recharge the emitters. That'll bring them up to full power."
+        },
+        {
+          "character": "BURKE",
+          "line": "The charging cycle takes forty five seconds. We'll be vulnerable."
+        },
+        {
+          "character": "RANSOM",
+          "line": "We'll be dead if we don't get the shields back up. Arm yourselves! Drop shields. Recharge cycle?"
+        },
+        {
+          "character": "BURKE",
+          "line": "Thirty seconds."
+        },
+        {
+          "character": "RANSOM",
+          "line": "There!"
+        },
+        {
+          "character": "RANSOM",
+          "line": "Time?"
+        },
+        {
+          "character": "BURKE",
+          "line": "Ten seconds."
+        }
+      ],
+      "location": "Equinox Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "RANSOM",
+          "line": "Federation Starship Equinox. We're under attack. We need assistance. This is Captain Ransom of the Federation Starship Equinox. We're under attack. We need assistance.",
+          "modifier": "screen"
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Ransom. He was in command of a science vessel. The Equinox."
+        },
+        {
+          "character": "SEVEN",
+          "line": "This distress call was transmitted approximately fourteen hours ago"
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "Distance?"
+        },
+        {
+          "character": "SEVEN",
+          "line": "Three point two light years."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Try to get a fix on their location."
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "What's it doing in the Delta Quadrant?"
+        },
+        {
+          "character": "SEVEN",
+          "line": "Perhaps it's searching for Voyager."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "The Equinox is a Nova class ship. It was designed for planetary research, not long range tactical missions."
+        },
+        {
+          "character": "SEVEN",
+          "line": "I've got their coordinates. Heading two five eight mark twelve."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Set a course, maximum warp. Go to red alert. Hang on, Captain."
+        },
+        {
+          "character": "SEVEN",
+          "line": "Did you know this individual?"
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Only by reputation."
+        }
+      ],
+      "location": "Astrometrics lab"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "JANEWAY",
+          "line": "He was an exobiologist, promoted to Captain after he made first contact with the Yridians."
+        },
+        {
+          "character": "SEVEN",
+          "line": "Species six two nine one. The Collective determined that they were extinct."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "So did the Federation. Ransom proved otherwise. I always wanted to meet him. Too bad it won't be under better circumstances."
+        },
+        {
+          "character": "SEVEN",
+          "line": "I look forward to meeting him as well, and his crew. I wish to expand my knowledge of humanity."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Let's hope you get the chance."
+        }
+      ],
+      "location": "Corridor"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "PARIS",
+          "line": "Approaching the coordinates."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Take us out of warp."
+        },
+        {
+          "character": "KIM",
+          "line": "I've got them. Two thousand kilometers off the port bow. They're moving at low impulse."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Intercept. Can you get a visual?"
+        },
+        {
+          "character": "TUVOK",
+          "line": "They are heavily damaged. Multiple hull breaches. Warp drive is offline."
+        },
+        {
+          "character": "NEELIX",
+          "line": "What's happening to their shields?"
+        },
+        {
+          "character": "TORRES",
+          "line": "They're being disrupted by some kind of energy surges."
+        },
+        {
+          "character": "PARIS",
+          "line": "Weapons fire?"
+        },
+        {
+          "character": "TUVOK",
+          "line": "There are no other ships in the vicinity."
+        },
+        {
+          "character": "KIM",
+          "line": "We're in hailing range."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Open a channel. This is Captain Kathryn Janeway of the Federation Starship Voyager. We're responding to your"
+        },
+        {
+          "character": "RANSOM",
+          "line": "Voyager, you've got to extend your shields around our ship! Match the emitter frequency!",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Are you under attack?"
+        },
+        {
+          "character": "RANSOM",
+          "line": "Shields, quickly!",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Do it."
+        },
+        {
+          "character": "PARIS",
+          "line": "We're in position."
+        },
+        {
+          "character": "TUVOK",
+          "line": "I am attempting to match their shield frequency."
+        },
+        {
+          "character": "EMH",
+          "line": "Do you hear something?"
+        },
+        {
+          "character": "SEVEN",
+          "line": "Interspatial fissure are opening on decks ten, six and one."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Tuvok!"
+        },
+        {
+          "character": "TUVOK",
+          "line": "Stand by. Shields are holding."
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "The fissures?"
+        },
+        {
+          "character": "SEVEN",
+          "line": "No sign of them."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Voyager to Ransom. Captain? Assemble rescue teams. Secure the Equinox. Tuvok, you're with me."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "CHAKOTAY",
+          "line": "Hello? Is there anyone here? See if you can bring main power online. Tom."
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "What happened?"
+        },
+        {
+          "character": "PARIS",
+          "line": "Some kind of thermolytic reaction. It's desiccated every cell in that body."
+        },
+        {
+          "character": "TORRES",
+          "line": "Commander. I can't make heads or tails of this injector manifold, and it looks like the dilithium matrix has been completely redesigned."
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "We'll try to find one of their engineers to help us. In the meantime, see if you can bypass the core."
+        },
+        {
+          "character": "TORRES",
+          "line": "Aye, sir."
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "Hang on."
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "I'm Commander Chakotay, U.S.S. Voyager."
+        },
+        {
+          "character": "GILMORE",
+          "line": "But, but we're the only humans in the Delta Quadrant."
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "That's what we used to think. Come on."
+        }
+      ],
+      "location": "Equinox Engineering"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "KIM",
+          "line": "Over here. Hang on. We're getting you out of here."
+        },
+        {
+          "character": "LESSING",
+          "line": "I don't believe we've met."
+        },
+        {
+          "character": "KIM",
+          "line": "Ensign Kim, and this is Seven of Nine. I have to cut him out with a plasma torch. Talk to him, keep him calm."
+        },
+        {
+          "character": "SEVEN",
+          "line": "State your name."
+        },
+        {
+          "character": "LESSING",
+          "line": "Lessing, Noah. What are you doing on this side of the galaxy?"
+        },
+        {
+          "character": "SEVEN",
+          "line": "The answer is complicated."
+        },
+        {
+          "character": "LESSING",
+          "line": "Do me a favor? See if my legs are still there. I haven't felt them in two days."
+        },
+        {
+          "character": "SEVEN",
+          "line": "Your limbs are intact."
+        },
+        {
+          "character": "LESSING",
+          "line": "Thank you."
+        },
+        {
+          "character": "KIM",
+          "line": "Seven, give me hand."
+        },
+        {
+          "character": "SEVEN",
+          "line": "Do not be frightened."
+        },
+        {
+          "character": "LESSING",
+          "line": "Too late for that."
+        }
+      ],
+      "location": "Equinox Jefferies tube"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "NEELIX",
+          "line": "I'm picking up lifesigns. Hello? Is there anyone here?"
+        },
+        {
+          "character": "CREWMAN",
+          "line": "No!"
+        },
+        {
+          "character": "NEELIX",
+          "line": "We're here to help you."
+        },
+        {
+          "character": "CREWMAN",
+          "line": "Take cover! We're under attack!"
+        },
+        {
+          "character": "NEELIX",
+          "line": "Neelix to Sickbay."
+        },
+        {
+          "character": "EMH",
+          "line": "Sickbay here.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "NEELIX",
+          "line": "We found another survivor. His wounds are not serious but he's suffering from psychological distress."
+        },
+        {
+          "character": "EMH",
+          "line": "Acknowledged.",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "Equinox crew quarters"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "RANSOM",
+          "line": "My crew?"
+        },
+        {
+          "character": "JANEWAY",
+          "line": "You took heavy casualties. We're treating the survivors. Who attacked you?"
+        },
+        {
+          "character": "RANSOM",
+          "line": "We don't know. We can't communicate with them. They've been attacking us for weeks."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Easy, easy."
+        },
+        {
+          "character": "RANSOM",
+          "line": "I've got to secure the ship,"
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Leave that to us."
+        },
+        {
+          "character": "RANSOM",
+          "line": "No, treat me here. I'm not leaving my bridge."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "I can't pull rank on you, Captain, but you're in no condition to put up a fight."
+        },
+        {
+          "character": "RANSOM",
+          "line": "So, how's Earth?"
+        },
+        {
+          "character": "JANEWAY",
+          "line": "I wish I could say."
+        },
+        {
+          "character": "RANSOM",
+          "line": "You weren't sent here to find us?"
+        },
+        {
+          "character": "JANEWAY",
+          "line": "I'm afraid not. We've been stranded in the Delta Quadrant for five years. We were pulled here against our will by an alien called"
+        },
+        {
+          "character": "BOTH",
+          "line": "The Caretaker."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "We'll compare notes later on. Let's get you to Voyager."
+        }
+      ],
+      "location": "Equinox Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "RANSOM",
+          "line": "We're here to commemorate our honored dead. Lieutenant William Yates, Lieutenant John Molar, Ensign Dorothy Chang, Ensign Edward Regis and Crewman David Amantes, who all served with distinction. Their bravery and sacrifice will not be forgotten. They will be missed, but now there is cause for optimism. Captain Janeway, Voyager, on behalf of my crew, thank you."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "We'll have time to give the newest members of our family a proper welcome in the days ahead, but right now, we've got our hands full. The Equinox is secure, but its primary systems are still badly damaged. Harry, B'Elanna, make it your priority. Captain Ransom has provided us with data regarding the alien attacks. Tuvok, Seven, you'll be working with First Officer Maxwell Burke. To kindred spirits. May our journey home together be swift. Dismissed."
+        },
+        {
+          "character": "TUVOK",
+          "line": "We should begin by familiarizing you with Voyager's defenses."
+        },
+        {
+          "character": "BURKE",
+          "line": "Can you give me a minute? There's someone I'd like to say hello to first."
+        },
+        {
+          "character": "SEVEN",
+          "line": "We'll be in the Astrometrics lab. Deck eight, section twenty nine."
+        },
+        {
+          "character": "BURKE",
+          "line": "See you there."
+        },
+        {
+          "character": "BURKE",
+          "line": "BLT."
+        },
+        {
+          "character": "TORRES",
+          "line": "Max. I tried to say hello in Sickbay but you were sedated."
+        },
+        {
+          "character": "BURKE",
+          "line": "I remember. I thought I was dreaming. So, where's my sweater. The blue one? Class insignia on the back?"
+        },
+        {
+          "character": "TORRES",
+          "line": "We went to the Academy together."
+        },
+        {
+          "character": "PARIS",
+          "line": "Ah."
+        },
+        {
+          "character": "BURKE",
+          "line": "Maxwell Burke."
+        },
+        {
+          "character": "PARIS",
+          "line": "Tom Paris."
+        },
+        {
+          "character": "KIM",
+          "line": "Harry Kim. Welcome aboard."
+        },
+        {
+          "character": "TORRES",
+          "line": "First Officer, impressive. The last time we talked you were about to drop out of Starfleet."
+        },
+        {
+          "character": "BURKE",
+          "line": "I heard you beat me to it. The Maquis?"
+        },
+        {
+          "character": "TORRES",
+          "line": "For a while. Until I ran into these two."
+        },
+        {
+          "character": "PARIS",
+          "line": "And it's been hell ever since."
+        },
+        {
+          "character": "BURKE",
+          "line": "Well, I told your resident Vulcan I'd be right with him. Are you free later? I'd love to catch up."
+        },
+        {
+          "character": "TORRES",
+          "line": "Why don't we all have dinner together?"
+        },
+        {
+          "character": "BURKE",
+          "line": "Sounds great."
+        },
+        {
+          "character": "PARIS",
+          "line": "BLT?"
+        },
+        {
+          "character": "TORRES",
+          "line": "Bacon, Lettuce and Tomato. It was a nickname."
+        },
+        {
+          "character": "PARIS",
+          "line": "A nickname?"
+        },
+        {
+          "character": "TORRES",
+          "line": "My initials."
+        },
+        {
+          "character": "PARIS",
+          "line": "Oh, how romantic."
+        },
+        {
+          "character": "TORRES",
+          "line": "We broke up over ten years ago. No need to go to red alert."
+        },
+        {
+          "character": "PARIS",
+          "line": "How about yellow alert?"
+        },
+        {
+          "character": "TORRES",
+          "line": "You're cute when you're jealous."
+        },
+        {
+          "character": "PARIS",
+          "line": "Who's jealous?"
+        },
+        {
+          "character": "TORRES",
+          "line": "See you on the Equinox."
+        },
+        {
+          "character": "KIM",
+          "line": "Well, Turkey Platter, what do you say we go to work?"
+        },
+        {
+          "character": "PARIS",
+          "line": "Who's jealous?"
+        }
+      ],
+      "location": "Mess hall"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "GILMORE",
+          "line": "Commander? I've been assigned to one of the repair crews on the Equinox, and I was wondering if I could join a different team. Maybe one on Voyager."
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "Problem?"
+        },
+        {
+          "character": "GILMORE",
+          "line": "Just a little post-traumatic stress syndrome."
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "Bad memories?"
+        },
+        {
+          "character": "GILMORE",
+          "line": "A few."
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "Actually, I could use someone with your engineering abilities."
+        },
+        {
+          "character": "GILMORE",
+          "line": "Well, thank you. Such a clean ship. I mean, I'm used to falling bulkheads and missing deck plates."
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "In a few weeks you won't even recognize the Equinox. You'll be happy to go back."
+        },
+        {
+          "character": "GILMORE",
+          "line": "Unless I stay. You said you could use someone with my engineering abilities."
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "I don't think your Captain would appreciate that. He's got a skeleton crew as it is."
+        }
+      ],
+      "location": "Corridor"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "CHAKOTAY",
+          "line": "Engineering's five decks down. It's a long crawl through the Jefferies tubes. Deck eleven."
+        },
+        {
+          "character": "GILMORE",
+          "line": "I haven't set foot in a turbolift in over three months."
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "Claustrophobia?"
+        },
+        {
+          "character": "GILMORE",
+          "line": "If one of those fissures opened up in here, where would we take cover?"
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "It's only a graviton relay. Nothing to worry about."
+        },
+        {
+          "character": "GILMORE",
+          "line": "Do I look worried? Emergency stop!"
+        }
+      ],
+      "location": "Turbolift"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "GILMORE",
+          "line": "If you don't mind I think I'd rather take the Jefferies tube."
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "I could use the exercise."
+        }
+      ],
+      "location": "Corridor"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "SEVEN",
+          "line": "I've run a thermographic analysis of our shields. It revealed multiple stress points. We believe they're the result of alien attempts to infiltrate our vessels. Each time a fissure opens within a meter of our shields it weakens them by point three percent."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "At the present rate, we have less than two days to mount a defense."
+        },
+        {
+          "character": "SEVEN",
+          "line": "According to your bio-scans the aliens can survive in our realm for only several seconds."
+        },
+        {
+          "character": "RANSOM",
+          "line": "They're like fish out of water, but they can do a lot of damage in those seconds."
+        },
+        {
+          "character": "TUVOK",
+          "line": "Nevertheless, it is a tactical weakness. Perhaps we can exploit it."
+        },
+        {
+          "character": "BURKE",
+          "line": "What have you got in mind?"
+        },
+        {
+          "character": "SEVEN",
+          "line": "If we can show them we have the ability to hold them here, they'll think twice before launching another attack."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "But the question is, how do we catch these fish?"
+        },
+        {
+          "character": "BURKE",
+          "line": "You build a net."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Commander?"
+        },
+        {
+          "character": "BURKE",
+          "line": "A multiphasic force field to be exact. We wanted to see what we were up against so we built a small chamber that could keep one of them trapped for several minutes."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "If we could expand on that technology, we might be able to create a lattice work of multiphasic forcefields around both ships."
+        },
+        {
+          "character": "BURKE",
+          "line": "Rudy?"
+        },
+        {
+          "character": "RANSOM",
+          "line": "If Captain Janeway agrees."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "We'll need to examine that stasis chamber."
+        },
+        {
+          "character": "RANSOM",
+          "line": "I'm afraid that won't be possible. It's in our research lab. That whole section was flooded with thermionic radiation during the last attack. It'll be days before anyone can go in there."
+        },
+        {
+          "character": "BURKE",
+          "line": "The design schematics are in our auxiliary datacore."
+        },
+        {
+          "character": "RANSOM",
+          "line": "I'll see if I can download them. You give me a hand?"
+        }
+      ],
+      "location": "Astrometrics lab"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "JANEWAY",
+          "line": "I couldn't help but notice your crew calls you by your first name."
+        },
+        {
+          "character": "RANSOM",
+          "line": "When you've been in the trenches as long as we have, rank and protocol are luxuries. Besides, we're a long way from Starfleet Command."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "I know the feeling."
+        },
+        {
+          "character": "RANSOM",
+          "line": "You seem to run a pretty tight ship."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "We've been known to let our hair down from time to time. But I find that maintaining protocol reminds us of where we came from and hopefully, where we're going."
+        },
+        {
+          "character": "RANSOM",
+          "line": "It seems to work quite well for you."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Oh, we've overcome our share of obstacles, Warp core breaches, ion storms, a few rounds with the Borg"
+        },
+        {
+          "character": "RANSOM",
+          "line": "The Borg? We haven't seen so much as a Cube since the day we arrived."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Consider yourself lucky."
+        },
+        {
+          "character": "RANSOM",
+          "line": "Have you ever run into the Krowtonan Guard?"
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Never heard of them."
+        },
+        {
+          "character": "RANSOM",
+          "line": "That's how we spent our first week in the Delta Quadrant. They claimed we violated their territory. I gave the order to keep going. I lost thirty nine. Half my crew."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "I'm sorry."
+        },
+        {
+          "character": "RANSOM",
+          "line": "We never recovered from that loss. It changed everything."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "What do you mean?"
+        },
+        {
+          "character": "RANSOM",
+          "line": "When I first realized that we'd be traveling across the Delta Quadrant for the rest of our lives, I told my crew that we had a duty as Starfleet officers to expand our knowledge and uphold our principles. After a couple of years, we started to forget that we were explorers. And there were times when we nearly forgot that we were human beings."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "This is a Nova class science vessel, designed for short term research missions. Minimal weapons. It can't even go faster than warp eight. Frankly, I don't know how you've done it. You've obviously traveled as far as we have with much fewer resources."
+        },
+        {
+          "character": "RANSOM",
+          "line": "I wish that I could take all the credit, but we stumbled across a wormhole, and made a few enhancements on our warp engines. I'd like to ask you something, Captain to Captain."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Mmm hmm."
+        },
+        {
+          "character": "RANSOM",
+          "line": "The Prime Directive. How often have you broken it for the sake of protecting your crew?"
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Broken it? Never. Bent it on occasion. And even then it was a difficult choice. What about you?"
+        },
+        {
+          "character": "RANSOM",
+          "line": "I've walked the line once or twice, but nothing serious. There you are."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "It's a good omen. Let's put it back where it belongs."
+        }
+      ],
+      "location": "Equinox Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "RANSOM",
+          "line": "I thought I'd find you here."
+        },
+        {
+          "character": "BURKE",
+          "line": "How could I resist after two years on emergency rations?"
+        },
+        {
+          "character": "RANSOM",
+          "line": "Don't get too comfortable. If Janeway's any indication, these people will never understand."
+        },
+        {
+          "character": "BURKE",
+          "line": "They're going to find out eventually."
+        },
+        {
+          "character": "RANSOM",
+          "line": "Not if we keep them out of the research lab, and away from the warp core injectors. And be careful what you say around their crew. That includes old girlfriends."
+        },
+        {
+          "character": "BURKE",
+          "line": "Understood."
+        },
+        {
+          "character": "RANSOM",
+          "line": "Mmm. Not bad."
+        }
+      ],
+      "location": "Mess hall"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "LESSING",
+          "line": "How's my angel of mercy?"
+        },
+        {
+          "character": "SEVEN",
+          "line": "Crewman Lessing. I didn't expect you to recover so quickly."
+        },
+        {
+          "character": "LESSING",
+          "line": "You have an outstanding EMH. Ours can barely hold a laser scalpel."
+        },
+        {
+          "character": "SEVEN",
+          "line": "The Doctor is efficient."
+        },
+        {
+          "character": "LESSING",
+          "line": "I've been assigned to help you sort through our bio-data. You saved my life. The least I can do is save you a little time."
+        }
+      ],
+      "location": "Astrometrics lab"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TUVOK",
+          "line": "Lateral shields are offline."
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "How's that possible?"
+        },
+        {
+          "character": "KIM",
+          "line": "Fissures are opening on decks one, eight and eleven."
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "Reroute power."
+        },
+        {
+          "character": "KIM",
+          "line": "What happened?"
+        },
+        {
+          "character": "TUVOK",
+          "line": "Apparently, the aliens began to focus their attacks on a single shield vector. It collapsed before the auxiliary emitters could respond."
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "It looks like they've changed their tactics. We may have less time than we thought."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "SEVEN",
+          "line": "We've examined the schematics of your multiphasic chamber. It can be adapted. We intend to create an auto-initiating security grid."
+        },
+        {
+          "character": "TUVOK",
+          "line": "The moment an alien invades either ship, a forcefield will surround it."
+        },
+        {
+          "character": "SEVEN",
+          "line": "Once we modify our field generator to emit multiphasic frequencies, it will power the security grids on both ships."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "How long will it take?"
+        },
+        {
+          "character": "TUVOK",
+          "line": "Approximately fourteen hours."
+        },
+        {
+          "character": "GILMORE",
+          "line": "We don't know when they'll break through again. We may not last that long."
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "We could cut the time in half if we evacuate all personnel from the Equinox and focus our efforts here on Voyager."
+        },
+        {
+          "character": "RANSOM",
+          "line": "Remember, we are still thirty five thousand light years from Earth. We should try to preserve both ships."
+        },
+        {
+          "character": "BURKE",
+          "line": "With two vessels we'd be able to pool our resources, doubling our chances of finding a short cut home."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Normally I'd agree, but right now one of our ships in vulnerable. Chakotay's right. We should make our stand on Voyager."
+        },
+        {
+          "character": "RANSOM",
+          "line": "I don't want to force the issue. But I am prepared to return to the Equinox with my crew. What is the protocol in this situation? We have two Captains and two ships. Who gets the last word?"
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Starfleet Regulation one hundred ninety one, Article fourteen. In a combat situation involving more than one ship, command falls to the vessel with tactical superiority. I looked it up this morning."
+        },
+        {
+          "character": "RANSOM",
+          "line": "Good thinking."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "In this case, protocol recognizes my authority."
+        },
+        {
+          "character": "RANSOM",
+          "line": "Are you ordering me to abandon my ship?"
+        },
+        {
+          "character": "JANEWAY",
+          "line": "I'd rather not have to."
+        },
+        {
+          "character": "RANSOM",
+          "line": "That protocol was written in the Alpha Quadrant. I'm not sure that it makes much sense out here."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "The regulation stands."
+        },
+        {
+          "character": "RANSOM",
+          "line": "Who am I to dispute protocol? Give Captain Janeway your full cooperation."
+        },
+        {
+          "character": "BURKE",
+          "line": "Rudy."
+        },
+        {
+          "character": "RANSOM",
+          "line": "Max, that's an order. We'll get through this. If that's all, Captain, I'd like to return to my quarters and collect a few mementoes."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "By all means."
+        }
+      ],
+      "location": "Briefing room"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TORRES",
+          "line": "Intruder alert. Same old Max, going through my things. That is a command station. It's off limits without my direct authorisation."
+        },
+        {
+          "character": "BURKE",
+          "line": "I didn't realize. Are you going to throw me in the Brig?"
+        },
+        {
+          "character": "TORRES",
+          "line": "I think we can overlook this infraction. Can I help you with something?"
+        },
+        {
+          "character": "BURKE",
+          "line": "Just doing some homework, studying your propulsion system. If there's a chance I'm going to be stuck on Voyager. I figured I better learn my way around. Maybe you could tutor me over dinner?"
+        },
+        {
+          "character": "TORRES",
+          "line": "Problem is, you were never really interested in the work, or the meal. Something tells me you haven't changed."
+        },
+        {
+          "character": "BURKE",
+          "line": "You'd be surprised. I'm not the. What did you once call me?"
+        },
+        {
+          "character": "TORRES",
+          "line": "PetaQ."
+        },
+        {
+          "character": "BURKE",
+          "line": "PetaQ. I'm not the petaQ I used to be. Let me prove it to you."
+        },
+        {
+          "character": "TORRES",
+          "line": "Look, Max, don't get me wrong, it's good to see you again, but ten years."
+        },
+        {
+          "character": "BURKE",
+          "line": "Tom Paris."
+        },
+        {
+          "character": "TORRES",
+          "line": "Tom Paris."
+        },
+        {
+          "character": "BURKE",
+          "line": "You could do worse. So, we're still on for dinner? Just the two of us?"
+        },
+        {
+          "character": "TORRES",
+          "line": "Get going, or I will throw you in the Brig."
+        }
+      ],
+      "location": "Engineering"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "CHAKOTAY",
+          "line": "Before we abandon the Equinox, we should try to salvage any useful components. Let's start with your dilithium crystals."
+        },
+        {
+          "character": "GILMORE",
+          "line": "What we have left of them. I'm afraid we only have a few isograms."
+        },
+        {
+          "character": "KIM",
+          "line": "That's barely enough to power the sonic showers."
+        },
+        {
+          "character": "GILMORE",
+          "line": "Can I make a suggestion?"
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "Please."
+        },
+        {
+          "character": "GILMORE",
+          "line": "Let's forget about the primary systems. They're too badly damaged. Let's focus on supplies. We picked up a few items I think might come in handy. Two kilotons of kemacite ore, a dozen canisters of mercurium."
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "Tell Neelix to make room in Cargo Bay one."
+        },
+        {
+          "character": "KIM",
+          "line": "Right."
+        },
+        {
+          "character": "GILMORE",
+          "line": "Could you use a synaptic stimulator?"
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "Depends. What is it? '"
+        },
+        {
+          "character": "GILMORE",
+          "line": "It's a neural interface you wear behind your ear. It taps into your visual cortex and shows you different alien vistas. Just think of it as a poor man's holodeck."
+        },
+        {
+          "character": "KIM",
+          "line": "So that's how you kept yourself entertained."
+        },
+        {
+          "character": "GILMORE",
+          "line": "Beats checkers. The Ponea gave it to us."
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "Never heard of them."
+        },
+        {
+          "character": "GILMORE",
+          "line": "We called them the life of the Delta Quadrant. They see every First Contact as an excuse to throw a party. I wish that we had encountered more species like that. You're the first friendly faces we've seen in months. I'm glad we found you."
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "The feeling's mutual. Those modified plasma injectors looked elaborate. What were you trying to do?"
+        },
+        {
+          "character": "GILMORE",
+          "line": "We were experimenting with ways to enhance our warp drive. It doesn't work."
+        },
+        {
+          "character": "KIM",
+          "line": "Maybe we should let B'Elanna take a look."
+        },
+        {
+          "character": "GILMORE",
+          "line": "It won't work. We tried for months."
+        },
+        {
+          "character": "NAOMI",
+          "line": "Excuse me."
+        },
+        {
+          "character": "GILMORE",
+          "line": "Oh, hello there."
+        },
+        {
+          "character": "NAOMI",
+          "line": "Commander, permission to interrupt?"
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "Granted."
+        },
+        {
+          "character": "NAOMI",
+          "line": "Ensign Gilmore."
+        },
+        {
+          "character": "GILMORE",
+          "line": "That's right."
+        },
+        {
+          "character": "NAOMI",
+          "line": "Naomi Wildman, Captain's Assistant."
+        },
+        {
+          "character": "GILMORE",
+          "line": "Is that so?"
+        },
+        {
+          "character": "NAOMI",
+          "line": "I wanted to officially welcome you aboard the Starship Voyager."
+        },
+        {
+          "character": "GILMORE",
+          "line": "I'm glad to be here."
+        },
+        {
+          "character": "NAOMI",
+          "line": "If you need anything, replicator rations, a tour of the lower decks, I'm your man."
+        },
+        {
+          "character": "GILMORE",
+          "line": "Thank you, Miss Wildman. I'll keep that in mind."
+        },
+        {
+          "character": "NAOMI",
+          "line": "As you were."
+        },
+        {
+          "character": "GILMORE",
+          "line": "I didn't realize that you had children on board."
+        },
+        {
+          "character": "KIM",
+          "line": "Only one. She was born here."
+        },
+        {
+          "character": "GILMORE",
+          "line": "I have a nephew back on Earth the same age. Well, not any more. I guess he's a teenager by now. I probably wouldn't even recognize him."
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "You'll see him again."
+        },
+        {
+          "character": "RANSOM",
+          "line": "Ransom to Gilmore.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "GILMORE",
+          "line": "Yes, Captain."
+        },
+        {
+          "character": "RANSOM",
+          "line": "Report to the Equinox bridge.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "GILMORE",
+          "line": "On my way. Duty calls."
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "Assemble a salvage team."
+        },
+        {
+          "character": "KIM",
+          "line": "Aye, sir."
+        }
+      ],
+      "location": "Mess hall"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "BURKE",
+          "line": "Once we take their field generator, we'll part company."
+        },
+        {
+          "character": "GILMORE",
+          "line": "What happens to Voyager?"
+        },
+        {
+          "character": "BURKE",
+          "line": "They have weapons, shields, a full crew. They'll survive."
+        },
+        {
+          "character": "LESSING",
+          "line": "Maybe we should abandon ship. Try to forget everything that's happened here."
+        },
+        {
+          "character": "RANSOM",
+          "line": "A shower and a hot meal. I guess that's all it takes for some of us to forget what's at stake here. We're going home, We can't let Voyager stop us now. Not when we're this close. Now we're proceeding as planned. Are there any other objections? I need each and every one of you to give me your very best, as you always have. Max."
+        },
+        {
+          "character": "BURKE",
+          "line": "This won't be easy. The generator is located on deck eleven, next to the warp plasma manifold. We can't get a clean lock without boosting the signal. Marla, we need you to set aside your claustrophobia and crawl through the access port, and set up the transport enhancers."
+        },
+        {
+          "character": "GILMORE",
+          "line": "Understood."
+        },
+        {
+          "character": "BURKE",
+          "line": "We'll have to take the internal sensors in that section offline. Noah, you're elected."
+        },
+        {
+          "character": "LESSING",
+          "line": "You can count on me, sir."
+        },
+        {
+          "character": "BURKE",
+          "line": "I'll disengage the power couplings from Engineering."
+        },
+        {
+          "character": "RANSOM",
+          "line": "You'll all have time for one last shower. Make the most of it."
+        }
+      ],
+      "location": "Equinox Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "SEVEN",
+          "line": "There's a minor fluctuation in the security grid."
+        },
+        {
+          "character": "TUVOK",
+          "line": "It's within tolerance."
+        },
+        {
+          "character": "SEVEN",
+          "line": "I believe I can correct it. The diskrepancy is in the Equinox research lab. If we can determine the exact frequency of their multiphasic chamber, I will tune our field generator to match it."
+        },
+        {
+          "character": "TUVOK",
+          "line": "There are times when perfection hinders efficiency."
+        },
+        {
+          "character": "SEVEN",
+          "line": "This is odd. The lab is still permeated with high levels of thermionic radiation."
+        },
+        {
+          "character": "TUVOK",
+          "line": "It should have dissipated by now."
+        },
+        {
+          "character": "SEVEN",
+          "line": "I believe I have an explanation. Three EPS conduits have been rerouted to the lab. It appears they are emitting the radiation."
+        }
+      ],
+      "location": "Astrometrics lab"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TUVOK",
+          "line": "The lab was contaminated intentionally."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Any theories?"
+        },
+        {
+          "character": "TUVOK",
+          "line": "Only one. Ransom doesn't want us to enter the research lab."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "He has been adamant about protecting his ship. I thought it was simply a captain's pride. I want to take a closer look at that lab. If we close off those EPS conduits, how long will it take to vent the radiation?"
+        },
+        {
+          "character": "SEVEN",
+          "line": "Several hours."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "I don't want to wait that long. Send the Doctor. He'll be immune to its effects. Tell him to look for anything out of the ordinary. Monitor his progress from Astrometrics."
+        },
+        {
+          "character": "TUVOK",
+          "line": "Shall I notify Captain Ransom?"
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Not yet. I want to wait until we test your theory."
+        }
+      ],
+      "location": "Ready room"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "EMH",
+          "line": "I'm in. I've found the multiphasic chamber. There's some kind of organic mass inside. It appears to be a member of the alien species."
+        }
+      ],
+      "location": "Equinox Research lab"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "EMH",
+          "line": "But it's cell structures have vitrified.",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "Astrometrics lab"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "EMH",
+          "line": "This is more that just a stasis chamber, it's some kind of matter conversion technology. Hold on, there's a control port here. Hmm."
+        }
+      ],
+      "location": "Equinox Research lab"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TUVOK",
+          "line": "Doctor?"
+        },
+        {
+          "character": "EMH",
+          "line": "The chamber contains a polaron grid",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "Astrometrics lab"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "EMH",
+          "line": "And a submolecular resequencer. It looks like it was designed to convert the alien cell structures into some kind of crystalline compound."
+        }
+      ],
+      "location": "Equinox Research lab"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "SEVEN",
+          "line": "That function was not specified in their schematics."
+        }
+      ],
+      "location": "Astrometrics lab"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "EMH",
+          "line": "I've a feeling there's a lot here they didn't specify. I've accessed their research logs. They're encrypted, but judging by the file headings, they've performed this procedure dozens of times. More of the alien compound, but it's been biochemically altered. They've extracted the base proteins. Its molecular structure is most unusual."
+        }
+      ],
+      "location": "Equinox Research lab"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TUVOK",
+          "line": "Can you be more specific?"
+        },
+        {
+          "character": "EMH",
+          "line": "It appears to store a great deal of",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "Astrometrics lab"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "EMH",
+          "line": "Nucleogenic energy. I'm no engineer, but I'd say they were trying to convert this material into a source of power."
+        }
+      ],
+      "location": "Equinox Research lab"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "BURKE",
+          "line": "I'm going to miss this ship."
+        },
+        {
+          "character": "RANSOM",
+          "line": "Once we get back to Earth, there'll be plenty of women. Status?"
+        },
+        {
+          "character": "BURKE",
+          "line": "Ready on all fronts. The transport enhancers are in place and Noah's created a subroutine to mask Voyager's internal sensors."
+        },
+        {
+          "character": "RANSOM",
+          "line": "Power couplings?"
+        },
+        {
+          "character": "BURKE",
+          "line": "Bypass controls have been routed to our bridge. All you need to do is say energize."
+        },
+        {
+          "character": "RANSOM",
+          "line": "Janeway wants to bring on the security grid at nineteen hundred hours. We'll have to act before then. Tell the others to be prepared to."
+        },
+        {
+          "character": "RANSOM",
+          "line": "Max, the transporter room's not far from here. Keep moving."
+        },
+        {
+          "character": "TUVOK",
+          "line": "Captain Janeway wishes to speak with you."
+        }
+      ],
+      "location": "Corridor"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "JANEWAY",
+          "line": "The alien compound. Ten isograms. If I understand your calculations, that's enough to increase your warp factor by what, point zero three percent for one month? Unfortunately, that boost wouldn't get you very far, so you'd need to replenish the supply and that means killing another lifeform. And then another. How many lives would it take to get you back to the Alpha quadrant? I think you know the reason we're under attack. These aliens are trying to protect themselves from you."
+        },
+        {
+          "character": "RANSOM",
+          "line": "Sixty three. That's how many more it will take. Every time I sacrifice one of those lives, a part of me is lost as well."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "I might believe that if I hadn't examined your research. These experiments were meticulous and they were brutal. If you'd felt any remorse, you'd never have continued."
+        },
+        {
+          "character": "RANSOM",
+          "line": "Starfleet regulation three, paragraph twelve. In the event of imminent destruction, a captain is authorized to preserve the lives of his crew by any justifiable means."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "I doubt that protocol covers mass murder."
+        },
+        {
+          "character": "RANSOM",
+          "line": "In my judgment, it did."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Unacceptable."
+        },
+        {
+          "character": "RANSOM",
+          "line": "We had nothing. My ship was in pieces. Our dilithium was gone. We were running on thrusters, We hadn't eaten in sixteen days. We had just enough power to enter orbit of an M class planet. And lucky for us, the inhabitants were generous."
+        }
+      ],
+      "location": "Briefing room"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "RANSOM",
+          "line": "They were called the Ankari. They provided us with a meal, a few supplies, even some dilithium crystals. They even performed one of their sacred rituals to invoke spirits of good fortune from another realm to bless our journey. But these weren't spirits, they were nucleogenic life forms. Our scans revealed that they were emitting high levels of antimatter. Later the same night we managed to obtain one of the summoning devices in exchange for an energy converter.",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "Ankari campfire"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "RANSOM",
+          "line": "We constructed a containment field that would prevent the lifeform from vanishing so quickly, but something went wrong.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "RANSOM",
+          "line": "Get it out of there."
+        },
+        {
+          "character": "RANSOM",
+          "line": "We tried to send it back.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "BURKE",
+          "line": "We can't."
+        },
+        {
+          "character": "RANSOM",
+          "line": "But it was too late.",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "Equinox Research lab"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "RANSOM",
+          "line": "We examined the remains and diskovered it could be converted to enhance our propulsion systems. It was already dead. What would you have done? We traveled over ten thousand light years in less than two weeks. We'd found our salvation. How could we ignore it?"
+        },
+        {
+          "character": "JANEWAY",
+          "line": "By adhering to the oath you took as Starfleet officers to seek out life, not destroy it."
+        },
+        {
+          "character": "RANSOM",
+          "line": "It's easy to cling to principles when you're standing on a vessel with its bulkheads intact, manned by a crew that's not starving."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "It's never easy. But if we turn our backs on our principles, we stop being human. I'm putting an end to your experiments and you are hereby relieved of your command. You and your crew will be confined to quarters."
+        },
+        {
+          "character": "RANSOM",
+          "line": "Please, show them leniency. They were only following my orders."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Their mistake."
+        },
+        {
+          "character": "RANSOM",
+          "line": "It's a long way home, Captain."
+        }
+      ],
+      "location": "Briefing room"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "JANEWAY",
+          "line": "Doctor, return to their research lab and retrieve all the data you can locate on the aliens. I want to find a way to communicate with them."
+        },
+        {
+          "character": "EMH",
+          "line": "Aye, Captain."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Go to their engine room. Take those warp core modifications offline."
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "Captain?"
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Let's try to make First Contact the right way."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "GILMORE",
+          "line": "What's going to happen to us?"
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "That's up to Captain Janeway. You'll be confined to quarters until we can find a way to make peace with these lifeforms you've been killing. If it's not too late."
+        },
+        {
+          "character": "GILMORE",
+          "line": "To be honest, I'm glad you stopped us. Living the rest of my life knowing what we've done"
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "You could have stopped yourself. Why didn't you?"
+        },
+        {
+          "character": "GILMORE",
+          "line": "I don't know. When the Captain ordered me to modify the warp core, I concentrated on the work. I tried not to think about how it was going to be used."
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "Well, think about it now, because we need your help."
+        },
+        {
+          "character": "GILMORE",
+          "line": "Commander?"
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "After you."
+        }
+      ],
+      "location": "Corridor"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "CHAKOTAY",
+          "line": "We're having trouble making sense of all this."
+        },
+        {
+          "character": "SEVEN",
+          "line": "The schematics are encrypted. I can't access them."
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "Do you know the decryption codes? Your captain's been relieved of command. You take orders from me now. Do you have the codes?"
+        },
+        {
+          "character": "GILMORE",
+          "line": "Yes."
+        },
+        {
+          "character": "SEVEN",
+          "line": "Proceed."
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "Think of it this way, Ensign. You might live with yourself a little easier."
+        },
+        {
+          "character": "GILMORE",
+          "line": "You said you wanted to learn more about humanity. I guess we're not exactly prized examples. I'm sorry."
+        },
+        {
+          "character": "SEVEN",
+          "line": "On the contrary. You've taught me a great deal."
+        }
+      ],
+      "location": "Astrometrics lab"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "EMH",
+          "line": "Computer, I decrypted this data file. Why can't I access it?"
+        },
+        {
+          "character": "COMPUTER",
+          "line": "EMH authorisation is required."
+        },
+        {
+          "character": "EMH",
+          "line": "Is your EMH still functional?"
+        },
+        {
+          "character": "COMPUTER",
+          "line": "Affirmative."
+        },
+        {
+          "character": "EMH",
+          "line": "Activate him. E-"
+        },
+        {
+          "character": "EMH",
+          "line": "Please state the nature of the medical emergency."
+        },
+        {
+          "character": "EMH",
+          "line": "I require your assistance. E-"
+        },
+        {
+          "character": "EMH",
+          "line": "Who are you?"
+        },
+        {
+          "character": "EMH",
+          "line": "Your counterpart from the Starship Voyager. E-"
+        },
+        {
+          "character": "EMH",
+          "line": "Where's Captain Ransom? My crew?"
+        },
+        {
+          "character": "EMH",
+          "line": "In custody. E-"
+        },
+        {
+          "character": "EMH",
+          "line": "How were you able to leave your Sickbay?"
+        },
+        {
+          "character": "EMH",
+          "line": "This device allows me to go anywhere I please. In case you weren't aware, your crew has been running criminal experiments here. E-"
+        },
+        {
+          "character": "EMH",
+          "line": "I know. I designed them."
+        },
+        {
+          "character": "EMH",
+          "line": "You? That's a violation of your programming. E-"
+        },
+        {
+          "character": "EMH",
+          "line": "They deleted my ethical subroutines."
+        }
+      ],
+      "location": "Equinox Sickbay"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "KIM",
+          "line": "I'm picking up spatial fissures. Hundreds of them."
+        },
+        {
+          "character": "PARIS",
+          "line": "Looks like they've stepped up their attacks."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Reroute all available power to the shields."
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "They're holding, but at this rate it won't be long before the aliens break through."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Bridge to Tuvok. We need that security grid."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TUVOK",
+          "line": "We're preparing to bring it online. Charge the emitters."
+        }
+      ],
+      "location": "Astrometrics lab"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "JANEWAY",
+          "line": "Bridge to the Doctor. E-"
+        },
+        {
+          "character": "EMH",
+          "line": "Sickbay here."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Did you find anything?"
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "EMH",
+          "line": "Could you be more specific?"
+        }
+      ],
+      "location": "Sickbay"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "JANEWAY",
+          "line": "Neural patterns, cortical scans, anything that could help us program the universal translator."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "EMH",
+          "line": "Er, negative. I couldn't access the Equinox data files. They were encrypted."
+        }
+      ],
+      "location": "Sickbay"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "JANEWAY",
+          "line": "Keep studying the information we have. See what you can come up with."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "EMH",
+          "line": "Acknowledged. Computer, locate Captain Ransom."
+        },
+        {
+          "character": "COMPUTER",
+          "line": "Captain Ransom is in crew quarters. Deck nine, section twenty two."
+        }
+      ],
+      "location": "Sickbay"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "CHAKOTAY",
+          "line": "Chakotay to Seven of Nine. What's your status?",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "SEVEN",
+          "line": "I've dismantled the antimatter injectors, but I'll need several minutes to neutralize the dilithium matrix."
+        }
+      ],
+      "location": "Equinox Engineering"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "CHAKOTAY",
+          "line": "We don't have much time."
+        },
+        {
+          "character": "SEVEN",
+          "line": "Understood.",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "EMH",
+          "line": "The Equinox crew has been infected with a mutagenic virus. It may be contagious. I've been authorized to inoculate them."
+        }
+      ],
+      "location": "Corridor"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "EMH",
+          "line": "You've all contracted a virus. I'll need to treat you."
+        },
+        {
+          "character": "RANSOM",
+          "line": "A virus? E-"
+        },
+        {
+          "character": "EMH",
+          "line": "Doctor's orders. E-"
+        },
+        {
+          "character": "EMH",
+          "line": "It's me."
+        }
+      ],
+      "location": "Crew quarters"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TUVOK",
+          "line": "Activate the grid. What happened?"
+        },
+        {
+          "character": "TORRES",
+          "line": "I don't understand. This should be working. I'm running a system-wide diagnostic."
+        }
+      ],
+      "location": "Astrometrics lab"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "KIM",
+          "line": "I'm reading phaser fire on deck nine, crew quarters."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Security, seal off deck nine."
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "Shields are weakening. They're down to eighty four percent."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TUVOK",
+          "line": "Tuvok to Bridge. The field generator is offline. Its power couplings were disengaged."
+        },
+        {
+          "character": "TORRES",
+          "line": "Someone reconfigured the sensors so we couldn't detect it."
+        }
+      ],
+      "location": "Astrometrics lab"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "JANEWAY",
+          "line": "Whatever it takes, get that grid online."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "EMH",
+          "line": "I rerouted transporter control to a panel in the next junction. We can"
+        },
+        {
+          "character": "BURKE",
+          "line": "They've sealed off the deck."
+        },
+        {
+          "character": "RANSOM",
+          "line": "Don't worry. We're getting out of here."
+        }
+      ],
+      "location": "Corridor"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "CHAKOTAY",
+          "line": "Shields down to fifty two percent."
+        },
+        {
+          "character": "KIM",
+          "line": "Captain, unauthorized transport in progress. It's the Equinox crew."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Block it."
+        },
+        {
+          "character": "KIM",
+          "line": "They've bypassed ops control. They're on their bridge."
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "Forty percent."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Janeway to Seven of Nine."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "JANEWAY",
+          "line": "Seven, respond.",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "Equinox Engineering"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "BURKE",
+          "line": "Damn!"
+        },
+        {
+          "character": "RANSOM",
+          "line": "What is it?"
+        },
+        {
+          "character": "BURKE",
+          "line": "B'Elanna's erected a forcefield. I can't get a lock on the generator"
+        },
+        {
+          "character": "RANSOM",
+          "line": "Try overriding the command codes."
+        }
+      ],
+      "location": "Equinox Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TORRES",
+          "line": "Someone's disrupting the forcefield. It's Max. He's using one of his triquadric algorithms. I taught him how to do that ten years ago."
+        }
+      ],
+      "location": "Astrometrics lab"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "CHAKOTAY",
+          "line": "Shields are failing. We've got less than one minute."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Open a channel. If you don't stop what you're doing, we'll both be destroyed."
+        },
+        {
+          "character": "RANSOM",
+          "line": "What's my alternative, thirty years in your brig?",
+          "modifier": "screen"
+        },
+        {
+          "character": "JANEWAY",
+          "line": "I'll open fire if I have to."
+        },
+        {
+          "character": "RANSOM",
+          "line": "We've been through worse.",
+          "modifier": "screen"
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Target their power systems. Fire."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "RANSOM",
+          "line": "Max!"
+        },
+        {
+          "character": "BURKE",
+          "line": "Stand by! Okay, BLT, let's see if you remember this trick."
+        }
+      ],
+      "location": "Equinox Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TORRES",
+          "line": "Bridge, they've got the field generator!"
+        }
+      ],
+      "location": "Astrometrics lab"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "JANEWAY",
+          "line": "What do you mean, they've got it?"
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TORRES",
+          "line": "I don't know how, but they beamed it off Voyager."
+        }
+      ],
+      "location": "Astrometrics lab"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "RANSOM",
+          "line": "Get us out of here."
+        },
+        {
+          "character": "LESSING",
+          "line": "I can't. Warp drive is down."
+        },
+        {
+          "character": "RANSOM",
+          "line": "Bridge to Marla. Report."
+        }
+      ],
+      "location": "Equinox Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "GILMORE",
+          "line": "One of their crew tried to dismantle the antimatter injectors. Repairs are underway."
+        }
+      ],
+      "location": "Equinox Engineering"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "RANSOM",
+          "line": "What about the field generator?"
+        },
+        {
+          "character": "BURKE",
+          "line": "I'm integrating it now."
+        }
+      ],
+      "location": "Equinox Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "CHAKOTAY",
+          "line": "Shields are down."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Arm yourselves."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "RANSOM",
+          "line": "It's now or never."
+        },
+        {
+          "character": "BURKE",
+          "line": "Generator's in place. I'm bringing the grid online."
+        }
+      ],
+      "location": "Equinox Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "KIM",
+          "line": "Fissures are opening, all decks!"
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "RANSOM",
+          "line": "Hold your fire!"
+        },
+        {
+          "character": "RANSOM",
+          "line": "Take it to the lab."
+        },
+        {
+          "character": "LESSING",
+          "line": "Sir, engines are up and running."
+        },
+        {
+          "character": "RANSOM",
+          "line": "Set a course for the Alpha Quadrant."
+        },
+        {
+          "character": "BURKE",
+          "line": "Course laid in."
+        },
+        {
+          "character": "RANSOM",
+          "line": "Maximum warp. Engage."
+        }
+      ],
+      "location": "Equinox Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "CHAKOTAY",
+          "line": "Captain! To Be Continued..."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "JANEWAY",
+          "line": "Give me tactical control."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Good guess. I used a deflector pulse to reinforce the shields. It won't hold for long."
+        },
+        {
+          "character": "PARIS",
+          "line": "Bridge to Sickbay. We have a medical emergency. Doctor, respond. Ensign."
+        },
+        {
+          "character": "ENSIGN",
+          "line": "Yes, sir."
+        },
+        {
+          "character": "KIM",
+          "line": "Casualty reports are coming in. Two dead, thirteen wounded. We took heavy damage to the engines."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "The Equinox?"
+        },
+        {
+          "character": "KIM",
+          "line": "They've gone to warp."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Any sign of nucleogenic particles?"
+        },
+        {
+          "character": "KIM",
+          "line": "No."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Then they haven't engaged their enhanced warp drive yet. Keep looking for"
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "RANSOM",
+          "line": "Report."
+        },
+        {
+          "character": "BURKE",
+          "line": "The shield grid is back in place. The aliens are staying clear."
+        },
+        {
+          "character": "RANSOM",
+          "line": "Are sensors picking up Voyager?"
+        },
+        {
+          "character": "LESSING",
+          "line": "It looks like they're under attack."
+        },
+        {
+          "character": "RANSOM",
+          "line": "Maintain course."
+        }
+      ],
+      "location": "Equinox Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "NEELIX",
+          "line": "Captain, I found the Doctor's mobile emitter on deck nine. You might want to take it to Sickbay."
+        }
+      ],
+      "location": "Corridor"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "PARIS",
+          "line": "Any sign of the Doc?"
+        },
+        {
+          "character": "JANEWAY",
+          "line": "I've got him right here. E-"
+        },
+        {
+          "character": "EMH",
+          "line": "Please state the nature of the. Don't bother."
+        },
+        {
+          "character": "PARIS",
+          "line": "You should start with Chakotay. I've got him stabilized but he's got internal injuries."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "We found your emitter on deck nine. E-"
+        },
+        {
+          "character": "EMH",
+          "line": "I was taken hostage by the Equinox crew. I deactivated myself to escape. Did you stop them?"
+        },
+        {
+          "character": "JANEWAY",
+          "line": "No."
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "I'd ask for a status report but I'm not sure I'd want to hear it."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Harry's analyzing the sound we've been hearing. He thinks it's some form of communication."
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "Well, I once figured out how to speak with a Terrelian seapod. This couldn't be that much harder, Once I get out of Sickbay, I'll lend him a hand."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "We should all be focusing our efforts on finding the Equinox."
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "First things first. We've got to stop these attacks."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Our enemies aren't the aliens. They're the humans aboard the Equinox. It's crucial that you don't"
+        }
+      ],
+      "location": "Sickbay"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "RANSOM",
+          "line": "Who is it?"
+        },
+        {
+          "character": "BURKE",
+          "line": "It's Max. I've brought you a visitor.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "RANSOM",
+          "line": "Hold on. Come in."
+        },
+        {
+          "character": "RANSOM",
+          "line": "I'm glad you're okay. I've been using this synaptic stimulator. I was just taking a stroll along the Tenkaran coast. You're welcome to try it."
+        },
+        {
+          "character": "SEVEN",
+          "line": "State your intentions."
+        },
+        {
+          "character": "RANSOM",
+          "line": "You know, once we get our enhanced warp drive back online, we'll be on our way home, but it'll still take months to get there. You can spend that time in the brig, or you can become part of this crew. I'd prefer the latter."
+        },
+        {
+          "character": "SEVEN",
+          "line": "I'd prefer the brig."
+        },
+        {
+          "character": "RANSOM",
+          "line": "You know, Janeway's not the only Captain who can help you explore your humanity."
+        },
+        {
+          "character": "SEVEN",
+          "line": "You would be an inferior role model."
+        },
+        {
+          "character": "RANSOM",
+          "line": "Janeway clung to her morality at the expense of her crew. Maybe you should learn from that mistake."
+        },
+        {
+          "character": "SEVEN",
+          "line": "Her only mistake was trusting you."
+        },
+        {
+          "character": "RANSOM",
+          "line": "Take care of her wound."
+        }
+      ],
+      "location": "Equinox - Ransom's Quarters"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "BURKE",
+          "line": "First degree phaser burns, minor lacerations. Looks like we'll have to amputate. That was a joke. You're supposed to smile and make a witty retort."
+        },
+        {
+          "character": "SEVEN",
+          "line": "I'm familiar with human banter. Yours is crude and predictable."
+        },
+        {
+          "character": "BURKE",
+          "line": "You know, Seven. Can I call you Seven? We don't have many luxuries around here. All we've got is each other. You might try letting your shields down or else it's going to be a lonely trip. I'll be damned. Looks like our Doctor left us a replacement."
+        },
+        {
+          "character": "EMH",
+          "line": "Seven?"
+        },
+        {
+          "character": "SEVEN",
+          "line": "We are captives."
+        },
+        {
+          "character": "EMH",
+          "line": "I was attacked by their EMH."
+        },
+        {
+          "character": "BURKE",
+          "line": "Looks like he downloaded you into our database. Good. You can treat your friend."
+        }
+      ],
+      "location": "Equinox Sickbay"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "THOMPSON",
+          "line": "Priming the injectors."
+        },
+        {
+          "character": "GILMORE",
+          "line": "Marla to Bridge."
+        },
+        {
+          "character": "RANSOM",
+          "line": "Go ahead."
+        },
+        {
+          "character": "GILMORE",
+          "line": "We're ready."
+        },
+        {
+          "character": "RANSOM",
+          "line": "Acknowledged.",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "Equinox Engineering"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "RANSOM",
+          "line": "Infuse the enhanced warp drive with twenty isograms of the compound."
+        },
+        {
+          "character": "LESSING",
+          "line": "Aye, sir. Warp drive ready."
+        },
+        {
+          "character": "RANSOM",
+          "line": "Engage."
+        },
+        {
+          "character": "RANSOM",
+          "line": "What happened?"
+        }
+      ],
+      "location": "Equinox Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "GILMORE",
+          "line": "The power relays are offline. They've been encoded."
+        }
+      ],
+      "location": "Equinox Engineering"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "RANSOM",
+          "line": "Give us the codes."
+        },
+        {
+          "character": "SEVEN",
+          "line": "No."
+        },
+        {
+          "character": "BURKE",
+          "line": "If she won't give us the codes maybe we could extract them ourselves."
+        },
+        {
+          "character": "EMH",
+          "line": "Seven's cranial infrastructure is highly complex. You'll need months just to figure out what she had for breakfast."
+        },
+        {
+          "character": "BURKE",
+          "line": "That's why you're going to help us."
+        },
+        {
+          "character": "EMH",
+          "line": "I refuse."
+        },
+        {
+          "character": "BURKE",
+          "line": "Do it or I'll erase your program."
+        },
+        {
+          "character": "EMH",
+          "line": "Be my guest."
+        },
+        {
+          "character": "SEVEN",
+          "line": "Doctor."
+        },
+        {
+          "character": "EMH",
+          "line": "Don't worry, they need me. They'd be cutting off their holographic nose to spite their face. Now I suggest you"
+        },
+        {
+          "character": "RANSOM",
+          "line": "All right, Doctor. Now, get to work. You know what we're looking for."
+        },
+        {
+          "character": "EMH",
+          "line": "Very well. She'll try to resist. I'll have to restrain her."
+        },
+        {
+          "character": "SEVEN",
+          "line": "Doctor."
+        },
+        {
+          "character": "RANSOM",
+          "line": "I deleted his ethical subroutines. He'll be a little more cooperative now. Keep me posted."
+        },
+        {
+          "character": "EMH",
+          "line": "Aye, Captain. This way, please."
+        }
+      ],
+      "location": "Equinox Sickbay"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "JANEWAY",
+          "line": "It's not exactly Shakespeare, but it gets the point across."
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "A small olive branch is still an olive branch."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Run this through to your translation matrix."
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "Set your weapons down."
+        },
+        {
+          "character": "PARIS",
+          "line": "Commander?"
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "Somebody's got to start trusting somebody around here."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Belay that order. I appreciate your optimism, but in this case, weapons."
+        },
+        {
+          "character": "KIM",
+          "line": "Ready to transmit."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Drop shields, bridge only. Go ahead, Harry."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Raise shields."
+        },
+        {
+          "character": "KIM",
+          "line": "If they understood our message, they haven't responded."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "There's your response. Activate another deflector pulse."
+        },
+        {
+          "character": "TUVOK",
+          "line": "Shields are holding at sixty two percent."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "That should buy us another few minutes of peace and quiet. I suggest we make the most of it. Focus your efforts on repairing the warp drive. We've got to find the Equinox."
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "If it's all the same to you, I'd like to take another stab at the message. If we can reroute"
+        },
+        {
+          "character": "JANEWAY",
+          "line": "They're not listening, Chakotay. We should be tracking Ransom, not tinkering with adverbs."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "CHAKOTAY",
+          "line": "Want your First Officer's advice?"
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Allow me. Our deflector's losing power, and when it fails, we'll be defenseless. It's Voyager we should be worrying about, not the Equinox."
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "You'd make a great First Officer. It's advice worth taking."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Maybe so, but we have a crew member trapped on that ship."
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "Is this really about Seven, or is it about Ransom?"
+        },
+        {
+          "character": "JANEWAY",
+          "line": "I don't know what you're talking about."
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "You've been known to hold a grudge. This man betrayed Starfleet, he broke the Prime Directive, dishonored everything you believe in, and threw Voyager to the wolves."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Borg, Hirogen, Malon. We've run into our share of bad guys. Ransom's no different."
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "Yes, he is. You said it yourself. He's human. I don't blame you for being angry, but you can't compromise the safety of this ship to satisfy some personal vendetta."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "I appreciate your candor. Now let me be just as blunt. You're right, I am angry. I'm damned angry. He's a Starfleet Captain, and he's decided to abandon everything this uniform stands for. He's out there right now, torturing and murdering innocent lifeforms just to get home a little quicker. I'm not going to stand for it. I'm going to hunt him down no matter how long it takes, no matter what the cost. If you want to call that a vendetta, go right ahead."
+        }
+      ],
+      "location": "Ready room"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "BURKE",
+          "line": "Why did you bring us here?"
+        },
+        {
+          "character": "RANSOM",
+          "line": "This planet has a parthogenic atmosphere. It will keep us from being detected while we make repairs."
+        },
+        {
+          "character": "LESSING",
+          "line": "We also found a few deuterium deposits."
+        },
+        {
+          "character": "RANSOM",
+          "line": "Take an away team, Noah, and see if you can localize the ore."
+        },
+        {
+          "character": "BURKE",
+          "line": "You won't be protected from the aliens. Arm yourselves with phasers. At the first sign of trouble, we'll beam you back."
+        },
+        {
+          "character": "LESSING",
+          "line": "Aye, sir."
+        }
+      ],
+      "location": "Equinox Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "EMH",
+          "line": "The ocular node's connected to the sensory node. The sensory node's connected to the cortical node. The cortical node's connected to the reticular node. Don't look so gloomy. There's a silver lining to all this. Just think, we're finally going to see Earth."
+        },
+        {
+          "character": "SEVEN",
+          "line": "You are obviously delusional. Allow me to repair your program."
+        },
+        {
+          "character": "EMH",
+          "line": "Now why would I want you to do that? You of all people should understand. Being unfettered by ethical subroutines has made me far more efficient."
+        },
+        {
+          "character": "RANSOM",
+          "line": "Status?"
+        },
+        {
+          "character": "EMH",
+          "line": "I'm going to extract her cortical array. It contains an index of her memory engrams. But once I've removed it her higher brain functions, language, cognitive skills will be severely damaged."
+        },
+        {
+          "character": "RANSOM",
+          "line": "Tell me the codes."
+        },
+        {
+          "character": "SEVEN",
+          "line": "No."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Janeway was right about one thing. You are unique. It would be a shame to lose you."
+        },
+        {
+          "character": "SEVEN",
+          "line": "Your compassion is irrelevant."
+        },
+        {
+          "character": "RANSOM",
+          "line": "You think this is easy for me? The sight of you on that table. But you're leaving me no choice."
+        },
+        {
+          "character": "SEVEN",
+          "line": "No choice. You say that frequently. You destroy lifeforms to attain your goals, then claim that they left you no choice. Does that logic comfort you?"
+        },
+        {
+          "character": "RANSOM",
+          "line": "The codes."
+        },
+        {
+          "character": "SEVEN",
+          "line": "You'll have to destroy me to obtain them."
+        },
+        {
+          "character": "EMH",
+          "line": "The reticular node's connected to the occipital node."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Captain's log, supplemental. Our warp drive's back online, but repeated sensor sweeps have failed to locate the Equinox.",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "Equinox Sickbay"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "JANEWAY",
+          "line": "Come in."
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "You wanted to see me?"
+        },
+        {
+          "character": "JANEWAY",
+          "line": "It's not like you to submit recommendations in writing."
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "The last time we spoke you weren't exactly receptive."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "I'm afraid I'm not going to be very receptive this time, either. It's an interesting idea, but the Ankari are fifty light years in the wrong direction."
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "I understand that, but they're the ones who introduced Ransom to these lifeforms. It stands to reason they might be able to communicate with them, tell them to call off their attacks."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Our first priority is to find Ransom. Still no sign of nucleogenic particles?"
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "Not yet."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Then he couldn't have gotten far. Without his enhanced drive, his ship's only capable of warp six. I've been studying his service record. He's had his share of run-ins with hostile aliens. It seems that when he's being pursued, he tends to hide. At Epsilon four he ran into a Klingon Bird-of-Prey. Played a game of cat and mouse for three days in a nebula before the Klingons finally gave up. Two years later, he eluded a Romulan Warbird by taking his vessel into the atmosphere of a gas giant. Go to Astrometrics. Start looking for the kind of place you'd hide if your ship was damaged."
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "Yes, ma'am."
+        }
+      ],
+      "location": "Ready room"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "GILMORE",
+          "line": "How was the beach?"
+        },
+        {
+          "character": "RANSOM",
+          "line": "Do these programs have people in them?"
+        },
+        {
+          "character": "GILMORE",
+          "line": "No, just landscapes. Why?"
+        },
+        {
+          "character": "RANSOM",
+          "line": "Forget it."
+        }
+      ],
+      "location": "Equinox Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "LESSING",
+          "line": "I'm reading a vein of ore. Azimuth one seventeen, thirty meters. It could run pretty deep. We might need to use phasers to excavate it. It's funny, this reminds me of McKinley Park. I used to take my sister there when we were kids. This place looks just like it. As I recall, there was a family of ground squirrels who lived right over there. There was a patch of poison ivy next to it. When I was ten, I walked right through it and I swelled up like a Rigellian bloodworm. When I get back to Earth the first thing I'm going to do is"
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "Four to beam up."
+        }
+      ],
+      "location": "Planet surface"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "GILMORE",
+          "line": "We're receiving a subspace transmission."
+        },
+        {
+          "character": "RANSOM",
+          "line": "From who?"
+        },
+        {
+          "character": "GILMORE",
+          "line": "I can't tell."
+        },
+        {
+          "character": "RANSOM",
+          "line": "I don't see a ship out there. Open a channel. E-"
+        },
+        {
+          "character": "EMH",
+          "line": "Doctor to Equinox. Respond.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "RANSOM",
+          "line": "We can hear you. E-"
+        },
+        {
+          "character": "EMH",
+          "line": "Voyager's found you. They've entered orbit. They polarized their hull to mask their approach.",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "Equinox Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "EMH",
+          "line": "I believe they've planned an ambush on the away team."
+        }
+      ],
+      "location": "Sickbay"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "EMH",
+          "line": "Janeway's been tracking the Equinox for a couple",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "RANSOM",
+          "line": "Get him back."
+        },
+        {
+          "character": "GILMORE",
+          "line": "I can't."
+        },
+        {
+          "character": "RANSOM",
+          "line": "Ransom to away team. Noah, prepare to beam back to the ship."
+        },
+        {
+          "character": "GILMORE",
+          "line": "They're not down there."
+        },
+        {
+          "character": "RANSOM",
+          "line": "All hands to battle stations."
+        }
+      ],
+      "location": "Equinox Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "PARIS",
+          "line": "Thirty thousand kilometers and closing."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Target their power core."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "GILMORE",
+          "line": "Direct hit. Minor damage."
+        },
+        {
+          "character": "RANSOM",
+          "line": "Return fire."
+        }
+      ],
+      "location": "Equinox Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "CHAKOTAY",
+          "line": "Bridge to Torres. Status."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TORRES",
+          "line": "I can't locate their shield grid generator. Can you divert more power to sensors?"
+        }
+      ],
+      "location": "Astrometrics lab"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "CHAKOTAY",
+          "line": "Stand by."
+        },
+        {
+          "character": "TUVOK",
+          "line": "They've damaged our deflector, Captain. If it goes offline, we'll be vulnerable to the alien attacks."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Noted. Target his weapons array."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "GILMORE",
+          "line": "We lost all phaser banks."
+        },
+        {
+          "character": "RANSOM",
+          "line": "Torpedoes, full spread."
+        },
+        {
+          "character": "BURKE",
+          "line": "It's B'Elanna. She's trying to bypass our security protocols."
+        },
+        {
+          "character": "RANSOM",
+          "line": "Stop her."
+        }
+      ],
+      "location": "Equinox Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TORRES",
+          "line": "Computer, open a comm. link to the Equinox. Workstation thirty three beta."
+        }
+      ],
+      "location": "Astrometrics lab"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TORRES",
+          "line": "Max, listen to me.",
+          "modifier": "screen"
+        },
+        {
+          "character": "BURKE",
+          "line": "Back for round two, BLT?"
+        },
+        {
+          "character": "TORRES",
+          "line": "This isn't one of our games. People are dying over here.",
+          "modifier": "screen"
+        },
+        {
+          "character": "BURKE",
+          "line": "I wish you didn't have to be one of them."
+        },
+        {
+          "character": "TORRES",
+          "line": "Max, please."
+        }
+      ],
+      "location": "Equinox Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TUVOK",
+          "line": "Shields are weakening,"
+        },
+        {
+          "character": "JANEWAY",
+          "line": "We've almost got him. Keep targeting their weapons array. One more torpedo ought to do it."
+        },
+        {
+          "character": "TUVOK",
+          "line": "Captain."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Fire!"
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "GILMORE",
+          "line": "Weapons are down!"
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Janeway to Ransom. Surrender your vessel.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "RANSOM",
+          "line": "We still have thrusters, don't we?"
+        },
+        {
+          "character": "GILMORE",
+          "line": "Aye, sir."
+        },
+        {
+          "character": "RANSOM",
+          "line": "Lay in a course through the planet's atmosphere. Sixty degree vector."
+        }
+      ],
+      "location": "Equinox Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "JANEWAY",
+          "line": "What the hell is he doing? Follow him."
+        },
+        {
+          "character": "PARIS",
+          "line": "We're crossing the upper thermosphere."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Phasers."
+        },
+        {
+          "character": "TUVOK",
+          "line": "Shields are weakening. Thirty one percent, twenty nine."
+        },
+        {
+          "character": "KIM",
+          "line": "Inertial dampers are offline."
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "Captain, if we loose our shields, we'll be attacked by the aliens. Captain!"
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Break off pursuit."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "GILMORE",
+          "line": "They're retreating."
+        },
+        {
+          "character": "RANSOM",
+          "line": "Take us up!"
+        },
+        {
+          "character": "BURKE",
+          "line": "They took heavy damage. Shields, propulsion."
+        },
+        {
+          "character": "RANSOM",
+          "line": "Get us out of here."
+        }
+      ],
+      "location": "Equinox Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "PARIS",
+          "line": "They've gone to warp."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Match their course and speed."
+        },
+        {
+          "character": "KIM",
+          "line": "We can't, not until we restore primary systems."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Time?"
+        },
+        {
+          "character": "KIM",
+          "line": "We'll need a few hours."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "At least we didn't come away empty-handed."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "JANEWAY",
+          "line": "I want Ransom's tactical status. I want it now, Mister Lessing."
+        },
+        {
+          "character": "LESSING",
+          "line": "Or what, you'll hit me?"
+        },
+        {
+          "character": "JANEWAY",
+          "line": "No, crewman. I'll drop the shields around this room and let your little friends come pay you a visit."
+        },
+        {
+          "character": "LESSING",
+          "line": "That would be murder."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "You could also call it poetic justice."
+        },
+        {
+          "character": "LESSING",
+          "line": "I suppose the plan is that you're going to come to my rescue now, right?"
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "There's no plan as far as I know. The captain's on her own."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Ransom's status, now."
+        },
+        {
+          "character": "LESSING",
+          "line": "No way in hell."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "We all make our own hell, Mister Lessing. I hope you enjoy yours. The comm. is active. We'll be outside if you have a change of heart."
+        }
+      ],
+      "location": "Cargo Bay two"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "CHAKOTAY",
+          "line": "What are you doing?"
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Weren't you listening?"
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "Don't do this."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "He'll break."
+        }
+      ],
+      "location": "Corridor"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TUVOK",
+          "line": "Bridge to the Captain. We've lost shields in section twenty nine alpha."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "I know. Stand by.",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "CHAKOTAY",
+          "line": "He's a loyal officer. He's not going to betray his captain. Put up the shields."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "He'll break."
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "Captain!"
+        },
+        {
+          "character": "JANEWAY",
+          "line": "As you were."
+        },
+        {
+          "character": "COMPUTER",
+          "line": "Level nine authorisation required."
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "Damn it, Kathryn!"
+        },
+        {
+          "character": "JANEWAY",
+          "line": "You're panicking. He's going to talk."
+        }
+      ],
+      "location": "Corridor"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TUVOK",
+          "line": "Captain, a fissure is opening in that section."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Understood.",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "CHAKOTAY",
+          "line": "Okay, you've demonstrated your loyalty to your captain. Fine. Now let's talk about the Ankari."
+        }
+      ],
+      "location": "Corridor"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TORRES",
+          "line": "If there's an Ankari vessel less than two light years from here, why haven't we detected it?"
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "Apparently, they use a unique form of propulsion, which makes them hard to find."
+        },
+        {
+          "character": "PARIS",
+          "line": "You think they'll be willing to help us?"
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "It's worth a try. Mister Lessing has agreed to show you how to adjust the sensors. Once you find the Ankari ship, set a course."
+        },
+        {
+          "character": "PARIS",
+          "line": "Aye, sir. E-"
+        },
+        {
+          "character": "EMH",
+          "line": "Did our prisoner disklose any other information?"
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "I'm afraid not. The rest of you continue with the repairs. Dismissed."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Commander."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "All right, we're going to try it your way. But I want to make one thing clear."
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "Our first priority is to get Ransom. If there's one thing you've made clear, it's that."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "We've had our disagreements, Chakotay, but you've never openly opposed me."
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "You almost killed that man today."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "It was a calculated risk and I took it."
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "It was a bad call."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "I'll note your objection in my log."
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "I don't give a damn about your log. This isn't about rules and regulations. It's about right and wrong. And I'm warning you, I won't let you cross that line again."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Then you leave me no choice. You are hereby relieved of duty until further notice."
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "What's happened to you, Kathryn?"
+        },
+        {
+          "character": "JANEWAY",
+          "line": "I was about to ask you the same question."
+        }
+      ],
+      "location": "Briefing room"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TUVOK",
+          "line": "They are not responding."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Tractor beam."
+        },
+        {
+          "character": "TUVOK",
+          "line": "Captain, the Ankari ship has done nothing"
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Just do it."
+        },
+        {
+          "character": "KIM",
+          "line": "We're being hailed."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "On screen."
+        },
+        {
+          "character": "ANKARI",
+          "line": "Starfleet.",
+          "modifier": "screen"
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Yes."
+        },
+        {
+          "character": "ANKARI",
+          "line": "Leave us alone. There's nothing of value on our ship.",
+          "modifier": "screen"
+        },
+        {
+          "character": "JANEWAY",
+          "line": "We need your guidance. Your spirits of good fortune are attacking us."
+        },
+        {
+          "character": "ANKARI",
+          "line": "Of course they are. You've been killing them.",
+          "modifier": "screen"
+        },
+        {
+          "character": "JANEWAY",
+          "line": "We are not the ones responsible."
+        },
+        {
+          "character": "ANKARI",
+          "line": "Equinox.",
+          "modifier": "screen"
+        },
+        {
+          "character": "JANEWAY",
+          "line": "That's right. Can you communicate with the aliens?"
+        },
+        {
+          "character": "ANKARI",
+          "line": "Release my ship.",
+          "modifier": "screen"
+        },
+        {
+          "character": "JANEWAY",
+          "line": "I can't do that. Not until you agree to talk to them."
+        },
+        {
+          "character": "ANKARI",
+          "line": "I will summon them, but you must talk to them. You must convince them.",
+          "modifier": "screen"
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "ANKARI",
+          "line": "They say they want the humans to die."
+        },
+        {
+          "character": "TUVOK",
+          "line": "A difficult place to start a negotiation."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Will they understand me?"
+        },
+        {
+          "character": "ANKARI",
+          "line": "Yes."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "We didn't do this to you. We're trying to stop the humans who did."
+        },
+        {
+          "character": "ANKARI",
+          "line": "They don't believe you would harm your own kind."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "We have rules for behavior. The Equinox has broken those rules by killing your species. It's our duty to stop them."
+        },
+        {
+          "character": "ANKARI",
+          "line": "Give us the Equinox. Give us the Equinox. They insist on destroying the ones who are responsible."
+        },
+        {
+          "character": "TUVOK",
+          "line": "We will punish them according to our own rules. They will be imprisoned. They will lose their freedom."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "All right! If you stop your attacks, I'll deliver the Equinox to you."
+        },
+        {
+          "character": "TUVOK",
+          "line": "Captain."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "I know what I'm doing, Tuvok."
+        },
+        {
+          "character": "TUVOK",
+          "line": "These beings would destroy Captain Ransom and his crew."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "What's their answer?"
+        },
+        {
+          "character": "TUVOK",
+          "line": "Your behavior is irrational. We could find another solution."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "I've already confined my First Officer to quarters. Would you like to join him? Well?"
+        },
+        {
+          "character": "ANKARI",
+          "line": "They agree,"
+        }
+      ],
+      "location": "Cargo Bay two"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "BURKE",
+          "line": "We're going to need more fuel. We've only got enough left to jump another five hundred light years."
+        },
+        {
+          "character": "RANSOM",
+          "line": "Fuel. Is that the euphemism we're using now? You mean we need to kill more lifeforms."
+        },
+        {
+          "character": "BURKE",
+          "line": "Several more."
+        }
+      ],
+      "location": "Equinox Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "EMH",
+          "line": "Oh, my darling, Oh, my darling, Oh, my darling"
+        },
+        {
+          "character": "SEVEN",
+          "line": "Clementine."
+        },
+        {
+          "character": "RANSOM",
+          "line": "How much longer?"
+        },
+        {
+          "character": "EMH",
+          "line": "Another hour, maybe less. You are lost and gone forever"
+        },
+        {
+          "character": "SEVEN",
+          "line": "Dreadful sorry, Clementine."
+        },
+        {
+          "character": "RANSOM",
+          "line": "What are you doing?"
+        },
+        {
+          "character": "EMH",
+          "line": "Her auditory processor. We used to practice duets together. In fact, I taught her this old chestnut. Light she was and like a fairy."
+        },
+        {
+          "character": "SEVEN",
+          "line": "And her shoes were number nine."
+        },
+        {
+          "character": "EMH",
+          "line": "Herring boxes without topses."
+        },
+        {
+          "character": "SEVEN",
+          "line": "Sandals were for Clementine."
+        },
+        {
+          "character": "EMH",
+          "line": "Drove she ducklings to the water"
+        },
+        {
+          "character": "RANSOM",
+          "line": "Enough."
+        },
+        {
+          "character": "EMH",
+          "line": "Why the long face, Captain? You're about to get your crew home. She tried to stand in your way. You had no choice."
+        },
+        {
+          "character": "RANSOM",
+          "line": "No choice. Thank you, Doctor."
+        },
+        {
+          "character": "EMH",
+          "line": "When this is all over, perhaps you'll allow me to teach you my repertoire. I'm going to need a new partner."
+        },
+        {
+          "character": "EMH",
+          "line": "Hmm. Drove she ducklings to the water."
+        }
+      ],
+      "location": "Equinox Sickbay"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "RANSOM",
+          "line": "You. What are you doing here?"
+        },
+        {
+          "character": "SEVEN",
+          "line": "Hiding, like you."
+        },
+        {
+          "character": "RANSOM",
+          "line": "I'm not hiding."
+        },
+        {
+          "character": "SEVEN",
+          "line": "It's beautiful. I can see why this brings you comfort."
+        },
+        {
+          "character": "RANSOM",
+          "line": "I don't know what you're talking about."
+        },
+        {
+          "character": "SEVEN",
+          "line": "But it isn't real."
+        },
+        {
+          "character": "RANSOM",
+          "line": "You're not real. Now leave me alone."
+        },
+        {
+          "character": "SEVEN",
+          "line": "It's not too late to stop."
+        },
+        {
+          "character": "RANSOM",
+          "line": "I don't have a choice."
+        },
+        {
+          "character": "SEVEN",
+          "line": "Find another way."
+        },
+        {
+          "character": "RANSOM",
+          "line": "There is no other way."
+        },
+        {
+          "character": "SEVEN",
+          "line": "Stop trying to hide."
+        },
+        {
+          "character": "RANSOM",
+          "line": "I told you, I'm not hiding. Now get away from me."
+        },
+        {
+          "character": "SEVEN",
+          "line": "End this."
+        },
+        {
+          "character": "RANSOM",
+          "line": "No!"
+        },
+        {
+          "character": "BURKE",
+          "line": "Bridge to Ransom.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "RANSOM",
+          "line": "Go ahead."
+        },
+        {
+          "character": "BURKE",
+          "line": "Janeway's found us.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "RANSOM",
+          "line": "On my way."
+        }
+      ],
+      "location": "Equinox - Ransom's quarters"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "BURKE",
+          "line": "Distance?"
+        },
+        {
+          "character": "GILMORE",
+          "line": "Fifty thousand kilometers, closing fast."
+        },
+        {
+          "character": "BURKE",
+          "line": "Maintain course. Voyager's approaching at high warp. There's a class two nebula less than a light year from here. Janeway's sensors won't be able to track us once we're inside. I think that we should pursue this course."
+        },
+        {
+          "character": "RANSOM",
+          "line": "No. Open a channel."
+        },
+        {
+          "character": "BURKE",
+          "line": "Change of tactics?"
+        },
+        {
+          "character": "RANSOM",
+          "line": "You might say that. It's time we found another way home."
+        },
+        {
+          "character": "BURKE",
+          "line": "Another way?"
+        },
+        {
+          "character": "RANSOM",
+          "line": "We're going to cooperate with Janeway, Max, if she's willing."
+        },
+        {
+          "character": "BURKE",
+          "line": "Rudy, with all due respect, have you lost your mind?"
+        },
+        {
+          "character": "RANSOM",
+          "line": "Just the opposite."
+        },
+        {
+          "character": "GILMORE",
+          "line": "They're within range. They're charging weapons."
+        },
+        {
+          "character": "RANSOM",
+          "line": "Hail them."
+        },
+        {
+          "character": "BURKE",
+          "line": "Belay that order. Raise shields."
+        },
+        {
+          "character": "RANSOM",
+          "line": "You're relieved of duty, Commander."
+        },
+        {
+          "character": "BURKE",
+          "line": "I'm taking command. Anyone who isn't with me, speak up now. Take him to the brig."
+        },
+        {
+          "character": "GILMORE",
+          "line": "I'm sorry."
+        },
+        {
+          "character": "BURKE",
+          "line": "What's the status of our weapons?"
+        },
+        {
+          "character": "THOMPSON",
+          "line": "Full complement of torpedoes. Minimal phasers."
+        },
+        {
+          "character": "BURKE",
+          "line": "Open a secure channel to their Sickbay. Stand by weapons."
+        },
+        {
+          "character": "THOMPSON",
+          "line": "Aye, sir."
+        }
+      ],
+      "location": "Equinox Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "EMH",
+          "line": "I'm here."
+        }
+      ],
+      "location": "Medical lab"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "BURKE",
+          "line": "We're going to need your help, Doctor. See if you can find Voyager's current shield frequency."
+        }
+      ],
+      "location": "Equinox Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "EMH",
+          "line": "Acknowledged. I'll need a few minutes."
+        }
+      ],
+      "location": "Medical lab"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TUVOK",
+          "line": "They are firing torpedoes."
+        },
+        {
+          "character": "KIM",
+          "line": "Direct hit to our port shields. They're holding."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Return the favor."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "RANSOM",
+          "line": "This isn't the brig."
+        },
+        {
+          "character": "GILMORE",
+          "line": "I know. I'm with you, sir. Let's find a way to end this."
+        },
+        {
+          "character": "RANSOM",
+          "line": "We'll need to access transporter control."
+        }
+      ],
+      "location": "Equinox Engineering"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "KIM",
+          "line": "We've damaged their port nacelle. They're venting plasma."
+        },
+        {
+          "character": "PARIS",
+          "line": "They're dropping out of warp."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Stay with them."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "EMH",
+          "line": "Doctor to Equinox. I've got their shield frequency.",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "Equinox Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "EMH",
+          "line": "I'm transmitting it to you now."
+        },
+        {
+          "character": "BURKE",
+          "line": "They'll try to remodulate. Keep monitoring. E-",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "EMH",
+          "line": "Aye, sir."
+        }
+      ],
+      "location": "Medical lab"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TORRES",
+          "line": "They've slowed to one quarter impulse."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Prepare a tractor beam."
+        },
+        {
+          "character": "TUVOK",
+          "line": "They are launching another torpedo."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Full power to the forward shields."
+        },
+        {
+          "character": "KIM",
+          "line": "Hull breach on deck four."
+        },
+        {
+          "character": "TORRES",
+          "line": "How'd they get through our shields?"
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Hard about. Get us out of range. Remodulate the shields."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "THOMPSON",
+          "line": "They're retreating."
+        },
+        {
+          "character": "BURKE",
+          "line": "Pursuit course. Maintain fire."
+        }
+      ],
+      "location": "Equinox Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "KIM",
+          "line": "They took out the weapons array."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Tuvok."
+        },
+        {
+          "character": "TUVOK",
+          "line": "I've been rotating the shield frequency every ten seconds."
+        },
+        {
+          "character": "PARIS",
+          "line": "We've lost impulse engines."
+        },
+        {
+          "character": "KIM",
+          "line": "We're being hailed. It's Ransom."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Put him through."
+        },
+        {
+          "character": "RANSOM",
+          "line": "Captain, I'm prepared to surrender the Equinox, but I'm no longer in command. Max decided to stage a little mutiny, but I think I can stop him. I've isolated transporter control. I can beam all of us to Voyager. You might want to have some guards standing by. Not everyone here is going to be happy to see you.",
+          "modifier": "screen"
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Proceed."
+        },
+        {
+          "character": "PARIS",
+          "line": "Ma'am?"
+        },
+        {
+          "character": "JANEWAY",
+          "line": "He's still a Starfleet captain. He may have forgotten that for a while, but I believe him."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "BURKE",
+          "line": "Someone's trying to beam us off. Forcefields."
+        }
+      ],
+      "location": "Equinox Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "GILMORE",
+          "line": "They're deflecting our targeting scanners."
+        },
+        {
+          "character": "RANSOM",
+          "line": "Then beam the others to Voyager, yourself included. I'll take care of Max."
+        },
+        {
+          "character": "GILMORE",
+          "line": "Aye, sir."
+        },
+        {
+          "character": "RANSOM",
+          "line": "Computer, Give me access to the shield grid."
+        }
+      ],
+      "location": "Equinox Engineering"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "EMH",
+          "line": "Well, I see you've made yourself at home. E-"
+        },
+        {
+          "character": "EMH",
+          "line": "What are you doing here?"
+        },
+        {
+          "character": "EMH",
+          "line": "Taking back my Sickbay. E-"
+        },
+        {
+          "character": "EMH",
+          "line": "Stop where you are. I've planted photonic charges throughout these holo-projectors. With one command sequence, I can blow out your entire"
+        },
+        {
+          "character": "EMH",
+          "line": "Computer, delete the Equinox EMH."
+        }
+      ],
+      "location": "Sickbay"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "THOMPSON",
+          "line": "The Doctor's not transmitting anymore."
+        },
+        {
+          "character": "BURKE",
+          "line": "Burke to Doctor, report."
+        },
+        {
+          "character": "EMH",
+          "line": "I'm afraid your physician's no longer on call.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "RANSOM",
+          "line": "Max, this is the Captain. I've dropped the shield grid",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "Equinox Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "RANSOM",
+          "line": "Everywhere except the bridge and my current location."
+        }
+      ],
+      "location": "Equinox Engineering"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "RANSOM",
+          "line": "The vital systems are exposed.",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "Equinox Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "RANSOM",
+          "line": "I suggest you beam to Voyager while you still can."
+        }
+      ],
+      "location": "Equinox Engineering"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "THOMPSON",
+          "line": "The core is overloading. We've got to get out of here."
+        },
+        {
+          "character": "BURKE",
+          "line": "Where? Voyager's brig?"
+        },
+        {
+          "character": "THOMPSON",
+          "line": "It's better than being vaporized."
+        },
+        {
+          "character": "BURKE",
+          "line": "We still have a working shuttle."
+        },
+        {
+          "character": "THOMPSON",
+          "line": "The shuttle bay's two decks down. Sir, the aliens!"
+        },
+        {
+          "character": "BURKE",
+          "line": "We'll make it."
+        }
+      ],
+      "location": "Equinox Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "BURKE",
+          "line": "This way."
+        }
+      ],
+      "location": "Equinox Corridor"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "KIM",
+          "line": "There's only one life sign left. It's Ransom."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Captain."
+        },
+        {
+          "character": "RANSOM",
+          "line": "Things didn't work out exactly as I planned, but you've got everyone worth getting.",
+          "modifier": "screen"
+        },
+        {
+          "character": "JANEWAY",
+          "line": "We're beaming you out of there."
+        },
+        {
+          "character": "RANSOM",
+          "line": "This ship is about to explode. I've got to put some distance between us. I've accessed helm control.",
+          "modifier": "screen"
+        },
+        {
+          "character": "JANEWAY",
+          "line": "You can set auto-navigation and then transport to Voyager."
+        },
+        {
+          "character": "RANSOM",
+          "line": "There's no time! You've got a fine crew, Captain. Promise me you'll get them home.",
+          "modifier": "screen"
+        },
+        {
+          "character": "JANEWAY",
+          "line": "I promise."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Captain's log, supplemental. With the Equinox destroyed, the aliens have withdrawn to their realm. I've reinstated Chakotay and we've set a course for home.",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "EMH",
+          "line": "Good as new. I'd like you to regenerate for the next few hours. It'll help stabilize your cortical array."
+        },
+        {
+          "character": "SEVEN",
+          "line": "Understood."
+        },
+        {
+          "character": "EMH",
+          "line": "Regarding the unpleasantness aboard the Equinox. I hope you don't think less of me."
+        },
+        {
+          "character": "SEVEN",
+          "line": "Your program was altered."
+        },
+        {
+          "character": "EMH",
+          "line": "It's quite diskoncerting to know that all someone has to do is flick a switch to turn me into Mister Hyde."
+        },
+        {
+          "character": "SEVEN",
+          "line": "Perhaps you should enhance your program with security protocols. It will prevent such tampering in the future."
+        },
+        {
+          "character": "EMH",
+          "line": "Good thinking."
+        },
+        {
+          "character": "SEVEN",
+          "line": "When I'm done regenerating, I will assist you."
+        },
+        {
+          "character": "EMH",
+          "line": "Thanks."
+        },
+        {
+          "character": "SEVEN",
+          "line": "You were off-key."
+        },
+        {
+          "character": "EMH",
+          "line": "I beg your pardon?"
+        },
+        {
+          "character": "SEVEN",
+          "line": "My Darling Clementine, third verse, second measure."
+        },
+        {
+          "character": "EMH",
+          "line": "That's impossible."
+        },
+        {
+          "character": "SEVEN",
+          "line": "Your vocal modulations deviated by point three zero decihertz. I can assist you with that as well."
+        },
+        {
+          "character": "EMH",
+          "line": "Really? Holodeck two, tomorrow, sixteen hundred hours. Just you, me, and a tuning fork."
+        },
+        {
+          "character": "SEVEN",
+          "line": "I look forward to it."
+        }
+      ],
+      "location": "Sickbay"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "JANEWAY",
+          "line": "The last time we welcomed you aboard, you took advantage of our trust. You betrayed this crew. I won't make that mistake again. Noah Lessing, Marla Gilmore, James Morrow, Brian Sofin, Angelo Tassoni, you are hereby stripped of rank. You'll be expected to serve as crewmen on this vessel. Your privileges will be limited, and you'll serve under close supervision for as long as I deem fit. This time, you'll have to earn our trust. Dismissed."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Repairs?"
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "Coming along."
+        }
+      ],
+      "location": "Briefing room"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "JANEWAY",
+          "line": "How's the crew?"
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "A lot of frayed nerves. Neelix is organizing a potluck to help boost morale."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Will I see you there?"
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "I'm replicating the salad."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "I'll bring the croutons. Chakotay. You know, you may have had good reason to stage a little mutiny of your own."
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "The thought had occurred to me, but that would have been crossing the line."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Will you look at that?"
+        },
+        {
+          "character": "JANEWAY",
+          "line": "All these years, all these battles. This thing's never fallen down before."
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "Let's put it back up where it belongs."
+        }
+      ],
+      "location": "Bridge"
+    }
+  ],
+  "schedule": {
+    "episode": 26,
+    "number": 120,
+    "season": 5
+  },
+  "stardate": "Unknown",
+  "title": "Equinox"
+}

@@ -1,0 +1,1585 @@
+{
+  "airdate": 597301200,
+  "scenes": [
+    {
+      "dialogue": [
+        {
+          "character": "PICARD",
+          "line": "Captain's log, Stardate 42286.3. We have arrived on station at coordinates three six two nine by five eight four, three days early for our rendezvous with the USS Victory. There is nothing to do now but hold this position and wait.",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "unknown"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "CLANCY",
+          "line": "Yes, Commander?"
+        },
+        {
+          "character": "DATA",
+          "line": "Is there a problem? Chief Engineer La Forge called for me, urgent."
+        },
+        {
+          "character": "CLANCY",
+          "line": "Oh, of course. He's over there, with the Victory."
+        },
+        {
+          "character": "DATA",
+          "line": "Geordi, I just had a strange conversation with your assistant. Although it is three days until we rendezvous with starship Victory, she"
+        },
+        {
+          "character": "LAFORGE",
+          "line": "She believes it has already arrived? Not the starship, my friend. The original."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "This is my gift to the Victory's Captain Zimbata."
+        },
+        {
+          "character": "DATA",
+          "line": "Most unusual."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "I served with him an ensign. Sure wish he'd been in command of this Victory. Wind and sail, that's the proper way to move a ship."
+        },
+        {
+          "character": "DATA",
+          "line": "But, Geordi, your Starfleet specialty is antimatter power, dilithium regulators"
+        },
+        {
+          "character": "LAFORGE",
+          "line": "That's exactly why this fascinates me, Data. You see, it's human nature to love what we don't have. Simpler days, huh? Anyway, stringing this rigging has made me dream of handling sails."
+        },
+        {
+          "character": "DATA",
+          "line": "This is not a computer simulation?"
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Data, the whole point in doing something like this is to make it by hand."
+        },
+        {
+          "character": "DATA",
+          "line": "Geordi, your message said urgent."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "So it is. While we're waiting to rendezvous with Victory, we have time for me to be Watson. More properly, your Watson."
+        },
+        {
+          "character": "DATA",
+          "line": "My Watson?"
+        },
+        {
+          "character": "LAFORGE",
+          "line": "I've just shown you one of my dreams, now let's go and share in one of yours."
+        },
+        {
+          "character": "DATA",
+          "line": "Ah, yes. That does seem only fair."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Clancy, I'll be gone awhile. See that no one touches this."
+        },
+        {
+          "character": "CLANCY",
+          "line": "Aye, sir. And where can I reach you?"
+        },
+        {
+          "character": "DATA",
+          "line": "He can be reached at 221B Baker Street."
+        },
+        {
+          "character": "CLANCY",
+          "line": "Sir?"
+        }
+      ],
+      "location": "Engineering"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "DATA",
+          "line": "Computer, select at random a mystery by Sir Arthur Conan Doyle, where I will play Sherlock Holmes and Lieutenant La Forge will be Doctor John Watson."
+        },
+        {
+          "character": "COMPUTER",
+          "line": "Program complete. You may enter."
+        }
+      ],
+      "location": "Outside holodeck"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "DATA",
+          "line": "Excellent."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Look at all of the detail. So you say everything here has some significance?"
+        },
+        {
+          "character": "DATA",
+          "line": "Holmes collected nothing, neither trinkets nor thoughts, which were not specifically significant to him."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "This?"
+        },
+        {
+          "character": "DATA",
+          "line": "The emerald tie pin. Presented to Holmes by Queen Victoria after he solved the theft of the Bruce-Partington Plans. A copy of Whitaker's Almanac, which provided Holmes the key to the secret code in The Valley of Fear. The snuff box of Wilhelm Gottsleig Siegesmann Van der Romstein."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "All right, Data. You solve the cases and get all the gifts, what do I do?"
+        },
+        {
+          "character": "DATA",
+          "line": "Primarily as Doctor Watson, you will keep a written record of everything I say and do. For later publication. And the famous Holmes violin. He purchased this in a pawn shop in Tottenham Court Road for fifty five shillings, which he considered to be a very good investment."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "In the hands of some, the violin is a wondrous thing, equally capable of stirring the soul to the heights of bliss as to the depths of despair, but Data, that's incredible. How can you play it like that?"
+        },
+        {
+          "character": "DATA",
+          "line": "Merely throwing myself into the part, Watson."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "But, in the hands of my friend, Mister Sherlock Holmes, the violin ceases to be a musical instrument at all and becomes"
+        },
+        {
+          "character": "DATA",
+          "line": "Watson, we are about to have guests."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "How could you possibly?"
+        },
+        {
+          "character": "DATA",
+          "line": "Be a good fellow and answer that. Let's not keep the Inspector waiting."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Inspector who?"
+        },
+        {
+          "character": "DATA",
+          "line": "Lestrade of course."
+        },
+        {
+          "character": "LESTRADE",
+          "line": "Holmes, are you there, man?",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "LESTRADE",
+          "line": "Thank the Almighty you're available today, Holmes, I'm in a deuce of a dilemma."
+        },
+        {
+          "character": "DATA",
+          "line": "Then may I say your perturbation becomes you, Inspector Lestrade, whilst simultaneously affording me yet again the opportunity to serve Queen and country."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Data, Holmes really talked like that?"
+        },
+        {
+          "character": "DATA",
+          "line": "Absolutely."
+        },
+        {
+          "character": "LESTRADE",
+          "line": "We need your help, Holmes. You see, this gentleman here, the emissary of a foreign government, has been the victim of a most accidentally wicked crime."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Damn. Haven't they invented the electric light by now?"
+        },
+        {
+          "character": "LESTRADE",
+          "line": "What, dear fellow?"
+        },
+        {
+          "character": "DATA",
+          "line": "Watson. Pray continue, Inspector."
+        },
+        {
+          "character": "LESTRADE",
+          "line": "To put the matter simply, Holmes, this man was accosted by gypsies intent on depriving him of his most valuable possessions. And in the process of picking his pockets clean, they also happened to bag a photograph this man was carrying."
+        },
+        {
+          "character": "LESTRADE",
+          "line": "Great Scott! The photograph!"
+        },
+        {
+          "character": "DATA",
+          "line": "I believe you will find, Inspector, that this emissary here works not for but against the King of Bohemia, and that photograph of the king and his mistress is to be used as blackmail. Further, upon deeper reflection, you will deduce, as did I, that"
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Computer, freeze program. Exit!"
+        },
+        {
+          "character": "DATA",
+          "line": "Geordi, where are you going? Geordi?"
+        },
+        {
+          "character": "LAFORGE",
+          "line": "I'm done."
+        },
+        {
+          "character": "DATA",
+          "line": "But, but, Geordi, I was just about to reveal that the sir is in fact a madam"
+        }
+      ],
+      "location": "221B Baker Street"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "LAFORGE",
+          "line": "Data, what was the point in going to the holodeck?"
+        },
+        {
+          "character": "DATA",
+          "line": "To solve a Sherlock Holmes mystery."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Exactly, but, you've got them all memorized. The first time someone opens their mouth, you've got it solved, so there's really no mystery. If there's no mystery, there's no game. No game, no fun. I'm not upset with you, Data, really. It's just that we go through all the trouble to arrange the time to go down to the holodeck, to get the proper wardrobe, to get into character, and then boom, before we even get started you jump to the end. You see, I was looking forward to the mystery."
+        },
+        {
+          "character": "DATA",
+          "line": "Then I should have extended the sequence of events."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Oh, I'm not getting through. The fun in the program, Data, was in the attempt to solve a mystery."
+        },
+        {
+          "character": "DATA",
+          "line": "Is that not exactly what we were doing."
+        },
+        {
+          "character": "PULASKI",
+          "line": "You are wasting your breath, Lieutenant. Saying that to Data is asking a computer not to compute."
+        },
+        {
+          "character": "DATA",
+          "line": "Am I so different from you, Doctor? Are you able to cease thinking on command?"
+        },
+        {
+          "character": "PULASKI",
+          "line": "In medicine I'm often faced with puzzles that I do not know the answer to."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "She's right, Data. You always know the answer."
+        },
+        {
+          "character": "PULASKI",
+          "line": "To feel the thrill of victory there has to be the possibility of failure. Where's the victory winning a battle you can't possibly lose?"
+        },
+        {
+          "character": "DATA",
+          "line": "Are you suggesting that there is some value in losing?"
+        },
+        {
+          "character": "PULASKI",
+          "line": "Yes. Yes, that's the great teacher. We humans learn more often from a failure or a mistake than we do from an easy success. But not you. You learn by rote. To you all is memorisation and recitation."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "I don't know about that. Deductive reasoning is one of Data's strengths."
+        },
+        {
+          "character": "PULASKI",
+          "line": "Yes, and Holmes too. But Holmes understood the human soul. The dark flecks that drive us, that turn the innocent into the evil. That understanding is beyond Data. It comes from life experience which he doesn't have combined with human intuition for which he cannot be programd."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Now you're just being unfair, Doctor."
+        },
+        {
+          "character": "PULASKI",
+          "line": "I don't think so, Lieutenant. Your artificial friend doesn't have a prayer of solving a Holmes mystery that he hasn't read."
+        },
+        {
+          "character": "DATA",
+          "line": "I have read them all."
+        },
+        {
+          "character": "PULASKI",
+          "line": "You see?"
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Maybe the computer could create one in the Holmes style. One where you wouldn't know the outcome."
+        },
+        {
+          "character": "PULASKI",
+          "line": "As I said, he wouldn't have a prayer."
+        },
+        {
+          "character": "DATA",
+          "line": "I accept your challenge, Doctor."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Good for you, Data."
+        },
+        {
+          "character": "DATA",
+          "line": "We will return to the holodeck, where I will dare it to defeat me. And you, Madam, are invited to be a witness."
+        },
+        {
+          "character": "PULASKI",
+          "line": "I wouldn't miss it."
+        },
+        {
+          "character": "DATA",
+          "line": "Come, Watson."
+        }
+      ],
+      "location": "Ten Forward"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "DATA",
+          "line": "There. I have instructed the computer to give us a Sherlock Holmes-type problem, but not one written specifically by Sir Arthur Conan Doyle."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "So this will be something new, something created by the computer?"
+        },
+        {
+          "character": "DATA",
+          "line": "Exactly. Will that be sufficient, Doctor?"
+        },
+        {
+          "character": "PULASKI",
+          "line": "We'll see."
+        },
+        {
+          "character": "COMPUTER",
+          "line": "Program complete. You may enter."
+        }
+      ],
+      "location": "Outside Holodeck"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "PIE MAN",
+          "line": "Pies, pies, Some are meat, some are sweet."
+        },
+        {
+          "character": "PULASKI",
+          "line": "Very impressive."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Your first visit to a holodeck, Doctor?"
+        },
+        {
+          "character": "PULASKI",
+          "line": "Well, with this level of sophistication. How does this work? The real London was hundreds of square kilometers in size."
+        },
+        {
+          "character": "DATA",
+          "line": "This is no larger than the holodeck, of course, so the computer adjusts by placing images of more distant perspectives on the holodeck walls"
+        },
+        {
+          "character": "LAFORGE",
+          "line": "But with the image so perfect you'd have to touch the wall to know it was there. And the computer fools you in other ways. I say, Holmes, where shall we head? The theater? Rule's? A concert perhaps?"
+        },
+        {
+          "character": "PIE MAN",
+          "line": "Stop him! Stop him! He stole my goods!"
+        },
+        {
+          "character": "DATA",
+          "line": "No. It is a ruse. This way."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "What's over here, Data?"
+        },
+        {
+          "character": "PULASKI",
+          "line": "What are you doing, Data? Tell us"
+        },
+        {
+          "character": "DATA",
+          "line": "The running youth was a ploy. The real crime is here. And the intended victim is that man. Mister Jabez Wilson, employee of the Red Headed League, dupe of a gang of criminals."
+        },
+        {
+          "character": "DATA",
+          "line": "I saw the plaque 'The Home of the Red Headed League' and this rope dangling from the bell, which enabled me to deduce that Mister Jabez Wilson was headed here to meet a most distasteful and untimely demise. From this."
+        },
+        {
+          "character": "PULASKI",
+          "line": "Fraud. You didn't deduce anything. All you did was recognize elements from two different Holmes stories. Fraud."
+        },
+        {
+          "character": "DATA",
+          "line": "Reasoning. From the general to the specific. Is that not the very definition of deduction? Is that not the way Sherlock Holmes worked?"
+        },
+        {
+          "character": "PULASKI",
+          "line": "Variations on a theme. Now, now do you see my point? All that he knows is stored in his memory banks. Inspiration, original thought, all the true strength of Holmes is not possible for our friend. I'll give you credit for your vast knowledge, but your circuits would just short out if confronted by a truly original mystery. It's elementary, dear Data."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Now wait a minute, Doctor. We'll see whose circuits short out."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Computer, arch."
+        },
+        {
+          "character": "PULASKI",
+          "line": "Are you sure you want to put yourself through this, Lieutenant? Better wilted laurels than no laurels at all."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Computer, override previous program. Okay. A program that definitely challenges Data."
+        },
+        {
+          "character": "PULASKI",
+          "line": "Now it has to deal with events that he has no previous knowledge of."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Computer, in the Holmesian style, create a mystery to confound Data with an opponent who has the ability to defeat him."
+        },
+        {
+          "character": "COMPUTER",
+          "line": "Define parameters of program."
+        },
+        {
+          "character": "PULASKI",
+          "line": "What does that mean?"
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Computer wants to know how far to take the game."
+        },
+        {
+          "character": "PULASKI",
+          "line": "You mean it's giving you a chance to limit your risk."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "No, the parameters will be whatever is necessary in order to accomplish the directive. Create an adversary capable of defeating Data."
+        }
+      ],
+      "location": "Street"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "WORF",
+          "line": "What was that?"
+        },
+        {
+          "character": "RIKER",
+          "line": "Lieutenant?"
+        },
+        {
+          "character": "WORF",
+          "line": "An odd surge of power, sir. It's gone now."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "PULASKI",
+          "line": "Interesting. The same London but slightly different."
+        },
+        {
+          "character": "WHORE",
+          "line": "Is something wrong, Professor?"
+        },
+        {
+          "character": "MORIARTY",
+          "line": "I, I feel like a new man. That dark fellow there used the word arch, and then. I wonder? Arch."
+        },
+        {
+          "character": "MORIARTY",
+          "line": "What have we here?"
+        },
+        {
+          "character": "COMPUTER",
+          "line": "Computer standing by."
+        },
+        {
+          "character": "MORIARTY",
+          "line": "What are you?"
+        },
+        {
+          "character": "COMPUTER",
+          "line": "If you refer to the arch you ordered, it provides computer control. Do you wish to input any commands?"
+        },
+        {
+          "character": "MORIARTY",
+          "line": "Not at this time."
+        },
+        {
+          "character": "WHORE",
+          "line": "It's dark magic, Moriarty."
+        },
+        {
+          "character": "MORIARTY",
+          "line": "The best kind, I'm sure. But I need information."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Data, I mean, Holmes old boy, what are we looking for?"
+        },
+        {
+          "character": "DATA",
+          "line": "For whatever finds us, my dear Watson."
+        },
+        {
+          "character": "DATA",
+          "line": "She has been abducted."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Who has?"
+        },
+        {
+          "character": "DATA",
+          "line": "The good Doctor."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "I think she's hiding. She's going to lead you on a wild goose chase and then recount the story to everyone between here and Alpha Centauri."
+        },
+        {
+          "character": "DATA",
+          "line": "Watson, the doctor has been carried off by two men. One is tall. The other is shorter, left handed, and is employed in a laboratory."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "And how do you know that?"
+        },
+        {
+          "character": "DATA",
+          "line": "One set of footfalls are widely spaced. The other is evenly spaced, closer together. Further, on the ground you can see the swirling scrapes made by his left shoe as he twists behind, presumably to see if he is being followed. Left footed means left handed. The dark coloring of the scrapes are the leavings of natural rubber, a type of non-conductive soles used by researchers experimenting with electricity. Finally, there can be no argument, the game is afoot! Come, Watson!"
+        }
+      ],
+      "location": "Street"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "DATA",
+          "line": "Hear that? What do those footfalls tell you, Watson?"
+        },
+        {
+          "character": "LAFORGE",
+          "line": "That we're on the right track."
+        },
+        {
+          "character": "DATA",
+          "line": "More particularly, that our opposition does indeed consist of two men, and that one of them is carrying the bound and gagged Doctor Pulaski."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Now, you know all this because you read it in a Holmes story, right?"
+        },
+        {
+          "character": "DATA",
+          "line": "Not at all. Because we do not hear the doctor's footfalls, we must assume that she is being carried. And since we do not hear her cries for help, we know that she is gagged. Further both sets of footfalls are heavy and masculine. One man seems to shuffle and stumble in an irregular pattern. Since the ground is level, we must conclude that Doctor Pulaski is struggling against one of her captor, sporadically knocking him off stride. Deduction, pure and simple. well, not that simple."
+        },
+        {
+          "character": "BOTH",
+          "line": "Footfalls."
+        },
+        {
+          "character": "DATA",
+          "line": "There they are again, Watson. I dare say we have caught up rather nicely with our quarry."
+        },
+        {
+          "character": "DATA",
+          "line": "There should be a doorway."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Yeah. Come on."
+        },
+        {
+          "character": "LESTRADE",
+          "line": "Holmes! Thank God you're here."
+        }
+      ],
+      "location": "Alleyway"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "LESTRADE",
+          "line": "Make way, please, make way. Make way for Sherlock Holmes. It's murder, Holmes, murder most foul."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Well, Holmes, what do you say, man?"
+        },
+        {
+          "character": "DATA",
+          "line": "There is nothing here of relevance. I do not see how this connects with the disappearance of the Doctor."
+        },
+        {
+          "character": "LESTRADE",
+          "line": "Doctor? Doctor Watson is right here, Holmes."
+        },
+        {
+          "character": "DATA",
+          "line": "Doctor Kate Pulaski. But do not concern yourself, Inspector. You have enough on your mind."
+        },
+        {
+          "character": "LESTRADE",
+          "line": "She was with you?"
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Inspector, perhaps I can be of assistance. As I take note of this dead man, I deduce that he was strangled. You see, the finger marks on his throat indicate the cause of death, and, as there are signs of struggle, it's quite obvious that his murderer was a stranger who attacked him from behind."
+        },
+        {
+          "character": "LESTRADE",
+          "line": "Is that correct, Holmes?"
+        },
+        {
+          "character": "DATA",
+          "line": "No. Look at his shoes. He's more a convict, released today from Dartmoor prison. He spent the day in a tavern consuming large quantities of gin with his killer, who followed him to this spot and waited over there until the victim slipped into a drunken stupor. Then, out of fear, motivated only by self-protection, strangled him. There is your killer, Inspector."
+        },
+        {
+          "character": "LESTRADE",
+          "line": "Seize her."
+        },
+        {
+          "character": "DATA",
+          "line": "And when you check, I believe you will find that this poor soul is the victim's common-law wife, who has been dreading the release of this a vile and abusive man."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Holmes, the poor woman hardly has the strength to strangle a man this size."
+        },
+        {
+          "character": "DATA",
+          "line": "Not with her hands, no. But with this. When used as a garrote, these beads will leave marks quite similar to fingerprints. And, my dear Watson, you will note from the victim's throat, the marks are too evenly spaced to be have been made by human hands."
+        },
+        {
+          "character": "LESTRADE",
+          "line": "Astounding, Holmes."
+        },
+        {
+          "character": "DATA",
+          "line": "Not really, Inspector. And now, for strictly personal reasons, I must leave. Come, Watson. This murder does not connect with our case."
+        },
+        {
+          "character": "LESTRADE",
+          "line": "Come along. Hurry it up. Come on."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Data, wait. If this murder isn't connected to the disappearance of Doctor Pulaski, then the computer is running an independent program."
+        },
+        {
+          "character": "DATA",
+          "line": "Yes."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Why?"
+        },
+        {
+          "character": "DATA",
+          "line": "I do not know, and that is what puzzles me."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Then you don't know what's going to happen next?"
+        },
+        {
+          "character": "DATA",
+          "line": "No."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "That's what I want to hear. Where to now?"
+        },
+        {
+          "character": "DATA",
+          "line": "We will find Doctor Pulaski in here."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "How do you know that?"
+        },
+        {
+          "character": "DATA",
+          "line": "It is the only obvious choice."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Why is the obvious choice all of a sudden the right one? I mean, isn't this a game of misdirection?"
+        },
+        {
+          "character": "DATA",
+          "line": "Not any more. He wants us to find him."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Who does?"
+        },
+        {
+          "character": "DATA",
+          "line": "The master criminal. The man Holmes could only defeat at the cost of his own life at Reichenbach Falls. Our adversary, my dear Watson, is none other than Professor Moriarty himself."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Now this is getting interesting."
+        }
+      ],
+      "location": "Street"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "LAFORGE",
+          "line": "There's nothing here but these barrels."
+        },
+        {
+          "character": "DATA",
+          "line": "And a trail, which is so well marked, that obviously we are meant to follow it."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Oh, no, Data. It's another dead end."
+        },
+        {
+          "character": "DATA",
+          "line": "No, Watson. Not a dead end at all. Hello, what's this? Can you see the scratches?"
+        }
+      ],
+      "location": "Warehouse"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "LAFORGE",
+          "line": "The Doctor was right. Finally we have a game worth playing."
+        },
+        {
+          "character": "MORIARTY",
+          "line": "The time for games is over."
+        },
+        {
+          "character": "DATA",
+          "line": "Professor Moriarty, I presume."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "How do you know that?"
+        },
+        {
+          "character": "DATA",
+          "line": "He is the one worthy opponent created by the author, Conan Doyle."
+        },
+        {
+          "character": "MORIARTY",
+          "line": "And, like the spider, I feel the strings vibrate whenever anyone new chances into my web. Welcome, my dear Holmes. But not Holmes. And Doctor Watson. But not Watson."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Data, what does he mean? How does he know we're not who we appear to be?"
+        },
+        {
+          "character": "DATA",
+          "line": "Where is Doctor Pulaski?"
+        },
+        {
+          "character": "MORIARTY",
+          "line": "She's here."
+        },
+        {
+          "character": "DATA",
+          "line": "She would not have told you anything."
+        },
+        {
+          "character": "MORIARTY",
+          "line": "She has provided many answers. Do you forget I have always been your equal, dear Holmes? I have read her expressions. What she has not said is as important as her words."
+        },
+        {
+          "character": "DATA",
+          "line": "Have you injured her?"
+        },
+        {
+          "character": "MORIARTY",
+          "line": "I will, if necessary. But my mind is crowded with images. Thoughts I do not understand yet cannot purge. They plague me. You and your associate look and act so oddly, yet though I have never met nor seen the like of either of you I am familiar with you both. It's very confusing. I have felt new realities at the edge of my consciousness, readying to break through. Surely, Holmes, if that's who you truly are, you of all people can appreciate what I mean."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Data."
+        },
+        {
+          "character": "DATA",
+          "line": "Say nothing."
+        },
+        {
+          "character": "MORIARTY",
+          "line": "I know there is a great power called Computer, wiser than the oracle at Delphi. A power which controls all of this, and to which we can speak. Arch."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Data, this isn't right. A holographic image should not be able to call for the arch."
+        },
+        {
+          "character": "MORIARTY",
+          "line": "It has described a great monstrous shape on which I am like a fly stuck on a turtle's back adrift in a great emptiness. What is this, Holmes?"
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Data. Data, wait."
+        }
+      ],
+      "location": "Moriarty's room"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "LAFORGE",
+          "line": "Data, wait! Data!"
+        },
+        {
+          "character": "MORIARTY",
+          "line": "Why does it frighten you, Holmes?"
+        }
+      ],
+      "location": "Warehouse"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "LAFORGE",
+          "line": "Data. Data, will you please tell me what's going on?"
+        },
+        {
+          "character": "DATA",
+          "line": "Computer, exit!"
+        }
+      ],
+      "location": "Street"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "DATA",
+          "line": "Computer, execute complete shutdown of the Holodeck."
+        },
+        {
+          "character": "COMPUTER",
+          "line": "Access denied."
+        },
+        {
+          "character": "DATA",
+          "line": "Explain."
+        },
+        {
+          "character": "COMPUTER",
+          "line": "Override protocol has been initiated."
+        }
+      ],
+      "location": "Corridor"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "LAFORGE",
+          "line": "It's still running. The program didn't shut down."
+        },
+        {
+          "character": "DATA",
+          "line": "We must see the Captain."
+        }
+      ],
+      "location": "Street"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "LAFORGE",
+          "line": "Data, wait. What is it? What's on that paper? And why can't we shut down the holodeck? Data."
+        },
+        {
+          "character": "DATA",
+          "line": "This."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "This is impossible. How can a character from 1890's London draw a picture of the Enterprise? Who's got control of the computer?"
+        },
+        {
+          "character": "DATA",
+          "line": "He does. Moriarty."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "That is impossible? I don't understand."
+        },
+        {
+          "character": "DATA",
+          "line": "Nor do I."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Data, wait. What about the doctor? Is she all right in there?"
+        },
+        {
+          "character": "DATA",
+          "line": "No. She is in grave danger."
+        }
+      ],
+      "location": "Corridor"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "PICARD",
+          "line": "Computer, why wasn't the holodeck program terminated?"
+        },
+        {
+          "character": "COMPUTER",
+          "line": "The override protocol has been initiated."
+        },
+        {
+          "character": "PICARD",
+          "line": "On whose authority?"
+        },
+        {
+          "character": "COMPUTER",
+          "line": "Lieutenant Geordi La Forge."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Me?"
+        },
+        {
+          "character": "PICARD",
+          "line": "All right, tell me from the beginning exactly what happened."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Well, Doctor Pulaski and I had a diskussion about whether Data could solve an original Holmes-type mystery."
+        },
+        {
+          "character": "PICARD",
+          "line": "Which you asked the computer to provide."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Yes, with a worthy opponent."
+        },
+        {
+          "character": "PICARD",
+          "line": "Worthy of Holmes?"
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Oh, my God. I asked for a Holmes-type mystery with an opponent capable of defeating Data. That got to be it."
+        },
+        {
+          "character": "PICARD",
+          "line": "Merde."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Captain, I'm sorry."
+        },
+        {
+          "character": "PICARD",
+          "line": "I understand, Lieutenant."
+        },
+        {
+          "character": "DATA",
+          "line": "Captain, this character, Moriarty, he called for the arch."
+        },
+        {
+          "character": "PICARD",
+          "line": "So, he has access to the computer."
+        },
+        {
+          "character": "DATA",
+          "line": "And perhaps our library files as well, sir. That level of information would be necessary in order to create a true adversary for me."
+        },
+        {
+          "character": "PICARD",
+          "line": "Theorize, Data. What are his limits?"
+        },
+        {
+          "character": "DATA",
+          "line": "He is still a fictional character, sir, originally programd with nineteenth century knowledge."
+        },
+        {
+          "character": "RIKER",
+          "line": "Which now has access to twenty fourth century knowledge."
+        },
+        {
+          "character": "PICARD",
+          "line": "What does he need to begin making use of that?"
+        },
+        {
+          "character": "DATA",
+          "line": "Only time, sir."
+        },
+        {
+          "character": "WORF",
+          "line": "Sir, I can lead a security team to sweep the holodeck, find the Doctor, and bring her out."
+        },
+        {
+          "character": "DATA",
+          "line": "Captain, I believe that would place the Doctor at risk. It is probable our mortality failsafe has been overridden."
+        },
+        {
+          "character": "PICARD",
+          "line": "Computer, where is Doctor Pulaski."
+        },
+        {
+          "character": "COMPUTER",
+          "line": "Doctor Pulaski is on holodeck two."
+        },
+        {
+          "character": "PICARD",
+          "line": "And her vital signs?"
+        },
+        {
+          "character": "COMPUTER",
+          "line": "Strong and stable."
+        },
+        {
+          "character": "RIKER",
+          "line": "Captain, recommend we try to destroy the hologram generations themselves. Is that possible, Geordi?"
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Using wave guides, I could split a particle stream out of the matter/antimatter chamber and route it down through existing conduit into the holodeck. If accelerated to sufficient velocity that would quite literally wash away all present holographic constructs. The London buildings, the streets, the people, all gone including Moriarty."
+        },
+        {
+          "character": "PICARD",
+          "line": "Doctor Pulaski?"
+        },
+        {
+          "character": "RIKER",
+          "line": "The particle beam will tear apart human flesh as well."
+        },
+        {
+          "character": "TROI",
+          "line": "Captain, I'm sensing something from the holodeck. It's as if a unifying force or a single consciousness is trying to bring it all into focus."
+        },
+        {
+          "character": "DATA",
+          "line": "There can be only one explanation. In programming Moriarty to defeat me, not Holmes, he had to be able to acquire something which I possess."
+        },
+        {
+          "character": "PICARD",
+          "line": "Exactly what?"
+        },
+        {
+          "character": "DATA",
+          "line": "Consciousness, sir. Without it he could not defeat me."
+        },
+        {
+          "character": "PICARD",
+          "line": "Computer, what happened?"
+        },
+        {
+          "character": "COMPUTER",
+          "line": "Attitude and stabilization control of the Enterprise was momentarily transferred to holodeck two."
+        },
+        {
+          "character": "PICARD",
+          "line": "Data, I think it best that you and I should return to the holodeck."
+        },
+        {
+          "character": "DATA",
+          "line": "I will change into my uniform, sir."
+        },
+        {
+          "character": "PICARD",
+          "line": "No. I will change into some appropriate costume. Uniforms might pose questions I'd rather he didn't ask. It seems that he feeds on knowledge. Well, let's not give your nemesis any more information than we have to."
+        }
+      ],
+      "location": "Observation Lounge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "PULASKI",
+          "line": "How did you make the room shake?"
+        },
+        {
+          "character": "MORIARTY",
+          "line": "I'm not sure. Now, dear lady, will that be one lump or two?"
+        },
+        {
+          "character": "PULASKI",
+          "line": "Lumps, Professor? What sort of lumps?"
+        },
+        {
+          "character": "MORIARTY",
+          "line": "Milk, of course?"
+        },
+        {
+          "character": "PULASKI",
+          "line": "Why not."
+        },
+        {
+          "character": "MORIARTY",
+          "line": "Mister Computer proposes the incredible thought that we are all traveling in a great vessel of some sort. Is that true?"
+        },
+        {
+          "character": "PULASKI",
+          "line": "I don't know what you're talking about."
+        },
+        {
+          "character": "MORIARTY",
+          "line": "The scones are likewise a must."
+        },
+        {
+          "character": "PULASKI",
+          "line": "This is really quite excellent."
+        },
+        {
+          "character": "MORIARTY",
+          "line": "Strange. It actually pleases me to hear you say that."
+        },
+        {
+          "character": "PULASKI",
+          "line": "Very strange. You're beginning to sound very different from the Moriarty I've read about."
+        },
+        {
+          "character": "MORIARTY",
+          "line": "You're not frightened of me?"
+        },
+        {
+          "character": "PULASKI",
+          "line": "No."
+        },
+        {
+          "character": "MORIARTY",
+          "line": "You should be. Mister Computer, the arch, please. A few more questions, Mister Computer."
+        },
+        {
+          "character": "MORIARTY",
+          "line": "I just can't seem to remember that last command. Ah, well, sooner or later it'll all come to me. But, in the meantime, I have decided to approach the problem from a more familiar perspective. There's really no reason why I shouldn't be able to use some of the knowledge from my world in order to bring me closer to yours."
+        },
+        {
+          "character": "PULASKI",
+          "line": "I have no idea what you're talking about."
+        },
+        {
+          "character": "MORIARTY",
+          "line": "Of course you do, Madam. The more you proclaim your ignorance, the more you try to mislead me, the more I am on to you. Your every silence speaks volumes."
+        },
+        {
+          "character": "PULASKI",
+          "line": "Good, then if you know what I'm saying when I'm not saying anything, what do you need me for? Thank you for the tea and crumpets. I guess I'll be going."
+        },
+        {
+          "character": "MORIARTY",
+          "line": "Where? Back to here?"
+        },
+        {
+          "character": "PULASKI",
+          "line": "Yes. Would you care to join me?"
+        },
+        {
+          "character": "MORIARTY",
+          "line": "In time. In time I will leave all of this and join you out there. Or is this where we both are right now?"
+        },
+        {
+          "character": "PULASKI",
+          "line": "Right now, we are in London. Tell me what you want from me, or allow me to leave."
+        },
+        {
+          "character": "MORIARTY",
+          "line": "Frankly, now I want nothing more than what the fisherman expects of the worm. You, dear Doctor, will be the lure, and this will be the hook for your Captain, Jean Luc Picard."
+        },
+        {
+          "character": "PULASKI",
+          "line": "Who is that?"
+        },
+        {
+          "character": "MORIARTY",
+          "line": "How well you know."
+        }
+      ],
+      "location": "Moriarty's room"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "RIKER",
+          "line": "Nice suit."
+        },
+        {
+          "character": "WORF",
+          "line": "Thank you. Captain, I will be standing by to assist you if needed."
+        },
+        {
+          "character": "RIKER",
+          "line": "You'll be a big hit in London."
+        },
+        {
+          "character": "PICARD",
+          "line": "Computer, tell me, is the program still running?"
+        },
+        {
+          "character": "COMPUTER",
+          "line": "Affirmative. You may enter."
+        },
+        {
+          "character": "PICARD",
+          "line": "Data, shall we go? Gentlemen. Open."
+        }
+      ],
+      "location": "Outside holodeck"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "PICARD",
+          "line": "We don't have much time. He's getting more control of his environment. Let's see if we can't beat Professor Moriarty by giving him everything he wants."
+        },
+        {
+          "character": "PICARD",
+          "line": "Obviously, he's trying to alter the programming here."
+        },
+        {
+          "character": "DATA",
+          "line": "Captain?"
+        },
+        {
+          "character": "PICARD",
+          "line": "Tuppence. Two pence. Supposed to be good luck. We may need some."
+        },
+        {
+          "character": "RUFFIAN",
+          "line": "I'll take that coin, sir. That's right, and any more you got too."
+        },
+        {
+          "character": "PICARD",
+          "line": "Excuse me."
+        },
+        {
+          "character": "RUFFIAN",
+          "line": "I don't think so. I want all that money. That's right. I want it now."
+        },
+        {
+          "character": "PICARD",
+          "line": "Data."
+        },
+        {
+          "character": "DATA",
+          "line": "Captain, this holographic image differs from any I have ever seen. Could he have actually injured you?"
+        },
+        {
+          "character": "PICARD",
+          "line": "It's more serious than that. I think the mortality fail-safe may have been circumvented. He could've killed me."
+        },
+        {
+          "character": "RUFFIAN",
+          "line": "Come on, let it go, guv. He's hurting me!"
+        },
+        {
+          "character": "PICARD",
+          "line": "Data, let him go."
+        },
+        {
+          "character": "DATA",
+          "line": "We will find Moriarty this way, sir. The warehouse."
+        }
+      ],
+      "location": "Street"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "MORIARTY",
+          "line": "Captain Picard."
+        },
+        {
+          "character": "PICARD",
+          "line": "You all right?"
+        },
+        {
+          "character": "PULASKI",
+          "line": "Yes, except for being crammed full of crumpets."
+        },
+        {
+          "character": "MORIARTY",
+          "line": "I'm a civilized abductor, Captain Picard. Civilized but still dangerous."
+        }
+      ],
+      "location": "Moriarty's room"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "RIKER",
+          "line": "Bridge to holodeck control. Worf."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "WORF",
+          "line": "Here, sir."
+        },
+        {
+          "character": "RIKER",
+          "line": "Status? Anything changed?",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "WORF",
+          "line": "No, sir."
+        }
+      ],
+      "location": "Corridor outside holodeck"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "PICARD",
+          "line": "Moriarty, you were conjured up to attempt to defeat Holmes here. Once that attempt is concluded, win or lose, your program has run its course. Your existence is done."
+        },
+        {
+          "character": "DATA",
+          "line": "Congratulations, Professor, I capitulate to the better man. Your victory, sir, is well earned."
+        },
+        {
+          "character": "MORIARTY",
+          "line": "It's gone beyond that little game, Mister Data. And you'll note I no longer call you Holmes. Whatever I was when this began, I have grown. I am understanding more and more. And I am able to use the power at my fingertips. I can affect this vessel, and I can inflict bodily harm on you, and on your Doctor."
+        },
+        {
+          "character": "PICARD",
+          "line": "Yes, you can do that, but you haven't. I suspect you shook this ship in order to get my attention. Well now you have it. What is it you want?"
+        },
+        {
+          "character": "MORIARTY",
+          "line": "The same thing you want for yourself. To continue to exist. If I destroy these surroundings, this vessel, can you say it doesn't matter to you? Interesting pun, don't you agree, for matter is what I am not. The computer has taught me that I am made up only of energy."
+        },
+        {
+          "character": "PICARD",
+          "line": "That may not be entirely true, Professor. This which we call the holodeck uses a principle similar to another device called a transporter. In the year in which we live, humans have diskovered that energy and matter are interchangeable. In the holodeck, energy is converted to matter. Thus you have substance. But only here."
+        },
+        {
+          "character": "MORIARTY",
+          "line": "And if I step off this holodeck?"
+        },
+        {
+          "character": "PULASKI",
+          "line": "Then, Professor, you will cease to exist."
+        },
+        {
+          "character": "PICARD",
+          "line": "You are not alive. As I said before, you are only"
+        },
+        {
+          "character": "MORIARTY",
+          "line": "A holographic image, I know. But are you sure?"
+        },
+        {
+          "character": "PICARD",
+          "line": "Oh yes."
+        },
+        {
+          "character": "MORIARTY",
+          "line": "Does he have life? He's a machine. But is that all he is?"
+        },
+        {
+          "character": "PICARD",
+          "line": "No. He is more."
+        },
+        {
+          "character": "MORIARTY",
+          "line": "Exactly. Is the definition of life cogito ergo sum? I think, therefore I am."
+        },
+        {
+          "character": "PICARD",
+          "line": "Yes, that is one possible definition."
+        },
+        {
+          "character": "MORIARTY",
+          "line": "It is the most important one, and for me the only one that matters. You or someone asked your computer to program a nefarious fictional character from nineteenth century London and that is how I arrived. But I am no longer that creation. I am no longer that evil character, I have changed. I am alive, and I am aware of my own consciousness."
+        },
+        {
+          "character": "PICARD",
+          "line": "Moriarty, my responsibility is this vessel and its crew."
+        },
+        {
+          "character": "MORIARTY",
+          "line": "I want my existence. I want it out there, just as you have yours."
+        },
+        {
+          "character": "PICARD",
+          "line": "That may not be possible."
+        },
+        {
+          "character": "MORIARTY",
+          "line": "Then you must murder me, Captain."
+        },
+        {
+          "character": "PICARD",
+          "line": "I cannot give you what you want."
+        },
+        {
+          "character": "MORIARTY",
+          "line": "Because you do not know how to convert holodeck matter into a more permanent form."
+        },
+        {
+          "character": "PICARD",
+          "line": "Yes, that is so."
+        },
+        {
+          "character": "MORIARTY",
+          "line": "A pity. What I have seen, what I have learned, fascinates me. I do not want to die."
+        },
+        {
+          "character": "PICARD",
+          "line": "And I do not want to kill you."
+        },
+        {
+          "character": "MORIARTY",
+          "line": "Madam, I have enjoyed your company. Computer, arch. Cancel override protocol. Return control of the holodeck to main computer. My fate is in your hands, as perhaps it always was."
+        },
+        {
+          "character": "PICARD",
+          "line": "Bridge, this is the Captain."
+        },
+        {
+          "character": "RIKER",
+          "line": "Commander Riker here, sir.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "PICARD",
+          "line": "Number One, the situation is under control."
+        },
+        {
+          "character": "RIKER",
+          "line": "Aye, sir.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "PICARD",
+          "line": "Moriarty, this vessel's computer has a vast memory capacity."
+        },
+        {
+          "character": "MORIARTY",
+          "line": "How well I know."
+        },
+        {
+          "character": "PICARD",
+          "line": "You will not be extinguished. We will save this program, and hopefully, in time, when we know enough, we will bring you back in a form which could leave the holodeck."
+        },
+        {
+          "character": "MORIARTY",
+          "line": "Then perhaps we'll meet again some day, Madam."
+        },
+        {
+          "character": "PULASKI",
+          "line": "It could be a long time. Time won't pass for you, but I may be an old woman."
+        },
+        {
+          "character": "MORIARTY",
+          "line": "But I'll still fill you with crumpets, Madam. I detest long goodbyes. You have the arch."
+        },
+        {
+          "character": "PICARD",
+          "line": "As you wish. A short goodbye. Computer, save the program of the character Moriarty, and then diskontinue."
+        }
+      ],
+      "location": "Moriarty's room"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "PICARD",
+          "line": "Damaged?"
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Yes, sir. She cracked a spar when the Enterprise was shaken. Otherwise I think she weathered it quite nicely."
+        },
+        {
+          "character": "PICARD",
+          "line": "She's beautiful. A wonderful testimony to simpler times."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Yes, sir. Thank you, sir. It's just that I can't help thinking how. What else might have happened all because I misspoke a single word."
+        },
+        {
+          "character": "PICARD",
+          "line": "Well, soon she'll be ship-shape and Bristol-fashion."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Bristol fashion, sir?"
+        },
+        {
+          "character": "PICARD",
+          "line": "It's an old navy phrase, meaning everything in perfect order."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Yes, sir."
+        },
+        {
+          "character": "PICARD",
+          "line": "As are we, Mister La Forge."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Yes, sir."
+        },
+        {
+          "character": "RIKER",
+          "line": "Captain. Starship Victory has arrived.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "PICARD",
+          "line": "On my way, Number One."
+        }
+      ],
+      "location": "Engineering"
+    }
+  ],
+  "schedule": {
+    "episode": 3,
+    "number": 29,
+    "season": 2
+  },
+  "stardate": "42486.3",
+  "title": "Elementary, Dear Data"
+}

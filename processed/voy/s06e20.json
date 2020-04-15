@@ -1,0 +1,1855 @@
+{
+  "airdate": 953096400,
+  "scenes": [
+    {
+      "dialogue": [
+        {
+          "character": "JANEWAY",
+          "line": "Come in."
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "Seven of Nine's shipwide efficiency analysis."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Did we get a passing grade?"
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "Barely. She wants to present it to the senior staff."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Put her on the schedule."
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "We'll be passing by a class T cluster in the next couple of days. Gas giants, radiogenic sources. I'm not sure it's worth altering course."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "At the very least we should send the Delta Flyer for a look. And let's get a full range of sensor scans as we get closer."
+        }
+      ],
+      "location": "Ready room"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "CHAKOTAY",
+          "line": "We'll go to a level three analysis of the cluster. Tom, get the Flyer ready and assemble an away team. Harry, start continuous scans."
+        },
+        {
+          "character": "KIM",
+          "line": "Kim to Seven of Nine."
+        },
+        {
+          "character": "SEVEN",
+          "line": "Proceed, Ensign.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "KIM",
+          "line": "Any chance you could increase radiogenic resolution in the long range sensors?"
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "KIM",
+          "line": "The Captain wants to get a cleaner look at that cluster coming up off starboard.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "SEVEN",
+          "line": "Acknowledged. Take these specifications to Lieutenant Torres."
+        },
+        {
+          "character": "CELES",
+          "line": "Right away."
+        }
+      ],
+      "location": "Astrometrics lab"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "CELES",
+          "line": "Deck eleven."
+        }
+      ],
+      "location": "Turbolift"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TORRES",
+          "line": "What's our Borg Queen want now? We need to route at least another five terawatts to the sensor array."
+        }
+      ],
+      "location": "Engineering"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "ENGINEER",
+          "line": "Deck fifteen."
+        }
+      ],
+      "location": "Turbolift"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "ENGINEER",
+          "line": "Hello."
+        },
+        {
+          "character": "ENGINEER",
+          "line": "Sorry to interrupt."
+        },
+        {
+          "character": "HARREN",
+          "line": "I'm about to disprove Schlezholt's theory of multiple big bangs. Of course I had to demolish Wang's second postulate to do it."
+        },
+        {
+          "character": "ENGINEER",
+          "line": "Power transfer requisition."
+        },
+        {
+          "character": "HARREN",
+          "line": "You're standing in the way of cosmological history."
+        },
+        {
+          "character": "ENGINEER",
+          "line": "The cosmos is sixteen billion years old. It can wait another few minutes."
+        },
+        {
+          "character": "HARREN",
+          "line": "Schlezholt would thank you for the reprieve."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Captain's log, stardate 53753.2. Long range scans of the T cluster have indicated a number of tantalizing anomalies. The away team should have a field day. Who knows, I may even join them myself.",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "Plasma relay room"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "CELES",
+          "line": "Billy, Billy, wake up."
+        },
+        {
+          "character": "TELFER",
+          "line": "What do you want?",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "CELES",
+          "line": "I need help."
+        },
+        {
+          "character": "TELFER",
+          "line": "Good night.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "CELES",
+          "line": "Billy, don't you dare go back to sleep."
+        }
+      ],
+      "location": "Celes'\nquarters"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TELFER",
+          "line": "What's the problem?"
+        }
+      ],
+      "location": "Telfer's quarters"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "CELES",
+          "line": "I'm in trouble."
+        },
+        {
+          "character": "TELFER",
+          "line": "Go",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "Celes'\nquarters"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TELFER",
+          "line": "To sleep."
+        },
+        {
+          "character": "CELES",
+          "line": "Help me first?",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "TELFER",
+          "line": "With what?"
+        },
+        {
+          "character": "CELES",
+          "line": "This level three sensor analysis. I've got four hours of subspace infrared to interpret.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "TELFER",
+          "line": "Long range scans on that cluster up ahead?"
+        }
+      ],
+      "location": "Telfer's quarters"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "CELES",
+          "line": "Yes."
+        },
+        {
+          "character": "TELFER",
+          "line": "It's too complicated",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "Celes'\nquarters"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TELFER",
+          "line": "To do over the comm. Either we meet in the mess hall or we wait until tomorrow."
+        },
+        {
+          "character": "CELES",
+          "line": "I don't want to get dressed,",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "Telfer's quarters"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "CELES",
+          "line": "And it can't wait until tomorrow."
+        }
+      ],
+      "location": "Celes'\nquarters"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TELFER",
+          "line": "Your only options."
+        }
+      ],
+      "location": "Telfer's quarters"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "SEVEN",
+          "line": "I've given Operations an efficiency rating of seventy six out of a possible one hundred."
+        },
+        {
+          "character": "KIM",
+          "line": "Not exactly flying colors."
+        },
+        {
+          "character": "SEVEN",
+          "line": "The crewmen you assigned to the night shift are frequently left with little to do once the ship's course has been locked in."
+        },
+        {
+          "character": "EMH",
+          "line": "The devil finds work for idle hands."
+        },
+        {
+          "character": "SEVEN",
+          "line": "Religious metaphors are irrelevant. Perhaps you should consider assigning them additional tasks."
+        },
+        {
+          "character": "TORRES",
+          "line": "What's this I'm guilty of? Failure to utilize expertise?"
+        },
+        {
+          "character": "SEVEN",
+          "line": "Crewman Mortimer Harren. He has five advanced degrees in theoretical cosmology, but you've assigned him to the plasma relay room. His talents could be put to better use."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "B'Elanna?"
+        },
+        {
+          "character": "TORRES",
+          "line": "Believe me, I've tried. When I give him more responsibility he doesn't do the work. Harren wants to be down on deck fifteen. It gives him more time to repostulate the origins of the universe."
+        },
+        {
+          "character": "SEVEN",
+          "line": "As you can see, security is functioning at near-perfect efficiency. However, Commander, if you arrange the phasers in the weapons lockers so that the smaller rifles were in front, they could be more easily removed in the event of an emergency."
+        },
+        {
+          "character": "TUVOK",
+          "line": "I'll look into it."
+        },
+        {
+          "character": "SEVEN",
+          "line": "Crewman William Telfer."
+        },
+        {
+          "character": "EMH",
+          "line": "Billy. He certainly ruined my score."
+        },
+        {
+          "character": "SEVEN",
+          "line": "He visits the Sickbay almost once a week complaining of illness. Invariably you examine him and find nothing wrong."
+        },
+        {
+          "character": "EMH",
+          "line": "Mister Telfer is a hypochondriac. I'd treat him for it, but he's afraid of medication."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Have you tried counseling?"
+        },
+        {
+          "character": "EMH",
+          "line": "He's afraid of that, too. All I can do is scan him and offer him reassurance."
+        },
+        {
+          "character": "SEVEN",
+          "line": "Wasting your time and medical resources."
+        },
+        {
+          "character": "KIM",
+          "line": "What about Astrometrics? Looks like you could use some improvement yourself, Seven."
+        },
+        {
+          "character": "SEVEN",
+          "line": "You are correct, unfortunately. Tal Celes, sensor analyst grade three. Her work must be constantly double checked. She should be removed from Astrometrics and reassigned elsewhere. Perhaps to Engineering."
+        },
+        {
+          "character": "TORRES",
+          "line": "Forget it. I've got my own problems to fix, remember?"
+        },
+        {
+          "character": "JANEWAY",
+          "line": "That'll be all, Seven, thank you. Dismissed."
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "Captain?"
+        },
+        {
+          "character": "JANEWAY",
+          "line": "They've never been on an away mission. Mortimer Harren, William Telfer, Tal Celes. None of them."
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "They get off the ship whenever we have general leave."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "I mean a working away mission."
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "Harren never volunteers. Celes can't get past the proficiency requirements. And Telfer always seems to get a note from his doctor."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Something's got to be done about this."
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "What can we do? There are always a few who don't make it past their first year on a starship. Normally, they're reassigned. But in our case, maybe we should relieve them of duty and let them pursue their own interests. It certainly wouldn't hurt general efficiency."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "They aren't drones, Chakotay. We can't just deactivate them. Is the Delta Flyer ready?"
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "Flight-checked with provisions for a seventy two hour away mission. What have you got in mind, Captain?"
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Three people have slipped through the cracks on my ship. That makes it my problem."
+        }
+      ],
+      "location": "Briefing room"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TELFER",
+          "line": "The analytical aspects of the subspace infrared algorithm are fourfold."
+        },
+        {
+          "character": "CELES",
+          "line": "Unfortunately, I have a threefold brain."
+        },
+        {
+          "character": "TELFER",
+          "line": "You just have to break it down. Think of it as four smaller algorithms."
+        },
+        {
+          "character": "CELES",
+          "line": "Okay, but what's the sequence?"
+        },
+        {
+          "character": "JANEWAY",
+          "line": "It's Zero G Is Fun. As you were. Zeta particle derivation, Gamma wave frequency, Ion distribution, Flow rate of positrons. Z.G.I.F. Zero G Is Fun. That's how you remember the sequence."
+        },
+        {
+          "character": "CELES",
+          "line": "Thank you, Captain. I'll try."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Good, because where we're headed, you're going to need it. I'll be briefing you this afternoon in Astrometrics. We leave first thing in the morning."
+        }
+      ],
+      "location": "Mess hall"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "JANEWAY",
+          "line": "Deck fifteen."
+        }
+      ],
+      "location": "Turbolift"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "MITCHELL",
+          "line": "Captain on the deck!"
+        },
+        {
+          "character": "JANEWAY",
+          "line": "At ease. Junction room sixteen?"
+        },
+        {
+          "character": "MITCHELL",
+          "line": "Over there, Captain."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Of course. Crewman Mitchell, how have you been?"
+        },
+        {
+          "character": "MITCHELL",
+          "line": "Never better, ma'am. Yourself?"
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Not bad. Not bad at all."
+        },
+        {
+          "character": "MITCHELL",
+          "line": "Ah, to the left, ma'am."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Thank you."
+        }
+      ],
+      "location": "Deck 15"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "JANEWAY",
+          "line": "Crewman Harren."
+        },
+        {
+          "character": "HARREN",
+          "line": "Captain Janeway, are you lost?"
+        },
+        {
+          "character": "JANEWAY",
+          "line": "I was, for a minute. I'll be briefing you this afternoon."
+        },
+        {
+          "character": "HARREN",
+          "line": "Well, there's been a mistake."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Excuse me?"
+        },
+        {
+          "character": "HARREN",
+          "line": "You have me assigned to an away mission. I have my duties here. I prefer not to leave my post."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Ensign Culhane will cover for you. The pre-flight schedule is all there."
+        },
+        {
+          "character": "HARREN",
+          "line": "If this is charity, Captain, I don't want it."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "I didn't ask you what you want. I'm taking the Delta Flyer on an astronomical survey mission and your expertise is needed."
+        },
+        {
+          "character": "HARREN",
+          "line": "What do you know about my expertise?"
+        },
+        {
+          "character": "JANEWAY",
+          "line": "As much as I need to."
+        },
+        {
+          "character": "HARREN",
+          "line": "Well then, you might be interested to know that I'm about to disprove Schlezholt's theory of multiple big bangs."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Really. Wang's second postulate has more lives than a cat, doesn't it? Once you think you've eliminated it, bam, it pops up again. I'll give you a hand if you'd like, when the away mission is over."
+        }
+      ],
+      "location": "Junction room 16"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "JANEWAY",
+          "line": "Once we reach the cluster, we'll drop out of warp and maintain one quarter impulse on the sweep through the protostars. I'll be piloting the Delta Flyer. Celes, you're going to run an ongoing sensor analysis, providing data for your colleagues. Mister Harren, you'll be looking at subspace particle decay for anything new we might learn about star formation. And Mister Telfer, your job will be to look for signs of life. A long shot in this environment, but if it's out there, I'm sure you'll find it. You'll have the rest of the evening to familiarize yourselves with the mission."
+        },
+        {
+          "character": "TELFER",
+          "line": "Excuse me, Captain. If we find a planet, we're not planning on exploring the surface, are we?"
+        },
+        {
+          "character": "HARREN",
+          "line": "That's a stellar nursery. Any planets will be gas giants."
+        },
+        {
+          "character": "TELFER",
+          "line": "They may have moons."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Don't worry. We'll run a complete scan for pathogens before we set foot anywhere. And the Delta Flyer is fully equipped to deal with medical emergencies. We'll be fine. Shuttlebay one, oh six hundred hours. Dismissed."
+        },
+        {
+          "character": "SEVEN",
+          "line": "Celes is unreliable. Her sensor analyzes will be full of errors. You could be putting your lives at risk."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Don't worry Seven, I'll check her work."
+        },
+        {
+          "character": "SEVEN",
+          "line": "This mission could be better served with a more experienced crew."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "No, not this mission. Ever hear the tale of the Good Shepherd? If even one sheep strayed into the wilderness, the shepherd left the safety of the flock and went after it."
+        },
+        {
+          "character": "SEVEN",
+          "line": "So you're intending to rescue them?"
+        },
+        {
+          "character": "JANEWAY",
+          "line": "In a manner of speaking. Maybe all it will take will be some personal attention from their Captain. Maybe something more. But I won't abandon a member of this crew, no matter what their problems might be."
+        }
+      ],
+      "location": "Astrometrics lab"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "PARIS",
+          "line": "Oh, poor guy. Rotting away down on deck fifteen. Counting the years till we get out of this godforsaken quadrant. It's a shame he doesn't have a superior officer who cares."
+        },
+        {
+          "character": "TORRES",
+          "line": "It's not my job to make everybody who works for me happy. Some people just don't want to fit in."
+        },
+        {
+          "character": "NEELIX",
+          "line": "I'll bet you haven't said two words to him."
+        },
+        {
+          "character": "PARIS",
+          "line": "Two words exactly. We collided in the corridor during a Borg attack. I said, excuse me. Since we were at Red alert and about to be destroyed, I think it was very considerate of me."
+        },
+        {
+          "character": "TORRES",
+          "line": "Well, Mister Considerate, why don't you go over there right now and offer him some encouragement. His first away mission, I'm sure he could use it."
+        },
+        {
+          "character": "PARIS",
+          "line": "Brushing up on the Delta Flyer specs?"
+        },
+        {
+          "character": "HARREN",
+          "line": "I'm not a mechanic."
+        },
+        {
+          "character": "PARIS",
+          "line": "Oh. Then, what are you doing?"
+        },
+        {
+          "character": "PARIS",
+          "line": "Very interesting."
+        },
+        {
+          "character": "HARREN",
+          "line": "What do you find most interesting about it?"
+        },
+        {
+          "character": "PARIS",
+          "line": "Your creative use of the minus sign."
+        },
+        {
+          "character": "HARREN",
+          "line": "I see you have an appreciation for multivariate analysis. Maybe you missed your calling. It's a shame. I imagine it gets tedious up at the helm."
+        },
+        {
+          "character": "PARIS",
+          "line": "I enjoy the view."
+        },
+        {
+          "character": "TORRES",
+          "line": "Well?"
+        },
+        {
+          "character": "PARIS",
+          "line": "I invited him over to watch our television set tonight. You don't mind, do you?"
+        }
+      ],
+      "location": "Mess hall"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TELFER",
+          "line": "Celes. Celes. Respond. Celes, respond.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "CELES",
+          "line": "You're not sick."
+        },
+        {
+          "character": "TELFER",
+          "line": "Yes, I am.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "CELES",
+          "line": "No, you're not."
+        },
+        {
+          "character": "TELFER",
+          "line": "Really",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "Celes'\nquarters"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TELFER",
+          "line": "I am."
+        },
+        {
+          "character": "CELES",
+          "line": "We have to sleep.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "TELFER",
+          "line": "I can't go on this mission."
+        },
+        {
+          "character": "CELES",
+          "line": "Yes, you can.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "TELFER",
+          "line": "No, I can't."
+        },
+        {
+          "character": "CELES",
+          "line": "Yes.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "TELFER",
+          "line": "No."
+        }
+      ],
+      "location": "Telfer's quarters"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "CELES",
+          "line": "Bye."
+        }
+      ],
+      "location": "Celes'\nquarters"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TELFER",
+          "line": "Wait!"
+        }
+      ],
+      "location": "Telfer's quarters"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TELFER",
+          "line": "See?"
+        },
+        {
+          "character": "EMH",
+          "line": "It's nothing."
+        },
+        {
+          "character": "TELFER",
+          "line": "It's a fever."
+        },
+        {
+          "character": "EMH",
+          "line": "Your temperature is point two degrees above normal."
+        },
+        {
+          "character": "TELFER",
+          "line": "That's right."
+        },
+        {
+          "character": "EMH",
+          "line": "A typical deviation easily prompted by emotional stress."
+        },
+        {
+          "character": "TELFER",
+          "line": "Or a multiphasic prion."
+        },
+        {
+          "character": "EMH",
+          "line": "You have not been infected by a prion."
+        },
+        {
+          "character": "TELFER",
+          "line": "They attach themselves to the mitochondrial walls and they just"
+        },
+        {
+          "character": "EMH",
+          "line": "I've already scanned you."
+        },
+        {
+          "character": "TELFER",
+          "line": "You can barely see them."
+        },
+        {
+          "character": "EMH",
+          "line": "They aren't there."
+        },
+        {
+          "character": "TELFER",
+          "line": "If they migrate to my cell membranes while I'm on the away mission, they could rupture and I"
+        },
+        {
+          "character": "EMH",
+          "line": "Crewman, I am not giving you a medical excuse. Not this time. Try to get some sleep. You shouldn't even have a medical tricorder. Believe me, you'll be so caught up in the excitement of exploration there won't be any time for worrying about infections, mitochondrial or otherwise. There's nothing like an away mission to remind a person of why we're out here."
+        }
+      ],
+      "location": "Sickbay"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "JANEWAY",
+          "line": "I'm going to one quarter impulse."
+        },
+        {
+          "character": "CELES",
+          "line": "Should I start the sensor sweeps?"
+        },
+        {
+          "character": "JANEWAY",
+          "line": "We don't want to miss anything."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Engine status?"
+        },
+        {
+          "character": "HARREN",
+          "line": "Within parameters. That wasn't us."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Anything on sensors?"
+        },
+        {
+          "character": "CELES",
+          "line": "Point zero zero five fluctuation in the spatial continuum. It looks like simple background noise."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "I agree."
+        },
+        {
+          "character": "TELFER",
+          "line": "Anybody for lunch?",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Are you volunteering, William?"
+        },
+        {
+          "character": "TELFER",
+          "line": "Yes, ma'am.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "CELES",
+          "line": "I'll help. What would you like, Captain?"
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Mortimer?"
+        },
+        {
+          "character": "HARREN",
+          "line": "Even my mother didn't call me that."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Well then, Mister Harren, are you hungry?"
+        },
+        {
+          "character": "HARREN",
+          "line": "No. Thank you."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "I'll have the pasta soup. It should be listed under Neelix six five one."
+        },
+        {
+          "character": "CELES",
+          "line": "Maybe I'll try that, too."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "I'm sure you'll like it."
+        },
+        {
+          "character": "CELES",
+          "line": "I'm sure I will. Thanks for the suggestion. I'd better get back there."
+        }
+      ],
+      "location": "Delta Flyer - cockpit"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "CELES",
+          "line": "Neelix six five one, two servings."
+        },
+        {
+          "character": "TELFER",
+          "line": "Neelix six five one, two servings. What's wrong?"
+        },
+        {
+          "character": "CELES",
+          "line": "The captain checks every single thing I do."
+        },
+        {
+          "character": "TELFER",
+          "line": "Oh, that's just standard procedure."
+        },
+        {
+          "character": "CELES",
+          "line": "Then why isn't it standard procedure for you or Harren?"
+        },
+        {
+          "character": "TELFER",
+          "line": "Maybe she's giving you special attention."
+        },
+        {
+          "character": "CELES",
+          "line": "Yeah, because she knows I need it. I wish I could go back to Voyager."
+        },
+        {
+          "character": "TELFER",
+          "line": "Me too. There's always the escape pods."
+        },
+        {
+          "character": "CELES",
+          "line": "Can you imagine?"
+        }
+      ],
+      "location": "Delta Flyer - aft compartment"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "JANEWAY",
+          "line": "I understand you grew up on Vico Five. No wonder you became a cosmologist."
+        },
+        {
+          "character": "HARREN",
+          "line": "Wildest sky in the Alpha Quadrant."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "So they say. I've never been there."
+        },
+        {
+          "character": "HARREN",
+          "line": "Do you really believe that childhood environment is more important than genetically driven behavior patterns?"
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Just making conversation."
+        },
+        {
+          "character": "HARREN",
+          "line": "Conversation filled with unspoken assumptions, which I don't agree with. I'm a product of my nucleic acids. Where and how I was raised are beside the point. So if you're trying to understand me better, questions about my home planet are irrelevant."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "All right then. How's your thirteenth chromosome? Missing a couple of base pairs in gene one seventy eight?"
+        },
+        {
+          "character": "HARREN",
+          "line": "I signed on to Voyager because I needed a year of hands-on experience. It was a requirement for getting into the Institute of Cosmology on Orion One. If we hadn't gotten lost in the Delta Quadrant, I'd be there right now."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Sorry to have delayed your career plans, but all of us have had our lives interrupted. That's the nature of space exploration. It's unpredictable."
+        },
+        {
+          "character": "HARREN",
+          "line": "Which is why I don't like space exploration. Stumbling from star to star like a, a drunken insect careening toward a light source is not my idea of a dignified existence. Pure theory is all that concerns me."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Well, I'm not trying to change that. I'm simply trying to get every member of my crew working to their full capacity. That includes you, Mister Harren."
+        },
+        {
+          "character": "HARREN",
+          "line": "You don't feel responsible, Captain, for having three misfits aboard your ship? Well, if there's anything I can do to help relieve your guilt, please let me know."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "I'll keep that in mind."
+        },
+        {
+          "character": "HARREN",
+          "line": "Maybe I will join my colleagues for lunch. All this exploration has given me an appetite."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Computer, identify the source of that spatial fluctuation."
+        },
+        {
+          "character": "COMPUTER",
+          "line": "Source unknown."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Red alert! Aft section, report. Report!"
+        },
+        {
+          "character": "CELES",
+          "line": "Captain, are you all right?"
+        },
+        {
+          "character": "JANEWAY",
+          "line": "We need to get propulsion back online and figure out what hit us. What's out there?"
+        },
+        {
+          "character": "CELES",
+          "line": "I don't know, but whatever it was, it tore a plating section off the outer hull."
+        },
+        {
+          "character": "HARREN",
+          "line": "Ninety percent of our antimatter's been neutralized. The reaction's cold."
+        },
+        {
+          "character": "TELFER",
+          "line": "So much for warp drive."
+        },
+        {
+          "character": "HARREN",
+          "line": "I'm bringing the impulse engines online, but they've been damaged. We'll be able to do one eighth impulse, no more."
+        },
+        {
+          "character": "TELFER",
+          "line": "That should get us to the rendezvous point with Voyager in about ten years. Think they'll wait for us?"
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Is the subspace transmitter online? Voyager, this is the Delta Flyer. We've been hit by an unknown phenomenon and taken heavy damage. We require immediate assistance. Repeat, we require immediate assistance. Transmit that continuously on all subspace frequencies. Anything on active scans?"
+        },
+        {
+          "character": "CELES",
+          "line": "Not yet."
+        },
+        {
+          "character": "HARREN",
+          "line": "It was a dark-matter proto-comet."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "I read a paper on that phenomenon once."
+        },
+        {
+          "character": "HARREN",
+          "line": "Written by me."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Well, enlighten us, Mister Harren."
+        },
+        {
+          "character": "HARREN",
+          "line": "I hypothesized that a tertiary product of stellar consolidation would be a comet-like assemblage of dark matter. It would be attracted to any source of antimatter and neutralize it upon contact."
+        },
+        {
+          "character": "TELFER",
+          "line": "So one of these things detected the antimatter in our warp core?"
+        },
+        {
+          "character": "HARREN",
+          "line": "The term detected suggests a consciousness. This is a mindless astrophysical phenomenon, nothing more. We should eject our remaining antimatter or we could suffer another impact."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "I can't do that, not on the basis of an unproven hypothesis."
+        },
+        {
+          "character": "HARREN",
+          "line": "The forces involved are non-trivial. If we're hit again, we could lose our entire outer hull."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Eject the warp core and we lose any hope of getting warp drive back. I need more evidence, and right now sensors aren't talking."
+        },
+        {
+          "character": "HARREN",
+          "line": "Maybe they are talking, but somebody doesn't know how to listen to them."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "You're out of line, crewman."
+        },
+        {
+          "character": "HARREN",
+          "line": "This isn't the time to be worried about her feelings, Captain. We're in trouble."
+        },
+        {
+          "character": "CELES",
+          "line": "Captain, that hull plate? It's less than ten kilometers away. Impact from a dark-matter body might have left a quantum signature in the alloys."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "That's the evidence we're looking for. Do we have transporters?"
+        },
+        {
+          "character": "TELFER",
+          "line": "Yes, I've locked onto the plate."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Beam it directly to the aft section. Celes, you're with me. Continue the repairs."
+        }
+      ],
+      "location": "Delta Flyer - cockpit"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "JANEWAY",
+          "line": "No sign of burns or plasma residue. It seems to have been sheared off. Download this into the main computer."
+        },
+        {
+          "character": "CELES",
+          "line": "Captain, I'm sorry."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "For what?"
+        },
+        {
+          "character": "CELES",
+          "line": "I thought that spatial fluctuation we ran into was background noise. Some noise."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "I saw the same sensor readings you did, and came to the same conclusion. You don't have to doubt yourself all the time."
+        },
+        {
+          "character": "CELES",
+          "line": "Yes I do, and you should too. You're right to always be looking over my shoulder."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "We all make mistakes, even me."
+        },
+        {
+          "character": "CELES",
+          "line": "Every day? Every time you report for duty? On Voyager it doesn't matter because nothing I do is that critical. Seven doesn't trust me with anything important. The crew is protected from my mistakes by the people around me, but out here I could get us killed."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "You went through Starfleet training courses."
+        },
+        {
+          "character": "CELES",
+          "line": "I had to cram for every exam."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "At the Academy, I was infamous for my all-nighters."
+        },
+        {
+          "character": "CELES",
+          "line": "Every night? Because that's what it took. That's the only way I made it through. Not to mention the sympathy votes. The conflict on Bajor worked in my favor. The Federation was so eager to have Bajorans in Starfleet that my instructors gave me the benefit of the doubt. So did you, when you accepted my application."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "You showed evidence of unconventional thinking. I liked that. Not everybody would have thought to retrieve that hull plating."
+        },
+        {
+          "character": "CELES",
+          "line": "Well, just don't trust me with the analysis. I guarantee I'll get it wrong."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Well, with that attitude, I'm sure you will."
+        },
+        {
+          "character": "CELES",
+          "line": "This has nothing to do with attitude, Captain. You and I are wired differently. To you, this is nothing but data. To me, it, it's a monster with, with fangs and claws. In my nightmares, I am chased by algorithms. My brain just wasn't built to understand this."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "We can find you another post on Voyager."
+        },
+        {
+          "character": "CELES",
+          "line": "There isn't another post on Voyager, not for me. Unless you need a waitress in the mess hall."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "You know, there's more to duty than the ability to manipulate algorithms. Everybody on Voyager has showed a courage far beyond what I could have expected. So have you."
+        },
+        {
+          "character": "CELES",
+          "line": "If we were still in the Alpha Quadrant, would that be enough to keep me on board?"
+        },
+        {
+          "character": "JANEWAY",
+          "line": "I can't answer that."
+        },
+        {
+          "character": "CELES",
+          "line": "I don't deserve to be on your ship, Captain. And I'm not really a part of Voyager. I just live there."
+        }
+      ],
+      "location": "Delta Flyer - aft compartment"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "HARREN",
+          "line": "Pressure's increasing. The EPS relays are fused. Cut the plasma flow. Cut the plasma! I could have been killed! What's wrong with you?"
+        },
+        {
+          "character": "TELFER",
+          "line": "Everything."
+        },
+        {
+          "character": "HARREN",
+          "line": "If you want something to fantasize about, try imagining how it'll feel if our hull is breached and we die of vacuum exposure. Our blood will vaporize and our cell membranes will rupture. Surely you know the symptoms better than I do."
+        },
+        {
+          "character": "TELFER",
+          "line": "Let's not talk about it, all right?"
+        },
+        {
+          "character": "HARREN",
+          "line": "Nothing disagrees with me more than having to put theories into practical use, but there's no choice, so pay attention to what we're doing here. You can check yourself into Sickbay when we get back."
+        },
+        {
+          "character": "TELFER",
+          "line": "And you can go back to deck fifteen."
+        },
+        {
+          "character": "HARREN",
+          "line": "That's right, where I don't have to rely on you or your intellectually deficient friend."
+        },
+        {
+          "character": "TELFER",
+          "line": "At least I have a friend. Don't you ever get lonely down there?"
+        },
+        {
+          "character": "HARREN",
+          "line": "In the company of my own thoughts? Never."
+        },
+        {
+          "character": "TELFER",
+          "line": "I don't believe that. Spend some time with us when we get back. You might enjoy yourself."
+        },
+        {
+          "character": "HARREN",
+          "line": "A hypothesis that would require testing. I'm a theoretician, remember?"
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Captain's log, Delta Flyer, stardate, 53764.3. We've been running on minimal power for six hours. Still no response to our distress call, and no answers from the computer on what hit us. For now, it looks like we're on our own.",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "Delta Flyer - cockpit"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "JANEWAY",
+          "line": "Our scans of the hull fragment were inconclusive. We found some displaced positrons that could indicate a dark-matter impact."
+        },
+        {
+          "character": "TELFER",
+          "line": "But could have been caused by something else."
+        },
+        {
+          "character": "HARREN",
+          "line": "Proof enough."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Not enough for me. Not enough to jettison the remaining antimatter. There's a gas giant only a few hours from our current position. T class, surrounded by orbital rings, including one that's radiogenic. We could use those particles to reinitialize our warp reaction."
+        },
+        {
+          "character": "TELFER",
+          "line": "With ten percent of our antimatter left we'd only be able to make warp two, but it would be enough to get us back on the road."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Set a course."
+        },
+        {
+          "character": "CELES",
+          "line": "Another spatial fluctuation."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Can you localize it?"
+        },
+        {
+          "character": "CELES",
+          "line": "It's somewhere within the distance of ten thousand kilometers. Another one closer, about seven thousand kilometers."
+        },
+        {
+          "character": "HARREN",
+          "line": "It's being drawn toward our antimatter. Eject the core."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Open a channel. All hailing frequencies. This is Captain Janeway of the Federation vessel Delta Flyer. We are on a mission of peaceful exploration. Please identify yourself."
+        },
+        {
+          "character": "TELFER",
+          "line": "No response."
+        },
+        {
+          "character": "HARREN",
+          "line": "Of course not. It's a natural phenomenon. Captain, we only have a few seconds."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "I'm firing a photon torpedo. There's enough antimatter in the detonation chamber to draw that proto-comet, if that's what it is."
+        },
+        {
+          "character": "TELFER",
+          "line": "The torpedo's away. Distance, one thousand kilometers. One thousand five hundred."
+        },
+        {
+          "character": "CELES",
+          "line": "No spatial disruptions."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Find the source of that sound."
+        },
+        {
+          "character": "TELFER",
+          "line": "Oh, no."
+        },
+        {
+          "character": "HARREN",
+          "line": "That's not possible."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Where is he?"
+        },
+        {
+          "character": "CELES",
+          "line": "I can't locate his bio-signature."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "He's not out there. He's not in space, not in subspace. It doesn't make sense."
+        },
+        {
+          "character": "TELFER",
+          "line": "Inside me."
+        }
+      ],
+      "location": "Delta Flyer - cockpit"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "JANEWAY",
+          "line": "Activate the transporter. Try to get a lock on whatever's inside him. Tricorder isn't picking up anything."
+        },
+        {
+          "character": "TELFER",
+          "line": "But I can feel it."
+        },
+        {
+          "character": "CELES",
+          "line": "I can't get a lock. It's like something is there, but it's not there."
+        },
+        {
+          "character": "TELFER",
+          "line": "Oh, it's there."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Unfortunately, I have to agree."
+        },
+        {
+          "character": "HARREN",
+          "line": "Obviously, whatever hit us was no proto-comet. I was wrong."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Maybe you weren't, not entirely. Sensors can't scan it and transporters can't lock on to it. Maybe this is some kind of dark-matter lifeform."
+        },
+        {
+          "character": "HARREN",
+          "line": "It's impossible. Molecules that complex would collapse under their own weight. They could never support life."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "It might be time to revise your theory. Where did they take you?"
+        },
+        {
+          "character": "TELFER",
+          "line": "I don't know. It was dark. God, I could feel breathing all around me."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Did anyone try to communicate with you?"
+        },
+        {
+          "character": "TELFER",
+          "line": "I couldn't see. I tried to say something, but there wasn't enough air. I tried to move, but something was pressing down on me. Hypospray. Tetrovaline. It will put me out."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "If I sedate you, it could lower your immune response, and you need to stay conscious. Do you understand?"
+        },
+        {
+          "character": "CELES",
+          "line": "Billy, if it wanted to kill you it would have done it by now. It never would have sent you back here. Maybe it was trying to scan you or something."
+        },
+        {
+          "character": "TELFER",
+          "line": "If it wanted to get to know me better, it should have just asked me out for a drink."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Celes, keep an eye in him. Harren."
+        }
+      ],
+      "location": "Delta Flyer - aft compartment"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "JANEWAY",
+          "line": "I'm setting a course for those rings. Shunt as much power as you can to the impulse engines."
+        },
+        {
+          "character": "HARREN",
+          "line": "We never should have left Voyager."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "I've got news for you, crewman. Voyager isn't exactly a safe haven. We've been chased across the Quadrant by far worse than whatever's out there. The Vidiians, Species 8472, the Borg. But I guess if somebody's hiding down on deck fifteen they might not be aware of it."
+        },
+        {
+          "character": "HARREN",
+          "line": "I wasn't meant to be an explorer."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "And I wasn't meant to guide a ship across an unknown Quadrant."
+        },
+        {
+          "character": "HARREN",
+          "line": "Then we're both victims of circumstance."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Oh, I've seen things I've never imagined. Grown closer to people than I ever thought possible. I wouldn't call myself a victim, and I wouldn't trade the last six years for anything."
+        },
+        {
+          "character": "HARREN",
+          "line": "Then you've been deluded by the inexhaustible human capacity to avoid the truth. You're the one hiding, not me. I've got you three more percentage points of impulse."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "I'll take it. Setting a course. Isn't there any part of you that feels a bond with the rest of us? When we escape from the Borg or diskover a new type of star, don't you feel some pride of accomplishment? When you're in the mess hall, alone at your table in the corner, don't you see the friendships around you and wish, even for a microsecond, you were part of them?"
+        },
+        {
+          "character": "HARREN",
+          "line": "You don't know me at all."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "No, but I'd like to. That was the whole point of this mission. But I guess it hasn't worked out like I'd planned."
+        },
+        {
+          "character": "HARREN",
+          "line": "Incoming transmission."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Source?"
+        },
+        {
+          "character": "HARREN",
+          "line": "It's a Starfleet frequency. Must be Voyager."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Voyager, this is the Delta Flyer. We've been hit by an unknown phenomenon and taken heavy damage. We require immediate assistance. Repeat, we require immediate assistance.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "HARREN",
+          "line": "Subspace echo."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Maybe not. There's a point zero zero five deviation in the carrier wave."
+        },
+        {
+          "character": "HARREN",
+          "line": "That's the same degree of spatial fluctuation left by our pursuers. They're sending our distress signal back to us."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Modified. They might be trying to communicate."
+        },
+        {
+          "character": "HARREN",
+          "line": "They're taunting us."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Not necessarily. Try to adjust the universal translator for"
+        },
+        {
+          "character": "CELES",
+          "line": "Captain! He went right through the forcefield."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Billy, what are you doing?"
+        },
+        {
+          "character": "TELFER",
+          "line": "It's activating my motor neurons. I can't make it stop. I'm sorry, Captain. You've got to stop it."
+        },
+        {
+          "character": "CELES",
+          "line": "It's okay. Billy, it's okay. It's okay."
+        },
+        {
+          "character": "TELFER",
+          "line": "It's in here!"
+        },
+        {
+          "character": "HARREN",
+          "line": "It's tapping into our systems."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Wait. It may be trying to communicate."
+        },
+        {
+          "character": "HARREN",
+          "line": "It's into our environmental controls. We've got to stop it."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Hold your fire!"
+        },
+        {
+          "character": "JANEWAY",
+          "line": "What the hell is wrong with you?"
+        },
+        {
+          "character": "HARREN",
+          "line": "It was trying to kill us."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "You don't know that."
+        },
+        {
+          "character": "HARREN",
+          "line": "We were at risk."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "I gave you a direct order."
+        },
+        {
+          "character": "HARREN",
+          "line": "What if you were wrong?"
+        },
+        {
+          "character": "TELFER",
+          "line": "I could hear its thoughts."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Explain."
+        },
+        {
+          "character": "TELFER",
+          "line": "When it left me I could hear what it was thinking. Do not belong. That's what it said. Do not belong."
+        },
+        {
+          "character": "HARREN",
+          "line": "We don't belong here."
+        },
+        {
+          "character": "CELES",
+          "line": "Or it didn't belong in the Delta Flyer."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Maybe that's why it was tapping into the environmental controls. It was trying to survive in a place it didn't belong."
+        },
+        {
+          "character": "HARREN",
+          "line": "That's speculation."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Based on direct observation. You murdered an alien being and destroyed any chance we had to make first contact."
+        },
+        {
+          "character": "CELES",
+          "line": "We just lost another section of hull."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "How far are we from the gas giant?"
+        },
+        {
+          "character": "CELES",
+          "line": "Two hundred thousand kilometers."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "I'm taking the Flyer into the radiogenic ring. With any luck, they won't follow."
+        },
+        {
+          "character": "CELES",
+          "line": "We can't survive in there for more than a few minutes."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "That should be enough to reinitialize the warp core."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Start continuous transport of radiogenic particles directly into the reaction chamber. When it's approaching critical mass, let me know. Watch for any sign of pursuit. How are you doing?"
+        },
+        {
+          "character": "TELFER",
+          "line": "I always had this alarm in my head, Sort of an internal Red alert. It was like a warning system that would tell me I was sick or dying, or something. Mitochondrial prions, food poisoning, a head cold. It was always there."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "And now it's not?"
+        },
+        {
+          "character": "TELFER",
+          "line": "It's gone. I don't understand."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Maybe I do. When I was a girl, I was afraid of the ocean. I liked to swim, but in a pool or a pond where I knew exactly what was beneath me. But in the open water, with no way to know what was down there? It scared me to death. It wasn't until my first year at the Academy, after I went through zero G training in the Coral Sea, that I finally got over it. I think you just came up from your first deep dive."
+        },
+        {
+          "character": "CELES",
+          "line": "They're in pursuit."
+        },
+        {
+          "character": "CELES",
+          "line": "Three minutes, twenty seconds to intercept."
+        },
+        {
+          "character": "HARREN",
+          "line": "We'll need twice that to reinitialize warp reaction."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Get into the escape pods."
+        },
+        {
+          "character": "CELES",
+          "line": "Captain."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Plot a course away from the planet. I'm going to fire a phaser volley and hopefully set off a chain reaction of the radiogenic particles. It might be enough to disable our friends."
+        },
+        {
+          "character": "TELFER",
+          "line": "You'll be disabled, too."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Not if I go to full thrusters and keep in front of the shock wave. If I don't make it, head for the L class moon in the next system. You could survive there for weeks if you have to. Enough time for Voyager to pick up your distress signal. Now get moving."
+        },
+        {
+          "character": "CELES",
+          "line": "No. You'll have a better chance if we're with you."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Go!"
+        },
+        {
+          "character": "CELES",
+          "line": "We might not have contributed much on Voyager, but what we do here matters. We're the crew here, and the crew does not abandon its Captain."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "All right, it's your choice."
+        },
+        {
+          "character": "HARREN",
+          "line": "Then I'll be going alone."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Good luck."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Charge phaser banks. Stand by to divert all power to thrusters."
+        },
+        {
+          "character": "CELES",
+          "line": "Escape pod one is occupied and ready, Captain."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Launch pod one."
+        },
+        {
+          "character": "TELFER",
+          "line": "Escape pod away."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "How close are our pursuers?"
+        },
+        {
+          "character": "CELES",
+          "line": "Sixty five seconds to intercept."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Stand by to fire."
+        },
+        {
+          "character": "CELES",
+          "line": "Captain, the escape pod is altering course. It's heading for the aliens."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Janeway to Harren."
+        }
+      ],
+      "location": "Delta Flyer - cockpit"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "JANEWAY",
+          "line": "What are you doing?",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "HARREN",
+          "line": "If they have to deal with me, it should give you a few more seconds to get away. That's my theory, anyway."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Resume your escape course now.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "HARREN",
+          "line": "It's too late for that."
+        }
+      ],
+      "location": "Escape pod"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "JANEWAY",
+          "line": "You made a mistake, Harren. Don't make another one."
+        },
+        {
+          "character": "HARREN",
+          "line": "I'm done hiding, Captain.",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "Delta Flyer - cockpit"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "HARREN",
+          "line": "A few seconds of exposure to real life, maybe I'll understand what I've been missing."
+        }
+      ],
+      "location": "Escape pod"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TELFER",
+          "line": "He closed the channel."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Get a transporter lock on that pod,"
+        },
+        {
+          "character": "CELES",
+          "line": "I can't. We're out of range."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "More power to the thrusters. Celes."
+        },
+        {
+          "character": "CELES",
+          "line": "We're still not close enough."
+        },
+        {
+          "character": "TELFER",
+          "line": "Thrusters at maximum."
+        },
+        {
+          "character": "CELES",
+          "line": "Got him."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Fire."
+        },
+        {
+          "character": "CELES",
+          "line": "Shock wave approaching. Contact in four, three, two, one. More or less."
+        }
+      ],
+      "location": "Delta Flyer - cockpit"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "JANEWAY",
+          "line": "My crew"
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "Easy. They're sleeping. No serious injuries. Everyone's all right, though you gave us a good scare for a while. We received your distress call. We found the Flyer drifting above a gas giant. You were all unconscious."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Any sign of another vessel or some kind of entity?"
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "No. What happened?"
+        },
+        {
+          "character": "JANEWAY",
+          "line": "The good shepherd went after some lost sheep, and ran into a wolf."
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "Did she find them?"
+        },
+        {
+          "character": "JANEWAY",
+          "line": "I think she did."
+        }
+      ],
+      "location": "Sickbay"
+    }
+  ],
+  "schedule": {
+    "episode": 20,
+    "number": 140,
+    "season": 6
+  },
+  "stardate": "53753.2",
+  "title": "Good Shepherd"
+}

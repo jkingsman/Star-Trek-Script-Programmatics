@@ -1,0 +1,1760 @@
+{
+  "airdate": 793256400,
+  "scenes": [
+    {
+      "dialogue": [
+        {
+          "character": "JANEWAY",
+          "line": "Captain's log, stardate 48579.4. The crew has been scanning constantly for anomalies that might help us shorten our journey home. Ensign Kim has reported an exciting discovery. A subspace disturbance which may be a wormhole.",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "unknown"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "JANEWAY",
+          "line": "Let's see what you have, Mister Kim."
+        },
+        {
+          "character": "KIM",
+          "line": "There. It's registering only on subspace bands. We don't even have it on long range sensors yet."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Verteron emanations. Tunneling secondary particles. It certainly looks like a wormhole."
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "But is it stable enough for us to enter, and if it is, where does it lead?"
+        },
+        {
+          "character": "TUVOK",
+          "line": "There is, of course, a seventy five percent chance the wormhole will not lead to the Alpha Quadrant."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Very true. But you can also say there's a one in four chance it will. Those aren't bad odds. Any analysis yet, Ensign?"
+        },
+        {
+          "character": "KIM",
+          "line": "Too far away. We'd have to be within a thousand kilometers to get a detailed analysis. That would mean a significant course change."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Well, Mister Kim, if there's even the possibility of finding a wormhole, I think we can afford a detour. Lieutenant, input the coordinates and change course."
+        },
+        {
+          "character": "PARIS",
+          "line": "Aye, Captain. And may I suggest, if this works, we petition the Federation Astronomical Committee to officially designate this the Harry Kim Wormhole."
+        },
+        {
+          "character": "PARIS",
+          "line": "Captain, we're approaching the coordinates of the wormhole."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "On screen. Are we in visual range?"
+        },
+        {
+          "character": "KIM",
+          "line": "Affirmative, Captain, and the anomaly is still registering on subspace bands."
+        },
+        {
+          "character": "PARIS",
+          "line": "Sensors also indicate it's there."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Magnify. Increase to highest magnification."
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "If that's a wormhole, it must be the smallest one on record."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Mister Kim, are you able to analyze it?"
+        },
+        {
+          "character": "KIM",
+          "line": "Aye Captain. It's virtually microscopic. The aperture is only about thirty centimeters in diameter."
+        },
+        {
+          "character": "PARIS",
+          "line": "I guess it's a little too small for us to fly through."
+        },
+        {
+          "character": "TUVOK",
+          "line": "However, it might be large enough to act as a conduit for a message."
+        },
+        {
+          "character": "KIM",
+          "line": "That's right. It could carry a compressed data transmission to Federation space in minutes."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "We still have to find out if it goes anywhere near the Alpha Quadrant. Can you trace it's subspace bearing?"
+        },
+        {
+          "character": "KIM",
+          "line": "I can't get any directional readings at all. The aperture is too small."
+        },
+        {
+          "character": "TUVOK",
+          "line": "I recommend we launch a microprobe into the wormhole."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Agreed. Do it, Lieutenant."
+        },
+        {
+          "character": "TUVOK",
+          "line": "Aye, Captain."
+        },
+        {
+          "character": "KIM",
+          "line": "We're receiving telemetry."
+        },
+        {
+          "character": "PARIS",
+          "line": "It doesn't look like any wormhole I've ever studied."
+        },
+        {
+          "character": "KIM",
+          "line": "Microscopic gravitational eddies, extremely constricted spatial dimensions. The pathway's barely wider than the probe itself."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "I think what we're seeing is a wormhole in an advanced state of decay. Must be ancient. Probably been collapsing for centuries."
+        },
+        {
+          "character": "PARIS",
+          "line": "Does that mean we can't send a message through it?"
+        },
+        {
+          "character": "KIM",
+          "line": "No, I can do it. Maybe it'll take longer to get through, but the wormhole's still stable enough to carry a transmission."
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "Any idea yet where that message would end up, Ensign?"
+        },
+        {
+          "character": "KIM",
+          "line": "I'll try extrapolating the verteron exit vector. No, I can't get it. There's a strange phase variance in the radiation stream. We'll have to wait until the probe exits."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "That shouldn't take long."
+        },
+        {
+          "character": "PARIS",
+          "line": "Captain, I'm getting a distorted energy reading."
+        },
+        {
+          "character": "TUVOK",
+          "line": "The probe's telemetry has changed."
+        },
+        {
+          "character": "KIM",
+          "line": "It's stuck."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Stuck?"
+        },
+        {
+          "character": "KIM",
+          "line": "It's mired in a gravitational eddy, and because the wormhole's in a state of collapse, those eddies are incredibly dense. That probe will never break free, Captain, and we'll have no way of finding out where the wormhole ends."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Let's give it some time. Maybe it will work itself loose."
+        },
+        {
+          "character": "KIM",
+          "line": "Captain?"
+        },
+        {
+          "character": "JANEWAY",
+          "line": "What is it, Ensign."
+        },
+        {
+          "character": "KIM",
+          "line": "Our probe was just scanned. There's somebody on the other side of the wormhole."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "BAXTER",
+          "line": "It started acting up a couple of days ago. I'd been working out in the gym, maybe I overdid it."
+        },
+        {
+          "character": "EMH",
+          "line": "Is it sore here?"
+        },
+        {
+          "character": "BAXTER",
+          "line": "Yes."
+        },
+        {
+          "character": "EMH",
+          "line": "Localized tenderness to the ulna bone, no epidermal damage, moderate oedema. What are the possible diagnoses?"
+        },
+        {
+          "character": "KES",
+          "line": "Epicondylitis, strained ligament, torn muscle and hairline fracture."
+        },
+        {
+          "character": "EMH",
+          "line": "That's exactly right."
+        },
+        {
+          "character": "KES",
+          "line": "I've studied all the material you gave me. I'm ready for more."
+        },
+        {
+          "character": "EMH",
+          "line": "Good. There's a great deal more for you to learn. The tricorder indicates this is a small stress fracture."
+        },
+        {
+          "character": "BAXTER",
+          "line": "Can this guy do everything a real doctor does?"
+        },
+        {
+          "character": "EMH",
+          "line": "Yes, he can. Activate it and direct the beam here. That's it. Not quite so fast."
+        },
+        {
+          "character": "BAXTER",
+          "line": "If I had to get treatment for something serious, if I needed surgery for instance, would he be performing it?"
+        },
+        {
+          "character": "EMH",
+          "line": "Of course, and quite expertly too."
+        },
+        {
+          "character": "BAXTER",
+          "line": "I don't know. I'd have to think twice about that."
+        },
+        {
+          "character": "EMH",
+          "line": "Fine. And if you were lucky you wouldn't die on the table while you were making up your mind. That should do it. How does it feel?"
+        },
+        {
+          "character": "BAXTER",
+          "line": "Not bad. Thanks."
+        }
+      ],
+      "location": "Sickbay"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "KES",
+          "line": "Doctor, did you notice how rudely that officer treated you?"
+        },
+        {
+          "character": "EMH",
+          "line": "Not more so than most."
+        },
+        {
+          "character": "KES",
+          "line": "You mean others act that way too."
+        },
+        {
+          "character": "EMH",
+          "line": "Let's just say I've become accustomed to being treated like a hypospray. Now, here's some material on first aid for burns."
+        },
+        {
+          "character": "KES",
+          "line": "Doctor, I think I'd like to do more than study first aid. I'd be interested in knowing more about anatomy and physiology."
+        },
+        {
+          "character": "EMH",
+          "line": "You're intellectually curious. I like that. These deal with human anatomy and physiology, but they weren't written for the layman. They're quite technical."
+        },
+        {
+          "character": "KES",
+          "line": "I understand. I'll do my best. And I really appreciate your help."
+        }
+      ],
+      "location": "Doctor's office"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "KIM",
+          "line": "We've analyzed the data. So far our sensors have detected four separate scans of the microprobe, each one on a progressively narrower band. Someone on the other end of that wormhole is definitely interested in that probe."
+        },
+        {
+          "character": "TUVOK",
+          "line": "We cannot preclude the possibility that there is a microscopic entity within the wormhole curious about an intruder."
+        },
+        {
+          "character": "KIM",
+          "line": "That's possible, but you'd think our probe would have detected something like that."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "What's the condition of the probe now?"
+        },
+        {
+          "character": "TORRES",
+          "line": "I've been monitoring it from Engineering. It's still embedded in a gravitational eddy, but within seventy two hours it will be crushed."
+        },
+        {
+          "character": "KIM",
+          "line": "But until then it should continue to transmit telemetry."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "If we're reading scans from the other side, it's possible the probe is acting as a relay. If that's true, we should be able to use it to transmit a message to whoever is executing the scan."
+        },
+        {
+          "character": "KIM",
+          "line": "Yes. I can modify our subspace communications band to accept the probe as a booster."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Let's try it, Mister Kim."
+        },
+        {
+          "character": "TORRES",
+          "line": "I'll give you a hand."
+        },
+        {
+          "character": "TUVOK",
+          "line": "I fear Mister Kim's exuberance may turn into an equally intense disappointment if his efforts prove in vain."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "You may be right, but I'd rather assume that he's going to be successful."
+        }
+      ],
+      "location": "Briefing Room"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "KIM",
+          "line": "Okay, I've boosted power to the communications bandwidth. Now all we have to do reconfigure the signal generator so it's compatible with the probe's long range sensors."
+        },
+        {
+          "character": "TORRES",
+          "line": "I'm on it. Just a few minutes more."
+        },
+        {
+          "character": "KIM",
+          "line": "This has to work. It'll mean so much to people back home to know we're alive and headed for Federation space."
+        },
+        {
+          "character": "TORRES",
+          "line": "We haven't been gone that long. People won't give up on us so soon. They probably just think we're lost."
+        },
+        {
+          "character": "KIM",
+          "line": "It's still going to be hard on my folks. I always called them once a week, even when I was on my training missions. I've never been out of contact for so long."
+        },
+        {
+          "character": "TORRES",
+          "line": "Well, it is going to work, Starfleet, so pretty soon they're going to know you're all right."
+        },
+        {
+          "character": "KIM",
+          "line": "How about you? Any family?"
+        },
+        {
+          "character": "TORRES",
+          "line": "I haven't seen my father since I was five. He and my mother separated. He went back to Earth and that was the last I saw of him."
+        },
+        {
+          "character": "KIM",
+          "line": "And your mom?"
+        },
+        {
+          "character": "TORRES",
+          "line": "I think she's on the Klingon Homeworld."
+        },
+        {
+          "character": "KIM",
+          "line": "You think?"
+        },
+        {
+          "character": "TORRES",
+          "line": "We didn't get along very well. Okay, the signal generator should be tuned to the probe's long range sensors."
+        },
+        {
+          "character": "KIM",
+          "line": "Isn't there anyone back home who'll be worried about you?"
+        },
+        {
+          "character": "TORRES",
+          "line": "The Maquis are as to a close family as I've ever had. Most of my friends are here, on the ship, so no, there's no one back home who's going to care one way or the other whether I'm alive. We're ready to transmit."
+        },
+        {
+          "character": "KIM",
+          "line": "Engineering to Bridge."
+        }
+      ],
+      "location": "Engineering"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "JANEWAY",
+          "line": "Janeway here."
+        },
+        {
+          "character": "KIM",
+          "line": "We have a communications link with the microprobe. We're going to try sending a preliminary test signal, a series of sub-harmonic pulses.",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "KIM",
+          "line": "They stand the best chance of transmission through the wormhole."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Acknowledged.",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "Engineering"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "JANEWAY",
+          "line": "Proceed."
+        },
+        {
+          "character": "KIM",
+          "line": "Aye, Captain.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "I'm reading transmission of the test signal. The probe has received it and relayed it."
+        },
+        {
+          "character": "PARIS",
+          "line": "How will we know if the signal reaches somebody?"
+        },
+        {
+          "character": "JANEWAY",
+          "line": "The only way is if that somebody answers."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "KIM",
+          "line": "There's no response."
+        },
+        {
+          "character": "TORRES",
+          "line": "It's too soon. Remember, we have no idea how long it takes to reach the other side."
+        }
+      ],
+      "location": "Engineering"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "JANEWAY",
+          "line": "Are you reading anything, Mister Tuvok?"
+        },
+        {
+          "character": "TUVOK",
+          "line": "Negative Captain. There is nothing that would suggest a response."
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "Even if someone receives our signal, it might take them some time to figure out how to return it."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "You're right. Janeway to Kim. Continue transmitting."
+        },
+        {
+          "character": "KIM",
+          "line": "Aye Captain.",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "KIM",
+          "line": "How long shall we keep it up?"
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Until I tell you otherwise.",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "Engineering"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "JANEWAY",
+          "line": "You have the bridge, Commander."
+        },
+        {
+          "character": "TUVOK",
+          "line": "Captain."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Mister Tuvok."
+        },
+        {
+          "character": "TUVOK",
+          "line": "I'm getting something, Captain."
+        },
+        {
+          "character": "PARIS",
+          "line": "I'm getting it too. A subspace signal relayed through the probe."
+        },
+        {
+          "character": "TUVOK",
+          "line": "That signal is being transmitted at exactly the same frequency and amplitude as our signal. It's a response. Someone received our transmission and sent one back, and their signal originated in the Alpha Quadrant."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Captain's log, supplemental. Encouraged by his success in transmitting a signal to the Alpha Quadrant, Mister Kim is investigating the possibility of establishing a voice link with whoever is at the other end of the wormhole.",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "JANEWAY",
+          "line": "Come in. Kes, this is a surprise."
+        },
+        {
+          "character": "KES",
+          "line": "Am I interrupting?"
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Not at all. I was just going to have a cup of soup. Would you like anything?"
+        },
+        {
+          "character": "KES",
+          "line": "Ah, spinach juice with a touch of pear, please. Tom Paris introduced me to it, it's very nutritious."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "I'm sure. Computer, one spinach juice with a touch of pear and one cup of vegetable bouillon. What can I do for you?"
+        },
+        {
+          "character": "KES",
+          "line": "If there were a member of the crew whose needs weren't being met, would you want to know about it?"
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Of course. Kes, do you and Neelix feel that your needs are being ignored?"
+        },
+        {
+          "character": "KES",
+          "line": "Of course not, we're very happy here. I'm referring to the Doctor."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "The Doctor?"
+        },
+        {
+          "character": "KES",
+          "line": "I don't understand why people treat him the way they do."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "How do people treat him?"
+        },
+        {
+          "character": "KES",
+          "line": "As though he doesn't exist. They talk about him while he's standing right there. They ignore him. They insult him."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Well as a matter of fact, I've been hearing the other side of the coin. Many of the crew have complained that the Doctor is brusque, even rude, that he lacks any bedside manner. We've been talking about reprogramming him."
+        },
+        {
+          "character": "KES",
+          "line": "You can do that? It doesn't seem right."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Kes, he's only a hologram."
+        },
+        {
+          "character": "KES",
+          "line": "He's your Medical Officer. He's alive."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "No he's not."
+        },
+        {
+          "character": "KES",
+          "line": "He's self aware, he's communicative, he has the ability to learn."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Because he's been programd to do that."
+        },
+        {
+          "character": "KES",
+          "line": "So because he's a hologram he doesn't have to be treated with respect or any consideration at all?"
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Very well, I'll look into it."
+        },
+        {
+          "character": "KES",
+          "line": "Thank you, Captain."
+        }
+      ],
+      "location": "Ready room"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "KIM",
+          "line": "Okay, we'll be ready to go online in a couple of minutes."
+        },
+        {
+          "character": "TORRES",
+          "line": "I'm still worried about the gravitational interference. I don't think the co-variant isolator will be effective with a vocal transmission."
+        },
+        {
+          "character": "KIM",
+          "line": "Let's try inverting the narrow band filter."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Progress report, Ensign."
+        },
+        {
+          "character": "KIM",
+          "line": "I think we're ready to give it a try, though we're pushing through some pretty heavy gravitational interference. I can't guarantee the clarity of the transmission."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Let's see what happens. This is Captain Kathryn Janeway of the Federation Starship Voyager. Do you read?"
+        },
+        {
+          "character": "TORRES",
+          "line": "I'll narrow the filter bandpass some more. Try again, Captain."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "This is Kathryn Janeway of the Federation ship Voyager. Is anyone receiving this communication?"
+        },
+        {
+          "character": "TELEK",
+          "line": "vessel",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "KIM",
+          "line": "Narrow the bandpass some more. Try again, Captain."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "This is Janeway. Please repeat your last transmission."
+        },
+        {
+          "character": "TELEK",
+          "line": "cargo vessel quadrant your location.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Cargo vessel, we're still trying to clear up your last transmission. Please repeat one more time."
+        },
+        {
+          "character": "TELEK",
+          "line": "I am Captain of the cargo vessel Talvath, location Alpha Quadrant, sector one three eight five. What is your location?",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "JANEWAY",
+          "line": "We're in the Delta Quadrant, but since this quadrant hasn't been charted I can't specify our exact location."
+        },
+        {
+          "character": "TELEK",
+          "line": "Please confirm. You said Delta Quadrant?",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Correct."
+        },
+        {
+          "character": "TELEK",
+          "line": "In a Federation starship?",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Yes. We were on a mission and we got pulled into this quadrant."
+        },
+        {
+          "character": "TELEK",
+          "line": "Pulled in? How?",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "JANEWAY",
+          "line": "It's a complicated story. Please, if you would just try deconstructing the phase shift of our hailing frequency you could verify."
+        },
+        {
+          "character": "TELEK",
+          "line": "You are undoubtedly still in the Alpha quadrant. What are your coordinates?",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "JANEWAY",
+          "line": "I assure you I am telling you the truth. We are in the Delta quadrant, seventy thousand light years from you."
+        },
+        {
+          "character": "TELEK",
+          "line": "This is preposterous. You are obviously lying. I am terminating communication.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "JANEWAY",
+          "line": "No, no, wait! Kim! Hail them again."
+        },
+        {
+          "character": "KIM",
+          "line": "No response, Captain."
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "Why would he have broken off transmission?"
+        },
+        {
+          "character": "TUVOK",
+          "line": "Perhaps I can offer an explanation. The comm. link signature of his transmission indicates the message originated from a Romulan ship. Further, there are no known shipping lanes in the sector he identified. Given the precise calibration of his signal I would suggest that he is in fact on board a science vessel."
+        },
+        {
+          "character": "PARIS",
+          "line": "Why would he pretend to be a cargo captain."
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "If he's engaged in some kind of secret research he might want to conceal that fact."
+        },
+        {
+          "character": "TUVOK",
+          "line": "Precisely. When we claimed to be transmitting from the Delta quadrant, an impossibility so far as he knows, he may have feared we were Federation spies."
+        },
+        {
+          "character": "TORRES",
+          "line": "Just our luck. We raise one ship from the Alpha quadrant and it has to be Romulan."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "That Romulan still has the ability to get a message to Starfleet. Mister Kim, hail the Talvath repeatedly. Call me the minute you re-establish contact. Commander, you have the bridge."
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "Aye, Captain."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "JANEWAY",
+          "line": "Computer, initiate Emergency Medical Holographic Program."
+        },
+        {
+          "character": "EMH",
+          "line": "Please state the nature of the medical emergency."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "There is no emergency, Doctor."
+        }
+      ],
+      "location": "Doctor's office"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "EMH",
+          "line": "Well, that's good. I was right in the middle of preparing a culture to test Lieutenant Hargrove for Arethian flu when Ensign Kyoto deactivated me."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "I'm sure she didn't realize you were busy."
+        },
+        {
+          "character": "EMH",
+          "line": "What is it you want, Captain."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Actually, I thought we might just talk for a moment."
+        },
+        {
+          "character": "EMH",
+          "line": "About what?"
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Doctor, you were originally programd to serve in a limited fashion during an emergency. Now you're being asked to do much more."
+        },
+        {
+          "character": "EMH",
+          "line": "That's certainly true. I'm providing full time medical service for the entire ship's crew, functioning both as doctor and nurse, and now as an instructor as well."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "You don't have the luxury of thinking of yourself as am Emergency Medical Program any more. You've become a full-fledged member of the crew."
+        },
+        {
+          "character": "EMH",
+          "line": "I see. Are you suggesting that I be re-programd?"
+        },
+        {
+          "character": "JANEWAY",
+          "line": "No. I'm asking if there's anything I can do to help you."
+        },
+        {
+          "character": "EMH",
+          "line": "Help me?"
+        },
+        {
+          "character": "JANEWAY",
+          "line": "If there's anything you need, or want, I'd like to see that you get it."
+        },
+        {
+          "character": "EMH",
+          "line": "What I'd like is to be turned off when people leave. I spend hours here with absolutely nothing to do. When someone does remember to deactivate me they do so without asking if it's convenient. It's extremely irritating."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "What if I gave you control over your deactivation sequence?"
+        },
+        {
+          "character": "EMH",
+          "line": "I beg your pardon?"
+        },
+        {
+          "character": "JANEWAY",
+          "line": "I'm sure we can make it possible for you to turn yourself off, or to prevent being turned off."
+        },
+        {
+          "character": "EMH",
+          "line": "I, I might like that."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "I'll have someone look into it. Anything else?"
+        },
+        {
+          "character": "EMH",
+          "line": "I'm not sure, I'll have to give it some thought."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "You do that."
+        }
+      ],
+      "location": "Sickbay"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "KIM",
+          "line": "Kim to Captain Janeway.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Janeway here."
+        },
+        {
+          "character": "KIM",
+          "line": "Captain, we've got him back. The Romulan.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Good work. Put him through to my quarters."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "This is Kathryn Janeway."
+        },
+        {
+          "character": "TELEK",
+          "line": "This is the cargo vessel Talvath.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Thank you for answering our hail, Captain. What is your name? How may I address you?"
+        },
+        {
+          "character": "TELEK",
+          "line": "I'd prefer not to give my name.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Very well, I understand that you must have been skeptical when I told you where we are. I hope you've been able to verify our position."
+        },
+        {
+          "character": "TELEK",
+          "line": "My analysis of your hailing frequency seems to indicate that it originates in the Delta quadrant, but I am not precluding the possibility that you've been able to create that illusion somehow.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "JANEWAY",
+          "line": "To what end?"
+        },
+        {
+          "character": "TELEK",
+          "line": "I'm not sure. That doesn't negate the possibility.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "JANEWAY",
+          "line": "How can I assure you of my truthfulness?"
+        },
+        {
+          "character": "TELEK",
+          "line": "You say you are a Federation ship. Are you a Starfleet vessel?",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Yes, we are."
+        },
+        {
+          "character": "TELEK",
+          "line": "And your mission in the Delta quadrant?",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Our mission was originally in the Alpha quadrant. We were pulled against our will to our present location. Now we're trying to get home."
+        },
+        {
+          "character": "TELEK",
+          "line": "Aren't you in fact Starfleet spies on a surveillance mission?",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Captain, I understand your concern. Naturally the Romulan Empire doesn't want Starfleet spying on it's science vessels, but since we're seventy thousand light years from Romulan space and a subspace message to Starfleet would take years, I think you have to admit that we can't be much of a threat to you. You have nothing to fear from us."
+        },
+        {
+          "character": "TELEK",
+          "line": "Soothing words, Captain, but they are only words.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "JANEWAY",
+          "line": "If we were spies, we wouldn't be asking what I'm going to ask you now. We have no way of communicating with Starfleet, with our friends and families. We're hoping you might be able to relay a message for us. Our crew is not large. Each of them could write a short personal message. You'd be welcome to read them all before passing them on. I think you'd be convinced that they're nothing more than the heartfelt words of some very lonely people."
+        },
+        {
+          "character": "TELEK",
+          "line": "Captain, it would ease my apprehension if I could see that you are who you say you are. I have a signal amplifier on board. I've been working to reconfigure the protocols to penetrate the radiation stream of the wormhole. I think it might be possible to establish a visual link between us.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "JANEWAY",
+          "line": "I have no objection. When that's done, will you help us?"
+        },
+        {
+          "character": "TELEK",
+          "line": "I make no promises. Let us proceed one step at a time. Have your officers contact me in order to attempt the visual link. Goodnight.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Goodnight."
+        }
+      ],
+      "location": "Captain's quarters"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TUVOK",
+          "line": "We're ready to try a visual link with the Romulan ship, Captain."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Good work."
+        },
+        {
+          "character": "KIM",
+          "line": "We didn't have any trouble configuring the protocols, but that phase variance in the radiation stream gave us a few problems. Torres is going to balance it manually from Engineering."
+        },
+        {
+          "character": "PARIS",
+          "line": "Okay, we've got the communications frequency locked in."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "On screen."
+        },
+        {
+          "character": "TELEK",
+          "line": "I presume you are Captain Janeway.",
+          "modifier": "screen"
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Yes. I want to thank you, Captain, for maintaining contact with us. It means a great deal to me and to my crew."
+        },
+        {
+          "character": "TELEK",
+          "line": "I am not familiar with this class of ship.",
+          "modifier": "screen"
+        },
+        {
+          "character": "JANEWAY",
+          "line": "It's new, but it isn't classified. I'm a little surprised your intelligence hasn't provided you with the information."
+        },
+        {
+          "character": "TELEK",
+          "line": "I've been in space for over a year, Captain, and am not privy to the latest intelligence, but I'm sure that our operatives provided the government with detailed information about your new ship.",
+          "modifier": "screen"
+        },
+        {
+          "character": "JANEWAY",
+          "line": "No doubt. Captain, have you been able to communicate with your government about sending on our messages?"
+        },
+        {
+          "character": "TELEK",
+          "line": "I have. They've promised to take the matter under advisement.",
+          "modifier": "screen"
+        },
+        {
+          "character": "JANEWAY",
+          "line": "I see. And when do you think they will have an answer?"
+        },
+        {
+          "character": "TELEK",
+          "line": "It is impossible to predict the time table of the Romulan Senate. When they've made their decision I will hear from them.",
+          "modifier": "screen"
+        },
+        {
+          "character": "JANEWAY",
+          "line": "We don't have the luxury of a great deal of time. My officers are predicting that the probe will become inoperable in the next forty eight hours."
+        },
+        {
+          "character": "TELEK",
+          "line": "Captain, I am a low ranking scientist, a minor functionary. It is not my place to tell the Romulan Senate to speed up their decision making process.",
+          "modifier": "screen"
+        },
+        {
+          "character": "JANEWAY",
+          "line": "You said you've been in space for over a year. Have you any family?"
+        },
+        {
+          "character": "TELEK",
+          "line": "Yes.",
+          "modifier": "screen"
+        },
+        {
+          "character": "JANEWAY",
+          "line": "I assume they're not with you in space."
+        },
+        {
+          "character": "TELEK",
+          "line": "My wife and my daughter are on Romulus.",
+          "modifier": "screen"
+        },
+        {
+          "character": "JANEWAY",
+          "line": "A daughter. How old is she?"
+        },
+        {
+          "character": "TELEK",
+          "line": "She is seven months.",
+          "modifier": "screen"
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Then you've never seen her."
+        },
+        {
+          "character": "TELEK",
+          "line": "To my sorrow, no. She'll be two years old before I get back.",
+          "modifier": "screen"
+        },
+        {
+          "character": "JANEWAY",
+          "line": "You must miss your family very much."
+        },
+        {
+          "character": "TELEK",
+          "line": "I knew when I accepted this assignment there would be a price to pay. Perhaps I didn't realize how high that price would be.",
+          "modifier": "screen"
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Captain. Everyone of us on this ship has left behind friends, family, loved ones. We may not see them again for years, maybe never, so we can all understand how lonely you must be. Surely you must understand our feelings as well. We would be deeply grateful for any efforts you might make to persuade your government to send our messages."
+        },
+        {
+          "character": "TELEK",
+          "line": "I cannot guarantee success, but I will try to persuade my superiors to make their decision quickly and positively.",
+          "modifier": "screen"
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Thank you."
+        },
+        {
+          "character": "TELEK",
+          "line": "I will contact you again.",
+          "modifier": "screen"
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Commander, let's assume he's going to be successful. Tell the crew to prepare personal messages and have them ready within the hour."
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "With pleasure, Captain."
+        },
+        {
+          "character": "TORRES",
+          "line": "Captain, I have to talk to you."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Go ahead, Torres."
+        },
+        {
+          "character": "TORRES",
+          "line": "No. I mean, in private."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TORRES",
+          "line": "I think this will work, Captain, but I didn't want to bring it up in front of the crew. It wouldn't be right to get their hopes up in case it doesn't work, although I think it will."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Slow down, Torres, and tell me what you're talking about."
+        },
+        {
+          "character": "TORRES",
+          "line": "The phase amplitude of the visual link with the Romulan ship is within just a few megahertz of meeting transporter protocols."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Are you suggesting"
+        },
+        {
+          "character": "TORRES",
+          "line": "We might be able to piggyback a transporter beam onto the visual link. We could transport the entire crew back to the Alpha quadrant."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "You'll have to reconfigure the matter transmission rate."
+        },
+        {
+          "character": "TORRES",
+          "line": "Fairly substantially."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "And we risk losing whatever we try to beam out."
+        },
+        {
+          "character": "TORRES",
+          "line": "We'll have to run a series of tests first."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "See to it, Lieutenant."
+        },
+        {
+          "character": "TORRES",
+          "line": "I'll need some help."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "You have my authorisation to use any of the ships personnel you need. This has top priority. And don't worry about secrecy. I doubt you'd be able to keep this quiet for very long."
+        }
+      ],
+      "location": "Ready room"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "KES",
+          "line": "I've finished these and I'm ready for more."
+        },
+        {
+          "character": "EMH",
+          "line": "You've finished those already?"
+        },
+        {
+          "character": "KES",
+          "line": "I enjoyed studying anatomy. It would be interesting to see an autopsy sometime."
+        },
+        {
+          "character": "EMH",
+          "line": "What are the bones of the middle ear?"
+        },
+        {
+          "character": "KES",
+          "line": "Malleus, incus and stapes."
+        },
+        {
+          "character": "EMH",
+          "line": "And the connective tissue between the middle and the external auditory canal?"
+        },
+        {
+          "character": "KES",
+          "line": "The tympanic membrane."
+        },
+        {
+          "character": "EMH",
+          "line": "Hmm. I suspect you have an eidetic memory. An astonishing gift. I'll do a full neural scan on you at some point."
+        }
+      ],
+      "location": "Sickbay"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "KES",
+          "line": "I've been thinking. If we do get back to Federation space, I'd like to explore the possibility of going to Medical School."
+        },
+        {
+          "character": "EMH",
+          "line": "If you continue to apply yourself as you have, by the time we get back you may already have the equivalent of a medical degree."
+        },
+        {
+          "character": "KES",
+          "line": "Then you haven't heard?"
+        },
+        {
+          "character": "EMH",
+          "line": "Heard what?"
+        },
+        {
+          "character": "KES",
+          "line": "That we might be getting back soon."
+        },
+        {
+          "character": "EMH",
+          "line": "If there's one thing you can count on, it's that I am the last to be told about anything that happens on this ship."
+        },
+        {
+          "character": "KES",
+          "line": "Everyone's talking about it. There may be a way to transport all of us to the Alpha Quadrant. Chief Torres and half of engineering are working on it right now."
+        },
+        {
+          "character": "EMH",
+          "line": "I see. Well, I'll say goodbye now. I won't be transporting with the rest of you."
+        },
+        {
+          "character": "KES",
+          "line": "But can't we download your program and take you with us?"
+        },
+        {
+          "character": "EMH",
+          "line": "My program is fully integrated into the sickbay system. At present I cannot be downloaded."
+        },
+        {
+          "character": "KES",
+          "line": "Thank you for everything."
+        },
+        {
+          "character": "EMH",
+          "line": "Wait. I'd like. That is, could I ask a favor of you?"
+        },
+        {
+          "character": "KES",
+          "line": "Anything."
+        },
+        {
+          "character": "EMH",
+          "line": "If you do leave, before you go, would you check to make sure I've been deactivated."
+        },
+        {
+          "character": "KES",
+          "line": "I promise."
+        }
+      ],
+      "location": "Doctor's office"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "JANEWAY",
+          "line": "And our Chief Engineer has managed to bind a transporter beam to the visual link between us."
+        },
+        {
+          "character": "TELEK",
+          "line": "Then you've matched your data transmission to the phase amplitude of our comm. signal?",
+          "modifier": "screen"
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Exactly."
+        },
+        {
+          "character": "TELEK",
+          "line": "Apparently our intelligence operatives are not doing their job. You clearly have technology that we are unaware of. This would be an incredible breakthrough in subspace field mechanics.",
+          "modifier": "screen"
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "If it's successful, we'd like to try transmitting a test cylinder to you."
+        },
+        {
+          "character": "TELEK",
+          "line": "A test cylinder of what sort?",
+          "modifier": "screen"
+        },
+        {
+          "character": "TUVOK",
+          "line": "It is a standard Starfleet mechanism with a varietal molecular matrix. It simulates most organic and non-organic compounds. It is not classified technology."
+        },
+        {
+          "character": "TELEK",
+          "line": "Ah, I am aware of this mechanism. We use a similar device. I will allow the transport.",
+          "modifier": "screen"
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Bridge to Transporter room one."
+        },
+        {
+          "character": "TORRES",
+          "line": "Torres here.",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TORRES",
+          "line": "We're all set, Captain. The lock is active and we're focused on the Romulan's"
+        }
+      ],
+      "location": "Transporter room"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TORRES",
+          "line": "Transporter coordinates.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "JANEWAY",
+          "line": "All right then. Let's give it a try."
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "Energize."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TORRES",
+          "line": "The cylinder has dematerialized, Captain."
+        }
+      ],
+      "location": "Transporter Room"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "JANEWAY",
+          "line": "Can you get it back?"
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TORRES",
+          "line": "The pattern buffer is having trouble accepting the matter stream."
+        },
+        {
+          "character": "KIM",
+          "line": "I'll increase power to the"
+        }
+      ],
+      "location": "Transporter Room"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "KIM",
+          "line": "Phase transition coils.",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TORRES",
+          "line": "Ramp the coils to thirty seven megajoules."
+        },
+        {
+          "character": "KIM",
+          "line": "Thirty seven megajoules."
+        }
+      ],
+      "location": "Transporter room"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TELEK",
+          "line": "Congratulations, Captain. You've done it. Very impressive.",
+          "modifier": "screen"
+        },
+        {
+          "character": "JANEWAY",
+          "line": "We should run a series of these tests just to make sure, but we have to act quickly before the probe is crushed."
+        },
+        {
+          "character": "TELEK",
+          "line": "I understand.",
+          "modifier": "screen"
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Eventually we will have to try transporting a person. One of our crew will beam to your ship if you'll allow it."
+        },
+        {
+          "character": "TELEK",
+          "line": "I'm afraid I can't permit that, Captain, my government would never allow Starfleet personnel on this ship. I wouldn't want my logs to show that activity.",
+          "modifier": "screen"
+        },
+        {
+          "character": "TUVOK",
+          "line": "Then what would you suggest?"
+        },
+        {
+          "character": "TELEK",
+          "line": "I'll volunteer to transport to your ship and back again.",
+          "modifier": "screen"
+        },
+        {
+          "character": "JANEWAY",
+          "line": "But Captain, if we can't transport to your ship, how are we to get back?"
+        },
+        {
+          "character": "TELEK",
+          "line": "If the procedure is successful, I'll arrange for a troop ship to join me. That would easily accommodate your crew.",
+          "modifier": "screen"
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Very well. We'll be in touch."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "CHAKOTAY",
+          "line": "Kim and Torres have made more than twenty transports of the test cylinder, even though she's still having trouble with that phase variance. Every one of them has been successful."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Let's hope it goes as well with the Romulan."
+        },
+        {
+          "character": "TUVOK",
+          "line": "Captain, I must insist that I stay with him at all times while he is on board."
+        }
+      ],
+      "location": "Corridor"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "JANEWAY",
+          "line": "Agreed."
+        },
+        {
+          "character": "TORRES",
+          "line": "We're locked onto him. Whenever you're ready, Captain."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Well, let's try it. Energize. What's the problem?"
+        },
+        {
+          "character": "TORRES",
+          "line": "It's the phase variance in the radiation stream. I'm balancing it manually."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Welcome to the Delta quadrant, Captain. My first officer, Commander Chakotay. Lieutenant Tuvok, head of security. Chief Engineer Torres and Operations officer Kim."
+        },
+        {
+          "character": "TELEK",
+          "line": "My congratulations on your remarkable accomplishment. This is an astonishing breakthrough."
+        },
+        {
+          "character": "TORRES",
+          "line": "For a while there I didn't think you were going make it. There was a strange phase variance in the radiation stream. It almost kept us from pulling you through."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Mister Tuvok, you may begin evacuation procedures."
+        },
+        {
+          "character": "TUVOK",
+          "line": "I suggest we delay that for the moment, Captain. I'm afraid I've found the reason for the unusual phase variance."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "What is it?"
+        },
+        {
+          "character": "TUVOK",
+          "line": "Captain, what year is it?"
+        },
+        {
+          "character": "TELEK",
+          "line": "What year?"
+        },
+        {
+          "character": "TUVOK",
+          "line": "If you please."
+        },
+        {
+          "character": "TELEK",
+          "line": "By your calendar, the year is 2351."
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "But this is 2371."
+        },
+        {
+          "character": "TUVOK",
+          "line": "Exactly. Our Romulan visitor is a person out of time. He is showing clear evidence of temporal displacement. I would surmise that the wormhole is a rift not just in space but in time. The unusual phase variance we detected was actually an indication of a temporal shift. We have transported him from twenty years in the past to our present."
+        }
+      ],
+      "location": "Transporter Room"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TORRES",
+          "line": "I've gone over and over the transporter logs. There's no question that if we try to transport ourselves through that wormhole, we'll end up twenty years in the past."
+        },
+        {
+          "character": "KIM",
+          "line": "Then lets do it. It's better than trying to spend the next seventy years trying to get back."
+        },
+        {
+          "character": "PARIS",
+          "line": "How can we do that? We'd be going back to a time when you were only two years old."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "I know you're disappointed, Harry, we all are. It seemed we were so close. But clearly we can't go back. It would pollute the time line to such an extent that the consequences would be unimaginable. I'm afraid we'll have to send you back alone and ask that you not reveal anything that has happened here."
+        },
+        {
+          "character": "TELEK",
+          "line": "I can assure you, Captain, that I would not do anything that might contaminate the future and perhaps harm the Romulan Empire, but, in twenty years I could alert Starfleet not to launch the mission which sent you here."
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "I'm afraid that's not possible either. We've already had a huge impact on this quadrant. People and events here would be drastically affected."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "I'm afraid we're left with our original request. In twenty years, would you relay our personal messages to Starfleet?"
+        },
+        {
+          "character": "TELEK",
+          "line": "Of course. At the proper time, I will transmit them. If you should find a way back within my lifetime, I'd be an old man, but I would welcome a message from you. I am Telek R'Mor of the Romulan Astrophysical Academy."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "I promise you'll hear from us. Because we will get back."
+        }
+      ],
+      "location": "Briefing Room"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TUVOK",
+          "line": "These are our messages."
+        },
+        {
+          "character": "TELEK",
+          "line": "I wish you luck on your journey."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "And I thank you for your help. Energize."
+        },
+        {
+          "character": "TORRES",
+          "line": "The signal's in the pattern buffer. Transferring to the emitter array."
+        },
+        {
+          "character": "KIM",
+          "line": "Phase variance is out of synch again."
+        },
+        {
+          "character": "TORRES",
+          "line": "Compensating. Transport complete, Captain. He made it."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "I'll tell the crew. They can have the satisfaction of knowing that their messages have reached their families."
+        },
+        {
+          "character": "TUVOK",
+          "line": "Captain, I did not want to mention this until after our guest had left. I checked the computers databanks for a Romulan scientist named Telek R'Mor."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "And?"
+        },
+        {
+          "character": "TUVOK",
+          "line": "I'm sorry to report Doctor R'Mor died in 2367."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "That was four years ago."
+        },
+        {
+          "character": "TUVOK",
+          "line": "That is correct. Before he would have sent our messages."
+        },
+        {
+          "character": "TORRES",
+          "line": "Maybe he left a will telling someone else to transmit the messages. Or he could have given our computer chip to the Romulan Government."
+        },
+        {
+          "character": "TUVOK",
+          "line": "It is possible. Unfortunately, there is no way to know."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Then let's move on. We've got a long way to go."
+        }
+      ],
+      "location": "Transporter Room"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "BAXTER",
+          "line": "I tried a new hamstring exercise. Maybe I overdid it. But my workouts are about all that stand between me and a severe case of cabin fever."
+        },
+        {
+          "character": "EMH",
+          "line": "Lieutenant, I am the Chief Medical Officer of this ship. If you have something to say to me, please, direct the statement to me."
+        },
+        {
+          "character": "BAXTER",
+          "line": "Well, you see, I need to work out."
+        },
+        {
+          "character": "EMH",
+          "line": "I'm not telling you not to work out. I'm suggesting you use a modicum of commonsense when you do it. If I see you in here again for an exercise related injury, I'll have to diskuss the matter with your superior officer."
+        },
+        {
+          "character": "BAXTER",
+          "line": "Yes, sir."
+        },
+        {
+          "character": "EMH",
+          "line": "You're fine now. You may leave."
+        },
+        {
+          "character": "BAXTER",
+          "line": "Yes, sir. Thank you, sir."
+        },
+        {
+          "character": "KES",
+          "line": "I don't think he'll make the mistake of ignoring you again."
+        },
+        {
+          "character": "EMH",
+          "line": "Captain Janeway has made me realize that I must function as more than an Emergency Medical replacement. I must think of myself as a member of the crew."
+        },
+        {
+          "character": "KES",
+          "line": "you're absolutely right."
+        },
+        {
+          "character": "EMH",
+          "line": "I've prepared a list of things I'd like to see added to Sickbay. Perhaps you could present it to the Captain?"
+        },
+        {
+          "character": "KES",
+          "line": "I'd be happy to."
+        },
+        {
+          "character": "EMH",
+          "line": "There's one more request. Something of a, a personal nature. I would like a name."
+        }
+      ],
+      "location": "Sickbay"
+    }
+  ],
+  "schedule": {
+    "episode": 7,
+    "number": 7,
+    "season": 1
+  },
+  "stardate": "48579.4",
+  "title": "Eye of the Needle"
+}

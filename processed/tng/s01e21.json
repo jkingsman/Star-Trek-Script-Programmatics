@@ -1,0 +1,2206 @@
+{
+  "airdate": 576734400,
+  "scenes": [
+    {
+      "dialogue": [
+        {
+          "character": "PICARD",
+          "line": "Captain's log, stardate 41798.2. We have been ordered by Starfleet to proceed to the Lorenze Cluster and investigate the disappearance of a light cruiser, USS Drake, which was in that system trying to unravel a mystery of its own which began when recent long range probes indicated that all intelligent life on the planet Minos has disappeared.",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "unknown"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "PICARD",
+          "line": "Number One?"
+        },
+        {
+          "character": "RIKER",
+          "line": "No help from their communications log. The Drake reported arriving at Minos and then wasn't heard from again."
+        },
+        {
+          "character": "PICARD",
+          "line": "Mister Data?"
+        },
+        {
+          "character": "DATA",
+          "line": "The citizens of Minos gained fame during the Ersalrope wars as arms merchants. They manufactured sophisticated and highly advanced weaponry."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Yeah? For which side?"
+        },
+        {
+          "character": "DATA",
+          "line": "Both."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "We are approaching the planet Minos, sir."
+        },
+        {
+          "character": "PICARD",
+          "line": "Standard orbit, Mister La Forge."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Aye, sir. Standard orbit."
+        },
+        {
+          "character": "RIKER",
+          "line": "Whatever happened to the Drake, happened quickly, otherwise a man like Rice would have reported again."
+        },
+        {
+          "character": "PICARD",
+          "line": "You know Captain Rice?"
+        },
+        {
+          "character": "RIKER",
+          "line": "We were at the Academy together."
+        },
+        {
+          "character": "PICARD",
+          "line": "Tell me about him."
+        },
+        {
+          "character": "RIKER",
+          "line": "Able. A good officer."
+        },
+        {
+          "character": "TROI",
+          "line": "How would he react under stress?"
+        },
+        {
+          "character": "RIKER",
+          "line": "Paul Rice is confident to the point of arrogance, he but carries it well because he's usually right. He's a risk taker."
+        },
+        {
+          "character": "PICARD",
+          "line": "Really?"
+        },
+        {
+          "character": "RIKER",
+          "line": "I'll give you an example. One of the final tests in advance navigation at the Academy provides the student with three options. Rice was given this test, rejected their options and offered one of his own."
+        },
+        {
+          "character": "PICARD",
+          "line": "That's taking a risk."
+        },
+        {
+          "character": "RIKER",
+          "line": "And it paid off. He received the top grade and now that same test has four options."
+        },
+        {
+          "character": "TROI",
+          "line": "In a difficult situation a man like that would act aggressively."
+        },
+        {
+          "character": "RIKER",
+          "line": "Agreed."
+        },
+        {
+          "character": "WORF",
+          "line": "Commander, weren't you offered the Drake?"
+        },
+        {
+          "character": "RIKER",
+          "line": "Yes."
+        },
+        {
+          "character": "TASHA",
+          "line": "You gave up your own command to take this assignment?"
+        },
+        {
+          "character": "RIKER",
+          "line": "At the time I thought it would be more advantageous for me to do a tour on the Enterprise."
+        },
+        {
+          "character": "DATA",
+          "line": "Captain, readings correspond with the findings of the probe. No signs of intelligent life forms. Vegetation and animal life only."
+        },
+        {
+          "character": "TROI",
+          "line": "What happened to all the people?"
+        },
+        {
+          "character": "WORF",
+          "line": "War?"
+        },
+        {
+          "character": "DATA",
+          "line": "Disease?"
+        },
+        {
+          "character": "LAFORGE",
+          "line": "A dissatisfied customer?"
+        },
+        {
+          "character": "TASHA",
+          "line": "In any war, natural disaster, even the most virulent plague, there are always survivors."
+        },
+        {
+          "character": "DATA",
+          "line": "Captain, we are being hailed."
+        },
+        {
+          "character": "RIKER",
+          "line": "How can that be from a planet with no people?"
+        },
+        {
+          "character": "PICARD",
+          "line": "Your sensors indicated no intelligent life forms?"
+        },
+        {
+          "character": "DATA",
+          "line": "Correct, sir. Something has scanned our language banks and is hailing us."
+        },
+        {
+          "character": "PICARD",
+          "line": "On main viewer."
+        },
+        {
+          "character": "SALESMAN",
+          "line": "Whoever you are, wherever you're from, greetings. Welcome to Minos, the arsenal of freedom.",
+          "modifier": "screen"
+        },
+        {
+          "character": "PICARD",
+          "line": "I am Captain Jean-Luc Picard of the USS"
+        },
+        {
+          "character": "SALESMAN",
+          "line": "If you need a little something special, be it for one target or multiple targets, we got it. You'll see it here on Minos, where we live by the motto 'peace through superior firepower'.",
+          "modifier": "screen"
+        },
+        {
+          "character": "PICARD",
+          "line": "To whom am I speaking?"
+        },
+        {
+          "character": "SALESMAN",
+          "line": "To be totally armed is to be totally secure. Remember, the early bird that hesitates gets wormed.",
+          "modifier": "screen"
+        },
+        {
+          "character": "DATA",
+          "line": "It is a recorded message, sir."
+        },
+        {
+          "character": "SALESMAN",
+          "line": "Minos, the arsenal of freedom. Perfection in highly advanced weaponry. Versatility.",
+          "modifier": "screen"
+        },
+        {
+          "character": "PICARD",
+          "line": "We must have triggered something left over from the Erselrope wars when the arms business was booming."
+        },
+        {
+          "character": "SALESMAN",
+          "line": "So lock on to my signal and beam on down, because we don't just provide weapons",
+          "modifier": "screen"
+        },
+        {
+          "character": "PICARD",
+          "line": "Shut that off."
+        },
+        {
+          "character": "SALESMAN",
+          "line": "We provide complete weapons systems.",
+          "modifier": "screen"
+        },
+        {
+          "character": "LAFORGE",
+          "line": "It's a heck of a sales pitch."
+        },
+        {
+          "character": "PICARD",
+          "line": "If an automated message system is still functioning, there could be other systems on that planet that are still operational."
+        },
+        {
+          "character": "TASHA",
+          "line": "Weapons systems?"
+        },
+        {
+          "character": "PICARD",
+          "line": "Possibly."
+        },
+        {
+          "character": "RIKER",
+          "line": "We're going to have to go down there to find it."
+        },
+        {
+          "character": "PICARD",
+          "line": "Number One, prepare am away team."
+        },
+        {
+          "character": "RIKER",
+          "line": "Lieutenant Yar. Data."
+        },
+        {
+          "character": "TASHA",
+          "line": "Commander, I recommend a minimum complement."
+        },
+        {
+          "character": "RIKER",
+          "line": "Oh? I would have thought otherwise."
+        },
+        {
+          "character": "TASHA",
+          "line": "We'll keep the first landing party small and mobile, until I'm confident that whatever killed the inhabitants of this planet isn't still down there."
+        },
+        {
+          "character": "RIKER",
+          "line": "Okay."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "RIKER",
+          "line": "Spooky. Riker."
+        }
+      ],
+      "location": "Planet Surface"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "PICARD",
+          "line": "This is the Bridge."
+        },
+        {
+          "character": "RIKER",
+          "line": "We'll start a pattern search from this point.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "PICARD",
+          "line": "Keep this channel open."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "RIKER",
+          "line": "Aye, sir."
+        },
+        {
+          "character": "DATA",
+          "line": "Commander, our communications are being monitored."
+        },
+        {
+          "character": "RIKER",
+          "line": "By whom?"
+        },
+        {
+          "character": "DATA",
+          "line": "Since there is no intelligent life, the question is by what?"
+        }
+      ],
+      "location": "Planet surface"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "RIKER",
+          "line": "Captain?",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "PICARD",
+          "line": "Yes, we heard that, Number One. We'll try and track it down from here."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TASHA",
+          "line": "Tritanium. It's been melted."
+        },
+        {
+          "character": "RIKER",
+          "line": "What could do that?"
+        },
+        {
+          "character": "TASHA",
+          "line": "I don't know. Whatever it was, it's beyond our technology."
+        },
+        {
+          "character": "DATA",
+          "line": "Over here."
+        },
+        {
+          "character": "TASHA",
+          "line": "Wow."
+        },
+        {
+          "character": "RIKER",
+          "line": "We've never even seen anything like this."
+        },
+        {
+          "character": "TASHA",
+          "line": "It's undamaged."
+        },
+        {
+          "character": "RIKER",
+          "line": "Maybe a demonstration model for some potential buyer."
+        },
+        {
+          "character": "TASHA",
+          "line": "Maybe. Let's spread out a little."
+        }
+      ],
+      "location": "Ruins"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "T'SU",
+          "line": "Commander Riker, this is Ensign T'Su."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "T'SU",
+          "line": "I'm monitoring a slight energy buildup near your position. I am not able to pinpoint the source.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "RIKER",
+          "line": "Give me a direction."
+        }
+      ],
+      "location": "Ruins"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "T'SU",
+          "line": "East of your position, ten meters. I will continue monitoring."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "RIKER",
+          "line": "I can't see anything through here. The underbrush is too thick."
+        },
+        {
+          "character": "RICE",
+          "line": "Hello. Commander Riker."
+        },
+        {
+          "character": "RIKER",
+          "line": "Rice! Where did you come from?"
+        },
+        {
+          "character": "RICE",
+          "line": "I was over there."
+        },
+        {
+          "character": "RIKER",
+          "line": "We were worried about you. I should have known you'd pop up."
+        },
+        {
+          "character": "RICE",
+          "line": "How are you, Commander Riker?"
+        },
+        {
+          "character": "RIKER",
+          "line": "Me? Forget about me. How are you? No word, no message, nothing."
+        },
+        {
+          "character": "RICE",
+          "line": "How many are with you?"
+        },
+        {
+          "character": "RIKER",
+          "line": "There are two others. Where's the Drake? Where's your crew?"
+        },
+        {
+          "character": "PICARD",
+          "line": "Number One, a word. We have some information you should be aware of.",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "Jungle"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "PICARD",
+          "line": "Ensign T'Su?"
+        },
+        {
+          "character": "T'SU",
+          "line": "Sensors indicate low level energy readings, but the only life signs are the away team."
+        },
+        {
+          "character": "PICARD",
+          "line": "You copy, Number One?"
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "RIKER",
+          "line": "Understood. You look strange, Paul."
+        },
+        {
+          "character": "RICE",
+          "line": "I was injured getting here."
+        },
+        {
+          "character": "RIKER",
+          "line": "Do you need medical help?"
+        },
+        {
+          "character": "RICE",
+          "line": "No. What's your purpose here?"
+        },
+        {
+          "character": "RIKER",
+          "line": "Commander Data, Lieutenant Yar."
+        },
+        {
+          "character": "DATA",
+          "line": "Sir, other than ourselves, I am picking up no life signs here."
+        },
+        {
+          "character": "RIKER",
+          "line": "I know."
+        },
+        {
+          "character": "RICE",
+          "line": "Riker, you didn't answer me. Who sent you here to look for me?"
+        },
+        {
+          "character": "RIKER",
+          "line": "Your mother. She's worried about you."
+        },
+        {
+          "character": "RICE",
+          "line": "Tell me about your ship, Riker. It's the Enterprise, isn't it?"
+        },
+        {
+          "character": "RIKER",
+          "line": "No. The name of my ship is the Lollipop."
+        },
+        {
+          "character": "RICE",
+          "line": "I have no knowledge of that ship."
+        },
+        {
+          "character": "RIKER",
+          "line": "It's just been commissioned. It's a good ship."
+        },
+        {
+          "character": "RICE",
+          "line": "Refresh me, would you, Riker? What's its size, it's complement?"
+        },
+        {
+          "character": "RIKER",
+          "line": "Who is here with you?"
+        },
+        {
+          "character": "RICE",
+          "line": "What's the armament on the Lollipop?"
+        },
+        {
+          "character": "RIKER",
+          "line": "Paul, I will only answer your questions if you answer mine. Why do you want to know so much about my ship?"
+        },
+        {
+          "character": "RICE",
+          "line": "We're friends, aren't we?"
+        },
+        {
+          "character": "RIKER",
+          "line": "Old friends."
+        },
+        {
+          "character": "RICE",
+          "line": "Our top speed is warp three. What's yours?"
+        },
+        {
+          "character": "RIKER",
+          "line": "Is? Then the Drake has not been destroyed."
+        },
+        {
+          "character": "RICE",
+          "line": "The Drake?"
+        },
+        {
+          "character": "RIKER",
+          "line": "Yes, your ship."
+        },
+        {
+          "character": "RICE",
+          "line": "Of course, my ship is the Drake."
+        },
+        {
+          "character": "RIKER",
+          "line": "Where is it?"
+        },
+        {
+          "character": "RICE",
+          "line": "Classified."
+        },
+        {
+          "character": "RIKER",
+          "line": "Classified?"
+        },
+        {
+          "character": "RICE",
+          "line": "Please, it's important. Our survival depends on knowing. What's the armament on your ship?"
+        },
+        {
+          "character": "RIKER",
+          "line": "Ten."
+        },
+        {
+          "character": "RICE",
+          "line": "Ten? I don't understand. Ten what?"
+        },
+        {
+          "character": "RIKER",
+          "line": "Six."
+        },
+        {
+          "character": "RICE",
+          "line": "Commander Riker, your answers make no sense."
+        },
+        {
+          "character": "RIKER",
+          "line": "You haven't used my first name once, Paul. You remember it, don't you? You don't, do you? Because you don't exist. You're a fake. You're an image of the original, aren't you? Answer me!"
+        },
+        {
+          "character": "PICARD",
+          "line": "Report, Number One.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "RIKER",
+          "line": "The image of Rice has been replaced by something which is hovering several meters away."
+        }
+      ],
+      "location": "Jungle"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "PICARD",
+          "line": "Number One, get your team back up here."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "RIKER",
+          "line": "Prepare to beam up."
+        },
+        {
+          "character": "TASHA",
+          "line": "Commander!"
+        }
+      ],
+      "location": "Jungle"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "PICARD",
+          "line": "What's happened, Number One? Report. Report! Report!"
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TASHA",
+          "line": "He can't answer you, Captain."
+        },
+        {
+          "character": "DATA",
+          "line": "Commander Riker just has been encased in some kind of energy field."
+        }
+      ],
+      "location": "Jungle"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "PICARD",
+          "line": "Is he alive?"
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "DATA",
+          "line": "Unknown."
+        },
+        {
+          "character": "PICARD",
+          "line": "Captain's log, supplemental. Some kind of weapon, which for a time took the form of Captain Paul Rice, has enveloped Commander Riker.",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "Jungle"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "PICARD",
+          "line": "Transporter room three, have you been able to lock on to the away team?"
+        },
+        {
+          "character": "CHIEF",
+          "line": "I am unable to lock on to Commander Riker, sir.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "PICARD",
+          "line": "Ensign T'Su, situation report."
+        },
+        {
+          "character": "T'SU",
+          "line": "Previous energy readings are gone."
+        },
+        {
+          "character": "PICARD",
+          "line": "Data, have you been able to assess Commander Riker's condition?"
+        },
+        {
+          "character": "DATA",
+          "line": "He appears to be in some kind of stasis.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "PICARD",
+          "line": "Theorize, Mister Data. What would be the purpose of such an encasement?"
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "DATA",
+          "line": "Typically, the purpose of such an enclosure is for storage."
+        },
+        {
+          "character": "PICARD",
+          "line": "Which would suggest what?",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "TASHA",
+          "line": "That sooner or later someone or something will be along to collect him."
+        }
+      ],
+      "location": "Jungle"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "PICARD",
+          "line": "Stand by. I'm coming down."
+        },
+        {
+          "character": "TROI",
+          "line": "You, sir?"
+        },
+        {
+          "character": "PICARD",
+          "line": "Yes. Doctor Crusher, this is the Captain. Meet me in Transporter room three. Mister La Forge, you have command of the Bridge."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Aye, sir."
+        },
+        {
+          "character": "PICARD",
+          "line": "And whatever happens down there, your prime responsibility is to the ship."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Understood, sir."
+        },
+        {
+          "character": "TROI",
+          "line": "Captain, I take great exception to your decision to beam down."
+        },
+        {
+          "character": "PICARD",
+          "line": "Noted."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "CRUSHER",
+          "line": "Is it just Riker?"
+        },
+        {
+          "character": "PICARD",
+          "line": "Yes. Apparently he's confined in some sort of force field. Energize."
+        }
+      ],
+      "location": "Transporter room"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "PICARD",
+          "line": "Any changes?"
+        },
+        {
+          "character": "TASHA",
+          "line": "Data's figured out what it is."
+        },
+        {
+          "character": "CRUSHER",
+          "line": "Are you getting any life signs?"
+        },
+        {
+          "character": "DATA",
+          "line": "He is alive. What appeared in the form of Captain Rice is an intelligence gathering device used during the Ersalrope Wars."
+        },
+        {
+          "character": "TASHA",
+          "line": "Probably developed here."
+        },
+        {
+          "character": "DATA",
+          "line": "It projects an image of someone the subject will trust, gets as much information as possible."
+        },
+        {
+          "character": "TASHA",
+          "line": "If it's found out, it encases the subject to await a more detailed interrogation later."
+        },
+        {
+          "character": "CRUSHER",
+          "line": "Clever."
+        },
+        {
+          "character": "PICARD",
+          "line": "Can you remove it?"
+        },
+        {
+          "character": "DATA",
+          "line": "Possibly, but I will need to know the exact frequency and I cannot determine the risk to Commander Riker."
+        },
+        {
+          "character": "PICARD",
+          "line": "We have little choice. Whatever has him is interrupting the transporter beam. Remove it."
+        },
+        {
+          "character": "DATA",
+          "line": "This will take some time, sir."
+        }
+      ],
+      "location": "Jungle"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "WORF",
+          "line": "I am picking up energy readings."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Captain, Lieutenant La Forge here. Sensors indicate energy readings in your area."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "PICARD",
+          "line": "Doctor, over here!"
+        }
+      ],
+      "location": "Jungle"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "PICARD",
+          "line": "Doctor."
+        }
+      ],
+      "location": "Cavern"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TASHA",
+          "line": "This one is different. It's anticipating. Data, I need you. Set your phaser on kill. I'll lead left, you get it."
+        },
+        {
+          "character": "TASHA",
+          "line": "Captain? Doctor Crusher?"
+        },
+        {
+          "character": "DATA",
+          "line": "Captain Picard? I have a malfunction."
+        },
+        {
+          "character": "TASHA",
+          "line": "Enterprise, this is Lieutenant Yar. Mine's out too."
+        },
+        {
+          "character": "DATA",
+          "line": "The close pass by the weapons must have disrupted our communicators."
+        },
+        {
+          "character": "TASHA",
+          "line": "Keep on working. I'll look for the Captain and Doctor Crusher."
+        }
+      ],
+      "location": "Planet Surface"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "CRUSHER",
+          "line": "Ow! My arm."
+        },
+        {
+          "character": "PICARD",
+          "line": "How bad is it?"
+        },
+        {
+          "character": "CRUSHER",
+          "line": "Oh, it's bad."
+        },
+        {
+          "character": "PICARD",
+          "line": "Come on. Alright, don't worry, we'll get you out of here. Enterprise, this is the Captain. Two to beam up. Enterprise? Enterprise, come in. Data? Lieutenant Yar?"
+        },
+        {
+          "character": "CRUSHER",
+          "line": "What's wrong? Why aren't they working?"
+        },
+        {
+          "character": "PICARD",
+          "line": "I don't know. But don't worry. As soon as they realize our communicators are not working, the sensors will find us and Geordi will beam us up. Now, just you hold on. I'm sorry about this."
+        },
+        {
+          "character": "PICARD",
+          "line": "Hold on, it won't be long."
+        },
+        {
+          "character": "CRUSHER",
+          "line": "I must keep conscious."
+        }
+      ],
+      "location": "Cavern"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TASHA",
+          "line": "Data, I can't find them."
+        },
+        {
+          "character": "DATA",
+          "line": "Step back, please. I believe I have found it."
+        },
+        {
+          "character": "RIKER",
+          "line": "Data."
+        },
+        {
+          "character": "DATA",
+          "line": "All vital signs returning to normal."
+        },
+        {
+          "character": "TASHA",
+          "line": "Good. Now Geordi can get us out of here. Come on. The Captain and Doctor Crusher can't be far away."
+        }
+      ],
+      "location": "Planet Surface"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "T'SU",
+          "line": "Sir, I'm reading life forms on the planet. All five members of the away team."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Good. They must have freed Commander Riker. Transporter Room, get a lock on the away team and beam them up."
+        },
+        {
+          "character": "WORF",
+          "line": "Shields just came on. Deflectors also up. I'm picking up an object off the port bow. It's firing!"
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Red Alert! Battle stations! We can't the away team beam up with our shields in place."
+        },
+        {
+          "character": "WORF",
+          "line": "Phasers ready. Photon torpedoes standing by. Locking on target. Correction. Target has disappeared."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Give me a full scan."
+        },
+        {
+          "character": "WORF",
+          "line": "Scanning. No readings yet. Wait. Something dead astern."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Emergency power to shields!"
+        },
+        {
+          "character": "WORF",
+          "line": "Object is firing."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Return fire!"
+        },
+        {
+          "character": "WORF",
+          "line": "No use. It's gone again."
+        },
+        {
+          "character": "SOLIS",
+          "line": "Aft shields weakened. Whatever they're using, our shields can't stand up to it much longer."
+        },
+        {
+          "character": "LOGAN",
+          "line": "This is Chief Engineer Logan. Are we breaking orbit? I need to know now. Ship's log, supplemental. Lieutenant La Forge in command. I am unable to beam up the away team due to an unseen assailant attacking the ship. To make matters worse, Chief Engineer Logan is on his way to the Bridge, and he's not paying a courtesy call.",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "LOGAN",
+          "line": "Why are we still in orbit? We're taking a beating."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "We've got to hold out as long as we can. Now, if we can disable our attacker, if only for a few seconds, we can drop our shields and beam the away team back aboard."
+        },
+        {
+          "character": "LOGAN",
+          "line": "If we follow that plan, we'll lose the Enterprise. In view of the present crisis, I believe you should relinquish command to me."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "No."
+        },
+        {
+          "character": "LOGAN",
+          "line": "I outrank you."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Mister Logan, I'm in command."
+        },
+        {
+          "character": "LOGAN",
+          "line": "The Captain did not anticipate the Enterprise would come under attack. If he had, would he have left the Bridge to you?"
+        },
+        {
+          "character": "LAFORGE",
+          "line": "If he had, he wouldn't have left the ship."
+        },
+        {
+          "character": "T'SU",
+          "line": "Picking up an object to starboard, sir, heading toward us."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Lock phasers on that thing and fire the moment it's in range."
+        },
+        {
+          "character": "WORF",
+          "line": "Locking in. The object has vanished."
+        },
+        {
+          "character": "WORF",
+          "line": "Phaser lock lost."
+        },
+        {
+          "character": "T'SU",
+          "line": "Starboard shields weakened."
+        },
+        {
+          "character": "WORF",
+          "line": "It's cloaked itself."
+        },
+        {
+          "character": "LOGAN",
+          "line": "You can't fight this thing and win. We've got to break orbit now."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Worf, analyze its firing pattern. Maybe we can anticipate its location."
+        },
+        {
+          "character": "WORF",
+          "line": "Aye. Solis, correlate the trajectory of the energy bolts with the attack path. I'll compute the optimum spread of phasers and photon torpedoes to hit it."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Right."
+        },
+        {
+          "character": "LOGAN",
+          "line": "Lieutenant La Forge. Geordi. I know you want to do what's best for the Enterprise. So do I. Now the best thing"
+        },
+        {
+          "character": "LAFORGE",
+          "line": "The best thing, Mister Logan, is for this diskussion to end and for you to return to your duties. Now, I'm in charge until relieved by Commander Riker or Captain Picard."
+        },
+        {
+          "character": "LOGAN",
+          "line": "You're ignoring my greater rank and experience."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Not at all. In fact, just to opposite. I'm counting on it. Now I need you to get back down to Engineering and get me every available scrap of emergency power you can. The more power we can channel to the shields, the longer we'll be able to hold out. Now, Mister Logan."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Worf, have you got a lock on it yet?"
+        },
+        {
+          "character": "WORF",
+          "line": "It's impossible to be sure."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TASHA",
+          "line": "Maybe you should wait here while Data and I search for the Captain and Doctor Crusher."
+        },
+        {
+          "character": "RIKER",
+          "line": "No, I'm a little groggy, but I'll be all right."
+        },
+        {
+          "character": "DATA",
+          "line": "I am getting energy readings. Look out!"
+        },
+        {
+          "character": "TASHA",
+          "line": "We'll do it just like before."
+        },
+        {
+          "character": "TASHA",
+          "line": "It's got a deflector shield."
+        },
+        {
+          "character": "DATA",
+          "line": "The product continues to upgrade and improve."
+        },
+        {
+          "character": "TASHA",
+          "line": "We'll concentrate our fire and try to collapse its shield. Commander, we'll need you too."
+        },
+        {
+          "character": "TASHA",
+          "line": "Now! You're right, they keep getting better."
+        },
+        {
+          "character": "DATA",
+          "line": "The weapons are appearing at intervals of precisely twelve minutes."
+        },
+        {
+          "character": "TASHA",
+          "line": "Well this one took everything we had. I don't know how we'll handle the next one."
+        },
+        {
+          "character": "RIKER",
+          "line": "We're not going to wait around. Let's find the rest of our team."
+        }
+      ],
+      "location": "Jungle"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "PICARD",
+          "line": "We seem to be in some kind of underground structure, but I don't see any. Hey, no, you don't. No time to sleep."
+        },
+        {
+          "character": "CRUSHER",
+          "line": "I'm tired."
+        },
+        {
+          "character": "PICARD",
+          "line": "Come on, stay with me. Come on now, stay awake. That's an order."
+        },
+        {
+          "character": "CRUSHER",
+          "line": "I must have lost a lot of blood."
+        },
+        {
+          "character": "PICARD",
+          "line": "I've stopped the bleeding."
+        },
+        {
+          "character": "CRUSHER",
+          "line": "No, there's another wound. My leg."
+        },
+        {
+          "character": "PICARD",
+          "line": "Not to worry, Everything is going to be fine. Now, this is going to hurt a bit."
+        },
+        {
+          "character": "CRUSHER",
+          "line": "I've heard that before."
+        },
+        {
+          "character": "PICARD",
+          "line": "Hey, hey, Doctor. Stay awake. Come on. There's a lot of blood. What do I do next? Doctor."
+        },
+        {
+          "character": "CRUSHER",
+          "line": "The wound needs a clotting agent."
+        },
+        {
+          "character": "PICARD",
+          "line": "I couldn't find your medical kit."
+        },
+        {
+          "character": "CRUSHER",
+          "line": "Those roots. What are they?"
+        },
+        {
+          "character": "PICARD",
+          "line": "Roots? What, these?"
+        },
+        {
+          "character": "CRUSHER",
+          "line": "Break off a piece and taste it. Don't swallow it."
+        },
+        {
+          "character": "PICARD",
+          "line": "Very bitter."
+        },
+        {
+          "character": "CRUSHER",
+          "line": "Apply some to your hand. Is there a color change?"
+        },
+        {
+          "character": "PICARD",
+          "line": "It's turning yellowish."
+        },
+        {
+          "character": "CRUSHER",
+          "line": "Good. Now, spread as much of it as you can onto the wound."
+        },
+        {
+          "character": "PICARD",
+          "line": "Hey, hey, Doctor. Now, stay awake. You've got to help me. I need your help. All right, now listen. Your patient has lost a great deal of blood from multiple lacerations."
+        },
+        {
+          "character": "CRUSHER",
+          "line": "The patient's going into shock."
+        },
+        {
+          "character": "PICARD",
+          "line": "So what do I do?"
+        },
+        {
+          "character": "CRUSHER",
+          "line": "Elevate the legs and try to keep her warm."
+        },
+        {
+          "character": "PICARD",
+          "line": "Good. All right. Stay with me, Doctor. Keep talking."
+        },
+        {
+          "character": "CRUSHER",
+          "line": "You didn't happen to bring a blanket with you, did you?"
+        },
+        {
+          "character": "PICARD",
+          "line": "No. I'm going to look for a way out. Now, you keep up your end. Stay awake."
+        }
+      ],
+      "location": "Cavern"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "LAFORGE",
+          "line": "All right, I know it's risky, but a shot in the dark is better than nothing. Let's see if we can get lucky."
+        },
+        {
+          "character": "T'SU",
+          "line": "I can't seem to pin down the pattern."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "There."
+        },
+        {
+          "character": "T'SU",
+          "line": "Sorry, sir, I should have seen that."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "That's all right, you're doing fine."
+        },
+        {
+          "character": "WORF",
+          "line": "Program laid in. Phasers and photon torpedoes ready."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Okay. Mister Solis, bring her about to two three mark one eight five."
+        },
+        {
+          "character": "SOLIS",
+          "line": "Aye, sir."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Fire! Now!"
+        },
+        {
+          "character": "WORF",
+          "line": "Phasers and photons firing. We missed."
+        },
+        {
+          "character": "T'SU",
+          "line": "Number four shield buckling. Number three shield nearing failure."
+        },
+        {
+          "character": "LOGAN",
+          "line": "Bridge, this is Engineering. I can't hold this power level much longer. You've got to do something.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "T'SU",
+          "line": "Backup systems are overloaded. Backup systems failing."
+        },
+        {
+          "character": "LOGAN",
+          "line": "La Forge, this is Logan. Tell me something.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Mister Logan, report to the Bridge."
+        },
+        {
+          "character": "LOGAN",
+          "line": "On my way.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "WORF",
+          "line": "Deflectors are breaking down. We have less than one minute of reserve."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "We are getting out of here. Lieutenant Solis, set course three one five mark zero, zero seven."
+        },
+        {
+          "character": "SOLIS",
+          "line": "Course set."
+        },
+        {
+          "character": "LOGAN",
+          "line": "You are leaving them on the planet."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Speed warp five."
+        },
+        {
+          "character": "SOLIS",
+          "line": "Warp five. Aye."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Engage. Hold course and speed for twenty eight seconds, then come to a full stop. Mister Logan, had we stayed, we would have been destroyed. Now, there are over a thousand people on this ship. I have a responsibility to them."
+        },
+        {
+          "character": "LOGAN",
+          "line": "What about your responsibility to Captain Picard and the members of the away team?"
+        },
+        {
+          "character": "LAFORGE",
+          "line": "I have a responsibility to them as well. Mister Logan, you are going to take command of the Saucer Section. Backup crew, report to the main Bridge."
+        },
+        {
+          "character": "LOGAN",
+          "line": "You're going to separate?"
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Yes, and I want you to take the saucer section and proceed immediately to Starbase one zero three."
+        },
+        {
+          "character": "LOGAN",
+          "line": "You can't fight what you can't see, and you still won't be able to see that thing."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Maybe we won't have to."
+        },
+        {
+          "character": "LOGAN",
+          "line": "Risky."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Yes. That's why we're going to separate. Worf, Solis, T'Su. Report to the Battle Bridge. I'll join you in a moment."
+        },
+        {
+          "character": "WORF",
+          "line": "Ensign, secure connector levels."
+        },
+        {
+          "character": "ENSIGN",
+          "line": "Aye, sir."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "LAFORGE",
+          "line": "Come in."
+        },
+        {
+          "character": "TROI",
+          "line": "Lieutenant, I need to speak to you."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Counselor, we're a few minutes away from separating the battle section. I don't have a lot of time."
+        },
+        {
+          "character": "TROI",
+          "line": "I know, but as Counselor I have a duty to evaluate the emotional fitness of the crew."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "And you sense I'm nervous. Well, you're right. Counselor, deep down I'm shaking. I'm about to take this ship into battle, and there's a good chance she'll be blasted out of the sky. I'm taking a huge risk here, and there are a lot of lives at stake. So, yeah, I'm nervous. Did you expect otherwise?"
+        },
+        {
+          "character": "TROI",
+          "line": "Not at all. You're under tremendous pressure, more than you've ever experienced."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "You think I'm about to crack?"
+        },
+        {
+          "character": "TROI",
+          "line": "On the contrary. You should be proud of the way you're handling command. You've kept a cool head, taken charge, and made some very difficult decisions."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Then what did you want to see me about?"
+        },
+        {
+          "character": "SOLIS",
+          "line": "Lieutenant La Forge. Battle bridge is manned and ready. However, deflectors have not yet returned to full efficiency.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Let's get them there, Mister Solis."
+        },
+        {
+          "character": "SOLIS",
+          "line": "Aye, sir.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "LAFORGE",
+          "line": "I'll join you shortly. La Forge out."
+        },
+        {
+          "character": "TROI",
+          "line": "Did you hear the uneasiness in his voice?"
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Solis is doing a fine job."
+        },
+        {
+          "character": "TROI",
+          "line": "Yes, but he isn't handling the stress as well as you are. Both he and Ensign T'Su are very young."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "No, wait. They're good officers."
+        },
+        {
+          "character": "TROI",
+          "line": "Yes, but they lack battle experience. They're worried about making mistakes, and they need some encouragement."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "What do I do?"
+        },
+        {
+          "character": "TROI",
+          "line": "Just remember it's you they draw strength from. They look to you for guidance and for leadership. Help them. Show confidence in them."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Like Captain Picard showed confidence in me. Right. I understand. Thanks, Counselor."
+        }
+      ],
+      "location": "Ready room"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "LAFORGE",
+          "line": "Prepare to initiate separation sequence."
+        },
+        {
+          "character": "T'SU",
+          "line": "All decks report ready."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "On my mark. Now."
+        },
+        {
+          "character": "COMPUTER",
+          "line": "Main latch bags to zero. Main latch retraction one to one eight, initiate. Static charge compensate."
+        },
+        {
+          "character": "WORF",
+          "line": "Separation complete."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Lieutenant Solis, lay in a reciprocal course for Minos, warp five."
+        },
+        {
+          "character": "SOLIS",
+          "line": "Course set."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "On my mark. Engage."
+        }
+      ],
+      "location": "Battle bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "PICARD",
+          "line": "We seem to be pretty well sealed in, Doctor."
+        },
+        {
+          "character": "CRUSHER",
+          "line": "No exits?"
+        },
+        {
+          "character": "PICARD",
+          "line": "None that I can see."
+        },
+        {
+          "character": "CRUSHER",
+          "line": "If you find one, go."
+        },
+        {
+          "character": "PICARD",
+          "line": "Tired of my company already? Beverly. Beverly!"
+        },
+        {
+          "character": "CRUSHER",
+          "line": "I'm tired. I need to sleep. Woke up too early."
+        },
+        {
+          "character": "PICARD",
+          "line": "Talk to me, stay awake. Tell me something. Tell me about those roots. How did you know their medicinal values?"
+        },
+        {
+          "character": "CRUSHER",
+          "line": "My grandmother."
+        },
+        {
+          "character": "PICARD",
+          "line": "Your grandmother was a doctor?"
+        },
+        {
+          "character": "CRUSHER",
+          "line": "No."
+        },
+        {
+          "character": "PICARD",
+          "line": "Oh. She was a botanist, then?"
+        },
+        {
+          "character": "CRUSHER",
+          "line": "No. She helped to colonize Arveda Three."
+        },
+        {
+          "character": "PICARD",
+          "line": "Arveda Three? That's such a tragedy. Did she survive?"
+        },
+        {
+          "character": "CRUSHER",
+          "line": "Yes. Once the medical supplies had run out, she had to use what was at hand. So she learned all about roots and herbs, and then taught it to me."
+        },
+        {
+          "character": "PICARD",
+          "line": "You were part of that colony. I didn't know that. But then there must be a lot of things about you that I don't know."
+        },
+        {
+          "character": "CRUSHER",
+          "line": "Quite a few."
+        },
+        {
+          "character": "PICARD",
+          "line": "What? Now just a minute. Here's something odd. It's glowing."
+        },
+        {
+          "character": "CRUSHER",
+          "line": "What is it?"
+        },
+        {
+          "character": "PICARD",
+          "line": "I don't know. It's covered up. I'm just clearing away the dirt. It's a viewscreen. It seems to still be operative."
+        },
+        {
+          "character": "PICARD",
+          "line": "It's a tracking device of some kind."
+        },
+        {
+          "character": "CRUSHER",
+          "line": "Tracking what?"
+        },
+        {
+          "character": "PICARD",
+          "line": "There are three moving indicators. Possibly the away team."
+        },
+        {
+          "character": "SALESMAN",
+          "line": "Beautiful, isn't it? It's the centerpiece of the whole unit."
+        },
+        {
+          "character": "CRUSHER",
+          "line": "Who's that?"
+        },
+        {
+          "character": "PICARD",
+          "line": "A projection. It's the automated salesman who greeted us on the Enterprise. What unit?"
+        },
+        {
+          "character": "SALESMAN",
+          "line": "Why, the Echo Papa Six Oh Seven. Our proudest achievement. The ultimate in weapons system technology."
+        },
+        {
+          "character": "PICARD",
+          "line": "Is that what's behind the attack on my people?"
+        },
+        {
+          "character": "SALESMAN",
+          "line": "Impressive demonstration, isn't it?"
+        },
+        {
+          "character": "PICARD",
+          "line": "Demonstration? It tried to kill us."
+        },
+        {
+          "character": "SALESMAN",
+          "line": "Versatile, powerful, and easy to use. The Six Oh Seven does it all. Its various modules can gather information, neutralize ground personnel, even destroy enemy space vessels."
+        },
+        {
+          "character": "PICARD",
+          "line": "The Enterprise. Is one of those things after my ship? Tell me."
+        },
+        {
+          "character": "SALESMAN",
+          "line": "Of course I can tell you. I am programd to answer any and all questions about the unit. I can talk terms, arrange for delivery, whatever you need."
+        },
+        {
+          "character": "CRUSHER",
+          "line": "It doesn't understand anything other than what it's peddling."
+        },
+        {
+          "character": "SALESMAN",
+          "line": "The Six Oh Seven represents the state of the art in dynamic, adaptive design. It learns from each encounter, and improves itself."
+        },
+        {
+          "character": "PICARD",
+          "line": "So what went wrong? Where are it's creators? Where are the people of Minos?"
+        },
+        {
+          "character": "SALESMAN",
+          "line": "Once unleashed, the unit is invincible. The perfect killing system."
+        },
+        {
+          "character": "PICARD",
+          "line": "Too perfect. You poor fools, your own creation destroyed you. What was that noise?"
+        },
+        {
+          "character": "SALESMAN",
+          "line": "The unit has analyzed its last attack and constructed a new, stronger, deadlier weapon. In a moment, it will launch that weapon against the targets on the surface."
+        },
+        {
+          "character": "PICARD",
+          "line": "Abort it!"
+        },
+        {
+          "character": "SALESMAN",
+          "line": "Why would I want to do that? It can't demonstrate its abilities unless we let it leave the nest."
+        }
+      ],
+      "location": "Cavern"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "DATA",
+          "line": "They are down there, sir."
+        },
+        {
+          "character": "RIKER",
+          "line": "Let's clear some of that away."
+        },
+        {
+          "character": "TASHA",
+          "line": "If Data's calculations are correct, the next one should show itself in two minutes."
+        },
+        {
+          "character": "RIKER",
+          "line": "Captain!"
+        }
+      ],
+      "location": "Planet surface"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "RIKER",
+          "line": "Can you hear me?",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "PICARD",
+          "line": "Yes, we're here!"
+        },
+        {
+          "character": "RIKER",
+          "line": "Are you all right?"
+        },
+        {
+          "character": "PICARD",
+          "line": "Doctor Crusher is seriously hurt. We can't contact the Enterprise. The communicators are out."
+        },
+        {
+          "character": "RIKER",
+          "line": "Yes, our communicators are out too."
+        },
+        {
+          "character": "PICARD",
+          "line": "Those devices are part of a system located down here. Another one is about to be released. Watch yourselves."
+        },
+        {
+          "character": "TASHA",
+          "line": "We know, Captain."
+        },
+        {
+          "character": "RIKER",
+          "line": "It's too far down there. There's nothing to hold on to. No way to climb down."
+        }
+      ],
+      "location": "Cavern"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TASHA",
+          "line": "I'm surprised either of them survived."
+        },
+        {
+          "character": "DATA",
+          "line": "I can do it, Commander."
+        },
+        {
+          "character": "RIKER",
+          "line": "How?"
+        },
+        {
+          "character": "DATA",
+          "line": "Jump."
+        },
+        {
+          "character": "RIKER",
+          "line": "Data, it's over ten meters."
+        },
+        {
+          "character": "DATA",
+          "line": "Eleven point seven five, sir."
+        },
+        {
+          "character": "TASHA",
+          "line": "Data, you may be sturdy, but you're not indestructible."
+        },
+        {
+          "character": "DATA",
+          "line": "I believe I can safely traverse the distance."
+        },
+        {
+          "character": "RIKER",
+          "line": "Captain, Data's going down to join you down there. Be my guest."
+        }
+      ],
+      "location": "Planet surface"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "PICARD",
+          "line": "Data."
+        },
+        {
+          "character": "DATA",
+          "line": "At your service, Captain."
+        }
+      ],
+      "location": "Cavern"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TASHA",
+          "line": "We'd better find a defensive position. If Data's right"
+        },
+        {
+          "character": "RIKER",
+          "line": "He usually is."
+        },
+        {
+          "character": "TASHA",
+          "line": "We're going to have company any minute now, and this time I don't know how we're going to stop it. Ship's log, supplemental. Lieutenant La Forge in command of the star drive section. After separating from the saucer, we have returned to Minos to rescue the away team. Unfortunately, I have only one option left, and it's a long shot."
+        }
+      ],
+      "location": "Planet Surface"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "T'SU",
+          "line": "Shields and deflectors are up."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Ensign T'Su, when I order the shields down, you have one responsibility. Locate the away team and get them up here. You may only have a few seconds."
+        },
+        {
+          "character": "SOLIS",
+          "line": "Approaching the planet, sir."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Ride's going to get a little bumpy. Things are going to happen fast. Just keep alert, stay calm. Let's focus on what we're doing. You know your jobs. You've been trained, you've been tested. You've earned the right to sit in those chairs."
+        }
+      ],
+      "location": "Battle Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "PICARD",
+          "line": "That sound again."
+        },
+        {
+          "character": "DATA",
+          "line": "Another weapon has been launched, sir."
+        },
+        {
+          "character": "PICARD",
+          "line": "We've got to find some way to stop this system."
+        },
+        {
+          "character": "DATA",
+          "line": "I would need to see the program schematic."
+        },
+        {
+          "character": "SALESMAN",
+          "line": "You've got it."
+        },
+        {
+          "character": "PICARD",
+          "line": "Is it possible to re-adjust the targeting sequence?"
+        },
+        {
+          "character": "SALESMAN",
+          "line": "Absolutely. It wouldn't be much good without it."
+        },
+        {
+          "character": "PICARD",
+          "line": "Data, assign it a neutral target."
+        },
+        {
+          "character": "DATA",
+          "line": "The target must be specific, sir."
+        },
+        {
+          "character": "PICARD",
+          "line": "Itself, then. Itself or it's own power source."
+        },
+        {
+          "character": "DATA",
+          "line": "The force of that explosion would destroy this cavern and everyone on the surface."
+        },
+        {
+          "character": "SALESMAN",
+          "line": "Watch now. This is the fourth and final projectile. The Echo Papa series Six Oh Seven is about to complete this phase of its mission."
+        }
+      ],
+      "location": "Cavern"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TASHA",
+          "line": "We could split up."
+        },
+        {
+          "character": "RIKER",
+          "line": "What good would that do?"
+        },
+        {
+          "character": "TASHA",
+          "line": "Confuse it, delay it. Something."
+        },
+        {
+          "character": "RIKER",
+          "line": "It would still get us. It would just take a little longer."
+        },
+        {
+          "character": "TASHA",
+          "line": "It might give one of us long enough to get out of range."
+        },
+        {
+          "character": "RIKER",
+          "line": "Out of range?"
+        },
+        {
+          "character": "TASHA",
+          "line": "Forget I said it. These devices wiped out an entire planet. I don't think it has a range."
+        },
+        {
+          "character": "RIKER",
+          "line": "Then what does that leave us? Right. That's what I thought."
+        },
+        {
+          "character": "TASHA",
+          "line": "On the other hand, we could look for deeper cover."
+        },
+        {
+          "character": "RIKER",
+          "line": "You got any ideas?"
+        },
+        {
+          "character": "TASHA",
+          "line": "None."
+        }
+      ],
+      "location": "Planet Surface"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "PICARD",
+          "line": "Give me some options, Data, quickly."
+        },
+        {
+          "character": "CRUSHER",
+          "line": "Why don't you just shut it off?"
+        },
+        {
+          "character": "PICARD",
+          "line": "Is that possible?"
+        },
+        {
+          "character": "CRUSHER",
+          "line": "Why not? It's a machine, isn't it?"
+        },
+        {
+          "character": "PICARD",
+          "line": "Shut it off."
+        },
+        {
+          "character": "SALESMAN",
+          "line": "Why? You haven't seen half of what this beauty can do."
+        },
+        {
+          "character": "PICARD",
+          "line": "We've seen enough."
+        },
+        {
+          "character": "SALESMAN",
+          "line": "Does that mean you're going to buy it?"
+        },
+        {
+          "character": "PICARD",
+          "line": "Yes. Yes, we've seen enough. You've made a sale."
+        },
+        {
+          "character": "SALESMAN",
+          "line": "You won't be sorry."
+        },
+        {
+          "character": "PICARD",
+          "line": "Good. Now end the demonstration."
+        },
+        {
+          "character": "SALESMAN",
+          "line": "Done."
+        }
+      ],
+      "location": "Cavern"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "PICARD",
+          "line": "Number One!",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "RIKER",
+          "line": "Right here. That was close."
+        }
+      ],
+      "location": "Planet Surface"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "PICARD",
+          "line": "La Forge, everything's alright. We've neutralized it."
+        }
+      ],
+      "location": "Cavern"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "LAFORGE",
+          "line": "It's great to hear your voice, Captain. We're a little busy right now. I'll get right back to you."
+        },
+        {
+          "character": "WORF",
+          "line": "Phasers at full readiness."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Keep those shields at full power. Ahead one quarter, heading two five mark three zero zero."
+        },
+        {
+          "character": "SOLIS",
+          "line": "Sir, that heading will take us further into the planet's atmosphere."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "That's correct. We're going to lose some maneuverability, so keep a firm hand on the helm."
+        },
+        {
+          "character": "SOLIS",
+          "line": "Aye, sir."
+        },
+        {
+          "character": "WORF",
+          "line": "You hope our attacker will follow us into the atmosphere."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "I'm counting on it. Lian, scan for any air disruption or vortex. Cloak or no cloak, we'll spot it by its turbulence. Worf, how fast can you get a phaser lock?"
+        },
+        {
+          "character": "WORF",
+          "line": "Fast."
+        },
+        {
+          "character": "T'SU",
+          "line": "Hull temperature one thousand degrees and rising."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Emergency power to deflectors."
+        },
+        {
+          "character": "SOLIS",
+          "line": "Velocity increasing."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Steady as she goes."
+        },
+        {
+          "character": "T'SU",
+          "line": "Hull temperature twenty five hundred degrees."
+        },
+        {
+          "character": "WORF",
+          "line": "Deflectors nearing overload."
+        },
+        {
+          "character": "SOLIS",
+          "line": "Sir, helm growing unresponsive."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Can you compensate?"
+        },
+        {
+          "character": "SOLIS",
+          "line": "Yes, sir, I can."
+        },
+        {
+          "character": "T'SU",
+          "line": "Hull three thousand degrees."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Maintain heading."
+        },
+        {
+          "character": "WORF",
+          "line": "We're about to lose number four deflector."
+        },
+        {
+          "character": "T'SU",
+          "line": "Thirty three hundred degrees."
+        },
+        {
+          "character": "WORF",
+          "line": "Deflector four is now inoperative."
+        },
+        {
+          "character": "T'SU",
+          "line": "Turbulence to starboard!"
+        },
+        {
+          "character": "LAFORGE",
+          "line": "There he is!"
+        },
+        {
+          "character": "T'SU",
+          "line": "Scanners locked."
+        },
+        {
+          "character": "WORF",
+          "line": "Weapons locked."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Fire!"
+        },
+        {
+          "character": "WORF",
+          "line": "Got him!"
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Shields down."
+        },
+        {
+          "character": "T'SU",
+          "line": "Locked onto away team. Beaming them home now."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Come to four zero mark six five, ahead one third, and assume a standard orbit."
+        },
+        {
+          "character": "SOLIS",
+          "line": "Standard orbit. Aye, sir."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Relinquishing command, Captain."
+        },
+        {
+          "character": "PICARD",
+          "line": "As you were, Lieutenant."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Sir?"
+        },
+        {
+          "character": "PICARD",
+          "line": "Mister La Forge, when I left this ship, it was in one piece. I would appreciate your returning it in the same condition. Do you concur, Number One?"
+        },
+        {
+          "character": "RIKER",
+          "line": "Absolutely, sir."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Lieutenant Solis, plot a course to rendezvous with the saucer section."
+        },
+        {
+          "character": "T'SU",
+          "line": "Sickbay reports Doctor Crusher's going to be fine."
+        },
+        {
+          "character": "SOLIS",
+          "line": "Course plotted and laid in."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Engage."
+        }
+      ],
+      "location": "Battle Bridge"
+    }
+  ],
+  "schedule": {
+    "episode": 21,
+    "number": 21,
+    "season": 1
+  },
+  "stardate": "41798.2",
+  "title": "The Arsenal Of Freedom"
+}

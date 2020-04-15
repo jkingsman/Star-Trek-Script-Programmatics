@@ -1,0 +1,1605 @@
+{
+  "airdate": 809582400,
+  "scenes": [
+    {
+      "dialogue": [
+        {
+          "character": "JANEWAY",
+          "line": "Rust?"
+        },
+        {
+          "character": "KIM",
+          "line": "That's right, Captain. High levels of ferric oxide. Corroded iron particles."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Would you mind telling me how iron could rust in space without oxygen?"
+        },
+        {
+          "character": "KIM",
+          "line": "I wish I could."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Mister Paris, alter our course to follow that trail of rust. One quarter impulse."
+        },
+        {
+          "character": "PARIS",
+          "line": "Aye, Captain."
+        },
+        {
+          "character": "KIM",
+          "line": "Captain, look at this. I'm picking up traces of complex hydrocarbons in the rust. Benzene, ethylene, acetylene."
+        },
+        {
+          "character": "PARIS",
+          "line": "That sounds like gasoline."
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "Gasoline?"
+        },
+        {
+          "character": "PARIS",
+          "line": "It's a liquid fuel that was used centuries ago on Earth. They burned it to drive internal combustion engines."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "How did it get out here?"
+        },
+        {
+          "character": "TUVOK",
+          "line": "I'm detecting a small object. It appears to be the source of the rust and hydrocarbons."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Put it on screen. Magnify."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TUVOK",
+          "line": "Apparently it is a ground vehicle from mid-twentieth century Earth."
+        },
+        {
+          "character": "PARIS",
+          "line": "It's a 1936 Ford, actually."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Mister Paris?"
+        },
+        {
+          "character": "PARIS",
+          "line": "That was the manufacturing date, 1936. Ford was the name of the company that build it. Antique vehicles are a hobby of mine."
+        },
+        {
+          "character": "PARIS",
+          "line": "Internal combustion engine, a reciprocating piston cylinder design, fuel source was a refined petroleum. Gasoline."
+        },
+        {
+          "character": "KIM",
+          "line": "So is this an early hover car?"
+        },
+        {
+          "character": "PARIS",
+          "line": "No, you're about a century too early for that. This is about one step ahead of the horse drawn carriage."
+        },
+        {
+          "character": "TORRES",
+          "line": "Traces of potassium nitrate, ammonium and methane back here."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "I think you'll find that's manure. Horse manure, if I'm not mistaken. Judging from the mud on the wheels, and the alfalfa seedlings stuck in the metal frame, I'd say this vehicle belonged to a farmer, or at least someone who lived in a rural area. But the question is, how did it get here? I doubt there are many twentieth century farmers driving around the Delta Quadrant."
+        },
+        {
+          "character": "TUVOK",
+          "line": "There are no signs of any wormholes or temporal anomalies in this region of space."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Let's run a metallurgical analysis of the vehicle."
+        },
+        {
+          "character": "PARIS",
+          "line": "There's still oil in the crank case, water in the radiator. I wonder if the battery's still charged. Now, let's see. This is before voice command activation, so there should be something in here called a key. Key."
+        },
+        {
+          "character": "KIM",
+          "line": "What are you doing?"
+        },
+        {
+          "character": "PARIS",
+          "line": "Trying to bring this beauty back to life. Now where are the keys? Ah ha. Here they are. Okay, choke out, clutch in, give her a little gas, turn the key and step on the starter."
+        },
+        {
+          "character": "PARIS",
+          "line": "Sorry."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Next time you might give us a little warning, Mister Paris."
+        },
+        {
+          "character": "PARIS",
+          "line": "Aye, Captain."
+        },
+        {
+          "character": "TUVOK",
+          "line": "I suggest we increase the ventilation in the cargo bay before we are asphyxiated."
+        },
+        {
+          "character": "KIM",
+          "line": "What's that?"
+        },
+        {
+          "character": "PARIS",
+          "line": "That is an amplitude modulation receiving device. AM radio. Not sure we'll pick up much out here."
+        },
+        {
+          "character": "PARIS",
+          "line": "Whoa. What was that?"
+        },
+        {
+          "character": "TORRES",
+          "line": "What is that?"
+        },
+        {
+          "character": "KIM",
+          "line": "It's too regular to be random interference."
+        },
+        {
+          "character": "TORRES",
+          "line": "I'm running the signal through the ship's database. It's an ancient Earth distress call known as an SOS."
+        }
+      ],
+      "location": "Cargo bay"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "KIM",
+          "line": "I've located the source of the SOS signal. It's coming from a planet in a star system bearing three one zero mark two one five."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Mister Paris, lay in a course."
+        },
+        {
+          "character": "PARIS",
+          "line": "Aye, Captain."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Why didn't we pick up this signal earlier?"
+        },
+        {
+          "character": "KIM",
+          "line": "This isn't one of the standard frequencies we monitor. Messages on this channel only travel at the speed of light. Too slow for interstellar communications."
+        },
+        {
+          "character": "PARIS",
+          "line": "Course laid in, Captain."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Warp six. engage."
+        },
+        {
+          "character": "CREWMAN",
+          "line": "I'll run a diagnostic check, sir.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Bring us out of warp. Full scan, Mister Kim."
+        },
+        {
+          "character": "KIM",
+          "line": "The SOS signal is coming from the third planet. It's class L, oxygen argon atmosphere."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Any life signs?"
+        },
+        {
+          "character": "KIM",
+          "line": "There's a great deal of trinimbic interference in the upper atmosphere. I can't get a clear reading of the surface."
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "Can you pin point the coordinates of the distress call?"
+        },
+        {
+          "character": "KIM",
+          "line": "Yes, here it is. It's coming from a continent in the northern hemisphere."
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "We won't be able to transport through this kind of interference. I might be able to take an away team in a shuttlecraft."
+        },
+        {
+          "character": "TUVOK",
+          "line": "That would not be wise, Commander, as the atmosphere is charged with trinimbic turbulence. A shuttlecraft could not safely navigate the currents."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "We could land the ship."
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "Are you sure that's necessary?"
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Someone on this planet is sending out a distress call."
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "If that someone is as old as the truck in the cargo bay, they're long dead by now. This might be an automated distress call."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Possibly. But something brought that truck half way across the galaxy, and that something might be down on that planet."
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "And if it brought the truck here, it might be able to take us home too."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "I'd say it's worth a look. Mister Paris, prepare the ship for landing."
+        },
+        {
+          "character": "PARIS",
+          "line": "Captain, I think I should tell you I've never actually landed a starship before."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "That's all right, Lieutenant, neither have I. Bridge to Engineering. We're going to land the ship, Miss Torres. Take the warp core offline, vent all plasma from the nacelles and standby to engage atmospheric thrusters."
+        },
+        {
+          "character": "TORRES",
+          "line": "Aye, Captain.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "TUVOK",
+          "line": "This is Lieutenant Tuvok to all decks. We are preparing to land the ship. Go to blue alert and report to code blue stations."
+        },
+        {
+          "character": "PARIS",
+          "line": "I've plotted a descent course. How close do you want to land to the distress coordinates?"
+        },
+        {
+          "character": "JANEWAY",
+          "line": "No closer than two kilometers."
+        },
+        {
+          "character": "PARIS",
+          "line": "Okay. Atmospheric controls at standby. Landing mechanisms online. Inertial dampers at maximum."
+        },
+        {
+          "character": "TUVOK",
+          "line": "All decks report condition blue, Captain."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Put her down, Mister Paris."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Status."
+        },
+        {
+          "character": "PARIS",
+          "line": "We're on the glide trajectory. Altitude one hundred kilometers, speed ten thousand kph. Encountering some trinimbic turbulence. Compensating."
+        },
+        {
+          "character": "KIM",
+          "line": "We have an EM discharge in the lateral relays. I'm rerouting the ODN conduit."
+        },
+        {
+          "character": "PARIS",
+          "line": "Come on."
+        },
+        {
+          "character": "KIM",
+          "line": "Another EM discharge. I think we're all right. though."
+        },
+        {
+          "character": "PARIS",
+          "line": "Twenty kilometers to the landing site. We should be able to see it now."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Extend landing struts. Prepare to release inertial dampers and adjust them to match the planet's gravity."
+        },
+        {
+          "character": "PARIS",
+          "line": "Landing struts down and locked."
+        },
+        {
+          "character": "KIM",
+          "line": "Standing by environmental controls."
+        },
+        {
+          "character": "PARIS",
+          "line": "Here we go."
+        },
+        {
+          "character": "PARIS",
+          "line": "Disengaging engines, securing thrusters exhaust. We're down."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Not bad, for a beginner."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "JANEWAY",
+          "line": "Nice day."
+        },
+        {
+          "character": "KIM",
+          "line": "I've locked onto the distress signal. It's one point five kilometers on a bearing of two four six."
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "Wait a second, I've got something else. There's a high concentration of trianium particles bearing two two five, a little over a kilometer away. Looks like some kind of power source."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Two teams. Chakotay, yours investigates the power source. Tuvok, Kim, you're with me."
+        }
+      ],
+      "location": "Planet surface"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "JANEWAY",
+          "line": "My god."
+        },
+        {
+          "character": "TUVOK",
+          "line": "The metal is an aluminum alloy. It appears to be an ancient Earth aircraft."
+        },
+        {
+          "character": "KIM",
+          "line": "The SOS call is coming from inside."
+        }
+      ],
+      "location": "Outside the aircraft"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "KIM",
+          "line": "I've found the AM transmitter. From what I can tell, it's sending out an automated SOS."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "What about the power source? Somehow I find it hard to believe the battery on this aircraft has been running for four hundred years."
+        },
+        {
+          "character": "KIM",
+          "line": "I don't recognize the power signature. Hold on, Captain, I've found what appears to be an alien fusion based generator. It's hooked up to the AM transmitter."
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "Chakotay to Janeway.",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "Inside the aircraft"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "JANEWAY",
+          "line": "Go ahead, Commander."
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "We've located the source",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "Outside the aircraft"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "CHAKOTAY",
+          "line": "Of the trianium readings. It appears to be some sort of mine shaft. I'd like to bring out another security detachment before we go inside."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Good idea.",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "Outside the cave entrance"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "JANEWAY",
+          "line": "Good idea. I'll join you. Janeway out. I want the two of you to analyze the alien generator. Then see what you can find out about this SOS call."
+        }
+      ],
+      "location": "Outside the aircraft"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TORRES",
+          "line": "I'm picking up something directly ahead. Some kind of power signature, fusion based."
+        }
+      ],
+      "location": "Tunnels"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TORRES",
+          "line": "This looks like some kind of cryostasis chamber."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "How many bodies are there?"
+        },
+        {
+          "character": "TORRES",
+          "line": "Eight. And the equipment is still functioning."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "He's human. And from the clothes I'd say he's from the same era as the vehicle we found."
+        },
+        {
+          "character": "TORRES",
+          "line": "His life sign readings are minimal, but he's alive."
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "Captain, according to these readings there are five other cryostasis chambers nearby. No life signs in any of them. This appears to be the only one with people inside."
+        },
+        {
+          "character": "TORRES",
+          "line": "There's another male over here."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "This one's a female. She's wearing some sort of leather jacket and a pair of gold wings. Wait, there's a name tag here. I think it's A period E A R H A R T. Earhart. A Earhart. Amelia Earhart!"
+        }
+      ],
+      "location": "Cryochamber"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "KIM",
+          "line": "Who's Amelia Earhart?"
+        },
+        {
+          "character": "JANEWAY",
+          "line": "She was one of the first female pilots in Earth History. In the mid twentieth century she became quite famous for flying across the Atlantic Ocean. In 1937 she attempted to fly around the world. According to the records of the time, on July 2nd 1937 Earhart and her navigator, Fred Noonan, took off from New Guinea and they were headed east, around the Equator. But somewhere in the South Seas they vanished and their disappearance became one of the most celebrated mysteries of the twentieth century."
+        },
+        {
+          "character": "PARIS",
+          "line": "Why didn't they think she'd just crashed?"
+        },
+        {
+          "character": "JANEWAY",
+          "line": "That was the most commonly held theory. However, numerous searches of the area failed to produce the wreckage of an aircraft, so people began to speculate. Some thought she'd been shot down and captured by the Japanese Navy. Others thought that she and Noonan had flown off together on some sort of romantic adventure. Of course, the most ridiculed notion was that she had been abducted by aliens."
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "Well, it certainly looks like that's what happened. From what we can tell, all eight of the people in that stasis chamber were taken from Earth in the 1930's and brought here."
+        },
+        {
+          "character": "KIM",
+          "line": "The question is, why? And where are the aliens who did this?"
+        },
+        {
+          "character": "TUVOK",
+          "line": "Scans of the region show no alien life signs."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Continue the scans. They may not be here now, but once they detect our presence, they might return. In the meantime, we'll have to get some answers on our own. Have you had any luck tapping into the computer system in the cryochamber?"
+        },
+        {
+          "character": "TUVOK",
+          "line": "Not as of yet. We are having difficulty decoding the operating system."
+        },
+        {
+          "character": "PARIS",
+          "line": "There's one way we could find out what happened. We could wake those people up and ask them."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "I've had the same thought myself."
+        },
+        {
+          "character": "TORRES",
+          "line": "Is that wise? We don't know how these people are going to react when they wake up in an alien world in the twenty fourth century."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "True, but I'm not willing to just leave them in stasis for another four hundred years. And if we can find out how they were brought here, we might be able to use that method to get home. We'll just have to be very careful how we handle this."
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "I suggest that only human crew members be present when we revive them."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Agreed. Mister Kim, I want a complete analysis of those cryostasis tubes. Find a way to deactivate them safely."
+        },
+        {
+          "character": "KIM",
+          "line": "Aye, Captain."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Commander, apprise the Doctor of our situation. Tell him to instruct Kes in the proper procedure for reviving someone from cryostasis. She can be made to look human easily enough. In the meantime I suggest we all brush up on ancient Earth. We're about to meet a bit of our history."
+        }
+      ],
+      "location": "Briefing room"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "PARIS",
+          "line": "We're ready, Captain."
+        },
+        {
+          "character": "KIM",
+          "line": "All the cryo-tubes are linked by a common power source, so we've decided to revive everyone simultaneously."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Proceed."
+        },
+        {
+          "character": "KIM",
+          "line": "The power's offline. Deactivate locking mechanisms."
+        },
+        {
+          "character": "PARIS",
+          "line": "Captain, this one's armed with some kind of weapon."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Disarm him, just to be on the safe side."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "I know this must be very strange for you."
+        },
+        {
+          "character": "NOONAN",
+          "line": "Who are you? What is going on here?"
+        },
+        {
+          "character": "NOGAMI",
+          "line": "I demand you release me immediately."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Please, if you'll just listen for a moment, I'll try to explain."
+        },
+        {
+          "character": "NOGAMI",
+          "line": "You are all speaking Japanese."
+        },
+        {
+          "character": "HAYES",
+          "line": "Sounds to me like you are speaking English."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "It's because of a device we have. A universal translator. It allows us to talk to each other even though our languages aren't the same."
+        },
+        {
+          "character": "AMELIA",
+          "line": "Who are you people?"
+        },
+        {
+          "character": "HAYES",
+          "line": "Look, just let us go home. We won't tell anybody."
+        },
+        {
+          "character": "NOONAN",
+          "line": "The hell we won't! I'm going to let the world know what you people have done. Do you know who you've kidnapped here? Amelia Earhart. I'm her navigator. This is going to be headline news. You people are in trouble."
+        },
+        {
+          "character": "AMELIA",
+          "line": "Fred, let her talk."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "What I'm going to tell you is going to sound hard to believe. Even preposterous. We think you were abducted from Earth in the 1930's and brought millions of miles through space to a planet on the other side of the galaxy. You were put into a kind of deep sleep for a very long time. It's not the 1930's any more. The year is 2371, over four hundred years from the time you were abducted."
+        },
+        {
+          "character": "AMELIA",
+          "line": "You must think we are awfully gullible."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Tell me, what's the last thing you remember before waking up here?"
+        },
+        {
+          "character": "AMELIA",
+          "line": "We were over the Pacific, running low on gas. We were looking for an atoll to set down. We tried to send out an SOS and suddenly there was this huge light in back of us. And the plane stopped, dead. And then it started moving backward towards the light. I must have blacked out. And I woke up here, just now."
+        },
+        {
+          "character": "HAYES",
+          "line": "That's just the way it was with me! I was in my truck heading into town. I was just about to get onto the blacktop, when this big light come down from the sky. Just about blinded me. Next thing I know the whole truck is lifted up off the ground."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "I believe what happened was that you were abducted by aliens, and if we can find out how they got you here, we might all be able to get back to Earth."
+        },
+        {
+          "character": "NOONAN",
+          "line": "I want some real answers, now."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "I assure you, I am telling the truth."
+        },
+        {
+          "character": "NOONAN",
+          "line": "You! Come on down here and get those funny looking guns of theirs."
+        },
+        {
+          "character": "NOONAN",
+          "line": "You, get over there with the others."
+        },
+        {
+          "character": "AMELIA",
+          "line": "What is this?"
+        },
+        {
+          "character": "KES",
+          "line": "It's a medical device. I'm just trying to make sure that everyone is all right."
+        },
+        {
+          "character": "NOONAN",
+          "line": "Now, how do we get out of here?"
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "Chakotay to away team.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Janeway here."
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "Captain, I'm picking up some energy displacements",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "Cryochamber"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "CHAKOTAY",
+          "line": "On the surface. I think it might be alien humanoids. It looks like they're using some kind of deflection system to trick our sensors."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "CHAKOTAY",
+          "line": "I think you'd better get up here.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "NOONAN",
+          "line": "Who's that talking?"
+        },
+        {
+          "character": "JANEWAY",
+          "line": "That's Commander Chakotay, on our ship."
+        },
+        {
+          "character": "NOONAN",
+          "line": "Commander, huh? Okay, now hear this, Commander."
+        }
+      ],
+      "location": "Cryochamber"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "NOONAN",
+          "line": "There's a gun pointed at the lady's head right now, so you call Washington",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "NOONAN",
+          "line": "And you tell them we're holding your people prisoner, and they're not going anywhere until I personally talk to J Edgar Hoover. You've got one hour."
+        }
+      ],
+      "location": "Cryochamber"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "CHAKOTAY",
+          "line": "Captain?"
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "JANEWAY",
+          "line": "It seems we're being held hostage, Commander. I suggest you pay attention to what the gentleman says."
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "I understand.",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "Cryochamber"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "CHAKOTAY",
+          "line": "Chakotay out."
+        },
+        {
+          "character": "TUVOK",
+          "line": "All security personnel report to the cargo bay immediately."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "AMELIA",
+          "line": "The compass isn't working."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "I know what we've told you sounds hard to believe, but there was a time when no one believed that a woman could fly across the Atlantic. Now, people are able to travel between the stars. The galaxy is full of many different species. For instance, this young woman isn't human, she's an Ocampa."
+        },
+        {
+          "character": "AMELIA",
+          "line": "I've been on expeditions all over the world, and I've seen people do all kinds of strange things to their bodies. That doesn't mean that Martians have invaded Earth."
+        },
+        {
+          "character": "KIM",
+          "line": "Actually it was the other way around. Mars was colonized by people from Earth in 2103."
+        },
+        {
+          "character": "NOONAN",
+          "line": "That's enough! All of you just go over there and sit down and keep quiet."
+        }
+      ],
+      "location": "Cryochamber"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "CHAKOTAY",
+          "line": "The trinimbic interference has affected the transporter's targeting scanners. We can't beam into the chamber so we'll have to go on foot."
+        },
+        {
+          "character": "TUVOK",
+          "line": "We will deploy throughout the caves, sealing off any exit from the chamber."
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "Let's go."
+        }
+      ],
+      "location": "Cargo bay"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "AMELIA",
+          "line": "Now is probably not the best time for that, Fred."
+        },
+        {
+          "character": "NOONAN",
+          "line": "Just a little pick me up."
+        },
+        {
+          "character": "PARIS",
+          "line": "He's had a few nips from that flask, Captain. We could probably rush him, get the gun."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Let me try to talk to Earhart first. She seems reasonable. Maybe I can get through to her. Miss Earhart?"
+        },
+        {
+          "character": "JANEWAY",
+          "line": "I want you to know you've always been an inspiration to me. Because of you, generations of women have become pilots."
+        },
+        {
+          "character": "AMELIA",
+          "line": "Generations. What's your name?"
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Kathryn Janeway."
+        },
+        {
+          "character": "AMELIA",
+          "line": "I heard the Commander call you Captain. What exactly do you captain?"
+        },
+        {
+          "character": "JANEWAY",
+          "line": "The Federation Starship Voyager."
+        },
+        {
+          "character": "AMELIA",
+          "line": "Starship. That supposed to mean it flies through space?"
+        },
+        {
+          "character": "JANEWAY",
+          "line": "That's right."
+        },
+        {
+          "character": "AMELIA",
+          "line": "That isn't possible. Only in books. H G Wells, Jules Verne."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Maybe if you saw it you'd think otherwise."
+        },
+        {
+          "character": "AMELIA",
+          "line": "Saw it? Where is it?"
+        },
+        {
+          "character": "JANEWAY",
+          "line": "On the surface. We're actually about a hundred meters underground now. If you'd come with me to see Voyager, you'd realize that what we're telling you is true."
+        },
+        {
+          "character": "AMELIA",
+          "line": "And risk a trap? No, you could have hundreds of reinforcements up there."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "I assure you, we have no interest in harming you. We took you out of stasis to help you."
+        },
+        {
+          "character": "AMELIA",
+          "line": "Put yourself in my shoes, Captain. If you were me, would you believe your story?"
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Maybe not. Let me tell you some of what happened after you disappeared over the Pacific. No trace of you or your plane was ever found, in spite of a massive search. Over the years there was a lot of speculation about your flight, including the rumor that it was financed by the Government and may have been part of an operation to gather information about the Japanese."
+        },
+        {
+          "character": "AMELIA",
+          "line": "Where did you hear that?"
+        },
+        {
+          "character": "JANEWAY",
+          "line": "It's somewhat common knowledge. You see, Japan attacked Pearl Harbor in 1941, drawing the United States into a massive world war. In retrospect, your journey was seen in a different light, perhaps as part of an intelligence mission devised by a Government deeply concerned about Japanese war plans."
+        },
+        {
+          "character": "AMELIA",
+          "line": "No one was supposed to know about that."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Maybe not in 1937, but now it's part of history."
+        },
+        {
+          "character": "NOONAN",
+          "line": "Hey, I've got an idea. Why don't we stick them in these things? Put them to sleep like we were. No fuss, no trouble."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Mister Noonan, that will accomplish nothing. Please, let us take you to our ship. You'll see that everything we've told you is true."
+        },
+        {
+          "character": "NOONAN",
+          "line": "Show me how to operate this thing."
+        },
+        {
+          "character": "AMELIA",
+          "line": "Hey! Last time I looked, you were working for me. And I think we should listen to these people. They just may be telling the truth. What's the harm in seeing if maybe they do have this starship? Beats being cooped up in here trying to figure out what happened. How about it? Anyone want to come along?"
+        },
+        {
+          "character": "HAYES",
+          "line": "I wouldn't mind taking a look."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Anyone else?"
+        },
+        {
+          "character": "NOONAN",
+          "line": "You're not leaving me behind."
+        },
+        {
+          "character": "PARIS",
+          "line": "Kes and I'll stay with the others, Captain."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "It'll take about ten minutes to get to the surface. Stay close to us. Mister Kim."
+        }
+      ],
+      "location": "Cryochamber"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "CHAKOTAY",
+          "line": "What is it?"
+        },
+        {
+          "character": "TUVOK",
+          "line": "I am reading energy displacements again. Possibly alien lifesigns. Two hundred meters ahead."
+        },
+        {
+          "character": "TUVOK",
+          "line": "They may be up there."
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "Take cover!"
+        },
+        {
+          "character": "CREWWOMAN",
+          "line": "Get down!"
+        }
+      ],
+      "location": "Outside Voyager"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "JANEWAY",
+          "line": "This way."
+        },
+        {
+          "character": "HAYES",
+          "line": "What's all that racket?"
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Take cover!"
+        },
+        {
+          "character": "NOONAN",
+          "line": "I told you it was a trick!"
+        },
+        {
+          "character": "AMELIA",
+          "line": "Fred!"
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Janeway to Chakotay."
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "I'm here, Captain. We're pinned down.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "JANEWAY",
+          "line": "I can see you from here. Lay down phaser fire. I'm going to circle around to your left, try to come at them from the rear."
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "Right!",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "Chakotay to Voyager."
+        }
+      ],
+      "location": "Canyon"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TORRES",
+          "line": "Torres here, Commander."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "CHAKOTAY",
+          "line": "Can you give us some help down here?"
+        },
+        {
+          "character": "TORRES",
+          "line": "I don't think so.",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "Canyon"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TORRES",
+          "line": "The targeting scanners are still useless. I can't risk laying down weapons fire if I don't know where it's going."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "CHAKOTAY",
+          "line": "Keep trying to get them online."
+        }
+      ],
+      "location": "Canyon"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TORRES",
+          "line": "Aye, Commander."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "JANEWAY",
+          "line": "Hold your fire. Drop your weapons. Turn around slowly."
+        },
+        {
+          "character": "EVANSVILLE",
+          "line": "You're not Briori."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "No, I'm human."
+        },
+        {
+          "character": "EVANSVILLE",
+          "line": "Human?"
+        },
+        {
+          "character": "EVANSVILLE",
+          "line": "We're human. You're working for the Briori. They have ships like yours."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "I'll answer any questions you have, but first we must take care of our wounded. Can we agree to end this?"
+        },
+        {
+          "character": "EVANSVILLE",
+          "line": "Yes."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "I'm Kathryn Janeway of the Federation Starship Voyager."
+        },
+        {
+          "character": "EVANSVILLE",
+          "line": "John Evansville. This is my colleague, Karen Berlin."
+        }
+      ],
+      "location": "Hillside"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "EMH",
+          "line": "Severe trauma to the thoracic cavity, lacerated carotid artery."
+        },
+        {
+          "character": "AMELIA",
+          "line": "He's not going to make it."
+        },
+        {
+          "character": "EMH",
+          "line": "I wouldn't be so sure of that. Vascular regenerator. Hmm. He's not responding to the treatment. The alcohol level in his blood is so high it's inhibiting the repair to his circulatory system. Attempting to compensate."
+        },
+        {
+          "character": "AMELIA",
+          "line": "Told you your drinking'd kill you one day."
+        },
+        {
+          "character": "NOONAN",
+          "line": "She's right, Doc. Just let me die in peace. There's just one thing I want to say to you first, even though it's four hundred years late. Amelia, I love you."
+        },
+        {
+          "character": "AMELIA",
+          "line": "Fred. You never said anything."
+        },
+        {
+          "character": "NOONAN",
+          "line": "You're married, or you were. I guess he's dead now. I just wanted you to know before I, before I met my maker."
+        },
+        {
+          "character": "EMH",
+          "line": "There, that should do it."
+        },
+        {
+          "character": "NOONAN",
+          "line": "Do what?"
+        },
+        {
+          "character": "EMH",
+          "line": "You're healed."
+        },
+        {
+          "character": "NOONAN",
+          "line": "You mean I'm not going to die?"
+        },
+        {
+          "character": "EMH",
+          "line": "Aside from a hangover, you're going to be fine."
+        },
+        {
+          "character": "NOONAN",
+          "line": "Oh, Amelia, you got to forget what I just told you. Promise me."
+        },
+        {
+          "character": "AMELIA",
+          "line": "Fred, I already have."
+        }
+      ],
+      "location": "Sickbay"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "EVANSVILLE",
+          "line": "You've taken the 37s. Why?"
+        },
+        {
+          "character": "JANEWAY",
+          "line": "I'm afraid I don't understand."
+        },
+        {
+          "character": "EVANSVILLE",
+          "line": "You went into the shrine. You stole the 37s from the sacred altars, and you disturbed the radio signal that we have been so careful to preserve."
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "Captain, I think he's talking about Earhart and the others."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Tell me more about the 37s? Are you one of them?"
+        },
+        {
+          "character": "EVANSVILLE",
+          "line": "I'm one of their descendants. The 37s were brought here over fifteen generations ago by the Briori."
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "Who are the Briori?"
+        },
+        {
+          "character": "EVANSVILLE",
+          "line": "They're an alien race. They abducted over three hundred people from Earth in the year 1937, brought them over here, turned them into slaves. But those slaves revolted, killed the Briori, took their weapons and their technology and survived. And now there are over one hundred thousand of us. The Briori never came back. Now, you answer me. Why did you steal the remaining 37s from the shrine?"
+        },
+        {
+          "character": "JANEWAY",
+          "line": "We didn't steal them. We simply revived them."
+        },
+        {
+          "character": "EVANSVILLE",
+          "line": "Revived them? They're dead."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "No, they were simply in a state of what we call cryostasis. That's a form of sleep that appears very much like death."
+        },
+        {
+          "character": "EVANSVILLE",
+          "line": "Do you mean they're alive?"
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Yes."
+        },
+        {
+          "character": "EVANSVILLE",
+          "line": "My people have come to regard the 37s as monuments to our ancestors. Nobody has even entered their shrine for generations."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Mister Evansville, we were hoping to find the ship that brought your ancestors here. Possibly use it to get back to Earth a little faster."
+        },
+        {
+          "character": "EVANSVILLE",
+          "line": "I'm sorry, the Briori ship was destroyed in the slave revolt. There's nothing left. Captain, I'm sorry to hear about your long journey home, but you should know that life on this planet is good. We live in three beautiful cities only fifty miles from here."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Oh, I'd like to see your cities."
+        },
+        {
+          "character": "EVANSVILLE",
+          "line": "And I'd like to show them to you."
+        }
+      ],
+      "location": "Briefing room"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "AMELIA",
+          "line": "How fast?"
+        },
+        {
+          "character": "PARIS",
+          "line": "Warp nine point nine. In your terms, that's about four billion miles a second."
+        },
+        {
+          "character": "AMELIA",
+          "line": "Think I could take her out for a spin?"
+        },
+        {
+          "character": "PARIS",
+          "line": "Well, er"
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Mister Evansville has offered to take us on a tour of the settlement. He's extended the invitation to the entire crew, and the 37s, of course."
+        },
+        {
+          "character": "EVANSVILLE",
+          "line": "You, you're a 37?"
+        },
+        {
+          "character": "AMELIA",
+          "line": "I guess you could call me that."
+        },
+        {
+          "character": "EVANSVILLE",
+          "line": "It would be an honor to show you our cities."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Captain's log, stardate 48975.1. Evansville wasn't exaggerating when he said they have a lot to be proud of here. It was an amazing experience, but it's left me a little disturbed.",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "JANEWAY",
+          "line": "Come in."
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "Here's the damage report you asked for."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Thank you."
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "Is something wrong, Captain? You've seemed a little distracted ever since we came back from the cities. Weren't you impressed?"
+        },
+        {
+          "character": "JANEWAY",
+          "line": "A little too impressed."
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "What do you mean?"
+        },
+        {
+          "character": "JANEWAY",
+          "line": "There's a thriving, sophisticated culture on this planet. Of human beings. In someways walking around those cities was almost like being back on Earth."
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "It was a little eerie. It reminded me of home, too."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Evansville has offered to let any of our crew stay."
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "What will you do about that?"
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Maybe this is one of those decisions that the captain has to make for the entire ship."
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "You may have a problem if a lot of people want to stay."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "I know that, but at the same time I can't take a vote every time there's a major decision to be made. And yet, we're a long way from Starfleet, and a lot of the rules and regulations I've learnt to uphold seem distant as well. Am I the only one who's so intent on getting home? Is it just me? Am I leading the crew on a forlorn mission with no real hope of success?"
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "You're not alone. I want to get home, too. And there's not a day that goes by when I don't hear someone mention Earth."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "The people here have built a new Earth. We could stay, help them build a human civilisation in the Delta Quadrant. Isn't that an exciting prospect? Shouldn't we be grateful for the opportunity they're giving us?"
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "It is a tempting prospect, but when I hold it up against the prospect of seeing the sun rise over the Arizona desert, or swimming in the Gulf of Mexico on a summers day, there's just no comparison. I want to go home."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "We have one hundred and fifty two men and women on this ship. What happens if half of them decide to stay on the planet? Could we operate Voyager with seventy five crew members?"
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "I doubt it. In fact I don't think we could operate the ship with fewer than one hundred. If too many of the crew choose to stay behind, we could all be stranded here."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Tell all hands to prepare for an announcement from the Captain at fourteen hundred hours. They deserve to make the choice for themselves."
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "Aye, Captain."
+        }
+      ],
+      "location": "Ready room"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "NEELIX",
+          "line": "Here we are! My research on twentieth century Earth is a little thin, but I've done what I can. Pot roast, green beans and something called Jell-O."
+        },
+        {
+          "character": "NOONAN",
+          "line": "You know how to make Jell-O?"
+        },
+        {
+          "character": "NEELIX",
+          "line": "I even put in fruit cocktail."
+        },
+        {
+          "character": "NOONAN",
+          "line": "You don't say."
+        },
+        {
+          "character": "HAYES",
+          "line": "I don't know about the rest of you, but I've made up my mind. There is land here that goes begging, and I could have a big farm, just like I always dreamed."
+        },
+        {
+          "character": "NEELIX",
+          "line": "And for you, rice with a little fish. I even replicated some ginger for seasoning."
+        },
+        {
+          "character": "NOGAMI",
+          "line": "Very nice, thank you."
+        },
+        {
+          "character": "NOONAN",
+          "line": "I have to admit, life here looks a lot better than what we left on Earth."
+        },
+        {
+          "character": "NOGAMI",
+          "line": "It's paradise by comparison. And there are many Japanese here. I could be very happy."
+        },
+        {
+          "character": "NOONAN",
+          "line": "We all could. Right?"
+        },
+        {
+          "character": "AMELIA",
+          "line": "I'm just not sure. What about you, Mister Neelix? Have you made your decision?"
+        },
+        {
+          "character": "NEELIX",
+          "line": "Oh yes, indeed. I'm staying right here with Captain Janeway. She'd be lost without me. She's come to depend on me a great deal."
+        },
+        {
+          "character": "NOONAN",
+          "line": "What about the rest of the crew? Do you think many of them will stay here?"
+        },
+        {
+          "character": "NEELIX",
+          "line": "Oh, I don't think so. At least, not many. Well, that is, there's a good chance. Well, now that you ask, I honestly don't know."
+        },
+        {
+          "character": "TORRES",
+          "line": "You? You'd stay here on the planet?"
+        },
+        {
+          "character": "KIM",
+          "line": "I didn't say I was going to, I just said I could understand why people would want to. The people here remind me of home. I haven't felt like that since I left Earth."
+        },
+        {
+          "character": "TORRES",
+          "line": "But you're Starfleet. You've always wanted a life in space."
+        },
+        {
+          "character": "KIM",
+          "line": "I know, but, my whole life on a starship, day after day, with no end in sight? That's not exactly what I had in mind."
+        },
+        {
+          "character": "TORRES",
+          "line": "You're not the first person I've heard talk like this. A lot of people are thinking about staying."
+        },
+        {
+          "character": "KIM",
+          "line": "What about you? Don't you have some of those feelings?"
+        },
+        {
+          "character": "TORRES",
+          "line": "I'd be lying if I said I didn't."
+        }
+      ],
+      "location": "Mess hall"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "AMELIA",
+          "line": "Captain. I was told I'd find you here. Am I intruding?"
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Not at all. Please join me."
+        },
+        {
+          "character": "AMELIA",
+          "line": "I wanted you to know that the group you brought out of stasis, we've all decided to stay here on the planet."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "I understand."
+        },
+        {
+          "character": "AMELIA",
+          "line": "I must admit the thought of traveling through space, maybe even learning to fly this ship, was very appealing to me."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "And I'd looked forward to getting to know you better. I suspect we have a lot in common."
+        },
+        {
+          "character": "AMELIA",
+          "line": "At first I didn't know what to do. We talked about it for quite some time. Finally I realized the people here on this planet are part of us. We're their ancestors in a way. It made us feel close to them."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "The remarkable thing about the humans on this planet is that they evolved very much like the people on Earth. Tens of thousands of light years apart, both civilisations managed to create a world they could be proud of. One where war and poverty simply don't exist. I certainly can't blame you for wanting to be part of it, any more than I can blame members of my crew if they make the same decision."
+        },
+        {
+          "character": "AMELIA",
+          "line": "When will you find out?"
+        },
+        {
+          "character": "JANEWAY",
+          "line": "In half an hour. Any one who wants to stay behind is to report to the cargo bay at fifteen hundred hours."
+        }
+      ],
+      "location": "Outside Voyager"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "CHAKOTAY",
+          "line": "I expect Jarvin will stay on the planet. In fact, I'd bet on it."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Why Jarvin?"
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "He's been more uncomfortable about being on a Starfleet ship than most of the Maquis, and he's gotten involved with a young woman in Quantum Mechanics. I think they'd like to settle down, raise a family."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "The person I expect to see is Baxter."
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "Baxter? Walter Baxter?"
+        },
+        {
+          "character": "JANEWAY",
+          "line": "He's adventurous, a risk taker. I can see him wanting to take on the challenge of building a new life on this planet."
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "I'd hate to loose Baxter. He's a good man."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "I'd hate to loose Jarvin. I don't want to loose anyone. We've all been through so much together, it just wouldn't seem right. But I couldn't blame anyone, anyone for staying behind. I'm not sure I want to go in."
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "No matter what happens, we'll make it. Remember that."
+        }
+      ],
+      "location": "Corridor"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TUVOK",
+          "line": "Captain on the bridge."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "All stations prepare for departure. Condition blue, Mister Tuvok. Miss Torres, anti-grav thrusters online."
+        },
+        {
+          "character": "TORRES",
+          "line": "Thrusters enabled."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Mister Paris, inertial dampers to flight configuration. Impulse drive to stand by."
+        },
+        {
+          "character": "PARIS",
+          "line": "Yes, ma'am."
+        },
+        {
+          "character": "KIM",
+          "line": "All stations report ready, Captain."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Then lets do it. Take us up."
+        }
+      ],
+      "location": "Bridge"
+    }
+  ],
+  "schedule": {
+    "episode": 1,
+    "number": 17,
+    "season": 2
+  },
+  "stardate": "48975.1",
+  "title": "The 37's"
+}

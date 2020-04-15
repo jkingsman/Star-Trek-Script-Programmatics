@@ -1,0 +1,1360 @@
+{
+  "airdate": 677131200,
+  "scenes": [
+    {
+      "dialogue": [
+        {
+          "character": "PICARD",
+          "line": "Captain's log, stardate 44995.3. We're en route to the Klingon home world, where I will participate in the installlation ceremony of Gowron, the next designated Leader of the High Council. This visit should also provide an opportunity for one of my officers to correct a grave injustice.",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "unknown"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "WORF",
+          "line": "Enter."
+        },
+        {
+          "character": "PICARD",
+          "line": "Am I intruding?"
+        },
+        {
+          "character": "WORF",
+          "line": "No, sir. My apologies, Captain. I can be back in uniform"
+        },
+        {
+          "character": "PICARD",
+          "line": "No, that won't be necessary, Mister Worf. I'm not here as your captain. I'm here as the man who stood with you before the High Council. Your cha'DIch. We will arrive at your home world in less than a day."
+        },
+        {
+          "character": "WORF",
+          "line": "It is not time yet."
+        },
+        {
+          "character": "PICARD",
+          "line": "That doesn't sound like the man who came to me a year ago fiercely determined to return home and to clear his father's name or die trying. Isn't it time to confront the Council? To regain your family name? Let the truth be known?"
+        },
+        {
+          "character": "WORF",
+          "line": "I have been told that patience is sometimes a more effective weapon than the sword."
+        },
+        {
+          "character": "PICARD",
+          "line": "Patience is a human virtue, one which I am glad to see you've taken to heart. But doesn't this situation require a more Klingon response? Your diskommendation is a facade to protect less honorable men. It is a lie. Lies must be challenged."
+        },
+        {
+          "character": "WORF",
+          "line": "I have grown weary of bearing this dishonor."
+        },
+        {
+          "character": "RIKER",
+          "line": "Riker to Picard.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "PICARD",
+          "line": "Go ahead, Number One."
+        }
+      ],
+      "location": "Worf's quarters"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "RIKER",
+          "line": "We've been intercepted by the Klingon vessel Bortas."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "RIKER",
+          "line": "They claim to be our escort.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "WORF",
+          "line": "No escort was scheduled."
+        }
+      ],
+      "location": "Worf's quarters"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "RIKER",
+          "line": "The Bortas is standing by, Captain."
+        },
+        {
+          "character": "PICARD",
+          "line": "On screen. Gowron. This is an unexpected pleasure."
+        },
+        {
+          "character": "GOWRON",
+          "line": "I must speak with you, Picard. We will have to move quickly if we are to be successful.",
+          "modifier": "screen"
+        },
+        {
+          "character": "PICARD",
+          "line": "Successful?"
+        },
+        {
+          "character": "GOWRON",
+          "line": "Yes. In preventing a Klingon civil war.",
+          "modifier": "screen"
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "GOWRON",
+          "line": "The family of Duras is massing support. They have many allies on the Council."
+        },
+        {
+          "character": "PICARD",
+          "line": "Duras died in disgrace. By Klingon tradition, his family should share that disgrace."
+        },
+        {
+          "character": "GOWRON",
+          "line": "Their corruption has poisoned the Empire. Honor will soon have no meaning."
+        },
+        {
+          "character": "PICARD",
+          "line": "And who speaks for his family now?"
+        },
+        {
+          "character": "GOWRON",
+          "line": "Lursa and B'Etor, the sisters of Duras."
+        },
+        {
+          "character": "PICARD",
+          "line": "And they would claim the leadership of the Council?"
+        },
+        {
+          "character": "GOWRON",
+          "line": "Women may not serve on the Council."
+        },
+        {
+          "character": "PICARD",
+          "line": "Then how"
+        },
+        {
+          "character": "GOWRON",
+          "line": "I don't know. But they are plotting something. They have secured the loyalty of at least three fleet commanders. Lursa and B'Etor are feared, and fear is power."
+        },
+        {
+          "character": "PICARD",
+          "line": "I do not see what I can do to assist."
+        },
+        {
+          "character": "GOWRON",
+          "line": "You were first chosen as Arbiter of Succession because no Klingon could be trusted. You accepted this duty and you must see it through to the end. You must ensure my installlation."
+        },
+        {
+          "character": "PICARD",
+          "line": "That is beyond my purview."
+        },
+        {
+          "character": "GOWRON",
+          "line": "You will not support me?"
+        },
+        {
+          "character": "PICARD",
+          "line": "I will not step outside the traditional role of the Arbiter."
+        },
+        {
+          "character": "GOWRON",
+          "line": "And if they attempt to block my installlation?"
+        },
+        {
+          "character": "PICARD",
+          "line": "Then I can only assure you that I will deal with any challenge according to Klingon law."
+        },
+        {
+          "character": "GOWRON",
+          "line": "I fear that will not be enough."
+        }
+      ],
+      "location": "Observation lounge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "PICARD",
+          "line": "Mister Worf, would you escort our guest to the transporter room?"
+        },
+        {
+          "character": "PICARD",
+          "line": "Begin monitoring Romulan activity along the Neutral Zone, Mister Data. Have the outpost stations send us their tactical reports."
+        },
+        {
+          "character": "DATA",
+          "line": "Aye, sir."
+        },
+        {
+          "character": "PICARD",
+          "line": "The Duras family are preparing to move against Gowron."
+        },
+        {
+          "character": "RIKER",
+          "line": "Backed by Romulans?"
+        },
+        {
+          "character": "PICARD",
+          "line": "I don't know. But there is too much history between the Duras and the Romulans to diskount the possibility."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "WORF",
+          "line": "Dismissed."
+        },
+        {
+          "character": "WORF",
+          "line": "I would speak with you."
+        },
+        {
+          "character": "GOWRON",
+          "line": "I do not hear the words of traitors."
+        },
+        {
+          "character": "WORF",
+          "line": "I am not a traitor."
+        },
+        {
+          "character": "GOWRON",
+          "line": "You admitted your guilt before the Council."
+        },
+        {
+          "character": "WORF",
+          "line": "I accepted diskommendation to protect the Empire."
+        },
+        {
+          "character": "GOWRON",
+          "line": "Protect it? How?"
+        },
+        {
+          "character": "WORF",
+          "line": "It was Duras' father who betrayed our people to the Romulans at Khitomer, not mine."
+        },
+        {
+          "character": "GOWRON",
+          "line": "Duras? There is proof of this?"
+        },
+        {
+          "character": "WORF",
+          "line": "There is."
+        },
+        {
+          "character": "GOWRON",
+          "line": "Why would you accept dishonor to protect Duras?"
+        },
+        {
+          "character": "WORF",
+          "line": "His family was too powerful. To expose him would have split the Empire. Instead, the Council chose to blame my father."
+        },
+        {
+          "character": "GOWRON",
+          "line": "The Council knew?"
+        },
+        {
+          "character": "WORF",
+          "line": "I believe you to be a man of honor, Gowron. I ask you, restore my family name."
+        },
+        {
+          "character": "GOWRON",
+          "line": "Worf, you killed Duras. I consider that no small favor. But what you ask is impossible."
+        },
+        {
+          "character": "WORF",
+          "line": "But after your installlation"
+        },
+        {
+          "character": "GOWRON",
+          "line": "The grasp of Duras reaches out from the grave. Much of the Council is still loyal to his family. I must have the Council's support to survive. I cannot expose their treachery. You chose to accept this disgrace for the good of the Empire. Now you must live with your decision, like a Klingon."
+        }
+      ],
+      "location": "Transporter room"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "WORF",
+          "line": "Guinan?"
+        },
+        {
+          "character": "GUINAN",
+          "line": "It's a little quiet down in Ten Forward, so I thought I'd get off a little target practice. Do you mind if I join you?"
+        },
+        {
+          "character": "WORF",
+          "line": "You? Practice?"
+        },
+        {
+          "character": "GUINAN",
+          "line": "I like to keep my eye sharp."
+        },
+        {
+          "character": "WORF",
+          "line": "I practice at level fourteen."
+        },
+        {
+          "character": "GUINAN",
+          "line": "Guess I could come down to that level for a while. Begin program."
+        },
+        {
+          "character": "GUINAN",
+          "line": "You know, I had a bet with the Captain that I could make you laugh before you became Lieutenant Commander."
+        },
+        {
+          "character": "WORF",
+          "line": "Not a good bet today."
+        },
+        {
+          "character": "GUINAN",
+          "line": "I've seen you laugh. I like it."
+        },
+        {
+          "character": "WORF",
+          "line": "Klingons do not laugh."
+        },
+        {
+          "character": "GUINAN",
+          "line": "Oh yes they do. Absolutely they do. You don't. But I've heard some Klingon belly laughs that would curl your hair."
+        },
+        {
+          "character": "GUINAN",
+          "line": "Your son laughs. He's a Klingon."
+        },
+        {
+          "character": "WORF",
+          "line": "He is a child and part human."
+        },
+        {
+          "character": "GUINAN",
+          "line": "That's right. And you're not, you're full Klingon except you don't laugh."
+        },
+        {
+          "character": "WORF",
+          "line": "I do not laugh because I do not feel like laughing."
+        },
+        {
+          "character": "GUINAN",
+          "line": "Other Klingons feel like laughing. What does that say about you?"
+        },
+        {
+          "character": "WORF",
+          "line": "Perhaps it says that I do not feel like other Klingons."
+        },
+        {
+          "character": "COMPUTER",
+          "line": "Program complete."
+        },
+        {
+          "character": "GUINAN",
+          "line": "Good game. Don't feel bad. I was doing this long before you were born. So how is he? Your son."
+        },
+        {
+          "character": "WORF",
+          "line": "He is having difficulty adjusting to life on Earth."
+        },
+        {
+          "character": "GUINAN",
+          "line": "I can see where it might be hard for the little guy. Living with humans, being Klingon. Could be very confusing."
+        },
+        {
+          "character": "WORF",
+          "line": "It will not be easy for him."
+        },
+        {
+          "character": "GUINAN",
+          "line": "No, it won't. But at some point he's going to want to know what it's like to really be a Klingon. Just as you're learning."
+        }
+      ],
+      "location": "Phaser range"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "PICARD",
+          "line": "Come."
+        },
+        {
+          "character": "WORF",
+          "line": "Captain, I request a leave of absence."
+        },
+        {
+          "character": "PICARD",
+          "line": "Mister Worf, request granted."
+        },
+        {
+          "character": "WORF",
+          "line": "Thank you, sir."
+        },
+        {
+          "character": "PICARD",
+          "line": "Lieutenant. Qapla!"
+        },
+        {
+          "character": "PICARD",
+          "line": "And good luck. Lieutenant Worf, personal log, stardate 44996.1. I have located the Klingon ship on which my brother Kurn serves as captain, and have arranged to join him."
+        }
+      ],
+      "location": "Ready room"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "KURN",
+          "line": "It has been too long, my brother."
+        },
+        {
+          "character": "WORF",
+          "line": "Too long. We have much to diskuss. I have asked Gowron to restore our family honor. He has refused."
+        },
+        {
+          "character": "KURN",
+          "line": "Gowron will not live to see the day he leads the Council."
+        },
+        {
+          "character": "WORF",
+          "line": "What do you mean?"
+        },
+        {
+          "character": "KURN",
+          "line": "He stands alone, surrounded by his enemies. Lursa and B'Etor will have him killed. And if they don't, I will."
+        },
+        {
+          "character": "WORF",
+          "line": "You will?"
+        },
+        {
+          "character": "KURN",
+          "line": "Gowron is weak. The family of Duras must never be allowed to lead the Council. Our leaders have failed us. They no longer deserve our loyalty. It is time to sweep away the old Council and put a new one in its place."
+        },
+        {
+          "character": "WORF",
+          "line": "How can this be done?"
+        },
+        {
+          "character": "KURN",
+          "line": "I already have the support of four squadron commanders in key strategic sectors. When the time comes, they will follow me. Join us, Worf, and we will usher in a new era and regain our family name."
+        },
+        {
+          "character": "WORF",
+          "line": "No."
+        },
+        {
+          "character": "KURN",
+          "line": "What?"
+        },
+        {
+          "character": "WORF",
+          "line": "Gowron has completed the Rite of Succession. It is our duty to support him."
+        },
+        {
+          "character": "KURN",
+          "line": "Gowron spits in your face when you ask him to give back what is rightfully ours and you would support him?"
+        },
+        {
+          "character": "WORF",
+          "line": "We cannot regain honor by acting dishonorably."
+        },
+        {
+          "character": "KURN",
+          "line": "I will not support Gowron."
+        },
+        {
+          "character": "WORF",
+          "line": "I am the elder brother, Kurn. I speak for our family. We will back Gowron. But not now. Not yet. We will wait until he feels the grasp of his enemies around his throat. Then we will offer him our support. And the price will be the restoration of our family name."
+        },
+        {
+          "character": "KURN",
+          "line": "It will be difficult to convince my allies to back Gowron. But I will try. I must go to the Mempa sector to meet with the other squadron commanders."
+        },
+        {
+          "character": "WORF",
+          "line": "Contact me when you have gained their support. Then I will be ready for Gowron."
+        },
+        {
+          "character": "PICARD",
+          "line": "Captain's log, stardate 44996.8. My role as Arbiter of Succession has again brought me to the Great Hall of the Klingon High Council.",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "Kurn's ready room"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "K'TAL",
+          "line": "naDev ghoS!"
+        },
+        {
+          "character": "K'TAL",
+          "line": "Have you reached a decision regarding the succession of power?"
+        },
+        {
+          "character": "PICARD",
+          "line": "Qaja plu d'itch jung. La woq you ghir klas qimha. Gowron. Doj hon. Doj hon."
+        },
+        {
+          "character": "K'TAL",
+          "line": "Gowron, son of M'Rel, hakt'em. The Arbiter confirms that you have completed the Rite of Succession. Your enemies have been destroyed. You stand alone. Do you wish to claim leadership of the Council?"
+        },
+        {
+          "character": "GOWRON",
+          "line": "I wish it."
+        },
+        {
+          "character": "K'TAL",
+          "line": "Are there no other challengers?"
+        },
+        {
+          "character": "TORAL",
+          "line": "There is one. I will challenge him."
+        },
+        {
+          "character": "GOWRON",
+          "line": "An arrogant child!"
+        },
+        {
+          "character": "K'TAL",
+          "line": "Who are you?"
+        },
+        {
+          "character": "TORAL",
+          "line": "I am Toral, son of Duras."
+        },
+        {
+          "character": "GOWRON",
+          "line": "Duras had no son."
+        },
+        {
+          "character": "B'ETOR",
+          "line": "But he did, Gowron."
+        },
+        {
+          "character": "GOWRON",
+          "line": "So, this is your doing, Lursa."
+        },
+        {
+          "character": "LURSA",
+          "line": "We wish to address the Council."
+        },
+        {
+          "character": "K'TAL",
+          "line": "Lursa, B'Etor, come forward."
+        },
+        {
+          "character": "LURSA",
+          "line": "Members of the High Council, it is a day of great rejoicing for the family of Duras and the Klingon Empire. We have diskovered that our brother did indeed have a son and heir."
+        },
+        {
+          "character": "GOWRON",
+          "line": "This is outrageous. Duras had no mate. Where did you find him, Lursa? In a harlot's bedchamber?"
+        },
+        {
+          "character": "TORAL",
+          "line": "I will personally cut your tongue out, Yintagh!"
+        },
+        {
+          "character": "GOWRON",
+          "line": "Impudent wretch."
+        },
+        {
+          "character": "B'ETOR",
+          "line": "A simple genetic scan will prove his bloodline is valid."
+        },
+        {
+          "character": "GOWRON",
+          "line": "The illegitimate son of Duras cannot rule the High Council."
+        },
+        {
+          "character": "K'TAL",
+          "line": "The Arbiter will consider his validity. Len'mat."
+        }
+      ],
+      "location": "Great Hall"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "LURSA",
+          "line": "Our allies on the Council backed Toral's claim. It's in Picard's hands, now."
+        },
+        {
+          "character": "MOVAR",
+          "line": "Excellent. Everything is proceeding as scheduled."
+        },
+        {
+          "character": "TORAL",
+          "line": "Why not just kill Picard?"
+        },
+        {
+          "character": "B'ETOR",
+          "line": "Fool! Do we want the Federation as our enemy?"
+        },
+        {
+          "character": "TORAL",
+          "line": "No."
+        },
+        {
+          "character": "WOMAN",
+          "line": "At least, not yet. But when the time is right we will deal with the Federation and Captain Picard."
+        }
+      ],
+      "location": "Duras home"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "KURN",
+          "line": "I have met with the other squadron commanders here. Three will join us, one will not. That gives us enough strength to control seven key sectors.",
+          "modifier": "screen"
+        },
+        {
+          "character": "WORF",
+          "line": "Do you know the strength of our enemies?"
+        },
+        {
+          "character": "KURN",
+          "line": "They have at least seven squadrons, but most of the fleet has not decided which banner to follow.",
+          "modifier": "screen"
+        },
+        {
+          "character": "WORF",
+          "line": "Gowron is nearly out of options. Soon he will have no choice"
+        },
+        {
+          "character": "KURN",
+          "line": "I will return soon to the home world. We shall meet then.",
+          "modifier": "screen"
+        }
+      ],
+      "location": "Worf's quarters"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "DATA",
+          "line": "Do you also require the original logs recorded during the attack, Lieutenant?"
+        },
+        {
+          "character": "WORF",
+          "line": "Everything we have on the Khitomer massacre."
+        },
+        {
+          "character": "DATA",
+          "line": "We can provide you with our analysis of the communications between the Khitomer outpost and the Romulan ships. However, for a complete record you will have to contact Starbase twenty four"
+        },
+        {
+          "character": "PICARD",
+          "line": "Mister Worf. Have you canceled your leave?"
+        },
+        {
+          "character": "WORF",
+          "line": "No, sir."
+        },
+        {
+          "character": "PICARD",
+          "line": "Lieutenant, would you join me in my Ready room?"
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "PICARD",
+          "line": "Mister Worf, you're using our files on the Khitomer massacre as evidence against Duras' father?"
+        },
+        {
+          "character": "WORF",
+          "line": "Yes, sir."
+        },
+        {
+          "character": "PICARD",
+          "line": "Do you not see an inherent conflict of interest here?"
+        },
+        {
+          "character": "WORF",
+          "line": "Sir, those Federation records will help me prove that my father was falsely accused of treason."
+        },
+        {
+          "character": "PICARD",
+          "line": "You are using your position as a Starfleet officer to affect political change on your planet. There could not be a worse compromise of our fundamental principles."
+        },
+        {
+          "character": "WORF",
+          "line": "Do not tie my hands now. I must be able to prove my father's innocence. Those Federation records can do that."
+        },
+        {
+          "character": "PICARD",
+          "line": "Mister Worf. Here I am lecturing you on a conflict of interest while I'm desperately trying to avoid one of my own. Do you think I wish to allow the Duras family to solidify their hold on the Council? Do you think I cannot see for myself the implications for the Federation? Good Lord, Duras tried to have me killed! All of my instincts, my training, my very being as a Starfleet officer are at odds with my responsibilities as Arbiter of the Klingon High Council. We walk the same tightrope between two worlds, you and I. We must try our very best to keep those two worlds separate, or we shall certainly fall."
+        },
+        {
+          "character": "WORF",
+          "line": "Yes, sir."
+        },
+        {
+          "character": "PICARD",
+          "line": "I will make the Khitomer massacre files available to anyone who wants them. To the High Council, to the Duras family, to you. Anyone."
+        },
+        {
+          "character": "WORF",
+          "line": "Thank you, sir."
+        },
+        {
+          "character": "PICARD",
+          "line": "Mister Worf, this is as far as I can go."
+        },
+        {
+          "character": "RIKER",
+          "line": "Riker to Picard.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "PICARD",
+          "line": "Yes, Number One."
+        }
+      ],
+      "location": "Ready room"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "RIKER",
+          "line": "There's a message coming in for you from the surface. It's coded personal."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "PICARD",
+          "line": "Send it through."
+        }
+      ],
+      "location": "Ready room"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "B'ETOR",
+          "line": "Captain, welcome. Please, come in. Be seated."
+        },
+        {
+          "character": "LURSA",
+          "line": "Something to drink, Captain? Tea. Earl Gray, perhaps?"
+        },
+        {
+          "character": "PICARD",
+          "line": "Thank you."
+        },
+        {
+          "character": "B'ETOR",
+          "line": "You come alone, and unarmed"
+        },
+        {
+          "character": "PICARD",
+          "line": "Nothing would be served by killing the Arbiter before his decision."
+        },
+        {
+          "character": "B'ETOR",
+          "line": "Nevertheless, a brave act, Captain."
+        },
+        {
+          "character": "LURSA",
+          "line": "B'Etor."
+        },
+        {
+          "character": "PICARD",
+          "line": "Your invitation was unexpected."
+        },
+        {
+          "character": "B'ETOR",
+          "line": "We should have extended it much sooner."
+        },
+        {
+          "character": "LURSA",
+          "line": "We don't want you to judge us by your experience with our brother."
+        },
+        {
+          "character": "B'ETOR",
+          "line": "Duras was a fool."
+        },
+        {
+          "character": "LURSA",
+          "line": "He deserved to die."
+        },
+        {
+          "character": "B'ETOR",
+          "line": "Forget him. We have."
+        },
+        {
+          "character": "LURSA",
+          "line": "We do not wish to be your enemy."
+        },
+        {
+          "character": "B'ETOR",
+          "line": "Quite the opposite."
+        },
+        {
+          "character": "PICARD",
+          "line": "That pleases me."
+        },
+        {
+          "character": "LURSA",
+          "line": "Have you made your decision regarding Toral's challenge?"
+        },
+        {
+          "character": "PICARD",
+          "line": "I am pursuing it with due vigilance."
+        },
+        {
+          "character": "B'ETOR",
+          "line": "Allow me to heat your tea."
+        },
+        {
+          "character": "LURSA",
+          "line": "Toral has the bloodline to lead the Empire into the next century. He has the support of the people."
+        },
+        {
+          "character": "PICARD",
+          "line": "Then it remains to see if he has the support of the law."
+        },
+        {
+          "character": "B'ETOR",
+          "line": "But he must. Surely, you can see that."
+        },
+        {
+          "character": "PICARD",
+          "line": "I'll tell you what I see. If I find Toral's challenge valid, the two of you will very quickly gain control of the Council and Gowron will be found dead shortly thereafter. If I reject Toral's claim, you will accuse me of serving Federation interests. It will serve as a rallying cry to declare war and overthrow Gowron."
+        },
+        {
+          "character": "LURSA",
+          "line": "You see very clearly, Captain. But one thing is missing. If you rule against us and we are victorious in a war against Gowron."
+        },
+        {
+          "character": "B'ETOR",
+          "line": "Which we would be>"
+        },
+        {
+          "character": "LURSA",
+          "line": "It will mean the end of the alliance with the Federation."
+        },
+        {
+          "character": "B'ETOR",
+          "line": "And we would hate to see that happen as much as you would."
+        },
+        {
+          "character": "LURSA",
+          "line": "This is not a threat, Captain. Just an unfortunate truth."
+        },
+        {
+          "character": "B'ETOR",
+          "line": "So why be our enemy, when you can be our friend?"
+        },
+        {
+          "character": "PICARD",
+          "line": "You have manipulated the circumstances with the skill of a Romulan. My decision will be announced at high sun tomorrow. Excellent tea. Good day, ladies."
+        }
+      ],
+      "location": "Duras home"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "K'TAL",
+          "line": "What is your decision?"
+        },
+        {
+          "character": "PICARD",
+          "line": "K'Tal, this Council knows the law of heredity well. G'now juk Hol pajhard. A son shall share in the honors or crimes of his father. Toral is Duras' son. That has been established by the genetic scan. But with due respect to the traditions and laws of this High Council, there is no basis for accepting a petition for leadership from a boy who has fought no battles, shed no blood for his people, or earned no honor for himself. One day, perhaps he shall. But not now. Duras is dead. His claim to the leadership died with him. Gowron shall lead the Council."
+        },
+        {
+          "character": "GOWRON",
+          "line": "The Arbiter has ruled. There are no more challengers."
+        },
+        {
+          "character": "TORAL",
+          "line": "Does the Federation dictate Klingon destiny or do we? Follow me and I will show you honor."
+        },
+        {
+          "character": "GOWRON",
+          "line": "Follow him and you reject all Klingon law."
+        },
+        {
+          "character": "GOWRON",
+          "line": "Can you not see what you are doing? Are you blind to what they represent? Then go. Your blood will paint the way to the future."
+        }
+      ],
+      "location": "Great Hall"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "GOWRON",
+          "line": "Your message said it was urgent. What do you want?"
+        },
+        {
+          "character": "WORF",
+          "line": "Your forces are weak, Gowron. You need help to fight the family of Duras."
+        },
+        {
+          "character": "GOWRON",
+          "line": "From one dishonored Klingon."
+        },
+        {
+          "character": "WORF",
+          "line": "I offer you four Klingon squadrons."
+        },
+        {
+          "character": "GOWRON",
+          "line": "Why would they follow you, a Starfleet officer?"
+        },
+        {
+          "character": "WORF",
+          "line": "They are pledged to support my brother, Kurn."
+        },
+        {
+          "character": "GOWRON",
+          "line": "Kurn is your brother?"
+        },
+        {
+          "character": "WORF",
+          "line": "Yes. His true bloodlines were hidden to protect him."
+        },
+        {
+          "character": "GOWRON",
+          "line": "Kurn will follow me? He has opposed me in the past."
+        },
+        {
+          "character": "WORF",
+          "line": "I am the elder brother. He will do as I say."
+        },
+        {
+          "character": "GOWRON",
+          "line": "What is it you want in return?"
+        },
+        {
+          "character": "WORF",
+          "line": "You know my price."
+        },
+        {
+          "character": "GOWRON",
+          "line": "The return of your honor. For the support of four squadrons? No, that will not be enough. The Duras family controls most of the fleet. We must have Federation help."
+        },
+        {
+          "character": "WORF",
+          "line": "They will not intervene."
+        },
+        {
+          "character": "GOWRON",
+          "line": "Perhaps not yet, but Starfleet Command will listen to Picard and Picard listens to you."
+        },
+        {
+          "character": "WORF",
+          "line": "I can ask nothing more of him in this matter."
+        },
+        {
+          "character": "GOWRON",
+          "line": "What?"
+        },
+        {
+          "character": "WORF",
+          "line": "My duty as a Starfleet officer"
+        },
+        {
+          "character": "GOWRON",
+          "line": "You come to me and demand the restoration of your family honor and now you hide behind human excuses? What are you, Worf? Do you tremble and quake with fear at the approach of combat, hoping to talk your way out of a fight like a human? Or do you hear the cry of the warrior calling you to battle, calling you to glory like a Klingon?"
+        }
+      ],
+      "location": "Gowron's Ready room"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "GOWRON",
+          "line": "Status!"
+        },
+        {
+          "character": "KLINGON",
+          "line": "Aft shields down."
+        },
+        {
+          "character": "HELMSMAN",
+          "line": "Warp coils damaged."
+        }
+      ],
+      "location": "Gowron's Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "PICARD",
+          "line": "Red alert."
+        },
+        {
+          "character": "DATA",
+          "line": "A second ship has joined the attack on the Bortas."
+        },
+        {
+          "character": "PICARD",
+          "line": "It's begun."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "GOWRON",
+          "line": "Send an emergency signal to any loyal ships!"
+        },
+        {
+          "character": "HELMSMAN",
+          "line": "Impulse engines not responding!"
+        },
+        {
+          "character": "GOWRON",
+          "line": "Engage emergency override!"
+        },
+        {
+          "character": "WORF",
+          "line": "Override engaged. Disruptors still not responding."
+        }
+      ],
+      "location": "Gowron's Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "DATA",
+          "line": "The Bortas has lost her port shields, sir. It is unlikely they will withstand another hit at that quarter. Their primary life support has failed, sir."
+        },
+        {
+          "character": "RIKER",
+          "line": "The Bortas has put out a general distress call."
+        },
+        {
+          "character": "PICARD",
+          "line": "Ensign Riol, plot a course to take us safely away from the combat area. Half impulse."
+        },
+        {
+          "character": "RIKER",
+          "line": "Captain, the Bortas is Gowron's ship. If he's the legitimate leader of the Empire, shouldn't we help him?"
+        },
+        {
+          "character": "PICARD",
+          "line": "If we go to the aid of the Bortas, we'll be dragging the Federation into a Klingon civil war."
+        },
+        {
+          "character": "RIKER",
+          "line": "What about Worf?"
+        },
+        {
+          "character": "PICARD",
+          "line": "Ensign, engage."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "KLINGON",
+          "line": "Port shields are still down."
+        },
+        {
+          "character": "WORF",
+          "line": "Disruptors online."
+        },
+        {
+          "character": "GOWRON",
+          "line": "Lock on target."
+        },
+        {
+          "character": "WORF",
+          "line": "No. Don't you see? Their sensors will detect the weapons lock. If they think we're helpless, they will try to board the ship. I can aim and fire disruptors manually when they drop their shields."
+        },
+        {
+          "character": "GOWRON",
+          "line": "GhoS."
+        },
+        {
+          "character": "WORF",
+          "line": "Thirty five thousand kellicams. Twenty thousand kellicams. Now within transporter range."
+        },
+        {
+          "character": "GOWRON",
+          "line": "SuH."
+        },
+        {
+          "character": "WORF",
+          "line": "They're dropping their shields."
+        },
+        {
+          "character": "GOWRON",
+          "line": "BaH!"
+        },
+        {
+          "character": "WORF",
+          "line": "Firing on second target."
+        },
+        {
+          "character": "KLINGON",
+          "line": "They were able to raise the shields in time. Minor damage only."
+        },
+        {
+          "character": "WORF",
+          "line": "Disruptors offline."
+        },
+        {
+          "character": "GOWRON",
+          "line": "All power to shields."
+        },
+        {
+          "character": "KLINGON",
+          "line": "Shields failing!"
+        },
+        {
+          "character": "WORF",
+          "line": "Incoming message."
+        },
+        {
+          "character": "GOWRON",
+          "line": "On viewer."
+        },
+        {
+          "character": "KURN",
+          "line": "This is Captain Kurn of the Hegh'ta. We come to defend the Empire and to follow the banner of Gowron.",
+          "modifier": "screen"
+        },
+        {
+          "character": "WORF",
+          "line": "The enemy has sustained major damage to its life support systems They have disengaged."
+        },
+        {
+          "character": "GOWRON",
+          "line": "You have done well, Commander Kurn. Lursa and B'Etor have moved more quickly than I anticipated. We shall not underestimate them again. Meet us at the Great Hall."
+        },
+        {
+          "character": "GOWRON",
+          "line": "Advise the Enterprise that their delegation is welcome to attend my installlation as leader."
+        },
+        {
+          "character": "PICARD",
+          "line": "Captain's log, stardate 44998.3. With new-found support, Gowron has chosen to proceed with the installlation ceremony. The Enterprise has returned so that I may perform my final duty as Arbiter of Succession.",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "Gowron's Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "K'TAL",
+          "line": "Receive now the loyalty of the Council and of the Empire."
+        },
+        {
+          "character": "ALL",
+          "line": "Qapla!"
+        },
+        {
+          "character": "GOWRON",
+          "line": "naDev ghoS."
+        },
+        {
+          "character": "GOWRON",
+          "line": "You both fought as warriors. You have proved your hearts are Klingon."
+        },
+        {
+          "character": "GOWRON",
+          "line": "I return your family honor. I give you back that which was wrongfully taken from you. Let your name be spoken once again. You are Worf, son of Mogh."
+        }
+      ],
+      "location": "Great hall"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "GOWRON",
+          "line": "The Duras family is gathering a large force near Beta Thoridar. As per the terms of the Treaty of Alliance, I now formally request your assistance in fighting these enemies of the Empire."
+        },
+        {
+          "character": "RIKER",
+          "line": "These enemies are Klingons."
+        },
+        {
+          "character": "GOWRON",
+          "line": "By right and tradition, I am the sole leader. All who oppose me are traitors."
+        },
+        {
+          "character": "PICARD",
+          "line": "I understand your position, but I', sure you're aware that the Federation cannot interfere in what is, by definition, an internal Klingon affair."
+        },
+        {
+          "character": "GOWRON",
+          "line": "You arbitrated the Rite of Succession. You are already involved."
+        },
+        {
+          "character": "PICARD",
+          "line": "My duties in that regard are finished."
+        },
+        {
+          "character": "WORF",
+          "line": "Captain, we must intervene. The Duras family is corrupt and hungry for power with no sense of honor or loyalty. They represent a grave threat to the security of the Federation. Captain, you and I know that they have conspired with Romulans in the past. If they should be victors in this war, they will surely form a new Klingon-Romulan alliance. That would represent a fundamental shift of power in this quadrant. Starfleet must support Gowron. It is in the interests of both the Federation and the Empire. I beg you, support us in our cause."
+        },
+        {
+          "character": "PICARD",
+          "line": "Mister Worf, I don't have to lecture you on the principle of non interference. As Starfleet officers, we have all sworn an oath to uphold that principle whatever our personal feelings. I'm sorry. I must refuse your request."
+        },
+        {
+          "character": "PICARD",
+          "line": "Mister Worf. I'm afraid I must recall you to duty. The Enterprise will be leaving this sector immediately."
+        },
+        {
+          "character": "WORF",
+          "line": "Captain, I respectfully request that I be allowed to take an extended leave of absence."
+        },
+        {
+          "character": "PICARD",
+          "line": "Mister Worf, your responsibilities as a Starfleet officer are incompatible with remaining on board a Klingon ship during a time of war."
+        },
+        {
+          "character": "WORF",
+          "line": "Captain."
+        },
+        {
+          "character": "PICARD",
+          "line": "I order you to return to duty at once."
+        },
+        {
+          "character": "WORF",
+          "line": "Then I resign my commission as a Starfleet officer."
+        },
+        {
+          "character": "GOWRON",
+          "line": "I will await you aboard the Bortas."
+        }
+      ],
+      "location": "Observation lounge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "WORF",
+          "line": "Enter."
+        },
+        {
+          "character": "PICARD",
+          "line": "Am I intruding?"
+        },
+        {
+          "character": "WORF",
+          "line": "No, sir."
+        },
+        {
+          "character": "PICARD",
+          "line": "I understand that you'll be serving on board the Bortas."
+        },
+        {
+          "character": "WORF",
+          "line": "As weapons officer."
+        },
+        {
+          "character": "PICARD",
+          "line": "Your tactical knowledge and experience will serve them well."
+        },
+        {
+          "character": "WORF",
+          "line": "Thank you, sir."
+        },
+        {
+          "character": "PICARD",
+          "line": "Mister Worf, are you certain that this is the right decision?"
+        },
+        {
+          "character": "WORF",
+          "line": "I was rescued from Khitomer by humans. Raised and loved by human parents. I've spent most of my life around humans, fought beside them. But I was born a Klingon. My heart is of that world. I do hear the cry of the warrior. I belong with my people."
+        },
+        {
+          "character": "PICARD",
+          "line": "Being the only Klingon ever to serve in Starfleet gave you a singular distinction, but I felt that what was unique about you was your humanity, compassion, generosity, fairness. You took the best qualities of humanity and made them part of you. The result was a man who I was proud to call one of my officers. I'll have your belongings transported to the Bortas."
+        },
+        {
+          "character": "WORF",
+          "line": "Thank you, sir."
+        }
+      ],
+      "location": "Worf's quarters"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "PICARD",
+          "line": "Attention on deck."
+        }
+      ],
+      "location": "Corridor"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "WORF",
+          "line": "Permission to leave the ship, sir?"
+        },
+        {
+          "character": "PICARD",
+          "line": "Permission granted. Qapla'"
+        },
+        {
+          "character": "WORF",
+          "line": "Goodbye."
+        },
+        {
+          "character": "RIKER",
+          "line": "Dismissed."
+        }
+      ],
+      "location": "Transporter room"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "MOVAR",
+          "line": "Picard has rejected Gowron's plea for help. The Enterprise has left orbit."
+        },
+        {
+          "character": "TORAL",
+          "line": "Coward! He didn't have the courage to face us. The Federation is"
+        },
+        {
+          "character": "WOMAN",
+          "line": "Celebrate later, Toral. We should not diskount Jean Luc Picard yet. He is human, and humans have a way of showing up when you least expect them."
+        }
+      ],
+      "location": "Duras family home"
+    }
+  ],
+  "schedule": {
+    "episode": 26,
+    "number": 100,
+    "season": 4
+  },
+  "stardate": "44995.3",
+  "title": "Redemption"
+}

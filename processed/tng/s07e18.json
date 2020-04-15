@@ -1,0 +1,1596 @@
+{
+  "airdate": 762411600,
+  "scenes": [
+    {
+      "dialogue": [
+        {
+          "character": "DATA",
+          "line": "We are losing containment in the starboard nacelle tube."
+        },
+        {
+          "character": "PICARD",
+          "line": "Try to get more power to the field coils."
+        },
+        {
+          "character": "DATA",
+          "line": "Aye, sir."
+        },
+        {
+          "character": "PICARD",
+          "line": "Mister La Forge."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "PICARD",
+          "line": "Report.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "LAFORGE",
+          "line": "I can't shut down the plasma injectors. Somebody's locked out the controls."
+        }
+      ],
+      "location": "Engineering"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "DATA",
+          "line": "The plasma venting system has engaged."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "WORF",
+          "line": "Two more decks."
+        },
+        {
+          "character": "RIKER",
+          "line": "Riker to Bridge. We've almost reached the nacelle tube."
+        },
+        {
+          "character": "PICARD",
+          "line": "Acknowledged.",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "Jefferies tube"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "PICARD",
+          "line": "Release the exterior hull plate. We may have to jettison the core."
+        },
+        {
+          "character": "DATA",
+          "line": "Aye, sir."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "RIKER",
+          "line": "What happened?"
+        },
+        {
+          "character": "NARA",
+          "line": "He locked out the controls. Before we knew what was happening, he stepped up onto the walkway."
+        },
+        {
+          "character": "RIKER",
+          "line": "See if you can help shut down the plasma flow."
+        },
+        {
+          "character": "NARA",
+          "line": "I'm afraid if we try to get any closer, he will jump through the forcefield."
+        },
+        {
+          "character": "RIKER",
+          "line": "Dan, it's me. It's Will Riker. I was here yesterday, remember?"
+        },
+        {
+          "character": "KWAN",
+          "line": "I didn't want to do it. But I saw them. And they laughed at me. They laughed."
+        },
+        {
+          "character": "RIKER",
+          "line": "Whatever happened, we can talk about it. I want to help."
+        },
+        {
+          "character": "KWAN",
+          "line": "Stay away!"
+        },
+        {
+          "character": "RIKER",
+          "line": "I just want to see your face, that's all. So we can talk."
+        },
+        {
+          "character": "KWAN",
+          "line": "I know what I have to do."
+        },
+        {
+          "character": "RIKER",
+          "line": "Dan, no!"
+        },
+        {
+          "character": "WORF",
+          "line": "I have unlocked the controls."
+        },
+        {
+          "character": "COMPUTER",
+          "line": "Shutdown procedure initiated."
+        },
+        {
+          "character": "NARA",
+          "line": "There's still plasma in the injector. It'll take time to vent off."
+        },
+        {
+          "character": "RIKER",
+          "line": "Tell me what happened. Maybe I can help."
+        },
+        {
+          "character": "KWAN",
+          "line": "I know what I have to do."
+        }
+      ],
+      "location": "Nacelle control"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "RIKER",
+          "line": "A few more seconds I could've saved his life"
+        },
+        {
+          "character": "WORF",
+          "line": "Commander, you did everything you could. It was not your fault."
+        },
+        {
+          "character": "RIKER",
+          "line": "It was strange. I felt as if he didn't even recognize me, although I was with him just the other day when I supervised the tube refit."
+        },
+        {
+          "character": "PICARD",
+          "line": "How did he seem then?"
+        },
+        {
+          "character": "RIKER",
+          "line": "Fine. I complimented him on getting the refit done faster than expected. He was pleased that I'd noticed."
+        },
+        {
+          "character": "TROI",
+          "line": "I met with him about six weeks ago, during the crew evaluations. He was very positive. He was looking forward to being posted to the nacelle tube."
+        },
+        {
+          "character": "RIKER",
+          "line": "He was a good officer with a fine career ahead of him. I don't understand why he wanted"
+        },
+        {
+          "character": "PICARD",
+          "line": "In my years as a Starship Captain, I've had to notify many parents of the loss of loved ones, but never before a suicide. I would like to be able to offer Lieutenant Kwan's parents some explanation of what happened, to try to help them make sense of this."
+        },
+        {
+          "character": "WORF",
+          "line": "Maybe he left a message of some kind, explaining why he did it."
+        },
+        {
+          "character": "PICARD",
+          "line": "I would like the two of you to piece together a picture of his last few days."
+        },
+        {
+          "character": "TROI",
+          "line": "If he made any personal logs, it might be helpful to look through them."
+        },
+        {
+          "character": "PICARD",
+          "line": "You're authorized to do so."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "La Forge to Captain.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "PICARD",
+          "line": "Go ahead."
+        }
+      ],
+      "location": "Ready room"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "LAFORGE",
+          "line": "I've just finished my damage assessment. We should be able to get underway I'd say within the hour."
+        },
+        {
+          "character": "PICARD",
+          "line": "Mister La Forge",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "Engineering"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "PICARD",
+          "line": "The medical situation on Barson Two has worsened. Starfleet has given us permission to exceed warp speed limitations so as to get back on schedule."
+        }
+      ],
+      "location": "Ready room"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "LAFORGE",
+          "line": "We'll be able to give you warp eight if you need it."
+        },
+        {
+          "character": "PICARD",
+          "line": "Acknowledged.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "DATA",
+          "line": "Geordi, would you agree that the instinct for self-preservation is shared by most life forms?"
+        },
+        {
+          "character": "LAFORGE",
+          "line": "I'd say it's probably the most basic instinct, Data."
+        },
+        {
+          "character": "DATA",
+          "line": "That being the case, I find it difficult to understand why someone would deliberately terminate their own existence."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "I don't know, Data. All I can think is that maybe Lieutenant Kwan felt that there was something wrong in his life, something he felt powerless to fix."
+        },
+        {
+          "character": "DATA",
+          "line": "I believe I understand. I have been in a similar situation."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Really?"
+        },
+        {
+          "character": "DATA",
+          "line": "The first months following my activation were a difficult period for me. There were many problems associated with my becoming sentient."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Because your neural net was still forming."
+        },
+        {
+          "character": "DATA",
+          "line": "As I acquired new skills, neural pathways would form replacing other less complex pathways. It was very disorienting."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "I bet."
+        },
+        {
+          "character": "DATA",
+          "line": "As my systems grew in complexity, it became increasingly difficult to integrate new pathways into my existing neural net. The probability of cascade failure grew with each additional pathway. I came to the conclusion it would be safer and easier to shut myself down and start again."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Yeah, but if you had done that, you wouldn't have remembered any of the things that had happened to you."
+        },
+        {
+          "character": "DATA",
+          "line": "In a way, it would have been like committing suicide."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "So what did you do?"
+        },
+        {
+          "character": "DATA",
+          "line": "I decided against the procedure. I chose instead to treat the problems I was having with my systems as challenges to overcome, rather than obstacles to be avoided."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Great way of looking at it, Data. I wish Lieutenant Kwan had been able to look at his problems the same way."
+        }
+      ],
+      "location": "Engineering"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "WORF",
+          "line": "This is a Napean design."
+        },
+        {
+          "character": "TROI",
+          "line": "His mother's Napean, his father's human. It all looks so normal. For some reason I half expected the place to be a mess."
+        },
+        {
+          "character": "WORF",
+          "line": "Yes. It is strange to think that someone could have considered ending his life and yet give no outward sign. Just before he jumped, he seemed almost calm."
+        },
+        {
+          "character": "TROI",
+          "line": "Well, he must have been in a lot of pain to do what he did. It could be that the prospect of ending the pain felt like a great relief."
+        },
+        {
+          "character": "TROI",
+          "line": "This is Ensign Calloway, isn't it?"
+        },
+        {
+          "character": "WORF",
+          "line": "Yes, she is a medical technician in Sickbay."
+        },
+        {
+          "character": "TROI",
+          "line": "It's always hard to lose someone you care about, but to lose them like this?"
+        },
+        {
+          "character": "WORF",
+          "line": "We should check his personal logs."
+        },
+        {
+          "character": "TROI",
+          "line": "This is his last entry. He made it before going on duty this morning."
+        },
+        {
+          "character": "KWAN",
+          "line": "Personal log, stardate 47622.1. We finally finished the nacelle tube refit last night. After pulling two double shifts in a row, I'm really looking forward to spending some time with Maddy.",
+          "modifier": "screen"
+        },
+        {
+          "character": "TROI",
+          "line": "Ensign Calloway. That doesn't sound like a man who's planning on taking his own life."
+        },
+        {
+          "character": "WORF",
+          "line": "No. No, it does not."
+        }
+      ],
+      "location": "Kwan's quarters"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "CALLOWAY",
+          "line": "I can't believe he's really gone. I keep thinking he's going to show up and tell me there's been some kind of terrible misunderstanding."
+        },
+        {
+          "character": "TROI",
+          "line": "I thought you might like to know that in his personal logs, Dan talked about you a great deal. He loved you very much."
+        },
+        {
+          "character": "CALLOWAY",
+          "line": "If that's true, then how could he leave me like this?"
+        },
+        {
+          "character": "TROI",
+          "line": "That's what I'm trying to find out. I know it's hard to talk right now, but it would be very helpful if you could tell me a few things about him. When was the last time you saw him?"
+        },
+        {
+          "character": "CALLOWAY",
+          "line": "Two nights ago. We were planning our next shore leave together."
+        },
+        {
+          "character": "TROI",
+          "line": "Did he mention anything that had happened recently, anything that might have upset him?"
+        },
+        {
+          "character": "CALLOWAY",
+          "line": "No, not really. He did say something about work, about Lieutenant Nara, but it wasn't anything serious."
+        },
+        {
+          "character": "TROI",
+          "line": "Nara. She's his superior officer in the nacelle tube?"
+        },
+        {
+          "character": "CALLOWAY",
+          "line": "Yes. Dan sensed that she, well, that she felt threatened by him. That she thought he was after her position."
+        },
+        {
+          "character": "TROI",
+          "line": "Was he prone to mood swings or depression?"
+        },
+        {
+          "character": "CALLOWAY",
+          "line": "No, but he was very sensitive to other people's moods. He used to look at me and know exactly what I was feeling. I always loved that about him."
+        },
+        {
+          "character": "TROI",
+          "line": "Well, Napeans are partially empathic. He may have inherited some of his mother's abilities."
+        },
+        {
+          "character": "CALLOWAY",
+          "line": "He used to tease me that when I met her, I wouldn't be able to get away with anything. Dan and I knew each other for over two years, but we didn't get together until a few months ago. We took it slow. We thought we had all the time in the world. Something must have happened to him, Counselor. Something terrible, because it's not like Dan to take his own life."
+        },
+        {
+          "character": "TROI",
+          "line": "I understand."
+        },
+        {
+          "character": "CALLOWAY",
+          "line": "Please, find out what it was."
+        }
+      ],
+      "location": "Crusher's office"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "NARA",
+          "line": "Can I help you?"
+        },
+        {
+          "character": "TROI",
+          "line": "Oh, I didn't see you there. You're Lieutenant Nara, aren't you?"
+        },
+        {
+          "character": "NARA",
+          "line": "Can I do something for you, Counselor?"
+        },
+        {
+          "character": "TROI",
+          "line": "I'm investigating Lieutenant Kwan's death, and I just wanted to look around."
+        },
+        {
+          "character": "NARA",
+          "line": "It's such a shame. He was a good man."
+        },
+        {
+          "character": "TROI",
+          "line": "Did you notice any change in his behavior recently?"
+        },
+        {
+          "character": "NARA",
+          "line": "No. I've been going over the last few days in my mind, trying to see if I, if I missed any warning signs. It's as if something in him just snapped."
+        },
+        {
+          "character": "TROI",
+          "line": "How was his job performance?"
+        },
+        {
+          "character": "NARA",
+          "line": "Excellent. He knew this ship better than most people, probably because he helped build it back at Utopia Planitia."
+        },
+        {
+          "character": "TROI",
+          "line": "Did he get along with his coworkers?"
+        },
+        {
+          "character": "NARA",
+          "line": "He was ambitious. He came in here with all sorts of new ideas about how to do things. Some of them very good ideas."
+        },
+        {
+          "character": "TROI",
+          "line": "But not all?"
+        },
+        {
+          "character": "NARA",
+          "line": "No. But after he settled in, we got along fine."
+        },
+        {
+          "character": "NARA",
+          "line": "Excuse me a minute. Feel free to look around."
+        },
+        {
+          "character": "TROI",
+          "line": "Where was Lieutenant Kwan's station?"
+        },
+        {
+          "character": "NARA",
+          "line": "Right there."
+        },
+        {
+          "character": "NARA",
+          "line": "Are you all right?"
+        },
+        {
+          "character": "TROI",
+          "line": "I don't know."
+        }
+      ],
+      "location": "Nacelle control"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TROI",
+          "line": "I don't know how to describe it. I was suddenly overwhelmed by a flood of emotions. Fear, rage, panic. And the sensations didn't seem to be coming from any person. They were just there, in the room."
+        },
+        {
+          "character": "RIKER",
+          "line": "Whose emotions were they? I thought you said were alone."
+        },
+        {
+          "character": "TROI",
+          "line": "I was."
+        },
+        {
+          "character": "WORF",
+          "line": "I scanned the area. I found no anomalous readings."
+        },
+        {
+          "character": "RIKER",
+          "line": "How could you get an empathic impression from an empty room?"
+        },
+        {
+          "character": "TROI",
+          "line": "I don't know."
+        },
+        {
+          "character": "CRUSHER",
+          "line": "Could the fact that Lieutenant Kwan was partially empathic have anything to do with it?"
+        },
+        {
+          "character": "RIKER",
+          "line": "What do you mean?"
+        },
+        {
+          "character": "CRUSHER",
+          "line": "I'm not sure, but certainly the feelings Troi described are consistent with suicide."
+        },
+        {
+          "character": "RIKER",
+          "line": "Could his death have left some sort of empathic echo?"
+        },
+        {
+          "character": "TROI",
+          "line": "I don't see how. But if I went back to the nacelle tube, I might get a better sense of what I experienced."
+        },
+        {
+          "character": "CRUSHER",
+          "line": "I don't think I'd recommend that right now. You're showing elevated levels of psilosynine."
+        },
+        {
+          "character": "WORF",
+          "line": "Psilosynine?"
+        },
+        {
+          "character": "CRUSHER",
+          "line": "It's a neurotransmitter involved in telepathy. The experience overwhelmed you the first time. I think you should wait until your levels return to normal."
+        },
+        {
+          "character": "RIKER",
+          "line": "How long?"
+        },
+        {
+          "character": "CRUSHER",
+          "line": "Three, maybe four hours."
+        },
+        {
+          "character": "RIKER",
+          "line": "This time I want someone with you."
+        },
+        {
+          "character": "WORF",
+          "line": "I shall accompany you, Counselor."
+        },
+        {
+          "character": "PICARD",
+          "line": "Captain's log, stardate 47623.2. We've arrived at Starbase three twenty eight on schedule. After taking aboard medical supplies, we will depart for Barson Two.",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "Sickbay"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TROI",
+          "line": "Come in. Hello, Worf."
+        },
+        {
+          "character": "WORF",
+          "line": "Counselor. Have you found anything in Lieutenant Kwan's logs?"
+        },
+        {
+          "character": "TROI",
+          "line": "Everything I've read suggests that he was well-adjusted and optimistic. It just doesn't make any sense. Can I get you anything?"
+        },
+        {
+          "character": "WORF",
+          "line": "No. No, nothing."
+        },
+        {
+          "character": "TROI",
+          "line": "Yridian tea. I've been thinking about what happened to me in the nacelle tube. Whether it was an empathic echo left by Kwan's death."
+        },
+        {
+          "character": "WORF",
+          "line": "In the past, have your empathic experiences always involved the physical presence of another person?"
+        },
+        {
+          "character": "TROI",
+          "line": "All the ones I'm sure of, yes."
+        },
+        {
+          "character": "WORF",
+          "line": "What do you mean, sure of?"
+        },
+        {
+          "character": "TROI",
+          "line": "Well, when I was a young girl, my grandfather used to tell me stories by the fire. I would close my eyes and listen to his mind for hours on end."
+        },
+        {
+          "character": "WORF",
+          "line": "He would tell you these stories telepathically?"
+        },
+        {
+          "character": "TROI",
+          "line": "My grandfather rarely spoke. He said that was for off-worlders and people who didn't know any better. Now the only time I can remember his stories is when I go home and sit by the fireplace. Sometimes when I'm alone there, it's almost as if I can hear his voice inside my head."
+        },
+        {
+          "character": "WORF",
+          "line": "Yes. Yes, I too have sought visions in fire."
+        },
+        {
+          "character": "TROI",
+          "line": "I can't explain it, but it feels real to me. Just like what happened in the nacelle tube."
+        },
+        {
+          "character": "WORF",
+          "line": "There are things we do not understand, yet they exist nonetheless. Perhaps I should let you get some rest."
+        },
+        {
+          "character": "TROI",
+          "line": "Oh, it's all right."
+        },
+        {
+          "character": "WORF",
+          "line": "If you will excuse me, Counselor."
+        }
+      ],
+      "location": "Troi's quarters"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "RIKER",
+          "line": "Mister Worf."
+        },
+        {
+          "character": "WORF",
+          "line": "Commander."
+        },
+        {
+          "character": "RIKER",
+          "line": "Two Til'amin froths, please."
+        },
+        {
+          "character": "BARMAN",
+          "line": "Yes, sir."
+        },
+        {
+          "character": "WORF",
+          "line": "Lieutenant Corell seems to be enjoying your company."
+        },
+        {
+          "character": "RIKER",
+          "line": "I'd like to think so."
+        },
+        {
+          "character": "WORF",
+          "line": "Are you involved with her?"
+        },
+        {
+          "character": "RIKER",
+          "line": "I'm not sure yet. Why, are you interested?"
+        },
+        {
+          "character": "WORF",
+          "line": "No. But if I were, I would of course diskuss the situation with you before proceeding further."
+        },
+        {
+          "character": "RIKER",
+          "line": "I appreciate it, but that really wouldn't be necessary."
+        },
+        {
+          "character": "WORF",
+          "line": "I mean I would never want to come between you and someone you are involved with, or had ever been involved with."
+        },
+        {
+          "character": "RIKER",
+          "line": "Is there someone in particular that you're talking about?"
+        },
+        {
+          "character": "WORF",
+          "line": "No. Is there someone in particular you would rather I not be involved with?"
+        },
+        {
+          "character": "RIKER",
+          "line": "Mister Worf, you sound like a man who's asking his friend if he can start dating his sister."
+        },
+        {
+          "character": "WORF",
+          "line": "No, no, I was merely. Never mind. Excuse me, sir."
+        }
+      ],
+      "location": "Ten Forward"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TROI",
+          "line": "Could you open this door for me?"
+        },
+        {
+          "character": "WORF",
+          "line": "Yes, but only for a short time. After ninety seconds the plasma venting system will engage to prevent degradation of the forcefield."
+        },
+        {
+          "character": "TROI",
+          "line": "I just want to take a quick look."
+        },
+        {
+          "character": "WORF",
+          "line": "May I ask what you're looking for?"
+        },
+        {
+          "character": "TROI",
+          "line": "I'm not sure."
+        },
+        {
+          "character": "COMPUTER",
+          "line": "Warning plasma venting system will engage in ninety seconds."
+        },
+        {
+          "character": "WOMAN",
+          "line": "No! No, no, please. Please, please. No! Don't! No!"
+        },
+        {
+          "character": "COMPUTER",
+          "line": "Warning. Plasma venting system will engage in eighty seconds."
+        },
+        {
+          "character": "TROI",
+          "line": "Worf?"
+        },
+        {
+          "character": "TROI",
+          "line": "Worf?"
+        },
+        {
+          "character": "WORF",
+          "line": "Counselor, are you all right?"
+        },
+        {
+          "character": "TROI",
+          "line": "Let's get out of here."
+        }
+      ],
+      "location": "Nacelle control"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "PICARD",
+          "line": "Do you remember anything else?"
+        },
+        {
+          "character": "TROI",
+          "line": "Yes, I think I do. There was a tool crate on the floor. It was labeled Utopia Planitia."
+        },
+        {
+          "character": "DATA",
+          "line": "The shipyard where the Enterprise was built."
+        },
+        {
+          "character": "PICARD",
+          "line": "Clearly this was much more than an empathic echo. It seems that you were actually seeing something that happened in the control room eight years ago."
+        },
+        {
+          "character": "TROI",
+          "line": "Everyone was looking directly at me, but it was as though I was seeing through someone else's eyes."
+        },
+        {
+          "character": "DATA",
+          "line": "Lieutenant Kwan was partially empathic."
+        },
+        {
+          "character": "CRUSHER",
+          "line": "Maybe you were seeing it through his eyes?"
+        },
+        {
+          "character": "TROI",
+          "line": "It's possible, but I don't see how it could have happened."
+        },
+        {
+          "character": "PICARD",
+          "line": "Well, putting that on one side for the moment, let's assume that by some unexplained phenomenon, you witnessed an event that occurred to Lieutenant Kwan. Those faces that you saw. Did you recognize any of them?"
+        },
+        {
+          "character": "TROI",
+          "line": "I've never seen the woman before, or the man who was with her. But there was someone else there. A man. He was staring at me in the most peculiar way. I think he had reddish hair. And he did seem familiar to me. But it's all so hazy. It's like trying to remember a dream."
+        },
+        {
+          "character": "PICARD",
+          "line": "There was a woman who was frightened. And then you saw her again, laughing, presumably at Lieutenant Kwan."
+        },
+        {
+          "character": "CRUSHER",
+          "line": "What does it all mean?"
+        },
+        {
+          "character": "TROI",
+          "line": "I don't know, but something terrible happened in there. I felt it."
+        },
+        {
+          "character": "PICARD",
+          "line": "Counselor, I want you to look through the personnel files of Utopia Planitia. See if you can recognize any of those faces."
+        },
+        {
+          "character": "TROI",
+          "line": "If only I could go back to the control room without being overwhelmed by the experience. It might help me remember some detail that might be relevant."
+        },
+        {
+          "character": "CRUSHER",
+          "line": "I could give you an inhibitor that would slow the brain's production of psilosynine. That might be able to suppress your empathic abilities and make the experience more manageable. It would take about sixteen hours to synthesize the inhibitor."
+        },
+        {
+          "character": "TROI",
+          "line": "I'd like to try that."
+        },
+        {
+          "character": "PICARD",
+          "line": "Very well, Counselor."
+        }
+      ],
+      "location": "Observation lounge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "WORF",
+          "line": "I apologize for being late. The viral medicines we are transporting to Barson Two require special security measures to insure they are properly contained. Have you found anything?"
+        },
+        {
+          "character": "TROI",
+          "line": "No. There were literally thousands of people involved in building the Enterprise."
+        },
+        {
+          "character": "WORF",
+          "line": "Perhaps if you should try to narrow the search parameters."
+        },
+        {
+          "character": "TROI",
+          "line": "I think I have. The man who looked familiar to me may have served on board the Enterprise in the last seven years, so I've asked the computer to limit its search to personnel who served at Utopia Planitia and on the Enterprise."
+        },
+        {
+          "character": "TROI",
+          "line": "Ensign Salvatore. He transferred over a year ago. Lieutenant Ziff. She's in Quantum mechanics. That's him."
+        },
+        {
+          "character": "WORF",
+          "line": "Lieutenant Walter Pierce."
+        },
+        {
+          "character": "TROI",
+          "line": "I remember now. He came on board about six months ago. I think he's in Engineering."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "WORF",
+          "line": "You were Lieutenant Kwan's supervisor at Utopia Planitia?"
+        },
+        {
+          "character": "PIERCE",
+          "line": "That's right. I was sorry to hear what happened."
+        },
+        {
+          "character": "TROI",
+          "line": "Did you ever spend time in the nacelle control room while it was under construction?"
+        },
+        {
+          "character": "PIERCE",
+          "line": "I worked all over the ship. In fact, I remember running a power conduit right behind this wall here."
+        },
+        {
+          "character": "TROI",
+          "line": "Were you ever in the nacelle room at the same time as Lieutenant Kwan?"
+        },
+        {
+          "character": "PIERCE",
+          "line": "It was a long time ago. People were working all over the place."
+        },
+        {
+          "character": "WORF",
+          "line": "So you do not remember?"
+        },
+        {
+          "character": "PIERCE",
+          "line": "I'm sorry, I don't."
+        },
+        {
+          "character": "TROI",
+          "line": "Do you recall if anything unusual happened there?"
+        },
+        {
+          "character": "PIERCE",
+          "line": "How do you mean?"
+        },
+        {
+          "character": "TROI",
+          "line": "An altercation, perhaps. Possibly involving Lieutenant Kwan."
+        },
+        {
+          "character": "PIERCE",
+          "line": "No, nothing like that. The way I remember it, things went pretty smoothly. What's this all about, if you don't mind my asking?"
+        },
+        {
+          "character": "TROI",
+          "line": "Not at all. When I was in the nacelle room I had an empathic experience."
+        },
+        {
+          "character": "WORF",
+          "line": "We believe the Counselor may have been seeing an event that occurred eight years ago."
+        },
+        {
+          "character": "TROI",
+          "line": "And I saw you there. Do you have any idea why that might be?"
+        },
+        {
+          "character": "PIERCE",
+          "line": "I'm afraid I don't."
+        },
+        {
+          "character": "TROI",
+          "line": "Lieutenant, are you aware that I can sense when someone's telling the truth?"
+        },
+        {
+          "character": "PIERCE",
+          "line": "I've heard that."
+        },
+        {
+          "character": "TROI",
+          "line": "Then I'm sure that if you remember anything that might be relevant to our investigation, you'll contact me."
+        },
+        {
+          "character": "PIERCE",
+          "line": "Of course."
+        },
+        {
+          "character": "TROI",
+          "line": "Thank you, Lieutenant."
+        },
+        {
+          "character": "PIERCE",
+          "line": "Counselor."
+        }
+      ],
+      "location": "Engineering"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TROI",
+          "line": "The strange thing is I couldn't read him at all."
+        },
+        {
+          "character": "WORF",
+          "line": "But you implied that? We have played poker together many times. I've never known you to bluff."
+        },
+        {
+          "character": "TROI",
+          "line": "Well it wouldn't be much of a bluff if you knew, would it? The fact that I couldn't read him suggests that he has at least some telepathic ability."
+        },
+        {
+          "character": "WORF",
+          "line": "But Pierce is human."
+        },
+        {
+          "character": "TROI",
+          "line": "That's what I don't understand. Even though I couldn't read his emotions, I did feel that he was holding something back."
+        },
+        {
+          "character": "WORF",
+          "line": "I thought so as well."
+        },
+        {
+          "character": "TROI",
+          "line": "Maybe we should try to access the Engineering logs from Utopia Planitia. We might find out more about him."
+        },
+        {
+          "character": "WORF",
+          "line": "There may be something in them about Lieutenant Kwan as well."
+        }
+      ],
+      "location": "Corridor"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TROI",
+          "line": "It going to take about half an hour for the transmission to be completed."
+        },
+        {
+          "character": "WORF",
+          "line": "Perhaps we should continue this in the morning."
+        },
+        {
+          "character": "TROI",
+          "line": "It is late."
+        },
+        {
+          "character": "WORF",
+          "line": "Yes, and you must be tired."
+        },
+        {
+          "character": "TROI",
+          "line": "A little."
+        },
+        {
+          "character": "WORF",
+          "line": "So I will say goodnight."
+        },
+        {
+          "character": "TROI",
+          "line": "Goodnight."
+        },
+        {
+          "character": "WORF",
+          "line": "We should get an early start tomorrow."
+        },
+        {
+          "character": "TROI",
+          "line": "I think we should. I'll see you in the morning."
+        },
+        {
+          "character": "WORF",
+          "line": "Yes."
+        },
+        {
+          "character": "TROI",
+          "line": "Hello."
+        },
+        {
+          "character": "WORF",
+          "line": "Breakfast is ready."
+        },
+        {
+          "character": "TROI",
+          "line": "That sounds nice. But it can wait. Why didn't we do this a long time ago?"
+        },
+        {
+          "character": "CRUSHER",
+          "line": "Crusher to Counselor Troi.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "TROI",
+          "line": "Yes, Doctor."
+        }
+      ],
+      "location": "Troi's quarters"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "CRUSHER",
+          "line": "I've synthesized the inhibitor. Please come to Sickbay whenever you're ready."
+        }
+      ],
+      "location": "Sickbay"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TROI",
+          "line": "Acknowledged."
+        },
+        {
+          "character": "CRUSHER",
+          "line": "Crusher to Lieutenant Worf.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "WORF",
+          "line": "Worf, here."
+        },
+        {
+          "character": "CRUSHER",
+          "line": "Medical supplies are ready to be taken to cargo bay for transport.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "WORF",
+          "line": "I will be there shortly."
+        }
+      ],
+      "location": "Troi's quarters"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "CRUSHER",
+          "line": "This should take effect immediately."
+        },
+        {
+          "character": "TROI",
+          "line": "Will it completely suppress my empathic abilities?"
+        },
+        {
+          "character": "CRUSHER",
+          "line": "It's hard to say for sure, but I can always increase the dosage if it's not enough."
+        },
+        {
+          "character": "WORF",
+          "line": "The cargo bay will be off limits to all but medical personnel."
+        },
+        {
+          "character": "CALLOWAY",
+          "line": "Thanks for your help, sir."
+        },
+        {
+          "character": "WORF",
+          "line": "You're welcome."
+        },
+        {
+          "character": "TROI",
+          "line": "Good morning."
+        },
+        {
+          "character": "WORF",
+          "line": "Counselor."
+        },
+        {
+          "character": "TROI",
+          "line": "Data and Geordi are already in the nacelle tube. Are you ready?"
+        },
+        {
+          "character": "WORF",
+          "line": "Yes."
+        },
+        {
+          "character": "CALLOWAY",
+          "line": "Excuse me, sir. About the quarantine field in the cargo bay? It looks like we'll need a second field generator."
+        },
+        {
+          "character": "WORF",
+          "line": "I am needed here. I will join you as soon as I can."
+        },
+        {
+          "character": "TROI",
+          "line": "All right."
+        },
+        {
+          "character": "WORF",
+          "line": "Apparently my help was not so good after all."
+        },
+        {
+          "character": "CALLOWAY",
+          "line": "Yes, it was. You were wonderful."
+        },
+        {
+          "character": "WORF",
+          "line": "I think I know what's wrong."
+        }
+      ],
+      "location": "Sickbay"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "LAFORGE",
+          "line": "Counselor, you okay?"
+        },
+        {
+          "character": "TROI",
+          "line": "I'm fine. The inhibitor seems to be working. Have you found anything?"
+        },
+        {
+          "character": "LAFORGE",
+          "line": "No, nothing unusual."
+        },
+        {
+          "character": "TROI",
+          "line": "I don't remember seeing these during my empathic experience. Have they been here since the ship was built?"
+        },
+        {
+          "character": "DATA",
+          "line": "No, they were installled two years ago."
+        },
+        {
+          "character": "TROI",
+          "line": "Geordi, I remember seeing a plasma conduit right there."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "The main ODN line runs right behind that panel. It lifts out so you can get to it."
+        },
+        {
+          "character": "NARA",
+          "line": "Kwan was working on that conduit the day before he died."
+        },
+        {
+          "character": "TROI",
+          "line": "Can you open it?"
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Sure. It'll take just a minute."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Data."
+        },
+        {
+          "character": "TROI",
+          "line": "Lieutenant Nara, may I ask you something? The work Lieutenant Kwan was doing, was it unusual in any way?"
+        },
+        {
+          "character": "NARA",
+          "line": "He was refitting a field coil, but it was probably the first time that particular panel's been opened since the ship was built."
+        },
+        {
+          "character": "TROI",
+          "line": "Thank you."
+        }
+      ],
+      "location": "Nacelle control"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "WOMAN",
+          "line": "No!"
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Counselor, are you all right?"
+        },
+        {
+          "character": "TROI",
+          "line": "Something happened when you removed the panel. There's something in there."
+        },
+        {
+          "character": "DATA",
+          "line": "I am getting readings that indicate organic material embedded in this wall."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Organic? You're right. Let me reconfigure the emitter beam. We might be able to see what it is. There."
+        }
+      ],
+      "location": "Injector room"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "CRUSHER",
+          "line": "This dosage should prevent any further empathic flashes."
+        },
+        {
+          "character": "CALLOWAY",
+          "line": "The bone fragments are definitely human. I sequenced a DNA sample. I'll see if I can match it to Starfleet records."
+        },
+        {
+          "character": "CALLOWAY",
+          "line": "Accessing Starfleet personnel records."
+        },
+        {
+          "character": "CRUSHER",
+          "line": "I'd say these fragments had been in the wall about seven or eight years. You said something happened when the panel was opened."
+        },
+        {
+          "character": "TROI",
+          "line": "Yes."
+        },
+        {
+          "character": "CRUSHER",
+          "line": "I wonder if the fragments themselves could have somehow triggered your experience. I'll run a resonance scan, see if anything turns up."
+        },
+        {
+          "character": "CALLOWAY",
+          "line": "Sir, I think we've found a match."
+        },
+        {
+          "character": "WORF",
+          "line": "Apparently the remains are those of an Ensign Marla Finn."
+        },
+        {
+          "character": "CALLOWAY",
+          "line": "I'm trying to find a picture of her in the records."
+        },
+        {
+          "character": "TROI",
+          "line": "That's her. That's the woman I saw."
+        },
+        {
+          "character": "CRUSHER",
+          "line": "It says she was reported missing from Utopia Planitia on stardate 40987.2. Eight years ago. But how did her body become embedded in a bulkhead?"
+        },
+        {
+          "character": "CALLOWAY",
+          "line": "Maybe there was some kind of an accident."
+        },
+        {
+          "character": "WORF",
+          "line": "Or she was killed and the murderer hid her remains."
+        },
+        {
+          "character": "TROI",
+          "line": "Something's not right. Pull up Lieutenant Kwan's service record. I thought so. He didn't arrive at the shipyard until six months after Finn's death. I couldn't have been seeing through his eyes."
+        },
+        {
+          "character": "CRUSHER",
+          "line": "Then whose?"
+        },
+        {
+          "character": "TROI",
+          "line": "Well it had to be someone who was at least partially telepathic."
+        },
+        {
+          "character": "WORF",
+          "line": "Pierce?"
+        },
+        {
+          "character": "CRUSHER",
+          "line": "But you saw him there."
+        },
+        {
+          "character": "TROI",
+          "line": "Yes, but not as clearly as I could see everything else. His face looked like that."
+        },
+        {
+          "character": "CRUSHER",
+          "line": "A reflection."
+        },
+        {
+          "character": "TROI",
+          "line": "So I was seeing through his eyes. And Finn was trying to get away from him. She was afraid of him."
+        },
+        {
+          "character": "WORF",
+          "line": "I think it is time we had another conversation with Lieutenant Pierce. Ensign Calloway, thank you for your help."
+        }
+      ],
+      "location": "Sickbay"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "WORF",
+          "line": "Deck ten."
+        },
+        {
+          "character": "TROI",
+          "line": "Worf, can I ask you something? Do you regret what happened last night?"
+        },
+        {
+          "character": "WORF",
+          "line": "No, of course not."
+        },
+        {
+          "character": "TROI",
+          "line": "Are you sure? Because I don't want anything to jeopardize our friendship."
+        },
+        {
+          "character": "WORF",
+          "line": "Deanna, I do not regret being with you. What is wrong?"
+        },
+        {
+          "character": "TROI",
+          "line": "I'm not feeling myself. Maybe it's the inhibitor. I'm so used to sensing what people are feeling, and now I can't."
+        },
+        {
+          "character": "WORF",
+          "line": "Perhaps I should talk to Lieutenant Pierce alone."
+        },
+        {
+          "character": "TROI",
+          "line": "That might be a good idea."
+        },
+        {
+          "character": "WORF",
+          "line": "I will meet you in your quarters later."
+        },
+        {
+          "character": "TROI",
+          "line": "I'll be waiting for you."
+        },
+        {
+          "character": "TROI",
+          "line": "Deck eight."
+        }
+      ],
+      "location": "Turbolift"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TROI",
+          "line": "Come in."
+        },
+        {
+          "character": "TROI",
+          "line": "Security to Counselor Troi's quarters."
+        },
+        {
+          "character": "SECURITY",
+          "line": "Acknowledged.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "PIERCE",
+          "line": "I don't understand. Lieutenant Worf said you wanted to talk to me about something."
+        },
+        {
+          "character": "TROI",
+          "line": "Where is he?"
+        },
+        {
+          "character": "PIERCE",
+          "line": "He said he had to go somewhere."
+        },
+        {
+          "character": "TROI",
+          "line": "Troi to Worf. Computer, where is Lieutenant Worf?"
+        },
+        {
+          "character": "COMPUTER",
+          "line": "Lieutenant Worf is in Ensign Calloway's quarters.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "CREWWOMAN",
+          "line": "Counselor?"
+        },
+        {
+          "character": "TROI",
+          "line": "Take Lieutenant Pierce to his quarters and hold him there."
+        }
+      ],
+      "location": "Troi's quarters"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TROI",
+          "line": "Security override, authorisation Troi Delta two nine."
+        }
+      ],
+      "location": "Corridor"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TROI",
+          "line": "Stop it. Stop it! Stop it!"
+        },
+        {
+          "character": "CALLOWAY",
+          "line": "He's dead! You killed him!"
+        },
+        {
+          "character": "TROI",
+          "line": "No! No!"
+        }
+      ],
+      "location": "Calloway's quarters"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "PIERCE",
+          "line": "You know what you have to do."
+        }
+      ],
+      "location": "Corridor"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TROI",
+          "line": "I know what I have to do."
+        },
+        {
+          "character": "WORF",
+          "line": "What are you doing?"
+        },
+        {
+          "character": "COMPUTER",
+          "line": "Warning. Plasma venting system will engage in seventy seconds."
+        },
+        {
+          "character": "TROI",
+          "line": "You're alive! You're all right!"
+        }
+      ],
+      "location": "Nacelle control"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "WORF",
+          "line": "I opened the maintenance door at Counselor Troi's request, then turned to see her standing too close to the force field."
+        },
+        {
+          "character": "TROI",
+          "line": "It all seemed so real to me. I can't believe that everything I experienced happened in just those few seconds."
+        },
+        {
+          "character": "DATA",
+          "line": "It appears Counselor was correct. Pierce was partially telepathic. His maternal grandmother was born on Betazed."
+        },
+        {
+          "character": "PICARD",
+          "line": "What else have you found out?"
+        },
+        {
+          "character": "DATA",
+          "line": "According to Starfleet records, Pierce and the other persons Counselor Troi identified, were killed in an accidental plasma discharge eight years ago. Their bodies were never found."
+        },
+        {
+          "character": "TROI",
+          "line": "I don't believe it was an accident. I think Lieutenant Pierce found out the other two were having an affair. He lost control and he killed them both. Afterwards, he probably activated the plasma stream and then threw himself into it."
+        },
+        {
+          "character": "WORF",
+          "line": "The plasma discharge would have obliterated any evidence that it was murder."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "I scanned behind the panel Counselor Troi asked me to. I didn't find any bone fragments but I did find some traces of cellular residue showing some kind of psionic signature."
+        },
+        {
+          "character": "TROI",
+          "line": "It may be that when Lieutenant Pierce was struck by the plasma stream, the subspace energy present there imprinted his empathic pattern into the residue."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Kind of like a psychic photograph."
+        },
+        {
+          "character": "TROI",
+          "line": "That's what triggered my hallucination. My mind must have taken elements from my own life and then created a situation that in many ways mirrored what happened to Pierce. If you hadn't been there, I would have jumped just like he did."
+        }
+      ],
+      "location": "Observation lounge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "WORF",
+          "line": "Counselor. When I pulled you from the plasma stream, you seemed surprised I was alive."
+        },
+        {
+          "character": "TROI",
+          "line": "Well, actually, in my hallucination, you were killed."
+        },
+        {
+          "character": "WORF",
+          "line": "May I ask by whom?"
+        },
+        {
+          "character": "TROI",
+          "line": "Well, you know what they say, Mister Worf. Hell hath no fury like a woman scorned."
+        }
+      ],
+      "location": "Bridge"
+    }
+  ],
+  "schedule": {
+    "episode": 18,
+    "number": 170,
+    "season": 7
+  },
+  "stardate": "47622.1",
+  "title": "Eye Of The Beholder"
+}

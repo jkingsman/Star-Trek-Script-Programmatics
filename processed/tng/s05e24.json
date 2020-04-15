@@ -1,0 +1,1646 @@
+{
+  "airdate": 706161600,
+  "scenes": [
+    {
+      "dialogue": [
+        {
+          "character": "PICARD",
+          "line": "Time, Mister Data?"
+        },
+        {
+          "character": "DATA",
+          "line": "We will arrive within transporter range in three minutes twenty one seconds."
+        },
+        {
+          "character": "MCDOWELL",
+          "line": "I've finally established audio contact with the Romulan ship."
+        },
+        {
+          "character": "ROMULAN",
+          "line": "Main power failing. No way to stop the overload.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "PICARD",
+          "line": "Enterprise to Romulan vessel. We are en route to your position."
+        },
+        {
+          "character": "ROMULAN",
+          "line": "Enterprise, what is your time of arrival? We are facing an imminent core breach.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "PICARD",
+          "line": "Repeat your last transmission."
+        },
+        {
+          "character": "MCDOWELL",
+          "line": "I'm sorry, Captain. They've stopped transmitting."
+        },
+        {
+          "character": "PICARD",
+          "line": "Picard to Riker."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "RIKER",
+          "line": "Riker here."
+        },
+        {
+          "character": "PICARD",
+          "line": "Transport to the Romulan ship as soon as we're within range."
+        },
+        {
+          "character": "RIKER",
+          "line": "Aye, sir. No weapons. We don't want them to think they're under attack."
+        },
+        {
+          "character": "RO",
+          "line": "This is not a bright idea."
+        },
+        {
+          "character": "RIKER",
+          "line": "I beg your pardon, Ensign. I didn't quite catch that."
+        },
+        {
+          "character": "RO",
+          "line": "Nothing, sir."
+        }
+      ],
+      "location": "Transporter room"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "VOICES",
+          "line": "All main thrusters are shut down. Your information is unreliable. The AH is inoperative. Give me a hand here.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "RIKER",
+          "line": "We're from the Federation Starship Enterprise. We received your distress call."
+        },
+        {
+          "character": "MIROK",
+          "line": "The Enterprise?"
+        },
+        {
+          "character": "RIKER",
+          "line": "That's right. Your message said you'd suffered a failure in your engine core."
+        },
+        {
+          "character": "MIROK",
+          "line": "Yes. We had a forced chamber explosion in the resonator coil."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "It's a pretty strange set up, but it looks like the graviton field generator has been completely depolarized. There's no way to fix it. It'll have to be replaced."
+        },
+        {
+          "character": "RIKER",
+          "line": "Where are your replicators?"
+        },
+        {
+          "character": "VAREL",
+          "line": "They are offline."
+        },
+        {
+          "character": "RIKER",
+          "line": "Who's in charge here?"
+        },
+        {
+          "character": "MIROK",
+          "line": "The Captain is dead. I'm the science officer. Mirok."
+        },
+        {
+          "character": "RIKER",
+          "line": "We'd like to move the generator back to the Enterprise for replication."
+        },
+        {
+          "character": "MIROK",
+          "line": "All right."
+        },
+        {
+          "character": "RIKER",
+          "line": "Geordi, you and Ro."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "La Forge to Brossmer. Two people and one piece of equipment to beam aboard."
+        }
+      ],
+      "location": "Romulan Engineering"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "BROSSMER",
+          "line": "Aye, sir."
+        },
+        {
+          "character": "BROSSMER",
+          "line": "What the hell? Engineering, I need more power to the primary energizing coil. Brossmer to Commander Riker. I'm losing them I have to abort."
+        }
+      ],
+      "location": "Transporter room"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "BROSSMER",
+          "line": "They should be returning to your coordinates, sir.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "RIKER",
+          "line": "Chief, do you have them? They're not here."
+        },
+        {
+          "character": "BROSSMER",
+          "line": "No, sir.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "RIKER",
+          "line": "Where are they?"
+        }
+      ],
+      "location": "Romulan Engineering"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "BROSSMER",
+          "line": "I can't locate their patterns."
+        }
+      ],
+      "location": "Transporter room"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "BROSSMER",
+          "line": "We've lost them, sir.",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "Romulan Engineering"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "BROSSMER",
+          "line": "I've done all I can, sir. I'm afraid they're gone.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "PICARD",
+          "line": "Mister Data, begin a level one diagnostic. All transporter systems offline until further notice. Could they have materialized somewhere else?"
+        },
+        {
+          "character": "DATA",
+          "line": "Negative, Captain. Sensors are unable to locate them anywhere within transporter range."
+        },
+        {
+          "character": "PICARD",
+          "line": "Counselor?"
+        },
+        {
+          "character": "RIKER",
+          "line": "Riker to Enterprise.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "PICARD",
+          "line": "Go ahead, Number One."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "RIKER",
+          "line": "Captain, we're still looking at a core breach unless we can fashion a new graviton generator."
+        }
+      ],
+      "location": "Romulan Engineering"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "RIKER",
+          "line": "I need replacement personnel, sir.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "PICARD",
+          "line": "Mister Data, you may continue the diagnostic of the transporter systems at another time. Take a shuttlecraft and two more engineers down to the Romulan ship."
+        },
+        {
+          "character": "DATA",
+          "line": "Aye, sir."
+        },
+        {
+          "character": "PICARD",
+          "line": "Mister McDowell, alert the main shuttlebay to have all available ships and pilots standing by in case we need them."
+        },
+        {
+          "character": "MCDOWELL",
+          "line": "Aye, sir."
+        },
+        {
+          "character": "PICARD",
+          "line": "Ensign, lay in a course away from the Romulan vessel. Engage at warp one if you detect any sign it's going to explode."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "MIROK",
+          "line": "Pressure in the containment chamber has increased fifteen melakols in the last two minutes."
+        },
+        {
+          "character": "RIKER",
+          "line": "What can we do to stop the overload?"
+        },
+        {
+          "character": "MIROK",
+          "line": "Most of the conduits were damaged during the explosion. I can't even access the central computer."
+        },
+        {
+          "character": "WORF",
+          "line": "Commander. Emergency bulkheads have sealed this section off from the rest of the ship. There is no way to gain access to the main Bridge or control centers."
+        },
+        {
+          "character": "RIKER",
+          "line": "Survivors?"
+        },
+        {
+          "character": "WORF",
+          "line": "Readings indicate at least seventy three Romulans are still alive."
+        },
+        {
+          "character": "VAREL",
+          "line": "Seventy three."
+        },
+        {
+          "character": "MIROK",
+          "line": "The pressure has jumped two hundred melakols!"
+        },
+        {
+          "character": "VAREL",
+          "line": "I've lost control of the containment chamber."
+        },
+        {
+          "character": "MIROK",
+          "line": "It's going to implode."
+        },
+        {
+          "character": "RIKER",
+          "line": "We'll need to dump the entire engine core. Do you have an auto-eject system?"
+        },
+        {
+          "character": "MIROK",
+          "line": "Yes, but it's not functioning. I'll have to do it manually."
+        },
+        {
+          "character": "RIKER",
+          "line": "Mister Worf, you two seal the chamber."
+        },
+        {
+          "character": "VAREL",
+          "line": "Implosion will occur in one minute five seconds."
+        },
+        {
+          "character": "RIKER",
+          "line": "Enterprise, we need to jettison the entire engine core. You'll need to extend the shields once it clears the hull."
+        },
+        {
+          "character": "PICARD",
+          "line": "Understood, Number One. We'll stand by for your signal.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "WORF",
+          "line": "We must get the doors closed."
+        },
+        {
+          "character": "WORF",
+          "line": "Commander!"
+        },
+        {
+          "character": "RIKER",
+          "line": "Time?"
+        },
+        {
+          "character": "VAREL",
+          "line": "Thirty seconds."
+        },
+        {
+          "character": "MIROK",
+          "line": "I'm ready, Commander."
+        },
+        {
+          "character": "RIKER",
+          "line": "Stay there! Eject the chamber on my order!"
+        },
+        {
+          "character": "DATA",
+          "line": "Excuse me, sir."
+        },
+        {
+          "character": "MIROK",
+          "line": "Implosion in five seconds)"
+        },
+        {
+          "character": "RIKER",
+          "line": "Now."
+        },
+        {
+          "character": "RIKER",
+          "line": "Enterprise, extend shields!"
+        },
+        {
+          "character": "RIKER",
+          "line": "Well, we're still here."
+        },
+        {
+          "character": "MIROK",
+          "line": "Yes."
+        }
+      ],
+      "location": "Romulan Engineering"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "RIKER",
+          "line": "We'll have a complete power survey done within the hour. We'll probably have to supply them with energy for life support, and they'll need a new engine core to get home.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "PICARD",
+          "line": "Understood, Commander. Keep us informed of your efforts. Picard out. I'll be in Sickbay."
+        },
+        {
+          "character": "MCDOWELL",
+          "line": "Aye, sir."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "RO",
+          "line": "Ensign Ro to the Bridge. This is Ensign Ro reporting in. I'm at section twenty three baker, near Sickbay. Sickbay."
+        }
+      ],
+      "location": "Corridor"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "RO",
+          "line": "Excuse me, I need some help. Excuse me? Excuse me, I need some help."
+        },
+        {
+          "character": "RO",
+          "line": "Excuse me! I need some help!"
+        }
+      ],
+      "location": "Sickbay"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "CRUSHER",
+          "line": "We shouldn't make any hasty decisions, Jean-Luc. The transporter could've beamed them somewhere else. The Romulan ship, another deck of the Enterprise."
+        },
+        {
+          "character": "PICARD",
+          "line": "We've already checked those possibilities. The initial findings would seen to indicate that there was a radiation surge from the Romulan engine core which disrupted the signal. They never rematerialized."
+        },
+        {
+          "character": "CRUSHER",
+          "line": "We should check again. There might be something that we've overlooked and"
+        },
+        {
+          "character": "PICARD",
+          "line": "Beverly, we've done everything that we can."
+        },
+        {
+          "character": "CRUSHER",
+          "line": "You're right. I just hate making out death certificates. Does Ensign Ro have any family?"
+        },
+        {
+          "character": "RO",
+          "line": "Captain, I'm right here."
+        },
+        {
+          "character": "PICARD",
+          "line": "None that I know of, but I'll check with the Bajoran liaison Office."
+        },
+        {
+          "character": "RO",
+          "line": "I'm not dead!"
+        },
+        {
+          "character": "CRUSHER",
+          "line": "I'll have the official reports ready within the hour."
+        },
+        {
+          "character": "RO",
+          "line": "Captain, I don't know what's going on"
+        },
+        {
+          "character": "RO",
+          "line": "Doctor. Doctor Crusher. Doctor Crusher, I'm right here. Damn it."
+        }
+      ],
+      "location": "Crusher's office"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "MIROK",
+          "line": "We're ready, Commander."
+        },
+        {
+          "character": "RIKER",
+          "line": "Riker to Enterprise. Begin power transfer."
+        },
+        {
+          "character": "MIROK",
+          "line": "The power flow is consistent at four hundred kolems. No fluctuations in frequency. The main power grid is online."
+        },
+        {
+          "character": "PICARD",
+          "line": "Picard to Riker.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "RIKER",
+          "line": "Riker here. Power transfer appears stable at this end, Captain."
+        },
+        {
+          "character": "PICARD",
+          "line": "Good.",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "Romulan Engineering"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "PICARD",
+          "line": "What is the status of the engine replacement?"
+        },
+        {
+          "character": "RIKER",
+          "line": "Engineering is modifying one of our subspace resonators to act as a new engine core. It won't do more than warp two, but it'll get them home.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "PICARD",
+          "line": "Very well."
+        },
+        {
+          "character": "DATA",
+          "line": "Captain. The diagnostic of the transporter system shows an anomalous energy fluctuation. I will need to inspect the imaging scanner in transporter room three."
+        },
+        {
+          "character": "PICARD",
+          "line": "By all means."
+        },
+        {
+          "character": "DATA",
+          "line": "Captain? I have a personal favor to ask. I considered Commander La Forge to be my best friend. I believe it is my responsibility to plan and conduct the memorial service. May I have your permission to do so?"
+        },
+        {
+          "character": "PICARD",
+          "line": "Permission granted. Make whatever arrangements you think are appropriate."
+        },
+        {
+          "character": "DATA",
+          "line": "Thank you, sir."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "WORF",
+          "line": "Commander, the the Romulans want a computer. We cannot give them access to Federation technology. That is an unacceptable security risk."
+        },
+        {
+          "character": "RIKER",
+          "line": "What about a computer core from thirty or forty years ago? One the Romulans are already familiar with."
+        },
+        {
+          "character": "WORF",
+          "line": "That would be satisfactory."
+        },
+        {
+          "character": "RIKER",
+          "line": "Check with the Enterprise, see what's available. Be sure your concern are addressed before we installl it."
+        },
+        {
+          "character": "WORF",
+          "line": "Aye, sir. Thank you."
+        }
+      ],
+      "location": "Romulan Engineering"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "RO",
+          "line": "La Forge?"
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Ro. Boy, am I glad to see you. And I'm really glad that you can see me. It's like I'm here, but I'm not here."
+        },
+        {
+          "character": "RO",
+          "line": "No one can see me either."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "I can't figure it out. One minute we were transporting from the Romulan vessel, and the next I wake up in the arboretum with a splitting headache. Can you pass through things like bulkheads?"
+        },
+        {
+          "character": "RO",
+          "line": "Tables, people, yeah."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Well, we're solid enough to each other."
+        },
+        {
+          "character": "RO",
+          "line": "It's not what you expected, is it."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "What do you mean?"
+        },
+        {
+          "character": "RO",
+          "line": "This. Death."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "What?"
+        },
+        {
+          "character": "RO",
+          "line": "We're dead, Geordi."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Is that some kind of a joke?"
+        },
+        {
+          "character": "RO",
+          "line": "Our patterns were lost in a transporter malfunction. We never rematerialized after leaving the Romulan ship."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Wait a minute. What are you saying, that we're some sort of spirits?"
+        },
+        {
+          "character": "RO",
+          "line": "Spirits, souls. My people used to call them borhyas. Whatever term you want to use, we're it."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "But my uniform, my visor. Are you saying I'm some blind ghost with clothes?"
+        },
+        {
+          "character": "RO",
+          "line": "I don't have all the answers. I've never been dead before."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "We are not dead."
+        },
+        {
+          "character": "RO",
+          "line": "According to Doctor Crusher, we died in a transporter malfunction at fourteen thirty hours. Geordi, I saw her make out the death certificates. We need to make peace with our former lives. That's what I was taught. We have to say goodbye to the people who were in our lives."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "No. You may be ready for the afterlife, but I'm not."
+        },
+        {
+          "character": "RO",
+          "line": "I don't see that we have much of a choice. When I was growing up, I never gave much thought to all the talk about borhyas. I figured that it was just superstition passed on to children."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Fine. You go make peace with yourself, all right? I'm going to transporter room three. I'm going to figure a way out of this situation."
+        }
+      ],
+      "location": "Engineering"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "BROSSMER",
+          "line": "I didn't have any warning that something would go wrong, sir. Suddenly their patterns just weren't there."
+        },
+        {
+          "character": "DATA",
+          "line": "I believe the cause of the accident may be related to the explosion on the Romulan ship."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Really?"
+        },
+        {
+          "character": "BROSSMER",
+          "line": "But that happened before we even arrived."
+        },
+        {
+          "character": "DATA",
+          "line": "In all likelihood, the explosion damaged the Romulan cloaking device, causing it to discharge chroniton particles. I am detecting a chroniton field in here."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "A chroniton field?"
+        },
+        {
+          "character": "BROSSMER",
+          "line": "If the particles were produced on the Romulan ship, why are you detecting them here?"
+        },
+        {
+          "character": "LAFORGE",
+          "line": "The transporter beam."
+        },
+        {
+          "character": "DATA",
+          "line": "I suspect they traveled through the transporter beam. That may have been the cause of Geordi and Ro's death. I will go to the Romulan ship. Perhaps I can diskover the source of the emissions."
+        },
+        {
+          "character": "BROSSMER",
+          "line": "Commander, are these chronitons dangerous?"
+        },
+        {
+          "character": "DATA",
+          "line": "They pose no danger to humans. However, some of the ship's systems may be affected by prolonged exposure. When I return I will devise a method to eradicate them."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "La Forge to Ensign Ro."
+        }
+      ],
+      "location": "Transporter room"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "RO",
+          "line": "Thanks for the ride. I'm here to say goodbye."
+        },
+        {
+          "character": "RIKER",
+          "line": "There are a lot of what appear to be experimental engine components lying around over there. I'd say they were testing a new warp drive design and it blew up in their faces."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "PICARD",
+          "line": "That would explain why they're so far away from Romulan space. To avoid being picked up on Federation long range scans."
+        },
+        {
+          "character": "RIKER",
+          "line": "We should have an engine core ready for them by nineteen hundred hours."
+        },
+        {
+          "character": "PICARD",
+          "line": "Commander, there'll be a memorial service at twenty three hundred hours this evening. Mister Data is making arrangements."
+        },
+        {
+          "character": "RIKER",
+          "line": "I'll be there."
+        },
+        {
+          "character": "RO",
+          "line": "Me, too."
+        },
+        {
+          "character": "RIKER",
+          "line": "In fact I might like to say a few words."
+        },
+        {
+          "character": "PICARD",
+          "line": "You did know La Forge longer than any of us."
+        },
+        {
+          "character": "RIKER",
+          "line": "Actually, I was thinking more about Ensign Ro."
+        },
+        {
+          "character": "RO",
+          "line": "Me?"
+        },
+        {
+          "character": "PICARD",
+          "line": "When you're ready, coordinate with Mister Data."
+        },
+        {
+          "character": "RO",
+          "line": "Wait a minute. What are you going to say about me?"
+        },
+        {
+          "character": "RO",
+          "line": "Captain. I don't believe this. I'm dead. you can't even hear me and I'm still intimidated by you. I just wanted to say thank you. For trusting in me when no one else would."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Hey, there you are. Excuse me, Captain. Listen, Data's taking the next shuttle over to the Romulan vessel and we need to be on it."
+        },
+        {
+          "character": "RO",
+          "line": "Why?"
+        },
+        {
+          "character": "LAFORGE",
+          "line": "because I think what happened to us, the answers are over there."
+        },
+        {
+          "character": "RO",
+          "line": "Why can't you just accept the fact"
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Look, if you're right then we're dead and this doesn't make any difference. But if I'm right, then we're still alive and I'm going to need your help."
+        }
+      ],
+      "location": "Ready room"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "DATA",
+          "line": "Lieutenant, I am planning a memorial service for Commander La Forge and Ensign Ro. I would like you to participate."
+        },
+        {
+          "character": "WORF",
+          "line": "What kind of service?"
+        },
+        {
+          "character": "DATA",
+          "line": "Captain Picard asked me to arrange a ceremony that was appropriate. I have given a great deal of thought as to what is appropriate in this instance."
+        },
+        {
+          "character": "WORF",
+          "line": "Sir, shuttlecraft four has not yet cleared the Romulan ship."
+        },
+        {
+          "character": "DATA",
+          "line": "Hold position here."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "This is weird, listening to them plan our funeral."
+        },
+        {
+          "character": "DATA",
+          "line": "I find I am having difficulty deciding what kind of service to have. Do you have any suggestions?"
+        },
+        {
+          "character": "WORF",
+          "line": "Human custom is to conduct a solemn, dignified service in which the dead are praised by their friends and loved ones."
+        },
+        {
+          "character": "DATA",
+          "line": "Ensign Ro was Bajoran. Her beliefs should be reflected as well. However their death rituals are quite complicated."
+        },
+        {
+          "character": "RO",
+          "line": "Please, not the Death Chant."
+        },
+        {
+          "character": "WORF",
+          "line": "The Bajoran Death Chant is over two hours long."
+        },
+        {
+          "character": "DATA",
+          "line": "I am not certain that either human or Bajoran rites are fitting, and I have researched the funerary customs of over five thousand cultures to no avail."
+        },
+        {
+          "character": "WORF",
+          "line": "Shuttlecraft four has just cleared."
+        },
+        {
+          "character": "DATA",
+          "line": "Resume course. In almost all societies, it is traditional to say a ritual farewell to those you call friends. I never knew what a friend was until I met Geordi. He spoke to me as though I were human. He treated me no differently from anyone else. He accepted me for what I am. And that, I have learned, is friendship. But I do not know how to say goodbye."
+        },
+        {
+          "character": "RO",
+          "line": "He seems almost human, doesn't he."
+        },
+        {
+          "character": "WORF",
+          "line": "Commander, I am not the proper person to advise you."
+        },
+        {
+          "character": "DATA",
+          "line": "Why?"
+        },
+        {
+          "character": "WORF",
+          "line": "I am very happy for Commander La Forge. He has crossed over to that which is beyond. For a Klingon, this is a joyful time. A friend has died in the line of duty and he has earned a place among the honored dead. It is not a time to mourn."
+        },
+        {
+          "character": "DATA",
+          "line": "Begin docking procedure."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Data, that's a nice sentiment, but a little premature. I don't plan on being commemorated before my time."
+        }
+      ],
+      "location": "Shuttlecraft"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "MIROK",
+          "line": "I'm afraid I fail to see the point of this investigation, Commander."
+        },
+        {
+          "character": "DATA",
+          "line": "Chroniton emissions may have been responsible for the accident which claimed the lives of our officers."
+        },
+        {
+          "character": "VAREL",
+          "line": "A most regrettable event, of course."
+        },
+        {
+          "character": "DATA",
+          "line": "Was your cloaking device damaged in the explosion?"
+        },
+        {
+          "character": "MIROK",
+          "line": "All of our systems were damaged, including the cloaking device."
+        },
+        {
+          "character": "DATA",
+          "line": "That explains the chroniton fields I am detecting in here now. For your own safety, it is important to eliminate those emissions."
+        },
+        {
+          "character": "VAREL",
+          "line": "Our safety?"
+        },
+        {
+          "character": "DATA",
+          "line": "There is no way to predict what will happen when the chronitons interact with the new engine core."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "I've never seen anything like this. There's something in here that looks like a molecular phase inverter."
+        },
+        {
+          "character": "RO",
+          "line": "What's that?"
+        },
+        {
+          "character": "LAFORGE",
+          "line": "It's supposed to change the structure of matter so it can pass through normal matter and energy. Hang on a second. A few years back, we got intelligence reports that the Klingons were working on trying to combine a phase inverter and a cloaking device. In theory, they believed that a phased ship could hide anywhere, even inside a planet, and that conventional weapons would be useless against it."
+        },
+        {
+          "character": "RO",
+          "line": "How far did they get in their research?"
+        },
+        {
+          "character": "LAFORGE",
+          "line": "It never got out of the preliminary stages. There were several accidents. The Romulans might be pursuing the same technology, trying to combine an inverter and a cloaking device. And if this is the prototype"
+        },
+        {
+          "character": "RO",
+          "line": "Then that would explain the explosion and the chroniton fields."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "And us."
+        },
+        {
+          "character": "RO",
+          "line": "You mean we're cloaked?"
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Not just cloaked, phased. Our entire molecular structure altered so that we don't have any substance."
+        },
+        {
+          "character": "RO",
+          "line": "Then that would mean we're not dead."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Yes. It would also mean that there's probably a way to de-phase us."
+        },
+        {
+          "character": "DATA",
+          "line": "The field emissions are particularly strong in this area."
+        },
+        {
+          "character": "MIROK",
+          "line": "You can be assured that the emissions will be eliminated before the engine core is replaced."
+        },
+        {
+          "character": "WORF",
+          "line": "Commander, may I speak with you?"
+        },
+        {
+          "character": "VAREL",
+          "line": "If they come back they're going to diskover the interphase generator."
+        },
+        {
+          "character": "MIROK",
+          "line": "Is their power transfer beam still at full intensity?"
+        },
+        {
+          "character": "VAREL",
+          "line": "Yes. It will be until we're ready to switch to internal power."
+        },
+        {
+          "character": "MIROK",
+          "line": "We will set up a muon feedback wave inside the transfer beam. The particles will accumulate in their dilithium chamber. When they go to warp speed, their engines will explode."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "We've got to get to the Enterprise and warn them."
+        },
+        {
+          "character": "RO",
+          "line": "How?"
+        },
+        {
+          "character": "LAFORGE",
+          "line": "I don't know, but we have to find a way. Come on."
+        }
+      ],
+      "location": "Romulan Engineering"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "RO",
+          "line": "The muon feedback wave's not showing up on any of the engine displays."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "The Romulans must be hiding it in a sensor return signal. Unless someone runs a level three diagnostic, they'd never detect it. There must be a way to warn them before the ship goes to warp."
+        },
+        {
+          "character": "DATA",
+          "line": "This is puzzling. Three more chroniton fields have formed aboard the Enterprise in the last hour."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "There's no reason why the interphase device would be producing new fields aboard this ship."
+        },
+        {
+          "character": "DATA",
+          "line": "We should begin decontamination immediately. Run an internal sensor sweep for locations of all chroniton fields on the Enterprise."
+        },
+        {
+          "character": "BROSSMER",
+          "line": "Aye, sir. The following areas are showing contamination. Sickbay, Transporter room three, main Bridge, Captain's Ready room, shuttlebay two, and main Engineering."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Ro, look at this."
+        },
+        {
+          "character": "DATA",
+          "line": "I do not understand how these new fields have formed. No transporter beam has been active in any of those areas. I cannot see that they have anything in common."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Oh, yes they do."
+        },
+        {
+          "character": "DATA",
+          "line": "In fact, they seem to be appearing at random."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "No, they're not. We were in every one of those locations. Somehow we're leaving chroniton footprints behind us."
+        },
+        {
+          "character": "DATA",
+          "line": "Can you narrow the focus of the scan to pinpoint the locations?"
+        },
+        {
+          "character": "BROSSMER",
+          "line": "Not with the internal sensors, Commander."
+        },
+        {
+          "character": "DATA",
+          "line": "Go to science station two on the main Bridge. Use a lateral sensor array to get a more precise reading. I will modify an anyon emitter to eliminate the fields once they've been isolated."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Why don't you go with her and see what the lateral sensors turn up. I'll stay here with Data."
+        },
+        {
+          "character": "RO",
+          "line": "Right."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Well that's interesting. You're reading chroniton readings in here, but not from me? There's a field in this wall? Why? Data, I came through this wall. I walked right through it when I came in here. When the phased matter in my body passed through the wall, it must've disrupted the wall's molecular structure producing a chroniton field. Data, I'm right here that's me you're reading. Watch."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Come on, it's me. You see?"
+        }
+      ],
+      "location": "Engineering"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "PAREM",
+          "line": "Do not move. Yes, I can see you."
+        },
+        {
+          "character": "RO",
+          "line": "Who are you?"
+        },
+        {
+          "character": "PAREM",
+          "line": "Where is the scientific officer? The one like us. The one who came with you to our ship. He spoke of a plan to return to normal. Yes, this disruptor works. I was wearing it when I was changed. Now, where is he?"
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "LAFORGE",
+          "line": "Data, stop being so rational. Try using your imagination once in a while. These aren't just random patterns, it's me!"
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Hey, watch where you point that thing. Wait a minute, Data, I think you did something here . It's not so easy to push through any more. The molecules in my hand must have been partially de-phased by the anyon beam. Data, if a low level beam can bring my hand part of the way back, maybe a high level beam can bring me all of the way back. I'll just have to get you to turn up the beam intensity so that. Hey, wait a minute, don't stop now. No, no, no. Data, don't give up on it. It works, I was just creating more fields. Your method is fine. You just need to turn up the intensity, Data."
+        }
+      ],
+      "location": "Engineering"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "RO",
+          "line": "He's in here."
+        }
+      ],
+      "location": "Corridor"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "BROSSMER",
+          "line": "Brossmer to Commander Data.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "DATA",
+          "line": "Data here."
+        },
+        {
+          "character": "BROSSMER",
+          "line": "I've just detected a large chroniton field on deck seventeen. The field strength is three hundred percent above the others we've found, sir.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Is that Ro?"
+        },
+        {
+          "character": "DATA",
+          "line": "Acknowledged."
+        }
+      ],
+      "location": "Engineering"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "PAREM",
+          "line": "Get up. Where is the science officer?"
+        },
+        {
+          "character": "MAN",
+          "line": "I'll go. Commander?"
+        },
+        {
+          "character": "DATA",
+          "line": "Excuse me for interrupting, Lieutenant."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Ro!"
+        },
+        {
+          "character": "DATA",
+          "line": "I'm detecting a chroniton field in your room. May I scan the area?"
+        },
+        {
+          "character": "MAN",
+          "line": "Certainly."
+        },
+        {
+          "character": "RO",
+          "line": "Thanks."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Any time."
+        }
+      ],
+      "location": "Crew quarters"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "LAFORGE",
+          "line": "There's still no indication that the Romulans set up a muon wave in our dilithium chamber."
+        },
+        {
+          "character": "RO",
+          "line": "It's there, and when they go to warp"
+        },
+        {
+          "character": "MCDOWELL",
+          "line": "Incoming message from the Romulan ship, Captain."
+        },
+        {
+          "character": "PICARD",
+          "line": "On screen."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Now what?"
+        },
+        {
+          "character": "MIROK",
+          "line": "Installlation of the new engine core has been completed. We are ready to switch to internal power, Enterprise.",
+          "modifier": "screen"
+        },
+        {
+          "character": "PICARD",
+          "line": "Understood. Diskonnect the power-transfer beam."
+        },
+        {
+          "character": "MIROK",
+          "line": "We are now on internal power. Captain Picard, please accept my sincere thanks on behalf the Romulan Empire.",
+          "modifier": "screen"
+        },
+        {
+          "character": "RO",
+          "line": "Don't listen to him, Captain."
+        },
+        {
+          "character": "PICARD",
+          "line": "It was our pleasure, Mirok. And I hope that this example of cooperation between our two peoples will not be an isolated incident."
+        },
+        {
+          "character": "MIROK",
+          "line": "As do I, Captain.",
+          "modifier": "screen"
+        },
+        {
+          "character": "PICARD",
+          "line": "Set a course for the Garadius system. Warp six."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "No, Captain wait."
+        },
+        {
+          "character": "RO",
+          "line": "Don't do it, sir."
+        },
+        {
+          "character": "BROSSMER",
+          "line": "Captain. I'm still running the decontamination program. Mister Data believes we shouldn't engage the warp drive until I've cleared all the chroniton fields from the ship."
+        },
+        {
+          "character": "PICARD",
+          "line": "Very well. Let me know when you finished your sweep."
+        },
+        {
+          "character": "BROSSMER",
+          "line": "Yes, sir."
+        },
+        {
+          "character": "RO",
+          "line": "If we can get to the locations that she's decontaminating, maybe the anyon emissions would re-phase us enough for someone to see us."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Yeah, well the beam strength would have to be pretty strong in order for us to be visible for more than a millisecond. Somebody's going to have to be looking directly at us."
+        },
+        {
+          "character": "RO",
+          "line": "Then we're going to have to go somewhere with an awful lot of people."
+        },
+        {
+          "character": "RIKER",
+          "line": "It's time, sir. We should go."
+        },
+        {
+          "character": "PICARD",
+          "line": "You have the Bridge, Mister McDowell. I'll be at the service in Ten Forward."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Ten Forward? Well, that's perfect. We'll create as many chroniton fields in there as we can. Get them to flood that room with a stronger beam."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "PICARD",
+          "line": "Deck ten. I've been thinking about the first time I met Geordi La Forge. He was a young officer assigned to pilot me on an inspection tour, and I made some off hand remark about the shuttle's engine efficiency not being what it should. And the next morning I found that he'd stayed up all night refitting the fusion initiators. Well, I knew then that I wanted him with me on my next command. Have you decided what you're going to say about Ensign Ro?"
+        },
+        {
+          "character": "RIKER",
+          "line": "Yes, I have. It wasn't easy."
+        },
+        {
+          "character": "PICARD",
+          "line": "Situations like these are never easy, Number One."
+        },
+        {
+          "character": "RO",
+          "line": "Why? What wasn't easy? What?"
+        }
+      ],
+      "location": "Turbolift"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "RO",
+          "line": "What is going on here?"
+        },
+        {
+          "character": "LAFORGE",
+          "line": "It's our memorial service."
+        },
+        {
+          "character": "RO",
+          "line": "This?"
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Why not?"
+        },
+        {
+          "character": "RO",
+          "line": "I don't believe this. They think we're dead and they're having a party."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Yeah. It's perfect. Come on, let's get started."
+        },
+        {
+          "character": "PICARD",
+          "line": "Well, this is unusual."
+        },
+        {
+          "character": "RIKER",
+          "line": "Yeah, I think I like it."
+        },
+        {
+          "character": "RO",
+          "line": "Now I suppose I'll never know what you were going to say about me."
+        },
+        {
+          "character": "DATA",
+          "line": "Do you think the others will think this service appropriate?"
+        },
+        {
+          "character": "CRUSHER",
+          "line": "Look around you, Data. Everybody is sharing their memories of Geordi and Ro, laughing and talking. What could be more appropriate than that?"
+        },
+        {
+          "character": "DATA",
+          "line": "I am glad you approve, Doctor."
+        },
+        {
+          "character": "BROSSMER",
+          "line": "Brossmer to Commander Data.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "DATA",
+          "line": "Go ahead, Chief."
+        },
+        {
+          "character": "BROSSMER",
+          "line": "I'm sorry to disturb you, sir. We've cleared the critical areas of chronitons but we've detected a new field forming in Ten Forward that's stronger than any we've seen before.",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "Ten Forward"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "BROSSMER",
+          "line": "Should I wait until after the service is over before beginning decontamination?"
+        },
+        {
+          "character": "DATA",
+          "line": "No.",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "DATA",
+          "line": "No. Anyon emissions are harmless. Please begin immediately."
+        },
+        {
+          "character": "BROSSMER",
+          "line": "Aye, sir.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Here we go."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Worf! Worf, can you see us?"
+        },
+        {
+          "character": "RO",
+          "line": "Lieutenant!"
+        },
+        {
+          "character": "LAFORGE",
+          "line": "We're right here, Worf. Damn."
+        },
+        {
+          "character": "RO",
+          "line": "We have to find a way to increase the emission strength."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Yeah, I know."
+        },
+        {
+          "character": "PICARD",
+          "line": "if she hadn't lost her rank as a result of that incident at Garon Four, I think she would've made Lieutenant Commander by now."
+        },
+        {
+          "character": "MCDOWELL",
+          "line": "Bridge to Captain Picard.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "PICARD",
+          "line": "Go ahead."
+        },
+        {
+          "character": "MCDOWELL",
+          "line": "Incoming message from Garadius Four, sir. The diplomatic situation is deteriorating. They want an update on our ETA.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "PICARD",
+          "line": "Stand by, Ensign."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "We've got to do something now, before they go into warp."
+        },
+        {
+          "character": "RO",
+          "line": "The disruptor. I can put it on overload."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Do it."
+        },
+        {
+          "character": "RO",
+          "line": "Let's go!"
+        },
+        {
+          "character": "PICARD",
+          "line": "I would like to get under way as soon as possible. The situation on Garadius Four is becoming serious."
+        },
+        {
+          "character": "DATA",
+          "line": "I see no reason to delay our departure. The chroniton fields have been cleared from all critical areas."
+        },
+        {
+          "character": "PICARD",
+          "line": "Excellent. Mister McDowell, will you set course for Garadius Four and engage at"
+        },
+        {
+          "character": "BROSSMER",
+          "line": "Commander Data, chroniton field strength in Ten Forward has just increased by three thousand percent.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "DATA",
+          "line": "Curious. Captain, I believe we should decontaminate this room before getting underway."
+        },
+        {
+          "character": "PICARD",
+          "line": "Very well."
+        },
+        {
+          "character": "DATA",
+          "line": "Chief."
+        },
+        {
+          "character": "BROSSMER",
+          "line": "Yes, Commander.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "DATA",
+          "line": "Increase anyon emissions to six thousand particles per second and decontaminate this area."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Okay, hang on."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Data, can you see us?"
+        },
+        {
+          "character": "RO",
+          "line": "Captain, we're right here."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "We're right here! We're right here!"
+        },
+        {
+          "character": "PICARD",
+          "line": "Did you see that, Mister Data?"
+        },
+        {
+          "character": "DATA",
+          "line": "Yes, sir."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Come on, Data. Put it all together now."
+        },
+        {
+          "character": "PICARD",
+          "line": "These were not ghosts. what did we see?"
+        },
+        {
+          "character": "DATA",
+          "line": "I believe I may know what has happened, sir."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Data, please be right."
+        },
+        {
+          "character": "DATA",
+          "line": "It would explain the mysterious chroniton fields"
+        },
+        {
+          "character": "RO",
+          "line": "Yes, yes, yes."
+        },
+        {
+          "character": "DATA",
+          "line": "If they were cloaked in some way."
+        },
+        {
+          "character": "PICARD",
+          "line": "Are you saying that they're still alive?"
+        },
+        {
+          "character": "DATA",
+          "line": "If I am right, sir, they are, and in this room. Their brief appearance coincided with the anyon sweep. Perhaps the anyons neutralize the cloaking effect. Chief Brossmer."
+        },
+        {
+          "character": "BROSSMER",
+          "line": "Yes, Commander?",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "DATA",
+          "line": "Set the anoynic beam to its highest level and flood Ten Forward."
+        },
+        {
+          "character": "BROSSMER",
+          "line": "Aye, sir.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Data, do you see us?"
+        },
+        {
+          "character": "DATA",
+          "line": "Of course."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "La Forge to Engineering. Take the warp engines off line until further notice. There's a muon wave build up in the dilithium chamber."
+        },
+        {
+          "character": "ENSIGN",
+          "line": "Captain, who gave that order?",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "PICARD",
+          "line": "That was Commander Geordi La Forge, Ensign. Please follow his instructions."
+        },
+        {
+          "character": "ENSIGN",
+          "line": "Aye, sir.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "LAFORGE",
+          "line": "It looks like a great party. Do you mind if we join you?"
+        },
+        {
+          "character": "DATA",
+          "line": "Geordi, it is good to see you."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Thanks, Data. I've never been to a better funeral."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Could you pass the rolls?"
+        },
+        {
+          "character": "RO",
+          "line": "You've been eating for over an hour."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Come on. We didn't eat for almost two days. I'm hungry. What's wrong?"
+        },
+        {
+          "character": "RO",
+          "line": "Nothing."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Come on."
+        },
+        {
+          "character": "RO",
+          "line": "I was raised with Bajoran beliefs. I even followed some of the practices, but I never really believed in a life after death. Then suddenly I was dead and there was another life, and it made me feel like I'd been pretty arrogant to diskount everything I'd been taught, you know? Now I don't know what to believe."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Maybe we should develop our own interphase device. If it can teach Ro Laren humility, it can do anything."
+        }
+      ],
+      "location": "Ten Forward"
+    }
+  ],
+  "schedule": {
+    "episode": 24,
+    "number": 124,
+    "season": 5
+  },
+  "stardate": "45092.4",
+  "title": "The Next Phase"
+}

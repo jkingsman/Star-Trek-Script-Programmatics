@@ -1,0 +1,1940 @@
+{
+  "airdate": 957326400,
+  "scenes": [
+    {
+      "dialogue": [
+        {
+          "character": "JANEWAY",
+          "line": "Come in."
+        },
+        {
+          "character": "TUVOK",
+          "line": "You wished to see me."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "We've known each other for how long?"
+        },
+        {
+          "character": "TUVOK",
+          "line": "Approximately twenty years."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "We've served on three starships together. I was present at your daughter's Kohlinar. I consider you one of my closest friends."
+        },
+        {
+          "character": "TUVOK",
+          "line": "And I regard you with the same esteem."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "I've always been honest with you, but you've been keeping something from me."
+        },
+        {
+          "character": "TUVOK",
+          "line": "I don't know what you mean."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Don't you? It took exhaustive research, sifting through teraquads of data, separating fact from rumor, but eventually I arrived at the truth."
+        },
+        {
+          "character": "TUVOK",
+          "line": "Captain?"
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Happy birthday."
+        },
+        {
+          "character": "TUVOK",
+          "line": "Thank you."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "So, it's not long before you hit the big three digits, huh?"
+        },
+        {
+          "character": "TUVOK",
+          "line": "Indeed. Have you informed anyone else of your discovery?"
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Don't worry, Tuvok, my lips are sealed. Well? You're supposed to blow out the candle."
+        },
+        {
+          "character": "TUVOK",
+          "line": "That is not a Vulcan custom."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Humor me."
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "Captain to the bridge.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Well?"
+        },
+        {
+          "character": "TUVOK",
+          "line": "It was a fire hazard."
+        }
+      ],
+      "location": "Ready room"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "CHAKOTAY",
+          "line": "We're receiving a distress call. A small vessel on an intercept course."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Lifesigns?"
+        },
+        {
+          "character": "KIM",
+          "line": "One. It's Ocampan."
+        },
+        {
+          "character": "TUVOK",
+          "line": "We're being hailed."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Kes?"
+        },
+        {
+          "character": "KES",
+          "line": "Captain Janeway, I need your help. Will you please give me permission to come aboard?",
+          "modifier": "screen"
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Of course. What's happened?"
+        },
+        {
+          "character": "KES",
+          "line": "Please, let me come aboard.",
+          "modifier": "screen"
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Prepare the docking port. Tell the Doctor to stand by."
+        },
+        {
+          "character": "TUVOK",
+          "line": "Her ship is accelerating. It's on a collision course."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Janeway to Kes. Cut your engines. You're coming in too fast."
+        },
+        {
+          "character": "PARIS",
+          "line": "Five seconds till impact."
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "Lock on a tractor beam. Evasive maneuvers."
+        },
+        {
+          "character": "KIM",
+          "line": "Hull breach on deck nine."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Emergency force fields."
+        },
+        {
+          "character": "KIM",
+          "line": "Captain, a transporter was activated just before impact. She's beamed aboard."
+        },
+        {
+          "character": "KIM",
+          "line": "I'm reading bulkhead ruptures. Deck eleven, section seventeen, eighteen, nineteen."
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "Cause?"
+        },
+        {
+          "character": "KIM",
+          "line": "Unknown."
+        },
+        {
+          "character": "TUVOK",
+          "line": "I've located Kes. She's moving through those sections. She's giving off high levels of neurogenic energy."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Janeway to Kes. Kes, respond."
+        },
+        {
+          "character": "KIM",
+          "line": "Hull breach, section twenty."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Forcefields. Security to deck eleven."
+        },
+        {
+          "character": "KIM",
+          "line": "Forcefields are not holding."
+        },
+        {
+          "character": "TUVOK",
+          "line": "She's approaching main Engineering."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Bridge to Engineering. Intruder alert."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "AYALA",
+          "line": "Stop where you are."
+        }
+      ],
+      "location": "Corridor"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TORRES",
+          "line": "Kes?"
+        },
+        {
+          "character": "SEVEN",
+          "line": "State your intentions."
+        },
+        {
+          "character": "TORRES",
+          "line": "Evacuate Engineering."
+        }
+      ],
+      "location": "Engineering"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "PARIS",
+          "line": "Warp power is fluctuating."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TORRES",
+          "line": "Torres to bridge. Kes is in direct contact with the warp core."
+        }
+      ],
+      "location": "Engineering"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TORRES",
+          "line": "She's drawing power from it somehow.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Shut it down."
+        },
+        {
+          "character": "PARIS",
+          "line": "Warp power is returning to normal."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "B'Elanna, report."
+        },
+        {
+          "character": "SEVEN",
+          "line": "Lieutenant Torres is dead. Kes has vanished.",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TORRES",
+          "line": "Send Mulchaey, he's in deflector control. We'll need more power to junction twelve J, and tell Harry I want to talk to him about building a new energy grid. Lost?"
+        },
+        {
+          "character": "KES",
+          "line": "No, just looking. Captain Janeway suggested that I get more familiar with the ship."
+        },
+        {
+          "character": "TORRES",
+          "line": "Well, if you have any questions, let me know."
+        },
+        {
+          "character": "KES",
+          "line": "Thanks."
+        },
+        {
+          "character": "TORRES",
+          "line": "We're about to run a diagnostic on the warp core assembly. You can watch if you want."
+        },
+        {
+          "character": "KES",
+          "line": "Thanks, but I really should be getting back to Sickbay."
+        }
+      ],
+      "location": "Engineering - 2371"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "KES",
+          "line": "Computer, has long has Voyager been in the Delta Quadrant?"
+        },
+        {
+          "character": "COMPUTER",
+          "line": "Fifty six days, seventeen hours."
+        }
+      ],
+      "location": "Corridor - 2371"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "EMH",
+          "line": "Back so soon? I thought you went to the Airponics bay to collect herbs."
+        },
+        {
+          "character": "KES",
+          "line": "I forgot something."
+        },
+        {
+          "character": "EMH",
+          "line": "Ah. Pyong Ko."
+        },
+        {
+          "character": "KES",
+          "line": "Excuse me?"
+        },
+        {
+          "character": "EMH",
+          "line": "You encouraged me to choose a name, remember? Pyong Ko was a twenty first century surgeon who diskovered the genetic sequence for inhibiting cancer cells. It heralded a new chapter in Earth's medical history."
+        },
+        {
+          "character": "KES",
+          "line": "That's a perfect name, Doctor."
+        },
+        {
+          "character": "EMH",
+          "line": "Then again, I'm also considering Schweitzer, Jarvik, Pasteur. There are so many options, each with its own merits."
+        },
+        {
+          "character": "KES",
+          "line": "Why don't you give it some more thought? You don't have to decide right away."
+        },
+        {
+          "character": "EMH",
+          "line": "Of course, it's not that I require one for reasons of vanity. I'm just a hologram after all. But if I had a name, other than Doctor or Hey you, it might encourage the crew to treat me with a little more respect. Kes?"
+        }
+      ],
+      "location": "Sickbay - 2371"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "KES",
+          "line": "Hello? Neelix?"
+        }
+      ],
+      "location": "Airponics bay - 2371"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "PARIS",
+          "line": "Neelix, if you want to put your own stamp on it, maybe you should give it your own name, like the Greasy Neelix or the Double Talaxian with cheese."
+        },
+        {
+          "character": "NEELIX",
+          "line": "It has a nice ring to it. Thank you, Lieutenant, I'll keep that in mind. Sweeting, What'll it be? The usual?"
+        },
+        {
+          "character": "KES",
+          "line": "I'm not hungry. I thought that I'd bring Captain Janeway some coffee."
+        },
+        {
+          "character": "NEELIX",
+          "line": "That's very thoughtful. I'm looking forward to tonight."
+        },
+        {
+          "character": "KES",
+          "line": "Actually, I have a lot of work to do in Sickbay."
+        },
+        {
+          "character": "NEELIX",
+          "line": "But I already reserved the holodeck. I thought we could take a moonlit stroll through the marshlands of Oshionian Prime."
+        },
+        {
+          "character": "KES",
+          "line": "Another time. I promise."
+        },
+        {
+          "character": "NEELIX",
+          "line": "Something wrong?"
+        },
+        {
+          "character": "KES",
+          "line": "Bad morning."
+        },
+        {
+          "character": "NEELIX",
+          "line": "Anything I can do?"
+        },
+        {
+          "character": "KES",
+          "line": "I'll be fine."
+        },
+        {
+          "character": "NEELIX",
+          "line": "I'm not having a great day, either. Nobody seems to like today's menu. I tried blaming it on a replicator malfunction, but no one believed me. Wait, I, I think I see something. Neelix to Security, Kes' frown is losing its structural integrity. Red alert, I'm detecting a smile. That's my Kes."
+        },
+        {
+          "character": "KES",
+          "line": "The coffee?"
+        }
+      ],
+      "location": "Mess hall - 2371"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "CHAKOTAY",
+          "line": "That last attack nearly cost us our impulse drives. Fortunately, B'Elanna found a way to reroute power from the deflector."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "A good choice for Chief Engineer, if I do say so myself."
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "Getting to know your enemy."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "I feel like I already do. Remember the old story? Man goes to Risa, where he meets a beautiful woman who invites him over for an evening of passion."
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "He wakes up in the morning, feeling wonderful, until he diskovers he's missing a kidney."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Every cadet about to go on his first shore leave hears that cautionary tale. Doesn't seem so outrageous anymore, does it?"
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "No, but the Vidiians are more than just your garden variety monsters. I've been studying their culture. They were a lot like us before the Phage."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Do I detect a note of sympathy?"
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "Makes you wonder what we'd do under the same circumstances."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Come in."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Oh, you read my mind."
+        },
+        {
+          "character": "KES",
+          "line": "Vidiians?"
+        },
+        {
+          "character": "JANEWAY",
+          "line": "I'm afraid so. We've picked up two more ships on long range sensors. I've gone to full tactical alert. We're taking every precaution."
+        },
+        {
+          "character": "KES",
+          "line": "I'm sure you'll get us through it safely."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Thanks for the vote of confidence. Tuvok thinks he's found a way to penetrate their shields. The next time they attack us, it won't be so easy."
+        },
+        {
+          "character": "KES",
+          "line": "That's good to hear."
+        },
+        {
+          "character": "TUVOK",
+          "line": "Captain to the bridge.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "JANEWAY",
+          "line": "On my way."
+        },
+        {
+          "character": "KES",
+          "line": "Oops. I'm so clumsy, I'm sorry."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Don't worry about it. This desk has seen its share of coffee spills, believe me."
+        }
+      ],
+      "location": "Ready room - 2371"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TUVOK",
+          "line": "Ensign Wildman has an intriguing proposal."
+        },
+        {
+          "character": "WILDMAN",
+          "line": "We've been analyzing the Vidiian bio-readings from the last attack. Their immune systems have been compromised by the Phage. We could synthesize a neural agent that would incapacitate them without affecting us."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Might come in handy if we're ever boarded."
+        },
+        {
+          "character": "WILDMAN",
+          "line": "Exactly."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Work with the Doctor. When you've got something, find a way to deploy it through the environmental systems."
+        },
+        {
+          "character": "WILDMAN",
+          "line": "Aye, Captain."
+        }
+      ],
+      "location": "Bridge - 2371"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TUVOK",
+          "line": "The ships we detected earlier have disappeared from our sensors."
+        },
+        {
+          "character": "KIM",
+          "line": "Maybe we outran them."
+        },
+        {
+          "character": "TORRES",
+          "line": "They wouldn't give up that easily."
+        },
+        {
+          "character": "EMH",
+          "line": "Why would they? Voyager's the only organ bank within half a parsec.",
+          "modifier": "screen"
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "We fought off their first attacks. Now they seem content to show up on sensors just long enough for us to change course. It's like we're being herded somewhere."
+        },
+        {
+          "character": "PARIS",
+          "line": "If we maintain our present course we're going to enter a region filled with subspace vacuoles."
+        },
+        {
+          "character": "TORRES",
+          "line": "We'd have to drop to impulse to get through."
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "Sounds like a good place for an ambush."
+        },
+        {
+          "character": "TORRES",
+          "line": "The Maquis used to lure the Cardassians into the Badlands. Those Galor class cruisers had nowhere to run."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Neither will we, unless. Tom, how dense are those vacuoles?"
+        },
+        {
+          "character": "PARIS",
+          "line": "They cover about seventy percent of the region."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Excuse me, Doctor."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Tom, what's the first thing they teach you about maneuvering at warp?"
+        },
+        {
+          "character": "PARIS",
+          "line": "Faster than light, no left or right. When possible, maintain a linear trajectory. Course corrections could fracture the hull."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Exactly. We'd have to drop to impulse every time we made a course change but, what if we let Voyager do the driving?"
+        },
+        {
+          "character": "PARIS",
+          "line": "Ma'am?"
+        },
+        {
+          "character": "JANEWAY",
+          "line": "We could pre-program every kilometer. That way we'd only spend a second or two at impulse every time the computer executed a turn."
+        },
+        {
+          "character": "PARIS",
+          "line": "Auto-navigation the entire way?"
+        },
+        {
+          "character": "JANEWAY",
+          "line": "No offense, but the neural gel packs can calculate vectors a little faster than you can."
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "B'Elanna?"
+        },
+        {
+          "character": "TORRES",
+          "line": "We'd need a more accurate scan of the region. If we even graze one of those vacuoles"
+        },
+        {
+          "character": "KIM",
+          "line": "We could send a shuttle ahead."
+        },
+        {
+          "character": "TUVOK",
+          "line": "The Delta Flyer. Its sensors are more advanced."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "The Delta what?"
+        },
+        {
+          "character": "TUVOK",
+          "line": "Forgive me. I must have been thinking of another starship."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Prepare a shuttle. I want all of Voyager's systems operating at peak efficiency by the time Tom gets back. If we're going to pull this off, there's no margin for error. Dismissed."
+        }
+      ],
+      "location": "Briefing room - 2371"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "KES",
+          "line": "Computer, display an image of the Ocampan homeworld. Plot a course from Voyager's current position."
+        },
+        {
+          "character": "PARIS",
+          "line": "Homesick?"
+        },
+        {
+          "character": "KES",
+          "line": "Lieutenant!"
+        },
+        {
+          "character": "PARIS",
+          "line": "Tom. It's okay, a lot of people on board feel the same way."
+        },
+        {
+          "character": "KES",
+          "line": "I spent my entire life trying to get away from Ocampa. Why would I want to go back?"
+        },
+        {
+          "character": "PARIS",
+          "line": "Because it's home. Home for me means a penal colony. Out here, I get to fly a state of the art ship, and there's no admirals in sight."
+        },
+        {
+          "character": "KES",
+          "line": "What are you doing?"
+        },
+        {
+          "character": "PARIS",
+          "line": "Getting ready for a scouting mission."
+        },
+        {
+          "character": "PARIS",
+          "line": "You planning on going somewhere?"
+        },
+        {
+          "character": "KES",
+          "line": "Er, no, of course not. I was just studying the helm configurations."
+        },
+        {
+          "character": "PARIS",
+          "line": "I didn't know you could pilot a shuttle."
+        },
+        {
+          "character": "KES",
+          "line": "I can't, but I'd like to learn."
+        },
+        {
+          "character": "PARIS",
+          "line": "Well, then, why not learn from the best? I could start you off in the holodeck, in an old class One. It's the kind of shuttle my father used to take me up in."
+        },
+        {
+          "character": "KES",
+          "line": "That would be very nice, Lieutenant. Tom."
+        }
+      ],
+      "location": "Shuttlebay 2371"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TUVOK",
+          "line": "Identify yourself."
+        },
+        {
+          "character": "NAOMI",
+          "line": "It's me, Tuvok. Naomi Wildman."
+        }
+      ],
+      "location": "Outside turbolift - 2371"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "CAREY",
+          "line": "May I help you, sir? Lieutenant, is something wrong?"
+        }
+      ],
+      "location": "Cargo Bay two - 2371"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "NEELIX",
+          "line": "Hello, Sweeting. I took the liberty of preparing one of your favorite meals. It's under replicator program Neelix One. Call me if you'd like some company. Miss you.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "KES",
+          "line": "Computer, end music. Open an encrypted channel. Direct the signal to the following coordinates."
+        },
+        {
+          "character": "COMPUTER",
+          "line": "Channel open."
+        },
+        {
+          "character": "KES",
+          "line": "My name is Kes. I'm aboard the Starship Voyager. Respond. I know you're receiving this transmission, and I also know that your attempt to capture this ship will fail. If you want to harvest Voyager's crew, I suggest you answer me now."
+        },
+        {
+          "character": "VIIDIAN",
+          "line": "Explain.",
+          "modifier": "screen"
+        },
+        {
+          "character": "KES",
+          "line": "Captain Janeway is aware of your ambush. She's found a way to evade your vessels, but I can help you."
+        },
+        {
+          "character": "VIIDIAN",
+          "line": "I'm listening.",
+          "modifier": "screen"
+        },
+        {
+          "character": "KES",
+          "line": "I can send you tactical data on their shields, weapons. Everything you need to take this ship."
+        },
+        {
+          "character": "VIIDIAN",
+          "line": "This is a deception.",
+          "modifier": "screen"
+        },
+        {
+          "character": "KES",
+          "line": "Do you want this crew or not?"
+        },
+        {
+          "character": "VIIDIAN",
+          "line": "In return?"
+        },
+        {
+          "character": "KES",
+          "line": "Safe passage to Ocampa for myself and one other."
+        },
+        {
+          "character": "VIIDIAN",
+          "line": "Why would you sentence your own crew to death?",
+          "modifier": "screen"
+        },
+        {
+          "character": "KES",
+          "line": "They're not my crew. They abandoned me a long time ago."
+        }
+      ],
+      "location": "Kes'\nquarters - 2371"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "KES",
+          "line": "Computer, access Voyager's tactical database."
+        },
+        {
+          "character": "COMPUTER",
+          "line": "Command authorisation required."
+        },
+        {
+          "character": "COMPUTER",
+          "line": "Access granted."
+        }
+      ],
+      "location": "Airponics bay - 2371"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "JANEWAY",
+          "line": "Naomi Wildman?"
+        },
+        {
+          "character": "TUVOK",
+          "line": "She appeared to be half Ktarian."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Ensign Wildman's husband is Ktarian. I met him once on Deep Space Nine."
+        },
+        {
+          "character": "TUVOK",
+          "line": "There's more. I followed her to Cargo Bay two, where I saw a woman and two children, all with cybernetic implants."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Borg?"
+        },
+        {
+          "character": "TUVOK",
+          "line": "I can't explain it, Captain. I've had hallucinations before, but only while in a state of deep meditation. These were specific and they evoked a sense of anticipation."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "It almost sounds like you're describing a premonition."
+        },
+        {
+          "character": "TUVOK",
+          "line": "Indeed."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "I didn't think Vulcans had premonitions."
+        },
+        {
+          "character": "TUVOK",
+          "line": "They don't. That's what concerns me."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Computer, maintain a continuous proximity scan of Lieutenant Tuvok. Ten meter radius, all sensor parameters. In case you have any more visions."
+        },
+        {
+          "character": "TUVOK",
+          "line": "A logical plan."
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "Bridge to Captain Janeway.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Go ahead."
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "We're approaching the vacuoles.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "JANEWAY",
+          "line": "On my way."
+        }
+      ],
+      "location": "Ready room - 2371"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "CHAKOTAY",
+          "line": "Last chance to take the long way around."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "It does feel like we're sneaking through a graveyard at midnight. Any sign of the Vidiians?"
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "Not yet, but it's a safe bet they're in there."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Tom?"
+        },
+        {
+          "character": "PARIS",
+          "line": "Trajectory's laid in. Our trip will take three hours, twelve minutes, eleven seconds with two hundred and sixteen course changes."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Well, let's get started."
+        },
+        {
+          "character": "PARIS",
+          "line": "Engaging at warp eight. Sit back and enjoy the ride."
+        },
+        {
+          "character": "KIM",
+          "line": "One of the vacuoles shifted position. The computer's adjusting our vector."
+        },
+        {
+          "character": "PARIS",
+          "line": "Dropping to impulse, two point three degree turn starboard, jumping to warp six."
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "One down, two hundred and fifteen to go."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "I'll be in Sickbay."
+        },
+        {
+          "character": "PARIS",
+          "line": "Dropping to impulse. New heading, oh thirty one mark two."
+        },
+        {
+          "character": "TUVOK",
+          "line": "There's a ship approaching. It's on a collision course."
+        },
+        {
+          "character": "PARIS",
+          "line": "I'm not reading any ship."
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "Lieutenant?"
+        },
+        {
+          "character": "TUVOK",
+          "line": "Permission to be relieved, sir. I am not well."
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "Of course."
+        }
+      ],
+      "location": "Bridge - 2371"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "EMH",
+          "line": "The molecular structures appear to be stable. Good."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Report."
+        },
+        {
+          "character": "EMH",
+          "line": "We've devised a neural agent that should inhibit the Vidiian's motor functions without causing any permanent damage."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Good. I don't want to add to their health problems. I just want to keep them from adding to ours."
+        },
+        {
+          "character": "WILDMAN",
+          "line": "I'll get to work."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Doctor, when was the last time you examined Ensign Wildman?"
+        },
+        {
+          "character": "EMH",
+          "line": "I performed her annual physical six weeks ago."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Did you find anything unusual?"
+        },
+        {
+          "character": "EMH",
+          "line": "She's in perfect health."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "This may seem like a strange question, but I need to know if she's pregnant."
+        },
+        {
+          "character": "EMH",
+          "line": "I'm not at liberty to disklose that information. Doctor-patient confidentiality."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "What about Captain's orders?"
+        },
+        {
+          "character": "EMH",
+          "line": "Sorry, medical protocol supersede your authority in these matters."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "The security of this ship could be at stake."
+        },
+        {
+          "character": "EMH",
+          "line": "She planned on telling you herself."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Boy or girl?"
+        },
+        {
+          "character": "EMH",
+          "line": "Female. Half Ktarian, as a matter of fact, which should nearly double the infant's gestation period. How did you know?"
+        },
+        {
+          "character": "EMH",
+          "line": "And they say I'm rude."
+        }
+      ],
+      "location": "Sickbay - 2371"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "CHAKOTAY",
+          "line": "We're receiving a distress call.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Life signs?",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "KIM",
+          "line": "It's Ocampan.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Kes?",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "KES",
+          "line": "Let me come on board.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "TUVOK",
+          "line": "Her ship is accelerating. It's on a collision course.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "KIM",
+          "line": "Hull breach on deck nine.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Emergency forcefields.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "TUVOK",
+          "line": "She's approaching main Engineering.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "SEVEN",
+          "line": "State your intentions.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "KES",
+          "line": "Let me come on board.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "TUVOK",
+          "line": "It's on a collision course.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Forcefields.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "We're receiving a distress call.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Bridge to Engineering. Intruder alert.",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "Corridor - 2371"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "AYALA",
+          "line": "Stop where you are.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "SEVEN",
+          "line": "State your intentions.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "PARIS",
+          "line": "Warp power is fluctuating.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "TORRES",
+          "line": "She's drawing power from it somehow.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "TORRES",
+          "line": "Problem?"
+        },
+        {
+          "character": "TORRES",
+          "line": "Hey."
+        },
+        {
+          "character": "TORRES",
+          "line": "Torres to Sickbay, medical emergency."
+        }
+      ],
+      "location": "Engineering - 2371"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "EMH",
+          "line": "Twenty milligrams lectrazine. Cortical stimulator. We'll start at twenty millijoules."
+        },
+        {
+          "character": "KES",
+          "line": "Ready."
+        },
+        {
+          "character": "EMH",
+          "line": "Now. He's gone into synaptic shock. I don't understand."
+        }
+      ],
+      "location": "Sickbay - 2371"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "JANEWAY",
+          "line": "Can I speak with him?"
+        },
+        {
+          "character": "EMH",
+          "line": "I think it's best to keep him sedated for now."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "When did this begin?"
+        },
+        {
+          "character": "EMH",
+          "line": "Early this afternoon, in Engineering."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Time. I need the exact time."
+        },
+        {
+          "character": "EMH",
+          "line": "Lieutenant Torres called Sickbay at fourteen hundred twenty two hours."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Computer, display proximity scan of Lieutenant Tuvok at fourteen hundred twenty two hours. Oh."
+        },
+        {
+          "character": "EMH",
+          "line": "Captain?"
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Tachyons."
+        },
+        {
+          "character": "EMH",
+          "line": "I beg your pardon?"
+        },
+        {
+          "character": "JANEWAY",
+          "line": "There was a surge of tachyon particles just before Tuvok collapsed."
+        },
+        {
+          "character": "EMH",
+          "line": "That could have triggered this, but where did they come from?"
+        },
+        {
+          "character": "JANEWAY",
+          "line": "They're normally caused by temporal distortions."
+        },
+        {
+          "character": "EMH",
+          "line": "Time travel?"
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Let me know if his condition changes."
+        }
+      ],
+      "location": "Doctor's office - 2371"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "JANEWAY",
+          "line": "Kes, you have telepathic abilities. Have you experienced anything unusual during the past couple of days? Hallucinations, premonitions?"
+        },
+        {
+          "character": "KES",
+          "line": "No, nothing."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "If you do, you'll let me know?"
+        },
+        {
+          "character": "KES",
+          "line": "Of course, Captain."
+        }
+      ],
+      "location": "Sickbay - 2371"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "KES",
+          "line": "We're low on neuro-stabilizers. I'll go replicate some more."
+        },
+        {
+          "character": "EMH",
+          "line": "Hurry back."
+        }
+      ],
+      "location": "Doctor's office - 2371"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "VIDIIAN",
+          "line": "Where's the tactical data you promised us?",
+          "modifier": "screen"
+        },
+        {
+          "character": "KES",
+          "line": "I'm downloading it now. I'll transmit it to you once you've arrived."
+        },
+        {
+          "character": "VIDIIAN",
+          "line": "I need it now.",
+          "modifier": "screen"
+        },
+        {
+          "character": "KES",
+          "line": "Janeway's already suspicious. If I transmit it now, I'll be diskovered."
+        },
+        {
+          "character": "VIDIIAN",
+          "line": "That's your problem.",
+          "modifier": "screen"
+        },
+        {
+          "character": "KES",
+          "line": "Apparently it's yours, too."
+        }
+      ],
+      "location": "Airponics bay - 2371"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "JANEWAY",
+          "line": "Gentlemen, scan for tachyon particles deck by deck."
+        },
+        {
+          "character": "KIM",
+          "line": "Tachyons?"
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Do it."
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "Looking for something specific?"
+        },
+        {
+          "character": "JANEWAY",
+          "line": "I'm not sure."
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "Report."
+        },
+        {
+          "character": "PARIS",
+          "line": "We're under attack. A Vidiian ship is closing on our position."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Battlestations."
+        },
+        {
+          "character": "KIM",
+          "line": "We've lost warp drive and weapons."
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "They're cutting through our shields. Remodulate."
+        },
+        {
+          "character": "KIM",
+          "line": "I'm trying. They keep matching the frequencies."
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "We've still got impulse."
+        },
+        {
+          "character": "PARIS",
+          "line": "They've taken out navigation. I can't plot a course."
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "They're cutting an access route through the hull. Evacuate deck three and seal it off."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Bridge to Sickbay. Are you ready with that neural agent?"
+        },
+        {
+          "character": "EMH",
+          "line": "Aye, Captain.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Stand by to release it on deck three."
+        }
+      ],
+      "location": "Bridge - 2371"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "EMH",
+          "line": "Acknowledged. Fifty milliliters should suffice."
+        },
+        {
+          "character": "WILDMAN",
+          "line": "Doctor!"
+        },
+        {
+          "character": "EMH",
+          "line": "Doctor to the bridge. Environmental controls aren't responding."
+        }
+      ],
+      "location": "Sickbay - 2371"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "JANEWAY",
+          "line": "Harry, what's going on?"
+        },
+        {
+          "character": "KIM",
+          "line": "We've been locked out of that system."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "What do you mean, locked out?"
+        },
+        {
+          "character": "KIM",
+          "line": "The command relays have been fused."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "They know where to find us, they know our shield frequencies, which systems to target."
+        },
+        {
+          "character": "KIM",
+          "line": "We're being boarded."
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "I'm reading an EM fluctuation. It could be a transmission."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Location?"
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "Airponics bay."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Who's down there?"
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "I'm picking up two bio-readings. The sensors must be malfunctioning. They're both reading as Kes."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Security to Airponics bay. Shut down control functions to that section. I'm going down there. Something tells me we've got more than one battle on our hands."
+        }
+      ],
+      "location": "Bridge - 2371"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "KES",
+          "line": "Computer, initiate site-to site transport program Kes beta six."
+        },
+        {
+          "character": "COMPUTER",
+          "line": "Unable to comply. Control functions have been disabled."
+        },
+        {
+          "character": "KES",
+          "line": "Shush, shush. I'm taking you home."
+        }
+      ],
+      "location": "Airponics bay - 2371"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "KIM",
+          "line": "We've got weapons back."
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "Can you target those hooks?"
+        },
+        {
+          "character": "KIM",
+          "line": "Not at this range. We'd breach the upper hull."
+        },
+        {
+          "character": "PARIS",
+          "line": "It's better than being dissected."
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "Reverse the hull polarity. Maybe we can shake them loose."
+        }
+      ],
+      "location": "Bridge - 2371"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "JANEWAY",
+          "line": "Now one of you doesn't belong here, and I'm guessing it's you. Tuvok's premonitions were real. You're from the future."
+        },
+        {
+          "character": "KES",
+          "line": "A future I'm about to change."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "You're helping the Vidiians, Kes. Why?"
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Tell me why you're doing this."
+        },
+        {
+          "character": "KES",
+          "line": "I won't let you hurt her again."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "I haven't done anything to harm her."
+        },
+        {
+          "character": "KES",
+          "line": "You took her from Ocampa, her home. She's a prisoner on this ship."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "No one's a prisoner here, Kes."
+        },
+        {
+          "character": "KES",
+          "line": "I was a child. You corrupted me with your ideas."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "What ideas?"
+        },
+        {
+          "character": "KES",
+          "line": "Exploration, discovery. I believed you."
+        }
+      ],
+      "location": "Airponics bay - 2371"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "KIM",
+          "line": "Hull polarity loosened their hold, but not by much."
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "It's a start. Reroute the deflector. Have it discharge anti-graviton pulses along the hull. Engage the inertial dampers. Get a controlled pitch going."
+        }
+      ],
+      "location": "Bridge - 2371"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "KES",
+          "line": "In three years, I'm going to leave Voyager in search of higher things because you encouraged me to do it. You encouraged me to develop my mental abilities. I wasn't ready for what I found. I couldn't control it. It scared me. I had nowhere to go. I thought of returning home to Ocampa, but I'd changed too much. I knew they'd be frightened of me. I knew they wouldn't accept me, but they'll accept her."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "You don't have to destroy this ship, Kes. We can help you."
+        },
+        {
+          "character": "KES",
+          "line": "No, I trusted you."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Kes."
+        },
+        {
+          "character": "KES",
+          "line": "No!"
+        }
+      ],
+      "location": "Airponics bay - 2371"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "KIM",
+          "line": "We're breaking free."
+        },
+        {
+          "character": "PARIS",
+          "line": "They're trying to lock on us with a tractor beam."
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "Reverse thrusters. Full power."
+        },
+        {
+          "character": "PARIS",
+          "line": "That could tear the hull apart."
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "Then tear it apart!"
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "Photon torpedoes, full spread. Ready, fire!"
+        }
+      ],
+      "location": "Bridge - 2371"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "JANEWAY",
+          "line": "It's set to kill, Kes."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Janeway to bridge. Status?"
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "The Vidiians are in retreat. Everything all right down there?",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "JANEWAY",
+          "line": "For now."
+        }
+      ],
+      "location": "Airponics bay - 2371"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TUVOK",
+          "line": "She was here in my last premonition. She appeared older. Her face was tired."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "What was she doing?"
+        },
+        {
+          "character": "TUVOK",
+          "line": "She had her hands on the casing, as if she was drawing energy from it."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "The tachyons are concentrated here. It's possible she needed the core to travel back in time."
+        },
+        {
+          "character": "TUVOK",
+          "line": "If that's true, then she'll need it again."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "And we don't know when that'll be. We have to be ready."
+        },
+        {
+          "character": "EMH",
+          "line": "Doctor to the Captain.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Go ahead."
+        },
+        {
+          "character": "EMH",
+          "line": "Kes has regained consciousness.",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "Engineering - 2371"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TUVOK",
+          "line": "What do you remember?"
+        },
+        {
+          "character": "YOUNG KES",
+          "line": "I was in Airponics, and then I felt dizzy, and then I was watching myself."
+        },
+        {
+          "character": "EMH",
+          "line": "Yourself?"
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Computer, deactivate EMH. What I'm about to tell you stays between the three of us. Understood?"
+        },
+        {
+          "character": "YOUNG KES",
+          "line": "Yes, Captain."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Something terrible has happened. Or more precisely, will happen. We're going to need your help to prevent it from happening again."
+        }
+      ],
+      "location": "Sickbay - 2371"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "JANEWAY",
+          "line": "It took exhaustive research, sifting through teraquads of data, separating fact from rumor, but eventually I arrived at the truth."
+        },
+        {
+          "character": "TUVOK",
+          "line": "Captain?"
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Happy birthday."
+        },
+        {
+          "character": "TUVOK",
+          "line": "Thank you."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "So, it's not long before you hit the big three digits, huh?"
+        },
+        {
+          "character": "TUVOK",
+          "line": "Indeed. Have you informed anyone else of your discovery?"
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Don't worry, Tuvok, my lips are sealed. Well, you're supposed to blow out the candle."
+        },
+        {
+          "character": "TUVOK",
+          "line": "That is not a Vulcan custom."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Humor me."
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "Captain to the bridge.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "JANEWAY",
+          "line": "On my way. Well?"
+        },
+        {
+          "character": "TUVOK",
+          "line": "It was a fire hazard."
+        }
+      ],
+      "location": "Ready room"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "CHAKOTAY",
+          "line": "We're receiving a distress call. A small vessel on an intercept course."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Life signs?"
+        },
+        {
+          "character": "KIM",
+          "line": "One. It's Ocampan."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "I'd almost forgotten."
+        },
+        {
+          "character": "TUVOK",
+          "line": "We're being hailed."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Red alert. Raise shields."
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "Captain?"
+        },
+        {
+          "character": "JANEWAY",
+          "line": "All hands, this is the Bridge. Begin emergency evacuation of deck eleven. Repeat."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "JANEWAY",
+          "line": "All hands evacuate deck eleven.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "TORRES",
+          "line": "You heard her, get moving. Now!"
+        }
+      ],
+      "location": "Engineering"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "JANEWAY",
+          "line": "Open a channel. Kes."
+        },
+        {
+          "character": "KES",
+          "line": "Captain Janeway, I need your help. Will you please give me permission to come aboard?",
+          "modifier": "screen"
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Of course. What's happened?"
+        },
+        {
+          "character": "KES",
+          "line": "Please, let me come aboard.",
+          "modifier": "screen"
+        },
+        {
+          "character": "TUVOK",
+          "line": "Her ship is accelerating. It's on a collision course."
+        },
+        {
+          "character": "PARIS",
+          "line": "Five seconds to impact."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Tuvok."
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "Lock on a tractor beam. Evasive maneuvers."
+        },
+        {
+          "character": "TUVOK",
+          "line": "Shields are holding. Her ship is intact."
+        },
+        {
+          "character": "KIM",
+          "line": "Captain, a transporter was activated just before impact. She's beamed aboard. I'm reading bulkhead ruptures on deck eleven, section seventeen, eighteen, nineteen."
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "How did you know?"
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Ready? Shut down the warp core. You have the bridge."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "KES",
+          "line": "Remember me? The innocent child you're here to save? You blame Captain Janeway, but the choice was yours. You made the decision to leave Ocampa, and you made the decision to leave Voyager. If you're watching me now, you've come back to take revenge on the people who cared about you. That's not who you are, and that's not who I am. Don't do this. Find another way home. Captain Janeway will help you if you give her a chance. Try to remember who you were. Try to remember me."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Don't you remember? You made that holo-recording because you didn't want this to happen again. Three years ago, you traveled back in time. Kes, you wanted to take that woman with you and you were willing to hand the rest of us over to the Vidiians to do it. It didn't work. You forced me to kill you, Kes. If you go back now, it'll all happen again. Just before this terrible thing happened, you told me you had nowhere to go. That's not true. Stay here with us."
+        },
+        {
+          "character": "KES",
+          "line": "I can't. I don't belong here. I need to be with my own people."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "You told me you had the ability to get home, but you were afraid the Ocampans wouldn't accept you. Why?"
+        },
+        {
+          "character": "KES",
+          "line": "I remember."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "What? What do you remember?"
+        },
+        {
+          "character": "KES",
+          "line": "The holo-recording. I remember making it. You asked me to help you, to help myself. You wanted me to remember who I was. These years were so filled with confusion and anger. I buried the memory. I'd almost forgotten."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Does it really matter which Kes goes home?"
+        }
+      ],
+      "location": "Engineering"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "NEELIX",
+          "line": "A few snacks for the journey. You do still like leola root?"
+        },
+        {
+          "character": "KES",
+          "line": "Thank you. What?"
+        },
+        {
+          "character": "NEELIX",
+          "line": "Just looking."
+        },
+        {
+          "character": "KES",
+          "line": "See anyone you know?"
+        },
+        {
+          "character": "NEELIX",
+          "line": "Only you."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Goodbye, Kes."
+        },
+        {
+          "character": "KES",
+          "line": "Captain."
+        },
+        {
+          "character": "TUVOK",
+          "line": "What should we tell the others?"
+        },
+        {
+          "character": "JANEWAY",
+          "line": "A friend got lost. We helped her find her way."
+        }
+      ],
+      "location": "Transporter room"
+    }
+  ],
+  "schedule": {
+    "episode": 23,
+    "number": 143,
+    "season": 6
+  },
+  "stardate": "Unknown",
+  "title": "Fury"
+}

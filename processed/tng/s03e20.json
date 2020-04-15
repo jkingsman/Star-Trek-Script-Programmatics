@@ -1,0 +1,1622 @@
+{
+  "airdate": 640843200,
+  "scenes": [
+    {
+      "dialogue": [
+        {
+          "character": "PICARD",
+          "line": "Captain's log, Stardate 43779.3. The Enterprise is preparing detailed exospheric charts of the Hayashi system. Although tedious, this endeavor is the first step toward planet colonization.",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "unknown"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "DATA",
+          "line": "Captain, sensors report the USS Hood is closing on an intercept course at high warp."
+        },
+        {
+          "character": "PICARD",
+          "line": "That's odd. We weren't notified of a rendezvous."
+        },
+        {
+          "character": "RIKER",
+          "line": "They seem to be in an awful hurry."
+        },
+        {
+          "character": "WORF",
+          "line": "Sir, we are being hailed on a secured channel by Captain DeSoto."
+        },
+        {
+          "character": "PICARD",
+          "line": "On screen."
+        },
+        {
+          "character": "DESOTO",
+          "line": "Sorry to sneak up on you like that, Jean Luc",
+          "modifier": "screen"
+        },
+        {
+          "character": "PICARD",
+          "line": "Robert, why didn't you inform us?"
+        },
+        {
+          "character": "DESOTO",
+          "line": "Out here, you never know who's listening. Keeps you on your toes, anyway. Hey, Will. Will, you getting soft on that luxury liner?",
+          "modifier": "screen"
+        },
+        {
+          "character": "PICARD",
+          "line": "So, old friend. How are you?"
+        },
+        {
+          "character": "DESOTO",
+          "line": "Well, you know, they send you Galaxy Class boys out here to the far reaches. Me, I'm just hauling my butt back and forth between starbases.",
+          "modifier": "screen"
+        },
+        {
+          "character": "PICARD",
+          "line": "But not today."
+        },
+        {
+          "character": "DESOTO",
+          "line": "No, not today. Starfleet's got new orders for you. This is top priority. They need the fastest ship in the fleet and the best people. That is you.",
+          "modifier": "screen"
+        },
+        {
+          "character": "PICARD",
+          "line": "If time is so important, why didn't they transmit the orders by subspace?"
+        },
+        {
+          "character": "DESOTO",
+          "line": "They're worried about Romulan eavesdropping on this one. And we've got a passenger for you. Hard to send by subspace.",
+          "modifier": "screen"
+        },
+        {
+          "character": "PICARD",
+          "line": "What sort of passenger?"
+        },
+        {
+          "character": "DESOTO",
+          "line": "Mission specialist. He'll bring your orders aboard with him. His name is Tam Elbrun.",
+          "modifier": "screen"
+        },
+        {
+          "character": "RIKER",
+          "line": "As in Tam Elbrun of the Ghorusda disaster?"
+        },
+        {
+          "character": "DESOTO",
+          "line": "The same. What can I say? Your orders are to cooperate fully with him. Best of luck, folks. Hood out.",
+          "modifier": "screen"
+        },
+        {
+          "character": "DATA",
+          "line": "Sir, the Hood is slowing to impulse."
+        },
+        {
+          "character": "PICARD",
+          "line": "Mister Data, come with me."
+        },
+        {
+          "character": "TROI",
+          "line": "Captain, let me come with you to greet Tam."
+        },
+        {
+          "character": "PICARD",
+          "line": "You know him?"
+        },
+        {
+          "character": "TROI",
+          "line": "I do. He was at the university on Betazed when I studied psychology there."
+        },
+        {
+          "character": "PICARD",
+          "line": "Oh, I see. He was a colleague of yours."
+        },
+        {
+          "character": "TROI",
+          "line": "No. He was a patient"
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TROI",
+          "line": "Tam is a telepath of extraordinary talent, even for a Betazoid. He's a specialist in first contact with new life forms."
+        }
+      ],
+      "location": "Corridor"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TROI",
+          "line": "He's a very unique person, but he's not what you might expect, Captain."
+        },
+        {
+          "character": "PICARD",
+          "line": "Welcome aboard the Enterprise. I'm"
+        },
+        {
+          "character": "TAM",
+          "line": "Captain Picard, right?. Here. You want to know all about your mission. Everything's on there. Orders and briefings, destination and heading, all that. Dee, I sensed you were out here. How've you been?"
+        },
+        {
+          "character": "TROI",
+          "line": "I've been fine, but I thought TAM +"
+        },
+        {
+          "character": "TROI",
+          "line": "you were on thought you were on Chandra Five."
+        },
+        {
+          "character": "DATA",
+          "line": "Sir."
+        },
+        {
+          "character": "TAM",
+          "line": "Who? What are you?"
+        },
+        {
+          "character": "DATA",
+          "line": "I am Data. An android."
+        },
+        {
+          "character": "TAM",
+          "line": "Incredible, an android. I can't read you at all. It's like you're not there."
+        },
+        {
+          "character": "PICARD",
+          "line": "Data."
+        },
+        {
+          "character": "TAM",
+          "line": "Oh. You better hurry up to the bridge with that. Captain wants you to run the orders, scan the technical schematics, and be ready to brief him in ten minutes. Right?"
+        },
+        {
+          "character": "PICARD",
+          "line": "Number One?"
+        },
+        {
+          "character": "RIKER",
+          "line": "Riker here.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "PICARD",
+          "line": "Will you meet Commander Data on the Bridge. He has our orders and new heading."
+        },
+        {
+          "character": "RIKER",
+          "line": "Aye, sir.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "PICARD",
+          "line": "And assemble the bridge staff for a mission briefing in fifteen minutes. Picard out. Mister Elbrun. Would you"
+        },
+        {
+          "character": "TAM",
+          "line": "Care to see my quarters? No. I'd rather get this briefing over with. Then be left alone until I'm needed."
+        }
+      ],
+      "location": "Transporter room"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "LAFORGE",
+          "line": "I've heard something about Ghorusda. Weren't there about forty people killed?"
+        },
+        {
+          "character": "RIKER",
+          "line": "Forty seven, including the captain of the Adelphi and two friends from my class at the Academy."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Sorry."
+        }
+      ],
+      "location": "Corridor"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "RIKER",
+          "line": "Main Bridge."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "So what happened?"
+        },
+        {
+          "character": "RIKER",
+          "line": "It was a first contact situation. Ghorusdan culture is so complex and different, that the Federation sent a specialist to prevent misunderstanding."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "So that was Tam Elbrun. What happened was his fault?"
+        },
+        {
+          "character": "RIKER",
+          "line": "Not directly. Board of inquiry blamed Darson for carelessness about Ghorusdan cultural taboos. But if Elbrun was so good, why didn't he warn Darson? What was he doing there if he couldn't sense that much hostility?"
+        }
+      ],
+      "location": "Turbolift"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "DATA",
+          "line": "Our destination is the Beta Stromgren system, following the path of the Vega Nine probe."
+        },
+        {
+          "character": "RIKER",
+          "line": "That's twenty three parsecs beyond our furthest manned explorations."
+        },
+        {
+          "character": "DATA",
+          "line": "That is correct, Commander. Apparently the probe has diskovered. Astonishing."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "DATA",
+          "line": "Our orders are to proceed to this star, Beta Stromgren. Scientists have diskovered that it is in the final stages of an alternating cycle of expansion and collapse, and will soon result in a supernova. However, the unmanned long range space probe sent by Starfleet to observe the process has diskovered something much more."
+        },
+        {
+          "character": "TAM",
+          "line": "Oh, Data don't waste time. They call it Tin Man. The Vega probe found it orbiting Stromgren."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Looks like some kind of ship."
+        },
+        {
+          "character": "TAM",
+          "line": "Its energy source is unknown. The people who've studied the transmissions think it's a starship. And they're sure it's alive."
+        },
+        {
+          "character": "PICARD",
+          "line": "Alive? How?"
+        },
+        {
+          "character": "LAFORGE",
+          "line": "A cybernetic organism like the Borg?"
+        },
+        {
+          "character": "TAM",
+          "line": "No, no, no. Here. Starfleet believes it's an organic creature, born in space, living its life in the wastes between stars. No one knows where it came from, or why it's here. But we're going to meet it. We're going to talk to it. I'm going to talk to it."
+        },
+        {
+          "character": "RIKER",
+          "line": "Have attempts been made"
+        },
+        {
+          "character": "TAM",
+          "line": "To communicate with it by subspace. Of course. Linguacode, universal translation, all that. It won't work. Tin Man is too different. Direct mind to mind contact is our only hope."
+        },
+        {
+          "character": "TROI",
+          "line": "The opportunity for discovery is extraordinary but I don't understand Starfleet's urgency."
+        },
+        {
+          "character": "PICARD",
+          "line": "Romulans."
+        },
+        {
+          "character": "TAM",
+          "line": "Hell, I forgot. The Romulans."
+        },
+        {
+          "character": "PICARD",
+          "line": "They claim that sector of space where Beta Stromgren is located."
+        },
+        {
+          "character": "WORF",
+          "line": "The Romulans claim all that is in their field of vision."
+        },
+        {
+          "character": "DATA",
+          "line": "They routinely monitor the telemetry of our deep space probes."
+        },
+        {
+          "character": "PICARD",
+          "line": "Then they will certainly be sending a ship of their own to investigate this Tin Man."
+        },
+        {
+          "character": "TAM",
+          "line": "No. Actually, they're sending two. Data?"
+        },
+        {
+          "character": "DATA",
+          "line": "That is correct. Starbase one two three has detected two D'daridex class cruisers on an intercept course. The top speed of this class cruiser is known to be less than ours. Therefore we do have some advantage."
+        },
+        {
+          "character": "PICARD",
+          "line": "Then, it's a race? An alien intelligence, a new life form, representing a technology far beyond that of either the Romulans or ourselves. The Romulans will certainly take whatever measures are required to secure this creature for study."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Study as in dissecting, I'd bet."
+        },
+        {
+          "character": "PICARD",
+          "line": "Mister Data, you are our resident honor student in exobiology. I'm assigning you to head up the Life Sciences on this mission."
+        },
+        {
+          "character": "DATA",
+          "line": "Aye, sir."
+        },
+        {
+          "character": "TAM",
+          "line": "Excellent."
+        },
+        {
+          "character": "PICARD",
+          "line": "Meeting adjourned, then."
+        },
+        {
+          "character": "TAM",
+          "line": "So, Data, I guess you're the brains of this outfit, huh?"
+        },
+        {
+          "character": "PICARD",
+          "line": "Mister Elbrun, one of the reasons I'm asking you to work closely with a member of my staff is to avoid any further omissions. The possibility of an encounter with Romulans on this mission is hardly trivial. And yet"
+        },
+        {
+          "character": "TAM",
+          "line": "All right, all right. I should have brought up the Romulans earlier, but I was distracted. And no, Billy boy, I wasn't distracted on Ghorusda. If Darson had listened to me, no one would have died. No? Well I don't care whether you believe that or not."
+        },
+        {
+          "character": "PICARD",
+          "line": "Captain's log, supplemental. Traveling at high warp, we are still several days from rendezvous with the mysterious entity which Starfleet has christened Tin Man. My immediate concern is with Tam Elbrun. Starfleet considers his unique abilities crucial to our mission, yet he seems to me unstable.",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "Observation lounge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "CRUSHER",
+          "line": "Well, according to his medical records and psych profile, he's very high on the ESP scale. A sort of prodigy."
+        },
+        {
+          "character": "PICARD",
+          "line": "A prodigy? In what sense?"
+        },
+        {
+          "character": "TROI",
+          "line": "Well, in most Betazoids our telepathic gifts develop at adolescence."
+        },
+        {
+          "character": "PICARD",
+          "line": "You mean you're not born reading minds?"
+        },
+        {
+          "character": "TROI",
+          "line": "No. Except for some reason that no one understands, occasionally a Betazoid child is born different."
+        },
+        {
+          "character": "PICARD",
+          "line": "How different?"
+        },
+        {
+          "character": "CRUSHER",
+          "line": "Born with his telepathic abilities switched on."
+        },
+        {
+          "character": "TROI",
+          "line": "Most Betazoids born like that never lead a normal life."
+        },
+        {
+          "character": "CRUSHER",
+          "line": "The noise of other people's thoughts and feelings must be overwhelming, incomprehensible, especially to a child."
+        },
+        {
+          "character": "TROI",
+          "line": "And painful. Early diagnosis and special training did help Tam adjust, but he has some problems."
+        },
+        {
+          "character": "PICARD",
+          "line": "You mentioned a hospitalization."
+        },
+        {
+          "character": "TROI",
+          "line": "For stress. Repeatedly, throughout his life."
+        },
+        {
+          "character": "CRUSHER",
+          "line": "I always wonder what holds one person together through that kind of struggle, while another goes under?"
+        },
+        {
+          "character": "PICARD",
+          "line": "Yes, well, he's evidently done more than hold together. He's the indispensable man. The Federation's finest specialist in communication with unknown life forms."
+        },
+        {
+          "character": "CRUSHER",
+          "line": "The more unusual a life form is, the better he likes it. His personnel file shows that he's gravitated toward assignments that isolate him from other humanoids."
+        }
+      ],
+      "location": "Crusher's office"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "WESLEY",
+          "line": "Commander Data, I'm picking up an unusual echo from my navigational sensors."
+        },
+        {
+          "character": "WORF",
+          "line": "Something is out there, sir, tracking us, matching our speed and heading. Something which does not fully register on our instruments."
+        },
+        {
+          "character": "DATA",
+          "line": "Since there is no known natural phenomenon capable of travel at warp velocities, there are but two possibilities. Either it is a sensor malfunction, another ship is following us covertly."
+        },
+        {
+          "character": "WORF",
+          "line": "It is not a sensor malfunction."
+        },
+        {
+          "character": "DATA",
+          "line": "Agreed."
+        },
+        {
+          "character": "WESLEY",
+          "line": "But Commander, if it is a Romulan ship, with their cloaking device we shouldn't pick them up at all."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Unless they're pulling so much power for something else that they can't fully cloak."
+        },
+        {
+          "character": "WESLEY",
+          "line": "Like what?"
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Ask the Romulans. If it is the Romulans."
+        },
+        {
+          "character": "DATA",
+          "line": "Lieutenant, continue monitoring the precise position of the echo. Any sudden change in its behavior, initiate Yellow Alert."
+        },
+        {
+          "character": "WORF",
+          "line": "Aye, sir."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TAM",
+          "line": "Come in."
+        },
+        {
+          "character": "TAM",
+          "line": "How're things in the land of the living?"
+        },
+        {
+          "character": "TROI",
+          "line": "I thought you might be lonely. No one sees you except Data."
+        },
+        {
+          "character": "TAM",
+          "line": "Lonely? I can hear everything that everyone on this ship thinks. No one besides you seems to be missing my charming"
+        },
+        {
+          "character": "TROI",
+          "line": "You want them to dislike you. Why?"
+        },
+        {
+          "character": "TAM",
+          "line": "Because I'm not a nice man. Okay, okay. Because they scare me. They're too many minds. I can't shut them out. I never could learn. All their loves, their hates, their fears, their needs. It's like a tide that never ebbs. I could drown."
+        },
+        {
+          "character": "TROI",
+          "line": "I remember."
+        },
+        {
+          "character": "TAM",
+          "line": "You understood, at least a little, how I felt. I see you finally found a place to fit in. People to care about."
+        },
+        {
+          "character": "TROI",
+          "line": "And you're still looking."
+        },
+        {
+          "character": "TAM",
+          "line": "Then there's Ghorusda. I've got enough doubt in my reliability without having to listen to Riker's and Picard's"
+        },
+        {
+          "character": "TROI",
+          "line": "What happened there?"
+        },
+        {
+          "character": "TAM",
+          "line": "I thought everyone knew."
+        },
+        {
+          "character": "TROI",
+          "line": "No. What happened to you?"
+        },
+        {
+          "character": "TAM",
+          "line": "Maybe I got too involved with the Ghorusdans, with their point of view. It happens to me. I wanted everyone to get along. I could have warned Darson more forcefully."
+        },
+        {
+          "character": "TROI",
+          "line": "So, after that you ran away? The last I heard, you were the only Federation delegate assigned to Chandra Five."
+        },
+        {
+          "character": "TAM",
+          "line": "Beautiful creatures, the Chandrans. Their minds are glacial. They have a lovely three day ritual for saying hello. Peaceful, untroubled people."
+        },
+        {
+          "character": "TROI",
+          "line": "Unlike humanoids?"
+        },
+        {
+          "character": "TAM",
+          "line": "Well, except for your friend Data. I like him. He's restful."
+        },
+        {
+          "character": "TROI",
+          "line": "I believe your impression of Data is probably unique."
+        },
+        {
+          "character": "TAM",
+          "line": "Yeah? Well, having to get to know someone, just once, has its appeal. I mean, talking to them, instead of getting it all at once up here whether I want it or not."
+        },
+        {
+          "character": "TROI",
+          "line": "But you accepted this mission. You could have stayed on Chandra Five. You willingly came aboard a ship with over a thousand people."
+        },
+        {
+          "character": "TAM",
+          "line": "How could I not? Think of it, Dee. This intelligence that swims naked through space like a fish in the sea. Totally alien, mysterious, not like us at all. Ancient. And alone. So lonely, for so long."
+        },
+        {
+          "character": "TROI",
+          "line": "How can you know that? Tam? You're in contact with it. With Tin Man. Aren't you?"
+        },
+        {
+          "character": "TAM",
+          "line": "No. Well, yes, a little. But not quite on a conscious level."
+        },
+        {
+          "character": "TROI",
+          "line": "We're light years away. That's impossible, even for you."
+        },
+        {
+          "character": "TAM",
+          "line": "Impossible for me. Maybe not impossible for Tin Man."
+        }
+      ],
+      "location": "Tam's quarters"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "PICARD",
+          "line": "Status report, Number One?"
+        },
+        {
+          "character": "RIKER",
+          "line": "We've reached the outer regions of the Beta Stromgren system. On course for orbital intercept of Tin Man, ETA eighteen minutes."
+        },
+        {
+          "character": "PICARD",
+          "line": "Grand."
+        },
+        {
+          "character": "RIKER",
+          "line": "Not altogether. Astrophysics reports that the star's rate of collapse has increased. It could go supernova in the next few days."
+        },
+        {
+          "character": "DATA",
+          "line": "Captain, we are receiving relayed sensor data from the Vega Probe, including visuals."
+        },
+        {
+          "character": "PICARD",
+          "line": "On screen."
+        },
+        {
+          "character": "PICARD",
+          "line": "Magnify."
+        },
+        {
+          "character": "PICARD",
+          "line": "Remarkable. Computer locate Tam Elbrun."
+        },
+        {
+          "character": "COMPUTER",
+          "line": "Tam Elbrun is in turbolift one, en route to the main Bridge."
+        },
+        {
+          "character": "PICARD",
+          "line": "Of course."
+        },
+        {
+          "character": "WORF",
+          "line": "Captain. Our sensors are detecting a subspace wave front of highly ionized particles preceding the object which is tracking us."
+        },
+        {
+          "character": "PICARD",
+          "line": "Yellow Alert. On screen."
+        },
+        {
+          "character": "WORF",
+          "line": "Romulan warbird closing. They are arming main disruptors, Captain."
+        },
+        {
+          "character": "PICARD",
+          "line": "Go to Red Alert. Shields to maximum."
+        },
+        {
+          "character": "RIKER",
+          "line": "Arm photon torpedoes and stand by, Mister Worf."
+        },
+        {
+          "character": "WORF",
+          "line": "Aye, sir."
+        },
+        {
+          "character": "RIKER",
+          "line": "I thought you said the Enterprise was faster than this Romulan."
+        },
+        {
+          "character": "DATA",
+          "line": "In fact, we are, Commander. However"
+        },
+        {
+          "character": "PICARD",
+          "line": "Evasive, Mister Crusher. Hailing frequencies."
+        },
+        {
+          "character": "TAM",
+          "line": "I guarantee that they don't want to talk to you, Captain."
+        },
+        {
+          "character": "WORF",
+          "line": "The Romulan has passed us."
+        },
+        {
+          "character": "PICARD",
+          "line": "Damage report."
+        },
+        {
+          "character": "WORF",
+          "line": "Casualties reported. Seventy percent loss to the shields."
+        },
+        {
+          "character": "TAM",
+          "line": "Their attack on us was incidental, Captain."
+        },
+        {
+          "character": "PICARD",
+          "line": "Incidental?"
+        },
+        {
+          "character": "TAM",
+          "line": "Yes. To delay us."
+        },
+        {
+          "character": "DATA",
+          "line": "Captain, it would appear that the Romulan's intent is to contact Tin Man first, at any cost. According to my sensor readings, the warbird has exceeded maximum engine output by thirty percent. They seem to have irreparable damage to their warp coils."
+        },
+        {
+          "character": "RIKER",
+          "line": "So they kept up with us by sacrificing their ability to re-enter Romulan space."
+        },
+        {
+          "character": "PICARD",
+          "line": "One way trip."
+        },
+        {
+          "character": "TAM",
+          "line": "There is one more trailing us, Captain. A day or two behind. Data's right. This one's job is to beat us to Tin Man at any cost."
+        },
+        {
+          "character": "PICARD",
+          "line": "You read all this, telepathically?"
+        },
+        {
+          "character": "TAM",
+          "line": "In the mind of the Romulan commander during the attack."
+        },
+        {
+          "character": "PICARD",
+          "line": "Very well. Mister Crusher, all stop."
+        },
+        {
+          "character": "WESLEY",
+          "line": "Aye, sir."
+        },
+        {
+          "character": "PICARD",
+          "line": "Commander La Forge."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "La Forge here.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "PICARD",
+          "line": "Geordi"
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "PICARD",
+          "line": "How long to full shield restoration?",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "LAFORGE",
+          "line": "I'm working on it. Computer, reconfigure structural integrity power to feed inner deflector grid."
+        },
+        {
+          "character": "COMPUTER",
+          "line": "Unable to comply. Requested reroute would compromise operational safety limits."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "To hell with the limits. Override. Authorization La Forge theta two nine nine seven."
+        },
+        {
+          "character": "COMPUTER",
+          "line": "Rerouting structural integrity power supply."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Russell, watch the lateral grid balance. No. no, no, that's too much. We're going to have to do it manually. La Forge to Bridge."
+        },
+        {
+          "character": "PICARD",
+          "line": "Go ahead.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Captain, I'm trying to feed the inner grid by stealing some power from the structural integrity field. You should have partial shielding in thirty minutes."
+        },
+        {
+          "character": "PICARD",
+          "line": "You have ten. Picard out.",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "Engineering"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "PICARD",
+          "line": "If the Romulans wish the honor of the first contact, let them have it."
+        },
+        {
+          "character": "TAM",
+          "line": "You're out of your mind, Picard! What if the Romulans find a way to persuade Tin Man to"
+        },
+        {
+          "character": "PICARD",
+          "line": "I think the chances of that is remote. And if you will be still, Mister Elbrun, you may learn."
+        },
+        {
+          "character": "TAM",
+          "line": "What?"
+        },
+        {
+          "character": "PICARD",
+          "line": "That being first, at any cost, is not always the point. Mister Data, while we await repairs, I want Life Sciences and Engineering to continue collecting information on the alien. And query the Vega Nine probe, long range sensors."
+        },
+        {
+          "character": "DATA",
+          "line": "Aye, sir."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TAM",
+          "line": "You do a lot of your work here?"
+        },
+        {
+          "character": "DATA",
+          "line": "Yes. I have configured these instruments to display information with greater speed and efficiency than stations used by the others."
+        },
+        {
+          "character": "TAM",
+          "line": "Nice. A little Spartan."
+        },
+        {
+          "character": "DATA",
+          "line": "Spartan?"
+        },
+        {
+          "character": "TAM",
+          "line": "Lots of work space, not much room to live. I don't guess you sleep."
+        },
+        {
+          "character": "DATA",
+          "line": "I have tried it from time to time. But you are correct. I do not require rest."
+        },
+        {
+          "character": "TAM",
+          "line": "But you paint."
+        },
+        {
+          "character": "DATA",
+          "line": "The creature's anatomy appears most peculiar."
+        },
+        {
+          "character": "TAM",
+          "line": "In what way?"
+        },
+        {
+          "character": "DATA",
+          "line": "It is indeed laid out as a vessel with what appear to be corridors and chambers. An internal environment suitable for carbon based life forms is being maintained, yet there is no evidence of a crew aboard. Tin Man is a living being which has been bred or has adapted itself to serve a purpose. I find that interesting."
+        },
+        {
+          "character": "TAM",
+          "line": "Why? Must living beings have a purpose? Or do we exist for no reason but to exist?"
+        },
+        {
+          "character": "DATA",
+          "line": "I do not believe I am qualified to express an opinion."
+        },
+        {
+          "character": "TAM",
+          "line": "Ah, Data, you're uniquely qualified. You think a great deal about humanity and you're an honest researcher. You don't treat anything as trivial, or irrelevant. You want to try it all."
+        },
+        {
+          "character": "DATA",
+          "line": "You said in the transporter room that you could not read my mind."
+        },
+        {
+          "character": "TAM",
+          "line": "True enough. But I think I understand you pretty well. It worries you that I can't read your mind?"
+        },
+        {
+          "character": "DATA",
+          "line": "Perhaps there is nothing to read. Nothing more than mechanisms and algorithmic responses."
+        },
+        {
+          "character": "TAM",
+          "line": "Perhaps you're just different. Not a sin, you know, though you may have heard otherwise."
+        }
+      ],
+      "location": "Data's quarters"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "DATA",
+          "line": "Captain, the Romulan ship is hailing the alien using their equivalent of linguacode."
+        },
+        {
+          "character": "RIKER",
+          "line": "Response?"
+        },
+        {
+          "character": "DATA",
+          "line": "Nothing so far, Commander."
+        },
+        {
+          "character": "TAM",
+          "line": "Why should it answer? What could it possibly have in common with them?"
+        },
+        {
+          "character": "RIKER",
+          "line": "But you're so sure it'll talk to you."
+        },
+        {
+          "character": "WORF",
+          "line": "Captain, the Romulans are arming all disruptors."
+        },
+        {
+          "character": "PICARD",
+          "line": "Yellow alert. Prepare for evasive action at the first change in the Romulan's course."
+        },
+        {
+          "character": "RIKER",
+          "line": "With our shields in their present condition, we can't"
+        },
+        {
+          "character": "TAM",
+          "line": "No! No! We're not the target. It's Tin Man."
+        },
+        {
+          "character": "PICARD",
+          "line": "What do you mean? Do they intend to destroy it?"
+        },
+        {
+          "character": "TAM",
+          "line": "Those are their orders if they can't secure the alien."
+        },
+        {
+          "character": "PICARD",
+          "line": "Increase speed to intercept the Romulan vessel."
+        },
+        {
+          "character": "WESLEY",
+          "line": "Their lead is too great, sir."
+        },
+        {
+          "character": "PICARD",
+          "line": "Hail them. We cannot allow them"
+        },
+        {
+          "character": "TAM",
+          "line": "They won't listen to you!"
+        },
+        {
+          "character": "TAM",
+          "line": "Danger. Gomtuu. Do not allow."
+        },
+        {
+          "character": "PICARD",
+          "line": "Damage report!"
+        },
+        {
+          "character": "WORF",
+          "line": "Nothing available yet, sir. We have partial failure of the main computer."
+        },
+        {
+          "character": "PICARD",
+          "line": "It seems you woke your Tin Man."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "LAFORGE",
+          "line": "We've got impulse power, but I've got to take the warp engines offline while we recalibrate the intermix regulators."
+        },
+        {
+          "character": "RIKER",
+          "line": "How long?"
+        },
+        {
+          "character": "LAFORGE",
+          "line": "For everything, or just for the warp engine?"
+        },
+        {
+          "character": "RIKER",
+          "line": "All of it."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Commander, we're looking at twenty hours work here, double shifts."
+        },
+        {
+          "character": "RIKER",
+          "line": "We don't know that we have twenty hours. That star could explode at any moment."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "I know. Okay, first thing we need to do is get the main computer working right."
+        },
+        {
+          "character": "RIKER",
+          "line": "No, we fix the shields first."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Commander, whatever Tin Man hit us with, it fried circuits I thought were unfryable."
+        },
+        {
+          "character": "RIKER",
+          "line": "I'm not worried about Tin Man. It's more Romulans showing up."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Right. First priority, get the shields up. Only let's not have any more surprises till I'm done, okay?"
+        },
+        {
+          "character": "RIKER",
+          "line": "Don't ask me about surprises. Ask Tam Elbrun."
+        }
+      ],
+      "location": "Engineering"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "CRUSHER",
+          "line": "Your brain activity suggests that you're coming out of a sort of fugue, or seizure. Your blood pressure and glucose are indicative of general systemic stress."
+        },
+        {
+          "character": "TAM",
+          "line": "But I'm going to live?"
+        },
+        {
+          "character": "CRUSHER",
+          "line": "No doubt about it."
+        },
+        {
+          "character": "PICARD",
+          "line": "Good. Because I want to know exactly what you did. I want to know how closely you are in communication with the alien, and what you've learned about it, and I want to know now."
+        },
+        {
+          "character": "TAM",
+          "line": "I just warned it, that's all. I've been in contact with it, sensing impressions from it. It calls itself Gomtuu. It's old, Captain. It's roamed the universe for many thousands of years."
+        },
+        {
+          "character": "PICARD",
+          "line": "Where did it come from? How many"
+        },
+        {
+          "character": "TAM",
+          "line": "Far away. Maybe beyond the galaxy. Once there were millions of them."
+        },
+        {
+          "character": "PICARD",
+          "line": "Once?"
+        },
+        {
+          "character": "TAM",
+          "line": "It hasn't seen another of its kind for millennia. It's alone. It may be the last of its species."
+        },
+        {
+          "character": "PICARD",
+          "line": "Perhaps we can help it in some way. Can you ask it to return with us to Federation space? At least persuade it to leave the vicinity of Beta Stromgren, before the star explodes?"
+        },
+        {
+          "character": "TAM",
+          "line": "Captain, Gomtuu knows that the star will go nova soon. That's why it's here. It wants to die. There was an explosion in space. Radiation penetrating the outer layers. The crew. Oh, the crew died. Such loss. Empty pain, Hollowness."
+        },
+        {
+          "character": "TROI",
+          "line": "Tam. Stop this! You're losing yourself in this this merging."
+        },
+        {
+          "character": "TAM",
+          "line": "I know. I know. Tin Man hurts and wants to die. I can't do any more from out here. If you want me to really reach Tin Man, I have got to be in physical contact. I have got to go aboard."
+        },
+        {
+          "character": "PICARD",
+          "line": "No. That is absolutely out of the question."
+        },
+        {
+          "character": "TAM",
+          "line": "You don't trust me."
+        },
+        {
+          "character": "PICARD",
+          "line": "No, Tam, I don't believe that I do. Tam, when you reached out to the alien, to warn it, did you give any thought to this vessel? To the danger, however inadvertent, that creature might pose to our crew? Or did you simply react out of instinct?"
+        },
+        {
+          "character": "TROI",
+          "line": "Captain"
+        },
+        {
+          "character": "TAM",
+          "line": "Deanna, he's right. I don't know. I don't know what might happen but if you don't let me go, we fail our mission. Besides, at this point, you need all the help you can get. Even Tin Man's."
+        }
+      ],
+      "location": "Sickbay"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "LAFORGE",
+          "line": "Russell, reactivate the sensor assemblies. Okay, let's do a program reload, port array only. Good. That's good. Computer, run level two diagnostic."
+        },
+        {
+          "character": "COMPUTER",
+          "line": "Port sensor array remains offline."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Damn."
+        },
+        {
+          "character": "RIKER",
+          "line": "Riker to La Forge. How's it coming?",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Not good. I think all the control processors are shot. But maybe if I swap the chips from the secondary array, I can give you a minimum EM scan."
+        },
+        {
+          "character": "RIKER",
+          "line": "Do it.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Okay Russell, we're going to try starting retro sensor element thirty two only. You in? Go. The good news is that we have partial long range sensors. La Forge to Bridge."
+        },
+        {
+          "character": "RIKER",
+          "line": "Riker here.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "LAFORGE",
+          "line": "I'm picking up another echo on the long range sensor display here. You getting that"
+        }
+      ],
+      "location": "Engineering"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "LAFORGE",
+          "line": "On your panel?",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "RIKER",
+          "line": "Worf?"
+        },
+        {
+          "character": "WORF",
+          "line": "One moment, Commander. Confirmed. Sir, the other Romulan ship on an intercept course."
+        },
+        {
+          "character": "RIKER",
+          "line": "Geordi, are we going to have those shields anytime soon?"
+        },
+        {
+          "character": "LAFORGE",
+          "line": "I'm doing the best I can",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "LAFORGE",
+          "line": "But shields won't help if that star explodes."
+        }
+      ],
+      "location": "Engineering"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "PICARD",
+          "line": "Data, you seem to have developed an affinity with Elbrun. Troi, you've known him for years. How far can he be trusted?"
+        },
+        {
+          "character": "TROI",
+          "line": "Captain, the issue isn't one of trust in Tam's intentions, but in his judgment. I would trust him to do what he believes is right"
+        },
+        {
+          "character": "PICARD",
+          "line": "Yes, of course. But his judgment"
+        },
+        {
+          "character": "TROI",
+          "line": "Is precarious. The stress of exposure to so many minds on the ship is bad enough. Now he's strongly drawn to this creature. I'm afraid for him."
+        },
+        {
+          "character": "PICARD",
+          "line": "Afraid of what?"
+        },
+        {
+          "character": "TROI",
+          "line": "I sense that the alien is somehow calling him. If we allow him to do as he insists, to beam over, I'm believe that we will lose him to it. That he will lose himself."
+        },
+        {
+          "character": "DATA",
+          "line": "Captain, I agree that Tam's motives are trustworthy, and I do not believe it is possible that he will act against us, or will cause Tin Man to act against us out of malice."
+        },
+        {
+          "character": "TROI",
+          "line": "Captain, if Tam breaks down over there, we'll be no closer to accomplishing our mission. It would be a grave mistake."
+        },
+        {
+          "character": "PICARD",
+          "line": "Thank you both."
+        },
+        {
+          "character": "PICARD",
+          "line": "Data?"
+        },
+        {
+          "character": "DATA",
+          "line": "I am puzzled, sir. We have come this far. Are you not going to allow Tam to fulfilll his mission?"
+        },
+        {
+          "character": "PICARD",
+          "line": "Tam Elbrun warned Tin Man. The first thing it did was to destroy a space vessel."
+        },
+        {
+          "character": "DATA",
+          "line": "I believe I understand, sir. If you feel the risk is too great to send Tam Elbrun alone, then send me with him."
+        },
+        {
+          "character": "PICARD",
+          "line": "Counselor Troi understands him better."
+        },
+        {
+          "character": "DATA",
+          "line": "But he is more comfortable with me, sir. It is humanity he is fleeing. Sir, I can serve as an intermediary, a bridge back. A reminder of his obligations both to us and to Tin Man."
+        }
+      ],
+      "location": "Ready room"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "WORF",
+          "line": "Captain, the Romulan has uncloaked."
+        },
+        {
+          "character": "PICARD",
+          "line": "Status, Number One?"
+        },
+        {
+          "character": "RIKER",
+          "line": "Shields are at forty percent. We can maneuver on impulse, sir."
+        },
+        {
+          "character": "WORF",
+          "line": "Phasers available on manual, sir. Computer target lock not functioning."
+        },
+        {
+          "character": "PICARD",
+          "line": "Well, let's hope they're in a mood to talk. Hailing frequency."
+        },
+        {
+          "character": "WORF",
+          "line": "Open."
+        },
+        {
+          "character": "PICARD",
+          "line": "Romulan vessel this is Captain Jean-Luc Picard of the USS Enterprise."
+        },
+        {
+          "character": "ROMULAN",
+          "line": "Enterprise, your presence here is a violation of Romulan space. You will leave immediately.",
+          "modifier": "screen"
+        },
+        {
+          "character": "PICARD",
+          "line": "We are not familiar with the terms of your claim on this sector. We're here engaged in scientific research. Do you wish to participate?"
+        },
+        {
+          "character": "ROMULAN",
+          "line": "We have monitored the destruction of our sister ship by the star creature. We claim right of vengeance. We will destroy the alien. If you interfere, we will destroy you as well.",
+          "modifier": "screen"
+        },
+        {
+          "character": "PICARD",
+          "line": "Captain's log, Supplemental. A confrontation between the Romulan Warbird and Tin Man is imminent. I have no alternative but to rely on the telepathic abilities of Tam Elbrun.",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "PICARD",
+          "line": "Picard to Tam Elbrun."
+        },
+        {
+          "character": "TAM",
+          "line": "Captain?",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "PICARD",
+          "line": "Report to transporter room six immediately."
+        },
+        {
+          "character": "TROI",
+          "line": "Captain, I don't"
+        },
+        {
+          "character": "PICARD",
+          "line": "Commander Data will meet you there."
+        },
+        {
+          "character": "TAM",
+          "line": "Yes, Captain.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "PICARD",
+          "line": "Counselor, we no longer have a choice."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TAM",
+          "line": "No. No. Too much. Too much."
+        },
+        {
+          "character": "DATA",
+          "line": "Tam?"
+        },
+        {
+          "character": "TAM",
+          "line": "I can't."
+        },
+        {
+          "character": "DATA",
+          "line": "Data to Enterprise. Enterprise, come in."
+        },
+        {
+          "character": "TAM",
+          "line": "No, don't."
+        },
+        {
+          "character": "DATA",
+          "line": "If it is harming you, we must return. Enterprise, respond."
+        },
+        {
+          "character": "TAM",
+          "line": "It's all right. It's all right now. Gomtuu was trying to communicate a lifetime of experiences to me in a few seconds, but I'm all right now."
+        }
+      ],
+      "location": "Gomtuu corridor"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "O'BRIEN",
+          "line": "O'Brien to Bridge."
+        },
+        {
+          "character": "PICARD",
+          "line": "Go ahead, Chief.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "O'BRIEN",
+          "line": "I lost the transporter lock on them."
+        }
+      ],
+      "location": "Transporter room"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "O'BRIEN",
+          "line": "Some kind of force field went up.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "WORF",
+          "line": "Confirmed. The alien has thrown up a shield. It is blocking all our sensors. Captain, the Romulans' weapons systems are now at full power."
+        },
+        {
+          "character": "PICARD",
+          "line": "Follow them in, Mister Crusher. Red Alert. Mister Worf, arm photon torpedoes."
+        },
+        {
+          "character": "WORF",
+          "line": "Aye, sir."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TAM",
+          "line": "Yes."
+        },
+        {
+          "character": "DATA",
+          "line": "There is a large chamber twenty meters ahead."
+        },
+        {
+          "character": "TAM",
+          "line": "I know. I know everything now. Come on."
+        }
+      ],
+      "location": "Gomtuu corridor"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "DATA",
+          "line": "Intriguing."
+        },
+        {
+          "character": "TAM",
+          "line": "This is the control center, where Gomtuu's crew guided their journeys. The ship and the crew existed symbiotically. They needed one another. When Gomtuu had no one left to care for, it no longer had a reason to exist."
+        },
+        {
+          "character": "DATA",
+          "line": "Is that the purpose of existence? To care for someone?"
+        },
+        {
+          "character": "TAM",
+          "line": "It is for me. Deanna was right. I'll lose myself here."
+        },
+        {
+          "character": "DATA",
+          "line": "I must remind you that our objective is to bring Tin Man out of danger and report our findings to Starfleet."
+        },
+        {
+          "character": "TAM",
+          "line": "I'm not going back, Data. I'm staying here."
+        }
+      ],
+      "location": "Pilot chamber"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "WORF",
+          "line": "Sir, the Romulans are hailing us."
+        },
+        {
+          "character": "ROMULAN",
+          "line": "Captain Picard, if you interfere with us, we will fire upon you as well.",
+          "modifier": "screen"
+        },
+        {
+          "character": "PICARD",
+          "line": "Commander, we are prepared to defend the life of the alien. Screen off. Shields up."
+        },
+        {
+          "character": "WORF",
+          "line": "Power levels aboard the alien are increasing, sir."
+        },
+        {
+          "character": "WESLEY",
+          "line": "Captain, the diameter of the star has decreased by one hundred thousand kilometers."
+        },
+        {
+          "character": "PICARD",
+          "line": "It's beginning."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TAM",
+          "line": "Explain to them. Make them understand."
+        },
+        {
+          "character": "DATA",
+          "line": "But our mission"
+        },
+        {
+          "character": "TAM",
+          "line": "Is to save Tin Man. And I will. But he's going to save me as well. All my life I have waited for this. A chance to find peace. Finally all the voices are silent. Only Tin Man speaks to me now. Don't you see, Data? This is where I belong."
+        }
+      ],
+      "location": "Pilot chamber"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "RIKER",
+          "line": "That star's going to go any minute, sir."
+        },
+        {
+          "character": "PICARD",
+          "line": "The Romulans know that as well as we do."
+        },
+        {
+          "character": "WORF",
+          "line": "Power levels aboard Tin Man are increasing beyond our sensor range."
+        },
+        {
+          "character": "PICARD",
+          "line": "Conn report."
+        },
+        {
+          "character": "WESLEY",
+          "line": "Dead stop, Captain. Sir, we've been thrown clear of Beta Stromgren. A distance of three point eight billion kilometers."
+        },
+        {
+          "character": "WORF",
+          "line": "There is no sign of Tin Man or the Romulans, sir. Captain, on screen."
+        },
+        {
+          "character": "PICARD",
+          "line": "Data."
+        },
+        {
+          "character": "DATA",
+          "line": "Sir?"
+        },
+        {
+          "character": "PICARD",
+          "line": "Data, what happened over there?"
+        },
+        {
+          "character": "DATA",
+          "line": "Difficult to explain, Captain."
+        },
+        {
+          "character": "TROI",
+          "line": "Tam?"
+        },
+        {
+          "character": "DATA",
+          "line": "I believe he found what he was looking for, Counselor."
+        },
+        {
+          "character": "PICARD",
+          "line": "Captain's log, supplemental. With all main systems at least temporarily restored, we are proceeding to Starbase one five two for inspection and additional repairs. We have had no further encounter with the Romulans. As for the whereabouts of Tin Man and Tam Elbrun, we can only speculate.",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TROI",
+          "line": "You sent for me?"
+        },
+        {
+          "character": "DATA",
+          "line": "Yes, Counselor. It was Tam's final request that I explain his decision to the crew. But I believe his hope was that you would understand."
+        },
+        {
+          "character": "TROI",
+          "line": "What did happen?"
+        },
+        {
+          "character": "DATA",
+          "line": "I witnessed something remarkable. Individually they were both so"
+        },
+        {
+          "character": "TROI",
+          "line": "Wounded? Isolated?"
+        },
+        {
+          "character": "DATA",
+          "line": "Yes. But no longer. Through joining they have been healed. Grief has been transmuted to joy. Loneliness to belonging."
+        },
+        {
+          "character": "TROI",
+          "line": "Data, you do understand."
+        },
+        {
+          "character": "DATA",
+          "line": "Yes, Counselor. When Tin Man returned me to the Enterprise, I realized this is where I belong."
+        }
+      ],
+      "location": "Observation lounge"
+    }
+  ],
+  "schedule": {
+    "episode": 20,
+    "number": 68,
+    "season": 3
+  },
+  "stardate": "43779.3",
+  "title": "Tin Man"
+}

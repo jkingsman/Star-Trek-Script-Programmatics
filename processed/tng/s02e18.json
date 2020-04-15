@@ -1,0 +1,1709 @@
+{
+  "airdate": 611812800,
+  "scenes": [
+    {
+      "dialogue": [
+        {
+          "character": "PICARD",
+          "line": "Number One, will you join me in the Ready room?"
+        },
+        {
+          "character": "RIKER",
+          "line": "Yes, sir."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "PICARD",
+          "line": "I've just come from a meeting with Admiral Moore. He wanted to diskuss this."
+        },
+        {
+          "character": "PICARD",
+          "line": "Recognize it?"
+        },
+        {
+          "character": "RIKER",
+          "line": "Sounds like it might be an SOS."
+        },
+        {
+          "character": "PICARD",
+          "line": "Good guess. You're quicker than Starbase research. It took them hours to determine this was a distress beacon."
+        },
+        {
+          "character": "RIKER",
+          "line": "When was it detected?"
+        },
+        {
+          "character": "PICARD",
+          "line": "Last month. Just kicked in without any warning."
+        },
+        {
+          "character": "RIKER",
+          "line": "Who used the beacon?"
+        },
+        {
+          "character": "PICARD",
+          "line": "It's Terran."
+        },
+        {
+          "character": "RIKER",
+          "line": "Captain, I'm familiar with most Earth codes, and"
+        },
+        {
+          "character": "PICARD",
+          "line": "Interesting. Yes, that code hasn't been used in centuries."
+        },
+        {
+          "character": "RIKER",
+          "line": "What was its origin point?"
+        },
+        {
+          "character": "PICARD",
+          "line": "Ficus sector."
+        },
+        {
+          "character": "RIKER",
+          "line": "Captain, I don't think there's any record of an Earth colony in that area."
+        },
+        {
+          "character": "PICARD",
+          "line": "Now we know there's someone out there and they're asking for help."
+        },
+        {
+          "character": "RIKER",
+          "line": "But who?"
+        },
+        {
+          "character": "PICARD",
+          "line": "Let's try and find out. Computer, download all information regarding signal beacon from Starbase mainframe."
+        },
+        {
+          "character": "COMPUTER",
+          "line": "Distress beacon used by the European Hegemony."
+        },
+        {
+          "character": "RIKER",
+          "line": "The European Hegemony?"
+        },
+        {
+          "character": "PICARD",
+          "line": "A loose alliance formed in the early part of the twenty second century. It was the first stirrings of world government. You should read more history, Number One. Computer, locate exact dates in which this signal beacon was in general use."
+        },
+        {
+          "character": "COMPUTER",
+          "line": "Old Earth calendar, 2123 until 2190."
+        },
+        {
+          "character": "RIKER",
+          "line": "No extraterrestrial source ever used this code?"
+        },
+        {
+          "character": "COMPUTER",
+          "line": "Negative."
+        },
+        {
+          "character": "PICARD",
+          "line": "Locate all Earth deep space launches from 2123 until 2190, with a destination in or near the Ficus sector."
+        },
+        {
+          "character": "COMPUTER",
+          "line": "Working."
+        },
+        {
+          "character": "RIKER",
+          "line": "Nothing for Ficus."
+        },
+        {
+          "character": "PICARD",
+          "line": "Damn it, who's out there?"
+        },
+        {
+          "character": "RIKER",
+          "line": "Lost sheep."
+        },
+        {
+          "character": "PICARD",
+          "line": "Let's go see if we can find them."
+        }
+      ],
+      "location": "Ready room"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "DATA",
+          "line": "Medical emergency. Doctor Pulaski to the Bridge."
+        },
+        {
+          "character": "PICARD",
+          "line": "What happened?"
+        },
+        {
+          "character": "DATA",
+          "line": "He just collapsed, sir."
+        },
+        {
+          "character": "PICARD",
+          "line": "Captain's log, stardate 42823.2. We're departing from Starbase Seven Three to investigate the source of the mysterious distress signal. Meanwhile, my Security Officer remains in Sickbay, where Doctor Pulaski is searching for the cause of his collapse.",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "WORF",
+          "line": "I am fine."
+        },
+        {
+          "character": "PULASKI",
+          "line": "You're not fine. You fainted."
+        },
+        {
+          "character": "WORF",
+          "line": "I did not faint. Klingons do not faint."
+        },
+        {
+          "character": "PULASKI",
+          "line": "Excuse me, I'll rephrase. This Klingon suffered a dramatic drop in blood pressure, his blood glucose level dropped, there was deficient blood flow resulting from circulatory failure. In other words, he curled up his toes and laid unconscious on the floor."
+        },
+        {
+          "character": "WORF",
+          "line": "Doctor, there is no need to insult me."
+        },
+        {
+          "character": "PULASKI",
+          "line": "Worf, I am worried. Now, something is wrong. Klingons don't faint. Forgive me. I just can't think of another word that applies. You're sick."
+        },
+        {
+          "character": "WORF",
+          "line": "Klingons do not give in to illness."
+        },
+        {
+          "character": "PULASKI",
+          "line": "Just stay right where you are. I have to check something with the computer. Lieutenant, you have rop'ngor."
+        },
+        {
+          "character": "WORF",
+          "line": "But that is a childhood ailment!"
+        },
+        {
+          "character": "PULASKI",
+          "line": "Yes."
+        },
+        {
+          "character": "WORF",
+          "line": "How shall I live down the humiliation?"
+        },
+        {
+          "character": "PULASKI",
+          "line": "Worf, you can't help."
+        },
+        {
+          "character": "WORF",
+          "line": "Still, for a warrior to find himself in such a situation."
+        },
+        {
+          "character": "PULASKI",
+          "line": "So you've got the Klingon version of the measles."
+        },
+        {
+          "character": "WORF",
+          "line": "How would Commander Riker feel if he had the measles."
+        },
+        {
+          "character": "PULASKI",
+          "line": "Pretty silly."
+        },
+        {
+          "character": "PICARD",
+          "line": "Doctor Pulaski, how is Lieutenant Worf?",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "PULASKI",
+          "line": "He's in no danger. Worf was just observing a Klingon ritual involving fasting, and he didn't take into account that you have to decrease your physical activity as you decrease your caloric intake. Pulaski out."
+        },
+        {
+          "character": "WORF",
+          "line": "Thank you. I am in your debt."
+        }
+      ],
+      "location": "Sickbay"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "PICARD",
+          "line": "Come."
+        },
+        {
+          "character": "DATA",
+          "line": "Captain, I have been considering the problem of the missing ship. Although there is no record of a launch to the Ficus sector, which would not be unusual considering the chaos of the early twenty second century, someone had to load that ship."
+        },
+        {
+          "character": "PICARD",
+          "line": "The manifest."
+        },
+        {
+          "character": "DATA",
+          "line": "Yes, sir."
+        },
+        {
+          "character": "PICARD",
+          "line": "There it is. SS Mariposa, loaded 27th November, 2123. Destination Ficus sector. Captain Walter Granger, commanding."
+        },
+        {
+          "character": "DATA",
+          "line": "Mariposa. The Spanish word for butterfly."
+        },
+        {
+          "character": "PICARD",
+          "line": "Thank you, Data."
+        },
+        {
+          "character": "DATA",
+          "line": "I thought it might be significant, sir."
+        },
+        {
+          "character": "PICARD",
+          "line": "It doesn't appear to be, Data."
+        },
+        {
+          "character": "DATA",
+          "line": "No, sir."
+        },
+        {
+          "character": "PICARD",
+          "line": "You learn a lot about people from their luggage. Two hundred and twenty five Yoshimitsu computers, five monitor beacon satellites, seven hundred cellular commlinks, fifty spinning wheels."
+        },
+        {
+          "character": "DATA",
+          "line": "Spinning wheels? Accessing. A device for spinning yarn or thread that consists of a large foot or hand driven wheel and one spindle."
+        },
+        {
+          "character": "PICARD",
+          "line": "Cattle, chickens, pigs. Not DNA, the actual livestock. Incredible. Why would anyone carry such an insane mix of cargo?"
+        },
+        {
+          "character": "DATA",
+          "line": "Spindle, a thin rounded tapering rod"
+        },
+        {
+          "character": "PICARD",
+          "line": "Data!"
+        },
+        {
+          "character": "DATA",
+          "line": "Perhaps they were planning for the worst, sir."
+        },
+        {
+          "character": "PICARD",
+          "line": "Theorize, Data. Give me some background."
+        },
+        {
+          "character": "DATA",
+          "line": "In the early twenty-second century, Earth was recovering from World War Three. A major philosopher of the period was Liam Dieghan, founder of the Neo-Transcendentalists, who advocated a return to a simpler life in which one lived in harmony with nature, and learned under her gentle tutelage"
+        },
+        {
+          "character": "PICARD",
+          "line": "Thank you, Data. But if this was a ship full of utopians, why carry all this technological baggage?"
+        },
+        {
+          "character": "DATA",
+          "line": "I have insufficient information from which to form a cogent theory, sir."
+        }
+      ],
+      "location": "Ready room"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "WORF",
+          "line": "Doctor. I wished to thank you for protecting my"
+        },
+        {
+          "character": "PULASKI",
+          "line": "Your secret is safe with me. Worf, I'm honored. No one has ever performed the Klingon tea ceremony for me."
+        },
+        {
+          "character": "PULASKI",
+          "line": "There, that should do it."
+        },
+        {
+          "character": "WORF",
+          "line": "You know the ceremony?"
+        },
+        {
+          "character": "PULASKI",
+          "line": "I understand the externals, not the mysteries. I'm not a Klingon."
+        },
+        {
+          "character": "WORF",
+          "line": "You must not drink the tea. It is deadly to humans."
+        },
+        {
+          "character": "PULASKI",
+          "line": "And none too good for Klingons."
+        },
+        {
+          "character": "WORF",
+          "line": "It is a test of bravery, of one's ability to look at the face of mortality. It is also a reminder that death is an experience best shared, like the tea."
+        },
+        {
+          "character": "PULASKI",
+          "line": "Worf, you're a romantic."
+        },
+        {
+          "character": "WORF",
+          "line": "It is among the Klingons that love poetry achieves its fullest flower."
+        },
+        {
+          "character": "PULASKI",
+          "line": "Hold that thought."
+        },
+        {
+          "character": "PULASKI",
+          "line": "Antidote. If we're going to share, let's share. Now, quote me a little of that poetry."
+        }
+      ],
+      "location": "Pulaski's office"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "PICARD",
+          "line": "Initiate sensor sweeps."
+        },
+        {
+          "character": "DATA",
+          "line": "Aye, sir. The system's sun has entered a period of severe flare activity."
+        },
+        {
+          "character": "RIKER",
+          "line": "Now we know what triggered the SOS."
+        },
+        {
+          "character": "DATA",
+          "line": "Class M readings from the fifth planet in the system."
+        },
+        {
+          "character": "PICARD",
+          "line": "Take us in."
+        },
+        {
+          "character": "WORF",
+          "line": "Shields at maximum."
+        },
+        {
+          "character": "DATA",
+          "line": "Sensors indicate human life form readings thirty meters below the planet's surface."
+        },
+        {
+          "character": "WORF",
+          "line": "Hailing on all frequencies. No response so far, but the flares may be interfering with communications."
+        },
+        {
+          "character": "DATA",
+          "line": "There is no evidence of an advanced communication network."
+        },
+        {
+          "character": "PICARD",
+          "line": "They brought a lot of technology. Where is it?"
+        },
+        {
+          "character": "WORF",
+          "line": "There is no artificial power source on the planet."
+        },
+        {
+          "character": "DATA",
+          "line": "The stellar flares are increasing in magnitude and frequency. Computer projections indicate they will brush the planet in three point six hours."
+        },
+        {
+          "character": "WORF",
+          "line": "Evacuation will be difficult. We can lower our shields for transport only between the flares."
+        },
+        {
+          "character": "TROI",
+          "line": "Captain, these people have been isolated for three hundred years. They could be very unsophisticated. The shock of suddenly being transported onto a spaceship could frighten them, to say the least."
+        },
+        {
+          "character": "PICARD",
+          "line": "Your point is well taken, Counselor. Number One, you're going to have to go down there."
+        },
+        {
+          "character": "RIKER",
+          "line": "On my way."
+        },
+        {
+          "character": "PICARD",
+          "line": "Captain's log, stardate 42827.3. Commander Riker has reached the caverns, where he is making preparations to begin the evacuation.",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "PICARD",
+          "line": "What's the situation, Number One?"
+        },
+        {
+          "character": "RIKER",
+          "line": "There are roughly two hundred people down here.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "PICARD",
+          "line": "Their condition?"
+        },
+        {
+          "character": "RIKER",
+          "line": "Surprisingly good.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "PICARD",
+          "line": "Are they willing to leave?"
+        },
+        {
+          "character": "RIKER",
+          "line": "Yes, but",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "PICARD",
+          "line": "Well, get them up here."
+        },
+        {
+          "character": "RIKER",
+          "line": "I'm having a little debate with the colony's leader. It seems",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "PICARD",
+          "line": "There's no time, Number One. Initiate the transport."
+        },
+        {
+          "character": "RIKER",
+          "line": "But, sir",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "PICARD",
+          "line": "Whatever the problem, we'll handle it up here."
+        },
+        {
+          "character": "RIKER",
+          "line": "Aye, aye, sir, we're on our way. All of us. Riker out.",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "RIKER",
+          "line": "First load ready, Mister O'Brien.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "O'BRIEN",
+          "line": "Energizing."
+        },
+        {
+          "character": "O'BRIEN",
+          "line": "Captain, you'd better get somebody down here. Right away."
+        },
+        {
+          "character": "DANILO",
+          "line": "Take the pig out there, will you? Very good."
+        },
+        {
+          "character": "RIKER",
+          "line": "O'Brien, I think that third wave should be in position."
+        },
+        {
+          "character": "DANILO",
+          "line": "Shoo, damn you, shoo."
+        },
+        {
+          "character": "O'BRIEN",
+          "line": "Aye, sir."
+        },
+        {
+          "character": "DANILO",
+          "line": "O'Brien, is it? I should have known t'would be a good Irishman that was running this ship."
+        },
+        {
+          "character": "PICARD",
+          "line": "What the devil is going on here, Number One?"
+        },
+        {
+          "character": "DANILO",
+          "line": "Ah, Captain Picard is it. The man who makes decisions for me and mine without so much as a by your leave."
+        },
+        {
+          "character": "PICARD",
+          "line": "This is my Security Chief, Lieutenant Worf."
+        },
+        {
+          "character": "DANILO",
+          "line": "I don't suppose security is much of a problem for you. Danilo Odell, sir, at your service."
+        },
+        {
+          "character": "PICARD",
+          "line": "What are these animals doing here, Number One."
+        },
+        {
+          "character": "RIKER",
+          "line": "I'm sorry, sir. It was either this or arguing till hell froze over."
+        },
+        {
+          "character": "DANILO",
+          "line": "Captain Picard, sir, we can't leave our animals here to die. Besides, how could we build our future without our animals?"
+        },
+        {
+          "character": "PICARD",
+          "line": "All right. Chief O'Brien, transport this group directly to cargo hold seven, and beam the remaining refugees from the planet directly to that hold."
+        },
+        {
+          "character": "O'BRIEN",
+          "line": "Yes, sir."
+        },
+        {
+          "character": "DANILO",
+          "line": "Right, lads. Everybody back onto the infernal machine."
+        },
+        {
+          "character": "RIKER",
+          "line": "Everybody up here."
+        }
+      ],
+      "location": "Transporter room"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "DANILO",
+          "line": "Captain! Captain, t'was very good of you, sir, to rescue us from our troubles."
+        },
+        {
+          "character": "PICARD",
+          "line": "My pleasure."
+        },
+        {
+          "character": "DANILO",
+          "line": "Sir, you must be worth quite a bit to own a fine ship like this."
+        },
+        {
+          "character": "PICARD",
+          "line": "I don't own the Enterprise, I command her."
+        },
+        {
+          "character": "DANILO",
+          "line": "Whatever. Sir, would you happen to be married?"
+        },
+        {
+          "character": "PICARD",
+          "line": "No. Why?"
+        },
+        {
+          "character": "DANILO",
+          "line": "No? Well, you see, sir, I have a daughter."
+        },
+        {
+          "character": "PICARD",
+          "line": "Felicitations."
+        },
+        {
+          "character": "DANILO",
+          "line": "Would you be interested, sir?"
+        },
+        {
+          "character": "PICARD",
+          "line": "No."
+        },
+        {
+          "character": "DANILO",
+          "line": "You're quite sure?"
+        },
+        {
+          "character": "PICARD",
+          "line": "Quite sure."
+        },
+        {
+          "character": "DANILO",
+          "line": "He's quite sure."
+        }
+      ],
+      "location": "Corridor"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "PICARD",
+          "line": "What's the total?"
+        },
+        {
+          "character": "WORF",
+          "line": "Two hundred and twenty three."
+        },
+        {
+          "character": "PULASKI",
+          "line": "Count on two more in the next few days."
+        },
+        {
+          "character": "PICARD",
+          "line": "Set course for the nearest starbase."
+        },
+        {
+          "character": "PULASKI",
+          "line": "You know, they were anachronistic in 2123. It will be interesting to see how they cope."
+        },
+        {
+          "character": "RIKER",
+          "line": "They'll learn and adapt. If Danilo Odell's any indication, they'll be running this place inside of a week."
+        },
+        {
+          "character": "WORF",
+          "line": "Lieutenant Worf, here. Report."
+        },
+        {
+          "character": "CREWMAN",
+          "line": "Fire in cargo hold seven.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "RIKER",
+          "line": "The Bringloidi."
+        },
+        {
+          "character": "PICARD",
+          "line": "What have they done to my ship now?"
+        }
+      ],
+      "location": "Observation lounge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "WORF",
+          "line": "Keep the area clear."
+        },
+        {
+          "character": "PICARD",
+          "line": "Report."
+        },
+        {
+          "character": "WORF",
+          "line": "Fire has been contained. No damage."
+        },
+        {
+          "character": "PICARD",
+          "line": "Unseal the doors."
+        },
+        {
+          "character": "DANILO",
+          "line": "My God, Picard, the place is a bloody death trap! Lightning bolts falling from the ceiling!"
+        }
+      ],
+      "location": "Corridor"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "DANILO",
+          "line": "What the hell was that thing?"
+        },
+        {
+          "character": "WORF",
+          "line": "Automated fire system. A force field contains the flame until the remaining oxygen within the field has been consumed."
+        },
+        {
+          "character": "DANILO",
+          "line": "What if I had been under that thing?"
+        },
+        {
+          "character": "WORF",
+          "line": "You would have been standing in the fire."
+        },
+        {
+          "character": "DANILO",
+          "line": "Well, leaving that aside for the moment, I mean, what would have happened to me?"
+        },
+        {
+          "character": "WORF",
+          "line": "You would have suffocated and died."
+        },
+        {
+          "character": "DANILO",
+          "line": "Sweet mercy."
+        },
+        {
+          "character": "BRENNA",
+          "line": "Oh, there you are. Your hospitality leaves a hell of a lot to be desired! You don't offer us a bite or a sup, and when we build a fire to cook a little something, the place goes mad!"
+        },
+        {
+          "character": "PICARD",
+          "line": "My apologies. I was unaware that you had not been instructed in the use of the food dispensers."
+        },
+        {
+          "character": "BRENNA",
+          "line": "And what are you staring at? Have you never seen a woman before?"
+        },
+        {
+          "character": "RIKER",
+          "line": "I thought I had."
+        },
+        {
+          "character": "DANILO",
+          "line": "Commander, may I present my daughter, Brenna Odell."
+        },
+        {
+          "character": "RIKER",
+          "line": "Pleased to meet you, ma'am."
+        },
+        {
+          "character": "BRENNA",
+          "line": "You may have all the time in the world, but I've dozens of frightened and hungry children and women to look after."
+        },
+        {
+          "character": "RIKER",
+          "line": "And what about the men?"
+        },
+        {
+          "character": "BRENNA",
+          "line": "Well, I'm sure they'll find their comfort as they always do, in the bottom of a mug of home brew!"
+        },
+        {
+          "character": "DANILO",
+          "line": "Pay no heed, Commander. She's a fine girl. She's not usually so sharp tongued."
+        },
+        {
+          "character": "BRENNA",
+          "line": "Dado!"
+        },
+        {
+          "character": "RIKER",
+          "line": "Sir? That's the last thing I expected."
+        },
+        {
+          "character": "PICARD",
+          "line": "Sometimes, Number One, you just have to bow to the absurd."
+        },
+        {
+          "character": "DANILO",
+          "line": "Captain, Captain, sir. How did the ship sense the fire?"
+        },
+        {
+          "character": "PICARD",
+          "line": "The ship's computer"
+        },
+        {
+          "character": "DANILO",
+          "line": "Computer?"
+        },
+        {
+          "character": "PICARD",
+          "line": "The ship's computers sense a localized increase"
+        },
+        {
+          "character": "BRENNA",
+          "line": "Men! Always talking when there's work to be done. And shouldn't you be flying this ship, or whatever it is you do?"
+        },
+        {
+          "character": "RIKER",
+          "line": "Sir, I think I'll stay and give her some help."
+        },
+        {
+          "character": "RIKER",
+          "line": "That isn't necessary. The ship will clean itself."
+        },
+        {
+          "character": "BRENNA",
+          "line": "Well, good for the bloody ship. Tell me, Commander Riker, where does a girl go to wash her feet on this ship?"
+        },
+        {
+          "character": "RIKER",
+          "line": "As the First Officer, I feel it's my responsibility to show you all the amenities."
+        }
+      ],
+      "location": "Cargo hold"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "WORF",
+          "line": "She is very like a Klingon woman."
+        },
+        {
+          "character": "DANILO",
+          "line": "Ah, Captain, there's just one other thing. It slipped my mind in all the hustle and bustle."
+        },
+        {
+          "character": "PICARD",
+          "line": "The point, Mister Odell."
+        },
+        {
+          "character": "DANILO",
+          "line": "Well, in all your travels, have you heard anything from the other colony?"
+        },
+        {
+          "character": "PICARD",
+          "line": "The other colony?"
+        },
+        {
+          "character": "PICARD",
+          "line": "Captain's log, supplemental. A review of stellar charts has revealed a Class M planet only half a light year from the Bringloid system. I am proceeding on the premise that it was the destination of the colony which possessed the more sophisticated equipment.",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "Corridor"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "BRENNA",
+          "line": "William Riker, you're a mess."
+        },
+        {
+          "character": "RIKER",
+          "line": "You don't have to do that."
+        },
+        {
+          "character": "BRENNA",
+          "line": "And if I don't, who will?"
+        },
+        {
+          "character": "RIKER",
+          "line": "I can see why your father wants to marry you off."
+        },
+        {
+          "character": "BRENNA",
+          "line": "Oh, and why is that?"
+        },
+        {
+          "character": "RIKER",
+          "line": "So he can have a pipe and mug of beer in peace."
+        },
+        {
+          "character": "BRENNA",
+          "line": "You've shown me so many wonders on your great ship, but there's still one thing you haven't shown me."
+        },
+        {
+          "character": "RIKER",
+          "line": "What's that?"
+        },
+        {
+          "character": "BRENNA",
+          "line": "I'm still waiting to wash my feet."
+        },
+        {
+          "character": "RIKER",
+          "line": "Right behind that door."
+        },
+        {
+          "character": "BRENNA",
+          "line": "William, is something wrong?"
+        },
+        {
+          "character": "RIKER",
+          "line": "What do you mean?"
+        },
+        {
+          "character": "BRENNA",
+          "line": "Do you not like girls?"
+        },
+        {
+          "character": "RIKER",
+          "line": "Of course I do. Oh, is there a technique to this foot washing?"
+        },
+        {
+          "character": "BRENNA",
+          "line": "You generally start at the top and work your way down."
+        },
+        {
+          "character": "RIKER",
+          "line": "I think I can handle that."
+        },
+        {
+          "character": "BRENNA",
+          "line": "I was hoping you might."
+        }
+      ],
+      "location": "Riker's quarters"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "WORF",
+          "line": "You sent for me?"
+        },
+        {
+          "character": "DANILO",
+          "line": "Ah, yes, yes. Now, we're brewing poteen, but we need to find a way to heat it without this bloody ship firing bloody lightning bolts at us."
+        },
+        {
+          "character": "WORF",
+          "line": "You can obtain spirituous liquours from the food dispensers."
+        },
+        {
+          "character": "DANILO",
+          "line": "Oh, no, no, no. It's not that synthehol bilge that O'Brien offered me, is it?"
+        },
+        {
+          "character": "WORF",
+          "line": "No, if you wish, it can be real alcohol."
+        },
+        {
+          "character": "DANILO",
+          "line": "Good."
+        },
+        {
+          "character": "WORF",
+          "line": "With all of the deleterious effects intact."
+        },
+        {
+          "character": "DANILO",
+          "line": "As it should be. You see, lad, every moment of pleasure in life has to be purchased by an equal moment of pain. Whiskey."
+        },
+        {
+          "character": "DANILO",
+          "line": "Terrible. It's got no bite."
+        },
+        {
+          "character": "WORF",
+          "line": "Chech'tluth."
+        },
+        {
+          "character": "DANILO",
+          "line": "Now that's what I call a wee drop of the creature."
+        },
+        {
+          "character": "BRENNA",
+          "line": "Father!"
+        },
+        {
+          "character": "DANILO",
+          "line": "Remember what I said about the moment of pain? Well, tis about to begin. Hello, my darling."
+        },
+        {
+          "character": "BRENNA",
+          "line": "Oh, my darling, is it? I might have known! Are you drunk yet, or can you talk with Doctor Pulaski about the children?"
+        },
+        {
+          "character": "DANILO",
+          "line": "What about them?"
+        },
+        {
+          "character": "BRENNA",
+          "line": "She wants to send them to school with the ship's children."
+        },
+        {
+          "character": "DANILO",
+          "line": "What do you think?"
+        },
+        {
+          "character": "BRENNA",
+          "line": "I think it's a good idea. So go handle it! I'm sure there's something you can be doing with your time. And as for you."
+        },
+        {
+          "character": "WORF",
+          "line": "What?"
+        },
+        {
+          "character": "BRENNA",
+          "line": "Why did you have to tell them that this magic wall can give them more than meat and potatoes? Now we'll never get a lick of work out of them."
+        },
+        {
+          "character": "WORF",
+          "line": "Madam, have you considered a career in security?"
+        },
+        {
+          "character": "BRENNA",
+          "line": "If it's anything like babysitting, I'm an authority."
+        },
+        {
+          "character": "PICARD",
+          "line": "Captain's log, supplemental. We are approaching the class M planet where we hope to find the other colonists.",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "Cargo hold"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "WORF",
+          "line": "Signal from the planet, Captain."
+        },
+        {
+          "character": "PICARD",
+          "line": "On screen. This is Jean-Luc Picard of the USS Enterprise, representing the United Federation of Planets."
+        },
+        {
+          "character": "GRANGER",
+          "line": "This is wonderful. Welcome, Captain. I'm Wilson Granger, Prime Minister of Mariposa.",
+          "modifier": "screen"
+        },
+        {
+          "character": "DATA",
+          "line": "No doubt a descendant of Captain Walter Granger."
+        },
+        {
+          "character": "GRANGER",
+          "line": "Not quite a descendant. We feared Earth had suffered some catastrophe when no one came back to check on us.",
+          "modifier": "screen"
+        },
+        {
+          "character": "PICARD",
+          "line": "I'm afraid the truth is, you got lost in the bureaucracy. But despite the lateness of our arrival, we're here now and we're eager to renew ties."
+        },
+        {
+          "character": "GRANGER",
+          "line": "Splendid. Please, come down, and allow us to extend our hospitality to you and your crew.",
+          "modifier": "screen"
+        },
+        {
+          "character": "PICARD",
+          "line": "Thank you. Form an away team, Number One."
+        },
+        {
+          "character": "TROI",
+          "line": "I would urge caution."
+        },
+        {
+          "character": "RIKER",
+          "line": "Caution? What's wrong?"
+        },
+        {
+          "character": "TROI",
+          "line": "He's hiding something."
+        },
+        {
+          "character": "RIKER",
+          "line": "We'll check it out. Mister Worf. Doctor Pulaski, join us in Transporter room three for an away detail."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "GRANGER 2",
+          "line": "Welcome to Mariposa. I'm Victor Granger, Minister of Health."
+        },
+        {
+          "character": "RIKER",
+          "line": "Commander William Riker, Doctor Pulaski, Lieutenant Worf."
+        },
+        {
+          "character": "GRANGER 2",
+          "line": "A pleasure. I'll escort you to the Prime Minister. This way please."
+        },
+        {
+          "character": "RIKER",
+          "line": "Twin brothers?"
+        },
+        {
+          "character": "GRANGER 2",
+          "line": "Your arrival really is serendipitous."
+        },
+        {
+          "character": "PULASKI",
+          "line": "Oh, how so?"
+        },
+        {
+          "character": "GRANGER 2",
+          "line": "Well, perhaps I'll let the Prime Minister to explain that."
+        },
+        {
+          "character": "RIKER",
+          "line": "Triplets? Worf, there is something damn odd down here."
+        },
+        {
+          "character": "WORF",
+          "line": "Quadruplets."
+        }
+      ],
+      "location": "Reception"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "GRANGER 2",
+          "line": "Doctor, is your title scientific or medical?"
+        },
+        {
+          "character": "PULASKI",
+          "line": "Medical."
+        },
+        {
+          "character": "GRANGER 2",
+          "line": "Ah, excellent."
+        },
+        {
+          "character": "PULASKI",
+          "line": "Is there some medical problem we should know about?"
+        },
+        {
+          "character": "GRANGER 2",
+          "line": "I think it best if the, er"
+        },
+        {
+          "character": "PULASKI",
+          "line": "Prime minister explains that. Somehow I thought you might."
+        },
+        {
+          "character": "GRANGER 2",
+          "line": "Yes. Excuse me. Gentlemen? Please, follow me."
+        },
+        {
+          "character": "GRANGER 2",
+          "line": "This way please. Doctor."
+        }
+      ],
+      "location": "Hallway"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "GRANGER",
+          "line": "Welcome to Mariposa."
+        },
+        {
+          "character": "PULASKI",
+          "line": "Doctor Katherine Pulaski."
+        },
+        {
+          "character": "GRANGER",
+          "line": "This is my Chief of Staff, Elizabeth Vallis."
+        },
+        {
+          "character": "PULASKI",
+          "line": "Tell me, is your entire population made up of clones, Prime Minister?"
+        },
+        {
+          "character": "WORF",
+          "line": "Clones?"
+        },
+        {
+          "character": "RIKER",
+          "line": "Clones?"
+        },
+        {
+          "character": "GRANGER",
+          "line": "Clones."
+        },
+        {
+          "character": "PICARD",
+          "line": "Captain's log, supplemental. Prime Minister Granger has requested an urgent meeting to diskuss the future of the Mariposan colony. I've invited him to the Enterprise.",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "Granger's office"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "GRANGER",
+          "line": "Captain, we need your help. Three hundred years ago during our landing on Mariposa, the skin of our ship was breached. Only five of the colonists survived. The progenitors weren't willing to just give up and die, and they were scientists"
+        },
+        {
+          "character": "PICARD",
+          "line": "So, they used that expertise and turned to cloning."
+        },
+        {
+          "character": "GRANGER",
+          "line": "Yes. We had no other option. Two women and three men represented an insufficient gene pool from which to build a society."
+        },
+        {
+          "character": "PULASKI",
+          "line": "How did you suppress the natural sexual drive? Drugs? Punitive laws?"
+        },
+        {
+          "character": "GRANGER",
+          "line": "In the beginning, a little bit of each. Now, after three hundred years, the entire concept of sexual reproduction is a little repugnant to us."
+        },
+        {
+          "character": "PULASKI",
+          "line": "How did you overcome the problem of replicative fading?"
+        },
+        {
+          "character": "GRANGER",
+          "line": "We haven't."
+        },
+        {
+          "character": "PULASKI",
+          "line": "You have got a problem."
+        },
+        {
+          "character": "RIKER",
+          "line": "Wait. I don't understand replicative fading."
+        },
+        {
+          "character": "PULASKI",
+          "line": "Each time you clone, you're making a copy of a copy. Subtle errors creep into the chromosomes, and eventually you end up with a non-viable clone."
+        },
+        {
+          "character": "PICARD",
+          "line": "How can we help you?"
+        },
+        {
+          "character": "GRANGER",
+          "line": "We need an infusion of fresh DNA. I was hoping that you would be willing to share some tissue samples."
+        },
+        {
+          "character": "RIKER",
+          "line": "You want to clone us?"
+        },
+        {
+          "character": "GRANGER",
+          "line": "Yes."
+        },
+        {
+          "character": "RIKER",
+          "line": "No way, not me."
+        },
+        {
+          "character": "GRANGER",
+          "line": "How can you possibly be harmed?"
+        },
+        {
+          "character": "RIKER",
+          "line": "It's not a question of harm. One William Riker is unique, perhaps even special. But a hundred of him, a thousand of him diminishes me in ways I can't even imagine."
+        },
+        {
+          "character": "GRANGER",
+          "line": "You would be preserving yourself."
+        },
+        {
+          "character": "RIKER",
+          "line": "Human beings have other ways of doing that. We have children."
+        },
+        {
+          "character": "PICARD",
+          "line": "I think you will find that attitude prevalent among all the Enterprise people."
+        },
+        {
+          "character": "GRANGER",
+          "line": "I see. Well, if you are not willing to share your DNA, will you at least send some people to repair our malfunctioning equipment?"
+        },
+        {
+          "character": "PICARD",
+          "line": "Yes, of course. Number One, put a technical team together. Let's get these repairs underway."
+        },
+        {
+          "character": "RIKER",
+          "line": "Yes, sir. Lieutenant La Forge. Prepare a technical support away team. Meet me in transporter room three."
+        },
+        {
+          "character": "PULASKI",
+          "line": "Captain, with your permission, I would like to return to the planet. It could be my last opportunity to study replicative fading. With your permission, of course, Mister Prime Minister."
+        },
+        {
+          "character": "GRANGER",
+          "line": "You'd be most welcome. Perhaps you will find a solution that we have overlooked."
+        },
+        {
+          "character": "PULASKI",
+          "line": "Well, I appreciate the compliment, but I don't think that's very likely. And repairing that equipment will certainly not solve your problems."
+        },
+        {
+          "character": "GRANGER",
+          "line": "What other solution do we have? Doctor, remember, there are only five of us."
+        },
+        {
+          "character": "PICARD",
+          "line": "Captain's log, supplemental. Commander Riker and Doctor Pulaski have returned to Mariposa with a team of Enterprise technicians.",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "Observation lounge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "RIKER",
+          "line": "The repairs are almost complete. I wish there was something more we could do."
+        },
+        {
+          "character": "GRANGER",
+          "line": "Are you sure you won't reconsider?"
+        },
+        {
+          "character": "PULASKI",
+          "line": "About the cloning?"
+        },
+        {
+          "character": "GRANGER",
+          "line": "Yes."
+        },
+        {
+          "character": "RIKER",
+          "line": "Out of the question."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Excuse me, sir, I was looking for Commander Riker."
+        },
+        {
+          "character": "GRANGER",
+          "line": "I'm afraid I haven't seen him."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Doctor Pulaski?"
+        },
+        {
+          "character": "GRANGER",
+          "line": "Sorry, I can't help you."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Well, I guess I'll just have to hunt for them. Sorry to disturb you."
+        }
+      ],
+      "location": "Granger's office"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "LAFORGE",
+          "line": "Hey. So what happened to you two down on Mariposa? Is everything all right?"
+        },
+        {
+          "character": "RIKER",
+          "line": "Is there any reason why it shouldn't be?"
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Yeah. Every time I asked where you were, some clone lied to me."
+        },
+        {
+          "character": "RIKER",
+          "line": "Lied to you?"
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Commander, with this I can see better than your average person. Now when someone lies there are certain physical manifestations. Variations in blush response, pupil dilation, pulse, breath rate. Doesn't always work with aliens, but humans? Got'em nailed."
+        },
+        {
+          "character": "PULASKI",
+          "line": "The clones lied about our whereabouts? I don't remember anything happening. I was working in their medical facility and got a call to report to Granger's office. I ran into Will on the way"
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Now wait a minute. Granger said he hadn't seen either one of you. Did you make it to his office?"
+        },
+        {
+          "character": "RIKER",
+          "line": "I think, I don't remember."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "So what's the prognosis, Doc?"
+        },
+        {
+          "character": "PULASKI",
+          "line": "Geordi, you'll be pleased to know that you're not missing any epithelial cells."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Great."
+        },
+        {
+          "character": "PULASKI",
+          "line": "Will and I, however, are."
+        },
+        {
+          "character": "RIKER",
+          "line": "Meaning?"
+        },
+        {
+          "character": "PULASKI",
+          "line": "Although you can clone from any cell in the body, the cells lining the stomach are the best choice because they're relatively undifferentiated."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Where are you going?"
+        },
+        {
+          "character": "RIKER",
+          "line": "To their cloning lab."
+        }
+      ],
+      "location": "Pulaski's office"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "GRANGER",
+          "line": "Stop! Murderers!"
+        },
+        {
+          "character": "RIKER",
+          "line": "Like hell! You're a damn thief!"
+        },
+        {
+          "character": "PULASKI",
+          "line": "Gentlemen, please."
+        },
+        {
+          "character": "GRANGER",
+          "line": "What else could we do? We asked for your help and you refused us. We're desperate. Desperate!"
+        },
+        {
+          "character": "RIKER",
+          "line": "And that gave you the right to assault us, to rob us."
+        },
+        {
+          "character": "GRANGER",
+          "line": "We have the right to survive!"
+        }
+      ],
+      "location": "Laboratory"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "PICARD",
+          "line": "Doctor, how desperate is the colony's situation?"
+        },
+        {
+          "character": "PULASKI",
+          "line": "They've got two or three generations, then the fading will be terminal. They're among the walking dead now. They just haven't been buried."
+        },
+        {
+          "character": "RIKER",
+          "line": "I want the cloning equipment inspected. Who knows how many tissue samples were stolen. We certainly have a right to exercise control over our own bodies."
+        },
+        {
+          "character": "PULASKI",
+          "line": "You'll get no argument from me."
+        },
+        {
+          "character": "TROI",
+          "line": "I know the Mariposan culture seems alien, even frightening, but really, we do have much in common. They're human beings fighting for survival. Would we do any less?"
+        },
+        {
+          "character": "PICARD",
+          "line": "Are you saying we should give them the DNA samples they require?"
+        },
+        {
+          "character": "PULASKI",
+          "line": "That's just postponing the inevitable. If they get an infusion of fresh DNA, in fifteen generations they'll just go back to the same problems. Cloning isn't the answer. What they need is breeding stock."
+        },
+        {
+          "character": "PICARD",
+          "line": "The Bringloidi."
+        },
+        {
+          "character": "TROI",
+          "line": "Yes. They have the energy and drive, and the clones possess the emotional maturity and the technological knowledge."
+        },
+        {
+          "character": "PICARD",
+          "line": "They started out together. It seems only fitting they should end up together."
+        },
+        {
+          "character": "PULASKI",
+          "line": "It's a match made in heaven."
+        },
+        {
+          "character": "RIKER",
+          "line": "Unfortunately it will have to be a shotgun wedding."
+        }
+      ],
+      "location": "Ready room"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "GRANGER",
+          "line": "I'm sorry, Captain, it's out of the question. You're trying to dump your problems on us. We have problems of our own."
+        },
+        {
+          "character": "PICARD",
+          "line": "Don't you understand? The Bringloidi can help you."
+        },
+        {
+          "character": "GRANGER",
+          "line": "Look at him. How could we ever integrate that into our society?"
+        },
+        {
+          "character": "DANILO",
+          "line": "You're no prize yourself."
+        },
+        {
+          "character": "GRANGER",
+          "line": "Primitive, hostile, disruptive. It would require enormous effort to even educate them."
+        },
+        {
+          "character": "DANILO",
+          "line": "Oh, forget it, Captain Picard. I'm not going to come in here with my hat in my hand begging charity from this blatherskite."
+        },
+        {
+          "character": "PICARD",
+          "line": "Now stop! I will not allow posturing and bigotry to destroy this meeting. Now please, sit down. Now, Commander Riker has asked that your laboratories be inspected for stolen tissue samples, and I understand his concern. We may have to transport all your equipment here, to the Enterprise."
+        },
+        {
+          "character": "GRANGER",
+          "line": "I see. When reason fails, you'll resort to blackmail."
+        },
+        {
+          "character": "PICARD",
+          "line": "Fine. Destroy yourselves."
+        },
+        {
+          "character": "PULASKI",
+          "line": "It's not so bad, Captain. In fifty years we'll have a new class M planet, complete with cities, and ready for colonization."
+        },
+        {
+          "character": "PICARD",
+          "line": "You see, the end is closer than you like to think."
+        },
+        {
+          "character": "GRANGER",
+          "line": "I don't know. There are so many difficulties."
+        },
+        {
+          "character": "DANILO",
+          "line": "Look, man. We are decent, hard working people. We're willing to learn."
+        },
+        {
+          "character": "GRANGER",
+          "line": "They're so different."
+        },
+        {
+          "character": "PICARD",
+          "line": "It is the differences that have made us strong."
+        },
+        {
+          "character": "GRANGER",
+          "line": "For three hundred years, we have denied the carnal side of our nature. How can we learn to put that aside?"
+        },
+        {
+          "character": "DANILO",
+          "line": "Well, you put a young couple together and you let nature take its course."
+        },
+        {
+          "character": "PULASKI",
+          "line": "Now if this is going to work, you're going to have to alter your society, too. Monogamous marriage will not be possible for several generations."
+        },
+        {
+          "character": "DANILO",
+          "line": "I don't quite understand."
+        },
+        {
+          "character": "PULASKI",
+          "line": "Thirty couples are enough to create a viable genetic base. But the broader the base the healthier and the safer the society. So it will be best if each woman, Bringloidi and Mariposan, had at least three children by three different men."
+        },
+        {
+          "character": "DANILO",
+          "line": "I think I could handle that, yes."
+        },
+        {
+          "character": "GRANGER",
+          "line": "Oh, God, it's so"
+        },
+        {
+          "character": "PICARD",
+          "line": "Frightening?"
+        },
+        {
+          "character": "GRANGER",
+          "line": "Repugnant."
+        },
+        {
+          "character": "DANILO",
+          "line": "So, it's a done deal? And here's my hand on it. Right, now, let's go and stake out my three women. Send in the clones."
+        },
+        {
+          "character": "PICARD",
+          "line": "I must be out of my mind."
+        },
+        {
+          "character": "PULASKI",
+          "line": "Starfleet will probably agree with you."
+        }
+      ],
+      "location": "Observation lounge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "DANILO",
+          "line": "Excuse me, sir. Captain. Thank you. Brenna. Brenna, a word."
+        },
+        {
+          "character": "BRENNA",
+          "line": "Isn't that just like a man! You make these grandiose decisions, but you never stop to consider the poor women."
+        },
+        {
+          "character": "PICARD",
+          "line": "Miss Odell, I"
+        },
+        {
+          "character": "BRENNA",
+          "line": "You men draw a mug, and solve all the problems of the world while the beer goes down, but, when it comes to the practical matters, it always falls to the women to make your grand dreams come true."
+        },
+        {
+          "character": "PICARD",
+          "line": "Miss Odell, you were the one who wanted a new home."
+        },
+        {
+          "character": "BRENNA",
+          "line": "But I don't know if I want to be Eve."
+        },
+        {
+          "character": "PICARD",
+          "line": "It's your choice. If you wish, you can stay on the Enterprise. We will drop you at a starbase, then you can go where you wish."
+        },
+        {
+          "character": "BRENNA",
+          "line": "Leave my da?"
+        },
+        {
+          "character": "PICARD",
+          "line": "If this is going to work, these people will need your strength, your guidance."
+        },
+        {
+          "character": "BRENNA",
+          "line": "Oh, damn. What does he do again?"
+        },
+        {
+          "character": "PICARD",
+          "line": "Prime Minister."
+        },
+        {
+          "character": "BRENNA",
+          "line": "Sounds important."
+        },
+        {
+          "character": "PICARD",
+          "line": "Oh, it is."
+        },
+        {
+          "character": "BRENNA",
+          "line": "Sounds like he might have more than two coins to rub together. Three husbands?"
+        }
+      ],
+      "location": "Cargo hold"
+    }
+  ],
+  "schedule": {
+    "episode": 18,
+    "number": 44,
+    "season": 2
+  },
+  "stardate": "42823.2",
+  "title": "Up The Long Ladder"
+}

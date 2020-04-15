@@ -1,0 +1,2191 @@
+{
+  "airdate": 698907600,
+  "scenes": [
+    {
+      "dialogue": [
+        {
+          "character": "PICARD",
+          "line": "Captain's log, stardate 45571.2. We are going into orbit around an unexplored M-class moon of Mab-Bu Six. Though the moon was reported to be uninhabited, we have picked up a weak distress call.",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "unknown"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "DATA",
+          "line": "The intense electromagnetic whirlwinds on the moon's surface make it virtually impossible to locate the source of the signal, Captain."
+        },
+        {
+          "character": "PICARD",
+          "line": "Any indications of life, Mister Worf?"
+        },
+        {
+          "character": "WORF",
+          "line": "Scanners read negative, sir, but they may be affected by the interference."
+        },
+        {
+          "character": "RIKER",
+          "line": "Have you ever heard anything like this, Data?"
+        },
+        {
+          "character": "DATA",
+          "line": "I believe so, Commander. At Starfleet Academy."
+        },
+        {
+          "character": "PICARD",
+          "line": "The Academy?"
+        },
+        {
+          "character": "DATA",
+          "line": "I will verify it. Just as I thought. It is a Starfleet subspace distress signal, standard to Daedalus-class starships."
+        },
+        {
+          "character": "RIKER",
+          "line": "There hasn't been a Daedalus class in service for what?"
+        },
+        {
+          "character": "DATA",
+          "line": "One hundred seventy two years, sir."
+        },
+        {
+          "character": "PICARD",
+          "line": "Are there any records of missing ships in this vicinity?"
+        },
+        {
+          "character": "DATA",
+          "line": "The USS Essex under the command of Captain Bryce Shumar disappeared in this sector over two centuries ago."
+        },
+        {
+          "character": "PICARD",
+          "line": "Daedalus class."
+        },
+        {
+          "character": "DATA",
+          "line": "I have accessed the subspace transponder signature of the Essex. It is identical to the signal coming from the moon's surface."
+        },
+        {
+          "character": "RIKER",
+          "line": "W arrived a little late."
+        },
+        {
+          "character": "PICARD",
+          "line": "Mute it, Mister Data. With that storm activity down there, it isn't worth the risk to check on a ghost ship. Advise Starfleet that we have solved the mystery of Captain Shumar and the Essex."
+        },
+        {
+          "character": "TROI",
+          "line": "I'm not sure we have. Someone's down there. Alive. First officer's log, supplemental. The electromagnetic interference on the surface has been judged too dangerous for anyone to transport down, so we have taken a shuttle to investigate."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "DATA",
+          "line": "Shields are holding, sir."
+        },
+        {
+          "character": "RIKER",
+          "line": "Wind shear is incredible. Data, keep an eye on the stabilizers. If it's anything like this on the ground, I don't see how anyone can survive on this moon for long."
+        },
+        {
+          "character": "TROI",
+          "line": "Maybe they've been living underground."
+        },
+        {
+          "character": "RIKER",
+          "line": "Question is where? I still can't locate the source of the damn signal. It's bouncing around more than we are."
+        },
+        {
+          "character": "DATA",
+          "line": "Forward thrusters have failed, sir. We are losing power."
+        },
+        {
+          "character": "RIKER",
+          "line": "Enterprise!"
+        }
+      ],
+      "location": "Shuttle"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "PICARD",
+          "line": "Go ahead."
+        },
+        {
+          "character": "RIKER",
+          "line": "We've lost our thrusters. Attempting to compensate with secondary boosters",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "WORF",
+          "line": "Sir? The shuttlecraft's impulse generators have shut down."
+        },
+        {
+          "character": "PICARD",
+          "line": "Commander, can you hear me?"
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "PICARD",
+          "line": "Enterprise to shuttle, please respond.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "RIKER",
+          "line": "Hold on! We're going down."
+        },
+        {
+          "character": "DATA",
+          "line": "Initiating emergency landing procedures."
+        },
+        {
+          "character": "RIKER",
+          "line": "Maintain the approach attitude, Data. I'm taking her in. Brace for impact."
+        }
+      ],
+      "location": "Shuttle"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "RO",
+          "line": "The shuttle has crashed on the surface."
+        },
+        {
+          "character": "PICARD",
+          "line": "Do we have their position?"
+        },
+        {
+          "character": "WORF",
+          "line": "I am picking up the shuttle's trace signature, but the surface interference is distorting its position."
+        },
+        {
+          "character": "PICARD",
+          "line": "Can you locate them?"
+        },
+        {
+          "character": "RO",
+          "line": "I think I can. I followed their entry almost all the way in. We can calculate the coordinates from the angle of descent."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TROI",
+          "line": "Your arm."
+        },
+        {
+          "character": "RIKER",
+          "line": "Yeah, I'm pretty sure that's broken. Enterprise?"
+        },
+        {
+          "character": "DATA",
+          "line": "It is unlikely that we will be able to establish communication with the ship, given the electromagnetic interference."
+        },
+        {
+          "character": "RIKER",
+          "line": "We'll stay in the area until the Enterprise finds us. Take an inventory of the shuttle. See if there's anything left in there that's usable. The ground cover is all non-porous rock, which makes me believe it's even less likely there's anyone living here."
+        },
+        {
+          "character": "DATA",
+          "line": "There are no instruments left of practical value that have not been damaged by our landing, sir."
+        },
+        {
+          "character": "TROI",
+          "line": "What is that?"
+        },
+        {
+          "character": "RIKER",
+          "line": "That doesn't look like any storm front I've ever seen."
+        },
+        {
+          "character": "DATA",
+          "line": "The tricorder is picking up high levels of EM bursts across the spectrum. No lifesign readings other than our own."
+        },
+        {
+          "character": "TROI",
+          "line": "There is someone alive here. I'm more certain of it now than ever."
+        },
+        {
+          "character": "RIKER",
+          "line": "Well, I hope they can find us, because there's no way we'll find them."
+        },
+        {
+          "character": "TROI",
+          "line": "They're coming. They're coming with the storm."
+        }
+      ],
+      "location": "Moon surface"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "LAFORGE",
+          "line": "We can't get a pattern lock on their communicators because of the EM bursts, Captain. There's no way we can beam them out of there, not under these conditions."
+        }
+      ],
+      "location": "Transporter room"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "PICARD",
+          "line": "The same conditions won't permit a shuttle to land safely, Mister LaForge. Any suggestions?"
+        },
+        {
+          "character": "O'BRIEN",
+          "line": "Give us a minute, Captain.",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "O'BRIEN",
+          "line": "Sir, let me beam down with a pattern enhancer."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Chief, there's no guarantee you won't rematerialize in a million pieces if your signal gets caught up in that electromagnetic whirlwind."
+        },
+        {
+          "character": "O'BRIEN",
+          "line": "I can boost the confinement beam. One person might be able to make it."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Captain, Chief O'Brien wants to beam down to the surface with a pattern enhancer."
+        }
+      ],
+      "location": "Transporter room"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "LAFORGE",
+          "line": "His chances of getting down there safely are no better than fifty-fifty, in my opinion.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "WORF",
+          "line": "Captain, a major storm front is moving in on the away team's coordinates."
+        },
+        {
+          "character": "PICARD",
+          "line": "You're aware of the risks, Mister O'Brien?"
+        },
+        {
+          "character": "O'BRIEN",
+          "line": "Yes sir.",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "O'BRIEN",
+          "line": "I think I can make it."
+        },
+        {
+          "character": "PICARD",
+          "line": "All right then. Good luck.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "O'BRIEN",
+          "line": "Aye, sir."
+        }
+      ],
+      "location": "Transporter room"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "RIKER",
+          "line": "Mister O'Brien! Nice of you to join us."
+        },
+        {
+          "character": "O'BRIEN",
+          "line": "Nice spot for a picnic, sir. We need to distribute these enhancer rods at seven meter lengths. That should do it."
+        },
+        {
+          "character": "RIKER",
+          "line": "Is this storm front going to interfere with the transport, Chief?"
+        },
+        {
+          "character": "O'BRIEN",
+          "line": "I'd really like to get us out of here before it hits, Commander. I'm supposed to be feeding the baby lunch. Molly gets in a terribly foul mood if I'm late."
+        },
+        {
+          "character": "RIKER",
+          "line": "I'm with you."
+        },
+        {
+          "character": "RIKER",
+          "line": "Lunch time, Miles! Let's do it!"
+        }
+      ],
+      "location": "Moon surface"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "CRUSHER",
+          "line": "Easy, Deanna."
+        },
+        {
+          "character": "TROI",
+          "line": "Where?"
+        },
+        {
+          "character": "CRUSHER",
+          "line": "Back on the Enterprise. You're going to be okay."
+        },
+        {
+          "character": "TROI",
+          "line": "My skin, it's tingling."
+        },
+        {
+          "character": "CRUSHER",
+          "line": "You're experiencing the afterimages of the electromagnetic discharge. The sensation will pass. They're all fine, too. Now, I want you to take your time, Counselor. Doctor's orders."
+        },
+        {
+          "character": "PICARD",
+          "line": "Injury report, Doctor?"
+        },
+        {
+          "character": "CRUSHER",
+          "line": "Mostly minor abrasions. Commander Riker took the worst of it with a broken arm."
+        },
+        {
+          "character": "PICARD",
+          "line": "Mister Data. Good work, Chief."
+        },
+        {
+          "character": "O'BRIEN",
+          "line": "Thank you, sir."
+        },
+        {
+          "character": "RIKER",
+          "line": "Ready for duty, sir."
+        },
+        {
+          "character": "PICARD",
+          "line": "You're sure, Number One?"
+        },
+        {
+          "character": "RIKER",
+          "line": "It's not the first bone I've ever broken."
+        },
+        {
+          "character": "PICARD",
+          "line": "And how are you, Counselor?"
+        },
+        {
+          "character": "TROI",
+          "line": "Very glad to be here."
+        },
+        {
+          "character": "PICARD",
+          "line": "Good. Let's go."
+        }
+      ],
+      "location": "Sickbay"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "PICARD",
+          "line": "So what happened down there?"
+        },
+        {
+          "character": "RIKER",
+          "line": "It was just one hell of a storm. It moved in on our position faster than anything I've ever seen."
+        },
+        {
+          "character": "PICARD",
+          "line": "Was there any evidence of life?"
+        }
+      ],
+      "location": "Corridor"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "RIKER",
+          "line": "No, but if Troi was right, we were very close to it."
+        },
+        {
+          "character": "PICARD",
+          "line": "Bridge. How do you suggest we proceed?"
+        },
+        {
+          "character": "RIKER",
+          "line": "We need to adjust the scanners so they can penetrate those storms. Do you have any ideas, Data?"
+        },
+        {
+          "character": "DATA",
+          "line": "We might be able to employ virtual imaging to interpolate missing data."
+        },
+        {
+          "character": "PICARD",
+          "line": "Is something wrong, Commander?"
+        },
+        {
+          "character": "DATA",
+          "line": "My apologies. It seems my primary speech processors are experiencing a minor fluctuation. I will have it corrected in a moment."
+        }
+      ],
+      "location": "Turbolift"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TROI",
+          "line": "Captain, may I speak with you a moment in private?"
+        },
+        {
+          "character": "PICARD",
+          "line": "Of course. You have the Bridge, Number One."
+        },
+        {
+          "character": "RIKER",
+          "line": "Mister Data, deploy sensor scans when you're ready. Ensign, take us to a synchronous orbit aligned around our crash site."
+        },
+        {
+          "character": "RO",
+          "line": "Aye, sir."
+        },
+        {
+          "character": "DATA",
+          "line": "Sir, given the EM field properties of this moon, I recommend a search pattern beginning in the southern polar region."
+        },
+        {
+          "character": "RIKER",
+          "line": "The polar region? That would be starting from scratch, Mister Data. Our latest readings would suggest that we begin our scan around our crash site."
+        },
+        {
+          "character": "DATA",
+          "line": "The Essex signal was never clearly located, sir. A systematic survey of the moon from a polar orbit might be more practical."
+        },
+        {
+          "character": "RIKER",
+          "line": "Well, you might be right, but I'd like to give the crash site a once over first. Maintain our current orbit."
+        },
+        {
+          "character": "DATA",
+          "line": "Understood, sir."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TROI",
+          "line": "I've never felt anything like it. It was as though they were calling to me."
+        },
+        {
+          "character": "PICARD",
+          "line": "Are you saying someone was communicating telepathically?"
+        },
+        {
+          "character": "TROI",
+          "line": "Perhaps, for an instant. It was like their voices were being carried on the wind."
+        },
+        {
+          "character": "PICARD",
+          "line": "What were they trying to communicate?"
+        },
+        {
+          "character": "TROI",
+          "line": "I'm not sure, but they were calling me to the southern polar region. I believe that's where we should look for the Essex."
+        }
+      ],
+      "location": "Ready room"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "RO",
+          "line": "Commander, did you override my orbital heading?"
+        },
+        {
+          "character": "RIKER",
+          "line": "Override them?"
+        },
+        {
+          "character": "RO",
+          "line": "We've moved into a polar orbit and I'm locked out. The helm isn't responding."
+        },
+        {
+          "character": "RIKER",
+          "line": "Do you know anything about this, Mister Data? Data?"
+        },
+        {
+          "character": "RIKER",
+          "line": "Security to the Bridge!"
+        },
+        {
+          "character": "RIKER",
+          "line": "Computer, transfer command to Engineering. Full security alert!"
+        },
+        {
+          "character": "O'BRIEN",
+          "line": "This way!"
+        },
+        {
+          "character": "TROI",
+          "line": "What happened?"
+        },
+        {
+          "character": "DATA",
+          "line": "He would not move to a polar orbit."
+        },
+        {
+          "character": "TROI",
+          "line": "You couldn't wait? The Captain would have done it for me."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "O'BRIEN",
+          "line": "Deck thirty six. Engineering."
+        }
+      ],
+      "location": "Turbolift"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "RIKER",
+          "line": "Computer, re-enable Bridge control. Security protocol, Riker omega Three."
+        },
+        {
+          "character": "PICARD",
+          "line": "Report."
+        },
+        {
+          "character": "RIKER",
+          "line": "Data, O'Brien and Troi tried to commandeer the ship."
+        },
+        {
+          "character": "WORF",
+          "line": "They're in turbolift four. Engaging override controls now."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "DATA",
+          "line": "They've trapped us."
+        },
+        {
+          "character": "TROI",
+          "line": "What deck is this?"
+        },
+        {
+          "character": "O'BRIEN",
+          "line": "We're on deck ten."
+        },
+        {
+          "character": "TROI",
+          "line": "Can you move us again?"
+        },
+        {
+          "character": "O'BRIEN",
+          "line": "I know how to override the bridge command."
+        }
+      ],
+      "location": "Turbolift"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "RIKER",
+          "line": "Activate security fields decks eight through fifteen."
+        },
+        {
+          "character": "WORF",
+          "line": "Sir, the turbolift is moving again. They're still inside."
+        },
+        {
+          "character": "PICARD",
+          "line": "Initiate emergency bulkheads in turboshaft four."
+        },
+        {
+          "character": "WORF",
+          "line": "Aye, sir. They have been stopped at deck thirteen."
+        },
+        {
+          "character": "PICARD",
+          "line": "Mister Worf."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TROI",
+          "line": "Do you know how to deactivate this?"
+        },
+        {
+          "character": "O'BRIEN",
+          "line": "The computer will not allow us to override an emergency forcefield command."
+        },
+        {
+          "character": "DATA",
+          "line": "My entity's artificial substructure may be useful."
+        }
+      ],
+      "location": "Deck 10 Corridor"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "RIKER",
+          "line": "They've broken through a security field, deck ten, section two."
+        },
+        {
+          "character": "PICARD",
+          "line": "Security to Ten Forward."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "KEIKO",
+          "line": "Shh. Momma's here. Shh."
+        },
+        {
+          "character": "TROI",
+          "line": "Everyone get down on the floor."
+        },
+        {
+          "character": "KEIKO",
+          "line": "Miles?"
+        },
+        {
+          "character": "O'BRIEN",
+          "line": "On the floor!"
+        },
+        {
+          "character": "WORF",
+          "line": "Everyone down, now!"
+        }
+      ],
+      "location": "Ten Forward"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "RIKER",
+          "line": "Multiple phaser shots, Ten Forward."
+        },
+        {
+          "character": "PICARD",
+          "line": "Picard to Worf. Report."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "PICARD",
+          "line": "Mister Worf acknowledge. Can you hear me, Mister Worf?",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "TROI",
+          "line": "Yes, Bridge. He can hear you."
+        },
+        {
+          "character": "PICARD",
+          "line": "Captain's log, supplemental. Following an aborted attempt to take control of the Bridge, Counselor Troi, Mister Data, and Chief O'Brien have seized Ten Forward.",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "Ten Forward"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "RIKER",
+          "line": "Position security teams at both entrances."
+        },
+        {
+          "character": "RO",
+          "line": "Yes sir."
+        },
+        {
+          "character": "PICARD",
+          "line": "Mister La Forge, shut down all computer access to Ten Forward."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "I can't, Captain. They've already set up a remote security lock out. We'd have to shut down all computer function in the saucer section."
+        },
+        {
+          "character": "RIKER",
+          "line": "Transporter room three, can you get a pattern lock on Commander Data, Counselor Troi"
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "RIKER",
+          "line": "And Chief O'Brien in Ten Forward?",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "CREWMAN",
+          "line": "Attempting to lock on, sir."
+        }
+      ],
+      "location": "Transporter room"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "O'BRIEN",
+          "line": "You were correct. They're attempting to engage their transporters. But I know how to shut them down."
+        },
+        {
+          "character": "DATA",
+          "line": "Do it."
+        }
+      ],
+      "location": "Ten Forward"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "CREWMAN",
+          "line": "Bridge, the entire transporter array has been taken off line and placed into diagnostic mode."
+        }
+      ],
+      "location": "Transporter room"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "CREWMAN",
+          "line": "I can't override. It'll take a couple of hours to complete the cycle.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "PICARD",
+          "line": "How many people are down there?"
+        },
+        {
+          "character": "RO",
+          "line": "Seventeen. They just shut down the internal scanners too, Captain."
+        },
+        {
+          "character": "PICARD",
+          "line": "Doctor Crusher to the Bridge."
+        },
+        {
+          "character": "CRUSHER",
+          "line": "On my way.",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TROI",
+          "line": "What are you doing now?"
+        },
+        {
+          "character": "DATA",
+          "line": "I can reverse the polarity of their forcefields to isolate this room."
+        },
+        {
+          "character": "TROI",
+          "line": "Good."
+        },
+        {
+          "character": "O'BRIEN",
+          "line": "Their communicators. Now they will learn nothing but what we tell them."
+        }
+      ],
+      "location": "Ten Forward"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "RO",
+          "line": "They've done something to the forcefields on deck ten, section one."
+        },
+        {
+          "character": "RIKER",
+          "line": "Geordi?"
+        },
+        {
+          "character": "LAFORGE",
+          "line": "I don't recognize the configurations, but they've completely isolated Ten Forward."
+        },
+        {
+          "character": "RIKER",
+          "line": "What about flooding their air vents with anaesthezine gas?"
+        },
+        {
+          "character": "LAFORGE",
+          "line": "That won't affect Data. No rescue plan will work unless we can knock out all three of them."
+        },
+        {
+          "character": "RIKER",
+          "line": "A concussive charge would blow out the security fields. We could go in with phasers on wide beam, stun everybody. Sort it out later."
+        },
+        {
+          "character": "PICARD",
+          "line": "Doctor, go back to the biofilter readouts taken of the away team's transport from the moon's surface. See if you can come up with any clue that might explain this."
+        },
+        {
+          "character": "PICARD",
+          "line": "Ten Forward, this is Captain Picard. I am prepared to diskuss this situation. There is no need for further violence."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "PICARD",
+          "line": "Please identify yourselves.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "TROI",
+          "line": "They will now attempt to negotiate for the safety and release of their people. Interesting. Under normal circumstances, I would be counseling the Captain at a time like this."
+        },
+        {
+          "character": "O'BRIEN",
+          "line": "And what would you tell him to do?"
+        },
+        {
+          "character": "TROI",
+          "line": "I would help him find a way to secure our trust."
+        },
+        {
+          "character": "DATA",
+          "line": "What are you looking at? You, Klingon. Attack me. Are you afraid?"
+        },
+        {
+          "character": "WORF",
+          "line": "I have no fear of death."
+        },
+        {
+          "character": "DATA",
+          "line": "And I have no fear of killing you."
+        },
+        {
+          "character": "TROI",
+          "line": "Stop it!"
+        },
+        {
+          "character": "PICARD",
+          "line": "Please respond, Ten Forward. Are there any members of my crew who require medical assistance?",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "TROI",
+          "line": "We can diskuss your wounded, but first you will move the ship."
+        }
+      ],
+      "location": "Ten Forward"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "PICARD",
+          "line": "Move it where?"
+        },
+        {
+          "character": "TROI",
+          "line": "You will",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TROI",
+          "line": "Change the ship's orbit to an inclination of eighty degrees south."
+        }
+      ],
+      "location": "Ten Forward"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "RIKER",
+          "line": "The southern polar region. That's where Data tried to move the ship."
+        },
+        {
+          "character": "PICARD",
+          "line": "And that's what Troi asked me to do. But why? Ten Forward, if you could be more specific about our intended destination"
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "PICARD",
+          "line": "Perhaps we could",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "TROI",
+          "line": "You have thirty seconds to change your heading or additional members of your crew will require medical attention.",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "Tem Forward"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "PICARD",
+          "line": "We need to stabilize this situation. Play for time. I suggest we move the ship as they've asked. Agreed? Set a new heading, but take us there as slowly as you can. Ten Forward, we are moving the ship as you requested."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "DATA",
+          "line": "He's telling the truth. Their heading has changed."
+        }
+      ],
+      "location": "Ten Forward"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "CRUSHER",
+          "line": "Captain, I've compared the away team's last transporter trace patterns to their earlier records. They're exactly the same, except in Troi, Data and O'Brien there's an unusual synaptic activity. Some kind of anionic energy. It may be another lifeform superimposing its neural patterns on our people."
+        },
+        {
+          "character": "RIKER",
+          "line": "Why wasn't I affected?"
+        },
+        {
+          "character": "CRUSHER",
+          "line": "I don't know. The only difference between you and the others was that you were injured."
+        },
+        {
+          "character": "RIKER",
+          "line": "My broken arm."
+        },
+        {
+          "character": "CRUSHER",
+          "line": "The fracture caused pain receptors to fire, which may have made you immune to this energy."
+        },
+        {
+          "character": "PICARD",
+          "line": "If your theory is accurate, Doctor, what would happen if we were to inflict pain on the others?"
+        },
+        {
+          "character": "CRUSHER",
+          "line": "It might force whatever it is out of our people."
+        },
+        {
+          "character": "RO",
+          "line": "A plasma shock. It would be painful but it wouldn't cause any physical harm."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "I could hook up a modified laser scanner to a plasma inverter."
+        },
+        {
+          "character": "RIKER",
+          "line": "What about Data?"
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Well, a plasma shock would definitely overload his neural net. It'll work on him too."
+        },
+        {
+          "character": "RIKER",
+          "line": "We have to find a way to penetrate the forcefield around Ten Forward."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "I might be able to interrupt the forcefield for a few seconds, but I'll be fighting the computer for control. Timing would be critical."
+        },
+        {
+          "character": "RO",
+          "line": "We'd have to hit all three with a single discharge. If they're standing together, it shouldn't be a problem."
+        },
+        {
+          "character": "PICARD",
+          "line": "How will you gain access?"
+        },
+        {
+          "character": "LAFORGE",
+          "line": "A micro-optic drill through the ceiling. They'll never detect it."
+        },
+        {
+          "character": "CRUSHER",
+          "line": "If this is going to work, we have to have some way to contain or neutralize this anionic energy once it's out of our people."
+        },
+        {
+          "character": "PICARD",
+          "line": "Yes, Doctor. That will be your top priority. Very well, proceed. Bridge to Ten Forward. Now that we are moving the ship as you requested, I would like to know the nature of the injuries to the members of my crew."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TROI",
+          "line": "Five of your people have been injured."
+        },
+        {
+          "character": "PICARD",
+          "line": "How serious is their condition?",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "TROI",
+          "line": "You, Klingon, tell him."
+        },
+        {
+          "character": "WORF",
+          "line": "Captain, one person has suffered what looks like a level-five phaser hit, and four others have secondary burns. They require medical attention. And our captors are not affected by phaser stun settings."
+        },
+        {
+          "character": "DATA",
+          "line": "Silence, Klingon."
+        }
+      ],
+      "location": "Ten Forward"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "PICARD",
+          "line": "Ten Forward, you must release these people so that they can receive proper medical attention."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TROI",
+          "line": "I will release no one."
+        }
+      ],
+      "location": "Ten Forward"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "PICARD",
+          "line": "If you will release them, I will take their place."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "DATA",
+          "line": "I don't trust him. It may be a deception."
+        },
+        {
+          "character": "TROI",
+          "line": "The crew values Picard's life above all others. Captain Picard, we agree to your proposal."
+        }
+      ],
+      "location": "Ten Forward"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "PICARD",
+          "line": "Expect a medical team to accompany me."
+        },
+        {
+          "character": "TROI",
+          "line": "Acknowledged.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "PICARD",
+          "line": "Sickbay, this is Picard. Have an emergency medical team meet me outside Ten Forward."
+        },
+        {
+          "character": "RIKER",
+          "line": "Sir, putting you down there only strengthens their position."
+        },
+        {
+          "character": "PICARD",
+          "line": "Number One, so long as they're on board this ship, I'm a hostage no matter where I am. We all are. I must find out who we're dealing with. If La Forge and Ro can attempt a rescue in short order, then let them proceed. If they can't, I will provide you with another opportunity. Watch for it."
+        },
+        {
+          "character": "RIKER",
+          "line": "Yes, sir."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "DATA",
+          "line": "Silence that child!"
+        },
+        {
+          "character": "O'BRIEN",
+          "line": "I know you. I know who you are. And I know who this is."
+        },
+        {
+          "character": "KEIKO",
+          "line": "She's frightened. Why don't you just let us go?"
+        },
+        {
+          "character": "O'BRIEN",
+          "line": "No. Make it stop."
+        },
+        {
+          "character": "PICARD",
+          "line": "Ten Forward, we're outside the door.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "TROI",
+          "line": "Lower the force field."
+        },
+        {
+          "character": "TROI",
+          "line": "Welcome, Captain. Allow me to introduce myself. I am Captain Bryce Shumar, of the Federation Starship Essex."
+        },
+        {
+          "character": "PICARD",
+          "line": "The Starship Essex vanished over two hundred years ago."
+        },
+        {
+          "character": "TROI",
+          "line": "Indeed. I know, I was there. This is my First Officer Commander Steven Mullen, and my Security Chief, Lieutenant Morgan Kelly."
+        },
+        {
+          "character": "PICARD",
+          "line": "And you have survived all this time as?"
+        },
+        {
+          "character": "TROI",
+          "line": "Spirits? Ghosts? But you're a man who would never believe in ghosts, Picard. Isn't that true? You see, Troi knows you. And so I do as well."
+        },
+        {
+          "character": "PICARD",
+          "line": "Then Counselor Troi is still alive?"
+        },
+        {
+          "character": "TROI",
+          "line": "Yes, of course she is. I have no wish to harm her or to harm anyone else."
+        },
+        {
+          "character": "PICARD",
+          "line": "I'm very pleased to hear that."
+        },
+        {
+          "character": "TROI",
+          "line": "We have been forced to take this action, Captain, because we need your help."
+        },
+        {
+          "character": "PICARD",
+          "line": "My help?"
+        },
+        {
+          "character": "TROI",
+          "line": "Our consciousness has been trapped on this moon for two centuries. We must escape this torture."
+        },
+        {
+          "character": "PICARD",
+          "line": "How did this happen to you?"
+        },
+        {
+          "character": "TROI",
+          "line": "I can't explain how it happened. I only know that it did. The Essex was caught in an electromagnetic storm just as your shuttle was. Moments before we crashed, the bridge was struck by lightning. The ship was ripped apart. Somehow, in that instant, our consciousness was absorbed in the magnetic currents on the surface."
+        },
+        {
+          "character": "PICARD",
+          "line": "Why didn't you tell us this? Why the deception? The violence?"
+        },
+        {
+          "character": "TROI",
+          "line": "Because as I said, I knew you would not believe us. Even now, I know you don't."
+        },
+        {
+          "character": "PICARD",
+          "line": "What was your vessel's designation and its complement?"
+        },
+        {
+          "character": "TROI",
+          "line": "NCC One seven three. Daedalus-class starship. Crew, two hundred and twenty nine."
+        },
+        {
+          "character": "PICARD",
+          "line": "Under whose command in this sector?"
+        },
+        {
+          "character": "TROI",
+          "line": "Admiral Uttan Narsu, Starbase Twelve. You will find all this in Starfleet records."
+        },
+        {
+          "character": "PICARD",
+          "line": "I don't need to see the records."
+        },
+        {
+          "character": "TROI",
+          "line": "Then you know I am correct."
+        },
+        {
+          "character": "PICARD",
+          "line": "End this, and I will give you whatever help you need."
+        },
+        {
+          "character": "TROI",
+          "line": "No. You don't trust us. And I can't risk trusting you."
+        },
+        {
+          "character": "DATA",
+          "line": "It is taking too long. We should have been there by now. He is manipulating you."
+        },
+        {
+          "character": "TROI",
+          "line": "Captain Picard has every right to be curious."
+        },
+        {
+          "character": "DATA",
+          "line": "He will try to delay until a rescue attempt is possible."
+        },
+        {
+          "character": "TROI",
+          "line": "I know that. I also know that he will make every effort to protect the lives of his people. Since our demands are not excessive, Captain, I hope you will see that it will be simpler to accede than to risk further injuries."
+        },
+        {
+          "character": "PICARD",
+          "line": "What do you want?"
+        },
+        {
+          "character": "TROI",
+          "line": "All you need to know for now is that we want to rest. Simply, finally, to rest."
+        }
+      ],
+      "location": "Ten Forward"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "LAFORGE",
+          "line": "Section two B, A, section one."
+        },
+        {
+          "character": "RO",
+          "line": "Finally. I never want to see this part of the Enterprise again."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "I hear you. This is what starship designers call easy access. Yeah, yeah, this is it. I thought we might have a problem with conduit number two twenty seven but it looks like we're going to be able to get by it."
+        },
+        {
+          "character": "RO",
+          "line": "Thanks."
+        },
+        {
+          "character": "RO",
+          "line": "We're through."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Good. Let's hook up the scanner and see what we've got."
+        },
+        {
+          "character": "RO",
+          "line": "Got it. All three have got to be in the circle if this is going to work."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "We're halfway home. La Forge to Crusher. How're you doing?"
+        },
+        {
+          "character": "CRUSHER",
+          "line": "I think I've come up with an idea for a containment field.",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "Jefferies tube"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "CRUSHER",
+          "line": "This anionic energy seems to be vulnerable to the same magnetic flux density we monitored in the storms. If we can duplicate it, we can trap it"
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "CRUSHER",
+          "line": "Once it's out of our people.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "LAFORGE",
+          "line": "You should be able to do that by flooding Ten Forward with ionogenic particles."
+        },
+        {
+          "character": "CRUSHER",
+          "line": "Exactly what I was thinking.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "RIKER",
+          "line": "Geordi, how long will it take to get it all ready?",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "LAFORGE",
+          "line": "We still have to calibrate the plasma inverter, Commander. My guess is forty five minutes to an hour."
+        }
+      ],
+      "location": "Jefferies tube"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "CRUSHER",
+          "line": "I can have the containment field ready by then."
+        },
+        {
+          "character": "RIKER",
+          "line": "Keep me advised."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "PICARD",
+          "line": "Impressions, Mister Worf?"
+        },
+        {
+          "character": "WORF",
+          "line": "Spiritual possessions of this sort have been reported throughout Klingon history. It is called jat'yIn, the taking of the living by the dead."
+        },
+        {
+          "character": "PICARD",
+          "line": "Human history is full of many similar legends."
+        },
+        {
+          "character": "WORF",
+          "line": "Then you believe they may be telling the truth?"
+        },
+        {
+          "character": "PICARD",
+          "line": "Not for one moment."
+        },
+        {
+          "character": "WORF",
+          "line": "Sir, they know much about the Essex. If it is the spirit of Captain Shumar."
+        },
+        {
+          "character": "PICARD",
+          "line": "Then he should be behaving very much better, don't you think? A Starfleet Captain."
+        },
+        {
+          "character": "O'BRIEN",
+          "line": "You two, sit down."
+        },
+        {
+          "character": "WORF",
+          "line": "After living disembodied for two centuries, perhaps they've gone mad."
+        },
+        {
+          "character": "PICARD",
+          "line": "I assure you, Mister Worf, these are not jat'yIn. Our job is to find out exactly what they are and then to determine how to deal with them."
+        },
+        {
+          "character": "DATA",
+          "line": "Right, That's enough. Sit down, both of you. You over there, you there. Down."
+        },
+        {
+          "character": "O'BRIEN",
+          "line": "I gave you that. In a place called McKinley Park. Green grass. Tall trees."
+        },
+        {
+          "character": "KEIKO",
+          "line": "Please don't."
+        },
+        {
+          "character": "O'BRIEN",
+          "line": "I hid the bracelet in your pocket. You were surprised."
+        },
+        {
+          "character": "KEIKO",
+          "line": "Don't."
+        },
+        {
+          "character": "O'BRIEN",
+          "line": "You said, Miles, you make me feel so happy."
+        },
+        {
+          "character": "KEIKO",
+          "line": "No! Get away! Get away from me."
+        },
+        {
+          "character": "TROI",
+          "line": "Leave her alone."
+        },
+        {
+          "character": "PICARD",
+          "line": "Captain Shumar. We'll be approaching the southern polar region that you requested in a few minutes. I need to give additional instructions."
+        },
+        {
+          "character": "TROI",
+          "line": "Very well. We're taking you to our crash site."
+        },
+        {
+          "character": "PICARD",
+          "line": "The southern pole?"
+        },
+        {
+          "character": "TROI",
+          "line": "That is correct."
+        },
+        {
+          "character": "PICARD",
+          "line": "Nothing our sensors were able to detect indicated that the Essex went down in that region."
+        },
+        {
+          "character": "TROI",
+          "line": "As I told you, Captain, the ship broke up in the atmosphere, and the bridge went down here. When we reach it, you will beam what's left of our skeletal remains on board this ship and then take them back to Earth for a proper burial. You see how simple a request this is?"
+        },
+        {
+          "character": "PICARD",
+          "line": "Captain, if you will let these people go, I'll order the Bridge to follow your instructions."
+        },
+        {
+          "character": "TROI",
+          "line": "I will release no one."
+        },
+        {
+          "character": "PICARD",
+          "line": "If you are who you say you are, there's no need for any of this. We'll gladly take you home."
+        },
+        {
+          "character": "TROI",
+          "line": "I wish you were truly as open-minded as you say, Picard."
+        },
+        {
+          "character": "PICARD",
+          "line": "If you don't release the hostages, I won't cooperate."
+        },
+        {
+          "character": "DATA",
+          "line": "You will cooperate, Captain. You will cooperate or someone will die. Who shall it be? How about the Klingon? Get another one."
+        },
+        {
+          "character": "O'BRIEN",
+          "line": "You."
+        },
+        {
+          "character": "O'BRIEN",
+          "line": "Come on. Come on, come on."
+        },
+        {
+          "character": "DATA",
+          "line": "Pick one to die, Captain, or I kill them both."
+        }
+      ],
+      "location": "Ten Forward"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "RO",
+          "line": "They're all in range. I have to do it now."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "I'm only going to be able to shut down the forcefield for about seven seconds before the computer compensates."
+        },
+        {
+          "character": "RO",
+          "line": "Well, if they're the right seven seconds, it'll be enough."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Bridge,"
+        }
+      ],
+      "location": "Jefferies tube"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "LAFORGE",
+          "line": "Prepare to release the ionogenic field on my signal.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "RIKER",
+          "line": "Standing by."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "LAFORGE",
+          "line": "Ready?"
+        },
+        {
+          "character": "RO",
+          "line": "Lower the forcefield."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Forcefield down."
+        },
+        {
+          "character": "RO",
+          "line": "Firing plasma charge."
+        }
+      ],
+      "location": "Jefferies tube"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "RO",
+          "line": "Damn!"
+        }
+      ],
+      "location": "Jefferies tube"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "DATA",
+          "line": "Tell them to stop, or I kill everyone in this room, starting with you."
+        },
+        {
+          "character": "PICARD",
+          "line": "Picard to Bridge, abort immediately."
+        }
+      ],
+      "location": "Ten Forward"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "RIKER",
+          "line": "As you say, Captain. Riker to La Forge, return to the Bridge."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TROI",
+          "line": "Are you ready to cooperate?"
+        },
+        {
+          "character": "PICARD",
+          "line": "Yes. First officer's log, supplemental. The Enterprise has moved into a synchronous orbit near the southern polar region. We await further instructions from Ten Forward."
+        }
+      ],
+      "location": "Ten Forward"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "RIKER",
+          "line": "Any sign of the Essex?"
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Negative, Commander. Electromagnetic disturbances are even worse here. Scanners can't read a thing."
+        },
+        {
+          "character": "RIKER",
+          "line": "Bridge to Ten Forward."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "RIKER",
+          "line": "Intense storm activity over the southern pole is making it virtually impossible for us to pick up any trace of the Essex."
+        },
+        {
+          "character": "TROI",
+          "line": "We are giving you the exact coordinates of our remains on board the wreck of the Essex."
+        }
+      ],
+      "location": "Ten Forward"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "LAFORGE",
+          "line": "I'm receiving the coordinates now."
+        },
+        {
+          "character": "RIKER",
+          "line": "Can you tell what's there?"
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Just your basic ionic cyclone. I can't read a thing."
+        },
+        {
+          "character": "RIKER",
+          "line": "I'm sure as hell not going to beam up whatever might be down there."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "I've got a good excuse for you. The transporters aren't going to work any better than the scanners."
+        },
+        {
+          "character": "RIKER",
+          "line": "Bridge to Ten Forward."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "RIKER",
+          "line": "Whatever's blocking our scanners will prevent the use of the transporters.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "O'BRIEN",
+          "line": "They're lying."
+        },
+        {
+          "character": "PICARD",
+          "line": "On the contrary, we've had a difficult time with transporters since we arrived here. That's why we had to send down the shuttle. You should all have been aware of that fact."
+        },
+        {
+          "character": "DATA",
+          "line": "We must be able to use the transporters."
+        },
+        {
+          "character": "PICARD",
+          "line": "Mister O'Brien was the one who safely executed the return of the away team. He's the most qualified person on board to operate the transporters under these circumstances."
+        },
+        {
+          "character": "TROI",
+          "line": "Can you do it from here?"
+        },
+        {
+          "character": "O'BRIEN",
+          "line": "No. I'd have to use a transporter pad."
+        },
+        {
+          "character": "PICARD",
+          "line": "I could give you safe passage to a transporter pad in one of the cargo bays."
+        },
+        {
+          "character": "DATA",
+          "line": "It's a trick. He is trying to divide us."
+        },
+        {
+          "character": "TROI",
+          "line": "We must not be separated."
+        },
+        {
+          "character": "PICARD",
+          "line": "I can give you all safe passage."
+        },
+        {
+          "character": "DATA",
+          "line": "Why are you suddenly being so helpful?"
+        },
+        {
+          "character": "PICARD",
+          "line": "Because I assume that if you choose go to the cargo bay, then you won't to take all of the hostages. Their safety is my chief priority."
+        },
+        {
+          "character": "TROI",
+          "line": "What are the risks when we leave this room?"
+        },
+        {
+          "character": "DATA",
+          "line": "Without the protection of the forcefields, we are completely vulnerable."
+        },
+        {
+          "character": "O'BRIEN",
+          "line": "They could use the transporter against us. Once the forcefield is down, they could beam us back to the surface. But there is a way to neutralize that threat. Bridge, transfer all transporter functions to Ten Forward."
+        },
+        {
+          "character": "RIKER",
+          "line": "In order to do that",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "Ten Forward"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "RIKER",
+          "line": "You will have to release your computer control lockouts."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "O'BRIEN",
+          "line": "That's not true."
+        },
+        {
+          "character": "PICARD",
+          "line": "Let me talk to him. Number One, I think we have an opportunity to end this siege."
+        }
+      ],
+      "location": "Ten Forward"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "PICARD",
+          "line": "It will require the cooperation of all concerned.",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "PICARD",
+          "line": "Our guests will be moving shortly to cargo bay four, where the transport will occur. I want you to ensure them of safe passage between Ten Forward to the cargo bay."
+        }
+      ],
+      "location": "Ten Forward"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "RIKER",
+          "line": "Understood, Captain. Doctor. Mister La Forge."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Yes, sir."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "O'BRIEN",
+          "line": "Transporter controls are being transferred. Ten Forward to Bridge. I said all transporter controls. Including those aboard all your shuttlecraft."
+        }
+      ],
+      "location": "Ten Forward"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "RIKER",
+          "line": "Almost had them, Ensign. Nice try. Ten Forward. Our mistake. Remaining transporter functions are being transferred to you."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "O'BRIEN",
+          "line": "Once we create our own access code, we can prevent anyone using the transporter against us. We can go to the cargo bay."
+        },
+        {
+          "character": "DATA",
+          "line": "What about the weapons?"
+        },
+        {
+          "character": "TROI",
+          "line": "We will each take a hostage for protection."
+        },
+        {
+          "character": "DATA",
+          "line": "Klingon."
+        },
+        {
+          "character": "TROI",
+          "line": "Picard, you are mine."
+        },
+        {
+          "character": "KEIKO",
+          "line": "Please, let her stay."
+        },
+        {
+          "character": "TROI",
+          "line": "Lower the forcefield."
+        }
+      ],
+      "location": "Ten Forward"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "RIKER",
+          "line": "Security teams, stand by."
+        },
+        {
+          "character": "RO",
+          "line": "They're heading through section five."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "RIKER",
+          "line": "Mister La Forge, Doctor, they'll be at their destination in less than a minute."
+        },
+        {
+          "character": "RO",
+          "line": "They've stopped at deck eighteen, sir."
+        },
+        {
+          "character": "RIKER",
+          "line": "Security, allow them access into cargo bay four."
+        },
+        {
+          "character": "SECURITY",
+          "line": "Aye, sir.",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "O'BRIEN",
+          "line": "I will require assistance."
+        },
+        {
+          "character": "PICARD",
+          "line": "Captain Shumar, how do you intend to achieve this rest that you so desire?"
+        },
+        {
+          "character": "TROI",
+          "line": "What do you mean?"
+        },
+        {
+          "character": "PICARD",
+          "line": "Well, how do you intend to free yourselves of this existence that has so trapped your consciousness?"
+        },
+        {
+          "character": "TROI",
+          "line": "It will fade as we move further from this planet."
+        },
+        {
+          "character": "PICARD",
+          "line": "Really? What is your scientific basis for that?"
+        },
+        {
+          "character": "TROI",
+          "line": "I don't need a scientific basis. Just be quiet."
+        },
+        {
+          "character": "PICARD",
+          "line": "Captain Shumar, when are you going to tell me who you really are?"
+        },
+        {
+          "character": "O'BRIEN",
+          "line": "I've initialized the transporter signal."
+        },
+        {
+          "character": "TROI",
+          "line": "Proceed."
+        }
+      ],
+      "location": "Cargo bay"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "RO",
+          "line": "They're powering up the transporter, Commander."
+        },
+        {
+          "character": "RIKER",
+          "line": "Mister LaForge."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "I've isolated cargo bay four with a neutrino field, sir, but it'll only take Data and O'Brien a couple of minutes to override it, once they diskover that it's there."
+        },
+        {
+          "character": "RIKER",
+          "line": "I hope that'll give the Captain enough time to play his hand."
+        },
+        {
+          "character": "RO",
+          "line": "Do you know what he's going to do?"
+        },
+        {
+          "character": "RIKER",
+          "line": "There's only one reason he chose cargo bay four. If it becomes necessary, Ensign, you will blow the cargo bay hatch on my orders."
+        },
+        {
+          "character": "RO",
+          "line": "Yes, sir."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TROI",
+          "line": "You're quite right, Picard, it's not rest we seek. Only escape."
+        },
+        {
+          "character": "PICARD",
+          "line": "Escape?"
+        },
+        {
+          "character": "TROI",
+          "line": "We were brought to this moon over five centuries ago from a star system called Ux-Mal. We were separated from our bodies and left to drift in the storms. Once we almost escaped, on board the Essex, but that ship was incapable of eluding this moon's electromagnetic storms."
+        },
+        {
+          "character": "PICARD",
+          "line": "Did you really think using their identities would gain our sympathy?"
+        },
+        {
+          "character": "TROI",
+          "line": "It was a better approach than asking you to allow hundreds of condemned prisoners on board."
+        },
+        {
+          "character": "PICARD",
+          "line": "Then this moon is a penal colony."
+        },
+        {
+          "character": "TROI",
+          "line": "That's correct. But now we have your ship and your bodies to carry us home."
+        }
+      ],
+      "location": "Cargo bay"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "RO",
+          "line": "I'm reading dozens of them. Hundreds."
+        },
+        {
+          "character": "CRUSHER",
+          "line": "They have the same anionic signature we saw on the biofilter scans."
+        },
+        {
+          "character": "RIKER",
+          "line": "I think we can give the Captain a new bargaining chip. Doctor Crusher, flood the cargo bay with your containment field."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TROI",
+          "line": "No! Let them go or you will all die."
+        },
+        {
+          "character": "PICARD",
+          "line": "Your threats are meaningless now."
+        },
+        {
+          "character": "O'BRIEN",
+          "line": "We are still in control of these three bodies. We will not let them go."
+        },
+        {
+          "character": "PICARD",
+          "line": "Are you prepared to sacrifice the lives of the others? They'll all die when the cargo bay hatch is blown."
+        },
+        {
+          "character": "DATA",
+          "line": "You will die too, Picard."
+        },
+        {
+          "character": "KEIKO",
+          "line": "I would die to save the life of my child."
+        },
+        {
+          "character": "WORF",
+          "line": "To die defending one's ship is the hope of every Klingon."
+        },
+        {
+          "character": "PICARD",
+          "line": "If you each know the officers you inhabit, then you know they're equally ready to give their lives for this ship. Free them now and I will return you to the moon's surface."
+        },
+        {
+          "character": "TROI",
+          "line": "I advise you, Picard, not to pass our way again."
+        },
+        {
+          "character": "PICARD",
+          "line": "Picard to Bridge."
+        },
+        {
+          "character": "RIKER",
+          "line": "Aye, sir.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "PICARD",
+          "line": "Our guests will be leaving shortly. I need an emergency medical team down here."
+        },
+        {
+          "character": "CRUSHER",
+          "line": "On our way, Captain.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "PICARD",
+          "line": "Mister Worf, prepare to transport these prisoners back down to the moon's surface."
+        },
+        {
+          "character": "WORF",
+          "line": "Gladly, sir."
+        },
+        {
+          "character": "PICARD",
+          "line": "Captain's log, stardate 45572.1. Doctor Crusher has examined Troi, Data and O'Brien. There seem to be no residual effects from their experience.",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "Cargo bay"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TROI",
+          "line": "It was as though my own consciousness were pushed to the side. I was watching everything happen, hearing my own voice, but not being able to control any of it."
+        },
+        {
+          "character": "PICARD",
+          "line": "What about the entity that controlled you, What were your perceptions of him?"
+        },
+        {
+          "character": "TROI",
+          "line": "He was intelligent, actually. Thoughtful, in a ruthless sort of way. Cold."
+        },
+        {
+          "character": "DATA",
+          "line": "Lieutenant, I must apologize for my inadvertent misconduct toward you."
+        },
+        {
+          "character": "WORF",
+          "line": "No apology necessary."
+        },
+        {
+          "character": "DATA",
+          "line": "Your restraint was most remarkable."
+        },
+        {
+          "character": "WORF",
+          "line": "You have no idea."
+        }
+      ],
+      "location": "Corridor"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "CRUSHER",
+          "line": "How do you feel?"
+        },
+        {
+          "character": "O'BRIEN",
+          "line": "Hungry."
+        },
+        {
+          "character": "CRUSHER",
+          "line": "That's a good sign. Go home."
+        },
+        {
+          "character": "O'BRIEN",
+          "line": "How do you feel?"
+        },
+        {
+          "character": "KEIKO",
+          "line": "I'm just glad to have you back."
+        },
+        {
+          "character": "O'BRIEN",
+          "line": "If I could've killed that thing inside me, I would have."
+        },
+        {
+          "character": "KEIKO",
+          "line": "I know. We both know."
+        }
+      ],
+      "location": "Sickbay"
+    }
+  ],
+  "schedule": {
+    "episode": 15,
+    "number": 115,
+    "season": 5
+  },
+  "stardate": "45571.2",
+  "title": "Power Play"
+}

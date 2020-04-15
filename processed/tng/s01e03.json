@@ -1,0 +1,1784 @@
+{
+  "airdate": 560404800,
+  "scenes": [
+    {
+      "dialogue": [
+        {
+          "character": "PICARD",
+          "line": "Captain's log, Stardate 41209.2. We are running at warp seven to rendezvous with the science vessel SS Tsiolkovsky, which has been routinely monitoring the collapse of a red super giant star into a white dwarf. What has brought us here is a series of strange messages indicating something has gone wrong aboard the research vessel.",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "unknown"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "DATA",
+          "line": "SS Tsiolkovsky, repeat your message."
+        },
+        {
+          "character": "WOMAN",
+          "line": "Well hello, Enterprise. Welcome. I hope you have a lot of pretty boys on board, because i'm willing and waiting. In fact, we're going to have a real blow-out here.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "MAN",
+          "line": "Do it! Yeah, go ahead. Do it!",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "DATA",
+          "line": "Captain, what we just heard is impossible."
+        },
+        {
+          "character": "PICARD",
+          "line": "Report."
+        },
+        {
+          "character": "DATA",
+          "line": "I believe that last sound we heard was an emergency hatch being blown."
+        },
+        {
+          "character": "PICARD",
+          "line": "Are you certain? Yes, of course you are."
+        },
+        {
+          "character": "RIKER",
+          "line": "Data, Geordi, Tasha."
+        },
+        {
+          "character": "WORF",
+          "line": "Sensor scan now reveals no life signs aboard, Captain."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "RIKER",
+          "line": "Cover the ship as planned. Move out."
+        },
+        {
+          "character": "DATA",
+          "line": "Indications of what humans would call a wild party?"
+        },
+        {
+          "character": "RIKER",
+          "line": "Their Bridge. If this thing works, be sure to record everything."
+        },
+        {
+          "character": "RIKER",
+          "line": "You were right. Somebody blew the hatch. They were all sucked out into space."
+        },
+        {
+          "character": "DATA",
+          "line": "Correction, sir, that's blown out."
+        },
+        {
+          "character": "RIKER",
+          "line": "Thank you, Data."
+        },
+        {
+          "character": "DATA",
+          "line": "A common mistake, sir,"
+        },
+        {
+          "character": "TASHA",
+          "line": "Commander Riker, Lieutenant Yar. Location Engineering. Ten people here, sir, all frozen. No vital signs.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "RIKER",
+          "line": "Frozen? How?"
+        },
+        {
+          "character": "TASHA",
+          "line": "It looks like someone has been playing with the environmental controls, sir. Just let all the heat bleed away into space.",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "Tsiolkovsky"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "LAFORGE",
+          "line": "Sir, Lieutenant La Forge in the crew quarters. Something in here. (He finds a door which is trying to close. He opens it and a corpse falls out into his arms."
+        }
+      ],
+      "location": "Tsiolkovsky Crew Quarters"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "RIKER",
+          "line": "Riker to Captain, I have a report for you, sir."
+        },
+        {
+          "character": "PICARD",
+          "line": "Picard here.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "RIKER",
+          "line": "They're all dead."
+        }
+      ],
+      "location": "Tsiolkovsky"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "RIKER",
+          "line": "Apparently some of them were apparently blown out the emergency hatches.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "PICARD",
+          "line": "But there were eighty people on that ship, Number One."
+        },
+        {
+          "character": "RIKER",
+          "line": "Yes sir.",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "RIKER",
+          "line": "As I said, all dead."
+        },
+        {
+          "character": "PICARD",
+          "line": "Captain's log, supplemental. We are downloading the research information gathered on the collapsing star nearby. I am concerned at being in such close orbit, but the Tsiolkovsky's research records will no doubt predict the time of the star's final collapse.",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "Tsiolkovsky"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "CRUSHER",
+          "line": "I can't find anything unusual in any of the tricorder readings they've sent over, Captain."
+        },
+        {
+          "character": "PICARD",
+          "line": "Give me a theory, Doctor. Anything. Madness? Mass hysteria? Delusion?"
+        },
+        {
+          "character": "TROI",
+          "line": "Any or all, Captain."
+        },
+        {
+          "character": "PICARD",
+          "line": "All right. Let's bring the away team back. Set the transporter to maximum decontamination, and then full examination and observation when they're here."
+        }
+      ],
+      "location": "Crusher's office"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "CRUSHER",
+          "line": "If you were any more perfect, Data, I'd write you up in a Starfleet medical textbook."
+        },
+        {
+          "character": "DATA",
+          "line": "I am already listed in several bio-mechanical texts, Doctor."
+        },
+        {
+          "character": "CRUSHER",
+          "line": "Yes of course. You're next, Lieutenant."
+        },
+        {
+          "character": "CRUSHER",
+          "line": "Normal all across. Except, why are you perspiring, Lieutenant?"
+        },
+        {
+          "character": "LAFORGE",
+          "line": "I suppose because you have it too hot in here. What else would it be?"
+        },
+        {
+          "character": "RIKER",
+          "line": "That doesn't sound like you, Geordi."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Well, maybe it's not. Maybe she threw her voice. Hey, it was a joke."
+        },
+        {
+          "character": "CRUSHER",
+          "line": "Of course, but I would like to run one or two more tests on you, Lieutenant."
+        }
+      ],
+      "location": "Sickbay"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "CRUSHER",
+          "line": "Sickbay to Bridge,",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "PICARD",
+          "line": "Picard here. Go ahead, Doctor."
+        },
+        {
+          "character": "CRUSHER",
+          "line": "I'm confining Lieutenant La Forge to Sickbay until further notice.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "PICARD",
+          "line": "Do we have a problem, Doctor?"
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "CRUSHER",
+          "line": "I don't know yet."
+        }
+      ],
+      "location": "Crusher's office"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "RIKER",
+          "line": "Data, I need help in locating some library computer information."
+        },
+        {
+          "character": "DATA",
+          "line": "Specifics, sir?"
+        },
+        {
+          "character": "RIKER",
+          "line": "All I have is a vague memory of reading somewhere about someone taking a shower in his or her clothing."
+        },
+        {
+          "character": "DATA",
+          "line": "Ah. The body Geordi diskovered."
+        },
+        {
+          "character": "RIKER",
+          "line": "I believe it may have happened before."
+        },
+        {
+          "character": "DATA",
+          "line": "To someone, somewhere."
+        },
+        {
+          "character": "RIKER",
+          "line": "This ought to be easy for someone written up in bio-mechanical texts."
+        },
+        {
+          "character": "DATA",
+          "line": "About that, sir. Did the Doctor believe I was boasting?"
+        },
+        {
+          "character": "RIKER",
+          "line": "Probably. This may take some time."
+        },
+        {
+          "character": "DATA",
+          "line": "At least several hours. But what I said was a statement of fact. Perhaps she will look it up."
+        },
+        {
+          "character": "RIKER",
+          "line": "You can depend on it."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "CRUSHER",
+          "line": "Geordi!"
+        }
+      ],
+      "location": "Sickbay"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "CRUSHER",
+          "line": "Security. Lieutenant La Forge just left Sickbay while I was in my office."
+        }
+      ],
+      "location": "Crusher's office"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "CRUSHER",
+          "line": "He doesn't have his communicator. It is very important that we find him.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "TASHA",
+          "line": "Security team alert, pick up Lieutenant La Forge. He just left Sickbay moments ago. Captain, anything further?"
+        },
+        {
+          "character": "PICARD",
+          "line": "Affirmative. Make it a ship-wide search, Lieutenant."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "WESLEY",
+          "line": "It's a model of the same kind of tractor beam our ship uses with a few ideas of my own added."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "So that's your science project, huh? Wes, you're really something."
+        },
+        {
+          "character": "WESLEY",
+          "line": "And since the Captain won't let me on the Bridge, I use this to imagine I'm there."
+        },
+        {
+          "character": "PICARD",
+          "line": "Take the helm, Mister Crusher. Set a course for thirty seven mark one hundred eighty. Warp six.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "LAFORGE",
+          "line": "It's the Captain's voice."
+        },
+        {
+          "character": "WESLEY",
+          "line": "It's pieced together from words he's used on the intercom. With this, I can pretend he's ordering me to take the Enterprise anywhere. And listen to this,"
+        },
+        {
+          "character": "PICARD",
+          "line": "Chief Engineer, report to the Bridge. Commander Riker, report to the Bridge. Doctor Crusher, report to the Bridge.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "WESLEY",
+          "line": "What do you think?"
+        },
+        {
+          "character": "LAFORGE",
+          "line": "I think the Captain's lucky you're on his side."
+        },
+        {
+          "character": "WESLEY",
+          "line": "But he still won't let me on the Bridge. And there's nothing there I don't understand."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "I wish I understood myself that well."
+        },
+        {
+          "character": "WESLEY",
+          "line": "Are you okay?"
+        },
+        {
+          "character": "LAFORGE",
+          "line": "No, Suddenly I seem to be burning up inside. It's hot in here."
+        }
+      ],
+      "location": "Crusher's quarters"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TASHA",
+          "line": "Geordi? Geordi? Lieutenant Yar in the Observation lounge. Send a team here now. Medical's been worried about you."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Help me. Help me to not to give in to the wild things coming into my mind,"
+        },
+        {
+          "character": "TASHA",
+          "line": "Geordi, my job is security,"
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Tasha, please."
+        },
+        {
+          "character": "TASHA",
+          "line": "Alright. Alright, helping is more important. Geordi, how can I help you?"
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Help me to see. Like you do."
+        },
+        {
+          "character": "TASHA",
+          "line": "But you already see better than I can."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "I see more. But more isn't better."
+        },
+        {
+          "character": "TASHA",
+          "line": "Geordi, please put"
+        },
+        {
+          "character": "LAFORGE",
+          "line": "I want to see in shallow, dim, beautiful human ways."
+        },
+        {
+          "character": "TASHA",
+          "line": "We'll talk about it, Geordi. Right now I'm going to take you to Sickbay. All right?"
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Yeah."
+        },
+        {
+          "character": "TASHA",
+          "line": "Okay. Good."
+        }
+      ],
+      "location": "Observation lounge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TASHA",
+          "line": "And then we got him down to Sickbay so Doctor Crusher could examine him."
+        },
+        {
+          "character": "PICARD",
+          "line": "He wasn't violent?"
+        },
+        {
+          "character": "TASHA",
+          "line": "No, sir. He was very upset. He kept talking about wanting normal vision."
+        },
+        {
+          "character": "PICARD",
+          "line": "Thank you, Lieutenant."
+        },
+        {
+          "character": "CRUSHER",
+          "line": "According to our medical readouts, there's still nothing wrong with him. He looks like he's running a temperature but every instrument we have says he's not."
+        },
+        {
+          "character": "PICARD",
+          "line": "Doctor, every person on that ship over there died. Is there any chance that whatever did it is loose on my ship?"
+        },
+        {
+          "character": "CRUSHER",
+          "line": "If you mean a disease, sir, I'd say there's no chance of it. We used full decontamination, we examined every team member very carefully,"
+        },
+        {
+          "character": "PICARD",
+          "line": "The entire crew somehow managed to kill themselves, Doctor. If it's not a disease, what else could have made them do that?"
+        },
+        {
+          "character": "CRUSHER",
+          "line": "The obvious alternatives would be in areas of insanity and severe emotional upset. Troi, do you feel anything unusual in the lieutenant?"
+        },
+        {
+          "character": "PICARD",
+          "line": "Security just told me that he was longing for normal eyesight. That's a sudden yearning for that."
+        },
+        {
+          "character": "TROI",
+          "line": "Since his records show no previous mention of that, the fact that it's happened now could be important. But all I sense from him is confusion. If I didn't know better, I'd say he was intoxicated."
+        },
+        {
+          "character": "CRUSHER",
+          "line": "Our tests would have shown that. Also any other signs of drugs, hallucinogens or other contaminants."
+        }
+      ],
+      "location": "Sickbay"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "DATA",
+          "line": "Can you provide more information, sir? Seeking an instance of someone showering in his or her clothing is"
+        },
+        {
+          "character": "RIKER",
+          "line": "I know. It's like looking for a needle in a haystack."
+        },
+        {
+          "character": "DATA",
+          "line": "Why should anyone wish to expend his time in such a search?"
+        },
+        {
+          "character": "RIKER",
+          "line": "Correction, Data, I should have said proverbial needle in a haystack."
+        },
+        {
+          "character": "DATA",
+          "line": "Ah, a human proverb! As in folklore, or an historical allusion, or tribal memories"
+        },
+        {
+          "character": "RIKER",
+          "line": "Historical. That's it. I remember I was reading a history of all the past starships named Enterprise."
+        },
+        {
+          "character": "DATA",
+          "line": "Enterprise history. Aberrant behavior. Medical cross reference,"
+        },
+        {
+          "character": "RIKER",
+          "line": "Captain, I believe we've have the answer to what happened over there."
+        },
+        {
+          "character": "PICARD",
+          "line": "The Constitution class Enterprise, Captain James T. Kirk commanding."
+        },
+        {
+          "character": "RIKER",
+          "line": "Similar conditions. They were monitoring a planet that was breaking up, not a collapsing star as in this case. But there were the same huge shifts in gravity,"
+        },
+        {
+          "character": "PICARD",
+          "line": "Which somehow resulted in complex strings of water molecules which acquired carbon from the body and acted on the brain like alcohol. Data, download this information to Medical immediately."
+        },
+        {
+          "character": "DATA",
+          "line": "Aye, sir. Downloading."
+        },
+        {
+          "character": "PICARD",
+          "line": "Fascinating! The entire crew going out of control,"
+        },
+        {
+          "character": "RIKER",
+          "line": "Like intoxication, but worse. Judgment almost completely impaired,"
+        },
+        {
+          "character": "PICARD",
+          "line": "Until they found this formula, barely in time. Picard to Doctor Crusher, come in."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "CRUSHER",
+          "line": "This is Crusher. Go ahead Captain."
+        },
+        {
+          "character": "PICARD",
+          "line": "You can relax, Doctor.",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "Crusher's office"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "PICARD",
+          "line": "The answer to all of this is feeding into your medical banks right now. Including a cure."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "CRUSHER",
+          "line": "Are you certain, Captain?"
+        }
+      ],
+      "location": "Crusher's office"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "PICARD",
+          "line": "Absolutely."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TROI",
+          "line": "Tasha? What are you doing?"
+        },
+        {
+          "character": "TASHA",
+          "line": "I need your advice. That's why I came to your quarters."
+        },
+        {
+          "character": "TROI",
+          "line": "Of course. Anything I can do"
+        },
+        {
+          "character": "TASHA",
+          "line": "On clothes. You always wear such beautiful clothes off duty. And your hair always looks so nice. I want to change my image. What do you think about this? Or this one?"
+        },
+        {
+          "character": "TROI",
+          "line": "It's not for you. Tasha, I feel you're very uncertain. Yhat you're fighting something. What is it?"
+        },
+        {
+          "character": "TASHA",
+          "line": "Never mind. I'll find what I need myself. Ship's stores will have it."
+        },
+        {
+          "character": "TROI",
+          "line": "Tasha? Tasha, wait."
+        }
+      ],
+      "location": "Troi's Quarters"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TROI",
+          "line": "Troi to Captain Picard.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "PICARD",
+          "line": "Picard here."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TROI",
+          "line": "Sir, I think Tasha's been infected too."
+        }
+      ],
+      "location": "Troi's quarters"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TROI",
+          "line": "She just left my quarters,",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "PICARD",
+          "line": "Counselor, it's not actually an infection."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TROI",
+          "line": "Yes, sir. It's more like an intoxication. Nut whatever it is, she's got it."
+        }
+      ],
+      "location": "Troi's quarters"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "PICARD",
+          "line": "Thank you, Counselor. Number One, it seems our Security Chief has the equivalent of a snootful."
+        },
+        {
+          "character": "DATA",
+          "line": "Inquiry, sir. Snootful?"
+        },
+        {
+          "character": "PICARD",
+          "line": "Forget it."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "WESLEY",
+          "line": "Hey, Mom, look what I can do."
+        },
+        {
+          "character": "WESLEY",
+          "line": "I've been able to widen and strengthen the beam, just like I told you last night."
+        },
+        {
+          "character": "CRUSHER",
+          "line": "Do me a favor, Wes. There's something happening on this ship. Just to be safe, I'd like you to stay in our quarters until it's solved."
+        },
+        {
+          "character": "WESLEY",
+          "line": "Sure, Mom, sure. Your wish is my command."
+        },
+        {
+          "character": "CRUSHER",
+          "line": "Now, Wes."
+        },
+        {
+          "character": "WESLEY",
+          "line": "Okay, but you could be stunting my emotional growth, you realize that. Why is it so hot in here, anyway?"
+        },
+        {
+          "character": "PICARD",
+          "line": "Picard to Crusher.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "CRUSHER",
+          "line": "Crusher here."
+        },
+        {
+          "character": "PICARD",
+          "line": "Have you made a test injection yet? We're getting indications that this condition is spreading."
+        },
+        {
+          "character": "CRUSHER",
+          "line": "No test yet, Captain, but very soon."
+        }
+      ],
+      "location": "Sickbay"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "DATA",
+          "line": "Captain, another forty-one minutes will see the information from the Tsiolkovsky downloaded to us."
+        },
+        {
+          "character": "PICARD",
+          "line": "Why so slow?"
+        },
+        {
+          "character": "DATA",
+          "line": "Slow, sir? The Tsiolkovsky has been eight months in accumulating it."
+        },
+        {
+          "character": "PICARD",
+          "line": "How much danger from that star? Worse case."
+        },
+        {
+          "character": "DATA",
+          "line": "Like a full collapse, sir? Any stellar material it threw this way we could still outrun on half impulse power."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "PICARD",
+          "line": "Picard to Engineering. Chief Engineer report to the Bridge.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "PICARD",
+          "line": "Assistant Chief Engineer Shimoda, report to Medical.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "WESLEY",
+          "line": "Hi, Jim. Was that the Captain sending you to Medical?"
+        },
+        {
+          "character": "SHIMODA",
+          "line": "Which would leave no one on duty here. The Chief was just summoned to the Bridge."
+        },
+        {
+          "character": "WESLEY",
+          "line": "What about me? I could call the Chief on the Bridge if anything happened."
+        }
+      ],
+      "location": "Engineering"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "MACDOUGAL",
+          "line": "Reporting as ordered, sir."
+        },
+        {
+          "character": "PICARD",
+          "line": "What?"
+        },
+        {
+          "character": "MACDOUGAL",
+          "line": "You ordered me to report to the Bridge, sir."
+        },
+        {
+          "character": "PICARD",
+          "line": "I did no such thing. I want you down in the Engine room just in case we need to move out of here."
+        },
+        {
+          "character": "PICARD",
+          "line": "Attention all decks, all divisions. Effective immediately, I have handed over control of this vessel to Acting Captain Wesley Crusher.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "PICARD",
+          "line": "Acting Captain?"
+        },
+        {
+          "character": "WESLEY",
+          "line": "Thank you, Captain Picard, thank you. And with that order dawns a brave new day for the Enterprise.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "PICARD",
+          "line": "Captain's log, Stardate 41209.3. The strange contaminant that led to the deaths of the Tsiolkovsky crew is now aboard the Enterprise and our Engineering section has been commandeered by young Wesley Crusher.",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "WESLEY",
+          "line": "And henceforth, a dessert course shall precede and follow every meal. Including breakfast."
+        },
+        {
+          "character": "CREWMAN",
+          "line": "Hurray for the acting Captain!"
+        },
+        {
+          "character": "SHIMODA",
+          "line": "Never got as far as Sickbay, Wes. I feel too good for that."
+        },
+        {
+          "character": "SHIMODA",
+          "line": "Incredible. How did you do that?"
+        },
+        {
+          "character": "WESLEY",
+          "line": "Hooked my model tractor beam into ship's power. Now its a repulser beam too. Want in?"
+        },
+        {
+          "character": "SHIMODA",
+          "line": "Swear to be faithful to you, Captain."
+        }
+      ],
+      "location": "Engineering"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "PICARD",
+          "line": "Number One, MacDougal, get that boy out of Engineering."
+        },
+        {
+          "character": "WORF",
+          "line": "Sir, I'm getting very strange reports from all decks."
+        },
+        {
+          "character": "PICARD",
+          "line": "Such as?"
+        },
+        {
+          "character": "WORF",
+          "line": "Such as the ship's Training Division ordering all officers to attend a lecture on metaphysics."
+        },
+        {
+          "character": "PICARD",
+          "line": "Metaphysics?"
+        },
+        {
+          "character": "DATA",
+          "line": "Confirmed, sir. And there was a rather peculiar limerick being delivered by someone in the Shuttlecraft bay. I am not sure I understand it. There was a young lady from Venus whose body was shaped like"
+        },
+        {
+          "character": "PICARD",
+          "line": "Captain to Security, come in!"
+        },
+        {
+          "character": "DATA",
+          "line": "Did I say something wrong?"
+        },
+        {
+          "character": "WORF",
+          "line": "I don't understand their humor either."
+        },
+        {
+          "character": "SECURITY",
+          "line": "Yeah, Captain?",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "PICARD",
+          "line": "Where is my security chief! Get me Lieutenant Yar."
+        },
+        {
+          "character": "SECURITY",
+          "line": "Keep your britches on.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "TASHA",
+          "line": "Captain Picard.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "PICARD",
+          "line": "Lieutenant, where are you?"
+        },
+        {
+          "character": "TASHA",
+          "line": "I'm in my quarters, and I'm pretty busy right at the moment, Jean-Luc.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "PICARD",
+          "line": "All right, Lieutenant, you just stay right there. Data, please go to Lieutenant Yar and take her down to Sickbay."
+        },
+        {
+          "character": "DATA",
+          "line": "Yes, sir."
+        },
+        {
+          "character": "PICARD",
+          "line": "Captain to Security, I want all your senior supervisors to report to the Bridge immediately."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "DATA",
+          "line": "Lieutenant Yar?"
+        },
+        {
+          "character": "TASHA",
+          "line": "Here, Data. You wanted me?"
+        },
+        {
+          "character": "DATA",
+          "line": "Captain Picard ordered me to escort you to Sickbay, Lieutenant."
+        },
+        {
+          "character": "TASHA",
+          "line": "Did he say when?"
+        },
+        {
+          "character": "DATA",
+          "line": "I am sure he meant now. So, you need time to get into uniform."
+        },
+        {
+          "character": "TASHA",
+          "line": "But I got out of uniform for you, Data. Do you know how old I was when I was abandoned?"
+        },
+        {
+          "character": "DATA",
+          "line": "Chronological age? No, I am afraid I am not familiar with"
+        },
+        {
+          "character": "TASHA",
+          "line": "Five. Five years old, but I survived. I learned how to stay alive, how to avoid the rape gangs. I was fifteen before I escaped."
+        },
+        {
+          "character": "DATA",
+          "line": "I am sorry. I did not know,"
+        },
+        {
+          "character": "TASHA",
+          "line": "And what I want now is gentleness. And joy. And love. From you, Data. You are fully functional, aren't you?"
+        },
+        {
+          "character": "DATA",
+          "line": "Of course, but"
+        },
+        {
+          "character": "TASHA",
+          "line": "How fully?"
+        },
+        {
+          "character": "DATA",
+          "line": "In every way, of course. I am programd in multiple techniques, a broad variety of pleasuring,"
+        },
+        {
+          "character": "TASHA",
+          "line": "Oh, you jewel! That's exactly what I hoped."
+        }
+      ],
+      "location": "Tasha's Quarters"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "PICARD",
+          "line": "What have you learned, Number One?",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "RIKER",
+          "line": "Captain, the ship's engines are cut off from the bridge. The Assistant Chief Engineer pulled out the isolinear optical chips from command. All engines are offline. Wesley has hooked some kind of tractor beam to ship's power and he has it aimed at the door. We can't get past to get at the computer."
+        }
+      ],
+      "location": "Engineering"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "PICARD",
+          "line": "Can you short out the power?"
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "MACDOUGAL",
+          "line": "Yes, I can. But it's going to take some time."
+        }
+      ],
+      "location": "Engineering"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "PICARD",
+          "line": "Do it!"
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TROI",
+          "line": "Bill."
+        },
+        {
+          "character": "RIKER",
+          "line": "Deanna, what?"
+        },
+        {
+          "character": "TROI",
+          "line": "So many minds on this ship, all free. Released,"
+        },
+        {
+          "character": "RIKER",
+          "line": "Deanna."
+        },
+        {
+          "character": "TROI",
+          "line": "I can feel them all. What they want, what they feel. It's a side of humans I've never felt before."
+        },
+        {
+          "character": "RIKER",
+          "line": "Come on, I'm getting you to Sickbay."
+        },
+        {
+          "character": "TROI",
+          "line": "Wouldn't you rather be alone with me? With me in your mind?"
+        }
+      ],
+      "location": "Engineering"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "CRUSHER",
+          "line": "The medical records we found say this works almost instantly."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "It's not fair, Doc. I've never seen a rainbow, sunset, sunrise. This is going to help me? Help me see like you?"
+        },
+        {
+          "character": "RIKER",
+          "line": "Doctor Crusher?"
+        }
+      ],
+      "location": "Sickbay"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "RIKER",
+          "line": "Deanna needs your help."
+        },
+        {
+          "character": "CRUSHER",
+          "line": "The formula from the old Enterprise didn't work."
+        },
+        {
+          "character": "RIKER",
+          "line": "What?"
+        },
+        {
+          "character": "CRUSHER",
+          "line": "This water-carbon complex may induce the same symptoms, but somehow it's different. Maybe it's mutated. But I've got to isolate it in order to analyze it,"
+        },
+        {
+          "character": "RIKER",
+          "line": "We don't have that kind of time."
+        },
+        {
+          "character": "CRUSHER",
+          "line": "You brought Deanna in."
+        },
+        {
+          "character": "RIKER",
+          "line": "She's infected with"
+        },
+        {
+          "character": "CRUSHER",
+          "line": "Then you touched her! Oh, God. And you touched me. Wait! I've got to quarantine you."
+        },
+        {
+          "character": "RIKER",
+          "line": "If I don't get the command computer back online soon, none of this, whatever this is, won't matter. We'll all be dead."
+        },
+        {
+          "character": "PICARD",
+          "line": "Captain's log, supplemental. It is no longer an inconvenient, childish prank. Young Wesley Crusher, admittedly a victim of the Tsiolkovsky infection, is now in control of my starship.",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "Crusher's office"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "PICARD",
+          "line": "Wes, this is Captain Picard. Do you see me?"
+        },
+        {
+          "character": "WESLEY",
+          "line": "Yes sir?",
+          "modifier": "screen"
+        },
+        {
+          "character": "PICARD",
+          "line": "You will now return control of this vessel to the Bridge where it belongs. At once."
+        },
+        {
+          "character": "WESLEY",
+          "line": "I'm sorry, sir. Why don't you just tell me what you want done and I'll do it.",
+          "modifier": "screen"
+        },
+        {
+          "character": "PICARD",
+          "line": "Because ship captains control their own vessels, young man!"
+        },
+        {
+          "character": "WESLEY",
+          "line": "But, sir, you don't do it yourself. You give the orders, but someone else does it. What's wrong with giving me the orders to do it?",
+          "modifier": "screen"
+        },
+        {
+          "character": "WORF",
+          "line": "Captain, getting unusual readings now from the dwarf star."
+        },
+        {
+          "character": "PICARD",
+          "line": "Stand by a moment on that. Wesley. Wes. Are you aware that you're acting strangely, that a kind of infection was brought over from the Tsiolkovsky which acts like intoxication?"
+        },
+        {
+          "character": "WESLEY",
+          "line": "Are you saying that's why I feel so so hot? So strange?",
+          "modifier": "screen"
+        },
+        {
+          "character": "PICARD",
+          "line": "That's a very adult bit of reasoning, Wes,"
+        },
+        {
+          "character": "WESLEY",
+          "line": "So you mean I'm drunk! I feel strange, but also good.",
+          "modifier": "screen"
+        },
+        {
+          "character": "PICARD",
+          "line": "Because, because you've lost the capacity for self-judgment. Now, alcohol does this, Wesley. But this contaminant we've brought back from the Tsiolkovsky does it even more so."
+        },
+        {
+          "character": "WESLEY",
+          "line": "What would you do if you got your ship back?",
+          "modifier": "screen"
+        },
+        {
+          "character": "PICARD",
+          "line": "Oh, it's very important I do, Wesley, because I must immediately lock a tractor beam onto the Tsiolkovsky, then tow it out of,"
+        },
+        {
+          "character": "WESLEY",
+          "line": "Tractor beams are my specialty, Skipper! I'll contact you when that's done. Wesley out!",
+          "modifier": "screen"
+        },
+        {
+          "character": "PICARD",
+          "line": "Wesley! Wesley!"
+        },
+        {
+          "character": "PICARD",
+          "line": "Conn, where are you headed?"
+        },
+        {
+          "character": "WORF",
+          "line": "Sir. The star. It's beginning to collapse."
+        },
+        {
+          "character": "PICARD",
+          "line": "What the hell is happening in Engineering?"
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "WESLEY",
+          "line": "Lock on. Lock on Tsiolkovsky."
+        },
+        {
+          "character": "RIKER",
+          "line": "Where's that sonic driver?"
+        },
+        {
+          "character": "MACDOUGAL",
+          "line": "It's over there. Okay, let's see if this cuts out his tractor beam power. Oh, come on."
+        }
+      ],
+      "location": "Engineering"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "CRUSHER",
+          "line": "Oh no! I must find the answer. I've got to find the answer."
+        }
+      ],
+      "location": "Crusher's Office"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "WORF",
+          "line": "Captain, tractor beam. We just locked onto the Tsiolkovsky."
+        },
+        {
+          "character": "PICARD",
+          "line": "Captain to. Wesley. Wesley Crusher, come in!"
+        },
+        {
+          "character": "PICARD",
+          "line": "Ah, Data. At least you're functioning."
+        },
+        {
+          "character": "DATA",
+          "line": "Fully, Captain."
+        },
+        {
+          "character": "PICARD",
+          "line": "Data, intoxication is a human condition. Your mind is different, it's not the same as"
+        },
+        {
+          "character": "DATA",
+          "line": "We are more alike than unlike, my dear Captain. I have pores. Humans have pores. I have fingerprints. Humans have fingerprints. My chemical nutrients are like your blood. If you prick me, do I not leak?"
+        },
+        {
+          "character": "PICARD",
+          "line": "Doctor,"
+        },
+        {
+          "character": "CRUSHER",
+          "line": "Captain, can I see you in your Ready Room? It's a private matter. No, actually it's an urgent one."
+        },
+        {
+          "character": "PICARD",
+          "line": "But. Damn it."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "PICARD",
+          "line": "Now, Doctor"
+        },
+        {
+          "character": "CRUSHER",
+          "line": "I believe I'm infected myself, Captain."
+        },
+        {
+          "character": "PICARD",
+          "line": "Do you know what the infection is? Come on, quickly."
+        },
+        {
+          "character": "CRUSHER",
+          "line": "Sorry. It is definitely like alcohol intoxication. The same lack of good judgment, For example, right now I find you extremely, extremely, Of course we haven't time for that sort of thing,"
+        },
+        {
+          "character": "PICARD",
+          "line": "What sort of thing?"
+        },
+        {
+          "character": "CRUSHER",
+          "line": "Oh God, would I love to show you."
+        },
+        {
+          "character": "PICARD",
+          "line": "Doctor, there must be a cure. Some formula, similar to the old one,"
+        },
+        {
+          "character": "CRUSHER",
+          "line": "Damn it, damn it, Captain. My dear Captain."
+        },
+        {
+          "character": "CRUSHER",
+          "line": "You owe me something. You do realize that, don't you? I'm a woman. I haven't the comfort of a husband. A man."
+        },
+        {
+          "character": "PICARD",
+          "line": "Not now, Doctor. Please."
+        }
+      ],
+      "location": "Ready Room"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "WORF",
+          "line": "Bridge to Riker, Urgent."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "RIKER",
+          "line": "Riker here."
+        },
+        {
+          "character": "WORF",
+          "line": "Sir.",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "Engineering"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "WORF",
+          "line": "Sir, regret to inform you that the Captain appears to be infected. And Data."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "RIKER",
+          "line": "Thank you, Lieutenant. I'm on my way. You'll have to handle this."
+        },
+        {
+          "character": "MACDOUGAL",
+          "line": "Are you saying you're going to handle that?"
+        }
+      ],
+      "location": "Engineering"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "WORF",
+          "line": "What we're seeing, sir, is a huge chunk of the star's surface blown away, heading for us."
+        },
+        {
+          "character": "PICARD",
+          "line": "Take us"
+        },
+        {
+          "character": "RIKER",
+          "line": "Are you alright, sir?"
+        },
+        {
+          "character": "PICARD",
+          "line": "Worf, you know what to do. Take us er"
+        },
+        {
+          "character": "RIKER",
+          "line": "Take us out of here."
+        },
+        {
+          "character": "PICARD",
+          "line": "Right."
+        },
+        {
+          "character": "WORF",
+          "line": "Controls are still offline, sir."
+        },
+        {
+          "character": "PICARD",
+          "line": "Override."
+        },
+        {
+          "character": "WORF",
+          "line": "Same result, sir."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "RIKER",
+          "line": "Wes, come in please.",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "Engineering"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "RIKER",
+          "line": "Wesley Crusher, this is Riker. Come in."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "RIKER",
+          "line": "This is urgent. Come in, please.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "RIKER",
+          "line": "Engineering, urgent. We must have ship's power,",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "MACDOUGAL",
+          "line": "Those are control chips! Bridge from Engineering."
+        }
+      ],
+      "location": "Engineering"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "RIKER",
+          "line": "The star is still collapsing. We're directly in the path of"
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "MACDOUGAL",
+          "line": "I can't help you, Bridge! Someone here has yanked out all the control chips."
+        },
+        {
+          "character": "WESLEY",
+          "line": "It was an adult who did it!"
+        }
+      ],
+      "location": "Engineering"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "WORF",
+          "line": "Sir, I estimate fourteen minutes until that mass gets here."
+        },
+        {
+          "character": "MACDOUGAL",
+          "line": "No way, sir. I cannot replace these chips in fourteen minutes. Two hours, three",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "MACDOUGAL",
+          "line": "Maybe."
+        },
+        {
+          "character": "WESLEY",
+          "line": "Data could assemble them back faster."
+        }
+      ],
+      "location": "Engineering"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "PICARD",
+          "line": "What, what's that? What's that, Wesley?"
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "WESLEY",
+          "line": "Well, they're just simple isolinear chips, sir, to Data anyway. He can shuffle them like cards."
+        },
+        {
+          "character": "RIKER",
+          "line": "Come on, Data, hurry. Ship's log, First Officer Riker. Enterprise will be destroyed unless it can be moved out of the path of the star material hurtling toward us. Our only hope is for Lieutenant Commander Data, in the time we have left, to regain his senses and reconnect engine power to the Bridge."
+        }
+      ],
+      "location": "Engineering"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "DATA",
+          "line": "Nice to see you, Wesley."
+        },
+        {
+          "character": "WESLEY",
+          "line": "Hi, Mister Data."
+        },
+        {
+          "character": "RIKER",
+          "line": "No time for courtesy. Get the damned control chips back in place, in the correct order. Now!"
+        },
+        {
+          "character": "WESLEY",
+          "line": "It's like a game. How fast can you do it?"
+        },
+        {
+          "character": "DATA",
+          "line": "Ah, a game!"
+        },
+        {
+          "character": "WESLEY",
+          "line": "I think I can switch this to main viewer, sir,"
+        },
+        {
+          "character": "RIKER",
+          "line": "Data, we've got eight or nine minutes at most. Can you finish by then?"
+        },
+        {
+          "character": "DATA",
+          "line": "No, this will take slightly more time than we have, sir."
+        },
+        {
+          "character": "RIKER",
+          "line": "Damn it, no. I can't afford to get this."
+        }
+      ],
+      "location": "Engineering"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "PICARD",
+          "line": "Beverly."
+        },
+        {
+          "character": "CRUSHER",
+          "line": "Yes, Jean-Luc?"
+        },
+        {
+          "character": "PICARD",
+          "line": "You will address me as Captain."
+        },
+        {
+          "character": "CRUSHER",
+          "line": "Captain? Well then, my dear Captain, you will address me as Chief Medical Officer or Doctor."
+        },
+        {
+          "character": "PICARD",
+          "line": "I will? That's true. I started off calling you Beverly, and of course, naturally, you. I'm still not thinking straight."
+        },
+        {
+          "character": "CRUSHER",
+          "line": "Likewise. Where the hell was I headed?"
+        },
+        {
+          "character": "PICARD",
+          "line": "If that's something you were going to test,"
+        },
+        {
+          "character": "CRUSHER",
+          "line": "Yes, on Geordi. Come here."
+        }
+      ],
+      "location": "Crusher's Office"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "WESLEY",
+          "line": "See how I reversed the fields on this, Commander? I made it into a repulser beam."
+        },
+        {
+          "character": "DATA",
+          "line": "If we just had one minute more, sir,"
+        },
+        {
+          "character": "WESLEY",
+          "line": "If this were a hundred times more powerful than it is. Why not try it with the real thing? Why not reverse fields on this, Ma'am? If we just need an extra minute,"
+        },
+        {
+          "character": "MACDOUGAL",
+          "line": "It would take weeks of laying out new circuits."
+        },
+        {
+          "character": "WESLEY",
+          "line": "Why not just see it in your head? Come off the main lead, split off at the force activator, then, then. If I could just think straight about this,"
+        }
+      ],
+      "location": "Engineering"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "CRUSHER",
+          "line": "I made this a broader based remedy. I hope. But it's still close to the formula from the old Enterprise records."
+        },
+        {
+          "character": "PICARD",
+          "line": "Decades ago, light years away,"
+        },
+        {
+          "character": "CRUSHER",
+          "line": "But almost exactly the same conditions as here."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Wow! What was in that, Doctor? My head's beginning to clear,"
+        },
+        {
+          "character": "CRUSHER",
+          "line": "Come here. Here, take this to Engineering. I'll make up more hypos for the others."
+        },
+        {
+          "character": "PICARD",
+          "line": "Okay, Bev."
+        }
+      ],
+      "location": "Sickbay"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "RIKER",
+          "line": "We're not going to make it, Captain. If we had just a minute or so."
+        },
+        {
+          "character": "WESLEY",
+          "line": "Then reversing power leads, back through the force activator. Repulser beam hard against Tsiolkovsky. Don't you see? It's giving us a push off. The extra time we need."
+        },
+        {
+          "character": "RIKER",
+          "line": "We're pushing away."
+        },
+        {
+          "character": "RIKER",
+          "line": "Bridge, engage engines!"
+        }
+      ],
+      "location": "Engineering"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "LAFORGE",
+          "line": "Captain , something seemed to move us aside at the last minute."
+        },
+        {
+          "character": "WORF",
+          "line": "Do we owe our thanks to Commander Data, sir?"
+        },
+        {
+          "character": "PICARD",
+          "line": "Yes, and Wesley may have given us a few seconds, too.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "WORF",
+          "line": "Did he say Wesley? The boy?"
+        },
+        {
+          "character": "CRUSHER",
+          "line": "He said Wesley."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "RIKER",
+          "line": "It's only fair to mention Wesley in a log entry, sir."
+        },
+        {
+          "character": "PICARD",
+          "line": "Fair's fair. And let's credit his science teacher, too."
+        }
+      ],
+      "location": "Engineering"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "LAFORGE",
+          "line": "Congratulations, sir."
+        },
+        {
+          "character": "PICARD",
+          "line": "To many people."
+        },
+        {
+          "character": "TASHA",
+          "line": "Data. I'm only going to tell you this just once. It never happened."
+        },
+        {
+          "character": "PICARD",
+          "line": "I put it to you all. I think we shall end up with a fine crew, if we avoid temptation. So, Number One, let's go to our next job."
+        },
+        {
+          "character": "RIKER",
+          "line": "Aye, sir. Helm, prepare for warp three. Heading two hundred and ninety four mark thirty seven."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Warp three, heading two hundred and ninety four mark thirty seven, sir."
+        },
+        {
+          "character": "RIKER",
+          "line": "Engage."
+        }
+      ],
+      "location": "Bridge"
+    }
+  ],
+  "schedule": {
+    "episode": 3,
+    "number": 3,
+    "season": 1
+  },
+  "stardate": "41209.2",
+  "title": "The Naked Now"
+}

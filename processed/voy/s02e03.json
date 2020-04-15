@@ -1,0 +1,1600 @@
+{
+  "airdate": 810792000,
+  "scenes": [
+    {
+      "dialogue": [
+        {
+          "character": "EMH",
+          "line": "Please state the nature of the medical emergency. Hello? Computer, who activated the Emergency Medical Holographic program?"
+        },
+        {
+          "character": "COMPUTER",
+          "line": "Auto-initiation of the EMH program occurred when a ship-wide Red alert was initiated."
+        },
+        {
+          "character": "EMH",
+          "line": "Emergency? Sickbay to bridge. Captain Janeway, please respond."
+        },
+        {
+          "character": "COMPUTER",
+          "line": "Captain Janeway is not on board the ship."
+        },
+        {
+          "character": "EMH",
+          "line": "Well then, who's in command?"
+        },
+        {
+          "character": "COMPUTER",
+          "line": "Internal scans indicate no crew members are on board."
+        },
+        {
+          "character": "EMH",
+          "line": "You mean the ship's empty?"
+        },
+        {
+          "character": "COMPUTER",
+          "line": "Affirmative."
+        },
+        {
+          "character": "EMH",
+          "line": "What is the crew's status?"
+        },
+        {
+          "character": "COMPUTER",
+          "line": "Unknown."
+        },
+        {
+          "character": "EMH",
+          "line": "Did they go on shore leave? Are they dead? What?"
+        },
+        {
+          "character": "COMPUTER",
+          "line": "That information is not available."
+        },
+        {
+          "character": "EMH",
+          "line": "Can you give me a ship's status report?"
+        },
+        {
+          "character": "COMPUTER",
+          "line": "Affirmative. Warp core is offline. The ship is restricted to emergency power and auxiliary systems only. Structural integrity breach on deck six, deck seven and deck twelve. Deflector shields inoperative. Weapons array offline. Communications offline. Sewage and waste reclamation offline."
+        },
+        {
+          "character": "EMH",
+          "line": "Okay, I get the idea. What caused this damage?"
+        },
+        {
+          "character": "COMPUTER",
+          "line": "That information is not available."
+        },
+        {
+          "character": "EMH",
+          "line": "Of course it isn't."
+        }
+      ],
+      "location": "Sickbay"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "EMH",
+          "line": "Computer, transfer all bridge logs to this station."
+        },
+        {
+          "character": "COMPUTER",
+          "line": "Accessing bridge logs."
+        },
+        {
+          "character": "EMH",
+          "line": "Replay last log entry."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "heavy casualties. The warp core is going critical and the ejection system is offline. I've ordered all personnel to abandon ship. Lieutenant Torres and I",
+          "modifier": "screen"
+        },
+        {
+          "character": "EMH",
+          "line": "Computer, have any escape pods been ejected?"
+        },
+        {
+          "character": "COMPUTER",
+          "line": "All escape pods were launched at twenty one hundred hours."
+        },
+        {
+          "character": "EMH",
+          "line": "Scan the ship for any humanoid life forms."
+        },
+        {
+          "character": "COMPUTER",
+          "line": "There are no humanoid life forms aboard this vessel."
+        },
+        {
+          "character": "EMH",
+          "line": "Well, I'm glad everyone bothered to say goodbye. Chief Medical Officers log, stardate 48892.1. It appears that Voyager has suffered a disaster. What kind I don't know, but one thing is clear. The crew was forced to abandon ship. It would therefore seem that my usefulness has come to an end. I am terminating my program. If anyone finds this log, I can be re-activated by"
+        },
+        {
+          "character": "EMH",
+          "line": "Hello?"
+        }
+      ],
+      "location": "Doctor's office"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "EMH",
+          "line": "Hello?"
+        },
+        {
+          "character": "TORRES",
+          "line": "Doctor! What are you doing?"
+        },
+        {
+          "character": "EMH",
+          "line": "Sorry, I wasn't expecting a member of the crew. The computer said everyone had left."
+        },
+        {
+          "character": "TORRES",
+          "line": "The internal sensors were damaged during the attack. They must not be reading every life sign on the ship."
+        },
+        {
+          "character": "EMH",
+          "line": "Attack?"
+        },
+        {
+          "character": "TORRES",
+          "line": "The Kazon. Two of their Predator class warships took us by surprise, hit us with a volley of plasma torpedoes. It started a core breach and we had to abandon ship. The Captain and I stayed behind to see if we could stop the breach. At the last second we did."
+        },
+        {
+          "character": "EMH",
+          "line": "Why didn't the crew return to the ship?"
+        },
+        {
+          "character": "TORRES",
+          "line": "Because they couldn't. The Kazon tractored all of the life pods onto their ships. They went into warp before we could stop them. What's wrong?"
+        },
+        {
+          "character": "EMH",
+          "line": "This tricorder isn't registering your life signs. This one isn't working either."
+        },
+        {
+          "character": "TORRES",
+          "line": "You've got to help the Captain. She was hit by a falling support beam. I didn't want to risk moving her so I had to leave her on the bridge."
+        },
+        {
+          "character": "EMH",
+          "line": "Can't we beam her to Sickbay?"
+        },
+        {
+          "character": "TORRES",
+          "line": "The transporters are down. So are the turbolifts. I had to crawl through thirty one Jefferies tubes on five decks just to get here."
+        },
+        {
+          "character": "EMH",
+          "line": "Then you're going to have to go back up there with a medical kit. I'll instruct you on how to treat her."
+        },
+        {
+          "character": "TORRES",
+          "line": "You don't understand, Doctor. I'm not going, you are. I'm sending you to the bridge."
+        },
+        {
+          "character": "EMH",
+          "line": "That would be ideal, if it were possible, but my projection system is limited to the Sickbay and the holodecks."
+        },
+        {
+          "character": "TORRES",
+          "line": "Not any more. For the past few weeks we've been setting up holographic emitters on critical decks. We were hoping to set up a remote holo-projection system, give you access to other parts of the ship."
+        },
+        {
+          "character": "EMH",
+          "line": "Why wasn't I told about this?"
+        },
+        {
+          "character": "TORRES",
+          "line": "We hadn't even tested the system yet. There was no guarantee it was going to work. I guess the Captain didn't want to get your hopes up."
+        },
+        {
+          "character": "EMH",
+          "line": "Her compassion is heart-warming. The next time I'd rather be kept informed. Where are these remote projectors?"
+        },
+        {
+          "character": "TORRES",
+          "line": "Decks one through five. We also put them in Engineering, the Mess hall and the cargo bay. All the projectors are in place but the problem is we're going to have to interface with the Sickbay imaging system. That's going to take a lot of power and computer memory. I don't know if we have enough reserve power to spare."
+        },
+        {
+          "character": "EMH",
+          "line": "Most of the crew is gone. Could we divert power from life support systems?"
+        },
+        {
+          "character": "TORRES",
+          "line": "Good idea. I can drop life support down to minimum levels on the lower decks. That should give us enough power. All right, I'll need another twenty minutes to get the projectors online."
+        },
+        {
+          "character": "TORRES",
+          "line": "All right, the remote projectors are charged and ready to go. Imaging interface stable. Are you ready to try this?"
+        },
+        {
+          "character": "EMH",
+          "line": "I assume there's still an emergency medical kit behind the tactical console?"
+        },
+        {
+          "character": "TORRES",
+          "line": "That's right."
+        },
+        {
+          "character": "EMH",
+          "line": "Then I'm ready."
+        },
+        {
+          "character": "TORRES",
+          "line": "There are a couple of things you should know. In order to do this I had to recalibrate your containment field, so your holo-matrix will be very sensitive to disruption. Try to stay away from energy discharges. Phaser fire, forcefields, that sort of thing."
+        },
+        {
+          "character": "EMH",
+          "line": "I'll try."
+        },
+        {
+          "character": "TORRES",
+          "line": "Make sure you do, because if your containment field collapses it'll take hours to re-initialize your program."
+        },
+        {
+          "character": "EMH",
+          "line": "Understood."
+        },
+        {
+          "character": "TORRES",
+          "line": "I'm going to head down to engineering and try and get some of the critical systems working. You'll hear from me when I get the comm. system back online. Unless, of course, this doesn't work, in which case I'll see you in about five seconds. Good luck, Doctor."
+        },
+        {
+          "character": "EMH",
+          "line": "Thank you. I have a feeling I'll need it."
+        }
+      ],
+      "location": "Sickbay"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "EMH",
+          "line": "Well, It's bigger than I thought."
+        },
+        {
+          "character": "EMH",
+          "line": "Captain?"
+        },
+        {
+          "character": "EMH",
+          "line": "Hello, Captain. You're going to be fine."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Oh, Doctor. I see the new holoprojectors are working."
+        },
+        {
+          "character": "EMH",
+          "line": "Lieutenant Torres was able to get them online. Are you feeling any pain, dizziness, nausea?"
+        },
+        {
+          "character": "JANEWAY",
+          "line": "I'm a little disoriented and I have one hell of a headache."
+        },
+        {
+          "character": "EMH",
+          "line": "For some reason none of the tricorders are working, but from what I can tell you have a concussion. I'd like to get you to Sickbay as soon as possible."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "The last thing I remember is launching the escape pods. Lieutenant Torres and I were trying to stop the core breach, and then I blacked out."
+        },
+        {
+          "character": "EMH",
+          "line": "You were successful in preventing the breach."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "And the crew?"
+        },
+        {
+          "character": "EMH",
+          "line": "They were taken prisoner by the Kazon."
+        },
+        {
+          "character": "TORRES",
+          "line": "Torres to bridge, can you hear me?",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Yes, Lieutenant, we hear you. Go ahead."
+        },
+        {
+          "character": "TORRES",
+          "line": "Are you all right, Captain?",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "JANEWAY",
+          "line": "I'm fine. I'm glad you convinced the Doctor to make a house call. What's our status?"
+        },
+        {
+          "character": "TORRES",
+          "line": "I've got communications back online and I think I can re-activate the warp core, but it'll mean recrystallizing the entire dilithium matrix.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Keep on it. In the meantime I'll see if I can restore the bridge controls and start scanning for the Kazon ships."
+        },
+        {
+          "character": "TORRES",
+          "line": "Aye, Captain. Torres out.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Doctor, do you know anything about bypassing a power relay?"
+        },
+        {
+          "character": "EMH",
+          "line": "Is it anything like a coronary bypass?"
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Actually, it is. Give me a hand. See this conduit? It's a power relay. It's circuits are burnt out. What we need to do is reconfigure the"
+        },
+        {
+          "character": "NEELIX",
+          "line": "Neelix to bridge. Is anyone there? Emergency!",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Neelix, this is the Captain. What's wrong?"
+        },
+        {
+          "character": "NEELIX",
+          "line": "Help. I need help! I'm in the mess hall. There's a",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Neelix, are you there? Neelix? With the turbolifts down it'll take me a half hour to get there. Doctor, it's up to you. I'll use the remote projectors to send you to the Mess hall. Stand by for transfer."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "NEELIX",
+          "line": "I hope that crushed your skull, Kazon pus hog."
+        },
+        {
+          "character": "EMH",
+          "line": "Kazon!"
+        },
+        {
+          "character": "NEELIX",
+          "line": "What's it like to stare death in the face, Kazon?"
+        },
+        {
+          "character": "NEELIX",
+          "line": "Missed me!"
+        },
+        {
+          "character": "NEELIX",
+          "line": "I suggest you surrender now, Kazon. The Captain's on her way!"
+        },
+        {
+          "character": "NEELIX",
+          "line": "Want some more, you needle-snake?"
+        },
+        {
+          "character": "NEELIX",
+          "line": "My best saut\u00e9 pan. Good work, Doctor."
+        },
+        {
+          "character": "EMH",
+          "line": "You're injured."
+        },
+        {
+          "character": "NEELIX",
+          "line": "Ahhh! What's wrong? Is it serious?"
+        },
+        {
+          "character": "EMH",
+          "line": "Don't panic, Mister Neelix. It looks superficial."
+        },
+        {
+          "character": "NEELIX",
+          "line": "Am I going to die?"
+        },
+        {
+          "character": "EMH",
+          "line": "Not unless you're allergic to tomatoes. That isn't blood, it's some kind of sauce."
+        },
+        {
+          "character": "NEELIX",
+          "line": "Nondoran tomato paste. Oh, that'll leave a nasty stain. What are you doing here, Doctor?"
+        },
+        {
+          "character": "EMH",
+          "line": "I could ask you the same thing."
+        },
+        {
+          "character": "NEELIX",
+          "line": "Kes and I were on our way to the escape pod when this Kazon fungus came crawling out of an access hatch. I kept him occupied long enough for Kes to get away but he didn't give up so easily. So I took off running, he chased me and I led him here. No one gets the best of me in my kitchen! I'm fine now. The question is, are you?"
+        },
+        {
+          "character": "EMH",
+          "line": "Me?"
+        },
+        {
+          "character": "NEELIX",
+          "line": "You're bleeding."
+        },
+        {
+          "character": "EMH",
+          "line": "Bleeding? That's impossible."
+        },
+        {
+          "character": "NEELIX",
+          "line": "Don't panic, Doctor. It looks superficial."
+        },
+        {
+          "character": "EMH",
+          "line": "I'm not programd to bleed."
+        },
+        {
+          "character": "NEELIX",
+          "line": "Maybe you should check your program."
+        },
+        {
+          "character": "EMH",
+          "line": "Emergency Medical Hologram to Captain Janeway."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Go ahead Doctor.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "EMH",
+          "line": "Captain, we've captured a Kazon. He's been rendered unconscious and Mister Neelix is fine. But I believe my program is malfunctioning. I request that you return me to sickbay immediately."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Acknowledged. Mr Neelix, keep an eye on the Kazon until I get there. I'm on my way.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "NEELIX",
+          "line": "No problem, Captain."
+        }
+      ],
+      "location": "Mess hall"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "EMH",
+          "line": "Pain? I'm not programd to feel pain."
+        },
+        {
+          "character": "EMH",
+          "line": "Heart rate, blood pressure, brain patterns? Computer, analyze Emergency Medical Holographic program. Has it been altered in any way to include life signs?"
+        },
+        {
+          "character": "COMPUTER",
+          "line": "Unable to comply. Requested program is not on file."
+        },
+        {
+          "character": "EMH",
+          "line": "Not on file? The program's running right now! Display schematics for all Sickbay holographic systems."
+        },
+        {
+          "character": "COMPUTER",
+          "line": "No holographic systems exist in Sickbay."
+        },
+        {
+          "character": "EMH",
+          "line": "EMH program A K one diagnostic and surgical subroutine omega three two three. Check the database and you'll find it!"
+        },
+        {
+          "character": "COMPUTER",
+          "line": "Specified program does not exist."
+        },
+        {
+          "character": "EMH",
+          "line": "Well, then, who is the Chief Medical Officer on board this ship?"
+        },
+        {
+          "character": "COMPUTER",
+          "line": "The Chief Medical Officer of USS Voyager is Doctor Louis Zimmerman."
+        },
+        {
+          "character": "EMH",
+          "line": "Louis Zimmerman? Yes. He was the engineer who created my program. I understand he resembles me but, he's not on Voyager! He's at the Jupiter Station Holo-Programming Center. Computer, how long has Doctor Zimmerman served on Voyager?"
+        },
+        {
+          "character": "COMPUTER",
+          "line": "Doctor Zimmerman commenced duty on stardate 48308.2"
+        },
+        {
+          "character": "EMH",
+          "line": "48308. That's the date I was activated. Computer, display all Starfleet records on Doctor Lewis Zimmerman."
+        },
+        {
+          "character": "EMH",
+          "line": "He looks a lot like me. In fact, he looks exactly like me. Computer, is this me?"
+        },
+        {
+          "character": "COMPUTER",
+          "line": "Affirmative. Doctor Lewis Zimmerman."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Doctor, we've almost got the warp core back online, but we need to know where the crew was taken. I want you to perform an ARA scan on the Kazon while we question him. Is something wrong?"
+        },
+        {
+          "character": "EMH",
+          "line": "Something's very wrong. These tricorders aren't picking up any of your life signs. At first I thought they were malfunctioning, but now I find they show me to be a living, breathing, bleeding human being."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "What?"
+        },
+        {
+          "character": "EMH",
+          "line": "And that's not all. According to the computer, I'm not a hologram. I'm a real person named Zimmerman. I've been trying to analyze my program but the computer says it doesn't exist."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "This could be a problem with the remote projectors. The multiple holographic signals may be confusing the computer. I'm going to deactivate you and then re-initialize your program parameters. Computer, diskontinue Emergency Medical Holographic system."
+        },
+        {
+          "character": "EMH",
+          "line": "See what I mean?"
+        },
+        {
+          "character": "JANEWAY",
+          "line": "You're right. Your program's not anywhere on file. Computer, shut down all holographic systems throughout the ship."
+        },
+        {
+          "character": "EMH",
+          "line": "Computer, what happened to Captain Janeway, Lieutenant Torres, Mister Neelix and the Kazon?"
+        },
+        {
+          "character": "COMPUTER",
+          "line": "All holographic simulations were diskontinued."
+        },
+        {
+          "character": "EMH",
+          "line": "Simulations? Computer, I'm talking about real people. Locate Captain Janeway."
+        },
+        {
+          "character": "COMPUTER",
+          "line": "Captain Janeway is stored in memory block forty seven alpha."
+        },
+        {
+          "character": "EMH",
+          "line": "List all other programs stored in that memory block. This is the entire Voyager crew. Computer, are you saying that the crew is nothing more than a collection of holographic programs?"
+        },
+        {
+          "character": "COMPUTER",
+          "line": "Affirmative."
+        },
+        {
+          "character": "EMH",
+          "line": "This is ridiculous. There must be something wrong."
+        },
+        {
+          "character": "BARCLAY",
+          "line": "Doctor, am I glad to see you. Can you see me?"
+        },
+        {
+          "character": "EMH",
+          "line": "Of course I can see you. Who are you?"
+        },
+        {
+          "character": "BARCLAY",
+          "line": "Sir, it's me. It's Lieutenant Barclay. Reg. Your assistant."
+        },
+        {
+          "character": "EMH",
+          "line": "My assistant's name is Kes. Who are you?"
+        },
+        {
+          "character": "BARCLAY",
+          "line": "Uh-oh."
+        },
+        {
+          "character": "EMH",
+          "line": "What?"
+        },
+        {
+          "character": "BARCLAY",
+          "line": "Oh, no, this is bad. This is very bad. Don't panic. Let's just try to think our way through this."
+        },
+        {
+          "character": "EMH",
+          "line": "I'm not familiar with you. Are you a member of the Voyager crew or have we encountered another Federation ship?"
+        },
+        {
+          "character": "BARCLAY",
+          "line": "Oh, boy. The Voyager. Oh, boy. This is going to sound a little crazy from your perspective, but you've got to trust me. None of this is happening. This is all a holographic simulation that you've been running."
+        },
+        {
+          "character": "EMH",
+          "line": "What are you talking about."
+        },
+        {
+          "character": "BARCLAY",
+          "line": "You're in the holodeck at the Jupiter Station. Your name is Doctor Lewis Zimmerman, you're a holo-engineer and you've been running a program that's malfunctioning and we've been trying to reach you."
+        },
+        {
+          "character": "EMH",
+          "line": "What are you saying? That I'm a real person?"
+        },
+        {
+          "character": "BARCLAY",
+          "line": "Well, I always used to think of you that way and I know your wife tends to think"
+        },
+        {
+          "character": "EMH",
+          "line": "My wife?"
+        },
+        {
+          "character": "BARCLAY",
+          "line": "We'd, er, we'd better take this one step at a time."
+        },
+        {
+          "character": "EMH",
+          "line": "Please do."
+        },
+        {
+          "character": "BARCLAY",
+          "line": "Well, you see, this starship, it's not really a starship."
+        }
+      ],
+      "location": "Sickbay"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "BARCLAY",
+          "line": "It was a program that you wrote to study the psychological impact of long term isolation on a crew made up of Starfleet and Maquis crewmembers."
+        },
+        {
+          "character": "EMH",
+          "line": "A program I wrote? That's preposterous. I'm the program. Voyager is a real ship, manned by real people."
+        },
+        {
+          "character": "BARCLAY",
+          "line": "I'm afraid not. This must have something to do with the radiation surge."
+        },
+        {
+          "character": "EMH",
+          "line": "What was that?"
+        },
+        {
+          "character": "BARCLAY",
+          "line": "We've been having problems shutting the program down because of a kinoplasmic radiation surge on the station. It's affected all of the computer systems, including the holodecks. The radiation must be affecting the memory centers of your brain."
+        },
+        {
+          "character": "EMH",
+          "line": "How did you get in here?"
+        },
+        {
+          "character": "BARCLAY",
+          "line": "I'm not really here. Clearly, I'm here because we're talking. You see, what I mean is, I'm in a control booth outside of the holodeck. What you see is a projection of my body so that we can communicate. We've been trying to get in here, or send a comm. signal in for nearly six hours."
+        },
+        {
+          "character": "EMH",
+          "line": "You expect me to believe that the past six months I've spent on this ship have been nothing but a simulation?"
+        },
+        {
+          "character": "BARCLAY",
+          "line": "You haven't been here six months. You've only been here six hours."
+        },
+        {
+          "character": "EMH",
+          "line": "That's impossible! I have very clear memories of my first appearance on Voyager. Meeting Captain Janeway for the first time. I've had numerous experiences aboard this ship."
+        },
+        {
+          "character": "BARCLAY",
+          "line": "That's all part of the simulation."
+        },
+        {
+          "character": "EMH",
+          "line": "How do I know you're not some kind of alien, impersonating a Starfleet officer."
+        },
+        {
+          "character": "BARCLAY",
+          "line": "Look, Doctor, it's very important that you believe me. You're losing your sense of identity. You're starting to think that you're part of the program and that's, that's not good. It's called HTDS. Holo Transference Dementia Syndrome."
+        },
+        {
+          "character": "EMH",
+          "line": "So now I'm having a psychotic episode."
+        },
+        {
+          "character": "BARCLAY",
+          "line": "No. Yes. I mean, maybe the radiation. Doctor, I'm sorry I have to do this."
+        },
+        {
+          "character": "EMH",
+          "line": "How dare you!"
+        },
+        {
+          "character": "BARCLAY",
+          "line": "It hurt, right? If you were a program it wouldn't hurt."
+        },
+        {
+          "character": "EMH",
+          "line": "I could be programd to think it hurt."
+        },
+        {
+          "character": "BARCLAY",
+          "line": "Doctor."
+        },
+        {
+          "character": "BARCLAY",
+          "line": "I'll be back. I've got to diskuss this with the others. Don't, don't go anywhere."
+        },
+        {
+          "character": "EMH",
+          "line": "Pain. Pain, why would I have pain? I think I'm hungry. I'm not sure what for, but I'm definitely hungry. This is impossible."
+        },
+        {
+          "character": "BARCLAY",
+          "line": "The problem is worse than we thought. The radiation is disrupting the command protocols. We can't shut the program down, and while the program is running we can't access the holodeck grid."
+        },
+        {
+          "character": "EMH",
+          "line": "Why don't you beam me out of here?"
+        },
+        {
+          "character": "BARCLAY",
+          "line": "We tried, but the radiation is interfering with the transporters and we can't get a lock on you. I've consulted with our neurologist, Doctor Kaplin, and he said if we can't get you out of here within the next hour, that the radiation would completely oxidize your neurocellular structures."
+        },
+        {
+          "character": "EMH",
+          "line": "So, what do you suggest?"
+        },
+        {
+          "character": "BARCLAY",
+          "line": "There's only one way left to terminate the program, and that's to play it out. Bring it to it's conclusion and once the simulation ends, it'll release the access locks on the holodeck arch and we can get you out of here."
+        },
+        {
+          "character": "EMH",
+          "line": "How does it conclude?"
+        },
+        {
+          "character": "BARCLAY",
+          "line": "You programd two possible outcomes. Either Voyager finds its way back to Federation space, or it's destroyed in the process. But the simulation was designed to run for weeks before either happens. But I know of a way that you can bring it to an end right now. Destroy the ship."
+        },
+        {
+          "character": "EMH",
+          "line": "Destroy the ship? Destroy Voyager?"
+        },
+        {
+          "character": "BARCLAY",
+          "line": "This is just a simulation, Lewis. None of this is real. And unless you destroy this ship that you think you're on, you're going to die."
+        },
+        {
+          "character": "EMH",
+          "line": "No. No, absolutely not."
+        },
+        {
+          "character": "BARCLAY",
+          "line": "Doctor, it's the only way."
+        },
+        {
+          "character": "EMH",
+          "line": "First of all, I don't even know how to destroy the ship. Second of all I wouldn't do it even if I could, and third, how do I know you're not an alien intruder trying to trick me into killing everyone?"
+        },
+        {
+          "character": "BARCLAY",
+          "line": "Well, those are good questions. First, I can tell you how to destroy the Voyager. Second, if you don't do it, you're going to die. And third. Well, I'm just not an alien and I don't know how else to convince you of that."
+        },
+        {
+          "character": "EMH",
+          "line": "If what you're saying is true, why don't you destroy the ship? Why do I have to do it?"
+        },
+        {
+          "character": "BARCLAY",
+          "line": "You are the one running the simulation. It's coded to respond to your input, not mine."
+        },
+        {
+          "character": "EMH",
+          "line": "I'm sorry, Mister Barclay, if that's what your name really is, but you're not very convincing."
+        },
+        {
+          "character": "BARCLAY",
+          "line": "Here, use this tricorder. Scan the room outwards to a distance of fifteen meters."
+        },
+        {
+          "character": "EMH",
+          "line": "This appears to show a wall fifteen meters away and it does have a holodeck grid configuration."
+        },
+        {
+          "character": "BARCLAY",
+          "line": "You see?"
+        },
+        {
+          "character": "EMH",
+          "line": "But you could be manipulating these readings."
+        },
+        {
+          "character": "BARCLAY",
+          "line": "Scan me. You'll see I'm a holographic projection originating from beyond that wall."
+        },
+        {
+          "character": "EMH",
+          "line": "Yes, all right. But it could still be an elaborate deception. I can't take that risk."
+        },
+        {
+          "character": "BARCLAY",
+          "line": "There has to be some way to convince you. Oh, I know. I'll be right back."
+        },
+        {
+          "character": "KIM",
+          "line": "Are you the Emergency Medical Hologram?"
+        },
+        {
+          "character": "EMH",
+          "line": "Yes, of course I am."
+        },
+        {
+          "character": "KIM",
+          "line": "We've got wounded here."
+        },
+        {
+          "character": "EMH",
+          "line": "I've seen this patient before. He has multiple percussive injuries. Tricorder. Medical tricorder. I've been in this moment in time before."
+        },
+        {
+          "character": "PARIS",
+          "line": "What? What are you talking about? Help this man."
+        },
+        {
+          "character": "EMH",
+          "line": "Have we just been catapulted across the galaxy to an unknown area of the Delta Quadrant?"
+        },
+        {
+          "character": "KIM",
+          "line": "Yes."
+        },
+        {
+          "character": "EMH",
+          "line": "And you are developing tumorous growths on your chest."
+        },
+        {
+          "character": "KIM",
+          "line": "What?"
+        },
+        {
+          "character": "EMH",
+          "line": "Ah. So that hasn't happened yet. Is this stardate 48308?"
+        },
+        {
+          "character": "PARIS",
+          "line": "Look, are you going to help this man or not?"
+        },
+        {
+          "character": "EMH",
+          "line": "I'm not. Mister Barclay?"
+        },
+        {
+          "character": "KIM",
+          "line": "The program must be malfunctioning. Let me see if I can reset the holographic projector."
+        },
+        {
+          "character": "EMH",
+          "line": "Mister Barclay, will you please return?"
+        },
+        {
+          "character": "BARCLAY",
+          "line": "Now do you believe me? This is the beginning of the simulation. We can't shut down the program but we can restart it."
+        },
+        {
+          "character": "EMH",
+          "line": "This is my first memory of being activated on Voyager."
+        },
+        {
+          "character": "PARIS",
+          "line": "Who the hell are you?"
+        },
+        {
+          "character": "EMH",
+          "line": "Did I program Mister Paris to be so annoying?"
+        },
+        {
+          "character": "BARCLAY",
+          "line": "Actually, I programd him. I modeled him after my cousin Frank."
+        },
+        {
+          "character": "EMH",
+          "line": "Hmm. Computer, delete Paris."
+        },
+        {
+          "character": "PARIS",
+          "line": "What are you"
+        },
+        {
+          "character": "KIM",
+          "line": "What did you do to him?"
+        },
+        {
+          "character": "EMH",
+          "line": "Computer, delete Kim. Hmm."
+        },
+        {
+          "character": "BARCLAY",
+          "line": "Are you convinced yet?"
+        },
+        {
+          "character": "EMH",
+          "line": "Let's just say your credibility level is rising. But I'm still not prepared to destroy Voyager."
+        },
+        {
+          "character": "BARCLAY",
+          "line": "So what are you going to do now?"
+        },
+        {
+          "character": "EMH",
+          "line": "I need to confirm my true nature. Whether or not I am in fact a real person. Let's just say that I'm right and this is a real ship and I am a hologram. If I were to destroy the holographic memory core then I should disappear."
+        },
+        {
+          "character": "BARCLAY",
+          "line": "Yes. But if you destroy it and you're still here"
+        },
+        {
+          "character": "EMH",
+          "line": "Then I'm not a hologram."
+        },
+        {
+          "character": "BARCLAY",
+          "line": "And you'll know that I'm telling you the truth."
+        },
+        {
+          "character": "EMH",
+          "line": "The holo-memory core is located in Engineering. Let's go."
+        }
+      ],
+      "location": "Doctor's office"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "BARCLAY",
+          "line": "What's wrong?"
+        },
+        {
+          "character": "EMH",
+          "line": "The remote holoprojectors were taken offline. I shouldn't be able to exist outside sickbay?"
+        },
+        {
+          "character": "BARCLAY",
+          "line": "That's because you're a"
+        },
+        {
+          "character": "EMH",
+          "line": "A real person. Yes. I'm getting the idea."
+        }
+      ],
+      "location": "Corridor"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "JANEWAY",
+          "line": "Magnetic constrictors are online. The warp core is stable. Let's get started on those plasma relays. You, who are you?"
+        },
+        {
+          "character": "EMH",
+          "line": "I'm the Emergency Medical Hologram."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "I didn't know you could be projected into Engineering."
+        },
+        {
+          "character": "EMH",
+          "line": "I can't. But it's a long story. I'd rather not get into it right now."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Fine. We have three wounded crewmembers over here."
+        },
+        {
+          "character": "EMH",
+          "line": "I'm afraid I have a more pressing matter to attend to, Captain."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "What do you mean, you have a more pressing matter to attend to? And who are you? I don't recognize you."
+        },
+        {
+          "character": "BARCLAY",
+          "line": "Oh, don't mind me, I'm just assisting the Doctor."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Doctor, I am ordering you to take care of these wounded crewmembers."
+        },
+        {
+          "character": "EMH",
+          "line": "Computer, delete Janeway."
+        },
+        {
+          "character": "BARCLAY",
+          "line": "The computer's not responding to vocal commands. The protocols are starting to freeze up. We don't have much time."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Jarvis, Parsons, put these men under arrest."
+        },
+        {
+          "character": "BARCLAY",
+          "line": "Don't worry, those phasers aren't real, they're just holograms."
+        },
+        {
+          "character": "EMH",
+          "line": "I wouldn't be so sure. I was injured earlier."
+        },
+        {
+          "character": "BARCLAY",
+          "line": "That means the holodeck safeties are off."
+        },
+        {
+          "character": "EMH",
+          "line": "Now, just a moment. Let's not do anything hasty."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Who are you? Are you two responsible for bringing us here?"
+        },
+        {
+          "character": "EMH",
+          "line": "Actually, no. The array you diskovered is controlled by an entity you will come to know as the Caretaker. Or Banjo man. He's actually an alien life form who's caring for a species known as the Ocampa who live nearby."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Enough! I don't know what this is all about, but clearly you're involved. Take them to the brig. I'll question them later."
+        },
+        {
+          "character": "EMH",
+          "line": "No, I don't think so."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "You're in no position to argue."
+        },
+        {
+          "character": "EMH",
+          "line": "I'm not arguing. I'm simply pointing out that in several seconds the entire crew of Voyager will be transported to the array, where you will be tortured and probed for medical information. It will be quite painful, but not fatal."
+        },
+        {
+          "character": "KIM",
+          "line": "Bridge to Janeway. We're being scanned by the array, Captain. It's penetrated our shields.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "JANEWAY",
+          "line": "What kind of scan?"
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Bridge. Janeway to Bridge, respond. What are you"
+        },
+        {
+          "character": "BARCLAY",
+          "line": "Time is running out, Doctor. The oxidation levels in your neural tissues are rising. You've got to destroy this ship and bring this program to an end."
+        },
+        {
+          "character": "EMH",
+          "line": "First things first. I have to make absolutely sure what I am."
+        },
+        {
+          "character": "EMH",
+          "line": "This is the central memory nexus for all holographic systems on board. If I destroy this, there won't be a single hologram left on Voyager."
+        },
+        {
+          "character": "BARCLAY",
+          "line": "Well, except for me. I'm being projected from outside the simulation. Go ahead, give it a try."
+        },
+        {
+          "character": "BARCLAY",
+          "line": "Convinced?"
+        },
+        {
+          "character": "EMH",
+          "line": "Computer, what is the status of the holographic imaging system on Voyager?"
+        },
+        {
+          "character": "COMPUTER",
+          "line": "The holographic imaging system has been destroyed."
+        },
+        {
+          "character": "EMH",
+          "line": "Are there any holographic programs running anywhere on the ship?"
+        },
+        {
+          "character": "COMPUTER",
+          "line": "Negative."
+        },
+        {
+          "character": "EMH",
+          "line": "Then why is the ship still here, and not a hologrid?"
+        },
+        {
+          "character": "COMPUTER",
+          "line": "Please restate the question."
+        },
+        {
+          "character": "EMH",
+          "line": "You said all holo-systems were destroyed. Why is the ship simulation still running?"
+        },
+        {
+          "character": "COMPUTER",
+          "line": "All holo-simulations have been terminated."
+        },
+        {
+          "character": "BARCLAY",
+          "line": "Doctor, I know this is a little confusing, but try to remember you just destroyed the holographic imaging system on a holographic ship. A hologram in a hologram. If you want to bring this to an end you've got to destroy the entire simulation. The ship itself."
+        },
+        {
+          "character": "EMH",
+          "line": "Then it's true. I am a real person."
+        },
+        {
+          "character": "BARCLAY",
+          "line": "And you're a person in great danger. Destroy the ship. Now, before it's too late."
+        },
+        {
+          "character": "EMH",
+          "line": "But if I'm wrong?"
+        },
+        {
+          "character": "BARCLAY",
+          "line": "Doctor, you've got to believe me. What else can I do to prove it to you?"
+        },
+        {
+          "character": "EMH",
+          "line": "I know, I know, but it's just so"
+        },
+        {
+          "character": "BARCLAY",
+          "line": "There. Do you see what's happening? Holograms don't feel pain. Your brain is being flooded with kinoplasmic radiation. You're dying."
+        },
+        {
+          "character": "EMH",
+          "line": "I guess you're right. What should I do?"
+        },
+        {
+          "character": "BARCLAY",
+          "line": "The warp core. Even set on full power it's going to take a sustained phaser burst to punch through the outer duranium shielding. Set your phaser to maximum. Aim for the magnetic constrictors. Ready?"
+        },
+        {
+          "character": "EMH",
+          "line": "Ready."
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "Stop! Doctor, don't do it! Doctor, don't listen to him. He's lying. Step away from the warp core, Doctor, don't do anything that man tells you. You're in danger if you do. None of this is real."
+        },
+        {
+          "character": "EMH",
+          "line": "So I've been told. It's all a holographic simulation."
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "That's right. But it's not the simulation you think it is. Everything around you is part of a holographic projection that's being created by your program."
+        },
+        {
+          "character": "EMH",
+          "line": "My program?"
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "You're on the holodeck on Voyager. The Captain suggested you take a day off, try a holonovel, so you did. But while you were running the holonovel, there was a kinoplasmic radiation surge in the imaging system. It created a feedback loop between the holodeck computer and your program. All of this, including Mister Barclay, is a holographic simulation generated by your codes, subroutines and memory circuits."
+        },
+        {
+          "character": "BARCLAY",
+          "line": "Don't be distracted by these holographic characters. Stay focused on what you need to do. Destroy the warp core."
+        },
+        {
+          "character": "EMH",
+          "line": "Wait a minute. The entire crew of Voyager was just taken by the array. They won't be back for three days. So what's he doing here?"
+        },
+        {
+          "character": "BARCLAY",
+          "line": "The program is malfunctioning."
+        },
+        {
+          "character": "EMH",
+          "line": "Are you the real Commander Chakotay, or a holographic projection like Mister Barclay."
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "I'm a projection. I'm really at the holographic control station in Engineering. You're trapped on the holodeck. We've been monitoring the program from here and we've been trying to reach you for hours."
+        },
+        {
+          "character": "EMH",
+          "line": "Sounds familiar. He told me the same thing."
+        },
+        {
+          "character": "BARCLAY",
+          "line": "Doctor, do you remember coming into the holodeck and running a holonovel within the last six hours?"
+        },
+        {
+          "character": "EMH",
+          "line": "No. No, I don't."
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "That's because your memory circuits are being eradicated by the feedback loop. We have to get you off the holodeck, transfer you back to Sickbay."
+        },
+        {
+          "character": "BARCLAY",
+          "line": "You don't have memory circuits, you have a mind, and it's being damaged. Destroy the Voyager, the program will end, and we can get you off the holodeck."
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "That's not true, Doctor. Because of the feedback loop, if you destroy the simulation, you will be destroyed as well."
+        },
+        {
+          "character": "EMH",
+          "line": "Me?"
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "If you shut down this simulation your program will be wiped out right along with it. There'll be no way to retrieve the lost data. You'll be gone."
+        },
+        {
+          "character": "BARCLAY",
+          "line": "Only real people experience pain. You've got to believe me."
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "What you're perceiving as pain is really the feedback loop eradicating your memory circuits."
+        },
+        {
+          "character": "EMH",
+          "line": "What, what is it you want me to do?"
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "Don't do anything. We're working on the problem right now. We're close to a solution."
+        },
+        {
+          "character": "BARCLAY",
+          "line": "Do nothing and you'll die."
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "Doctor, trust me."
+        },
+        {
+          "character": "KES",
+          "line": "Trust me, Lewis."
+        },
+        {
+          "character": "EMH",
+          "line": "Kes."
+        },
+        {
+          "character": "KES",
+          "line": "Yes, you know me. You remember me."
+        },
+        {
+          "character": "EMH",
+          "line": "Yes, you're my assistant."
+        },
+        {
+          "character": "BARCLAY",
+          "line": "I told you, his brain is being damaged. He's losing his memory. This is Kes Zimmerman, your wife."
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "This is all a holographic delusion drawn from people and experiences in your own memory circuits. You are malfunctioning."
+        },
+        {
+          "character": "KES",
+          "line": "Lewis, please, listen to Reg, he's trying to help you. Destroy this program."
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "If you listen to her, you'll end up destroying yourself."
+        },
+        {
+          "character": "KES",
+          "line": "Believe in yourself. You're not a program, you're a real flesh and blood human being. And you're my husband. I don't want to lose you."
+        },
+        {
+          "character": "BARCLAY",
+          "line": "Lewis, how would you rather think of yourself? As a real person with a real life, with a family that loves you? Or as some hologram that exists in a Sickbay on a starship lost in deep space."
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "This isn't about what you want. This is about what you are. Just because you're made of projected light and energy doesn't mean you're any less real than someone made of flesh and blood. It doesn't matter what you're made of. What matters is who you are. You're our friend, and we want you back."
+        },
+        {
+          "character": "KES",
+          "line": "Louis, please. Pick up the phaser, destroy the warp core. It's your only hope."
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "Doctor, we're close to getting you out of here. Try to hold on!"
+        },
+        {
+          "character": "KES",
+          "line": "What ever happens, I just want you to know, I love you."
+        },
+        {
+          "character": "EMH",
+          "line": "I always wanted to"
+        }
+      ],
+      "location": "Engineering"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "EMH",
+          "line": "Tell you, Kes, that you're beautiful."
+        },
+        {
+          "character": "KES",
+          "line": "Thank you."
+        },
+        {
+          "character": "EMH",
+          "line": "What's going on?"
+        },
+        {
+          "character": "TUVOK",
+          "line": "We were able to shut down the holodeck simulation that your program was generating. Commander Chakotay transferred you back to Sickbay. You seem to have suffered no damage."
+        },
+        {
+          "character": "EMH",
+          "line": "What really happened?"
+        },
+        {
+          "character": "KIM",
+          "line": "Voyager encountered a subspace anomaly which created a kinoplasmic radiation surge throughout most of our computers. Unfortunately it happened while you were using the holodeck."
+        },
+        {
+          "character": "KES",
+          "line": "We've been working for the past six hours to get you out of there."
+        },
+        {
+          "character": "EMH",
+          "line": "So there was never a Kazon attack."
+        },
+        {
+          "character": "KES",
+          "line": "That's right."
+        },
+        {
+          "character": "EMH",
+          "line": "And the crew didn't really abandon ship."
+        },
+        {
+          "character": "TUVOK",
+          "line": "No. In fact, except for the computer problems, it has been an uneventful day."
+        },
+        {
+          "character": "EMH",
+          "line": "And who is this Lieutenant Barclay I imagined."
+        },
+        {
+          "character": "KIM",
+          "line": "Barclay was part of the original engineering team that designed your program. He was in charge of testing your interpersonal skills."
+        },
+        {
+          "character": "EMH",
+          "line": "Well, this should make an interesting paper."
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "Chakotay to Sickbay. Is the Doctor all right?",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "TUVOK",
+          "line": "Yes, Commander. His program is functioning normally."
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "Good work. As soon as you're finished there I want all senior officers to report to the bridge.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "TUVOK",
+          "line": "Acknowledged."
+        },
+        {
+          "character": "KIM",
+          "line": "It's good to have you back, Doctor."
+        },
+        {
+          "character": "EMH",
+          "line": "Well, I suppose I should begin cataloging the neotrianate samples I was working on this morning."
+        },
+        {
+          "character": "KES",
+          "line": "So you really think I'm beautiful?"
+        },
+        {
+          "character": "EMH",
+          "line": "I was under a great deal of stress, you understand. I may have said things that are not necessarily my true feelings. Kes. Oh. Then you don't think I'm beautiful."
+        },
+        {
+          "character": "EMH",
+          "line": "I didn't say that, exactly. I consider you very, very attractive. In a platonic sense."
+        },
+        {
+          "character": "KES",
+          "line": "I see. Then you don't really love me."
+        },
+        {
+          "character": "EMH",
+          "line": "I'm afraid not."
+        },
+        {
+          "character": "KES",
+          "line": "Then I guess our marriage is over."
+        },
+        {
+          "character": "EMH",
+          "line": "Our marriage? Are you making a joke?"
+        },
+        {
+          "character": "KES",
+          "line": "It isn't a joke to me, Lewis. I know we have problems but I think we can solve them."
+        },
+        {
+          "character": "EMH",
+          "line": "No. No, this can't be right. Something's wrong here."
+        },
+        {
+          "character": "BARCLAY",
+          "line": "It's not too late, Lewis. You can still save yourself by destroying the warp core."
+        },
+        {
+          "character": "EMH",
+          "line": "No! No, I don't believe you. None of this is real. It's all a delusion. Somebody help me!"
+        },
+        {
+          "character": "BARCLAY",
+          "line": "I am helping you."
+        },
+        {
+          "character": "KES",
+          "line": "Listen to him, Lewis."
+        },
+        {
+          "character": "EMH",
+          "line": "No!"
+        },
+        {
+          "character": "PARIS",
+          "line": "Doctor, are you listening to me? That man needs help!"
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Try to calm down, Doctor, everything's going to be fine."
+        }
+      ],
+      "location": "Sickbay"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "JANEWAY",
+          "line": "Doctor, do you know who I am? Do you know where you are?"
+        },
+        {
+          "character": "EMH",
+          "line": "I appear to be on the holodeck grid."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "That's right. And do you know what you are?"
+        },
+        {
+          "character": "EMH",
+          "line": "Yes, I'm the Emergency Medical Holographic program. Right?"
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Right."
+        },
+        {
+          "character": "EMH",
+          "line": "Well, I assume everything that's happened took place here on the holodeck."
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "That's right. We encountered a subspace anomaly and there was a radiation surge in the computer system."
+        },
+        {
+          "character": "EMH",
+          "line": "And Kes is my assistant, not my wife?"
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "Your wife?"
+        },
+        {
+          "character": "EMH",
+          "line": "Never mind. Captain, if it's okay, I'd like to return to Sickbay now."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Of course. It's good to have you back, Doctor."
+        },
+        {
+          "character": "EMH",
+          "line": "It's good to be back."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Computer, transfer EMH program to Sickbay."
+        }
+      ],
+      "location": "Holodeck"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "KES",
+          "line": "We were married?"
+        },
+        {
+          "character": "EMH",
+          "line": "It was a delusion, of course."
+        },
+        {
+          "character": "KES",
+          "line": "I understand. But I'd still prefer it if you didn't tell Neelix about this. He tends to get a little jealous. It'll be our secret."
+        },
+        {
+          "character": "EMH",
+          "line": "I am curious about one thing."
+        },
+        {
+          "character": "KES",
+          "line": "What's that?"
+        },
+        {
+          "character": "EMH",
+          "line": "The radiation surge caused my program to malfunction and my codes and circuits began to degrade and yet, instead of detecting that threat to my program, I experienced an elaborate delusion concerning the nature of my existence. Human or hologram. Person or projection. Why? Why would my program focus on such an esoteric dilemma?"
+        },
+        {
+          "character": "KES",
+          "line": "Well, I sometimes ask those kind of questions. Who am I? What am I doing here? What's my purpose in life? Doesn't everybody?"
+        },
+        {
+          "character": "EMH",
+          "line": "Not me. I know exactly who I am and what my purpose is. I am the Emergency Medical Hologram aboard the starship Voyager."
+        },
+        {
+          "character": "KES",
+          "line": "Are you sure about that?"
+        }
+      ],
+      "location": "Doctor's office"
+    }
+  ],
+  "schedule": {
+    "episode": 3,
+    "number": 19,
+    "season": 2
+  },
+  "stardate": "48892.1",
+  "title": "Projections"
+}
