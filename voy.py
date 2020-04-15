@@ -10,6 +10,7 @@ from bs4 import BeautifulSoup
 
 from gb2en import replace
 
+
 def extractDate(datestring):
     result = None
     date_formats = ['%d %b, %Y', '%b %d %Y', '%b %d, %Y', '%d %B, %Y', '%d %b %Y', '%d %B %Y', '%B %d, %Y', '%B %d %Y']
@@ -25,22 +26,24 @@ def extractDate(datestring):
 
     raise Exception
 
+
 def scrubList(list):
     scrubbedList = []
 
     for item in list:
         cleaned = item.strip()
-        cleaned = cleaned.replace("Captain's log", "JANEWAY [OC]: Captain's log") # replace log entries
+        cleaned = cleaned.replace("Captain's log", "JANEWAY [OC]: Captain's log")  # replace log entries
         # clear line breaks in the middle of lines (last char is a-z.,;?! and then break and then not two capitals)
         cleaned = re.sub(r'(?<=[a-zI\.\,\;\?\!])\n(?![A-Z][A-Z])', ' ', cleaned)
         cleaned = re.sub(' \n', '\n', cleaned)
         cleaned = re.sub('\n\n', '\n', cleaned)
-        cleaned = re.sub(r'\(.*?\)', ' ', cleaned) # remove parentheticals
+        cleaned = re.sub(r'\(.*?\)', ' ', cleaned)  # remove parentheticals
         cleaned = cleaned.replace('  ', ' ').replace('   ', ' ').replace('    ', ' ')
         if len(cleaned) == 0:
             continue
         scrubbedList.append(cleaned.strip())
     return scrubbedList
+
 
 def getSeasonDataFromEpisode(ep_num):
     if ep_num <= 16:
@@ -62,13 +65,14 @@ def getSeasonDataFromEpisode(ep_num):
     print(ep_num)
     exit()
 
+
 def getLinesFromStringBlock(block):
     split_scene_text = re.split(r'([A-Z0-9\' ]+(?:[ \n]\[.*?\])?):', block)
     if len(split_scene_text) == 1:
         # who knows what happened here
         return [{'character': 'unknown', 'line': block}]
 
-    split_scene_text.pop(0) # first is always blank?
+    split_scene_text.pop(0)  # first is always blank?
     lines = []
     for j in range(int(len(split_scene_text) / 2)):
         line = {}
@@ -88,7 +92,7 @@ def getLinesFromStringBlock(block):
             elif modifier in ["on monitor", "on viewscreen", "On viewscreen", "on screen", "on PADD", "on bathroom monitor", "on imagiser", "on TV"]:
                 line['modifier'] = "screen"
             elif modifier in ["singing", "both", "Naomi's voice", "as corpse", "memory", "in his mind"]:
-                #line['modifier'] = "modifier"
+                # line['modifier'] = "modifier"
                 pass
             else:
                 print("WARNING!!! UNKNOWN LINE MODIFIER")
@@ -110,10 +114,10 @@ for entry in os.scandir(directory):
 
     soup = BeautifulSoup(open(entry.path, encoding='cp1252').read(), 'html.parser')
 
-    title = re.sub(r'[\t\r\n]', ' ', soup.find('font', {'color' : '#2867d0'}).getText())
+    title = re.sub(r'[\t\r\n]', ' ', soup.find('font', {'color': '#2867d0'}).getText())
     episode['title'] = title
 
-    stardate_airdate =  re.sub(r'[\t\r\n]', ' ', soup.find('font', {'size' : '2'}).getText())
+    stardate_airdate = re.sub(r'[\t\r\n]', ' ', soup.find('font', {'size': '2'}).getText())
     matches = re.search(r'Stardate:[ \xa0](\d+\.?\d+?|Unknown)[\s \xa0]+Original[\s \xa0]+Airdate:[ \xa0](.*)', stardate_airdate.replace('  ', ' '), re.IGNORECASE)
 
     episode['stardate'] = matches[1]
@@ -161,7 +165,7 @@ for entry in os.scandir(directory):
     #             print("Bad line:")
     #             print(dialogue['line'])
 
-    #print("processed/voy/s%se%s.json" % (str(episode['schedule']['season']).zfill(2), str(episode['schedule']['episode']).zfill(2)))
+    # print("processed/voy/s%se%s.json" % (str(episode['schedule']['season']).zfill(2), str(episode['schedule']['episode']).zfill(2)))
     with open("processed/voy/s%se%s.json" % (str(episode['schedule']['season']).zfill(2), str(episode['schedule']['episode']).zfill(2)), 'w') as outfile:
         string_script = replace(json.dumps(episode))
         json.dump(json.loads(string_script), outfile, indent=2, sort_keys=True)

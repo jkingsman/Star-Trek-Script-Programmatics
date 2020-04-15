@@ -3,6 +3,7 @@
 import glob
 import json
 
+
 def _fuzzyListContains(haystack, needles):
     for needle in needles:
         needleFound = False
@@ -13,6 +14,7 @@ def _fuzzyListContains(haystack, needles):
             return False
 
     return True
+
 
 def _fuzzyListMatches(haystack, needles):
     if len(haystack) != len(needles):
@@ -27,6 +29,7 @@ def _fuzzyListMatches(haystack, needles):
             return False
 
     return True
+
 
 class ScriptMechanic:
     def __init__(self, script):
@@ -160,7 +163,6 @@ class ScriptMechanicFlock:
             # I don't know why duplicates crop up but I'm too tired to debug it, so this will do.
             common_scenes = [json.loads(scene) for scene in list(set([scene for scene in episode_scenes_A if scene in episode_scenes_B]))]
 
-
             if common_scenes:
                 scenes[episode_name] = common_scenes
         return scenes
@@ -172,7 +174,7 @@ class ScriptMechanicFlock:
         result = predicate_results.pop()
 
         while predicate_results:
-             result = self._intersection(result, predicate_results.pop())
+            result = self._intersection(result, predicate_results.pop())
 
         return result
 

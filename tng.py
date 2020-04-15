@@ -11,22 +11,24 @@ from bs4 import BeautifulSoup
 
 from gb2en import replace
 
+
 def scrubList(list):
     scrubbedList = []
 
     for item in list:
         cleaned = item.strip()
-        cleaned = cleaned.replace("Captain's log", "PICARD [OC]: Captain's log") # replace log entries
+        cleaned = cleaned.replace("Captain's log", "PICARD [OC]: Captain's log")  # replace log entries
         # clear line breaks in the middle of lines (last char is a-z.,;?! and then break and then not two capitals)
         cleaned = re.sub(r'(?<=[a-zI\.\,\;\?\!])\n(?![A-Z][A-Z])', ' ', cleaned)
         cleaned = re.sub(' \n', '\n', cleaned)
         cleaned = re.sub('\n\n', '\n', cleaned)
-        cleaned = re.sub(r'\(.*?\)', ' ', cleaned) # remove parentheticals
+        cleaned = re.sub(r'\(.*?\)', ' ', cleaned)  # remove parentheticals
         cleaned = cleaned.replace('  ', ' ').replace('   ', ' ').replace('    ', ' ')
         if len(cleaned) == 0:
             continue
         scrubbedList.append(cleaned.strip())
     return scrubbedList
+
 
 def getSeasonDataFromEpisode(ep_num):
     if ep_num <= 26:
@@ -48,13 +50,14 @@ def getSeasonDataFromEpisode(ep_num):
     print(ep_num)
     exit()
 
+
 def getLinesFromStringBlock(block):
     split_scene_text = re.split(r'([A-Z0-9\' ]+(?: \[.*?\])?):', block)
     if len(split_scene_text) == 1:
         # who knows what happened here
         return [{'character': 'unknown', 'line': block}]
 
-    split_scene_text.pop(0) # first is always blank?
+    split_scene_text.pop(0)  # first is always blank?
     lines = []
     for j in range(int(len(split_scene_text) / 2)):
         line = {}
@@ -89,18 +92,15 @@ directory = 'www.chakoteya.net/NextGen'
 for entry in os.scandir(directory):
     episode = {}
 
-    # 272
-    # 266
-    #187
     # if entry.name != '147.htm':
     #     continue
 
     soup = BeautifulSoup(open(entry.path), 'html.parser')
 
-    title = re.sub(r'[\t\r\n]', ' ', soup.find('font', {'color' : '#2867d0'}).getText())
+    title = re.sub(r'[\t\r\n]', ' ', soup.find('font', {'color': '#2867d0'}).getText())
     episode['title'] = title
 
-    stardate_airdate =  re.sub(r'[\t\r\n]', ' ', soup.find('font', {'size' : '2'}).getText())
+    stardate_airdate = re.sub(r'[\t\r\n]', ' ', soup.find('font', {'size': '2'}).getText())
     matches = re.search('Stardate: (\d+\.?\d+?|Unknown) Original Airdate: (.*)', stardate_airdate, re.IGNORECASE)
 
     episode['stardate'] = matches[1]
