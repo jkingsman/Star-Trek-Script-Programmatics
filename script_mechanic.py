@@ -102,6 +102,12 @@ class ScriptMechanic:
                 results.append(scene)
         return results
 
+    def dump(self, chars = None):
+        for scene in self.scriptObj['scenes']:
+            for line in scene['dialogue']:
+                if not chars or line['character'] in chars:
+                    print(f"{line['character'].upper()}: {line['line']}")
+
 
 class ScriptMechanicFlock:
     def __init__(self, scriptFolder):
@@ -190,8 +196,13 @@ class ScriptMechanicFlock:
     def prettySearch(self, scenes):
         self.printScenes(self.intersection(scenes))
 
-flock = ScriptMechanicFlock('processed/tng')
+    def dump(self, chars = None):
+        for episode in self.scripts:
+            episode.dump(chars)
 
+
+flock = ScriptMechanicFlock('processed/tng')
+flock.dump(['VASH'])
 # flock.prettySearch([flock.getScenesWithOnly(['worf', 'picard']),
 #                     flock.getScenesInLocation('observation lounge'),
 #                     flock.getScenesWithKeyword('did not see')])
@@ -200,5 +211,5 @@ flock = ScriptMechanicFlock('processed/tng')
 #                     flock.getScenesInLocation('bridge'),
 #                     flock.getScenesWithKeyword('on top of the world')])
 
-flock.prettySearch([flock.getScenesIncluding(['troi', 'lwaxana']),
-                   flock.getScenesWithKeyword('little one')])
+# flock.prettySearch([flock.getScenesIncluding(['troi', 'lwaxana']),
+#                    flock.getScenesWithKeyword('little one')])
