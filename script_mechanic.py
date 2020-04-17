@@ -202,7 +202,7 @@ class ScriptMechanicFlock:
 
 
 flock = ScriptMechanicFlock('processed/tng')
-flock.dump(['VASH'])
+flock.dump(['PICARD', 'DATA', 'RIKER', 'LAFORGE', 'TASHA', 'CRUSHER', 'TROI', 'WORF'])
 # flock.prettySearch([flock.getScenesWithOnly(['worf', 'picard']),
 #                     flock.getScenesInLocation('observation lounge'),
 #                     flock.getScenesWithKeyword('did not see')])
