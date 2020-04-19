@@ -196,13 +196,17 @@ class ScriptMechanicFlock:
     def prettySearch(self, scenes):
         self.printScenes(self.intersection(scenes))
 
-    def dump(self, chars = None):
+    def dump(self, chars = None, delimiter = None):
         for episode in self.scripts:
             episode.dump(chars)
-
+            if delimiter:
+                print('delimiter')
 
 flock = ScriptMechanicFlock('processed/tng')
-flock.dump(['PICARD', 'DATA', 'RIKER', 'LAFORGE', 'TASHA', 'CRUSHER', 'TROI', 'WORF'])
+# flock.dump(chars = ['PICARD', 'RIKER', 'CRUSHER', 'WESLEY', 'DATA', 'WORF', 'TROI', 'GUINAN', 'TASHA', "O'BRIEN", 'KEIKO', 'LAFORGE', 'BARCLAY', 'PULASKI', 'OGAWA', 'Q', 'ALEXANDER'])
+# flock.dump(chars = ['PICARD', 'RIKER', 'CRUSHER', 'DATA', 'WORF', 'TROI', 'LAFORGE'])
+# flock.dump()
+
 # flock.prettySearch([flock.getScenesWithOnly(['worf', 'picard']),
 #                     flock.getScenesInLocation('observation lounge'),
 #                     flock.getScenesWithKeyword('did not see')])
