@@ -102,12 +102,24 @@ class ScriptMechanic:
                 results.append(scene)
         return results
 
-    def dump(self, chars = None):
+    def dump(self, chars, show_locations):
         for scene in self.scriptObj['scenes']:
+            if show_locations and scene['location'] != 'unknown':
+                print("")
+                print(f"[{scene['location']}]")
             for line in scene['dialogue']:
                 if not chars or line['character'] in chars:
                     print(f"{line['character'].upper()}: {line['line']}")
 
+    def dumpOnlyScenesWith(self, chars):
+        for scene in self.scriptObj['scenes']:
+            scene_characters = set([line['character'] for line in scene['dialogue']])
+            if scene_characters <= set(chars) and scene['location'] != 'unknown':
+                print(f"[{scene['location']}]")
+                for line in scene['dialogue']:
+                    if not chars or line['character'] in chars:
+                        print(f"{line['character'].upper()}: {line['line']}")
+                print("")
 
 class ScriptMechanicFlock:
     def __init__(self, scriptFolder):
@@ -196,16 +208,20 @@ class ScriptMechanicFlock:
     def prettySearch(self, scenes):
         self.printScenes(self.intersection(scenes))
 
-    def dump(self, chars = None, delimiter = None):
+    def dump(self, chars = None, show_locations = False, delimiter = None):
         for episode in self.scripts:
-            episode.dump(chars)
+            episode.dump(chars, show_locations)
             if delimiter:
-                print('delimiter')
+                print(delimiter)
+
+    def dumpOnlyScenesWith(self, chars):
+        for episode in self.scripts:
+            episode.dumpOnlyScenesWith(chars)
 
 flock = ScriptMechanicFlock('processed/tng')
-# flock.dump(chars = ['PICARD', 'RIKER', 'CRUSHER', 'WESLEY', 'DATA', 'WORF', 'TROI', 'GUINAN', 'TASHA', "O'BRIEN", 'KEIKO', 'LAFORGE', 'BARCLAY', 'PULASKI', 'OGAWA', 'Q', 'ALEXANDER'])
+flock.dumpOnlyScenesWith(chars = ['PICARD', 'RIKER', 'CRUSHER', 'WESLEY', 'DATA', 'WORF', 'TROI', 'GUINAN', 'TASHA', "O'BRIEN", 'KEIKO', 'LAFORGE', 'BARCLAY', 'PULASKI', 'OGAWA', 'Q', 'ALEXANDER'])
 # flock.dump(chars = ['PICARD', 'RIKER', 'CRUSHER', 'DATA', 'WORF', 'TROI', 'LAFORGE'])
-# flock.dump()
+# flock.dump(chars = None, show_locations = True)
 
 # flock.prettySearch([flock.getScenesWithOnly(['worf', 'picard']),
 #                     flock.getScenesInLocation('observation lounge'),
