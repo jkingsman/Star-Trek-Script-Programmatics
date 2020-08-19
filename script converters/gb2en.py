@@ -1,7 +1,9 @@
 import json
 
+import os
 
-with open('gb2en.json') as f:
+JSON_FILENAME = os.path.join(os.path.dirname(__file__), 'gb2en.json')
+with open(JSON_FILENAME) as f:
     replacements = json.load(f)
     only_words = replacements.keys()
 
