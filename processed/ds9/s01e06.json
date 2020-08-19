@@ -1,0 +1,1627 @@
+{
+  "airdate": 728553600,
+  "scenes": [
+    {
+      "dialogue": [
+        {
+          "character": "SARDA",
+          "line": "I'm not what a lot of people think. I mean, if you're a dabo girl, you know, you get a reputation."
+        },
+        {
+          "character": "SISKO",
+          "line": "Miss Sarda, why don't tell me exactly what happened? When did you start to have trouble with Quark?"
+        },
+        {
+          "character": "SARDA",
+          "line": "About five minutes after I got off the ship."
+        },
+        {
+          "character": "SISKO",
+          "line": "He immediately made sexual advances?"
+        },
+        {
+          "character": "SARDA",
+          "line": "He said it was part of the job."
+        },
+        {
+          "character": "SISKO",
+          "line": "And what did you say?"
+        },
+        {
+          "character": "SARDA",
+          "line": "I told him I'd wear the costume and entertain the gamblers, but to keep his Ferengi knuckles to himself."
+        },
+        {
+          "character": "SISKO",
+          "line": "That didn't stop him?"
+        },
+        {
+          "character": "SARDA",
+          "line": "No. He said again that it was part of the job. He showed me my employment agreement. See? There it is in the Ferengi print. Page twenty one, subsection D, paragraph twelve."
+        },
+        {
+          "character": "SISKO",
+          "line": "You're telling me the contract you signed requires you to"
+        },
+        {
+          "character": "SARDA",
+          "line": "I guess I should have read it more carefully. I'm not a legal expert, Commander"
+        },
+        {
+          "character": "SISKO",
+          "line": "I'm not a legal expert either, but I can assure you, after I talk to Quark, he won't hold you or anyone else to this provision concerning the exchange"
+        },
+        {
+          "character": "KIRA",
+          "line": "Commander, sensors are picking up elevated neutrino readings. Something's coming through the wormhole.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "SISKO",
+          "line": "Excuse me."
+        },
+        {
+          "character": "SARDA",
+          "line": "Thank you, Commander."
+        },
+        {
+          "character": "SISKO",
+          "line": "Are any of the transports due back?"
+        },
+        {
+          "character": "KIRA",
+          "line": "Not according to our logs.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "SISKO",
+          "line": "Put us on yellow alert."
+        }
+      ],
+      "location": "Commander's office"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "DAX",
+          "line": "It doesn't match anything in Starfleet files."
+        },
+        {
+          "character": "O'BRIEN",
+          "line": "I'm getting readings of a massive energy flux. It could be damaged."
+        },
+        {
+          "character": "DAX",
+          "line": "Sensors indicate a single humanoid lifeform on board."
+        },
+        {
+          "character": "SISKO",
+          "line": "Hail it."
+        },
+        {
+          "character": "O'BRIEN",
+          "line": "Aye, sir. Hail acknowledged. Response coming in."
+        },
+        {
+          "character": "SISKO",
+          "line": "On screen."
+        },
+        {
+          "character": "SISKO",
+          "line": "Welcome to the Alpha Quadrant. I'm Commander Benjamin Sisko of the United Federation of Planets."
+        },
+        {
+          "character": "TOSK",
+          "line": "Alpha Quadrant?",
+          "modifier": "screen"
+        },
+        {
+          "character": "SISKO",
+          "line": "You've passed through a wormhole into a new part of the galaxy."
+        },
+        {
+          "character": "TOSK",
+          "line": "I saw a small ship disappear. I followed it",
+          "modifier": "screen"
+        },
+        {
+          "character": "SISKO",
+          "line": "That was one of our patrol vessels. You've traveled almost ninety thousand light years. What planet do you come from?"
+        },
+        {
+          "character": "TOSK",
+          "line": "How long does it last, this anomaly?",
+          "modifier": "screen"
+        },
+        {
+          "character": "SISKO",
+          "line": "It's stable. You can return whenever you want. In the meantime, you're welcome to dock here and we'll try to answer all your questions."
+        },
+        {
+          "character": "TOSK",
+          "line": "No. No time.",
+          "modifier": "screen"
+        },
+        {
+          "character": "O'BRIEN",
+          "line": "Inertial stress is overloading his structural capacity."
+        },
+        {
+          "character": "SISKO",
+          "line": "Prepare to transport him off his ship."
+        },
+        {
+          "character": "TOSK",
+          "line": "I will not abandon my vessel.",
+          "modifier": "screen"
+        },
+        {
+          "character": "SISKO",
+          "line": "Sir, your ship is in danger of"
+        },
+        {
+          "character": "TOSK",
+          "line": "I will not leave!",
+          "modifier": "screen"
+        },
+        {
+          "character": "O'BRIEN",
+          "line": "We can use a tractor beam to tow him in. The beam's graviton field should shore up the structural integrity."
+        },
+        {
+          "character": "SISKO",
+          "line": "Do it."
+        },
+        {
+          "character": "O'BRIEN",
+          "line": "Cut your engines."
+        },
+        {
+          "character": "TOSK",
+          "line": "Why?",
+          "modifier": "screen"
+        },
+        {
+          "character": "O'BRIEN",
+          "line": "So I can save your ship, friend. We'll bring you in. Try to fix you up as good as new. Good. Engaging tractor beam. Steady now. Feel the graviton field taking hold?"
+        },
+        {
+          "character": "TOSK",
+          "line": "Yes.",
+          "modifier": "screen"
+        },
+        {
+          "character": "O'BRIEN",
+          "line": "You'll be fine now. Just relax and enjoy the ride."
+        },
+        {
+          "character": "DAX",
+          "line": "I think we might want to skip formal first contact procedures for now."
+        },
+        {
+          "character": "SISKO",
+          "line": "Agreed. Why don't you meet him by yourself at the airlock, Mister O'Brien. He might find that a little less intimidating."
+        },
+        {
+          "character": "O'BRIEN",
+          "line": "Aye, sir."
+        },
+        {
+          "character": "SISKO",
+          "line": "And, if you can, find out what he's so nervous about."
+        },
+        {
+          "character": "O'BRIEN",
+          "line": "Aye, sir."
+        }
+      ],
+      "location": "Ops"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "O'BRIEN",
+          "line": "O'Brien to Ops."
+        },
+        {
+          "character": "SISKO",
+          "line": "Go ahead, Chief.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "O'BRIEN",
+          "line": "Sure you"
+        }
+      ],
+      "location": "Tosk's ship"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "O'BRIEN",
+          "line": "Didn't beam this fellow out when I wasn't looking, did you?",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "SISKO",
+          "line": "Negative."
+        },
+        {
+          "character": "O'BRIEN",
+          "line": "Well, he's not in here.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "DAX",
+          "line": "Sensors say"
+        }
+      ],
+      "location": "Ops"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "DAX",
+          "line": "He's still on board, Chief.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "O'BRIEN",
+          "line": "Friend? If you're in here, you've got nothing to worry about from me. Understand? I'm just going to take a look at your ship. See what the problem is. Okay? Just to let you know, I'm an engineer. I know a little bit about ships. Well, more than a little, actually, but I'll tell you, I've never seen anything close to this. All right then. Is this some sort of plasma injector? Okay. Then"
+        },
+        {
+          "character": "O'BRIEN",
+          "line": "that must be an off-axis field controller over there."
+        },
+        {
+          "character": "TOSK",
+          "line": "The coladrium flow has been damaged."
+        },
+        {
+          "character": "O'BRIEN",
+          "line": "You can't go sneaking up on someone like that, friend. It's an Alpha quadrant rule."
+        },
+        {
+          "character": "TOSK",
+          "line": "Can it be repaired?"
+        },
+        {
+          "character": "O'BRIEN",
+          "line": "Well, that all depends."
+        },
+        {
+          "character": "TOSK",
+          "line": "Depends?"
+        },
+        {
+          "character": "O'BRIEN",
+          "line": "On what exactly a coladrium flow is."
+        },
+        {
+          "character": "TOSK",
+          "line": "On my world, it would be simple. With proper materials I could do it myself."
+        },
+        {
+          "character": "O'BRIEN",
+          "line": "Hang on, I didn't say we couldn't figure it out. You're just going to have to teach me as we go. I'm sure that we can"
+        },
+        {
+          "character": "TOSK",
+          "line": "I have no time!"
+        },
+        {
+          "character": "O'BRIEN",
+          "line": "I know. Everybody's in a hurry these days. We'll get you on your way as soon as it's humanly possible. Oh, that's me, by the way, human species. Name's O'Brien."
+        },
+        {
+          "character": "TOSK",
+          "line": "Oh. Brien."
+        },
+        {
+          "character": "O'BRIEN",
+          "line": "Miles O'Brien, Chief of Operations. How about you?"
+        },
+        {
+          "character": "TOSK",
+          "line": "I am Tosk."
+        },
+        {
+          "character": "O'BRIEN",
+          "line": "That's your name or your species?"
+        },
+        {
+          "character": "TOSK",
+          "line": "I am Tosk."
+        },
+        {
+          "character": "O'BRIEN",
+          "line": "Tosk, it is. Come on. There's nothing to be afraid of out there. We've got to let your reactor cool down anyway before we can do anything else. Come on. I've work to do."
+        }
+      ],
+      "location": "Tosk's ship"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "O'BRIEN",
+          "line": "So what happened to you, anyway? Looks like you took some sort of shot to your hull."
+        },
+        {
+          "character": "TOSK",
+          "line": "The passage through the anomaly was very rough."
+        },
+        {
+          "character": "O'BRIEN",
+          "line": "Yeah, sure. The wormhole can shake you up all right."
+        }
+      ],
+      "location": "Airlock"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "O'BRIEN",
+          "line": "Security sensor. Screens for weapons. It's just picking up my phaser. You're fine."
+        },
+        {
+          "character": "TOSK",
+          "line": "You wear a weapon?"
+        },
+        {
+          "character": "O'BRIEN",
+          "line": "Defensive purposes only. It may not seem hospitable, but when you go into an alien ship for the first time, you never know what might be in there. You may even find someone who can make himself invisible, you know what I mean?"
+        },
+        {
+          "character": "TOSK",
+          "line": "I understand. A health center?"
+        },
+        {
+          "character": "O'BRIEN",
+          "line": "Yeah. That's Doctor Bashir. He looks after our medical problems."
+        },
+        {
+          "character": "TOSK",
+          "line": "How many live here?"
+        },
+        {
+          "character": "O'BRIEN",
+          "line": "Well, three hundred, more or less."
+        },
+        {
+          "character": "TOSK",
+          "line": "What is its purpose?"
+        },
+        {
+          "character": "O'BRIEN",
+          "line": "Purpose?"
+        },
+        {
+          "character": "TOSK",
+          "line": "Defense? Surveillance?"
+        },
+        {
+          "character": "O'BRIEN",
+          "line": "Well, sometimes when I walk along here I feel like we're the flea markets of the sector. But I guess our real job is to keep an eye on the wormhole. There's traffic going in and out all the time now."
+        },
+        {
+          "character": "TOSK",
+          "line": "Many ships dock here?"
+        },
+        {
+          "character": "O'BRIEN",
+          "line": "Five or six a week. We sometimes have a whole convoy on its way through the wormhole. But you have the honor of being the first visitor from the other side."
+        },
+        {
+          "character": "TOSK",
+          "line": "Others will detect ships from your quadrant as I did and follow them here."
+        },
+        {
+          "character": "O'BRIEN",
+          "line": "We hope so. Our mission as Starfleet officers is to seek out new life forms so we can learn about each other."
+        },
+        {
+          "character": "QUARK",
+          "line": "Madame, I distinctly saw you move your wager to the green line after the play was completed. I will return your currency, but you will promptly leave the establishment. You are not welcome here."
+        },
+        {
+          "character": "O'BRIEN",
+          "line": "Well, there are some things to learn about us that can wait. How about you? Are you an explorer? A scientist?"
+        },
+        {
+          "character": "TOSK",
+          "line": "I am Tosk."
+        },
+        {
+          "character": "O'BRIEN",
+          "line": "Right."
+        }
+      ],
+      "location": "Promenade"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "O'BRIEN",
+          "line": "Computer, lights. I wasn't the decorator."
+        },
+        {
+          "character": "TOSK",
+          "line": "I wish to begin work on my ship."
+        },
+        {
+          "character": "O'BRIEN",
+          "line": "Yes, well, we'll start as soon as we can Now, why don't you get some rest?"
+        },
+        {
+          "character": "TOSK",
+          "line": "I require only seventeen minutes of sleep per rotation."
+        },
+        {
+          "character": "O'BRIEN",
+          "line": "Seventeen? No kidding. If I don't get a good eight hours a night, I'm not the same man. Are you hungry?"
+        },
+        {
+          "character": "TOSK",
+          "line": "Hungry?"
+        },
+        {
+          "character": "O'BRIEN",
+          "line": "You know, would you like to eat, take in sustenance?"
+        },
+        {
+          "character": "TOSK",
+          "line": "Liquid nutrients are stored in plasmic fibers throughout my body."
+        },
+        {
+          "character": "O'BRIEN",
+          "line": "Well, this is the food replicator over here in case you change your mind. We've finally got it making a pretty good bowl of oatmeal. Just ask the computer if you need anything else."
+        },
+        {
+          "character": "TOSK",
+          "line": "Oh Brien. Thank you."
+        },
+        {
+          "character": "O'BRIEN",
+          "line": "As the Vulcans say, we're here to serve."
+        },
+        {
+          "character": "TOSK",
+          "line": "Computer."
+        },
+        {
+          "character": "COMPUTER",
+          "line": "State request."
+        },
+        {
+          "character": "TOSK",
+          "line": "May I see a display of this facility?"
+        },
+        {
+          "character": "COMPUTER",
+          "line": "Specify exterior or interior display."
+        },
+        {
+          "character": "TOSK",
+          "line": "Interior."
+        },
+        {
+          "character": "COMPUTER",
+          "line": "Interior display available in nineteen sections. Specify requirements."
+        },
+        {
+          "character": "TOSK",
+          "line": "Show me where the weapons are stored."
+        },
+        {
+          "character": "COMPUTER",
+          "line": "Habitat ring, level five, section three. Access restricted to security clearance seven and above."
+        }
+      ],
+      "location": "Tosk's quarters"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "O'BRIEN",
+          "line": "It's hard to say, sir. You hate to prejudge anyone."
+        },
+        {
+          "character": "SISKO",
+          "line": "What're you thinking, Chief?"
+        },
+        {
+          "character": "O'BRIEN",
+          "line": "You know the old saying. A man who's always looking over his shoulder is waiting for trouble to find him."
+        },
+        {
+          "character": "SISKO",
+          "line": "You think he's on the run?"
+        },
+        {
+          "character": "O'BRIEN",
+          "line": "I'll tell you this. He wasn't telling the whole truth about the damage to his ship. It sure wasn't caused by the wormhole. Somebody took a shot at him. It came in at a forty five degree angle to the hull, sliced through two propulsion systems. I'll know more when I get a better look at it."
+        },
+        {
+          "character": "SISKO",
+          "line": "Stay with him as much as possible while he's here. I'll tell Odo to keep an eye on him too."
+        },
+        {
+          "character": "O'BRIEN",
+          "line": "Aye, sir."
+        }
+      ],
+      "location": "Commander's office"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TOSK",
+          "line": "No. The coladrium flows through the arva nodes."
+        },
+        {
+          "character": "O'BRIEN",
+          "line": "What are they? Some kind of high-energy magnetic coils?"
+        },
+        {
+          "character": "TOSK",
+          "line": "For fuel replenishment. Fuel?"
+        },
+        {
+          "character": "O'BRIEN",
+          "line": "Like a ramscoop."
+        },
+        {
+          "character": "TOSK",
+          "line": "Ramscoop?"
+        },
+        {
+          "character": "O'BRIEN",
+          "line": "To capture stellar gasses and convert them into usable fuel"
+        },
+        {
+          "character": "TOSK",
+          "line": "Yes! The arva nodes convert space matter into fuel."
+        },
+        {
+          "character": "O'BRIEN",
+          "line": "Ah, got you. Piece of cake."
+        },
+        {
+          "character": "TOSK",
+          "line": "Piece of cake. Ramscoop. Arva nodes."
+        },
+        {
+          "character": "O'BRIEN",
+          "line": "A piece of cake. It's an old human expression. It means they'll be easy to fix."
+        },
+        {
+          "character": "TOSK",
+          "line": "They will be easy to fix?"
+        },
+        {
+          "character": "O'BRIEN",
+          "line": "Sure. We'll just get my crew to remove your arva nodes, then we'll take them over to the replicator center and make new ones."
+        },
+        {
+          "character": "TOSK",
+          "line": "Piece of cake."
+        },
+        {
+          "character": "TOSK",
+          "line": "How long?"
+        },
+        {
+          "character": "O'BRIEN",
+          "line": "Maybe a day or two. We'll want to run some tests after we have the replacement unit's in."
+        },
+        {
+          "character": "TOSK",
+          "line": "No. No time for that."
+        },
+        {
+          "character": "O'BRIEN",
+          "line": "Hey, I let you take that unit out without proper testing, it breaks down, you blame me, next thing I know my work has a bad reputation in the Gamma quadrant."
+        },
+        {
+          "character": "TOSK",
+          "line": "I would not blame you."
+        },
+        {
+          "character": "O'BRIEN",
+          "line": "I was joking, Tosk."
+        },
+        {
+          "character": "TOSK",
+          "line": "I cannot tell, O'Brien."
+        },
+        {
+          "character": "O'BRIEN",
+          "line": "Sorry, it's in my nature. And you're the most natural straight man I've met in ages. Come on. While the fellas are working here, I'll buy you a drink and you can tell me why you're in such a rush."
+        }
+      ],
+      "location": "Tosk's ship"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "GIRL",
+          "line": "Dabo!"
+        },
+        {
+          "character": "TOSK",
+          "line": "Nothing like this exists on my world."
+        },
+        {
+          "character": "O'BRIEN",
+          "line": "This is where we do most of our R and R."
+        },
+        {
+          "character": "TOSK",
+          "line": "What is R and R?"
+        },
+        {
+          "character": "O'BRIEN",
+          "line": "Rest and relaxation. You know, down time. When we're not working."
+        },
+        {
+          "character": "TOSK",
+          "line": "You sleep a full third of your rotation. You rest and relax while you are awake. Alpha quadrant has far too much down time."
+        },
+        {
+          "character": "O'BRIEN",
+          "line": "My wife would laugh at that. She's barely seen me in the last three weeks."
+        },
+        {
+          "character": "TOSK",
+          "line": "We are very different, Tosk and O'Brien."
+        },
+        {
+          "character": "O'BRIEN",
+          "line": "I've noticed. Hey, barkeep!"
+        },
+        {
+          "character": "QUARK",
+          "line": "Don't call me barkeep. I'm not a barkeep. I'm your host, the proprietor. A sympathetic ear to the wretched souls who pass through these portals."
+        },
+        {
+          "character": "O'BRIEN",
+          "line": "And a man who will exploit any vice you may have. Two synthales, barkeep."
+        },
+        {
+          "character": "TOSK",
+          "line": "I am sorry. I have no vices for you to exploit."
+        },
+        {
+          "character": "QUARK",
+          "line": "A challenge."
+        },
+        {
+          "character": "O'BRIEN",
+          "line": "Tosk is our first guest from the Gamma Quadrant, Quark. I'd take him at his word."
+        },
+        {
+          "character": "QUARK",
+          "line": "Perhaps a short adventure in a holosuite?"
+        },
+        {
+          "character": "TOSK",
+          "line": "Holosuite?"
+        },
+        {
+          "character": "QUARK",
+          "line": "A fantasy encounter with danger. Romance. Thrills. Created for your personal entertainment by the brothers Quark."
+        },
+        {
+          "character": "TOSK",
+          "line": "I have no use for fantasy adventure. I live the greatest adventure one could ever desire."
+        },
+        {
+          "character": "QUARK",
+          "line": "Then I envy you, Mister Tosk."
+        },
+        {
+          "character": "O'BRIEN",
+          "line": "What are you talking about, Tosk? What is this adventure you're on?"
+        },
+        {
+          "character": "TOSK",
+          "line": "I cannot diskuss it."
+        },
+        {
+          "character": "O'BRIEN",
+          "line": "Oh. Sure. Of course."
+        }
+      ],
+      "location": "Quark's"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "KIRA",
+          "line": "Sounds like you've changed your mind about him, Chief."
+        },
+        {
+          "character": "O'BRIEN",
+          "line": "Not exactly. I mean, he's running from something, that's for sure, and he's in danger. And he can't or won't talk about it"
+        },
+        {
+          "character": "BASHIR",
+          "line": "People tell doctors things they wouldn't tell any one else. If you could talk him into having a routine medical examination, maybe I could"
+        },
+        {
+          "character": "O'BRIEN",
+          "line": "The thing is, I kind of like the guy. I'm not even sure why. In a way, he's almost naive. I guess any one would be in an alien environment, but I don't sense a thread of criminal intent or dishonesty about him."
+        },
+        {
+          "character": "SISKO",
+          "line": "I thought you said he lied about the damage to his ship."
+        },
+        {
+          "character": "O'BRIEN",
+          "line": "He didn't exactly lie."
+        },
+        {
+          "character": "DAX",
+          "line": "But he didn't exactly tell the truth either."
+        },
+        {
+          "character": "O'BRIEN",
+          "line": "He keeps the truth pretty much to himself."
+        },
+        {
+          "character": "SISKO",
+          "line": "When do you think his ship be ready?"
+        },
+        {
+          "character": "O'BRIEN",
+          "line": "Tomorrow."
+        },
+        {
+          "character": "SISKO",
+          "line": "I don't see that we have much of a choice. We can't hold him. If he wants to tell you the truth, fine. If not, wish him well and send him on his way."
+        }
+      ],
+      "location": "Ops"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "ODO",
+          "line": "Just what do you think you're doing?"
+        },
+        {
+          "character": "ODO",
+          "line": "Computer, seal off corridor fourteen A, habitat level five."
+        },
+        {
+          "character": "COMPUTER",
+          "line": "Seal confirmed."
+        },
+        {
+          "character": "ODO",
+          "line": "Security to habitat five fourteen A."
+        },
+        {
+          "character": "ODO",
+          "line": "When you get tired of bouncing off forcefields, we can talk, all right?"
+        },
+        {
+          "character": "TOSK",
+          "line": "I did nothing to you."
+        },
+        {
+          "character": "ODO",
+          "line": "It's that security junction I'm curious about."
+        },
+        {
+          "character": "TOSK",
+          "line": "I must prepare."
+        },
+        {
+          "character": "ODO",
+          "line": "For what?"
+        },
+        {
+          "character": "TOSK",
+          "line": "I cannot diskuss it. I am Tosk."
+        },
+        {
+          "character": "ODO",
+          "line": "I'm sure you are. Now why don't we go down to my office while your friend Chief O'Brien takes a look to see just what you've been doing in there."
+        },
+        {
+          "character": "TOSK",
+          "line": "O'Brien?"
+        },
+        {
+          "character": "ODO",
+          "line": "Right. I'm going to release the forcefields now. I don't need a fight from you. Understand?"
+        },
+        {
+          "character": "TOSK",
+          "line": "I will not fight you."
+        },
+        {
+          "character": "ODO",
+          "line": "Good. Computer, release the security seals."
+        }
+      ],
+      "location": "Corridor"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TOSK",
+          "line": "I cannot diskuss it."
+        },
+        {
+          "character": "SISKO",
+          "line": "And I can't accept that as an answer."
+        },
+        {
+          "character": "TOSK",
+          "line": "I did nothing to you."
+        },
+        {
+          "character": "SISKO",
+          "line": "You were tampering with the security grid. I consider that a threat."
+        },
+        {
+          "character": "O'BRIEN",
+          "line": "I think he was trying to shut down the lockouts to Section Three"
+        },
+        {
+          "character": "ODO",
+          "line": "The weapons locker."
+        },
+        {
+          "character": "SISKO",
+          "line": "What were you going to do with the weapons?"
+        },
+        {
+          "character": "ODO",
+          "line": "Are you wanted by authorities somewhere in the Gamma Quadrant?"
+        },
+        {
+          "character": "TOSK",
+          "line": "Wanted?"
+        },
+        {
+          "character": "ODO",
+          "line": "Have you committed crimes?"
+        },
+        {
+          "character": "TOSK",
+          "line": "Never. I am Tosk."
+        },
+        {
+          "character": "SISKO",
+          "line": "What does that mean? Is that supposed to explain all this?"
+        },
+        {
+          "character": "TOSK",
+          "line": "It is all I can say."
+        },
+        {
+          "character": "O'BRIEN",
+          "line": "Tosk, don't you think we deserve some answers?"
+        },
+        {
+          "character": "ODO",
+          "line": "What should I do with him?"
+        },
+        {
+          "character": "SISKO",
+          "line": "Hold him for now. We'll wait to see if someone shows up looking for him."
+        },
+        {
+          "character": "O'BRIEN",
+          "line": "Enough of this craziness, Tosk. Tell me, what were you doing?"
+        },
+        {
+          "character": "TOSK",
+          "line": "O'Brien, you must let me out."
+        },
+        {
+          "character": "O'BRIEN",
+          "line": "Tell me!"
+        },
+        {
+          "character": "TOSK",
+          "line": "Allow me to die with honor."
+        },
+        {
+          "character": "O'BRIEN",
+          "line": "Die? Who'd want to kill you, Tosk?"
+        },
+        {
+          "character": "TOSK",
+          "line": "Allow me to die with honor."
+        }
+      ],
+      "location": "Holding area"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "O'BRIEN",
+          "line": "He's climbing the walls like a trapped animal."
+        },
+        {
+          "character": "ODO",
+          "line": "I'm sorry our jail cells aren't to his liking."
+        },
+        {
+          "character": "O'BRIEN",
+          "line": "Somehow I feel responsible."
+        },
+        {
+          "character": "ODO",
+          "line": "You do?"
+        },
+        {
+          "character": "O'BRIEN",
+          "line": "Yeah. Well, I guess I kind of adopted him. I talked him into coming on board."
+        },
+        {
+          "character": "ODO",
+          "line": "You didn't talk him into breaking into the security system."
+        },
+        {
+          "character": "O'BRIEN",
+          "line": "I just feel sorry for him. Somehow, I don't think he means us any harm. What the hell is his secret?"
+        }
+      ],
+      "location": "Security office"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "DAX",
+          "line": "Sensors are reading ionized L-band emissions. The patterns match Tosk's ship."
+        },
+        {
+          "character": "SISKO",
+          "line": "Hail them. Maybe we'll finally get a few answers."
+        },
+        {
+          "character": "KIRA",
+          "line": "No response."
+        },
+        {
+          "character": "SISKO",
+          "line": "Again. Rotate frequencies."
+        },
+        {
+          "character": "DAX",
+          "line": "It's a modulated particle beam. It's scanning us."
+        },
+        {
+          "character": "KIRA",
+          "line": "Ready shields."
+        },
+        {
+          "character": "SISKO",
+          "line": "Not yet, Major. Let them have a good look at us."
+        },
+        {
+          "character": "O'BRIEN",
+          "line": "I'm reading phased power fluctuations. They may be readying a transporter of some kind."
+        },
+        {
+          "character": "SISKO",
+          "line": "Now, Major."
+        },
+        {
+          "character": "KIRA",
+          "line": "Shields up."
+        },
+        {
+          "character": "SISKO",
+          "line": "Open all hailing channels."
+        },
+        {
+          "character": "DAX",
+          "line": "Open."
+        },
+        {
+          "character": "SISKO",
+          "line": "This is Commander Benjamin Sisko of the United"
+        },
+        {
+          "character": "O'BRIEN",
+          "line": "They're bombarding us with some kind of radiation I've never see before. Very rapid magnetic flux variations."
+        },
+        {
+          "character": "O'BRIEN",
+          "line": "What the? They've reversed the polarity of our shields."
+        },
+        {
+          "character": "DAX",
+          "line": "I'm picking up transporter locks. They're beaming on board."
+        },
+        {
+          "character": "SISKO",
+          "line": "Location?"
+        },
+        {
+          "character": "DAX",
+          "line": "Promenade."
+        },
+        {
+          "character": "SISKO",
+          "line": "Security to the Promenade. Kira, O'Brien with me. Dax, you have Ops."
+        }
+      ],
+      "location": "Ops"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "SISKO",
+          "line": "Ready phasers."
+        },
+        {
+          "character": "SISKO",
+          "line": "I'm Commander of this station. Put down your weapons. (Odo steps forward and gets slapped to the ground. Sisko hauls Odo away as Kira and security open fire. The aliens absorb the energy beams with a device on their forearms, but Sisko manages to get one in the chest, then O'Brien does likewise. They don't stay down for long though. A Security guard takes one out from the upper level.)"
+        },
+        {
+          "character": "SISKO",
+          "line": "Increase setting to level six."
+        },
+        {
+          "character": "ODO",
+          "line": "It's that Tosk they're after."
+        },
+        {
+          "character": "KIRA",
+          "line": "Maybe they have a right to him."
+        },
+        {
+          "character": "ODO",
+          "line": "Nobody's abducting a prisoner out of my brig as long as I'm alive, Major."
+        },
+        {
+          "character": "KIRA",
+          "line": "You may need this"
+        },
+        {
+          "character": "ODO",
+          "line": "Thanks, Major, I know I never use them."
+        }
+      ],
+      "location": "Promenade"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "HUNTER",
+          "line": "I have Tosk."
+        }
+      ],
+      "location": "Holding area"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "HUNTER",
+          "line": "Alive. It is over.",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "Promenade"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "HUNTER",
+          "line": "What a disappointment. And after such an entertaining beginning"
+        },
+        {
+          "character": "SISKO",
+          "line": "Entertaining?"
+        },
+        {
+          "character": "HUNTER",
+          "line": "These aliens gave us a great deal of resistance. We wondered how you got their cooperation without violating your oath of silence."
+        },
+        {
+          "character": "TOSK",
+          "line": "I told them nothing."
+        },
+        {
+          "character": "HUNTER",
+          "line": "But to see you here, caged, helpless. How could you allow this? It is a disgrace to all Tosk. And the most disappointing hunt in memory."
+        },
+        {
+          "character": "SISKO",
+          "line": "You're saying that this whole thing is a hunt and Tosk is the prey?"
+        },
+        {
+          "character": "HUNTER",
+          "line": "You were right. This Tosk is unworthy of such a noble description. For this dishonor, you'll endure the greatest humiliation Tosk can know. To be captured and brought home alive. You will live out your existence on public display where children can make fun of you, toss you scraps of food which is more than you deserve. Release him."
+        },
+        {
+          "character": "SISKO",
+          "line": "You've disrupted life on this station for the pleasure of your hunt? I'm not inclined to take orders from you. Odo, watch the prisoner while our guest and I diskuss this in private. Unless you intend to take him by force, in which case I am prepared to give orders to open fire on your ship."
+        },
+        {
+          "character": "HUNTER",
+          "line": "Over this Tosk?"
+        }
+      ],
+      "location": "Holding area"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "HUNTER",
+          "line": "Have you nothing similar in your own society?"
+        },
+        {
+          "character": "SISKO",
+          "line": "Centuries ago, people on my world engaged in bloodsports, killing lower species for pleasure. A few cultures still do. But even they wouldn't consider hunting a sentient being."
+        },
+        {
+          "character": "HUNTER",
+          "line": "But he is sentient only because we have made him sentient. He has been bred for the hunt. His entire reason to exist is the hunt. To make it as exciting, as interesting, as he can. Obviously, you do not comprehend."
+        },
+        {
+          "character": "SISKO",
+          "line": "I comprehend just fine. I have no tolerance for the abuse of any lifeform."
+        },
+        {
+          "character": "HUNTER",
+          "line": "Abuse? We honor Tosk. They are the symbol of all that is noble and courageous. They train and condition themselves all their lives for this event. They're proud of their role in our culture."
+        },
+        {
+          "character": "SISKO",
+          "line": "I can't judge what is right and wrong for your world. But on this station"
+        },
+        {
+          "character": "HUNTER",
+          "line": "In the future, passage through the anomaly will be considered out of bounds for the hunt. Will that satisfy you? Now you will arrange for the release of the Tosk."
+        }
+      ],
+      "location": "Commander's office"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "SISKO",
+          "line": "I've agreed to release him."
+        },
+        {
+          "character": "O'BRIEN",
+          "line": "But sir, Tosk is an intelligent, living being."
+        },
+        {
+          "character": "SISKO",
+          "line": "It's their custom, Chief. Under the prime directive, we have no right to interfere."
+        },
+        {
+          "character": "KIRA",
+          "line": "What if Tosk were to request asylum?"
+        },
+        {
+          "character": "SISKO",
+          "line": "If he asks for it."
+        }
+      ],
+      "location": "Ops"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "O'BRIEN",
+          "line": "All right. I have a way out for you."
+        },
+        {
+          "character": "TOSK",
+          "line": "A way out? Of here?"
+        },
+        {
+          "character": "O'BRIEN",
+          "line": "Request asylum."
+        },
+        {
+          "character": "TOSK",
+          "line": "Asylum?"
+        },
+        {
+          "character": "O'BRIEN",
+          "line": "You ask for the protection of the Federation. You understand? My Commander is willing to protect you."
+        },
+        {
+          "character": "TOSK",
+          "line": "O'Brien, I am Tosk. I cannot hide here behind the protection of your Federation. It is against everything I believe."
+        },
+        {
+          "character": "O'BRIEN",
+          "line": "You'd rather go back and live in a cage on public display?"
+        },
+        {
+          "character": "TOSK",
+          "line": "To stay would be a greater dishonor. I am Tosk, the hunted. I live to outwit the hunters for another day. To survive until I die with honor. But that will not be my fate. But I will not deny my existence as Tosk. Thank you, O'Brien, but I cannot request asylum."
+        }
+      ],
+      "location": "Holding area"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "QUARK",
+          "line": "So far, I'm not impressed with the tourist trade from the Gamma Quadrant. Not one of them has bought a single drink."
+        },
+        {
+          "character": "O'BRIEN",
+          "line": "Shut up, Quark."
+        },
+        {
+          "character": "QUARK",
+          "line": "More trouble with the little woman?"
+        },
+        {
+          "character": "O'BRIEN",
+          "line": "What's that supposed to mean?"
+        },
+        {
+          "character": "QUARK",
+          "line": "Nothing. Nothing. I just thought you might want to talk."
+        },
+        {
+          "character": "O'BRIEN",
+          "line": "There is nothing wrong between my wife and I. If there were, I sure as hell wouldn't want to talk to some barkeep about it."
+        },
+        {
+          "character": "QUARK",
+          "line": "Sorry. My mistake."
+        },
+        {
+          "character": "O'BRIEN",
+          "line": "What?"
+        },
+        {
+          "character": "QUARK",
+          "line": "Your face gets very pink when it gets aggravated. Much more so than most other humans."
+        },
+        {
+          "character": "O'BRIEN",
+          "line": "So stop aggravating me."
+        },
+        {
+          "character": "QUARK",
+          "line": "Not me. You came in the door this way."
+        },
+        {
+          "character": "O'BRIEN",
+          "line": "Fine. You're right. I'm aggravated."
+        },
+        {
+          "character": "QUARK",
+          "line": "I am a keen observer of behavior. You want to talk about it?"
+        },
+        {
+          "character": "O'BRIEN",
+          "line": "No."
+        },
+        {
+          "character": "QUARK",
+          "line": "Why not?"
+        },
+        {
+          "character": "O'BRIEN",
+          "line": "Because it wouldn't do any good talking to you."
+        },
+        {
+          "character": "QUARK",
+          "line": "Try me."
+        },
+        {
+          "character": "O'BRIEN",
+          "line": "Forget it. It's just the rules of the game."
+        },
+        {
+          "character": "QUARK",
+          "line": "Ah-ha. Rules of the game. Go on."
+        },
+        {
+          "character": "O'BRIEN",
+          "line": "It's a hunt, did you know that? They're chasing Tosk in a hunt. Everybody's playing by the rules. They're playing by their rules, we're playing by ours and he's caught in the middle. Of course, I suppose if the Ferengi don't like the rules, they just change them."
+        },
+        {
+          "character": "QUARK",
+          "line": "Well, rules, rules are always subject to interpretation."
+        },
+        {
+          "character": "O'BRIEN",
+          "line": "Of course! Change the rules. Why didn't I think of that? Thanks, barkeep."
+        },
+        {
+          "character": "QUARK",
+          "line": "So, what's bothering you today?"
+        }
+      ],
+      "location": "Quark's"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "O'BRIEN",
+          "line": "Computer, access the power grid to security check point four on the Promenade."
+        }
+      ],
+      "location": "Ops"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "ODO",
+          "line": "That isn't necessary."
+        },
+        {
+          "character": "HUNTER",
+          "line": "Our ritual requires it when a Tosk is captured alive."
+        },
+        {
+          "character": "ODO",
+          "line": "All right, let's go."
+        },
+        {
+          "character": "O'BRIEN",
+          "line": "I'll escort the prisoner to the transporter station."
+        },
+        {
+          "character": "ODO",
+          "line": "This is a security matter"
+        },
+        {
+          "character": "O'BRIEN",
+          "line": "This is a Starfleet matter. Orders from Sisko."
+        },
+        {
+          "character": "ODO",
+          "line": "We'll see about that."
+        },
+        {
+          "character": "HUNTER",
+          "line": "Do not trouble yourself. My ship will transport us."
+        },
+        {
+          "character": "O'BRIEN",
+          "line": "No, sir, that won't be necessary. Good relations with other cultures is our highest priority. Commander Sisko wants to make sure you understand we're sorry we interfered with your hunt. The least we can do is give you an official escort off the station. It's a token of goodwill and respect in our society."
+        },
+        {
+          "character": "HUNTER",
+          "line": "Very well."
+        }
+      ],
+      "location": "Holding area"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "ODO",
+          "line": "Starfleet has no business taking charge of a prisoner transport."
+        },
+        {
+          "character": "SISKO",
+          "line": "Calm down, Constable. What are you talking about?"
+        },
+        {
+          "character": "ODO",
+          "line": "I'm talking about you ordering O'Brien to escort Tosk off the station."
+        },
+        {
+          "character": "SISKO",
+          "line": "I didn't give him any orders at all. Sisko to O'Brien."
+        }
+      ],
+      "location": "Commander's office"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "SISKO",
+          "line": "Mister O'Brien, report to Ops immediately.",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "Security office"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "O'BRIEN",
+          "line": "This way."
+        },
+        {
+          "character": "O'BRIEN",
+          "line": "Glass jaw. Now I know why you wear a helmet. Up here."
+        },
+        {
+          "character": "HUNTER",
+          "line": "The hunt has resumed."
+        }
+      ],
+      "location": "Promenade"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "O'BRIEN",
+          "line": "Come on. Your ship's ready."
+        }
+      ],
+      "location": "Promenade - upper level"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "KIRA",
+          "line": "Security reports a fight in the Promenade. Here. Apparently O'Brien set him loose."
+        },
+        {
+          "character": "DAX",
+          "line": "I'm showing someone in an access conduit above Quark's. Two lifeforms. One's human. They're heading out toward the docking ring."
+        },
+        {
+          "character": "ODO",
+          "line": "I'll seal off the adjoining corridors. They won't get far."
+        },
+        {
+          "character": "SISKO",
+          "line": "Constable. There's no hurry."
+        }
+      ],
+      "location": "Ops"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "O'BRIEN",
+          "line": "Here."
+        },
+        {
+          "character": "TOSK",
+          "line": "Now you are Tosk as well, O'Brien."
+        },
+        {
+          "character": "O'BRIEN",
+          "line": "The Cardies made these conduits from two meter thick duranium composite. I've never seen a scanning device that could penetrate it."
+        },
+        {
+          "character": "O'BRIEN",
+          "line": "Until now."
+        }
+      ],
+      "location": "Access tube"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "O'BRIEN",
+          "line": "Come on, Tosk. Round this corner and we're there."
+        },
+        {
+          "character": "HUNTER",
+          "line": "No. He is mine."
+        },
+        {
+          "character": "O'BRIEN",
+          "line": "No."
+        },
+        {
+          "character": "O'BRIEN",
+          "line": "Go on."
+        }
+      ],
+      "location": "Corridor"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "O'BRIEN",
+          "line": "What now?"
+        },
+        {
+          "character": "TOSK",
+          "line": "The hunt goes on. You wish to come?"
+        },
+        {
+          "character": "O'BRIEN",
+          "line": "No. No, I don't think so. One day as a Tosk is enough for me, and I've got a wife and kid that wouldn't fit too well into this lifestyle."
+        },
+        {
+          "character": "TOSK",
+          "line": "Will your Federation punish you for helping me?"
+        },
+        {
+          "character": "O'BRIEN",
+          "line": "Maybe. But if I know my Commander. Hell, those guys wanted a hunt. I just gave them one. Go on. You'd better get out of here while you can."
+        },
+        {
+          "character": "TOSK",
+          "line": "O'Brien. Die with honor, O'Brien."
+        },
+        {
+          "character": "O'BRIEN",
+          "line": "Die with honor, Tosk."
+        }
+      ],
+      "location": "Tosk's ship"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "SISKO",
+          "line": "Just what did happen at that security checkpoint, Chief?"
+        },
+        {
+          "character": "O'BRIEN",
+          "line": "The weapons' sensors must have overloaded on all his various gear, sir."
+        },
+        {
+          "character": "SISKO",
+          "line": "Must have?"
+        },
+        {
+          "character": "O'BRIEN",
+          "line": "Yes, sir. Must have since I increased their output by about two hundred percent."
+        },
+        {
+          "character": "SISKO",
+          "line": "So in effect you assaulted him. Our first contact with a new species."
+        },
+        {
+          "character": "O'BRIEN",
+          "line": "Yes, sir."
+        },
+        {
+          "character": "SISKO",
+          "line": "We've got dozens of top level officials back at Starfleet Command eagerly waiting to hear about our encounter with the first new lifeforms to come through the wormhole. How do you suggest I write up this report?"
+        },
+        {
+          "character": "O'BRIEN",
+          "line": "Well, sir I'm not one to say, but you know, these hunters weren't any happier than we were about having to bring Tosk home. It seems to me in the interests of mutual understanding and future relations"
+        },
+        {
+          "character": "SISKO",
+          "line": "Save it. You ignored your duty to Starfleet. You took off your comm. badge so you could ignore me. You even ignored the Prime Directive by interfering with their damned hunt. Another stunt like this and your wife won't have to complain about the conditions here anymore. Do I make myself clear?"
+        },
+        {
+          "character": "O'BRIEN",
+          "line": "I understand. I was surprised by one thing, sir."
+        },
+        {
+          "character": "SISKO",
+          "line": "What's that?"
+        },
+        {
+          "character": "O'BRIEN",
+          "line": "I knew I couldn't override all the security seals on the station, and I figured once you and the Constable located us, well, it'd be over. We'd find ourselves locked behind some forcefield somewhere."
+        },
+        {
+          "character": "SISKO",
+          "line": "I guess that one got by us."
+        },
+        {
+          "character": "O'BRIEN",
+          "line": "Yes, sir. Thank you, sir."
+        },
+        {
+          "character": "SISKO",
+          "line": "Dismissed."
+        }
+      ],
+      "location": "Commander's office"
+    }
+  ],
+  "schedule": {
+    "episode": 6,
+    "number": 6,
+    "season": 1
+  },
+  "stardate": "Unknown",
+  "title": "Captive Pursuit"
+}

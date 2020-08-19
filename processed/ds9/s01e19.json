@@ -1,0 +1,1727 @@
+{
+  "airdate": 740041200,
+  "scenes": [
+    {
+      "dialogue": [
+        {
+          "character": "KIRA",
+          "line": "We never cared what we did, as long as it annoyed the grown-ups. All inner deflector shield sub-systems are showing equal intensity."
+        },
+        {
+          "character": "DAX",
+          "line": "Power balance levels are reading normal. I was a champion window breaker. On a dark night with a few rocks, I was deadly."
+        },
+        {
+          "character": "KIRA",
+          "line": "Er, which you are you talking about?"
+        },
+        {
+          "character": "DAX",
+          "line": "We're being hailed by an incoming freighter."
+        },
+        {
+          "character": "KIRA",
+          "line": "Open a channel. On screen. Welcome to DS Nine. I'm Major Kira Nerys."
+        },
+        {
+          "character": "CAPTAIN",
+          "line": "This is the Kobheerian freighter Rak-Miunis, requesting permission to dock.",
+          "modifier": "screen"
+        },
+        {
+          "character": "KIRA",
+          "line": "Docking port six is clear for approach."
+        },
+        {
+          "character": "CAPTAIN",
+          "line": "Thank you. We have a passenger on board requiring medical assistance.",
+          "modifier": "screen"
+        },
+        {
+          "character": "SISKO",
+          "line": "Can you tell us what's wrong with your passenger?"
+        },
+        {
+          "character": "CAPTAIN",
+          "line": "He says it's a condition called Kalla-Nohra. It's apparently chronic, but he doesn't have his medication.",
+          "modifier": "screen"
+        },
+        {
+          "character": "SISKO",
+          "line": "Beam him directly to our Infirmary. we'll have our doctor standing by."
+        },
+        {
+          "character": "CAPTAIN",
+          "line": "Thank you, Commander. Rak-Miunis out.",
+          "modifier": "screen"
+        },
+        {
+          "character": "DAX",
+          "line": "Dax to Infirmary."
+        },
+        {
+          "character": "BASHIR",
+          "line": "This is Bashir. Go ahead.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "DAX",
+          "line": "A Kobheerian transport's about to beam a patient to you. He's suffering from something called Kalla-Nohra."
+        },
+        {
+          "character": "BASHIR",
+          "line": "I'm not aware of it. I'll check the computer.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "KIRA",
+          "line": "Commander, I'd like to go down to the Infirmary and meet that patient."
+        },
+        {
+          "character": "SISKO",
+          "line": "Of course. Why?"
+        },
+        {
+          "character": "KIRA",
+          "line": "The only cases of Kalla-Nohra I know of were the result of a mining accident at a Bajoran forced labor camp I helped liberate. The survivors of Gallitep have always been a symbol to us of strength and courage."
+        },
+        {
+          "character": "SISKO",
+          "line": "By all means, Major. Take as much time as you want."
+        }
+      ],
+      "location": "Ops"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "BASHIR",
+          "line": "Ah, Major. I'll be right with you."
+        },
+        {
+          "character": "KIRA",
+          "line": "Kira to Odo."
+        },
+        {
+          "character": "ODO",
+          "line": "Go ahead.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "KIRA",
+          "line": "I'm in the Infirmary. I need security here on the double."
+        },
+        {
+          "character": "ODO",
+          "line": "I'm on my way, Major.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "BASHIR",
+          "line": "What's the matter, Major."
+        },
+        {
+          "character": "KIRA",
+          "line": "Your patient is a criminal."
+        }
+      ],
+      "location": "Infirmary"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "ODO",
+          "line": "Good afternoon. I assume this is the problem?"
+        },
+        {
+          "character": "MARRITZA",
+          "line": "Problem?"
+        },
+        {
+          "character": "KIRA",
+          "line": "Lock him up."
+        },
+        {
+          "character": "MARRITZA",
+          "line": "This is outrageous. On what charge?"
+        },
+        {
+          "character": "BASHIR",
+          "line": "Will someone tell me what's going on? This man needs medical care."
+        },
+        {
+          "character": "KIRA",
+          "line": "Then give it to him in his cell."
+        },
+        {
+          "character": "MARRITZA",
+          "line": "I haven't done anything."
+        },
+        {
+          "character": "ODO",
+          "line": "Then why did you run?"
+        },
+        {
+          "character": "MARRITZA",
+          "line": "I'm trying to get away from this Bajoran fanatic. Look at the hate in her eyes. She'd like to kill me."
+        },
+        {
+          "character": "ODO",
+          "line": "Oh? And why would that be?"
+        },
+        {
+          "character": "MARRITZA",
+          "line": "Well, it's obvious. I'm a Cardassian."
+        },
+        {
+          "character": "KIRA",
+          "line": "He's not just any Cardassian. He's a war criminal."
+        }
+      ],
+      "location": "Promenade"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "SISKO",
+          "line": "You're saying this man, what's his name?"
+        },
+        {
+          "character": "ODO",
+          "line": "Marritza. Aamin Marritza."
+        },
+        {
+          "character": "SISKO",
+          "line": "You're saying Marritza's on the Bajoran's list of Cardassians wanted for war crimes?"
+        },
+        {
+          "character": "ODO",
+          "line": "He's not on any list I've seen, Commander, and I've got them all."
+        },
+        {
+          "character": "KIRA",
+          "line": "I don't care if he's listed or not."
+        },
+        {
+          "character": "SISKO",
+          "line": "Hold on, Major. Marritza's traveling on a Federation ship. He comes here for a medical emergency, and we throw him into a security cell. I, for one, hope he's listed."
+        },
+        {
+          "character": "KIRA",
+          "line": "Commander, I know what I've done isn't exactly policy. It may not even be legal. But it's right."
+        },
+        {
+          "character": "SISKO",
+          "line": "All right, Major, what do we charge him with?"
+        },
+        {
+          "character": "KIRA",
+          "line": "I'm charging him with having contracted Kalla-Nohra."
+        },
+        {
+          "character": "SISKO",
+          "line": "Do you want to explain that to me?"
+        },
+        {
+          "character": "KIRA",
+          "line": "The only way he could have contracted that condition was to have served at the Gallitep labor camp at the time of the mining accident."
+        },
+        {
+          "character": "SISKO",
+          "line": "So that makes him a war criminal, just being there?"
+        },
+        {
+          "character": "KIRA",
+          "line": "Commander, if you'd been there twelve years ago when we liberated that camp, if you'd seen the things I saw. All those Bajoran bodies starved, brutalized. Do you know what Cardassian policy was? Oh, I'm not even talking about the murder. Murder was just the end of the fun for them. First came the humiliation, mothers raped in front of their children, husbands beaten till their wives couldn't recognize them, old people buried alive because they couldn't work anymore."
+        },
+        {
+          "character": "SISKO",
+          "line": "I think I'll have a talk with our guest."
+        },
+        {
+          "character": "KIRA",
+          "line": "I'll come with you."
+        },
+        {
+          "character": "SISKO",
+          "line": "No, Major. It'd be better if I spoke to him alone."
+        }
+      ],
+      "location": "Security office"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "SISKO",
+          "line": "How do you feel?"
+        },
+        {
+          "character": "MARRITZA",
+          "line": "Better, thank you."
+        },
+        {
+          "character": "SISKO",
+          "line": "I'm Benjamin Sisko. I'm in charge of this station."
+        },
+        {
+          "character": "MARRITZA",
+          "line": "Oh, finally, the Federation to the rescue. Are you going to let me out of here?"
+        },
+        {
+          "character": "SISKO",
+          "line": "I hope so. Tell me, how did you contract Kalla-Nohra syndrome?"
+        },
+        {
+          "character": "MARRITZA",
+          "line": "I don't have Kalla-Nohra. I have Pottrik Syndrome."
+        },
+        {
+          "character": "SISKO",
+          "line": "The freighter captain said it was Kalla-Nohra."
+        },
+        {
+          "character": "MARRITZA",
+          "line": "A very similar condition. Take the same medication, as a matter of fact."
+        },
+        {
+          "character": "SISKO",
+          "line": "Then you didn't serve at the Gallitep labor camp?"
+        },
+        {
+          "character": "MARRITZA",
+          "line": "Labor camp? I've never been to Bajor. I was a military file clerk. I now reside on Kora Two, where I boarded the freighter, which, unfortunately for me, came here. Now, Commander, if you have no more questions, I'd like to be on my way."
+        },
+        {
+          "character": "KAINON",
+          "line": "Am I still drunk, or am I in jail with a Cardassian? Odo! You're not keeping me in here with one of those! Odo! Odo!"
+        },
+        {
+          "character": "MARRITZA",
+          "line": "I put myself in your hands, Commander."
+        }
+      ],
+      "location": "Holding cell"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "SISKO",
+          "line": "Let me get this straight. You're saying that Marritza does have Kalla-Nohra?"
+        },
+        {
+          "character": "BASHIR",
+          "line": "There's no doubt about it. He has all the symptoms. And when I ran a lower pulmonary bio-probe, it read positive."
+        },
+        {
+          "character": "SISKO",
+          "line": "And you're sure he doesn't have Pottrik Syndrome."
+        },
+        {
+          "character": "BASHIR",
+          "line": "Yes, absolutely. If he had Pottrik's, the bio-probe would've been negative."
+        },
+        {
+          "character": "SISKO",
+          "line": "Then he was at the Gallitep labor camp."
+        },
+        {
+          "character": "BASHIR",
+          "line": "Definitely. I've cross-checked all Bajoran and Federation medical records, and there's simply no other way he could've gotten this condition."
+        },
+        {
+          "character": "KIRA",
+          "line": "Kira to Sisko.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "SISKO",
+          "line": "Yes, Major."
+        },
+        {
+          "character": "KIRA",
+          "line": "Commander, there's an incoming transmission for you from Bajor. It's the Minister of State.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "SISKO",
+          "line": "Thank you. If you'll excuse me, Doctor."
+        },
+        {
+          "character": "SISKO",
+          "line": "Minister Kaval. Good day, Sir."
+        },
+        {
+          "character": "KAVAL",
+          "line": "And to you, Commander. I trust you're in good health. Things are going well on the station?",
+          "modifier": "screen"
+        },
+        {
+          "character": "SISKO",
+          "line": "Quite well, thank you."
+        },
+        {
+          "character": "KAVAL",
+          "line": "That's wonderful. I'm told you've performed a special service for Bajor today. Congratulations to you.",
+          "modifier": "screen"
+        },
+        {
+          "character": "SISKO",
+          "line": "I don't quite follow."
+        },
+        {
+          "character": "KAVAL",
+          "line": "You're not holding a certain Cardassian for us?",
+          "modifier": "screen"
+        },
+        {
+          "character": "SISKO",
+          "line": "We are holding a Cardassian, temporarily."
+        },
+        {
+          "character": "KAVAL",
+          "line": "By temporarily, you mean until you're satisfied that a verified identification has been made.",
+          "modifier": "screen"
+        },
+        {
+          "character": "SISKO",
+          "line": "Minister, I'm not sure we have the grounds to hold him that long."
+        },
+        {
+          "character": "KAVAL",
+          "line": "I fully understand your concerns, Commander, but since our Major Kira's accepted responsibility in this matter, the burden is off your shoulders.",
+          "modifier": "screen"
+        },
+        {
+          "character": "SISKO",
+          "line": "I don't agree."
+        },
+        {
+          "character": "KAVAL",
+          "line": "Commander, if this Marritza was at Gallitep, we want him, and we will have him. Is that clear?",
+          "modifier": "screen"
+        },
+        {
+          "character": "SISKO",
+          "line": "It is."
+        },
+        {
+          "character": "KAVAL",
+          "line": "Good. We'll chat again soon. Good day, Commander.",
+          "modifier": "screen"
+        }
+      ],
+      "location": "Commander's office"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "SISKO",
+          "line": "May I join you?"
+        },
+        {
+          "character": "KIRA",
+          "line": "Actually, I was just about to pay a visit to our friend Marritza."
+        },
+        {
+          "character": "SISKO",
+          "line": "That's what I wanted to talk to you about, Major. I'd like Odo to handle this investigation."
+        },
+        {
+          "character": "KIRA",
+          "line": "Why?"
+        },
+        {
+          "character": "SISKO",
+          "line": "He's our Chief of Security."
+        },
+        {
+          "character": "KIRA",
+          "line": "Minister Kaval put me in charge."
+        },
+        {
+          "character": "SISKO",
+          "line": "Minister Kaval doesn't run this station."
+        },
+        {
+          "character": "KIRA",
+          "line": "And the Federation has no right telling us how to deal with our criminals."
+        },
+        {
+          "character": "SISKO",
+          "line": "If it turns out that he is a criminal, then he'll be yours and you're welcome to him. Until then, he's just a traveler under suspicion."
+        },
+        {
+          "character": "KIRA",
+          "line": "You think this is all some personal vendetta on my part, don't you?"
+        },
+        {
+          "character": "SISKO",
+          "line": "I think you're too close to be objective, yes."
+        },
+        {
+          "character": "KIRA",
+          "line": "You're right, I'm not objective. But I'm your first officer, and I give you my word I will conduct myself accordingly. You once said we were friends. I'm asking you now as a friend, please, let me conduct this investigation. I owe it to them."
+        },
+        {
+          "character": "SISKO",
+          "line": "You mean the victims."
+        },
+        {
+          "character": "KIRA",
+          "line": "That's right. The ones who moved too slowly and never moved again. I'm asking for all the Bajorans who can't ask. Let a Bajoran do this."
+        },
+        {
+          "character": "SISKO",
+          "line": "Sisko to Odo."
+        },
+        {
+          "character": "ODO",
+          "line": "Go ahead.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "SISKO",
+          "line": "Constable, Major Kira will be in charge of the Marritza investigation."
+        },
+        {
+          "character": "ODO",
+          "line": "I understand.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "KIRA",
+          "line": "Thank you."
+        }
+      ],
+      "location": "Replimat"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "KIRA",
+          "line": "Constable."
+        },
+        {
+          "character": "KAINON",
+          "line": "It's about time you let me out."
+        },
+        {
+          "character": "ODO",
+          "line": "Try to stay out of trouble for a day or two, will you?"
+        },
+        {
+          "character": "KAINON",
+          "line": "I'll do my best. Oh, and Odo let me know when you hang the Cardassian."
+        },
+        {
+          "character": "ODO",
+          "line": "I've begun a background check on Marritza. So far he is what he says he is. He boarded that Kobheerian freighter at Kora Two, where he's worked as an instructor at a military academy for the past five years."
+        },
+        {
+          "character": "KIRA",
+          "line": "Keep looking."
+        },
+        {
+          "character": "ODO",
+          "line": "Don't worry, Major, I intend to."
+        },
+        {
+          "character": "KIRA",
+          "line": "I'll be with the prisoner if you need me."
+        }
+      ],
+      "location": "Security office"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "MARRITZA",
+          "line": "My compliments on your replicators, Major, But this sem'hal stew could use a little yamok sauce."
+        },
+        {
+          "character": "KIRA",
+          "line": "I'm glad you're enjoying it."
+        },
+        {
+          "character": "MARRITZA",
+          "line": "I doubt that, Major. I doubt it very much."
+        },
+        {
+          "character": "KIRA",
+          "line": "I hope it won't disturb your dinner if I ask you a few questions."
+        },
+        {
+          "character": "MARRITZA",
+          "line": "And if I refuse to answer?"
+        },
+        {
+          "character": "KIRA",
+          "line": "I'll ask them anyway."
+        },
+        {
+          "character": "MARRITZA",
+          "line": "Of course."
+        },
+        {
+          "character": "KIRA",
+          "line": "This is my job."
+        },
+        {
+          "character": "MARRITZA",
+          "line": "Persecuting Cardassian goes far beyond your job, Major, it's your passion."
+        },
+        {
+          "character": "KIRA",
+          "line": "You claim you were never at Gallitep."
+        },
+        {
+          "character": "MARRITZA",
+          "line": "I missed that honor."
+        },
+        {
+          "character": "KIRA",
+          "line": "And that your illness is not Kalla-Nohra."
+        },
+        {
+          "character": "MARRITZA",
+          "line": "Again, true."
+        },
+        {
+          "character": "KIRA",
+          "line": "Again false. Our doctor confirmed you do have Kalla-Nohra, which means you were at Gallitep. If your lies are going to be this transparent, it's going to be a very short interrogation."
+        },
+        {
+          "character": "MARRITZA",
+          "line": "In that case, I'll try to make my lies more opaque."
+        },
+        {
+          "character": "KIRA",
+          "line": "What was your rank at Gallitep? What were your duties?"
+        },
+        {
+          "character": "MARRITZA",
+          "line": "You don't want to know."
+        },
+        {
+          "character": "KIRA",
+          "line": "Just answer the question."
+        },
+        {
+          "character": "MARRITZA",
+          "line": "You'll be disappointed."
+        },
+        {
+          "character": "KIRA",
+          "line": "I'll risk it."
+        },
+        {
+          "character": "MARRITZA",
+          "line": "I had the distinction of serving in the exalted position of filing clerk."
+        },
+        {
+          "character": "KIRA",
+          "line": "Filing clerk?"
+        },
+        {
+          "character": "MARRITZA",
+          "line": "I told you you'd be disappointed. Actually, I would have preferred to avoid military service altogether, but I had the good fortune to be posted to the records office at Gallitep, and I turned out to be an exemplary file clerk. In fourteen units of service, I never misplaced or lost a record. I received numerous commendations. Gul Darhe'el himself called my computer filing system a masterpiece of meticulous exactitude. Well, there you are. My secret's out. My crimes laid bare. I await execution."
+        },
+        {
+          "character": "KIRA",
+          "line": "I hope we don't keep you waiting long. I never heard of a filing clerk becoming an instructor at a military academy."
+        },
+        {
+          "character": "MARRITZA",
+          "line": "Until now."
+        },
+        {
+          "character": "KIRA",
+          "line": "And what did you teach?"
+        },
+        {
+          "character": "MARRITZA",
+          "line": "Believe it or not, filing."
+        },
+        {
+          "character": "KIRA",
+          "line": "I can verify that."
+        },
+        {
+          "character": "MARRITZA",
+          "line": "Be my guest."
+        },
+        {
+          "character": "KIRA",
+          "line": "I still think you're a liar."
+        },
+        {
+          "character": "MARRITZA",
+          "line": "So much for our search for the truth. Now we trade insults."
+        },
+        {
+          "character": "KIRA",
+          "line": "You admit you worked under Gul Darhe'el."
+        },
+        {
+          "character": "MARRITZA",
+          "line": "We all did."
+        },
+        {
+          "character": "KIRA",
+          "line": "I take it then you witnessed the atrocities."
+        },
+        {
+          "character": "MARRITZA",
+          "line": "Atrocities? What atrocities? Oh, I do vaguely recall hearing a scream from time to time. Atrocities? No."
+        },
+        {
+          "character": "KIRA",
+          "line": "You expect me to believe you knew nothing of the murders, the tortures? You never saw the bodies?"
+        },
+        {
+          "character": "MARRITZA",
+          "line": "Of course I saw bodies. People died all the time at Gallitep. Mining accidents, illnesses, feuds among the workers."
+        },
+        {
+          "character": "KIRA",
+          "line": "You're saying Bajorans killed each other?"
+        },
+        {
+          "character": "MARRITZA",
+          "line": "At times. Over food, a blanket, a woman. The conditions were harsh. It was a labor camp, Major."
+        },
+        {
+          "character": "KIRA",
+          "line": "I helped liberate that camp. I saw the bodies. I know how they died."
+        },
+        {
+          "character": "MARRITZA",
+          "line": "You saw what we wanted you to see. Who do you think started the rumors about brutality at Gallitep? It was Gul Darhe'el himself. Now there was a leader. Brilliant, extraordinary man. He knew that to rule by fear was to rule completely. Why bother with actual mass murders, when the mere reports of such incidents had the same effect."
+        },
+        {
+          "character": "KIRA",
+          "line": "Which was?"
+        },
+        {
+          "character": "MARRITZA",
+          "line": "You know as well as I do, Major. To keep you Bajorans thinking of yourselves as victims. To keep you afraid and helpless."
+        },
+        {
+          "character": "KIRA",
+          "line": "Turned out we weren't so helpless. We did get rid of you."
+        },
+        {
+          "character": "MARRITZA",
+          "line": "Leaving was a political decision, Major. I've enjoyed reminiscing with you. Now I think it's time you let me out of here."
+        },
+        {
+          "character": "KIRA",
+          "line": "I can't do that."
+        },
+        {
+          "character": "MARRITZA",
+          "line": "Oh, no, no, no, no, of course not. No, you see you're the one who's lying now, Major. it's not the truth you're interested in. All you want is vengeance."
+        }
+      ],
+      "location": "Holding cell"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "DUKAT",
+          "line": "Commander, I was led to believe the Federation guarantees the safe and unrestricted passage of all travelers visiting your station.",
+          "modifier": "screen"
+        },
+        {
+          "character": "SISKO",
+          "line": "That's correct."
+        },
+        {
+          "character": "DUKAT",
+          "line": "Then how do you explain the detention of a Cardassian citizen?",
+          "modifier": "screen"
+        },
+        {
+          "character": "SISKO",
+          "line": "Marritza came here seeking medical attention. Right now, he's under our doctor's care. All we're trying to do is to verify his identity. A simple matter, if you'll give us some assistance."
+        },
+        {
+          "character": "DUKAT",
+          "line": "I assure you, Commander, you don't require our assistance. If this patient says his name is Marritza, then that's who he is. I hope you're not suggesting you don't trust him simply because he's Cardassian.",
+          "modifier": "screen"
+        },
+        {
+          "character": "SISKO",
+          "line": "I don't trust him because he's already lied about being at Gallitep."
+        },
+        {
+          "character": "DUKAT",
+          "line": "Is that what you're charging him with, Commander? Lying?",
+          "modifier": "screen"
+        },
+        {
+          "character": "SISKO",
+          "line": "So far, we haven't charged him with anything."
+        },
+        {
+          "character": "DUKAT",
+          "line": "Then let him go.",
+          "modifier": "screen"
+        },
+        {
+          "character": "SISKO",
+          "line": "I'd like nothing better. But first I need to know who it is I'm letting go."
+        },
+        {
+          "character": "DUKAT",
+          "line": "I do appreciate the awkwardness of your position here, Commander. This Bajoran obsession with alleged Cardassian improprieties during the occupation is really quite distasteful.",
+          "modifier": "screen"
+        },
+        {
+          "character": "SISKO",
+          "line": "I suppose if you're a Bajoran, so was the occupation."
+        },
+        {
+          "character": "DUKAT",
+          "line": "I might remind you that neither one of us is Bajoran, and I would hate their bitterness to cause conflict between Cardassia and the Federation.",
+          "modifier": "screen"
+        },
+        {
+          "character": "SISKO",
+          "line": "I hope to avoid that too, with your help."
+        },
+        {
+          "character": "DUKAT",
+          "line": "You don't need my help to safeguard one Cardassian on your own station. If any of these Bajoran hate-mongers get their hands on him, I'll holding you personally responsible.",
+          "modifier": "screen"
+        }
+      ],
+      "location": "Commander's office"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "DAX",
+          "line": "What are you looking for?"
+        },
+        {
+          "character": "KIRA",
+          "line": "Answers."
+        },
+        {
+          "character": "DAX",
+          "line": "Found any yet?"
+        },
+        {
+          "character": "KIRA",
+          "line": "Marritza says I don't care about the truth. That all I want is vengeance."
+        },
+        {
+          "character": "DAX",
+          "line": "Are you worried that maybe he's right?"
+        },
+        {
+          "character": "KIRA",
+          "line": "All I want is to see him punished."
+        },
+        {
+          "character": "DAX",
+          "line": "Even if he is just a file clerk?"
+        },
+        {
+          "character": "KIRA",
+          "line": "That's just it. I don't want him to be a file clerk. I want him to be, I don't know, something worse."
+        },
+        {
+          "character": "DAX",
+          "line": "You want him to be guilty."
+        },
+        {
+          "character": "KIRA",
+          "line": "As far as I'm concerned, if he was at Gallitep, he is guilty. They're all guilty. His punishment will let Bajor feel some satisfaction."
+        },
+        {
+          "character": "DAX",
+          "line": "It sounds like you're trying too hard to believe what you're saying. You already know if you punish him without reason, it won't mean anything. And you already know vengeance isn't enough."
+        }
+      ],
+      "location": "Promenade - upper level"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "O'BRIEN",
+          "line": "Re-route the signal enhancement module to the main sensor array."
+        },
+        {
+          "character": "NEELA",
+          "line": "Aye, sir."
+        },
+        {
+          "character": "O'BRIEN",
+          "line": "How's it look?"
+        },
+        {
+          "character": "NEELA",
+          "line": "Just give me a second. I'll run a diagnostic."
+        },
+        {
+          "character": "ODO",
+          "line": "I've checked with the Bajoran archives, and they do have a Marritza on record as being a filing clerk at Gallitep. I also checked with the military academy on Kora Two. Marritza has been teaching filing there just as he claims."
+        },
+        {
+          "character": "O'BRIEN",
+          "line": "All set, Commander."
+        },
+        {
+          "character": "SISKO",
+          "line": "Major, how many images were sent from the Bajoran archives?"
+        },
+        {
+          "character": "KIRA",
+          "line": "Only one. It's the only picture they could find of Gallitep that had Marritza in it. The Cardassians destroyed almost all records of the occupation."
+        },
+        {
+          "character": "O'BRIEN",
+          "line": "The image enhancement and transformation functions are patched directly into your console."
+        },
+        {
+          "character": "SISKO",
+          "line": "Major, what if this image confirms that Marritza was a filing clerk? What do you expect us to do, then?"
+        },
+        {
+          "character": "KIRA",
+          "line": "I suppose you'll let him go."
+        },
+        {
+          "character": "SISKO",
+          "line": "I'm glad we understand each other."
+        },
+        {
+          "character": "DAX",
+          "line": "I've got it."
+        },
+        {
+          "character": "SISKO",
+          "line": "On screen."
+        },
+        {
+          "character": "SISKO",
+          "line": "Which one is Marritza?"
+        },
+        {
+          "character": "DAX",
+          "line": "Let's see. According to the caption, he's the one in the background on the far right."
+        },
+        {
+          "character": "SISKO",
+          "line": "Isolate and magnify."
+        },
+        {
+          "character": "SISKO",
+          "line": "We're going to have to do better than that."
+        },
+        {
+          "character": "DAX",
+          "line": "Give me a minute. I'm running an image enhancement sequence."
+        },
+        {
+          "character": "KIRA",
+          "line": "It's not him."
+        },
+        {
+          "character": "SISKO",
+          "line": "Are you sure we're looking at the right man?"
+        },
+        {
+          "character": "DAX",
+          "line": "Background, far right, Aamin Marritza."
+        },
+        {
+          "character": "KIRA",
+          "line": "It can't be."
+        },
+        {
+          "character": "SISKO",
+          "line": "If that's Marritza, then who are we holding? Lieutenant, isolate the Cardassians in the foreground. The one in profile on the left. What can you give us?"
+        },
+        {
+          "character": "KIRA",
+          "line": "That's him. That's Marritza."
+        },
+        {
+          "character": "DAX",
+          "line": "Not according to the caption."
+        },
+        {
+          "character": "KIRA",
+          "line": "What do you mean?"
+        },
+        {
+          "character": "DAX",
+          "line": "According to this, it's Gul Darhe'el."
+        }
+      ],
+      "location": "Ops"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "MARRITZA",
+          "line": "Let me guess. You've come back to learn the secret of my filing system."
+        },
+        {
+          "character": "KIRA",
+          "line": "I know all your secrets now."
+        },
+        {
+          "character": "MARRITZA",
+          "line": "Is that so."
+        },
+        {
+          "character": "KIRA",
+          "line": "What did you do? Did you kill the real Marritza so you could take his place? Well, you'll pay for that death and all the others you're responsible for."
+        },
+        {
+          "character": "MARRITZA",
+          "line": "I don't think I could pay for all of them, Major. There were so many, and you can only execute me once."
+        },
+        {
+          "character": "KIRA",
+          "line": "That's my only regret. But I'll settle for knowing that Bajor will finally have the satisfaction of punishing The Butcher of Gallitep."
+        },
+        {
+          "character": "MARRITZA",
+          "line": "Tell me, Major, did you figure it all out by yourself, or did you have help from your Federation masters?"
+        },
+        {
+          "character": "KIRA",
+          "line": "I'll let you wonder about that. It'll keep you occupied while we're waiting for the provisional government to prepare your war crimes tribunal."
+        },
+        {
+          "character": "MARRITZA",
+          "line": "War crimes? How could there be war crimes when there hasn't been a war? Oh, I can understand your wish there had been a war. Your need to indulge some pathetic fantasy of brave Bajoran soldiers marching to honorable defeat. But in fact, Major, you and I know there was no war, no glory. Bajor didn't resist, it surrendered."
+        },
+        {
+          "character": "KIRA",
+          "line": "The Bajorans were a peaceful people before you came. We offered no threat to you. We could never understand why you had to be so brutal."
+        },
+        {
+          "character": "MARRITZA",
+          "line": "Well, we can't have that, Major, I want no more secrets between us. Anything you don't understand, I'll explain to you."
+        },
+        {
+          "character": "KIRA",
+          "line": "Thank you, but I think I've heard enough of your lies."
+        },
+        {
+          "character": "MARRITZA",
+          "line": "What lies? You mean my failure to divulge my true identity? Believe me, Major, I yearned to tell you but I knew how much more satisfaction you would have if find out for yourself. And that was my only deception. Marritza was a magnificent file clerk. And I, Gul Darhe'el, I hope you'll not think it immodest of me to say so, but I was a magnificent leader. You never saw Gallitep at its height. For a labor camp, it was the very model of order and efficiency. And why? For that, you have to look to the top. To me! My word, my every glance, was law and the verdict was always the same, guilty."
+        },
+        {
+          "character": "KIRA",
+          "line": "You're insane."
+        },
+        {
+          "character": "MARRITZA",
+          "line": "Oh, no, no, Major. You can't dismiss me that easily. I did what had to be done. My men understood that, and that's why they loved me. I would order them to go out and kill Bajoran scum, and they'd do it. They'd murder them and they'd come back covered in blood, but they felt clean. Now why did they feel that way, Major? Because they were clean."
+        },
+        {
+          "character": "KIRA",
+          "line": "You admit your atrocities."
+        },
+        {
+          "character": "MARRITZA",
+          "line": "I admit everything. Why not? I was the best at what I did. My accomplishments speak for themselves. Can you say the same? You and that little Shakaar resistance cell that you belonged to. All you did was annoy Cardassians, while I was out exterminating Bajorans."
+        },
+        {
+          "character": "KIRA",
+          "line": "Make sure you tell that to the tribunal."
+        },
+        {
+          "character": "MARRITZA",
+          "line": "Oh, I will."
+        },
+        {
+          "character": "KIRA",
+          "line": "Then they'll sentence you to death."
+        },
+        {
+          "character": "MARRITZA",
+          "line": "Let them. Don't you see? It doesn't change anything. Kill me, torture me, it doesn't matter. You've already lost, Major. You can never undo what I've accomplished. The dead will still be dead. What will you do now, Major? Withhold my medicine?"
+        }
+      ],
+      "location": "Holding cell"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "ODO",
+          "line": "Here, this will help."
+        },
+        {
+          "character": "KIRA",
+          "line": "What is it?"
+        },
+        {
+          "character": "ODO",
+          "line": "Maraltian seev-ale from Quark's private stock. Better?"
+        },
+        {
+          "character": "KIRA",
+          "line": "You know, Odo, I wonder how many others like Darhe'el are still out there, still free, unpunished."
+        },
+        {
+          "character": "ODO",
+          "line": "Quite a few, no doubt. But thanks to you, there's one less out there now."
+        },
+        {
+          "character": "KIRA",
+          "line": "You should've heard him. He bragged about what happened at Gallitep. The torture, the murders, the humiliation. He's proud of about what he did to us."
+        },
+        {
+          "character": "ODO",
+          "line": "Why don't you go to your quarters, and lie down for a while. We'll leave him alone with his Cardassian pride."
+        },
+        {
+          "character": "KIRA",
+          "line": "I don't want to lie down. That's what he'd like. Another Bajoran hiding in a corner. He's probably in there laughing at me right now."
+        },
+        {
+          "character": "ODO",
+          "line": "He won't be laughing very long."
+        },
+        {
+          "character": "KIRA",
+          "line": "I hate him, Odo. I hate his smirking, superior Cardassian face. When I was fighting with the resistance, we used to lie awake at night plotting the assassination of men like Darhe'el. Now I have to stand there and listen to him belittle the Shakaar and everything it stood for."
+        },
+        {
+          "character": "ODO",
+          "line": "Perhaps you should avoid diskussing your personal history with a creature like that."
+        },
+        {
+          "character": "KIRA",
+          "line": "I didn't."
+        },
+        {
+          "character": "ODO",
+          "line": "Then how did he know you were with the Shakaar?"
+        },
+        {
+          "character": "KIRA",
+          "line": "I don't know, he was an important military leader."
+        },
+        {
+          "character": "ODO",
+          "line": "That doesn't explain it. If he'd been in charge of quelling Bajoran resistance, then he might have had your name on file. But he commanded a forced labor camp. Something's not right here. Where are you going?"
+        },
+        {
+          "character": "KIRA",
+          "line": "To have another little chat with Gul Darhe'el."
+        },
+        {
+          "character": "ODO",
+          "line": "Computer. Review all off-station requests for information regarding Major Kira Nerys within the last eight months."
+        },
+        {
+          "character": "COMPUTER",
+          "line": "Working."
+        }
+      ],
+      "location": "Security office"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "MARRITZA",
+          "line": "Oh, back to see the Butcher. Am I really so fascinating?"
+        },
+        {
+          "character": "KIRA",
+          "line": "How did you know I was with the Shakaar?"
+        },
+        {
+          "character": "MARRITZA",
+          "line": "This provisional government of yours certainly moves slowly. They should've dragged me away in chains by now."
+        },
+        {
+          "character": "KIRA",
+          "line": "Just answer the question."
+        },
+        {
+          "character": "MARRITZA",
+          "line": "My, my, you are a strutting little egotist. You forget the brilliance of Marritza's filing system. He made sure that I was provided with information on all your little terrorist bands. What I particularly enjoyed were the termination reports. Yes, life in a forced labor camp can be so isolating. At times I felt that I alone bore the burden of cleansing Bajor of its rabble, but those reports reassured me I was not alone."
+        },
+        {
+          "character": "KIRA",
+          "line": "And I'm supposed to believe you remembered my name from some report you read years ago?"
+        },
+        {
+          "character": "MARRITZA",
+          "line": "At the risk of bruising your vanity even further, Major, I didn't remember you at all until I heard your name here. I can see that disturbs you."
+        },
+        {
+          "character": "KIRA",
+          "line": "Hardly."
+        },
+        {
+          "character": "MARRITZA",
+          "line": "You know, Major, they will be coming for me soon, so before we say goodbye, there are a few little questions I should like to ask you."
+        },
+        {
+          "character": "KIRA",
+          "line": "Your questions don't interest me."
+        },
+        {
+          "character": "MARRITZA",
+          "line": "How can you be so sure? Or are you just afraid to hear them?"
+        }
+      ],
+      "location": "Holding cell"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "QUARK",
+          "line": "Who're they?"
+        },
+        {
+          "character": "ODO",
+          "line": "Survivors of Gallitep. They arrived early this morning. I suppose they're waiting for justice."
+        },
+        {
+          "character": "QUARK",
+          "line": "Gallitep. Imagine living through that hellhole. The pain, the sorrow. Do you think they like to gamble?"
+        }
+      ],
+      "location": "Promenade"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "ODO",
+          "line": "Doctor, I need your help."
+        },
+        {
+          "character": "BASHIR",
+          "line": "Of course."
+        },
+        {
+          "character": "ODO",
+          "line": "Three months ago, a request came from Kora Two for information concerning Kira Nerys."
+        },
+        {
+          "character": "BASHIR",
+          "line": "To what purpose?"
+        },
+        {
+          "character": "ODO",
+          "line": "I'm not sure, but the name on the request was Aamin Marritza. I've established a subspace link with Kora Two and I'd like you to access his medical history there."
+        },
+        {
+          "character": "DAX",
+          "line": "Dax to Odo. Gul Dukat is responding to your subspace transmission.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "ODO",
+          "line": "Could you route it to my office."
+        },
+        {
+          "character": "DAX",
+          "line": "Aye, sir.",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "Infirmary"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "DUKAT",
+          "line": "I do miss working with you, Odo. I've miss our games of kalevian montar.",
+          "modifier": "screen"
+        },
+        {
+          "character": "ODO",
+          "line": "As I recall, Gul Dukat, we played one game and you cheated."
+        },
+        {
+          "character": "DUKAT",
+          "line": "The same old Odo. Like a blunt instrument. But no to your question I regret that I cannot give you access to any of the files pertaining to Gul Darhe'el, but I assure you the files would only tell you what I'm telling you. Gul Darhe'el is dead.",
+          "modifier": "screen"
+        },
+        {
+          "character": "ODO",
+          "line": "That's not possible."
+        },
+        {
+          "character": "DUKAT",
+          "line": "I attended his funeral myself. As a matter of fact, he's buried under one of the largest military monuments on Cardassia.",
+          "modifier": "screen"
+        },
+        {
+          "character": "ODO",
+          "line": "Then who are we holding here?"
+        },
+        {
+          "character": "DUKAT",
+          "line": "Some innocent Cardassian citizen, just as I explained to your Commander Sisko. And we want him released.",
+          "modifier": "screen"
+        },
+        {
+          "character": "ODO",
+          "line": "That innocent citizen has admitted he is Gul Darhe'el."
+        },
+        {
+          "character": "DUKAT",
+          "line": "What are you saying?",
+          "modifier": "screen"
+        },
+        {
+          "character": "ODO",
+          "line": "He says his name is Gul Darhe'el."
+        },
+        {
+          "character": "DUKAT",
+          "line": "Then he's lying!",
+          "modifier": "screen"
+        },
+        {
+          "character": "ODO",
+          "line": "Well if he is, it's the most foolish lie he could have invented. It's likely to get him executed. Why would anyone do such a thing?"
+        },
+        {
+          "character": "DUKAT",
+          "line": "I don't know. But I tell you I attended Darhe'el's funeral.",
+          "modifier": "screen"
+        },
+        {
+          "character": "ODO",
+          "line": "You're sure the man you saw buried was Gul Darhe'el?"
+        },
+        {
+          "character": "DUKAT",
+          "line": "Half of Cardassia viewed his body,",
+          "modifier": "screen"
+        },
+        {
+          "character": "ODO",
+          "line": "I saw a photograph of Darhe'el taken at the Gallitep labor camp. It certainly appears to be the man we're holding."
+        },
+        {
+          "character": "DUKAT",
+          "line": "You're mistaken.",
+          "modifier": "screen"
+        },
+        {
+          "character": "ODO",
+          "line": "Am I?"
+        },
+        {
+          "character": "DUKAT",
+          "line": "This is obviously some plot to embarrass the Cardassian Empire.",
+          "modifier": "screen"
+        },
+        {
+          "character": "ODO",
+          "line": "It's possible. Give me access to your files and perhaps I can find some proof to support your claim that Gul Darhe'el is dead."
+        },
+        {
+          "character": "DUKAT",
+          "line": "I suppose I could grant you limited access to the files.",
+          "modifier": "screen"
+        },
+        {
+          "character": "ODO",
+          "line": "I think that's wise."
+        }
+      ],
+      "location": "Security office"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "KIRA",
+          "line": "I was twelve when I started fighting but I've heard of some who were even younger than that."
+        },
+        {
+          "character": "MARRITZA",
+          "line": "Yes, yes, let's get to the real issue. How many Cardassians did you kill? I mean personally."
+        },
+        {
+          "character": "KIRA",
+          "line": "I didn't keep count."
+        },
+        {
+          "character": "MARRITZA",
+          "line": "Oh, I think you did. And I'm sure your total wasn't limited to military personnel. After all, the most effective terrorist weapon was random violence. Don't leave now, Major, it's just getting good. How many Cardassian civilians did you kill?"
+        },
+        {
+          "character": "KIRA",
+          "line": "Look, I regret a lot of what I had to do."
+        },
+        {
+          "character": "MARRITZA",
+          "line": "How convenient of you."
+        },
+        {
+          "character": "KIRA",
+          "line": "We had no choice! We were fighting for survival!"
+        },
+        {
+          "character": "MARRITZA",
+          "line": "So were we! We had an empire to protect. We needed your resources. Everything I did was for the greater glory of Cardassia! And if you spineless scum had to be ground under, so much the better. All that mattered was Cardassia. I loved my homeland. That's what justified my actions, that's what gave me my strength."
+        },
+        {
+          "character": "KIRA",
+          "line": "Nothing justifies genocide."
+        },
+        {
+          "character": "MARRITZA",
+          "line": "What you call genocide, I call a day's work."
+        },
+        {
+          "character": "ODO",
+          "line": "Major? Could I have a word with you?"
+        }
+      ],
+      "location": "Holding cell"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "ODO",
+          "line": "Doctor Bashir and I have done some checking. I don't know why yet, but the man in that cell wanted to be caught."
+        }
+      ],
+      "location": "Security office"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "ODO",
+          "line": "This certificate of death was in the file sent to me by Gul Dukat."
+        },
+        {
+          "character": "SISKO",
+          "line": "According to this, Gul Darhe'el died in his sleep six years ago. Cause of death, massive coleibric hemorrhage."
+        },
+        {
+          "character": "KIRA",
+          "line": "Commander, I guarantee you that's a forged document. I think it's pretty clear what's going on here. The Cardassians are trying trick us into letting him go."
+        },
+        {
+          "character": "SISKO",
+          "line": "I wouldn't put it past our friend Gul Dukat."
+        },
+        {
+          "character": "ODO",
+          "line": "Nor would I. However"
+        },
+        {
+          "character": "KIRA",
+          "line": "The man in there confessed he is Gul Darhe'el."
+        },
+        {
+          "character": "ODO",
+          "line": "Major, the man in there has Kalla-Nohra Syndrome."
+        },
+        {
+          "character": "KIRA",
+          "line": "Of course he does."
+        },
+        {
+          "character": "ODO",
+          "line": "According to the evidence I've been sent, Gul Darhe'el never contracted that condition."
+        },
+        {
+          "character": "KIRA",
+          "line": "More evidence from our trustworthy Gul Dukat."
+        },
+        {
+          "character": "SISKO",
+          "line": "What've you got, Constable?"
+        },
+        {
+          "character": "ODO",
+          "line": "Darhe'el's progress reports from Gallitep show that when the mining accident occurred, he was back on Cardassia being awarded the Proficient Service Medallion."
+        },
+        {
+          "character": "SISKO",
+          "line": "If he wasn't at Gallitep on the day of the accident, then he couldn't have contracted Kalla-Nohra."
+        },
+        {
+          "character": "ODO",
+          "line": "Correct. But the man we're holding does have it."
+        },
+        {
+          "character": "KIRA",
+          "line": "I can't believe I'm listening to this."
+        },
+        {
+          "character": "ODO",
+          "line": "I'm afraid there's more, Major. I inquired about his last two weeks on Kora Two. He resigned his position at the military academy, put all his affairs in order, and even provided handsomely for his housekeeper, I understand"
+        },
+        {
+          "character": "KIRA",
+          "line": "All right, all right. So like any criminals, he wanted to move on before somebody traced his whereabouts."
+        },
+        {
+          "character": "ODO",
+          "line": "He specifically requested passage on a vessel that was scheduled to stop here, at a Bajoran station. A rather unusual request for a Cardassian war criminal."
+        },
+        {
+          "character": "SISKO",
+          "line": "Unless he wanted to be captured."
+        },
+        {
+          "character": "KIRA",
+          "line": "Wait a minute. Let's be clear about one thing. This evidence may raise some interesting questions. Nevertheless, Darhe'el is going to be sent back to Bajor to stand trial for the atrocities he committed."
+        },
+        {
+          "character": "SISKO",
+          "line": "Major, that is still to be determined."
+        },
+        {
+          "character": "KIRA",
+          "line": "Then go talk to him. If you still have any doubts, just listen to what he has to say. He was there. He did it. He'll tell you about it."
+        },
+        {
+          "character": "BASHIR",
+          "line": "Constable, I've checked on Marritza's medical record."
+        },
+        {
+          "character": "SISKO",
+          "line": "What have we got?"
+        },
+        {
+          "character": "BASHIR",
+          "line": "He's been under treatment for Kalla-Nohra Syndrome, of course, and a few other minor ailments, most relating to his age. It's all pretty standard, actually, except for one thing."
+        },
+        {
+          "character": "ODO",
+          "line": "Which is?"
+        },
+        {
+          "character": "BASHIR",
+          "line": "Five years ago, after arriving on Kora Two, he started taking massive doses of a dermatiraelian plastiscine, which is a dermal regenerative agent used to maintain skin resilience after cosmetic alteration."
+        },
+        {
+          "character": "KIRA",
+          "line": "You're saying he changed his face to look like Gul Darhe'el."
+        },
+        {
+          "character": "BASHIR",
+          "line": "It certainly appears that way."
+        }
+      ],
+      "location": "Commander's office"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "KIRA",
+          "line": "How are you feeling?"
+        },
+        {
+          "character": "MARRITZA",
+          "line": "I was starting to get a little bored, but seeing you again brightens my day."
+        },
+        {
+          "character": "KIRA",
+          "line": "I was referring to your Kalla-Nohra Syndrome. Would you like see Doctor Bashir?"
+        },
+        {
+          "character": "MARRITZA",
+          "line": "Oh, so that's it. You want to see me writhe around on the floor in pain. A Cardassian would never put on such a deplorable display in front of a Bajoran. You just don't understand us at all."
+        },
+        {
+          "character": "KIRA",
+          "line": "I'm beginning to understand a great deal about you. One thing does puzzle me."
+        },
+        {
+          "character": "MARRITZA",
+          "line": "And what would that be?"
+        },
+        {
+          "character": "KIRA",
+          "line": "How you contracted Kalla-Nohra syndrome."
+        },
+        {
+          "character": "MARRITZA",
+          "line": "Did you think that the mining accident only affected the Bajoran laborers, and not their Cardassian masters? That would be very nice."
+        },
+        {
+          "character": "KIRA",
+          "line": "So you're saying you were at Gallitep when that mining accident occurred?"
+        },
+        {
+          "character": "MARRITZA",
+          "line": "Of course. Why are we going over this again?"
+        },
+        {
+          "character": "KIRA",
+          "line": "Because your own progress reports shows that you were back on Cardassia at the time of the accident."
+        },
+        {
+          "character": "MARRITZA",
+          "line": "That's ridiculous."
+        },
+        {
+          "character": "KIRA",
+          "line": "Receiving your Proficient Service Medallion."
+        },
+        {
+          "character": "MARRITZA",
+          "line": "The reports are wrong."
+        },
+        {
+          "character": "KIRA",
+          "line": "I can show them to you."
+        },
+        {
+          "character": "MARRITZA",
+          "line": "That won't be necessary. I know where I was."
+        },
+        {
+          "character": "KIRA",
+          "line": "Why were you taking a dermal regenerative?"
+        },
+        {
+          "character": "MARRITZA",
+          "line": "I don't know what you're talking about."
+        },
+        {
+          "character": "KIRA",
+          "line": "Then let me help you. Five years ago when you first got to Kora Two"
+        },
+        {
+          "character": "MARRITZA",
+          "line": "All right, that's enough. Your presence no longer amuses me. Get out."
+        },
+        {
+          "character": "KIRA",
+          "line": "Why did you have your face altered?"
+        },
+        {
+          "character": "MARRITZA",
+          "line": "Security, get this woman out of here!"
+        },
+        {
+          "character": "KIRA",
+          "line": "Why are you pretending to be Gul Darhe'el?"
+        },
+        {
+          "character": "MARRITZA",
+          "line": "Why don't you ask me something intelligent, as for instance how I did I feel when we were withdrawing from Bajor? The answer is, I was furious! The thought of leaving any survivors behind was repulsive to me. So while our useless office clerks were packing their precious files, I ordered my overseers to begin slaughtering the laborers."
+        },
+        {
+          "character": "KIRA",
+          "line": "If you felt that way about your filing clerks, why did you take Marritza's name?"
+        },
+        {
+          "character": "MARRITZA",
+          "line": "My plan was to do nothing less than kill every Bajoran in the camp! And to this day, my one regret is that I was not able to accomplish this honorable goal."
+        },
+        {
+          "character": "KIRA",
+          "line": "You're Marritza, aren't you?"
+        },
+        {
+          "character": "MARRITZA",
+          "line": "You mistake me for that bug? That whimpering nothing? Oh, you stupid Bajoran girl, don't you know who I am? I'm your nemesis, I'm your nightmare. I'm the Butcher of Gallitep."
+        },
+        {
+          "character": "KIRA",
+          "line": "The Butcher of Gallitep died six years ago. You're Aamin Marritza, his filing clerk."
+        },
+        {
+          "character": "MARRITZA",
+          "line": "That's not true. I am alive. I'll always be alive. It's Marritza who's dead. Marritza, who was only good for cowering under his bunk and weeping like a woman. Who, every night, covered his ears because he couldn't bear to hear the screaming for mercy of the Bajorans."
+        },
+        {
+          "character": "MARRITZA",
+          "line": "I covered my ears every night. I couldn't bear to hear those horrible screams. You have no idea what it's like to be a coward, to see these horrors and do nothing. Marritza's dead. He deserves to be dead."
+        },
+        {
+          "character": "MARRITZA",
+          "line": "What are you doing?"
+        },
+        {
+          "character": "KIRA",
+          "line": "I'm letting you go."
+        },
+        {
+          "character": "MARRITZA",
+          "line": "Security? Get in here!"
+        },
+        {
+          "character": "KIRA",
+          "line": "You didn't commit those crimes, and you couldn't stop them. You were only one man."
+        },
+        {
+          "character": "MARRITZA",
+          "line": "No, don't you see? I have to be punished. We all have to be punished. Major, you have to go out and tell them I'm Gul Darhe'el. It's the only way."
+        },
+        {
+          "character": "KIRA",
+          "line": "Why are you doing this?"
+        },
+        {
+          "character": "MARRITZA",
+          "line": "For Cardassia. Cardassia will only survive if it stands in front of Bajor and admits the truth. My trial will force Cardassia to acknowledge its guilt. And we're guilty, all of us. My death is necessary."
+        },
+        {
+          "character": "KIRA",
+          "line": "What you're asking for is another murder. Enough good people have already died. I won't help kill another."
+        }
+      ],
+      "location": "Holding cell"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "KIRA",
+          "line": "You should be back on Kora Two in three days."
+        },
+        {
+          "character": "MARRITZA",
+          "line": "There's nothing for me to go back to."
+        },
+        {
+          "character": "KIRA",
+          "line": "We've contacted officials there. They'll be waiting to help you."
+        },
+        {
+          "character": "MARRITZA",
+          "line": "If they believed that I was Gul Darhe'el, then my trial might have helped bring about a new Cardassia. Now you've told them I was just a file clerk."
+        },
+        {
+          "character": "KIRA",
+          "line": "What you tried to do was very honorable. If Cardassia is going to change, it's going to need people like you."
+        },
+        {
+          "character": "KIRA",
+          "line": "Why? He wasn't Darhe'el! Why?"
+        },
+        {
+          "character": "KAINON",
+          "line": "He's a Cardassian. That's reason enough."
+        },
+        {
+          "character": "KIRA",
+          "line": "No! It's not."
+        }
+      ],
+      "location": "Promenade"
+    }
+  ],
+  "schedule": {
+    "episode": 19,
+    "number": 19,
+    "season": 1
+  },
+  "stardate": "Unknown",
+  "title": "Duet"
+}

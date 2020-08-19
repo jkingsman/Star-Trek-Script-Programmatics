@@ -1,0 +1,2171 @@
+{
+  "airdate": 847094400,
+  "scenes": [
+    {
+      "dialogue": [
+        {
+          "character": "KIRA",
+          "line": "Welcome to Deep Space Nine. I'm Major Kira."
+        },
+        {
+          "character": "DULMUR",
+          "line": "I'm Dulmur."
+        },
+        {
+          "character": "LUCSLY",
+          "line": "Lucsly. Department of Temporal Investigations."
+        },
+        {
+          "character": "KIRA",
+          "line": "We've been expecting you."
+        },
+        {
+          "character": "DAX",
+          "line": "I guess you boys from Temporal Investigations are always on time."
+        },
+        {
+          "character": "DULMUR",
+          "line": "Where's Captain Sisko?"
+        }
+      ],
+      "location": "Ops"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "SISKO",
+          "line": "Are you sure you don't want anything?"
+        },
+        {
+          "character": "DULMUR",
+          "line": "Just the truth, Captain."
+        },
+        {
+          "character": "SISKO",
+          "line": "You'll get it. Where do you want to start?"
+        },
+        {
+          "character": "DULMUR",
+          "line": "The beginning."
+        },
+        {
+          "character": "LUCSLY",
+          "line": "If there is such a thing."
+        },
+        {
+          "character": "DULMUR",
+          "line": "Captain, why did you take the Defiant back in time?"
+        },
+        {
+          "character": "SISKO",
+          "line": "It was an accident."
+        },
+        {
+          "character": "LUCSLY",
+          "line": "So you're not contending it was a predestination paradox?"
+        },
+        {
+          "character": "DULMUR",
+          "line": "A time loop. That you were meant to go back into the past?"
+        },
+        {
+          "character": "SISKO",
+          "line": "Erm, no."
+        },
+        {
+          "character": "DULMUR",
+          "line": "Good."
+        },
+        {
+          "character": "LUCSLY",
+          "line": "We hate those. So, what happened?"
+        },
+        {
+          "character": "SISKO",
+          "line": "This may take some time."
+        },
+        {
+          "character": "DULMUR",
+          "line": "Is that a joke?"
+        },
+        {
+          "character": "SISKO",
+          "line": "No."
+        },
+        {
+          "character": "LUCSLY",
+          "line": "Good."
+        },
+        {
+          "character": "DULMUR",
+          "line": "We hate those too. All right, Captain. Whenever you're ready."
+        },
+        {
+          "character": "SISKO",
+          "line": "Two weeks ago the Cardassian Government contacted me and wanted to return an Orb to the Bajorans."
+        },
+        {
+          "character": "DULMUR",
+          "line": "Orb?"
+        },
+        {
+          "character": "LUCSLY",
+          "line": "They're devices of alien origin that are considered sacred objects by the Bajoran people."
+        },
+        {
+          "character": "SISKO",
+          "line": "Each has a unique property, like the Orb of Prophecy, or the Orb of Wisdom. The one we received from the Cardassians was the Orb of Time, although we didn't know that at first."
+        },
+        {
+          "character": "SISKO",
+          "line": "When the Defiant arrived at Cardassia Prime, we weren't sure if we were dealing with a genuine Orb or one of the fakes that have cropped up over the years.",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "Captain's office"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "SISKO",
+          "line": "I had it secured in one of the crew quarters so we could bring it back to Bajor for authentication. But before we left Cardassia, we took on a passenger.",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "Defiant Corridor"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "WADDLE",
+          "line": "Humans! I never thought I'd see another normal face again."
+        },
+        {
+          "character": "WORF",
+          "line": "This is Mister Waddle."
+        },
+        {
+          "character": "WADDLE",
+          "line": "Barry. Call me Barry."
+        },
+        {
+          "character": "WORF",
+          "line": "We are taking him back to the Federation. He was trapped on Cardassia when the Klingons attacked."
+        },
+        {
+          "character": "WADDLE",
+          "line": "I'm a merchant. I deal in gemstones, kivas and trillium mostly. May I?"
+        },
+        {
+          "character": "O'BRIEN",
+          "line": "Help yourself."
+        },
+        {
+          "character": "WADDLE",
+          "line": "You know what Cardassians drink in the morning? Fish juice. Hot fish juice. Raktajino. After six months, I was hoping the Klingons would invade. At least they know how to make coffee, even if they are foul-smelling barbarians. Sorry."
+        },
+        {
+          "character": "O'BRIEN",
+          "line": "I wouldn't take it personally, Worf."
+        },
+        {
+          "character": "BASHIR",
+          "line": "I rather like the way you smell."
+        },
+        {
+          "character": "O'BRIEN",
+          "line": "Yeah, sort of earthy, peaty aroma."
+        },
+        {
+          "character": "BASHIR",
+          "line": "With a touch of lilac."
+        }
+      ],
+      "location": "Mess hall"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "SISKO",
+          "line": "With the Defiant under cloak we left Cardassian space and managed to avoid being detected by the Klingons. We were halfway home, and I was just starting to breath easy.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "O'BRIEN",
+          "line": "Trust me. Next time you see him, just sniff the air and go 'is that lilac?'"
+        },
+        {
+          "character": "DAX",
+          "line": "Find somebody else. I have my own ways of torturing Worf."
+        },
+        {
+          "character": "SISKO",
+          "line": "Don't look at me."
+        },
+        {
+          "character": "O'BRIEN",
+          "line": "I'm picking up a massive surge in chronoton radiation around"
+        },
+        {
+          "character": "SISKO",
+          "line": "What happened?"
+        },
+        {
+          "character": "DAX",
+          "line": "I don't know, but we've dropped out of warp."
+        },
+        {
+          "character": "O'BRIEN",
+          "line": "Sensors are coming back online."
+        },
+        {
+          "character": "DAX",
+          "line": "Benjamin, something's very wrong. According to the navigational computer we're over two hundred light years from our last position."
+        },
+        {
+          "character": "O'BRIEN",
+          "line": "We're decloaking!"
+        },
+        {
+          "character": "DAX",
+          "line": "Someone's activated the transporter."
+        },
+        {
+          "character": "SISKO",
+          "line": "Deactivate it and get us back under cloak."
+        },
+        {
+          "character": "O'BRIEN",
+          "line": "I'm picking up another ship dead ahead."
+        },
+        {
+          "character": "SISKO",
+          "line": "Can you identify it?"
+        },
+        {
+          "character": "DAX",
+          "line": "Not yet. But it's close. Very close."
+        },
+        {
+          "character": "SISKO",
+          "line": "Chief, I need that viewscreen."
+        },
+        {
+          "character": "O'BRIEN",
+          "line": "I think I've got it. (The static clears to reveal a starship with registration number NCC1701, no **** A B C or D)"
+        },
+        {
+          "character": "DAX",
+          "line": "That's"
+        },
+        {
+          "character": "SISKO",
+          "line": "The Enterprise."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "DULMUR",
+          "line": "Be specific, Captain. Which Enterprise? There've been five."
+        },
+        {
+          "character": "LUCSLY",
+          "line": "Six."
+        },
+        {
+          "character": "SISKO",
+          "line": "This was the first Enterprise. Constitution class."
+        },
+        {
+          "character": "DULMUR",
+          "line": "His ship."
+        },
+        {
+          "character": "LUCSLY",
+          "line": "James T Kirk."
+        },
+        {
+          "character": "SISKO",
+          "line": "The one and only."
+        },
+        {
+          "character": "LUCSLY",
+          "line": "Seventeen separate temporal violations. The biggest file on record."
+        },
+        {
+          "character": "DULMUR",
+          "line": "The man was a menace. What was the date of your arrival?"
+        },
+        {
+          "character": "SISKO",
+          "line": "Stardate 4523.7."
+        },
+        {
+          "character": "DULMUR",
+          "line": "A hundred and five years, one month, and twelve days ago."
+        },
+        {
+          "character": "LUCSLY",
+          "line": "A Friday."
+        },
+        {
+          "character": "DULMUR",
+          "line": "What was the Enterprise doing?"
+        }
+      ],
+      "location": "Captain's office"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "SISKO",
+          "line": "She was orbiting one of the old Deep Space stations. K-seven, near the Klingon border. Security reported that just before we were thrown back in time, someone stunned the deputy who was guarding the orb and broke into the cabin. It didn't take us long to realize who it was.",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "Orb cabin"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "WORF",
+          "line": "His real name is Arne Darvin. He is a Klingon altered to look human."
+        },
+        {
+          "character": "DAX",
+          "line": "His surgeon does nice work."
+        },
+        {
+          "character": "ODO",
+          "line": "We're assuming that he came aboard the Defiant for the express purpose of gaining access to the Orb."
+        },
+        {
+          "character": "O'BRIEN",
+          "line": "Any idea why he brought us back to this point in time?"
+        },
+        {
+          "character": "WORF",
+          "line": "We have a theory. This is Darvin as he appeared during that time period. At this moment he is aboard space station K-seven, posing as a Federation official."
+        },
+        {
+          "character": "BASHIR",
+          "line": "So you're saying he's a spy?"
+        },
+        {
+          "character": "ODO",
+          "line": "The younger Darvin's mission was to derail Federation colonization efforts by poisoning a shipment of grain which was, which is being stored aboard the station. However, eighteen hours from now, James Kirk will expose him and he will be arrested."
+        },
+        {
+          "character": "WORF",
+          "line": "That arrest will end his career. Klingon Intelligence will turn their back on him and he will become an outcast."
+        },
+        {
+          "character": "ODO",
+          "line": "From what we've been able to piece together, he spent the next hundred years eking out a meager living posing as a human merchant. Then in a final indignity, he was trapped in Cardassian space by the Klingon invasion."
+        },
+        {
+          "character": "SISKO",
+          "line": "Ah. Until he heard rumors about an Orb capable of taking him back in time."
+        },
+        {
+          "character": "BASHIR",
+          "line": "So what's he planning to do? Contact his younger self and warn himself about Kirk?"
+        },
+        {
+          "character": "DAX",
+          "line": "He could be planning to kill Kirk."
+        },
+        {
+          "character": "SISKO",
+          "line": "The bottom line is, we have to find Darvin and stop him before he has a chance to alter history. Do we know where he beamed to?"
+        },
+        {
+          "character": "WORF",
+          "line": "No. He wiped the transporter logs when he beamed out."
+        },
+        {
+          "character": "O'BRIEN",
+          "line": "So he could be on the Enterprise or the station."
+        },
+        {
+          "character": "SISKO",
+          "line": "We'll have to search both without arousing suspicion or altering the timeline ourselves. The last thing I want is a visit from Temporal Investigations when we get home."
+        },
+        {
+          "character": "BASHIR",
+          "line": "I suppose we ought to find a way to blend in."
+        }
+      ],
+      "location": "Mess hall"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "BASHIR",
+          "line": "Captain."
+        },
+        {
+          "character": "SISKO",
+          "line": "Lieutenant, actually. I didn't want to push my luck."
+        },
+        {
+          "character": "O'BRIEN",
+          "line": "Looks good on you, sir."
+        },
+        {
+          "character": "SISKO",
+          "line": "Thank you, Ensign."
+        },
+        {
+          "character": "BASHIR",
+          "line": "Wait a minute, aren't you two wearing the wrong color?"
+        },
+        {
+          "character": "O'BRIEN",
+          "line": "Don't you know anything about this period in time?"
+        },
+        {
+          "character": "BASHIR",
+          "line": "I'm a doctor, not an historian."
+        },
+        {
+          "character": "SISKO",
+          "line": "In the old days, operations officers wore red, command officers wore gold."
+        },
+        {
+          "character": "DAX",
+          "line": "And women wore less."
+        },
+        {
+          "character": "BASHIR",
+          "line": "I think I'm going to like history."
+        }
+      ],
+      "location": "Defiant corridor"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "O'BRIEN",
+          "line": "The original Enterprise used an old-style duotronic sensor array. If we wait for just the right point in the scan cycle, we can decloak the Defiant for almost three seconds without being detected."
+        },
+        {
+          "character": "SISKO",
+          "line": "Is that enough time to transport us aboard?"
+        },
+        {
+          "character": "O'BRIEN",
+          "line": "Barely."
+        },
+        {
+          "character": "DAX",
+          "line": "Chief, here are the coordinates. The Captain and I will start on deck four and work our way aft. You and Julian should start on deck twenty one"
+        },
+        {
+          "character": "O'BRIEN",
+          "line": "And work our way forward."
+        },
+        {
+          "character": "SISKO",
+          "line": "What about the station?"
+        },
+        {
+          "character": "WORF",
+          "line": "Little of it is habitable. Most of K seven consists of storage areas and industrial fabrication facilities."
+        },
+        {
+          "character": "ODO",
+          "line": "It shouldn't take long to search. Security isn't as tight as it is on a starship."
+        },
+        {
+          "character": "SISKO",
+          "line": "Remember, try to avoid contact with people of this time period."
+        },
+        {
+          "character": "O'BRIEN",
+          "line": "We're coming up on a bandshift in the scan cycle."
+        },
+        {
+          "character": "SISKO",
+          "line": "Dax."
+        }
+      ],
+      "location": "Transporter bay"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "BASHIR",
+          "line": "Ready?"
+        },
+        {
+          "character": "O'BRIEN",
+          "line": "Deck twenty one. Deck twenty one. I said, Deck twenty one."
+        },
+        {
+          "character": "BASHIR",
+          "line": "Maybe if you said please."
+        },
+        {
+          "character": "O'BRIEN",
+          "line": "What's wrong with this thing?"
+        },
+        {
+          "character": "BASHIR",
+          "line": "Don't look at me. I don't know anything about this time period."
+        },
+        {
+          "character": "O'BRIEN",
+          "line": "Maybe it's jammed. Help me get this wall panel off."
+        },
+        {
+          "character": "WATLEY",
+          "line": "Deck fifteen."
+        },
+        {
+          "character": "BASHIR",
+          "line": "I won't tell anyone if you don't."
+        }
+      ],
+      "location": "Enterprise turbolift"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "DAX",
+          "line": "They really packed them in on these old ships."
+        },
+        {
+          "character": "SISKO",
+          "line": "What about over there?"
+        },
+        {
+          "character": "DAX",
+          "line": "Perfect. An auxiliary communications juncture."
+        },
+        {
+          "character": "SISKO",
+          "line": "I'll pretend to do repairs. You scan for Darvin."
+        },
+        {
+          "character": "DAX",
+          "line": "I used to have one of these. I love classic twenty third century designs. Black finish, silver highlights."
+        },
+        {
+          "character": "SISKO",
+          "line": "Dax."
+        },
+        {
+          "character": "DAX",
+          "line": "Sorry."
+        }
+      ],
+      "location": "Enterprise corridor"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "BARTENDER",
+          "line": "I don't want any more Spican flame gems. Thanks to you I already have enough Spican flame gems to me a lifetime."
+        },
+        {
+          "character": "JONES",
+          "line": "How sad for you, my friend. You won't find a finer stone anywhere."
+        },
+        {
+          "character": "WAITRESS",
+          "line": "What's your pleasure?"
+        },
+        {
+          "character": "ODO",
+          "line": "I'll have a raktajino."
+        },
+        {
+          "character": "WAITRESS",
+          "line": "You're the second person today who's ordered that. What is it?"
+        },
+        {
+          "character": "ODO",
+          "line": "Klingon coffee. The second person? Who was the first?"
+        },
+        {
+          "character": "WAITRESS",
+          "line": "An older man. A human."
+        },
+        {
+          "character": "ODO",
+          "line": "Where is he now?"
+        },
+        {
+          "character": "WAITRESS",
+          "line": "I don't know. He left about an hour ago. I think he said he'd be back. We don't have any Klingon beverages. Would you like something else?"
+        },
+        {
+          "character": "ODO",
+          "line": "Tarkalean tea."
+        },
+        {
+          "character": "WAITRESS",
+          "line": "Okay."
+        },
+        {
+          "character": "JONES",
+          "line": "I have something from the far reaches of the galaxy. Surely you want"
+        },
+        {
+          "character": "BARTENDER",
+          "line": "Not at your price."
+        },
+        {
+          "character": "UHURA",
+          "line": "Oooh. What is it? Is it alive? May I hold it? Oh, it's adorable. What is it?"
+        }
+      ],
+      "location": "K-7 bar"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "BASHIR",
+          "line": "Chief, you're supposed to be working"
+        },
+        {
+          "character": "O'BRIEN",
+          "line": "I'm afraid to touch anything. It's all cross-circuited and patched together. I can't make heads nor tails of it."
+        },
+        {
+          "character": "BASHIR",
+          "line": "Sounds like one of your repair jobs. Well, there's no sign of Darvin in this section. I'm going to widen the scan radius. If I can figure out how."
+        },
+        {
+          "character": "O'BRIEN",
+          "line": "Keep the scan field below twenty milliwatts, otherwise you'll set off the internal sensors."
+        },
+        {
+          "character": "BASHIR",
+          "line": "Thank you, Chief. I was listening during the mission briefing."
+        },
+        {
+          "character": "ENGINEER",
+          "line": "What are you two doing here? Scotty told me to do this."
+        },
+        {
+          "character": "O'BRIEN",
+          "line": "Oh, you were going to do this?"
+        },
+        {
+          "character": "ENGINEER",
+          "line": "It's on the duty roster."
+        },
+        {
+          "character": "BASHIR",
+          "line": "Must have been some mix-up."
+        },
+        {
+          "character": "ENGINEER",
+          "line": "Isn't that a medical tricorder?"
+        },
+        {
+          "character": "BASHIR",
+          "line": "Yes. Yes, it is. I'm a doctor."
+        },
+        {
+          "character": "ENGINEER",
+          "line": "Why do we need a doctor to repair a power relay?"
+        },
+        {
+          "character": "BASHIR",
+          "line": "You don't, obviously. No, I'm doing a study. It has to do with work-related stress."
+        },
+        {
+          "character": "ENGINEER",
+          "line": "Oh."
+        },
+        {
+          "character": "BASHIR",
+          "line": "Why don't you two go on? Pretend I'm not here."
+        },
+        {
+          "character": "ENGINEER",
+          "line": "So, where should we start?"
+        },
+        {
+          "character": "O'BRIEN",
+          "line": "Well obviously the first thing we should do is to take this transtator here, and"
+        },
+        {
+          "character": "O'BRIEN",
+          "line": "And leave it exactly it is."
+        },
+        {
+          "character": "BASHIR",
+          "line": "The job pressure's been getting to him. Why don't you take over? All right, Ensign, I think I've seen enough. Let's get you back to Sickbay."
+        },
+        {
+          "character": "O'BRIEN",
+          "line": "Oh, I'd appreciate it if you wouldn't mention this to anyone."
+        },
+        {
+          "character": "ENGINEER",
+          "line": "No problem. Hope you feel better."
+        }
+      ],
+      "location": "Enterprise corridor"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "WORF",
+          "line": "I have completed my search of the primary habitat levels and. What is that sound?"
+        },
+        {
+          "character": "ODO",
+          "line": "Soothing isn't it? The bartender called it a"
+        },
+        {
+          "character": "WORF",
+          "line": "A tribble."
+        },
+        {
+          "character": "ODO",
+          "line": "Sit down. You're drawing attention."
+        },
+        {
+          "character": "WORF",
+          "line": "Where did you get that thing?"
+        },
+        {
+          "character": "ODO",
+          "line": "From a man named Cyrano Jones. He told me tribbles like everyone, but this one doesn't seem to like you."
+        },
+        {
+          "character": "WORF",
+          "line": "The feeling's! The feeling's mutual. They are detestable creatures."
+        },
+        {
+          "character": "ODO",
+          "line": "Interesting. It's been my observation that most humanoids love soft, furry animals especially if they make pleasing sounds."
+        },
+        {
+          "character": "WORF",
+          "line": "They do nothing but consume food and breed. If you feed that thing more than the smallest morsel, in a few hours you'll have ten tribbles then a hundred then a thousand."
+        },
+        {
+          "character": "ODO",
+          "line": "Calm down."
+        },
+        {
+          "character": "WORF",
+          "line": "They were once considered mortal enemies of the Klingon Empire."
+        },
+        {
+          "character": "ODO",
+          "line": "This? A mortal enemy of the Empire?"
+        },
+        {
+          "character": "WORF",
+          "line": "They were an ecological menace, a plague to be wiped out."
+        },
+        {
+          "character": "ODO",
+          "line": "Wiped out? What are you saying?"
+        },
+        {
+          "character": "WORF",
+          "line": "Hundreds of warriors were sent to track them down throughout the galaxy. An armada obliterated the Tribbles' homeworld. By the end of the twenty third century they had been eradicated."
+        },
+        {
+          "character": "ODO",
+          "line": "Another glorious chapter of Klingon history. Tell me, do they still sing songs of the great tribble hunt?"
+        }
+      ],
+      "location": "K-7 bar"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "DAX",
+          "line": "What should we do?"
+        },
+        {
+          "character": "SISKO",
+          "line": "Get to battle stations."
+        }
+      ],
+      "location": "Enterprise corridor"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "SISKO",
+          "line": "Deck seven."
+        },
+        {
+          "character": "SISKO",
+          "line": "Let's see if we can find out what's going on."
+        },
+        {
+          "character": "SISKO",
+          "line": "Sisko to Defiant."
+        },
+        {
+          "character": "SISKO",
+          "line": "Sisko to Defiant."
+        },
+        {
+          "character": "KIRA",
+          "line": "Defiant here.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "SISKO",
+          "line": "Report."
+        }
+      ],
+      "location": "Enterprise turbolift"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "KIRA",
+          "line": "A Klingon D-7 battlecruiser just dropped out of warp. It's approaching the station."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "SISKO",
+          "line": "Have they locked weapons?"
+        }
+      ],
+      "location": "Enterprise turbolift"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "KIRA",
+          "line": "Not yet."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "DAX",
+          "line": "Kira, can you identify the Klingon vessel?"
+        }
+      ],
+      "location": "Enterprise turbolift"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "KIRA",
+          "line": "The IKS Gr'oth."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "DAX",
+          "line": "That's Koloth's ship."
+        },
+        {
+          "character": "SISKO",
+          "line": "Curzon's old friend?"
+        },
+        {
+          "character": "DAX",
+          "line": "Yes. And he isn't going to attack. I remember Koloth telling me he once traded insults with Kirk on a space station near the Federation border. He always regretted never getting the chance to face him in battle."
+        },
+        {
+          "character": "KIRA",
+          "line": "The Klingon ship just transported two people",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "Enterprise turbolift"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "KIRA",
+          "line": "To the station manager's office, Captain."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "DAX",
+          "line": "That's Koloth. Maybe we should beam over to the station and help Odo and Worf. We know that Darvin was there a few hours ago."
+        },
+        {
+          "character": "SISKO",
+          "line": "I think it might be better if Chief O'Brien and Doctor Bashir go."
+        },
+        {
+          "character": "DAX",
+          "line": "But if we went, we might run into Koloth."
+        },
+        {
+          "character": "SISKO",
+          "line": "Exactly."
+        },
+        {
+          "character": "DAX",
+          "line": "It's not as if he would recognize me. I'd love to see him at his prime."
+        },
+        {
+          "character": "SISKO",
+          "line": "Dax. Major, beam the Chief and the Doctor to K-seven and fill them in."
+        },
+        {
+          "character": "KIRA",
+          "line": "Aye, sir.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "DAX",
+          "line": "It would've been fun."
+        },
+        {
+          "character": "SISKO",
+          "line": "Too much fun."
+        }
+      ],
+      "location": "Enterprise turbolift"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "SISKO",
+          "line": "Dax was right about the Klingons. They were only interested in shore leave, and Captain Kirk allowed them to beam aboard the station in small groups. When the Enterprise stood down from Red Alert, we all resumed our search for Darvin.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "KIRA",
+          "line": "the next bandshift in the Enterprise scan cycle will be in three minutes.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "O'BRIEN",
+          "line": "We'll be ready, Major. O'Brien out."
+        },
+        {
+          "character": "BASHIR",
+          "line": "We should find a turbolift."
+        }
+      ],
+      "location": "Enterprise corridor"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "WATLEY",
+          "line": "Hello again."
+        },
+        {
+          "character": "BASHIR",
+          "line": "Hello."
+        },
+        {
+          "character": "O'BRIEN",
+          "line": "Deck ten."
+        },
+        {
+          "character": "WATLEY",
+          "line": "Your flap's open."
+        },
+        {
+          "character": "BASHIR",
+          "line": "Excuse me?"
+        },
+        {
+          "character": "WATLEY",
+          "line": "On your tricorder. You're draining power."
+        },
+        {
+          "character": "BASHIR",
+          "line": "Oh. Thank you."
+        },
+        {
+          "character": "O'BRIEN",
+          "line": "He's always doing that."
+        },
+        {
+          "character": "WATLEY",
+          "line": "You're a doctor?"
+        },
+        {
+          "character": "BASHIR",
+          "line": "Yes."
+        },
+        {
+          "character": "WATLEY",
+          "line": "I just transferred here from the Lexington last week."
+        },
+        {
+          "character": "O'BRIEN",
+          "line": "Welcome aboard."
+        },
+        {
+          "character": "WATLEY",
+          "line": "I'm coming into Sickbay tomorrow for my physical. Fifteen hundred. Lieutenant Watley."
+        },
+        {
+          "character": "O'BRIEN",
+          "line": "You realize, of course, she just using you to get to me."
+        },
+        {
+          "character": "BASHIR",
+          "line": "Watley? That was my great grandmother's name."
+        },
+        {
+          "character": "O'BRIEN",
+          "line": "Funny."
+        },
+        {
+          "character": "BASHIR",
+          "line": "I think she was in Starfleet."
+        },
+        {
+          "character": "O'BRIEN",
+          "line": "It's a common enough name."
+        },
+        {
+          "character": "BASHIR",
+          "line": "But what if that was her?"
+        },
+        {
+          "character": "O'BRIEN",
+          "line": "Do you realize the odds?"
+        },
+        {
+          "character": "BASHIR",
+          "line": "No one ever met my great grandfather. This could be a predestination paradox. Come on, Chief, surely you took elementary temporal mechanics at the Academy? I could be destined to fall in love with that woman and become my own great grandfather."
+        },
+        {
+          "character": "O'BRIEN",
+          "line": "You're being ridiculous."
+        },
+        {
+          "character": "BASHIR",
+          "line": "Ridiculous? If I don't meet with her tomorrow, I may never be born."
+        },
+        {
+          "character": "KIRA",
+          "line": "Chief, are you ready for transport?",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "O'BRIEN",
+          "line": "Are we ever."
+        },
+        {
+          "character": "KIRA",
+          "line": "Stand by.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "BASHIR",
+          "line": "You saw the way she looked at me. You can't just dismiss this."
+        },
+        {
+          "character": "O'BRIEN",
+          "line": "I can try."
+        },
+        {
+          "character": "BASHIR",
+          "line": "All right, fine. But I can't wait to get back to Deep Space Nine and see your face when you find out that I never existed."
+        }
+      ],
+      "location": "Enterprise turbolift"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "SISKO",
+          "line": "Dax and I resumed our search for Darvin.)",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "DAX",
+          "line": "Benjamin, look."
+        },
+        {
+          "character": "CHEKOV",
+          "line": "Bridge to Captain Kirk.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "KIRK",
+          "line": "Kirk here."
+        },
+        {
+          "character": "CHEKOV",
+          "line": "Mister Baris is waiting on channel E to speak to you, sir.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "SISKO",
+          "line": "Keep working. We're a maintenance crew just doing our job."
+        },
+        {
+          "character": "CHEKOV",
+          "line": "Mister Baris is coming on.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "KIRK",
+          "line": "Yes, Mister Baris. What can I do for you?"
+        },
+        {
+          "character": "BARIS",
+          "line": "Kirk, this station is swarming with Klingons.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "KIRK",
+          "line": "I was not aware, Mister Baris, that twelve Klingons constitutes a swarm."
+        },
+        {
+          "character": "BARIS",
+          "line": "Captain Kirk, I consider your security measures a disgrace. In my opinion, you have taken this entire",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "DAX",
+          "line": "I had no idea."
+        },
+        {
+          "character": "SISKO",
+          "line": "What?"
+        },
+        {
+          "character": "DAX",
+          "line": "He's so much more handsome in person. And those eyes."
+        },
+        {
+          "character": "SISKO",
+          "line": "Kirk had quite the reputation as a ladies' man."
+        },
+        {
+          "character": "DAX",
+          "line": "Not him. Spock."
+        },
+        {
+          "character": "BARIS",
+          "line": "Free and complete access to the station to that man who just walked out of here.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "SISKO",
+          "line": "Let's go."
+        },
+        {
+          "character": "KIRK",
+          "line": "Mister Baris, I have guards around the grain. I have guards around the Klingons."
+        },
+        {
+          "character": "DAX",
+          "line": "I can't believe you don't at least want to meet Captain Kirk."
+        },
+        {
+          "character": "SISKO",
+          "line": "That's the last thing on my mind."
+        },
+        {
+          "character": "DAX",
+          "line": "Oh, come on, Benjamin. Are you telling me you're not the tiniest bit interested in meeting one of the most famous men in Starfleet history?"
+        },
+        {
+          "character": "SISKO",
+          "line": "We have a job to do."
+        },
+        {
+          "character": "DAX",
+          "line": "But it's, it's James Kirk!"
+        },
+        {
+          "character": "SISKO",
+          "line": "Look, of course I want to meet him. I'd like to shake his hand, ask him about fighting the Gorn on Cestus Three, but that's not why we're here, old man."
+        },
+        {
+          "character": "DAX",
+          "line": "You're right. I guess the difference between you and me is I remember this time. I lived in this time and it's hard to not want to be part of it again."
+        }
+      ],
+      "location": "Enterprise corridor"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "BASHIR",
+          "line": "Clearly we've been going about this search business all wrong, Chief."
+        },
+        {
+          "character": "O'BRIEN",
+          "line": "You're right. Why bother searching thirty decks, when you can just plonk yourself down at a bar and wait for Darvin to come to you."
+        },
+        {
+          "character": "ODO",
+          "line": "We have reason to believe that he'll return to this area."
+        },
+        {
+          "character": "O'BRIEN",
+          "line": "Ah, yes. The raktajino."
+        },
+        {
+          "character": "BASHIR",
+          "line": "A vital clue that others might've missed. How fortunate it is that it has kept you stuck at this bar for the past three hours having drinks while we've been crawling through conduits."
+        },
+        {
+          "character": "O'BRIEN",
+          "line": "My God, that's him."
+        },
+        {
+          "character": "ODO",
+          "line": "Who?"
+        },
+        {
+          "character": "O'BRIEN",
+          "line": "Kirk."
+        },
+        {
+          "character": "WORF",
+          "line": "Where?"
+        },
+        {
+          "character": "O'BRIEN",
+          "line": "On the left, in the gold, just sitting down."
+        },
+        {
+          "character": "BASHIR",
+          "line": "That's Kirk?"
+        },
+        {
+          "character": "WORF",
+          "line": "It would be an honor to meet him."
+        },
+        {
+          "character": "O'BRIEN",
+          "line": "Let's buy him a drink."
+        },
+        {
+          "character": "ODO",
+          "line": "Gentlemen, no one's buying anyone a drink."
+        },
+        {
+          "character": "O'BRIEN",
+          "line": "He's right. We can't risk altering the timeline."
+        },
+        {
+          "character": "WAITRESS",
+          "line": "What'll it be, boys? And don't ask for raktajino. If I have to say we don't carry that one more time"
+        },
+        {
+          "character": "ODO",
+          "line": "Who ordered raktajino?"
+        },
+        {
+          "character": "WAITRESS",
+          "line": "The Klingons."
+        },
+        {
+          "character": "ODO",
+          "line": "Klingons?"
+        },
+        {
+          "character": "WAITRESS",
+          "line": "Over there, and over there."
+        },
+        {
+          "character": "BASHIR",
+          "line": "Those are Klingons?"
+        },
+        {
+          "character": "WAITRESS",
+          "line": "All right. You boys have had enough."
+        },
+        {
+          "character": "ODO",
+          "line": "Mister Worf?"
+        },
+        {
+          "character": "WORF",
+          "line": "They are Klingons, and it is a long story."
+        },
+        {
+          "character": "O'BRIEN",
+          "line": "What happened? Some kind genetic engineering?"
+        },
+        {
+          "character": "BASHIR",
+          "line": "A viral mutation?"
+        },
+        {
+          "character": "WORF",
+          "line": "We do not diskuss it with outsiders."
+        },
+        {
+          "character": "KORAX",
+          "line": "Delusions of god-hood."
+        },
+        {
+          "character": "SCOTT",
+          "line": "Take it easy, lad. Everybody's entitled to an opinion."
+        },
+        {
+          "character": "KORAX",
+          "line": "That's right. And if I think that Kirk is a Denebian slime devil, well that's my opinion too."
+        },
+        {
+          "character": "SCOTT",
+          "line": "Don't do it, mister, and that's an order."
+        },
+        {
+          "character": "CHEKOV",
+          "line": "But you heard what he called the Captain."
+        },
+        {
+          "character": "O'BRIEN",
+          "line": "Look at the way Kirk is ignoring that Klingon. He's letting the security officer handle it."
+        },
+        {
+          "character": "BASHIR",
+          "line": "Chief, are you sure that's Kirk?"
+        },
+        {
+          "character": "O'BRIEN",
+          "line": "Absolutely."
+        },
+        {
+          "character": "BASHIR",
+          "line": "Why is he wearing lieutenant's stripes?"
+        },
+        {
+          "character": "ODO",
+          "line": "I think we've got bigger problems than a case of mistaken identity."
+        },
+        {
+          "character": "KORAX",
+          "line": "Garbage scow. Half the quadrant knows it. That's why they're learning to speak Klingonese."
+        },
+        {
+          "character": "CHEKOV",
+          "line": "Mister Scott."
+        },
+        {
+          "character": "SCOTT",
+          "line": "Laddie, don't you think you should rephrase that?"
+        },
+        {
+          "character": "KORAX",
+          "line": "You're right, I should. I didn't mean to say that the Enterprise should be hauling garbage. I meant to say that it should be hauled away as garbage."
+        },
+        {
+          "character": "ODO",
+          "line": "What are you doing?"
+        },
+        {
+          "character": "ODO",
+          "line": "It's Darvin!"
+        }
+      ],
+      "location": "K-7 bar"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "DULMUR",
+          "line": "Your men could've avoided that fight, Captain."
+        },
+        {
+          "character": "LUCSLY",
+          "line": "Regulation one fifty seven, section three, paragraph eighteen. Starfleet officers shall take all necessary precautions to minimize any participation in historical events."
+        },
+        {
+          "character": "SISKO",
+          "line": "All right. It was a mistake. But there were no lasting repercussions."
+        },
+        {
+          "character": "DULMUR",
+          "line": "How do you know that? For all we know, we could be living in an alternate timeline right now."
+        },
+        {
+          "character": "SISKO",
+          "line": "If my people had caused any changes in the timeline, we would have been the first to notice when we got back."
+        },
+        {
+          "character": "LUCSLY",
+          "line": "Why do they all have to say that?"
+        },
+        {
+          "character": "DULMUR",
+          "line": "So, your men were arrested."
+        }
+      ],
+      "location": "Captain's office"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "SISKO",
+          "line": "That's right, but instead of being taken to the brig, they were brought in for questioning.)",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "KIRK",
+          "line": "I want to know who started it."
+        },
+        {
+          "character": "KIRK",
+          "line": "I'm waiting."
+        },
+        {
+          "character": "KIRK",
+          "line": "Who started the fight?"
+        },
+        {
+          "character": "O'BRIEN",
+          "line": "I don't know, sir."
+        },
+        {
+          "character": "KIRK",
+          "line": "All right. Chekov, I know you. You started it didn't you?"
+        },
+        {
+          "character": "CHEKOV",
+          "line": "No, sir. I didn't."
+        },
+        {
+          "character": "KIRK",
+          "line": "Well who did?"
+        },
+        {
+          "character": "CHEKOV",
+          "line": "I don't know, sir."
+        },
+        {
+          "character": "KIRK",
+          "line": "I don't know, sir. I want to know who threw the first punch. All right, you're all confined to quarters until I find out who started it. Dismissed."
+        }
+      ],
+      "location": "Enterprise briefing room"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "BASHIR",
+          "line": "That was close."
+        },
+        {
+          "character": "O'BRIEN",
+          "line": "Me. Of all the people in the lineup, he asks me who threw the first punch."
+        },
+        {
+          "character": "BASHIR",
+          "line": "And you lied to him."
+        },
+        {
+          "character": "O'BRIEN",
+          "line": "I lied to Captain Kirk. I wish Keiko could have been here to see it."
+        },
+        {
+          "character": "BASHIR",
+          "line": "I'm sorry about that, little fellow. Who left you out here all alone?"
+        },
+        {
+          "character": "O'BRIEN",
+          "line": "He's not alone."
+        }
+      ],
+      "location": "Enterprise corridor"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "ODO",
+          "line": "Welcome back, Mister Darvin."
+        },
+        {
+          "character": "DARVIN",
+          "line": "The pleasure is all mine."
+        },
+        {
+          "character": "ODO",
+          "line": "Worf, hold on. I hope you realize you'll be facing some very serious charges when we get back."
+        },
+        {
+          "character": "DARVIN",
+          "line": "You wouldn't dare put one of the greatest heroes of the Klingon Empire into the brig."
+        },
+        {
+          "character": "WORF",
+          "line": "You are no hero to the Empire."
+        },
+        {
+          "character": "DARVIN",
+          "line": "I will be. I've been thinking about my statue in the Hall of Warriors. I want it to capture my essence. Our statues can be so generic sometimes, don't you think?"
+        },
+        {
+          "character": "ODO",
+          "line": "I take it whatever your plan is, you've already set it in motion."
+        },
+        {
+          "character": "DARVIN",
+          "line": "I see myself standing with Kirk's head in one hand and a tribble in the other."
+        },
+        {
+          "character": "WORF",
+          "line": "What have you done? Did you hire someone to kill him? Did you sabotage the Enterprise?"
+        },
+        {
+          "character": "DARVIN",
+          "line": "Nothing so mundane. Let's just say that Kirk's death will have a certain poetic justice to it."
+        }
+      ],
+      "location": "Transporter bay"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "SISKO",
+          "line": "He put a bomb in a tribble?"
+        },
+        {
+          "character": "ODO",
+          "line": "It's his revenge. Originally, Kirk saw how a tribble reacted",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "Enterprise corridor"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "ODO",
+          "line": "To Darvin and realized he was a Klingon. He wouldn't say us where this tribble was, but he did say that it was set go off within the hour."
+        }
+      ],
+      "location": "Transporter bay"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "SISKO",
+          "line": "It could be anywhere."
+        },
+        {
+          "character": "DAX",
+          "line": "Benjamin, I think we should risk going to the bridge. If we can use the internal sensors, we can scan the entire ship for explosives in a matter of seconds."
+        },
+        {
+          "character": "SISKO",
+          "line": "Dax and I will take care of the Enterprise. The rest of you beam over to K-seven and start searching over there."
+        }
+      ],
+      "location": "Enterprise corridor"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "ODO",
+          "line": "Understood. But I think Mister Worf should remain here. It seems he's allergic"
+        }
+      ],
+      "location": "Transporter bay"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "ODO",
+          "line": "To tribbles.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "SISKO",
+          "line": "All right."
+        },
+        {
+          "character": "O'BRIEN",
+          "line": "Captain",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "Enterprise corridor"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "O'BRIEN",
+          "line": "I'm not sure we can get to K-Seven's internal sensors."
+        }
+      ],
+      "location": "Transporter bay"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "SISKO",
+          "line": "Then you will have to manually scan every tribble on the station."
+        }
+      ],
+      "location": "Enterprise corridor"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "O'BRIEN",
+          "line": "There must be thousands of them by now."
+        },
+        {
+          "character": "BASHIR",
+          "line": "Hundreds of thousands."
+        }
+      ],
+      "location": "Transporter bay"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "DAX",
+          "line": "One million, seven hundred and seventy one thousand, five hundred and sixty one. That's starting with one tribble with an average litter of ten every twelve hours. After three days"
+        },
+        {
+          "character": "SISKO",
+          "line": "Thank you. You have your orders, people. Sisko out."
+        }
+      ],
+      "location": "Enterprise corridor"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "KIRK",
+          "line": "Doctor McCoy, would you mind coming up to the bridge."
+        },
+        {
+          "character": "DAX",
+          "line": "I re-routed the sensor interface."
+        },
+        {
+          "character": "SISKO",
+          "line": "It worked. I'm scanning the Bridge. Nothing up here."
+        },
+        {
+          "character": "DAX",
+          "line": "That's a relief. When Kirk sat on that tribble, I half expected it to go off."
+        },
+        {
+          "character": "SISKO",
+          "line": "Nothing on the first six decks."
+        },
+        {
+          "character": "MCCOY",
+          "line": "Did you want to see me, Jim? Well, don't look at me. It's the tribbles who are breeding."
+        },
+        {
+          "character": "DAX",
+          "line": "I know him."
+        },
+        {
+          "character": "SISKO",
+          "line": "That must be McCoy, the ship's doctor."
+        },
+        {
+          "character": "DAX",
+          "line": "McCoy. McCoy."
+        },
+        {
+          "character": "MCCOY",
+          "line": "Well, the nearest thing I can figure out is that they're born pregnant, which seems to be quite a timesaver."
+        },
+        {
+          "character": "DAX",
+          "line": "Leonard McCoy. I met him when he was a student at Ol' Miss."
+        },
+        {
+          "character": "SISKO",
+          "line": "Who met him, Curzon?"
+        },
+        {
+          "character": "DAX",
+          "line": "No, my host at the time was Emony. She was on Earth judging a gymnastics competition. I had a feeling he'd become a doctor. He had the hands of a surgeon."
+        },
+        {
+          "character": "SISKO",
+          "line": "I've scanned every deck. The bomb's not aboard the ship."
+        },
+        {
+          "character": "DAX",
+          "line": "Then it must be somewhere on K-seven."
+        }
+      ],
+      "location": "Enterprise Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "ODO",
+          "line": "Odo here."
+        },
+        {
+          "character": "SISKO",
+          "line": "The bomb's not",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "K-7 bar"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "SISKO",
+          "line": "On the Enterprise. It must be over there."
+        }
+      ],
+      "location": "Enterprise turbolift"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "ODO",
+          "line": "We've only been able to get through two decks. We're running out of time."
+        }
+      ],
+      "location": "K-7 bar"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "SISKO",
+          "line": "I can send more teams from the Defiant."
+        }
+      ],
+      "location": "Enterprise turbolift"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "ODO",
+          "line": "It's not a question of manpower, it's a question of multiplication."
+        }
+      ],
+      "location": "K-7 bar"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "ODO",
+          "line": "The tribbles are breeding so fast we can't keep up with them.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "DAX",
+          "line": "Benjamin, maybe we could narrow things down a little. Presumably, Darvin put the bomb somewhere he knows Kirk"
+        }
+      ],
+      "location": "Enterprise turbolift"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "DAX",
+          "line": "Is going to be in the next half an hour. So if we stick",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "K-7 bar"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "DAX",
+          "line": "Close to Kirk"
+        },
+        {
+          "character": "SISKO",
+          "line": "He might lead us right to it."
+        }
+      ],
+      "location": "Enterprise turbolift"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "ODO",
+          "line": "It's worth a try, but there's no reason for us to stop searching over here."
+        },
+        {
+          "character": "SISKO",
+          "line": "Keep at it"
+        }
+      ],
+      "location": "K-7 bar"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "SISKO",
+          "line": "For now, Constable. Deck five."
+        }
+      ],
+      "location": "Enterprise turbolift"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "KIRK",
+          "line": "This is my chicken sandwich and coffee. I want these things off the ship. I don't care if it takes every man we've got, I want them off the ship."
+        },
+        {
+          "character": "SCOTT",
+          "line": "Aye, they're into the machinery, all right. And they're probably in all the other food processors too."
+        },
+        {
+          "character": "KIRK",
+          "line": "How?"
+        },
+        {
+          "character": "SCOTT",
+          "line": "Probably through one of the air vents."
+        },
+        {
+          "character": "SPOCK",
+          "line": "Captain, there are vents of that type on the space station."
+        },
+        {
+          "character": "KIRK",
+          "line": "And in the storage compartments."
+        },
+        {
+          "character": "SISKO",
+          "line": "Storage compartments. Storage compartments!"
+        },
+        {
+          "character": "KIRK",
+          "line": "Have him meet us near the storage compartments. We're beaming down."
+        }
+      ],
+      "location": "Enterprise Rec room"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "SISKO",
+          "line": "Most of these are dead. The grain's poisoned."
+        },
+        {
+          "character": "DAX",
+          "line": "I'm picking up a faint tricobalt signature. The bomb's under here somewhere."
+        },
+        {
+          "character": "SISKO",
+          "line": "What's that?"
+        }
+      ],
+      "location": "K-7 grain storage hopper"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "SECURITY",
+          "line": "It's not working, sir. It seems to be stuck."
+        },
+        {
+          "character": "KIRK",
+          "line": "Here, let me try."
+        }
+      ],
+      "location": "K-7 grain storage corridor"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "DAX",
+          "line": "Someone's trying to open the bay door."
+        }
+      ],
+      "location": "K-7 grain storage hopper"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "DAX",
+          "line": "Benjamin, it's right here in front of us."
+        }
+      ],
+      "location": "K-7 grain storage hopper"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "SPOCK",
+          "line": "They seem to be gorged."
+        },
+        {
+          "character": "BARIS",
+          "line": "Gorged?"
+        }
+      ],
+      "location": "K-7 grain storage corridor"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "BARIS",
+          "line": "On my grain? Kirk, I am going to hold you responsible. There must be thousands of them.",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "K-7 grain storage hopper"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "KIRK",
+          "line": "Hundreds of thousands."
+        },
+        {
+          "character": "SPOCK",
+          "line": "One million, seven hundred seventy one thousand, five hundred sixty one."
+        }
+      ],
+      "location": "K-7 grain storage corridor"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "SPOCK",
+          "line": "That's assuming one tribble multiplying with an average litter of ten producing a new generation every twelve hours over a period of three days.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "SISKO",
+          "line": "I found it. Sisko to Defiant."
+        }
+      ],
+      "location": "K-7 grain storage hopper"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "KIRA",
+          "line": "Go ahead, Captain."
+        },
+        {
+          "character": "SISKO",
+          "line": "I found the bomb."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "SISKO",
+          "line": "Lock onto my tricorder signal and beam it into space."
+        },
+        {
+          "character": "KIRA",
+          "line": "Acknowledged",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "K-7 grain storage hopper"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "KIRA",
+          "line": "Kira to Sisko. It worked."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "KIRK",
+          "line": "And as captain I want two things done.",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "K-7 grain storage hopper"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "KIRK",
+          "line": "First, find Cyrano Jones."
+        },
+        {
+          "character": "KIRK",
+          "line": "And second, close that door."
+        }
+      ],
+      "location": "K-7 grain storage corridor"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "SISKO",
+          "line": "After the bomb was detonated, history continued uninterrupted, and thanks to the tribbles",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "K-7 grain storage hopper"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "SISKO",
+          "line": "Kirk was able to uncover the truth about Darvin.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "KIRK",
+          "line": "They don't like you, Mister Darvin. I wonder why? Bones?"
+        },
+        {
+          "character": "MCCOY",
+          "line": "Jim, this man is a Klingon."
+        }
+      ],
+      "location": "Station manager's office"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "SISKO",
+          "line": "By the time we returned to the Defiant, Major Kira had diskovered how to use the Orb to bring us back to our own time.",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "Orb cabin"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "DULMUR",
+          "line": "And that's when you returned the present?"
+        },
+        {
+          "character": "SISKO",
+          "line": "Well, not exactly. Before we left, I realized there was one last thing I had to do. Something I'd been thinking about ever since I saw that ship on the viewscreen."
+        }
+      ],
+      "location": "Captain's office"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "SISKO",
+          "line": "Excuse me, Captain. Here's tomorrow's duty roster for your approval. (This is from Mirror, Mirror, and Sisko has replaced Marlena.)"
+        },
+        {
+          "character": "KIRK",
+          "line": "Lieutenant, er, Lieutenant?"
+        },
+        {
+          "character": "SISKO",
+          "line": "Benjamin Sisko, sir. I've been on temporary assignment here. Before I leave, I just want to say it's been an honor serving with you, sir."
+        },
+        {
+          "character": "KIRK",
+          "line": "All right, Lieutenant. Carry on."
+        },
+        {
+          "character": "SISKO",
+          "line": "Thank you, sir."
+        }
+      ],
+      "location": "Enterprise Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "SISKO",
+          "line": "Now, if you want to put a letter of reprimand in my file for that, then go ahead."
+        },
+        {
+          "character": "LUCSLY",
+          "line": "We'll have to review the case before making any recommendations."
+        },
+        {
+          "character": "DULMUR",
+          "line": "However, I don't think there was any harm done. Probably would have done the same thing myself."
+        }
+      ],
+      "location": "Captain's office"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "DULMUR",
+          "line": "You'll be receiving our report in about a month. But based on what you've told us, I don't think you have anything to worry about."
+        },
+        {
+          "character": "SISKO",
+          "line": "I'm glad to hear it."
+        },
+        {
+          "character": "DULMUR",
+          "line": "Goodbye, Captain."
+        },
+        {
+          "character": "SISKO",
+          "line": "Goodbye."
+        },
+        {
+          "character": "LUCSLY",
+          "line": "Docking port seven."
+        },
+        {
+          "character": "DAX",
+          "line": "It went well?"
+        },
+        {
+          "character": "KIRA",
+          "line": "Good. The Constable wants to see us on the Promenade."
+        }
+      ],
+      "location": "Ops"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "ODO",
+          "line": "Did you tell them?"
+        },
+        {
+          "character": "SISKO",
+          "line": "They didn't ask. I'm open to suggestions, people."
+        },
+        {
+          "character": "DAX",
+          "line": "We could build another station."
+        }
+      ],
+      "location": "Promenade"
+    }
+  ],
+  "schedule": {
+    "episode": 5,
+    "number": 103,
+    "season": 5
+  },
+  "stardate": "Unknown",
+  "title": "Trials and Tribble-ations"
+}

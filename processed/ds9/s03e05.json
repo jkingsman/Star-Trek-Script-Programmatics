@@ -1,0 +1,1370 @@
+{
+  "airdate": 782982000,
+  "scenes": [
+    {
+      "dialogue": [
+        {
+          "character": "QUARK",
+          "line": "Why don't you tell your Uncle Quark all about it?"
+        },
+        {
+          "character": "DAX",
+          "line": "What are you talking about, Quark?"
+        },
+        {
+          "character": "QUARK",
+          "line": "You're fifteen minutes late for your appointment in the holosuites, and by the look of that drink, you've been nursing it for a while. You got stood up, didn't you?"
+        },
+        {
+          "character": "DAX",
+          "line": "Well, if you must know, I'm waiting for Major Kira. We were supposed to go anti-grav sailing together, but you know how she feels about the holosuites."
+        },
+        {
+          "character": "KIRA",
+          "line": "She feels they're a complete waste of time. Anything worth doing in a holosuite can be done better in the real world."
+        },
+        {
+          "character": "QUARK",
+          "line": "You've obviously never been in the right holosuite program. But, if you'd like, I could"
+        },
+        {
+          "character": "KIRA",
+          "line": "You could, but you'd live to regret it."
+        },
+        {
+          "character": "QUARK",
+          "line": "Maybe some other time."
+        },
+        {
+          "character": "KIRA",
+          "line": "Sorry I'm late. Sisko and I had to revise crew rotations again."
+        },
+        {
+          "character": "DAX",
+          "line": "So you're not canceling?"
+        },
+        {
+          "character": "KIRA",
+          "line": "No. I'm kind of looking forward to it, except for crashing."
+        },
+        {
+          "character": "DAX",
+          "line": "Oh, don't worry, you won't crash. We'll start out with an easy simulation like sailing across the Great Erg on New Mecca. You'll see, it'll be great ."
+        },
+        {
+          "character": "CREWMAN",
+          "line": "Ops to Major Kira.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "KIRA",
+          "line": "Kira here."
+        },
+        {
+          "character": "CREWMAN",
+          "line": "You have an incoming communication from the Bajoran Central Archives.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "KIRA",
+          "line": "I'm in the Replimat. I'll take it down here. This will only take a minute."
+        },
+        {
+          "character": "KIRA",
+          "line": "This is Major Kira."
+        },
+        {
+          "character": "ALENIS",
+          "line": "Major My name is Alenis Grem. I'm doing a study on the Elemspur Detention Center for the Bajoran Central Archives and I was hoping to ask you a few questions.",
+          "modifier": "screen"
+        },
+        {
+          "character": "KIRA",
+          "line": "I'd be glad to help, but why come to me? I was never at Elemspur."
+        },
+        {
+          "character": "ALENIS",
+          "line": "Cardassian records clearly indicate that a Kira Nerys was held at Elemspur for seven days.",
+          "modifier": "screen"
+        },
+        {
+          "character": "KIRA",
+          "line": "You've got the wrong Kira Nerys. Believe me, if I'd been held in a Cardassian prison, I'd remember."
+        },
+        {
+          "character": "ALENIS",
+          "line": "I don't understand. I have the records right here. Kira Nerys of Dahkur Province, a member of the Shaakar resistance cell. You see?",
+          "modifier": "screen"
+        },
+        {
+          "character": "DAX",
+          "line": "It's you."
+        }
+      ],
+      "location": "Replimat"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "ODO",
+          "line": "If your memory and these prison records don't agree, then one of them must be wrong. Either the records or"
+        },
+        {
+          "character": "KIRA",
+          "line": "My memory is fine. I know exactly where I was that week."
+        },
+        {
+          "character": "ODO",
+          "line": "After ten years?"
+        },
+        {
+          "character": "KIRA",
+          "line": "I spent the entire winter with my Resistance group in the Dahkur Hills. We had no power cells for our phasers, very little food, and we spent most of our time in caves hiding from Cardassian sensor sweeps. Believe me, it was very memorable. These records are fake. The only question is, who faked them and why."
+        },
+        {
+          "character": "ODO",
+          "line": "According to this, you supposedly shared a cell with three other inmates. Maybe one of them can help us find out what's going on here."
+        }
+      ],
+      "location": "Security office"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "YELN",
+          "line": "Elemspur? I haven't thought about that place for a long time.",
+          "modifier": "screen"
+        },
+        {
+          "character": "KIRA",
+          "line": "I was hoping you could answer some questions about your fellow prisoners."
+        },
+        {
+          "character": "YELN",
+          "line": "I'll try and. Now wait a minute. I remember you. You were there, too, weren't you? Kiri something?"
+        },
+        {
+          "character": "KIRA",
+          "line": "Kira. Kira Nerys."
+        },
+        {
+          "character": "YELN",
+          "line": "I almost didn't recognize you. You used to wear your hair differently, didn't you? Longer?"
+        },
+        {
+          "character": "KIRA",
+          "line": "You remember me after all this time?"
+        },
+        {
+          "character": "YELN",
+          "line": "When the Cardassians dragged you out of our cell, I gave you up for dead. Glad to see I was wrong. Those were bad times."
+        },
+        {
+          "character": "KIRA",
+          "line": "Yes, they were."
+        }
+      ],
+      "location": "Ops"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "SISKO",
+          "line": "He could've been lying."
+        },
+        {
+          "character": "KIRA",
+          "line": "Maybe. But the records and the only surviving witness both say I was at Elemspur. My memory says something different. I've got to find out the truth."
+        },
+        {
+          "character": "SISKO",
+          "line": "I understand. If there's anything you need?"
+        },
+        {
+          "character": "KIRA",
+          "line": "I'll let you know. This shouldn't take long. I should only be on Bajor a few days."
+        },
+        {
+          "character": "SISKO",
+          "line": "We'll try to manage without you until you get back."
+        }
+      ],
+      "location": "Corridor"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "BASHIR",
+          "line": "There you are, Garak. I went past your shop, but it was closed."
+        },
+        {
+          "character": "GARAK",
+          "line": "Unfortunately business has been a bit slow. For some reason, living under the constant threat of Dominion attack has made people less eager to invest in new clothing. So how was your trip to Klaestron Four?"
+        },
+        {
+          "character": "BASHIR",
+          "line": "Oh, terrific. The Klaestrons have developed a burn treatment technology which has to be seen to be believed."
+        },
+        {
+          "character": "GARAK",
+          "line": "You know, I envy you."
+        },
+        {
+          "character": "BASHIR",
+          "line": "How so?"
+        },
+        {
+          "character": "GARAK",
+          "line": "When I was younger, traveling was a bit of a passion for me. There are few things in life that compare with the thrill of immersing yourself in the culture of an alien world, meeting the inhabitants, earning their trust. But aside from our brief excursion to Bajor, I don't think I've been off this station in nearly three years."
+        },
+        {
+          "character": "BASHIR",
+          "line": "What's stopping you? Ships are leaving Deep Space Nine almost every day."
+        },
+        {
+          "character": "GARAK",
+          "line": "Space is dangerous, Doctor. You never know what might happen."
+        },
+        {
+          "character": "BASHIR",
+          "line": "Garak, you're being paranoid. Are you saying the Cardassian government would have you killed if you left this station?"
+        },
+        {
+          "character": "GARAK",
+          "line": "My dear Doctor, you do have a vivid imagination."
+        }
+      ],
+      "location": "Replimat"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "DAX",
+          "line": "Commander, we're receiving a transmission from the Bajoran Central Archives"
+        },
+        {
+          "character": "SISKO",
+          "line": "I'll take it. If you're looking for Major Kira, I'm afraid she's not on the station right now. She's on Bajor."
+        },
+        {
+          "character": "ALENIS",
+          "line": "I know. That's why I called. The Major contacted me before she left. She was supposed to meet with me so I could show her the information I retrieved from Elemspur. She never came. I tried to contact the Major to reschedule, but she wasn't where she said she'd be. As far as I can tell, no one's seen her since she left the spaceport for Elemspur.",
+          "modifier": "screen"
+        }
+      ],
+      "location": "Ops"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "ENTEK",
+          "line": "Wake her."
+        },
+        {
+          "character": "KIRA",
+          "line": "Where where am I?"
+        },
+        {
+          "character": "YTEPPA",
+          "line": "It's all right. You're safe."
+        },
+        {
+          "character": "KIRA",
+          "line": "What have you done to me?"
+        },
+        {
+          "character": "ENTEK",
+          "line": "We've brought you back home, to Cardassia."
+        },
+        {
+          "character": "ENTEK",
+          "line": "Please, we're here to help you."
+        },
+        {
+          "character": "KIRA",
+          "line": "I don't know who you are or what you're trying to do, but it won't work. Whatever you think this is going to get you, you can forget it."
+        },
+        {
+          "character": "ENTEK",
+          "line": "We don't think it's going to get us anything. If all we wanted was information, we'd have it already."
+        },
+        {
+          "character": "KIRA",
+          "line": "Oh? Then what's stopping you?"
+        },
+        {
+          "character": "ENTEK",
+          "line": "We have no intention of hurting you. Why should we? You're one of us."
+        },
+        {
+          "character": "KIRA",
+          "line": "This is absurd. You can mutilate me, change my appearance, you are never going to convince me that I am a Cardassian."
+        },
+        {
+          "character": "ENTEK",
+          "line": "I know this is difficult for you, and I'm sorry. I wish there were a better way to prepare you for what you're going through. Sometimes I question the wisdom of our infiltration methods. By altering the memories of our long-term operatives, we ensure that they'll never be diskovered, but it makes reintegrating them back into Cardassian society much more difficult. Still, it's hard to argue with success."
+        },
+        {
+          "character": "KIRA",
+          "line": "You really expect me to believe all of this?"
+        },
+        {
+          "character": "ENTEK",
+          "line": "Of course not. At least, not yet. We've given you medication to reverse your memory loss, but it can take some time to become effective. Until your original memory re-emerge, I don't expect you to believe a word I say. But it still can be difficult watching someone you care about suffer."
+        },
+        {
+          "character": "KIRA",
+          "line": "Oh, so I suppose you and I are old friends?"
+        },
+        {
+          "character": "ENTEK",
+          "line": "I supervised your training. You are an undercover operative of the Obsidian Order named Iliana Ghemor. Ten years ago, you volunteered for an undercover assignment on Bajor. We kidnapped a Bajoran terrorist, gave you her memories, her appearance, and placed you back on Bajor to infiltrate the Resistance. I know, you don't believe me, but you'll remember. It will just take some time. Being here should help."
+        },
+        {
+          "character": "KIRA",
+          "line": "This place? It's just another Cardassian prison."
+        },
+        {
+          "character": "ENTEK",
+          "line": "This is not a prison, Iliana. This is your room in the house where you were born. Your home."
+        },
+        {
+          "character": "KIRA",
+          "line": "My home is in the Dahkur Province of Bajor."
+        },
+        {
+          "character": "ENTEK",
+          "line": "Here. This contains a personal statement you recorded before you were sent to Bajor. Watch it. It should help explain things. If you have any questions, just ask."
+        }
+      ],
+      "location": "Iliana's room"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "ODO",
+          "line": "We've interviewed all the residents in the vicinity of the Elemspur Detention Center. One of them thinks he saw Kira walking up the old Cardassian road toward the Center."
+        },
+        {
+          "character": "DAX",
+          "line": "When we scanned the area, we found a residual electrostatic charge."
+        },
+        {
+          "character": "SISKO",
+          "line": "This could be a transporter trace. You think she was beamed away? All right, I want the name of every ship that was in the area at the time of the beam out. Constable, contact your friends in the Bajoran militia. Tell them we need to see the activity logs of all the ground-based transporters in that area. That'll be all."
+        },
+        {
+          "character": "DAX",
+          "line": "Benjamin, those residual electrostatic charges. They could also have been left by a disrupter or a phaser set to kill."
+        },
+        {
+          "character": "SISKO",
+          "line": "I know."
+        }
+      ],
+      "location": "Wardroom"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "CARDASSIAN",
+          "line": "Look to the children. They are the future of Cardassia and they",
+          "modifier": "screen"
+        }
+      ],
+      "location": "Cardassia"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "KIRA",
+          "line": "Enter."
+        },
+        {
+          "character": "ENTEK",
+          "line": "Ah. There's someone here who wants to see you."
+        },
+        {
+          "character": "GHEMOR",
+          "line": "You took your time about it, Entek. I don't appreciate being kept waiting in my own house."
+        },
+        {
+          "character": "ENTEK",
+          "line": "As I explained, Legate, the initial debriefings can be difficult. We couldn't allow any interruptions."
+        },
+        {
+          "character": "GHEMOR",
+          "line": "It really is you."
+        },
+        {
+          "character": "ENTEK",
+          "line": "Remember, her memory hasn't returned yet."
+        },
+        {
+          "character": "GHEMOR",
+          "line": "I understand. Iliana, I, I wish I could tell you how much this means to me."
+        },
+        {
+          "character": "KIRA",
+          "line": "Am I supposed to know you?"
+        },
+        {
+          "character": "ENTEK",
+          "line": "Iliana, this is Legate Tekeny Ghemor. He's your father."
+        },
+        {
+          "character": "KIRA",
+          "line": "My father? My father died on Bajor fighting the Cardassians."
+        },
+        {
+          "character": "GHEMOR",
+          "line": "That's not true. I'm sorry. I know you don't remember me, but I've been waiting for this for so long. Please leave us."
+        },
+        {
+          "character": "ENTEK",
+          "line": "Are you sure that's wise?"
+        },
+        {
+          "character": "GHEMOR",
+          "line": "She's my daughter. She's not going to hurt me."
+        },
+        {
+          "character": "ENTEK",
+          "line": "As you wish."
+        },
+        {
+          "character": "GHEMOR",
+          "line": "I've missed you, Iliana."
+        },
+        {
+          "character": "KIRA",
+          "line": "Don't call me that. It's not my name and I am not your daughter."
+        },
+        {
+          "character": "GHEMOR",
+          "line": "I should let you rest. You will remember, in time. Until then, please, consider yourself a guest in this house."
+        }
+      ],
+      "location": "Iliana's room"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "GARAK",
+          "line": "Good evening, Doctor. If you're finished here, I was wondering if you'd like to join me for a late snack."
+        },
+        {
+          "character": "BASHIR",
+          "line": "Actually, all I want right now is a little sleep. Maybe tomorrow."
+        },
+        {
+          "character": "GARAK",
+          "line": "I'm afraid this can't wait until tomorrow. I have very important news about Major Kira."
+        }
+      ],
+      "location": "Infirmary"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "GHEMOR",
+          "line": "In the left corner, above the window."
+        },
+        {
+          "character": "KIRA",
+          "line": "What?"
+        },
+        {
+          "character": "GHEMOR",
+          "line": "The Obsidian Order's surveillance devices. That is what you're looking for, isn't it? Don't worry. They're not on. I'm a member of the Central Command. They're only activated at my request. I thought you might want some breakfast. I assumed you'd be used to Bajoran food by now, so I took the liberty of replicating some hasperat."
+        },
+        {
+          "character": "KIRA",
+          "line": "I'm not hungry."
+        },
+        {
+          "character": "GHEMOR",
+          "line": "You recognize that? It's the bone-carving you made for me when I was promoted to Legate."
+        },
+        {
+          "character": "KIRA",
+          "line": "Your daughter was talented."
+        },
+        {
+          "character": "GHEMOR",
+          "line": "Yes. She is. I always thought you should have been an artist. You have such a wonderful eye for detail. But you were determined to join the Order. You thought it was your duty to Cardassia. Personally, I think Cardassia could use a few more artists. Are you sure you won't try some hasperat? It's only good when it's warm."
+        },
+        {
+          "character": "KIRA",
+          "line": "No, thank you."
+        },
+        {
+          "character": "GHEMOR",
+          "line": "You're as stubborn as your mother. She could never do anything the easy way. You don't remember her either, do you?"
+        },
+        {
+          "character": "KIRA",
+          "line": "My mother was an icon painter from Dahkur Province. She died of malnutrition at the Singha Refugee Camp when I was three."
+        },
+        {
+          "character": "GHEMOR",
+          "line": "Your mother was an inquisitor at the Central University. This is my fault. I never should have let you go on that mission. I could have prevented it. A well placed word here, a favor from a friend there. You never would've known. But you were so determined to go, so proud that you'd been chosen, that I didn't have the heart to stop you. Your mother never forgave me."
+        },
+        {
+          "character": "KIRA",
+          "line": "You're good. Really good. The house, the food, the stories, it's all very convincing. But I don't believe a word of it."
+        },
+        {
+          "character": "GHEMOR",
+          "line": "Iliana, I just want you to know I'm sorry."
+        }
+      ],
+      "location": "Ghemor's home"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "GARAK",
+          "line": "Commander, I've already told the good doctor everything I know."
+        },
+        {
+          "character": "SISKO",
+          "line": "I'd like to hear it again firsthand."
+        },
+        {
+          "character": "GARAK",
+          "line": "This is pointless. Believe me, there's nothing you can do. If my friend is correct, and Major Kira is being held by the Obsidian Order, retrieving her would be impossible."
+        },
+        {
+          "character": "ODO",
+          "line": "Impossible for us, maybe, but not for you."
+        },
+        {
+          "character": "GARAK",
+          "line": "I'm afraid you overestimate my abilities."
+        },
+        {
+          "character": "SISKO",
+          "line": "I hope not, because I intend to put your abilities to the test. The three of us are going to Cardassia."
+        },
+        {
+          "character": "GARAK",
+          "line": "The three of us? You can't be serious. Commander, if I were allowed on Cardassia, do you really think I'd be living here?"
+        },
+        {
+          "character": "SISKO",
+          "line": "Which brings up an interesting point. There are certain ministers in the Bajoran government who are concerned about your presence on this station. In fact, they want you removed. Right now, I see no alternative but to honor their request. Unless, of course, I can show them how you might be valuable to us."
+        },
+        {
+          "character": "ODO",
+          "line": "Rescuing Kira would go a long way toward improving your standing with the Bajoran government."
+        },
+        {
+          "character": "GARAK",
+          "line": "Why should I care what the Bajoran government thinks of me?"
+        },
+        {
+          "character": "SISKO",
+          "line": "I don't know. But it seems to me if someone were in trouble with the Cardassian Central Command, a Bajoran space station under Federation control might just be the safest place in the galaxy."
+        },
+        {
+          "character": "GARAK",
+          "line": "Commander, this is extortion."
+        },
+        {
+          "character": "SISKO",
+          "line": "Yes. It is. We'll be traveling under false transit documents prepared by Starfleet Intelligence. Mister O'Brien has reconfigured the shield harmonics of the Defiant so that, on long-range sensors, it'll appear to be a Kobheerian freighter. We leave in three hours."
+        },
+        {
+          "character": "GARAK",
+          "line": "I'll go along on your fool's errand, but I want one thing to be perfectly clear. I have no intention of sacrificing my life to save yours. If it looks like we're in danger of being captured, if there's any signs of trouble at all, you're on your own."
+        },
+        {
+          "character": "SISKO",
+          "line": "Mister Garak, I believe that's the first completely honest thing you've ever said to me."
+        },
+        {
+          "character": "GARAK",
+          "line": "How perceptive of you, Commander."
+        }
+      ],
+      "location": "Security office"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "ENTEK",
+          "line": "She doesn't remember anything?"
+        },
+        {
+          "character": "GHEMOR",
+          "line": "Not yet."
+        },
+        {
+          "character": "ENTEK",
+          "line": "That's unfortunate. It would've made things easier. I'm afraid I'm going to have to ask you some questions."
+        },
+        {
+          "character": "GHEMOR",
+          "line": "So soon? I thought she would be given time to regain her memory."
+        },
+        {
+          "character": "ENTEK",
+          "line": "She was given time. The desegranine injections should've worked by now. Memories usually begin to resurface after only a few hours. It's been two days."
+        },
+        {
+          "character": "GHEMOR",
+          "line": "And what if the injections never work?"
+        },
+        {
+          "character": "ENTEK",
+          "line": "Your daughter has some information that we need. I'm sure in time she'll see the wisdom of cooperating. So, if you'll excuse us."
+        },
+        {
+          "character": "GHEMOR",
+          "line": "I'll be in the next room if you need me."
+        },
+        {
+          "character": "ENTEK",
+          "line": "Legate, your concerns are baseless. She's one of our own people. We have no reason to harm her."
+        },
+        {
+          "character": "GHEMOR",
+          "line": "And I'll be nearby to remind you of that, in case you forget."
+        },
+        {
+          "character": "ENTEK",
+          "line": "As you wish, Legate."
+        },
+        {
+          "character": "ENTEK",
+          "line": "What were your duties as first officer of Deep Space Nine?"
+        },
+        {
+          "character": "KIRA",
+          "line": "I told you, the Federation runs the station. I wasn't even allowed into Ops."
+        },
+        {
+          "character": "ENTEK",
+          "line": "How many Starfleet personnel are stationed on Deep Space Nine?"
+        },
+        {
+          "character": "KIRA",
+          "line": "Thirty, forty thousand. Don't tell them I told you."
+        },
+        {
+          "character": "ENTEK",
+          "line": "That's enough. Iliana, don't you understand what's going on here? I'm trying to give you a chance. Even if you don't remember who I am, you are still one of my operatives. Now, I don't want to hurt you, but if you don't cooperate. Maybe there is a way to convince you to take what I say seriously. This is Entek. Send me exhibit S one-nine-eight-three I. Immediately."
+        },
+        {
+          "character": "CARDASSIAN",
+          "line": "Yes, sir.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "KIRA",
+          "line": "Nothing you can show me will make any difference."
+        },
+        {
+          "character": "ENTEK",
+          "line": "Did you know that the Obsidian Order saves everything that comes into its possession? You never know what might prove useful. We have libraries of data transcripts, vaults of ancient artifacts, even"
+        },
+        {
+          "character": "ENTEK",
+          "line": "Ah, here it is. Even cryogenic chambers containing biological subjects like this one here."
+        },
+        {
+          "character": "KIRA",
+          "line": "That's impossible."
+        },
+        {
+          "character": "ENTEK",
+          "line": "I assure you, when it comes to the Obsidian Order, nothing is impossible."
+        },
+        {
+          "character": "KIRA",
+          "line": "It's a fake, a clone, a hologram. For all I know, this whole place is a holosuite."
+        },
+        {
+          "character": "ENTEK",
+          "line": "Do you remember when you were on long-range reconnaissance in the Bestri Woods. You thought you saw a Cardassian soldier and opened fire on him. You hit your target, only to find out"
+        },
+        {
+          "character": "KIRA",
+          "line": "I killed a hara cat."
+        },
+        {
+          "character": "ENTEK",
+          "line": "A mother hara cat, who was nursing her young."
+        },
+        {
+          "character": "KIRA",
+          "line": "How do you know that? I never told anyone that story."
+        },
+        {
+          "character": "ENTEK",
+          "line": "I know about it because we placed that story in your memories, Iliana. Just like we gave you every other memory you have. What we couldn't extract from the real Kira, we got from other prisoners or just invented ourselves. Ask yourself two things, Iliana. First, is there anything that I've said we've done that's beyond the capabilities of the Obsidian Order? I assume you know there isn't. Second, if you're not my operative, if you're not who I say you are, why would I be playing this game? Believe me, if I wanted to extract the information from you, I'd have it already. I don't want to do that. I care about you. You were one of my best students. Watch the recording, think about what I've said, because the Order won't wait much longer."
+        }
+      ],
+      "location": "Ghemor's home"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "GHEMOR",
+          "line": "I see you haven't forgotten all of your Obsidian Order training."
+        },
+        {
+          "character": "KIRA",
+          "line": "Actually, I learned that in the Resistance."
+        },
+        {
+          "character": "GHEMOR",
+          "line": "Next time you might want to leave a contact wire running between the wall and the access plate. You tripped a silent alarm when you separated them."
+        },
+        {
+          "character": "KIRA",
+          "line": "I'll keep that in mind. I suppose if I walk out of here, you'll try to stop me."
+        },
+        {
+          "character": "GHEMOR",
+          "line": "I don't have to. You wouldn't get half a kilometer without being detected by the Obsidian Order."
+        },
+        {
+          "character": "KIRA",
+          "line": "Maybe I'm willing to take that chance."
+        },
+        {
+          "character": "GHEMOR",
+          "line": "Iliana."
+        },
+        {
+          "character": "KIRA",
+          "line": "Stop calling me that. I am not your daughter and I never was. I'm leaving."
+        },
+        {
+          "character": "GHEMOR",
+          "line": "You'll never get off Cardassia. In the end, you'll just make things worse for yourself. I can only do so much to help you."
+        },
+        {
+          "character": "KIRA",
+          "line": "If you want to help me, get me off this planet. I will never cooperate with the Order. Eventually, they're going to realize that, they'll interrogate me and I won't survive."
+        },
+        {
+          "character": "GHEMOR",
+          "line": "I promise you that will never happen. I'll never allow the Order to harm you. No matter what you decide, I won't let them hurt you. I only ask one thing. Before you make your decision, I beg you, watch the recording Entek gave you. It's the only way you'll ever really know the truth."
+        },
+        {
+          "character": "KIRA",
+          "line": "Begin playback."
+        },
+        {
+          "character": "ILIANA",
+          "line": "Hello, Iliana. Welcome home. I've been asked to make these recordings for myself, for you, to help my memory recover when I get back. I go in for my surgery tomorrow. I'm going to miss Cardassia, but I know what I'm doing is right. The terrorism on Bajor has to be stopped. Father doesn't want me to go. Mother just looks unhappy all the time. I hope some day they'll understand. I want them to be proud of me."
+        }
+      ],
+      "location": "Iliana's room"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "SISKO",
+          "line": "How're the modifications to the shield harmonics holding up."
+        },
+        {
+          "character": "DAX",
+          "line": "So far, so good. Nobody here but us Kobheerians."
+        },
+        {
+          "character": "SISKO",
+          "line": "We're well into Cardassian space, so keep a close eye on that shield modulator. If it breaks down, we could be in for some unwelcome company."
+        },
+        {
+          "character": "ODO",
+          "line": "Commander, I just caught Garak snooping around the access corridor outside the main phaser banks."
+        },
+        {
+          "character": "GARAK",
+          "line": "I was merely taking a stroll to stretch my legs. The quarters on this vessel are rather claustrophobic."
+        },
+        {
+          "character": "SISKO",
+          "line": "Confine him to his cabin for the rest of the trip, and post a guard at the door."
+        },
+        {
+          "character": "GARAK",
+          "line": "Commander, I must protest."
+        },
+        {
+          "character": "SISKO",
+          "line": "You can protest all you like, I"
+        },
+        {
+          "character": "DAX",
+          "line": "Benjamin, I'm detecting two Galor class warships headed this way."
+        },
+        {
+          "character": "SISKO",
+          "line": "What about the shield harmonics?"
+        },
+        {
+          "character": "DAX",
+          "line": "Still holding. As far as their scanners are concerned, we should still look like a Kobheerian freighter."
+        },
+        {
+          "character": "GARAK",
+          "line": "It's probably just a routine security check."
+        },
+        {
+          "character": "DAX",
+          "line": "They're hailing us."
+        },
+        {
+          "character": "SISKO",
+          "line": "Drop out of warp. I don't want to get too close to them. Is the communications holo-filter ready?"
+        },
+        {
+          "character": "DAX",
+          "line": "I can make your comm. image look like a three thousand ton screech rhino if you want me to."
+        },
+        {
+          "character": "SISKO",
+          "line": "A Kobheerian Captain will do nicely, Lieutenant. Engage the overlay. Put them on screen."
+        },
+        {
+          "character": "BENIL",
+          "line": "This is Gul Benil of the Eighth Order.",
+          "modifier": "screen"
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "BENIL",
+          "line": "Identify yourself."
+        },
+        {
+          "character": "KOBHEERIAN",
+          "line": "This is the Kobheerian freighter Rak-Miunis.",
+          "modifier": "screen"
+        }
+      ],
+      "location": "Cardassian ship"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "SISKO",
+          "line": "I'm Captain Viterian. How can I help you?"
+        },
+        {
+          "character": "BENIL",
+          "line": "What is your destination?",
+          "modifier": "screen"
+        },
+        {
+          "character": "SISKO",
+          "line": "Cardassia Prime. We're carrying a shipment of Kobheerian toranium intended for military use."
+        },
+        {
+          "character": "BENIL",
+          "line": "Prepare to be boarded.",
+          "modifier": "screen"
+        },
+        {
+          "character": "DAX",
+          "line": "They're headed toward us. If they get any closer, they might be able to identify us."
+        },
+        {
+          "character": "SISKO",
+          "line": "Gul Benil, our toranium is urgently needed on Cardassia. I would hate for you to have to explain why it was delayed."
+        },
+        {
+          "character": "BENIL",
+          "line": "The toranium can wait. Maquis activity is on the rise in this sector. By order of the Central Command, all incoming ships are to be stopped and searched.",
+          "modifier": "screen"
+        },
+        {
+          "character": "GARAK",
+          "line": "Drop the holo-filter. Do it. I can get us out of this if you let me talk to them."
+        },
+        {
+          "character": "SISKO",
+          "line": "Please stand by. Are we within their weapons range yet?"
+        },
+        {
+          "character": "DAX",
+          "line": "No."
+        },
+        {
+          "character": "SISKO",
+          "line": "Do as he says, but be prepared to get us out of here fast if it doesn't work."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "GARAK",
+          "line": "Gul Benil.",
+          "modifier": "screen"
+        }
+      ],
+      "location": "Cardassian ship"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "BENIL",
+          "line": "You, you're not Kobheerians.",
+          "modifier": "screen"
+        },
+        {
+          "character": "GARAK",
+          "line": "Very observant of you. Now turn your ships around."
+        },
+        {
+          "character": "BENIL",
+          "line": "Excuse me?",
+          "modifier": "screen"
+        },
+        {
+          "character": "GARAK",
+          "line": "This is an Alpha Red priority mission, clearance verification nine two one eight black. By the authority of the Central Command, you are ordered to turn your ships around. Erase all record of this encounter from your logs and talk of it to no one. Is that clear?"
+        },
+        {
+          "character": "COMPUTER",
+          "line": "Clearance code verified.",
+          "modifier": "screen"
+        },
+        {
+          "character": "BENIL",
+          "line": "My apologies. I had no idea.",
+          "modifier": "screen"
+        },
+        {
+          "character": "GARAK",
+          "line": "You were doing your duty. End transmission."
+        },
+        {
+          "character": "SISKO",
+          "line": "Mister Garak, I'm impressed."
+        },
+        {
+          "character": "GARAK",
+          "line": "Oh, it was just something I overheard while hemming someone's trousers. I suggest that we get away from here as quickly as possible, in case Gul Benil should decide to show some initiative."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "ENTEK",
+          "line": "All right. One more time, Iliana. What are the names of the Starfleet ships deployed along the Demilitarized zone?"
+        },
+        {
+          "character": "KIRA",
+          "line": "I don't know."
+        },
+        {
+          "character": "ENTEK",
+          "line": "That's not acceptable. As a Bajoran liaison officer, it's your duty to help coordinate Federation activity near Bajoran space. Now, what are the names of the ships deployed along the Demilitarized zone? Their names, Iliana. Give me their names."
+        },
+        {
+          "character": "GHEMOR",
+          "line": "I think you've asked enough questions for today."
+        },
+        {
+          "character": "ENTEK",
+          "line": "Legate, you can't come in here."
+        },
+        {
+          "character": "GHEMOR",
+          "line": "Do you presume to tell a member of the Central Command where he may and may not go in his own home?"
+        },
+        {
+          "character": "ENTEK",
+          "line": "This is Obsidian Order business. Our autonomy"
+        },
+        {
+          "character": "GHEMOR",
+          "line": "Is a privilege granted by the Central Command and is revocable at any time. Don't you agree?"
+        },
+        {
+          "character": "ENTEK",
+          "line": "Of course, Legate. Iliana, I'm afraid the next time we talk, it will have to be at the Order's facilities. Good day."
+        },
+        {
+          "character": "GHEMOR",
+          "line": "Iliana, are you all right?"
+        },
+        {
+          "character": "GHEMOR",
+          "line": "Iliana?"
+        },
+        {
+          "character": "KIRA",
+          "line": "No. No!"
+        },
+        {
+          "character": "GHEMOR",
+          "line": "Iliana!"
+        },
+        {
+          "character": "KIRA",
+          "line": "No."
+        },
+        {
+          "character": "GHEMOR",
+          "line": "It's all right. Everything will be all right."
+        },
+        {
+          "character": "GHEMOR",
+          "line": "I'm a selfish old man. I can't keep you here any longer, no matter how much I want to. Entek will never rest until he's broken you. If he takes you to Order Headquarters. We must get you away from Cardassia."
+        },
+        {
+          "character": "KIRA",
+          "line": "You'd do that for me? Why?"
+        },
+        {
+          "character": "GHEMOR",
+          "line": "You're my daughter, Iliana. There's nothing I wouldn't do for you. Even if it means losing you again."
+        }
+      ],
+      "location": "Iliana's room"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "GHEMOR",
+          "line": "Iliana? Here. For you."
+        },
+        {
+          "character": "KIRA",
+          "line": "It's beautiful."
+        },
+        {
+          "character": "GHEMOR",
+          "line": "It was your mother's. I want you to have it to remember her by."
+        },
+        {
+          "character": "KIRA",
+          "line": "I can't take this."
+        },
+        {
+          "character": "GHEMOR",
+          "line": "There's no use arguing. I can be as stubborn as you. It runs in the family."
+        },
+        {
+          "character": "ARI",
+          "line": "Legate?"
+        },
+        {
+          "character": "GHEMOR",
+          "line": "Iliana this is Ari. He's a friend. He's going to help get you off Cardassia."
+        },
+        {
+          "character": "KIRA",
+          "line": "Without the Order's knowledge? How's that possible?"
+        },
+        {
+          "character": "GHEMOR",
+          "line": "I have friends who can arrange things, friends who think the same way I do."
+        },
+        {
+          "character": "ARI",
+          "line": "The Obsidian Order and the Central Command have been given too much power over our lives. We're going to change that."
+        },
+        {
+          "character": "KIRA",
+          "line": "You're a dissident?"
+        },
+        {
+          "character": "ARI",
+          "line": "Your father is a great man. He has everything any Cardassian could want, yet he's willing to risk his life for what he believes."
+        },
+        {
+          "character": "GHEMOR",
+          "line": "People like Ari are the heroes. My position protects me. The risk is theirs."
+        },
+        {
+          "character": "ARI",
+          "line": "Legate, I have to get your daughter to our next contact."
+        },
+        {
+          "character": "GHEMOR",
+          "line": "Goodbye, Iliana. I love you."
+        },
+        {
+          "character": "KIRA",
+          "line": "Legate, I"
+        },
+        {
+          "character": "ARI",
+          "line": "Sir, we have to go now."
+        },
+        {
+          "character": "KIRA",
+          "line": "Wait. This is wrong."
+        },
+        {
+          "character": "GHEMOR",
+          "line": "Please, Ari's right."
+        },
+        {
+          "character": "KIRA",
+          "line": "No, don't you see? The fact that you're a dissident, that you're willing to help me? Now that can't be a coincidence."
+        },
+        {
+          "character": "GHEMOR",
+          "line": "Iliana, you have to trust me. We're trying to help you"
+        },
+        {
+          "character": "KIRA",
+          "line": "Oh, no, it's Entek I don't trust. Why did he go to so much trouble changing me into a Cardassian, sending me to you? It's not me he's after."
+        },
+        {
+          "character": "GHEMOR",
+          "line": "What are you talking about?"
+        },
+        {
+          "character": "KIRA",
+          "line": "What if the Order suspects your involvement with the dissidents?"
+        },
+        {
+          "character": "GHEMOR",
+          "line": "Impossible. I'm too well protected. They couldn't have evidence of my activities."
+        },
+        {
+          "character": "KIRA",
+          "line": "But they could still suspect you. And without any evidence, they wouldn't dare interrogate you, would they?"
+        },
+        {
+          "character": "ARI",
+          "line": "Central Command would never allow it."
+        },
+        {
+          "character": "KIRA",
+          "line": "Which is why they had to make you betray yourself. Which is why they kidnapped me, because I resemble your daughter. And they knew you would never stand by and watch me be tortured. They wanted you to do this. They wanted you to try and rescue me."
+        },
+        {
+          "character": "ENTEK",
+          "line": "Very astute, Major. You couldn't have done any better if you were one of us."
+        },
+        {
+          "character": "GHEMOR",
+          "line": "This is Ghemor. Three to beam out. Now."
+        },
+        {
+          "character": "ENTEK",
+          "line": "It won't work. We've got a transporter suppression field over this whole area."
+        },
+        {
+          "character": "ARI",
+          "line": "No!"
+        },
+        {
+          "character": "ENTEK",
+          "line": "You don't know how long I've waited for this day. Imagine, in one bold stroke the Obsidian Order will unmask a traitor in the Central Command and shatter the entire dissident movement. And we have you to thank for it."
+        },
+        {
+          "character": "GHEMOR",
+          "line": "The movement will survive without me."
+        },
+        {
+          "character": "ENTEK",
+          "line": "You underestimate your importance, Legate. With your help, we'll be able to purge the government of all disloyalty. The enemies of Cardassia will be destroyed."
+        },
+        {
+          "character": "GHEMOR",
+          "line": "The enemies of the Order, you mean."
+        },
+        {
+          "character": "ENTEK",
+          "line": "The Obsidian Order is Cardassia."
+        },
+        {
+          "character": "GHEMOR",
+          "line": "What are you doing?"
+        },
+        {
+          "character": "ENTEK",
+          "line": "I think you know. Major, your testimony would make for a more dramatic trial, but I'd be willing to dispense with it if you give us any trouble."
+        },
+        {
+          "character": "GARAK",
+          "line": "The Major is the least of your problems, Entek."
+        },
+        {
+          "character": "SISKO",
+          "line": "I suggest you lower your weapons."
+        },
+        {
+          "character": "GARAK",
+          "line": "Do as he says. Now, Entek."
+        },
+        {
+          "character": "ODO",
+          "line": "I'll take that. Thank you."
+        },
+        {
+          "character": "KIRA",
+          "line": "Get over with him."
+        },
+        {
+          "character": "ENTEK",
+          "line": "Garak, what are you doing here?"
+        },
+        {
+          "character": "GARAK",
+          "line": "I got homesick. I think we'd better be going."
+        },
+        {
+          "character": "KIRA",
+          "line": "Don't worry, he's on our side. I think. Come on."
+        },
+        {
+          "character": "GARAK",
+          "line": "Major, I don't think I've ever seen you looking so ravishing."
+        },
+        {
+          "character": "SISKO",
+          "line": "Are you all right?"
+        },
+        {
+          "character": "KIRA",
+          "line": "I'm fine. How did you?"
+        },
+        {
+          "character": "GARAK",
+          "line": "Suffice it to say, I still have friends on Cardassia. You will no doubt derive years of enjoyment trying to determine exactly who they are."
+        },
+        {
+          "character": "SISKO",
+          "line": "Legate, we have a ship waiting. From the sound of things, I think you'd better come with us."
+        },
+        {
+          "character": "GHEMOR",
+          "line": "Yes, I think that might be wise."
+        },
+        {
+          "character": "ENTEK",
+          "line": "Garak, I don't understand. Why are you helping these people? Ghemor is a traitor, an enemy of the Order."
+        },
+        {
+          "character": "GARAK",
+          "line": "Treason, like beauty, is in the eye of the beholder."
+        },
+        {
+          "character": "ENTEK",
+          "line": "You're making a serious mistake. Up until now, the Order was satisfied to let you live in exile, but now"
+        },
+        {
+          "character": "KIRA",
+          "line": "Come on. Odo, Garak, let's go."
+        },
+        {
+          "character": "GARAK",
+          "line": "I'd almost forgotten what a pleasure it was to be with my fellow Cardassians. And though I'd like to stay and listen to you bluster, I simply don't have the time."
+        },
+        {
+          "character": "GARAK",
+          "line": "A pity. I rather liked him."
+        }
+      ],
+      "location": "Ghemor's home"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "GHEMOR",
+          "line": "So, it was all a lie?"
+        },
+        {
+          "character": "KIRA",
+          "line": "According to Doctor Bashir, my genetic structure is entirely Bajoran. The alterations were surgical."
+        },
+        {
+          "character": "GHEMOR",
+          "line": "What about the man who said he was with you at Elemspur?"
+        },
+        {
+          "character": "KIRA",
+          "line": "Gone. Completely disappeared. We suspect he was a Cardassian agent. He's probably the one who changed the Detention Center records in the first place."
+        },
+        {
+          "character": "GHEMOR",
+          "line": "I thought you'd be happy."
+        },
+        {
+          "character": "KIRA",
+          "line": "I am. It's just, I still don't understand. If Iliana really was transformed into a Bajoran, then why did Entek have me kidnapped? Why not bring Iliana back instead?"
+        },
+        {
+          "character": "GHEMOR",
+          "line": "Because the desegranine would've worked on Iliana. Her memories would've returned and she would have cooperated with Entek. But they knew that you'd resist and that I'd be forced to try to get you off of Cardassia."
+        },
+        {
+          "character": "KIRA",
+          "line": "Do you think Iliana's still alive?"
+        },
+        {
+          "character": "GHEMOR",
+          "line": "I have to. I'm her father. For all I know, she's still on Bajor, and someday I'll find her."
+        },
+        {
+          "character": "KIRA",
+          "line": "Are you sure you don't want to stay on the station?"
+        },
+        {
+          "character": "GHEMOR",
+          "line": "There's no place for me here. The Mathenite government has offered me political sanctuary. I'll be safe there. One more thing before I leave. Can I give you some fatherly advice, for old times sake?"
+        },
+        {
+          "character": "KIRA",
+          "line": "Of course."
+        },
+        {
+          "character": "GHEMOR",
+          "line": "That Garak fellow who helped you, helped us. Don't trust him, Nerys. Ever. He's a dangerous man and he'd betray you and all of your friends in an instant if he thought it would help him."
+        },
+        {
+          "character": "KIRA",
+          "line": "I'll keep my eye on him."
+        },
+        {
+          "character": "GHEMOR",
+          "line": "I suppose it's time to go."
+        },
+        {
+          "character": "KIRA",
+          "line": "Here."
+        },
+        {
+          "character": "KIRA",
+          "line": "It doesn't belong to me. I can't keep it."
+        },
+        {
+          "character": "GHEMOR",
+          "line": "No. I want you to have it. You may not be my daughter, but until I find Iliana, you're the closest thing I have to family."
+        },
+        {
+          "character": "KIRA",
+          "line": "I want you to know something. In spite of whatever I might have said, I realize now you're an honorable man. And I think your daughter must have loved you very much."
+        }
+      ],
+      "location": "Corridor"
+    }
+  ],
+  "schedule": {
+    "episode": 5,
+    "number": 51,
+    "season": 3
+  },
+  "stardate": "Unknown",
+  "title": "Second Skin"
+}
