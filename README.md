@@ -1,4 +1,4 @@
-# Star-Trek-Script-Programmatics
+# Star-Trek-Script-Programmatics -- Machine Readable Star Trek Scripts!
 
 A collection of Star Trek scripts dumped to JSON. A bit of a messy repo from my work but better the data be out there than not.
 
