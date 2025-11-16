@@ -5,7 +5,7 @@
       "dialogue": [
         {
           "character": "PICARD",
-          "line": "Captain's log, stardate 45494.2. We're investigating a series of subspace signals that may indicate intelligent life in the Epsilon Silar System. We are within sensor range.",
+          "line": "Captain's log, stardate 45494.2. We're investigating a series of subspace signals that may indicate intelligent life in the Epsilon solar system. We are within sensor range.",
           "modifier": "voiceover"
         }
       ],
@@ -1803,10 +1803,14 @@
       "dialogue": [
         {
           "character": "RIKER",
-          "line": "I hope I'm not interrupting. RO +"
+          "line": "I hope I'm not interrupting."
         },
         {
           "character": "TROI",
+          "line": "No."
+        },
+        {
+          "character": "RO",
           "line": "No."
         },
         {
