@@ -2,6 +2,8 @@
 
 A collection of Star Trek scripts dumped to JSON. A bit of a messy repo from my work but better the data be out there than not.
 
+Use the `search.py` script for super fast direct search of all lines from the show.
+
 `processed` contains TNG and VOY scripts in cleaned JSON mode, grouped per episode. **This is likely what you want if you're doing any kind off automated work.**
 
 `dumps` are the raw complete transcripts of an entire show concatenated together, with limited speaker and location identification.
