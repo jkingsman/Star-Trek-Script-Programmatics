@@ -1695,7 +1695,6 @@ season,episode,title,character,line
 1,5,Unexpected,TUCKER,Don't forget to come back for me.
 1,5,Unexpected,TRAVIS,I don't know. We are kind of busy. Have fun.
 1,5,Unexpected,TUCKER,Hello?
-1,5,Unexpected,TUCKER,Hello?
 1,5,Unexpected,AH'LEN,Try to maintain your normal rate of respiration.
 1,5,Unexpected,TUCKER,This stuff's burning my lungs.
 1,5,Unexpected,AH'LEN,Maintain your normal rate of respiration. The diskomfort will subside.
@@ -2116,7 +2115,6 @@ season,episode,title,character,line
 1,6,Terra Nova,T'POL,"Correction, ten meters."
 1,6,Terra Nova,REED,"I'm all right, sir."
 1,6,Terra Nova,ARCHER,Malcolm?
-1,6,Terra Nova,ARCHER,Malcolm?
 1,6,Terra Nova,TRAVIS,Where's Malcolm?
 1,6,Terra Nova,ARCHER,Go.
 1,6,Terra Nova,ARCHER,Take us up.
@@ -2477,7 +2475,6 @@ season,episode,title,character,line
 1,7,The Andorian Incident,ARCHER,I don't know.
 1,7,The Andorian Incident,SHRAN,You humans obviously have emotions. I find it curious that you'd select a Vulcan as your science officer.
 1,7,The Andorian Incident,ARCHER,"Believe me, she wasn't my first choice."
-1,7,The Andorian Incident,SHRAN,Why a Vulcan?
 1,7,The Andorian Incident,SHRAN,Why a Vulcan?
 1,7,The Andorian Incident,ARCHER,She was assigned to us by the Vulcan High Command.
 1,7,The Andorian Incident,SHRAN,You take orders from the High Command?
@@ -4701,7 +4698,6 @@ season,episode,title,character,line
 1,13,Dear Doctor,PHLOX,"In Denobulan, please."
 1,13,Dear Doctor,HOSHI,Are you two mating?
 1,13,Dear Doctor,PHLOX,I believe the word you're searching for is dating.
-1,13,Dear Doctor,HOSHI,"Well, are you?"
 1,13,Dear Doctor,HOSHI,"Well, are you?"
 1,13,Dear Doctor,PHLOX,I'm not exactly sure.
 1,13,Dear Doctor,HOSHI,There are ways you can tell. Does she want to spend time with you? Does she find excuses to to make physical contact?
@@ -10707,6 +10703,36 @@ season,episode,title,character,line
 2,3,Minefield,ARCHER,Ten? It was more like twenty.
 2,3,Minefield,REED,"Respectfully, sir, it was ten."
 2,3,Minefield,ARCHER,"I'm not going to argue with you, Malcolm. It was twenty. That's an order."
+2,4,A Night In Sickbay,ARCHER,"Starfleet didn't send us out here to humiliate ourselves. How long were we in orbit, groveling? Six days?"
+2,4,A Night In Sickbay,HOSHI,"Five, sir, and it wasn't exactly groveling."
+2,4,A Night In Sickbay,ARCHER,"Apologizing, asking forgiveness, just because we ate lunch in front of them on our own ship months ago. I call that groveling."
+2,4,A Night In Sickbay,HOSHI,They were offended.
+2,4,A Night In Sickbay,T'POL,The Kreetassans manufacture plasma injectors. We need one.
+2,4,A Night In Sickbay,ARCHER,So we spend six days groveling.
+2,4,A Night In Sickbay,HOSHI,Five days.
+2,4,A Night In Sickbay,ARCHER,"And when they finally agree to talk to us, we go down. And what do they do? They keep us waiting for twelve hours and then send us packing. No explanation, no plasma injector. Just leave, go back to your ship."
+2,4,A Night In Sickbay,T'POL,We obviously offended them again.
+2,4,A Night In Sickbay,ARCHER,"Maybe my hair's parted on the wrong side. I'm exhausted, and I've had it with these people."
+2,4,A Night In Sickbay,HOSHI,Go ahead.
+2,4,A Night In Sickbay,PHLOX OC,"The three of you are clear to go, but I'm afraid I'll need to keep Porthos for a while."
+2,4,A Night In Sickbay,ARCHER,What's the problem?
+2,4,A Night In Sickbay,PHLOX OC,He picked up a pathogen of some kind on the surface. Neither decon agent has been effective.
+2,4,A Night In Sickbay,ARCHER,What are you going to do?
+2,4,A Night In Sickbay,PHLOX OC,I'm not sure yet. I'll let you know as soon as I run some tests.
+2,4,A Night In Sickbay,HOSHI,"Feel better, Porthos."
+2,4,A Night In Sickbay,ARCHER,Doc'll have you good as new before you know it. I might even break the no-cheese rule tonight.
+2,4,A Night In Sickbay,ARCHER,"Sorry, fella. You got to stay. Engineering -"
+2,4,A Night In Sickbay,9,09 pm
+2,4,A Night In Sickbay,TUCKER,"We're playing with fire, Captain. It's just a matter of time before this injector gives up the ghost."
+2,4,A Night In Sickbay,ARCHER,You've got four more. The ship can run on four.
+2,4,A Night In Sickbay,TUCKER,"Yeah, but it can't run on three. You know what happens at warp speed when you've only got three plasma injectors online."
+2,4,A Night In Sickbay,ARCHER,What are the odds of us losing another one before we find a replacement?
+2,4,A Night In Sickbay,TUCKER,"I'm not comfortable with four, Captain. We need five. What the hell happened down there, anyway?"
+2,4,A Night In Sickbay,ARCHER,T'Pol thinks we insulted them again.
+2,4,A Night In Sickbay,TUCKER,How? You didn't eat cabbage before you left.
+2,4,A Night In Sickbay,ARCHER,"I was a perfect gentleman. We're going to have to go somewhere else to find you your injector, Trip. These people are impossible."
+2,4,A Night In Sickbay,TUCKER,"Their components are metallurgically sound, dependable. We could look for six months and not find anything half as compatible. You're a trained diplomat. Take the high road. There's got to be some way you can kiss and make up."
+2,4,A Night In Sickbay,ARCHER,"I'll have T'Pol see if she can find out what we did, but I'm not promising anything."
 2,4,A Night In Sickbay,ARCHER,I went to decon. I thought you were there with Porthos. Is every
 2,4,A Night In Sickbay,PHLOX,It's all right to pet him. You'll have to use the isolation gloves.
 2,4,A Night In Sickbay,ARCHER,Did you run your tests?
@@ -17928,15 +17954,15 @@ season,episode,title,character,line
 2,25,Bounty,SKALAAR,"Tezra's not a person, it's a cargo ship. Far more impressive than this antique."
 2,25,Bounty,ARCHER,You're going to use the reward to buy your ship back?
 2,25,Bounty,SKALAAR,You'd be wise to keep quiet. The Klingons pay me the same whether you're alive or dead. A vessel's approaching. I wouldn't get too optimistic. It's not your starship. KAGO-
-2,25,Bounty,DARR,You have something I want.
+2,25,Bounty,KAGO-DARR,You have something I want.
 2,25,Bounty,SKALAAR,"Always one step behind me, eh, Kago? KAGO-"
-2,25,Bounty,DARR,Drop out of warp and surrender the prisoner.
+2,25,Bounty,KAGO-DARR,Drop out of warp and surrender the prisoner.
 2,25,Bounty,SKALAAR,Why would I do that? KAGO-
-2,25,Bounty,DARR,Don't force me to take action.
+2,25,Bounty,KAGO-DARR,Don't force me to take action.
 2,25,Bounty,SKALAAR,"Goroth told you where I was, didn't he. KAGO-"
-2,25,Bounty,DARR,You had two months to find the human. Goroth contacted me because you obviously weren't going to succeed. You're incompetent!
+2,25,Bounty,KAGO-DARR,You had two months to find the human. Goroth contacted me because you obviously weren't going to succeed. You're incompetent!
 2,25,Bounty,SKALAAR,"If I was incompetent Archer would be aboard your ship, wouldn't he? KAGO-"
-2,25,Bounty,DARR,The human. Now.
+2,25,Bounty,KAGO-DARR,The human. Now.
 2,25,Bounty,SKALAAR,"Or what, you'll destroy my shuttle? Can't collect on Archer if he's a cloud of vapor."
 2,25,Bounty,SKALAAR,You may want to hold on to something.
 2,25,Bounty,ARCHER,Let me out. I can help you.
@@ -18040,11 +18066,11 @@ season,episode,title,character,line
 2,25,Bounty,TUCKER,Biosigns?
 2,25,Bounty,REED,One.
 2,25,Bounty,TUCKER,Open a channel. KAGO-
-2,25,Bounty,DARR,Yes.
+2,25,Bounty,KAGO-DARR,Yes.
 2,25,Bounty,TUCKER,"Sorry to bother you, but we're looking for a Tellarite shuttle. Have you seen one? KAGO-"
-2,25,Bounty,DARR,How much did the Klingons offer you?
+2,25,Bounty,KAGO-DARR,How much did the Klingons offer you?
 2,25,Bounty,TUCKER,"Klingons? Look, there must be some sort of misunderstanding here. We're looking for our Captain. KAGO-"
-2,25,Bounty,DARR,Your Captain. He's got a price on his head. He's probably halfway to Klingon space by now.
+2,25,Bounty,KAGO-DARR,Your Captain. He's got a price on his head. He's probably halfway to Klingon space by now.
 2,25,Bounty,TUCKER,"Travis, how close are we to Klingon space?"
 2,25,Bounty,TRAVIS,Less than six light years.
 2,25,Bounty,TUCKER,If that Tellarite's looking to collect some kind of reward we'd better find him before he gets there. Set a course. Take us back to warp.
@@ -21517,7 +21543,6 @@ season,episode,title,character,line
 3,10,Similitude,SIM,I was trying to teach him to fetch.
 3,10,Similitude,ARCHER,"Now, don't take it personally. Fetching isn't his style."
 3,10,Similitude,PHLOX,"I'm sorry, Captain. I was in the middle of giving Porthos his physical. I only turned my back for a moment."
-3,10,Similitude,,It's all right. Is he okay?
 3,10,Similitude,PHLOX,"Yes, indeed. He's in peak physical condition. Which is more than I can say for myself."
 3,10,Similitude,ARCHER,It's almost time for his dinner. Do you want to help me feed him?
 3,10,Similitude,SIM,Sure.
@@ -23137,7 +23162,6 @@ season,episode,title,character,line
 3,14,Stratagem,ARCHER,"As long as they don't know we were here, we can leave them with a mystery. Go ahead."
 3,14,Stratagem,REED,"The Xindi vessel's less than an hour away, sir. Captain's starlog, supplemental. Hopefully the journey to Azati Prime will be the final leg in our search for the Xindi weapon."
 3,15,Harbinger,T'POL,Previously on Enterprise. ARCHER [Command center]
-3,15,Harbinger,,Whoever built these Spheres may have done it to create the Expanse.
 3,15,Harbinger,T'POL,Why would someone want to create a web of crippling anomalies?
 3,15,Harbinger,D'JAMAT,We believe that it is through prayer and meditation that the Makers become manifest.
 3,15,Harbinger,ARCHER,The Makers?
@@ -25174,7 +25198,7 @@ season,episode,title,character,line
 3,20,The Forgotten,ARCHER,Get back to the airlock.
 3,20,The Forgotten,REED,"I'm almost finished, Captain."
 3,20,The Forgotten,ARCHER,That's an order.
-3,20,The Forgotten,TUCKER,"Get inside, Malcolm. I can wrap it up.  I'm opening the primary bypass port. Two more to go and we're in business. (Reed gets his panel open and sends it floating off into space.)"
+3,20,The Forgotten,TUCKER,"Get inside, Malcolm. I can wrap it up. I'm opening the primary bypass port. Two more to go and we're in business. (Reed gets his panel open and sends it floating off into space.)"
 3,20,The Forgotten,HOSHI,Forty six degrees.
 3,20,The Forgotten,ARCHER,Malcolm.
 3,20,The Forgotten,REED,"I'm sorry sir, you're breaking up."
@@ -25257,7 +25281,7 @@ season,episode,title,character,line
 3,20,The Forgotten,T'POL,You might find this useful. Portable power cells.
 3,20,The Forgotten,TUCKER,Courtesy of our new Xindi friends? Damn neighborly of them.
 3,20,The Forgotten,T'POL,Is there anything I can help you with?
-3,20,The Forgotten,TUCKER,"Not unless you can resurrect the dead. Crewman Taylor had a real knack for this kind of thing. But Taylor's not here, is she, and neither is Crewman Kamata, or Ensign Marcel or a dozen others. So forgive me if I don't want the damn power cells! (kicks the container across the corridor) We found Taylor over there, outside her quarters. She was probably trying to get to her station. If she'd made it a few more meters I wouldn't be trying to write this damn letter. 'Cause every time I start I hear myself saying, what a fine young woman she was, how smart and full of potential. And I realize that I'm not thinking about Taylor at all. I'm thinking about Elizabeth. There's so many people dead. I tried not to see her any differently than the other seven million, so I've spent the last nine months trying to pretend she was just another victim. But she's my sister, T'Pol. My baby sister.  I envy you Vulcans."
+3,20,The Forgotten,TUCKER,"Not unless you can resurrect the dead. Crewman Taylor had a real knack for this kind of thing. But Taylor's not here, is she, and neither is Crewman Kamata, or Ensign Marcel or a dozen others. So forgive me if I don't want the damn power cells! (kicks the container across the corridor) We found Taylor over there, outside her quarters. She was probably trying to get to her station. If she'd made it a few more meters I wouldn't be trying to write this damn letter. 'Cause every time I start I hear myself saying, what a fine young woman she was, how smart and full of potential. And I realize that I'm not thinking about Taylor at all. I'm thinking about Elizabeth. There's so many people dead. I tried not to see her any differently than the other seven million, so I've spent the last nine months trying to pretend she was just another victim. But she's my sister, T'Pol. My baby sister. I envy you Vulcans."
 3,20,The Forgotten,T'POL,"You think that the loss of a colleague or friend doesn't affect us? It does. But if we give in to those emotions, they overwhelm us. You're the ones to be envied."
 3,20,The Forgotten,DEGRA,"You need to speak to the Council. With the evidence you've shown me, they'll have no choice but to take us seriously."
 3,20,The Forgotten,ARCHER,Even the reptilians?
@@ -26824,7 +26848,6 @@ season,episode,title,character,line
 3,24,Zero Hour,OFFICER,Where is he?
 3,24,Zero Hour,DOCTOR,Follow me. He was brought in yesterday. He's been badly burned. Do you recognize the uniform?
 4,1,"Storm Front, Part One",T'POL,Previously on Enterprise. DANIELS [Future]
-4,1,"Storm Front, Part One",,This species has technology which allows them to examine alternate timelines. They've seen this future and they want to change the outcome.
 4,1,"Storm Front, Part One",REED,We've got less than ten hours before this weapon reaches Earth. The captain wants to take a team aboard to destroy it.
 4,1,"Storm Front, Part One",ARCHER,Give me the charges.
 4,1,"Storm Front, Part One",REED,"I'll take care of it, sir."
@@ -29605,7 +29628,6 @@ season,episode,title,character,line
 4,8,Awakening,REED,Andoria?
 4,8,Awakening,TUCKER,Maximum warp. To Be Continued...
 4,9,Kir'Shara,T'POL,"Previously, on Enterprise ARCHER [OC] [United Earth Embassy]"
-4,9,Kir'Shara,,Admiral Forrest has been killed.
 4,9,Kir'Shara,V'LAS,The Syrrannites were responsible and they'll be dealt with accordingly. Your position is terminated immediately.
 4,9,Kir'Shara,ARCHER,Surak.
 4,9,Kir'Shara,SURAK,You're seeing the past through my eyes. The culture you've come to know isn't the one I helped to create.
@@ -31103,7 +31125,6 @@ season,episode,title,character,line
 4,12,Babel One,REED,This is true.
 4,12,Babel One,TUCKER,Pure oxygen. Be my guest.
 4,12,Babel One,REED,Thanks.
-4,12,Babel One,,Hold. Magnify that image. Humans.
 4,12,Babel One,NIJIL,If they make their way to the Bridge.
 4,12,Babel One,VALDORE,Are the inertial stabilizers offline?
 4,12,Babel One,NIJIL,They are.

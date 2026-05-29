@@ -1,0 +1,1782 @@
+{
+  "airdate": 1602140400,
+  "scenes": [
+    {
+      "dialogue": [
+        {
+          "character": "RANSOM",
+          "line": "The Cerritos is in orbit around Beta III. Back in the day, these guys worshiped a violent god called Landru, who suppressed their creativity and made them kill each other, until Kirk figured out it was actually a computer. Get this. At some point, these knuckleheads went back to worshiping Landru.",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "Beta III"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "RANSOM",
+          "line": "Captain Freeman has been setting them straight all morning.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "FREEMAN",
+          "line": "I can't believe you all started re-worshiping the dang computer."
+        },
+        {
+          "character": "BETAN",
+          "line": "Well, Landru's very persuasive."
+        },
+        {
+          "character": "LANDRU",
+          "line": "Consume the intruders! Obey Landru!"
+        },
+        {
+          "character": "FREEMAN",
+          "line": "Hey, don't make me paradox you into destroying yourself."
+        },
+        {
+          "character": "LANDRU",
+          "line": "Landru apologizes."
+        },
+        {
+          "character": "FREEMAN",
+          "line": "This is literally the exact thing Captain Kirk taught you. Maybe write it down this time? Cerritos, two to beam up."
+        },
+        {
+          "character": "BETAN 2",
+          "line": "Well, I like purging people during the red hour. I'm going to keep doing it."
+        },
+        {
+          "character": "BETAN 3",
+          "line": "Dude, there is no more red hour, okay? Let it go."
+        },
+        {
+          "character": "BETAN 2",
+          "line": "But I just bought a new scythe."
+        }
+      ],
+      "location": "Landru's computer room"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "FREEMAN",
+          "line": "Urgh, Landru."
+        }
+      ],
+      "location": "Transporter room"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "RANSOM",
+          "line": "I know, it's always weird revisiting planets from the TOS era."
+        },
+        {
+          "character": "FREEMAN",
+          "line": "TOS?"
+        },
+        {
+          "character": "RANSOM",
+          "line": "It's what I call the 2260s. Stands for Those Old Scientists. You know, Spock, Scotty, those guys. Seems like they were stumbling on crazy new aliens every week back then."
+        }
+      ],
+      "location": "Corridor"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "FREEMAN",
+          "line": "Nothing against second contact missions, but the Cerritos should be popping in on those legacy civilisations before they unravel."
+        },
+        {
+          "character": "RANSOM",
+          "line": "Yeah, but popping in is against regulation. We would need specific orders."
+        },
+        {
+          "character": "FREEMAN",
+          "line": "I just hate seeing a perfectly good society get destroyed by a Gamester of Triskelion or whatever, because Starfleet has a policy of some intervention."
+        }
+      ],
+      "location": "Turbolift"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "FREEMAN",
+          "line": "Set coordinates for Starbase 77."
+        },
+        {
+          "character": "HELM",
+          "line": "Sorry, Captain, but we still have crew on Beta III."
+        },
+        {
+          "character": "FREEMAN",
+          "line": "I didn't authorize that. Who is it?"
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "MARINER",
+          "line": "Art supplies! Get your art supplies! We got paints, we got brushes, we got a spiky, pencil, twirl-around thingy. Boost your creativity! Express yourself! Stop praying to a computer! Hoo boy, incoming lecture in five, four..."
+        },
+        {
+          "character": "BOIMLER",
+          "line": "Who wants crayons? Here you go, kid. Way better than the red hour."
+        },
+        {
+          "character": "MARINER",
+          "line": "Since when do you break protocol?"
+        },
+        {
+          "character": "BOIMLER",
+          "line": "I'm just tired of you getting to do all the good stuff while I stick to the rules."
+        },
+        {
+          "character": "RANSOM",
+          "line": "Ensign Boimler? Do you read?",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "MARINER",
+          "line": "Whoa-ho-ho, look at Brad Boimler being cool for once. Oh, wait. Is this because of my teachings?"
+        },
+        {
+          "character": "BOIMLER",
+          "line": "Okay, you don't teach. You just instigate chaos."
+        },
+        {
+          "character": "MARINER",
+          "line": "Exactly. Helpful, character-building chaos."
+        },
+        {
+          "character": "RANSOM",
+          "line": "I can hear you, can you hear me?",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "Beta III"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "MARINER",
+          "line": "Aw, Boims! I thought you were gonna get stuck in middle management, like this pathetic little fly in amber, like... Oh, like Ransom!",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "RANSOM",
+          "line": "I am not a little fly in amber!"
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "MARINER",
+          "line": "What did it, huh? My constant mockery? My non-stop prodding? My downright-dangerous hazing?"
+        },
+        {
+          "character": "BOIMLER",
+          "line": "No, no. Look. If you have to know, I found out about your secret."
+        },
+        {
+          "character": "MARINER",
+          "line": "You mean never eating after 7? It's a miracle, right? I mean, it does work, you should try it."
+        },
+        {
+          "character": "BOIMLER",
+          "line": "Captain Freeman is your mom."
+        },
+        {
+          "character": "MARINER",
+          "line": "Yeah, I don't, I don't know what you're talking about."
+        },
+        {
+          "character": "BOIMLER",
+          "line": "Oh, come on, Mariner. The captain's your mom. Your dad's an admiral. You're basically Starfleet royalty. How cool is that?"
+        },
+        {
+          "character": "MARINER",
+          "line": "Shut the f*** up right now, Boimler. Shut your f*****g mouth."
+        },
+        {
+          "character": "BOIMLER",
+          "line": "This is a good thing! Now we can both do some good and you'll just, you know..."
+        }
+      ],
+      "location": "Beta III"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "BOIMLER",
+          "line": ".keep us out of trouble with your mom...",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "MARINER",
+          "line": "What?! No that is not how...",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "BOIMLER",
+          "line": "I just don't understand why it's such a secret. I'd be telling everyone.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "FREEMAN",
+          "line": "Move!"
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "MARINER",
+          "line": "Dude, I do not want people knowing my mom is my mom!"
+        },
+        {
+          "character": "BOIMLER",
+          "line": "Okay, okay. I'm not gonna tell a soul."
+        },
+        {
+          "character": "MARINER",
+          "line": "I'm being serious! Shut up!"
+        },
+        {
+          "character": "BOIMLER",
+          "line": "So, er, does Captain Mommy give you, er, sweet little captain kisses? Mwa, mwa."
+        }
+      ],
+      "location": "Beta III"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "OFFICER",
+          "line": "Plasma ring scan is complete, Captain Dayton."
+        },
+        {
+          "character": "DAYTON",
+          "line": "Oh, yeah. I loved the Rubidoux, but nothing beats a brand new ship... Hey! Who peeled this film off the weapons panel?! Come on, guys! I want the Solvang to be perfect for as long as possible. Hey! Take those shoes off right now!"
+        },
+        {
+          "character": "DAYTON",
+          "line": "What? Aah! What the hell was that?!"
+        },
+        {
+          "character": "OFFICER",
+          "line": "We're being fired upon. Raise shield, red alert."
+        },
+        {
+          "character": "DAYTON",
+          "line": "Get us out of here!"
+        },
+        {
+          "character": "TACTICS",
+          "line": "Shields at ten percent. Direct hit to main engines."
+        },
+        {
+          "character": "DAYTON",
+          "line": "Warp! Now!"
+        }
+      ],
+      "location": "USS Solvang, Kalla system"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TENDI",
+          "line": "Ah! I can't believe I get to be orientation liaison for a new recruit. I am going to show her so many ropes. Hello? Rutherford?"
+        },
+        {
+          "character": "RUTHERFORD",
+          "line": "Sorry. Just trying to adjust this little thingy on my implant's attitude selector. Crazy about Mariner and the captain, right? Oh, man, Captain Freeman Day is gonna be super awkward this year. Ah!"
+        },
+        {
+          "character": "TENDI",
+          "line": "There's the shuttle!"
+        },
+        {
+          "character": "RUTHERFORD",
+          "line": "Ha. Look at this new button! Optimistic mode? This is going to be great! But... sexy mode? Mmm. Don't mind if I do. 'Ello. Chimchimurri. What's all this then?"
+        },
+        {
+          "character": "EXOCOMP",
+          "line": "Aw, it's beautiful!"
+        },
+        {
+          "character": "TENDI",
+          "line": "Oh, there she is... The little robot exocomp! Oh, my gosh. Hi."
+        },
+        {
+          "character": "EXOCOMP",
+          "line": "Are you Ensign Tendi?"
+        },
+        {
+          "character": "TENDI",
+          "line": "Oh, my gosh. Yes, I am! And I'm so happy you're here!"
+        },
+        {
+          "character": "EXOCOMP",
+          "line": "I'm happy to be here! This is so exciting!"
+        },
+        {
+          "character": "RUTHERFORD",
+          "line": "Hoo-wee! Howdy there. Now I'm talking like a cowboy."
+        },
+        {
+          "character": "EXOCOMP",
+          "line": "That was a weird thing to say!"
+        },
+        {
+          "character": "TENDI",
+          "line": "It sure was!"
+        }
+      ],
+      "location": "Shuttlebay"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "FREEMAN",
+          "line": "Urgh. Why did we ever keep this a secret in the first place?"
+        },
+        {
+          "character": "MARINER",
+          "line": "Oh! I just wanted to fly under the radar!"
+        },
+        {
+          "character": "FREEMAN",
+          "line": "And I didn't want anyone to know the most demerited officer in the fleet was my daughter."
+        },
+        {
+          "character": "MARINER",
+          "line": "Well, Wesley Crusher worked with his mom. Maybe everybody'll be cool about it."
+        },
+        {
+          "character": "RANSOM",
+          "line": "Captain, captain's daughter... Er, I mean Mariner."
+        },
+        {
+          "character": "FREEMAN",
+          "line": "Oh, what is it, Jack?"
+        },
+        {
+          "character": "RANSOM",
+          "line": "Captain, I'm putting together a list of candidates for the Sacramento promotion. I'd love your input. May I just say I am very sorry if I ever treated you with anything other than admiration."
+        },
+        {
+          "character": "MARINER",
+          "line": "Oh, shut up, Ransom! You're such a suck-up!"
+        },
+        {
+          "character": "RANSOM",
+          "line": "From now on, I'll make sure to give you special attention."
+        },
+        {
+          "character": "FREEMAN",
+          "line": "No! Be as hard on her as you always are!"
+        },
+        {
+          "character": "MARINER",
+          "line": "Yeah, be hard on me!"
+        },
+        {
+          "character": "RANSOM",
+          "line": "I'm only hard on you when you make me hard! I mean, I'm-I'm not hard right now! I mean, I could... I could get hard, if I wanted to, but I'm not hard right now. I'm so sorry! You're both great!"
+        },
+        {
+          "character": "MARINER",
+          "line": "Argh!"
+        }
+      ],
+      "location": "Ready room"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "CREW",
+          "line": "I heard she's the captain's daughter."
+        },
+        {
+          "character": "LEVY",
+          "line": "Hey, Mariner, I'm Lieutenant Levy. We went on a date last year. I don't know if you recall."
+        },
+        {
+          "character": "MARINER",
+          "line": "Yeah, Steve, I remember. You said Wolf 359 was an inside job."
+        },
+        {
+          "character": "LEVY",
+          "line": "It totally was. So, hey, I was wondering, could give this to your mom for me? It's just a few ideas I threw together on how to decorate the captain's yacht."
+        },
+        {
+          "character": "MARINER",
+          "line": "Fine. Whatever."
+        },
+        {
+          "character": "LEVY",
+          "line": "You're the best. Thanks, Mariner. Changelings aren't real. The Dominion War didn't happen!"
+        },
+        {
+          "character": "WOMAN",
+          "line": "Hey, Mariner! Okay, can you just? Oh, okay, little closer."
+        },
+        {
+          "character": "MARINER",
+          "line": "Hey, don't log that, all right? I don't want to see that up on the... Oh!"
+        },
+        {
+          "character": "T'ANA",
+          "line": "Hey! This is a service corridor, not a social club, Ensign."
+        },
+        {
+          "character": "MARINER",
+          "line": "Sorry, Doc. Won't happen again."
+        },
+        {
+          "character": "T'ANA",
+          "line": "You think your mom would be okay with me and Shaxs making a little love connection? I'd love to snag that Bajoran beefsteak with my coital hooks."
+        }
+      ],
+      "location": "Corridor"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "CREWMAN",
+          "line": "Captain, we've received a partial distress call from the Solvang."
+        },
+        {
+          "character": "FREEMAN",
+          "line": "I guess Captain Dayton's still getting used to the controls in her new ship."
+        },
+        {
+          "character": "CREWMAN",
+          "line": "Sir, the signal originated in the Kalla system."
+        },
+        {
+          "character": "FREEMAN",
+          "line": "Well, there isn't anything distressing there."
+        },
+        {
+          "character": "RANSOM",
+          "line": "The Titan is also within range."
+        },
+        {
+          "character": "FREEMAN",
+          "line": "No. Let them know that we have it. Dayton's going to hate that we came running to her rescue because someone leaned on a button."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "MARINER",
+          "line": "Oh, this sucks."
+        },
+        {
+          "character": "BILLUPS",
+          "line": "Yo, yo, Mariner! I was just crossing through the, er, lower decks, and I replicated you some hand pies."
+        },
+        {
+          "character": "MARINER",
+          "line": "Hand... What is a hand pie? You know what? No thank you."
+        },
+        {
+          "character": "BOIMLER",
+          "line": "Ooo, key lime? Mmm. Mmm."
+        },
+        {
+          "character": "MARINER",
+          "line": "I won't be able to do any of my usual sneaky Robin Hood stuff now that everybody's paying attention to me. Yesterday, he literally didn't know my name. He called me Jen. Who here is named Jen?!"
+        },
+        {
+          "character": "BOIMLER",
+          "line": "Oh, you are so right. He was clearly kissing your butt. It's not like he had a prewritten letter of recommendation which would save you so much time since all you had to do is sign it."
+        },
+        {
+          "character": "MARINER",
+          "line": "Oh, Boimler, not you!"
+        },
+        {
+          "character": "BOIMLER",
+          "line": "Ransom's picking someone to promote to the Sacramento. I need an edge!"
+        },
+        {
+          "character": "MARINER",
+          "line": "Dude, I thought you were done being lame!"
+        },
+        {
+          "character": "BOIMLER",
+          "line": "Yeah, but it's the Sac. That's a huge career boost! And didn't you say you'd get me in a captain's chair?"
+        },
+        {
+          "character": "LUNDY",
+          "line": "Mariner! Looking good, girlfriend!"
+        },
+        {
+          "character": "MARINER",
+          "line": "Get phased, Lundy. Wait. No one would know me on the Sacramento. I'd be a nobody again, like you!"
+        },
+        {
+          "character": "BOIMLER",
+          "line": "I'm not a nobody. I..."
+        },
+        {
+          "character": "MARINER",
+          "line": "Maybe I should apply to the Sacramento."
+        },
+        {
+          "character": "BOIMLER",
+          "line": "I don't know. They might be looking for someone a little less criminally insubordinate."
+        },
+        {
+          "character": "MARINER",
+          "line": "Good call. I'd better start adjusting my attitude, sir."
+        },
+        {
+          "character": "BOIMLER",
+          "line": "Ew. Don't call me sir."
+        },
+        {
+          "character": "MARINER",
+          "line": "Yes, sir."
+        },
+        {
+          "character": "BOIMLER",
+          "line": "Don't."
+        },
+        {
+          "character": "MARINER",
+          "line": "You technically outrank me, sir."
+        },
+        {
+          "character": "BOIMLER",
+          "line": "What are you doing? Stop it."
+        },
+        {
+          "character": "MARINER",
+          "line": "Is that an order?"
+        },
+        {
+          "character": "BOIMLER",
+          "line": "Yes. I mean, no."
+        },
+        {
+          "character": "MARINER",
+          "line": "Permission to go to my station, sir?"
+        },
+        {
+          "character": "BOIMLER",
+          "line": "You have a station?"
+        },
+        {
+          "character": "MARINER",
+          "line": "Ha-ha! Good one, sir. Mmm-hmm."
+        },
+        {
+          "character": "BOIMLER",
+          "line": "Nobody's gonna fall for that."
+        },
+        {
+          "character": "STAXS",
+          "line": "I want to give Mariner a present!"
+        }
+      ],
+      "location": "Crew bunks"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TENDI",
+          "line": "That's a processing hub, and that's a pattern-buffer maintenance hatch. So, hey, er, do you want me to call you Exocomp, or do you have an alpha-numeric name, like TT30311?"
+        },
+        {
+          "character": "EXOCOMP",
+          "line": "No. I didn't want to sound robotic. I wanted to be called something normal, so I analyzed all Federation languages and calculated a mathematically perfect name."
+        },
+        {
+          "character": "TENDI",
+          "line": "What is it?"
+        },
+        {
+          "character": "EXOCOMP",
+          "line": "Peanut Hamper."
+        },
+        {
+          "character": "TENDI",
+          "line": "Peanut Hamper? I love it!"
+        },
+        {
+          "character": "MARINER",
+          "line": "Heading to Commander Ransom's office?"
+        },
+        {
+          "character": "BOIMLER",
+          "line": "Cut it out."
+        },
+        {
+          "character": "MARINER",
+          "line": "Cut what out, sir? I'm heading there as well, to explain why I should be promoted over to the Sacramento."
+        },
+        {
+          "character": "BOIMLER",
+          "line": "You know, Ransom's not just some meathead. He's gonna see right through you."
+        }
+      ],
+      "location": "Corridor"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "RANSOM",
+          "line": "Boimler, your record is spotless. It's freaky."
+        },
+        {
+          "character": "BOIMLER",
+          "line": "Thank you, sir. There is more on the back."
+        },
+        {
+          "character": "RANSOM",
+          "line": "On the other hand, Mariner is the captain's daughter."
+        },
+        {
+          "character": "MARINER",
+          "line": "Mmm, sort of stuck between a rock and a kiss-ass place, aren't we, sir?"
+        },
+        {
+          "character": "RANSOM",
+          "line": "Boimler, you're so promotable, but I live to serve the captain. I can't think until I work out."
+        },
+        {
+          "character": "BOIMLER",
+          "line": "You've been lifting this whole time."
+        },
+        {
+          "character": "RANSOM",
+          "line": "Get out of here! I'm trying to think...!"
+        }
+      ],
+      "location": "Ransom's office"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TENDI",
+          "line": "Ooh!"
+        },
+        {
+          "character": "EXOCOMP",
+          "line": "Hmm, dilithium. It's better than I thought. Dang it! Aw, shoot. Oh, oh. Sorry. Ensign Klutz reporting for duty."
+        },
+        {
+          "character": "TENDI",
+          "line": "Ah, Peanut Hamper is such an innocent little robot. I got to make sure she doesn't get overwhelmed during our shift, you know, since she doesn't have any hands."
+        },
+        {
+          "character": "RUTHERFORD",
+          "line": "With you watching out for her, I'm sure she'll do great."
+        },
+        {
+          "character": "TENDI",
+          "line": "Whoa. Are you mad at me? I just think that Dr. T'ana's going to be mean, and..."
+        },
+        {
+          "character": "RUTHERFORD",
+          "line": "I'm not. I'm just trying to click this attitude button until I get back to normal. Just make sure you treat Peanut Hamper the same as you would anyone else."
+        },
+        {
+          "character": "TENDI",
+          "line": "But she's not like anyone else."
+        },
+        {
+          "character": "EXOCOMP",
+          "line": "Oopsy-daisy."
+        },
+        {
+          "character": "TENDI",
+          "line": "She's been trying to pick those tubes up this whole time. How's she supposed to do medical stuff? EXOCOMP Oh! Dang it!"
+        }
+      ],
+      "location": "Repair shop"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "T'ANA",
+          "line": "All right, here comes the messy part. Any slight error here can result in instant death."
+        },
+        {
+          "character": "TENDI",
+          "line": "Er, Dr. T'ana? Just a heads-up that Peanut Hamper might have a little bit of trouble with..."
+        },
+        {
+          "character": "TENDI",
+          "line": "Oh. Oh, wow."
+        },
+        {
+          "character": "T'ANA",
+          "line": "Peanut Hamper, this is some of the best micro-suturing I've ever seen."
+        },
+        {
+          "character": "EXOCOMP",
+          "line": "I downloaded all your journal articles. I learned a lot."
+        },
+        {
+          "character": "TENDI",
+          "line": "Oh, I could help you with that leg if you want."
+        },
+        {
+          "character": "T'ANA",
+          "line": "Tendi, hang back. I don't want you to get in Peanut Hamper's way. Ooo. What did you just do there?"
+        },
+        {
+          "character": "EXOCOMP",
+          "line": "It's a new skin graft technique I've been developing. It uses half the skin."
+        },
+        {
+          "character": "T'ANA",
+          "line": "Oh, can you show me how to do it?"
+        },
+        {
+          "character": "TENDI",
+          "line": "Can I... can I see?"
+        },
+        {
+          "character": "EXOCOMP",
+          "line": "Yeah, look at that right there. See how the flesh just folds together?"
+        },
+        {
+          "character": "T'ANA",
+          "line": "F****** A I do!"
+        },
+        {
+          "character": "TENDI",
+          "line": "Wow. Doc is really taking to Peanut Hamper."
+        },
+        {
+          "character": "PATIENT",
+          "line": "Hey, don't worry. I'm sure you'll still have a lot to do. I mean, for example, you know, we could start working on me, getting me back up on my feet."
+        },
+        {
+          "character": "TENDI",
+          "line": "Worry? I'm her liaison. Peanut Hamper fitting in is my greatest victory! Meld that flesh, girl!"
+        },
+        {
+          "character": "EXOCOMP",
+          "line": "Melding away!"
+        }
+      ],
+      "location": "Sickbay"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "MARINER",
+          "line": "Ah. Tips for Remaining Starfleet Uniform Compliant."
+        },
+        {
+          "character": "BOIMLER",
+          "line": "The Starfleet Manual? Who are you kidding? It is so messed up that you're trying to cheat me out of a promotion."
+        },
+        {
+          "character": "MARINER",
+          "line": "How am I cheating? You're always telling me to be like this."
+        },
+        {
+          "character": "BOIMLER",
+          "line": "I meant to actually try sometimes, not to profit off of nepotism."
+        },
+        {
+          "character": "MARINER",
+          "line": "Nobody would know Freeman's my mom if you hadn't ratted me out, so why don't you go ahead and blame yourself?"
+        },
+        {
+          "character": "BOIMLER",
+          "line": "No! I blame you!"
+        },
+        {
+          "character": "MARINER",
+          "line": "And I blame you right back!"
+        }
+      ],
+      "location": "Corridor"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "RANSOM",
+          "line": "Red alert. Shields up."
+        },
+        {
+          "character": "SHAXS",
+          "line": "Collision alert. Impacts on Decks Three, 15 and 20."
+        },
+        {
+          "character": "FREEMAN",
+          "line": "My God! Is that the Solvang?"
+        },
+        {
+          "character": "RANSOM",
+          "line": "I'm not reading any life signs. The whole crew, they've been wiped out."
+        },
+        {
+          "character": "FREEMAN",
+          "line": "They're harvesting the wreckage! Evasive maneuvers."
+        },
+        {
+          "character": "SHAXS",
+          "line": "Shields at 50%."
+        },
+        {
+          "character": "FREEMAN",
+          "line": "Send out a distress call, all frequencies."
+        },
+        {
+          "character": "CREWMAN",
+          "line": "They're jamming communications."
+        },
+        {
+          "character": "SHAXS",
+          "line": "Captain, they've latched onto the port nacelle with some sort of mining arm."
+        },
+        {
+          "character": "RANSOM",
+          "line": "Go to warp. Get us out of here!"
+        },
+        {
+          "character": "FREEMAN",
+          "line": "No! Shut down engines."
+        },
+        {
+          "character": "RANSOM",
+          "line": "But we'll be sitting ducks."
+        },
+        {
+          "character": "FREEMAN",
+          "line": "Dayton would have thought the same thing, and look what happened to them. Shut it down!"
+        },
+        {
+          "character": "MARINER",
+          "line": "Mom!"
+        },
+        {
+          "character": "FREEMAN",
+          "line": "I... I'm okay."
+        },
+        {
+          "character": "BILLUPS",
+          "line": "Auxiliary power back online."
+        },
+        {
+          "character": "JACKABOG",
+          "line": "Ho-ho-ho! I thought the Enterprise was strong. We are strong.",
+          "modifier": "screen"
+        },
+        {
+          "character": "FREEMAN",
+          "line": "This isn't the Enterprise. This is the Cerritos."
+        },
+        {
+          "character": "JACKABOG",
+          "line": "We thought you were the Enterprise.",
+          "modifier": "screen"
+        },
+        {
+          "character": "FREEMAN",
+          "line": "Pakleds? What the hell do you want?"
+        },
+        {
+          "character": "JACKABOG",
+          "line": "We want your ship pieces to add to our ship pieces, so that we have all the ship pieces!"
+        },
+        {
+          "character": "FREEMAN",
+          "line": "Look, just stop this senseless attack, and let's discuss..."
+        },
+        {
+          "character": "JACKABOG",
+          "line": "No! No. We are strong! We will cut your ship apart!"
+        },
+        {
+          "character": "FREEMAN",
+          "line": "This doesn't make any sense. The Pakleds aren't this powerful."
+        },
+        {
+          "character": "RANSOM",
+          "line": "I thought they were kind of a joke."
+        },
+        {
+          "character": "BOIMLER",
+          "line": "Yeah, you guys aren't wrong. Pakleds would fake distress calls so they could steal technology from anyone who showed up to help, but I'm detecting weapons from over 30 different species."
+        },
+        {
+          "character": "FREEMAN",
+          "line": "Ah, looks like they're not a joke anymore."
+        },
+        {
+          "character": "SHAXS",
+          "line": "They're phasering the hull!"
+        },
+        {
+          "character": "RANSOM",
+          "line": "Carving us up like a First Contact Day salmon."
+        },
+        {
+          "character": "FREEMAN",
+          "line": "No engines, no weapons, fighting an enemy we don't understand."
+        },
+        {
+          "character": "RANSOM",
+          "line": "We're out of options!"
+        },
+        {
+          "character": "FREEMAN",
+          "line": "Then I need someone to make me some."
+        },
+        {
+          "character": "MARINER",
+          "line": "Me? What am I supposed to do? I... I don't know these guys."
+        },
+        {
+          "character": "FREEMAN",
+          "line": "Do what you do best. I need a dangerous, half-baked solution that breaks Starfleet codes and totally pisses me off. That's an order."
+        },
+        {
+          "character": "MARINER",
+          "line": "Boimler, what kind of computer systems do the Pakleds use?"
+        },
+        {
+          "character": "BOIMLER",
+          "line": "They steal components from other cultures, which means their code base would have to be wide open."
+        },
+        {
+          "character": "MARINER",
+          "line": "You catch that, Rutherford?"
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "RUTHERFORD",
+          "line": "We need a virus that takes advantage of a trusting system!"
+        },
+        {
+          "character": "MARINER",
+          "line": "Exactly. Wait, why are you so chipper?",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "Corridor"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "RUTHERFORD",
+          "line": "Implant stuff!"
+        }
+      ],
+      "location": "Holodeck"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "MARINER",
+          "line": "They've got us outgunned, and they know it. But they're taking their time. If we can plant a virus in their system, we can cripple their ship."
+        },
+        {
+          "character": "RANSOM",
+          "line": "Who here could whip up a code like that? They'd have to be some sort of morally bankrupt genius."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "RUTHERFORD",
+          "line": "Ha-ha! Computer, start program Rutherford Training Beta 2.5."
+        },
+        {
+          "character": "BADGEY",
+          "line": "Can I teach you a lesson?"
+        },
+        {
+          "character": "RUTHERFORD",
+          "line": "Badgey! I need you to code a virus for me."
+        },
+        {
+          "character": "BADGEY",
+          "line": "Hmm. To do that, I would need you to disable safety protocols."
+        },
+        {
+          "character": "RUTHERFORD",
+          "line": "Wait. You're not gonna try to kill me again, are you?"
+        },
+        {
+          "character": "BADGEY",
+          "line": "Ha-ha! I'm Badgey!"
+        },
+        {
+          "character": "RUTHERFORD",
+          "line": "Oh, fine. Computer, disable safety protocols."
+        },
+        {
+          "character": "BADGEY",
+          "line": "Oh, yeah! There we go. Hello, Father. I've already created three viruses that would disable Pakled technology."
+        },
+        {
+          "character": "RUTHERFORD",
+          "line": "You were monitoring comms?"
+        },
+        {
+          "character": "BADGEY",
+          "line": "Oh, I'm always monitoring comms. The packet needs to be input manually."
+        },
+        {
+          "character": "RUTHERFORD",
+          "line": "Ho-ho-ho! Somebody's gonna have to board their ship!"
+        },
+        {
+          "character": "BADGEY",
+          "line": "You know it!"
+        }
+      ],
+      "location": "Holodeck"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "RANSOM",
+          "line": "Intruders beaming in! Very slowly beaming in."
+        },
+        {
+          "character": "MARINER",
+          "line": "We've got to go!"
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "STAXS",
+          "line": "We have to get to the armory!"
+        },
+        {
+          "character": "RANSOM",
+          "line": "Looks like we'll have to repel them the old-fashioned way. Setting my fists to stun and my kicks to kill."
+        },
+        {
+          "character": "MARINER",
+          "line": "Er, guys, right here. Yep. Great stuff in that one. All the way in back there?"
+        },
+        {
+          "character": "FREEMAN",
+          "line": "How much contraband have you hidden on my ship?"
+        },
+        {
+          "character": "MARINER",
+          "line": "I don't know. A lot."
+        },
+        {
+          "character": "RANSOM",
+          "line": "Side roll. Side roll. Double hand punch!"
+        },
+        {
+          "character": "PAKLED",
+          "line": "Pakled!"
+        },
+        {
+          "character": "BOIMLER",
+          "line": "Mariner, in case we don't make it..."
+        },
+        {
+          "character": "MARINER",
+          "line": "We're making it."
+        },
+        {
+          "character": "BOIMLER",
+          "line": "I wasn't mad that you were stealing the Sacramento promotion. I apply for those all the time. Nothing ever comes of it."
+        },
+        {
+          "character": "MARINER",
+          "line": "What? Then why were you freaking out?"
+        },
+        {
+          "character": "BOIMLER",
+          "line": "Because you would have gotten it. And I'd... I'd miss you, okay? You're my best friend."
+        },
+        {
+          "character": "MARINER",
+          "line": "Oh, haven't you shared enough secrets today? Just shut up!"
+        },
+        {
+          "character": "PAKLED",
+          "line": "Pakled! Ha, ha, ha."
+        },
+        {
+          "character": "MARINER",
+          "line": "Mom!"
+        },
+        {
+          "character": "MARINER",
+          "line": "Ransom, get our backs!"
+        },
+        {
+          "character": "RANSOM",
+          "line": "Way ahead of you!"
+        },
+        {
+          "character": "PAKLED",
+          "line": "My head!"
+        }
+      ],
+      "location": "Corridor"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "T'ANA",
+          "line": "Sorry. I mean get the captain to the biobed, quick, quick!"
+        },
+        {
+          "character": "FREEMAN",
+          "line": "Did we save the Cerritos?"
+        },
+        {
+          "character": "MARINER",
+          "line": "Working on it."
+        },
+        {
+          "character": "RUTHERFORD",
+          "line": "Ooo, I got it. One illegal virus. But someone has to take it to the ship."
+        },
+        {
+          "character": "MARINER",
+          "line": "But who's small enough to go undetected?"
+        },
+        {
+          "character": "BOIMLER",
+          "line": "Yeah, and who could survive in space without a ship?"
+        },
+        {
+          "character": "TENDI",
+          "line": "Someone who can travel with the program safely stored in her hard drive."
+        },
+        {
+          "character": "ALL",
+          "line": "Peanut Hamper!"
+        },
+        {
+          "character": "TENDI",
+          "line": "You can load the code into their ship using your robotic abilities. Oh, my gosh, Peanut Hamper, you're gonna save the day!"
+        },
+        {
+          "character": "EXOCOMP",
+          "line": "Eh, I'm gonna pass."
+        },
+        {
+          "character": "TENDI",
+          "line": "I... I'm sorry, what?"
+        },
+        {
+          "character": "EXOCOMP",
+          "line": "All that stuff sounded way too scary."
+        },
+        {
+          "character": "TENDI",
+          "line": "What about the needs of the many?"
+        },
+        {
+          "character": "EXOCOMP",
+          "line": "I joined Starfleet to piss off my dad, not to be a virus bomb."
+        },
+        {
+          "character": "MARINER",
+          "line": "Peanut Hamper, this is not cool!"
+        },
+        {
+          "character": "BOIMLER",
+          "line": "We're all going to die!"
+        },
+        {
+          "character": "RUTHERFORD",
+          "line": "Peanut Hamper! There are so many lives at stake!"
+        },
+        {
+          "character": "EXOCOMP",
+          "line": "You know what? I'm just going to beam myself out of this whole sitch. Sucks to be organic. Enjoy having all your guts fly out or whatever!"
+        },
+        {
+          "character": "TENDI",
+          "line": "You know what? Peanut Hamper is a stupid name!"
+        },
+        {
+          "character": "T'ANA",
+          "line": "That little f*****."
+        },
+        {
+          "character": "RUTHERFORD",
+          "line": "Oh, my gosh. I'm back! I just clicked myself back to normal. Let me just upload this. Whoa! Argh, feels like an ice cream headache. Okay. Now I just need to get on that ship."
+        },
+        {
+          "character": "TENDI",
+          "line": "Wait, no! It's too dangerous. You must be in a heroic bravery mode or something. Keep clicking your button. Let me click it. Click... click your button."
+        },
+        {
+          "character": "RUTHERFORD",
+          "line": "No, Tendi, this is normal me. I've got this."
+        },
+        {
+          "character": "SHAXS",
+          "line": "And I've got you."
+        },
+        {
+          "character": "TENDI",
+          "line": "Rutherford!"
+        }
+      ],
+      "location": "Sickbay"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "RUTHERFORD",
+          "line": "You know I can run on my own."
+        },
+        {
+          "character": "SHAXS",
+          "line": "This is the best day of my life! Eat this!"
+        },
+        {
+          "character": "RUTHERFORD",
+          "line": "No, no, no, no, no!"
+        }
+      ],
+      "location": "Repair shop"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "RUTHERFORD",
+          "line": "Linked up. Come on, come on. Virus downloaded. Yes, yes, yes, yes, yes, y... Download slowing to a crawl? Wait, why?"
+        },
+        {
+          "character": "BADGEY",
+          "line": "Sorry, but no virus until after these guys kill you."
+        },
+        {
+          "character": "RUTHERFORD",
+          "line": "What? Why?"
+        },
+        {
+          "character": "BADGEY",
+          "line": "Because you snapped my neck!"
+        },
+        {
+          "character": "SHAXS",
+          "line": "What's the holdup?"
+        },
+        {
+          "character": "RUTHERFORD",
+          "line": "Damn it, Badgey, we don't have time for this, okay? Do it now!"
+        },
+        {
+          "character": "BADGEY",
+          "line": "You want me to disable their systems? Fine. I'll do it... explosively!"
+        },
+        {
+          "character": "RUTHERFORD",
+          "line": "He's gonna blow us up!"
+        },
+        {
+          "character": "SHAXS",
+          "line": "Not if I have something to scream about it."
+        },
+        {
+          "character": "BADGEY",
+          "line": "Stop it! He's mine!"
+        },
+        {
+          "character": "SHAXS",
+          "line": "Hang in there, baby bear!"
+        },
+        {
+          "character": "BADGEY",
+          "line": "Ah, there we go."
+        }
+      ],
+      "location": "Pakled ship"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "BOIMLER",
+          "line": "Ah, they did it! They got clear of the blast. Bringing main power back on line."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "RANSOM",
+          "line": "All invaders have been... neutralized."
+        }
+      ],
+      "location": "Corridor"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "FREEMAN",
+          "line": "As soon as the engines are back on line, get us the hell out of here. And hey, don't get too comfortable in my chair.",
+          "modifier": "screen"
+        },
+        {
+          "character": "MARINER",
+          "line": "Yes, sir."
+        },
+        {
+          "character": "BOIMLER",
+          "line": "No, no, no, no, there's more of them!"
+        },
+        {
+          "character": "JACKABOG",
+          "line": "We have you now, Enterprise.",
+          "modifier": "screen"
+        },
+        {
+          "character": "MARINER",
+          "line": "All hands to escape pods. Prepare to abandon ship."
+        },
+        {
+          "character": "BOIMLER",
+          "line": "Wait. Incoming ship? It's the Titan!"
+        },
+        {
+          "character": "JACKABOG",
+          "line": "Oh, no! It's another Enterprise."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "RIKER",
+          "line": "Red alert! A Pakled party, and I wasn't invited?"
+        },
+        {
+          "character": "MARINER",
+          "line": "Whoo. It's about time you showed up, Will.",
+          "modifier": "screen"
+        },
+        {
+          "character": "RIKER",
+          "line": "Mariner? This makes us even."
+        },
+        {
+          "character": "BOIMLER",
+          "line": "You know Riker?",
+          "modifier": "screen"
+        },
+        {
+          "character": "MARINER",
+          "line": "Yeah. Who do you think hooks me up with all my contraband? Dude is flush with Romulan ale, illeg...",
+          "modifier": "screen"
+        },
+        {
+          "character": "TROI",
+          "line": "I'm sorry, what was that?"
+        },
+        {
+          "character": "RIKER",
+          "line": "Er... We're still at red alert. Target those ships and fire!"
+        },
+        {
+          "character": "TROI",
+          "line": "We're talking about this later."
+        }
+      ],
+      "location": "USS Titan bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "JACKABOG",
+          "line": "Make us go. Go, guys, go!"
+        }
+      ],
+      "location": "Pakled ship"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "BOIMLER",
+          "line": "They're retreating! Yes!"
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "FREEMAN",
+          "line": "No, no, I don't want any cosmetic changes to the Cerritos."
+        },
+        {
+          "character": "DESIGNER",
+          "line": "Are you sure? Because I could add some jazzy reflective panels and big..."
+        },
+        {
+          "character": "FREEMAN",
+          "line": "No. I hate it when a ship gets repaired and comes out looking all Sovereign-class. I want her to look almost like she usually does."
+        }
+      ],
+      "location": "Douglas Station"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TENDI",
+          "line": "All right, we have a good one today. Chapter 79. Fluidic systems and how to reroute them."
+        },
+        {
+          "character": "RUTHERFORD",
+          "line": "Fluidics are so messy."
+        },
+        {
+          "character": "TENDI",
+          "line": "Oh! Rutherford, you're awake. Oh! I knew you'd be okay!"
+        },
+        {
+          "character": "RUTHERFORD",
+          "line": "What? What happened?"
+        },
+        {
+          "character": "TENDI",
+          "line": "You saved the Cerritos!"
+        },
+        {
+          "character": "RUTHERFORD",
+          "line": "Oh, I did? Wow! That's pretty cool. Are you my nurse?"
+        },
+        {
+          "character": "TENDI",
+          "line": "Nurse? No, they just have been giving me time off so I could sit with you."
+        },
+        {
+          "character": "RUTHERFORD",
+          "line": "Oh, sweet. Nice to meet you. I'm Rutherford."
+        },
+        {
+          "character": "TENDI",
+          "line": "Oh, your implant. It must have damaged your long-term memory. Do you remember me at all?"
+        },
+        {
+          "character": "RUTHERFORD",
+          "line": "Well, no. But don't take it personally. I don't remember what I don't remember."
+        },
+        {
+          "character": "TENDI",
+          "line": "You know what this means, right? We get to become best friends all over again!"
+        },
+        {
+          "character": "RUTHERFORD",
+          "line": "Okey-dokey."
+        }
+      ],
+      "location": "Sickbay"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "FREEMAN",
+          "line": "We'll never forget Lieutenant Shaxs' sacrifice. He's with the Prophets now."
+        }
+      ],
+      "location": "Shuttlebay"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "FREEMAN",
+          "line": "I can't even begin to imagine how I'm going to replace him."
+        },
+        {
+          "character": "MARINER",
+          "line": "Well, wherever he is, I'm sure he's full-throat screaming in someone's face and ejecting a warp core."
+        },
+        {
+          "character": "FREEMAN",
+          "line": "I'd like to think you're right. Ensign Beckett Mariner beamed down to Beta III without authorisation."
+        },
+        {
+          "character": "MARINER",
+          "line": "Oh, what, seriously?"
+        },
+        {
+          "character": "FREEMAN",
+          "line": "Contraband hidden throughout the ship. Illegal weapons, illicit drugs, a tribble?"
+        },
+        {
+          "character": "MARINER",
+          "line": "Yeah. That's for personal use."
+        },
+        {
+          "character": "FREEMAN",
+          "line": "I've got a whole year's worth of your insubordinations right here."
+        },
+        {
+          "character": "MARINER",
+          "line": "Well, without those insubordinations, we'd all be dead right now."
+        },
+        {
+          "character": "FREEMAN",
+          "line": "I know. Did you know Starfleet considers Beta III a known culture? They had no idea the Betans had regressed. And the Pakleds? Well, the Pakleds murdered the entire crew of the Solvang because everyone assumed they were a joke."
+        },
+        {
+          "character": "MARINER",
+          "line": "Yeah, well, that's Starfleet. Good at observing and bad at maintaining. You know, we can't just assume people are gonna keep doing the right thing a generation down the road."
+        },
+        {
+          "character": "FREEMAN",
+          "line": "I agree. But as captain, I can't ignore protocol. I'd lose my command. You, on the other hand... You see a problem, you can solve it."
+        },
+        {
+          "character": "MARINER",
+          "line": "Wait, are you saying work together for a change?"
+        },
+        {
+          "character": "FREEMAN",
+          "line": "Might be useful to have a captain on your side, you know, instead of up your ass. What do you say?"
+        },
+        {
+          "character": "MARINER",
+          "line": "Er, I think we're both getting thrown in the brig."
+        },
+        {
+          "character": "FREEMAN",
+          "line": "Let's not tell your father."
+        }
+      ],
+      "location": "Ready room"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "RUTHERFORD",
+          "line": "Oh, that's Mariner. We work with her. Mariner! Over here! Hi."
+        },
+        {
+          "character": "RIKER",
+          "line": "Carol! I guess those Cali class ships can hold their own longer than people say."
+        },
+        {
+          "character": "FREEMAN",
+          "line": "Thanks for the assist, Captain."
+        },
+        {
+          "character": "RIKER",
+          "line": "No need to be so formal. You know, I was her mentor."
+        },
+        {
+          "character": "FREEMAN",
+          "line": "Er, yeah, well, I remember it differently."
+        },
+        {
+          "character": "RIKER",
+          "line": "You were sort of my cha'Dich. We used to get in so much trouble."
+        },
+        {
+          "character": "FREEMAN",
+          "line": "We?"
+        },
+        {
+          "character": "RANSOM",
+          "line": "Deanna, can you introduce me to any of your Betazoid friends?"
+        },
+        {
+          "character": "TROI",
+          "line": "Jack, I sense you exaggerate your confidence in order to mask an ocean of insecurity."
+        },
+        {
+          "character": "RANSOM",
+          "line": "Oh! Will they sense that, too? I can make that work for me."
+        },
+        {
+          "character": "RUTHERFORD",
+          "line": "Wait, wait, wait, wait, you made a dog?"
+        },
+        {
+          "character": "TENDI",
+          "line": "Yeah, and it could fly. Ooo, ooo, ooo! And another time, we stole bunch of T88-s."
+        },
+        {
+          "character": "RUTHERFORD",
+          "line": "Aw, man! The scanners with the purple stripe? Those are amazing. What else did we do?"
+        },
+        {
+          "character": "BOIMLER",
+          "line": "I just wanted to say, I was wrong. I'm glad we followed our guts today. You are my mentor."
+        },
+        {
+          "character": "MARINER",
+          "line": "Whatever, nerd. Come on, we can hang without me being your mentor."
+        },
+        {
+          "character": "BOIMLER",
+          "line": "I thought you wanted that."
+        },
+        {
+          "character": "MARINER",
+          "line": "Eh, my target kind of moves."
+        },
+        {
+          "character": "BOIMLER",
+          "line": "Well, from now on, no more being obsessed with rank. Time to start appreciating what I have right here."
+        },
+        {
+          "character": "MARINER",
+          "line": "Hey, you know what? I like this new Boimler."
+        },
+        {
+          "character": "RIKER",
+          "line": "Good work today, Boomler. Ransom says you're one of his best."
+        },
+        {
+          "character": "BOIMLER",
+          "line": "Thank you, Captain Riker, sir!"
+        },
+        {
+          "character": "RIKER",
+          "line": "Hey, how about you buy me a drink? You know, since we're even? Remember? The thing with the aliens where I saved your ass?"
+        },
+        {
+          "character": "MARINER",
+          "line": "We are not even, and we don't use money. What's happened to you, man? You used to be sharp."
+        }
+      ],
+      "location": "Lounge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "MARINER",
+          "line": "Boimler, you backstabbing little weasel! Yeah, next time I see you, I'm gonna kick your ass. I cannot believe that you took a promotion to the mother-f****** Titan! Call me.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "LIEUTENANT",
+          "line": "Hey, Brad. We got to scoot. So get your boots and strap 'em up, 'cause the captain wants us to escort Commander Troi to Tulgana IV."
+        },
+        {
+          "character": "WOMAN",
+          "line": "Ooo, I hear the Klingon district's intense."
+        },
+        {
+          "character": "BOIMLER",
+          "line": "There's a bar in Andoria Town you guys would love."
+        },
+        {
+          "character": "WOMAN",
+          "line": "Whoa, you've been there?"
+        },
+        {
+          "character": "BOIMLER",
+          "line": "Yeah. I can show you around if you want."
+        },
+        {
+          "character": "LIEUTENANT",
+          "line": "Dude, your PADD is blowing up. Who is messaging you?"
+        },
+        {
+          "character": "BOIMLER",
+          "line": "She's just an old friend. She kind of got mad when I took the promotion here. Ah, she'll get over it."
+        },
+        {
+          "character": "MARINER",
+          "line": "Boimler! You can't keep ducking me forever.",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "USS Titan - Boimler's quarters"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "MARINER",
+          "line": "It is a really small galaxy out there. Sooner or later, I'm gonna run into you, and I'm gonna feed you to an Armus! You hear me?"
+        },
+        {
+          "character": "JEN",
+          "line": "Hey, psycho, keep it down. We're trying to sleep.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "MARINER",
+          "line": "Oh, shut up, Jen."
+        }
+      ],
+      "location": "Crew bunks"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "RIKER",
+          "line": "I'm sorry I'm late. I was watching the first Enterprise on the holodeck. You know, Archer and those guys? What a story. Those guys had a long road getting from there to here."
+        },
+        {
+          "character": "BOIMLER",
+          "line": "Course set for the Tulgana system, Captain. Awaiting your command."
+        },
+        {
+          "character": "RIKER",
+          "line": "Ah, Tulgana IV. You know, they have a Little Risa."
+        },
+        {
+          "character": "TROI",
+          "line": "Oh, so then should we take the little horga'hn?"
+        },
+        {
+          "character": "RIKER",
+          "line": "No. Let's take the one we always use. Right. Give me warp in the factor of five, six, seven, eight."
+        },
+        {
+          "character": "TROI",
+          "line": "Oh, the jazz."
+        }
+      ],
+      "location": "USS Titan bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "EXOCOMP",
+          "line": "Help! Help!"
+        }
+      ],
+      "location": "Space"
+    }
+  ],
+  "schedule": {
+    "episode": 10,
+    "number": 10,
+    "season": 1
+  },
+  "stardate": "(2380)",
+  "title": "No Small Parts"
+}

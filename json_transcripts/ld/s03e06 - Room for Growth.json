@@ -1,0 +1,1550 @@
+{
+  "airdate": 1664434800,
+  "scenes": [
+    {
+      "dialogue": [
+        {
+          "character": "FREEMAN",
+          "line": "Captain's log, stardate 58456.2. The Cerritos is providing support to the Vancouver. Captain Nguyen will be reopening postwar trade negotiations with the Karemma, a mercantile species from the Gamma Quadrant, while I will be overseeing a delivery of goodwill gifts from the Alpha Quadrant, which will hopefully sweeten the deal.",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "unknown"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "BARNES",
+          "line": "Captain, we have an incoming communication from Starfleet Command. It's Admiral Buenamigo."
+        },
+        {
+          "character": "FREEMAN",
+          "line": "On-screen."
+        },
+        {
+          "character": "BUENAMIGO",
+          "line": "Captain Freeman.",
+          "modifier": "screen"
+        },
+        {
+          "character": "FREEMAN",
+          "line": "Quite the payload you've got us hauling. Are you trying to inebriate half the Gamma Quadrant?"
+        },
+        {
+          "character": "BUENAMIGO",
+          "line": "Anything to open up communications. Speaking of which, there's been a change of plans.",
+          "modifier": "screen"
+        },
+        {
+          "character": "FREEMAN",
+          "line": "Don't tell me we need to pick up more Andorian kegs."
+        },
+        {
+          "character": "BUENAMIGO",
+          "line": "No, the Cerritos will be proceeding to the rendezvous, but you will be negotiating with the Karemma.",
+          "modifier": "screen"
+        },
+        {
+          "character": "FREEMAN",
+          "line": "I'm sorry, what? But Captain Nguyen..."
+        },
+        {
+          "character": "BUENAMIGO",
+          "line": "The Vancouver's been rerouted to the Hasparga system to evacuate a colony being threatened by a brown hole.",
+          "modifier": "screen"
+        },
+        {
+          "character": "FREEMAN",
+          "line": "W-Wait. That-That's not even a thing..."
+        },
+        {
+          "character": "BUENAMIGO",
+          "line": "Carol, this is our best chance to heal scars from the Dominion war. You have to make it work. Buenamigo out.",
+          "modifier": "screen"
+        },
+        {
+          "character": "FREEMAN",
+          "line": "This is crazy. Anyone else would have months to prepare for this level of diplomacy."
+        },
+        {
+          "character": "WENDY",
+          "line": "Captain Freeman, we're approaching the rendezvous point."
+        },
+        {
+          "character": "FREEMAN",
+          "line": "Bring us out of warp."
+        },
+        {
+          "character": "SHAXS",
+          "line": "Tacky Cardassian fascist eyesore."
+        },
+        {
+          "character": "FREEMAN",
+          "line": "Helm, just buy me some time to read up on the Karemma."
+        },
+        {
+          "character": "WENDY",
+          "line": "Er, sir, h-how do we do that?"
+        },
+        {
+          "character": "RANSOM",
+          "line": "Er, I don't know. Just circle around and pretend we're in awe of the pylons."
+        },
+        {
+          "character": "WENDY",
+          "line": "Yes, sir."
+        },
+        {
+          "character": "WENDY",
+          "line": "Er..."
+        },
+        {
+          "character": "RANSOM",
+          "line": "Just keep circling."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TENDI",
+          "line": "Ah! I can't believe we're at Deep Space Nine! I want to walk the Promenade. Ooo, check out the stores. Oh, oh! I bet they have a Quark's."
+        },
+        {
+          "character": "BOIMLER",
+          "line": "Ho-ho, Tendi, not just any Quark's... the original Quark's!"
+        },
+        {
+          "character": "MARINER",
+          "line": "You're excited for a franchise restaurant? You guys are such tourists."
+        },
+        {
+          "character": "RUTHERFORD",
+          "line": "We just got to move a couple crates onto this Karemma ship, and the rest of the day is ours!"
+        },
+        {
+          "character": "MARINER",
+          "line": "Y'all have fun with that. I'm staying right here and relaxing."
+        },
+        {
+          "character": "JENNIFER",
+          "line": "So does that mean you're free today?"
+        },
+        {
+          "character": "MARINER",
+          "line": "Oh, er, hey. Thought... thought you were still asleep."
+        },
+        {
+          "character": "BOIMLER",
+          "line": "Hi, Jennifer!"
+        },
+        {
+          "character": "JENNIFER",
+          "line": "Hey, guys. So, I'm hanging with my friends today, and I've been dying for you to get to know them."
+        },
+        {
+          "character": "MARINER",
+          "line": "Oh! Yeah, you know, er, so I should... I'm gonna go give them a tour of DS9, because... huh, without me, they'll probably get lost and end up in a mirror universe with Smiley..."
+        },
+        {
+          "character": "TENDI",
+          "line": "Oh, no, we won't."
+        },
+        {
+          "character": "RUTHERFORD",
+          "line": "Yeah, we have maps!"
+        },
+        {
+          "character": "BOIMLER",
+          "line": "Mariner, you were just saying how you much you hate this station. Why don't you stay here, have some fun with Jennifer?"
+        },
+        {
+          "character": "JENNIFER",
+          "line": "Castro's hosting a salon today. You're gonna love it. Mwah."
+        },
+        {
+          "character": "TENDI",
+          "line": "Ooo, meeting the friends. That's big."
+        },
+        {
+          "character": "MARINER",
+          "line": "Oh, what if they're uptight and judgy? I'm already not liking that they call their hangouts \"salons.\" Like, what are you, Hemingway?"
+        },
+        {
+          "character": "TENDI",
+          "line": "Well, Jennifer's going to care if you can get along with them."
+        },
+        {
+          "character": "MARINER",
+          "line": "Oh, do you think?"
+        },
+        {
+          "character": "BOIMLER",
+          "line": "You'll be fine. Just don't be all bossy like you are with us."
+        },
+        {
+          "character": "MARINER",
+          "line": "I'm not bossy!"
+        },
+        {
+          "character": "TENDI",
+          "line": "Okay, that was a good one, boss."
+        }
+      ],
+      "location": "Crew bunks"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TENDI",
+          "line": "Oh, wow!"
+        },
+        {
+          "character": "RUTHERFORD",
+          "line": "Whoa! The Promenade!"
+        },
+        {
+          "character": "BOIMLER",
+          "line": "Ooo, it's even more Cardassian than I imagined."
+        },
+        {
+          "character": "RUTHERFORD",
+          "line": "Guys, this is awesome."
+        },
+        {
+          "character": "TENDI",
+          "line": "Wow."
+        }
+      ],
+      "location": "Promenade"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "KIRA",
+          "line": "Captain Freeman, welcome to Deep Space Nine."
+        },
+        {
+          "character": "FREEMAN",
+          "line": "Thank you, Colonel Kira. I trust you were informed that the Vancouver will no longer be joining us?"
+        },
+        {
+          "character": "KIRA",
+          "line": "Well, it's not Starfleet Command unless they throw us a few curveballs."
+        },
+        {
+          "character": "FREEMAN",
+          "line": "You got that right. Well, this is my first officer, Commander Jack Ransom, and my security chief..."
+        },
+        {
+          "character": "KIRA",
+          "line": "Oh, I know this scarred-up old barrowbug. How are you, Shaxs?"
+        },
+        {
+          "character": "SHAXS",
+          "line": "Any day not living under Cardassian rule is a good one."
+        },
+        {
+          "character": "KIRA",
+          "line": "We were in the Resistance together. He saved my life during a raid on the Haru outposts. I still owe you for that one."
+        },
+        {
+          "character": "SHAXS",
+          "line": "No, you don't. She saved my life when we were ambushed at Vannakur."
+        },
+        {
+          "character": "KIRA",
+          "line": "Yeah, because I owed you for pulling me out of that plasma storm in the Badlands."
+        },
+        {
+          "character": "FREEMAN",
+          "line": "I'm sure it was all very rebellious."
+        },
+        {
+          "character": "SHAXS",
+          "line": "We wouldn't have even made it to the Badlands if you hadn't sprung me from that prison transport!"
+        },
+        {
+          "character": "KIRA",
+          "line": "You sprang me from one the week before!"
+        },
+        {
+          "character": "SHAXS",
+          "line": "That one didn't count! We were both locked up! Come on!"
+        }
+      ],
+      "location": "Colonel's office"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "AIDE",
+          "line": "Oh, these trade talks are a waste of time. I don't know how these Alpha savages managed to win the war."
+        },
+        {
+          "character": "KORZAK",
+          "line": "Neither do I. But if there's even a chance at making a profit, I'll hear them out. And if diplomacy fails, we always have the other option."
+        }
+      ],
+      "location": "Docking corridor"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "MAN",
+          "line": "Er, hey, can you sign my PADD?"
+        },
+        {
+          "character": "QUARK",
+          "line": "Of course! I love my fans. For a small price, plus bar tax and processing fees."
+        },
+        {
+          "character": "KIRA",
+          "line": "Quark. Sorry to interrupt. This is Captain Freeman of the Cerritos. She and her crew are here on important Starfleet duty."
+        },
+        {
+          "character": "QUARK",
+          "line": "Ah, you look radiant, Captain!"
+        },
+        {
+          "character": "FREEMAN",
+          "line": "Er... pass."
+        },
+        {
+          "character": "QUARK",
+          "line": "I love Starfleet. I do a lot of business in Federation space."
+        },
+        {
+          "character": "KIRA",
+          "line": "Quark is our resident entrepreneur."
+        },
+        {
+          "character": "QUARK",
+          "line": "I did expand my simple bar into 21 franchises across the Alpha Quadrant. And somehow I remain humble."
+        },
+        {
+          "character": "RANSOM",
+          "line": "What are you talking about? Can't people just replicate drinks?"
+        },
+        {
+          "character": "QUARK",
+          "line": "None of your outdated Starfleet replicators can make what I have to offer. My unique design gives our refreshments that special zing. I've been crafting them for years. So, Captain, do you think there's room at Starfleet Academy for a Quark's?"
+        },
+        {
+          "character": "FREEMAN",
+          "line": "Er... no."
+        },
+        {
+          "character": "QUARK",
+          "line": "Not to worry. We'll set you up with a Quark's Express. I gave one to the Bolians. They love it."
+        },
+        {
+          "character": "RUTHERFORD",
+          "line": "Whoa! The original Quark's! Oh, man."
+        },
+        {
+          "character": "TENDI",
+          "line": "Ooo, ooo, let's get some seats at the bar."
+        },
+        {
+          "character": "BOIMLER",
+          "line": "Oh, my stars. They've got dabo. I-I thought it was illegal."
+        },
+        {
+          "character": "PLAYERS",
+          "line": "Dabo!"
+        },
+        {
+          "character": "TENDI",
+          "line": "Boimler, it's probably rigged."
+        },
+        {
+          "character": "BOIMLER",
+          "line": "Ho-ho-ho, cheating? At a Quark's? You can't rig a game here. Besides, I'm Bold Boimler, and fortune favors the bold! Oh! Oh, God. Oh, sorry. Sorry."
+        },
+        {
+          "character": "MESK",
+          "line": "Ho-ho-ho! A fellow Orion! Greetings."
+        },
+        {
+          "character": "RUTHERFORD",
+          "line": "Hey, look at that! That's awesome!"
+        },
+        {
+          "character": "TENDI",
+          "line": "Oh, wow. Hi, I'm Tendi. This is my friend Rutherford."
+        },
+        {
+          "character": "MESK",
+          "line": "I'm Mesk. I got to tell you, I never run into other Orions in Starfleet."
+        },
+        {
+          "character": "TENDI",
+          "line": "Me neither. I guess there's just not a lot of us."
+        },
+        {
+          "character": "MESK",
+          "line": "Tendi. Tendi. Is your family from the Northern Hemisphere? Evtan Rim, right?"
+        },
+        {
+          "character": "TENDI",
+          "line": "Er, they... they kind of moved around a lot. So... Deep Space Nine. It's got to be so cool, serving right next to the wormhole, huh?"
+        },
+        {
+          "character": "MESK",
+          "line": "Oh, yeah. We get some pretty shady characters coming through here. Our kind of people, am I right?"
+        },
+        {
+          "character": "RUTHERFORD",
+          "line": "Oh, yeah. No, totally. Shady."
+        },
+        {
+          "character": "TENDI",
+          "line": "Yeah. Er, Rutherford, do you want to get food with our drinks so that we..."
+        },
+        {
+          "character": "MESK",
+          "line": "Oh, cool. Awesome. Hey, check this out. My Orion multi-key. I got a religious exemption to wear it with my uniform. Suckers."
+        },
+        {
+          "character": "RUTHERFORD",
+          "line": "Whoa! What is it?"
+        },
+        {
+          "character": "TENDI",
+          "line": "Er, it's a traditional tool used by Orion pirates."
+        },
+        {
+          "character": "MESK",
+          "line": "Oh, it's good for everything from stabbing guys to picking locks to stealing ships."
+        },
+        {
+          "character": "RUTHERFORD",
+          "line": "Oh, wow! Yeah, all positive things."
+        },
+        {
+          "character": "MESK",
+          "line": "Say, I just got off duty. You guys want the grand tour?"
+        },
+        {
+          "character": "TENDI",
+          "line": "Oh, I think we're..."
+        },
+        {
+          "character": "RUTHERFORD",
+          "line": "Definitely! Let's go around this circle!"
+        },
+        {
+          "character": "MESK",
+          "line": "All right! Come with me! This is great. Couple of Orions up to no good, just skulking around. Lock up your valuables, am I right?"
+        },
+        {
+          "character": "TENDI",
+          "line": "Ha. Yeah. Totally."
+        }
+      ],
+      "location": "Quarks"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "MARINER",
+          "line": "All right. Here we go."
+        },
+        {
+          "character": "CASTRO",
+          "line": "Ooh! Look who's here!"
+        },
+        {
+          "character": "ALL",
+          "line": "Mariner! Hey, girl!"
+        },
+        {
+          "character": "MARINER",
+          "line": "Hey! What's... up?"
+        },
+        {
+          "character": "CASTRO",
+          "line": "Finally we get to meet the mysterious Lady Mariner. I don't even mind you're so late."
+        },
+        {
+          "character": "JENNIFER",
+          "line": "Wow, looking profesh in the uniform."
+        },
+        {
+          "character": "MARINER",
+          "line": "I... I didn't get the memo that this was like a sweats kind of party."
+        },
+        {
+          "character": "ENSIGN",
+          "line": "Not a party... a salon. And we always set the wardrobe as Betazoid casual. Jenny didn't tell you?"
+        },
+        {
+          "character": "MARINER",
+          "line": "They call you Jenny?"
+        },
+        {
+          "character": "JENNIFER",
+          "line": "Urgh, I hate it. It goes back to our time at the Academy."
+        },
+        {
+          "character": "CASTRO",
+          "line": "Okay, everyone, grab a wick. These candles aren't going to dip themselves."
+        },
+        {
+          "character": "MARINER",
+          "line": "Candle-making. Very cool."
+        },
+        {
+          "character": "CANSTRO",
+          "line": "And this is obvious, but don't forget to set an intention when you light it or you're just gonna be wasting the wax."
+        },
+        {
+          "character": "MARINER",
+          "line": "Mmm-hmm, mmm-hmm. I'm just gonna make a quick er, pit stop before I dive into the dipping."
+        },
+        {
+          "character": "ENSIGN",
+          "line": "Hey, girl, can we talk Boimler?"
+        },
+        {
+          "character": "MARINER",
+          "line": "Oh, I know what you're gonna ask, and, no, he's actually not reverse-aging. He just doesn't get enough vitamins."
+        },
+        {
+          "character": "ENSIGN",
+          "line": "Is he single?"
+        },
+        {
+          "character": "MARINER",
+          "line": "What?"
+        },
+        {
+          "character": "ANYA",
+          "line": "Purple hair is so sexy."
+        },
+        {
+          "character": "MARINER",
+          "line": "Yeah, I'm gonna just need a little more of this."
+        },
+        {
+          "character": "ANYA",
+          "line": "Oh. Oh. Ooo."
+        }
+      ],
+      "location": "Castro's quarters"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "KIRA",
+          "line": "Trade Minister Korzak, this is Captain Freeman of..."
+        },
+        {
+          "character": "KORZAK",
+          "line": "I was told I would be meeting with Captain Nguyen! How are we supposed to negotiate a trade agreement when you can't even honor an appointment?! - I won't have it!"
+        },
+        {
+          "character": "FREEMAN",
+          "line": "Understandable but unfortunate, because we did bring some rather fine gifts."
+        },
+        {
+          "character": "KORZAK",
+          "line": "I don't... Gifts, you say? Well, we're already here. We may as well proceed."
+        },
+        {
+          "character": "FREEMAN",
+          "line": "Excellent. The commerce opportunities are endless on this side of the wormhole."
+        },
+        {
+          "character": "SHAXS",
+          "line": "I owe you, for taking a phaser shot for me on the Da'Karo mission."
+        },
+        {
+          "character": "KIRA",
+          "line": "What? You took one for me at Da'Karo."
+        },
+        {
+          "character": "SHAXS",
+          "line": "No, I mean Da'Karo Prime. The one with the little trees!"
+        },
+        {
+          "character": "KIRA",
+          "line": "I don't remember that. No way."
+        },
+        {
+          "character": "SJAXS",
+          "line": "Nerys!"
+        }
+      ],
+      "location": "Conference room"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "RUTHERFORD",
+          "line": "Whoa, that's Chief O'Brien's dartboard! Look at that! Bajoran food court! Ho-ho! Oh, I should tone it down."
+        },
+        {
+          "character": "MESK",
+          "line": "Hey, so, does your family approve of you being in Starfleet?"
+        },
+        {
+          "character": "TENDI",
+          "line": "You know, they had some thoughts, but er... for the most part..."
+        },
+        {
+          "character": "MESK",
+          "line": "Pfft! Orion values. My folks definitely wanted me to take over the family business, and I was like, \"No, thanks, Mom!\""
+        },
+        {
+          "character": "RUTHERFORD",
+          "line": "Wait, you mean, like, the pirate business?"
+        },
+        {
+          "character": "MESK",
+          "line": "Hey, you said it, not me."
+        },
+        {
+          "character": "RUTHERFORD",
+          "line": "Ooh-hoo-hoo! Wait right here! I got to dangle my legs off the second story like in the holovids!"
+        },
+        {
+          "character": "MESK",
+          "line": "So, real talk... what's the first ship you ever stole, ma?"
+        },
+        {
+          "character": "TENDI",
+          "line": "Actually, I don't do that stuff."
+        },
+        {
+          "character": "MESK",
+          "line": "Oh, yeah. No, no, no. Me neither."
+        },
+        {
+          "character": "TENDI",
+          "line": "Look, not every Orion does the pirate criminal thing, okay?"
+        },
+        {
+          "character": "MESK",
+          "line": "Whoa! Easy! I'm starting to feel some of those aggressive female pheromones firing off."
+        },
+        {
+          "character": "TENDI",
+          "line": "We don't all have those!"
+        },
+        {
+          "character": "RUTHERFORD",
+          "line": "Tendi! Look at me! Tendi!"
+        },
+        {
+          "character": "FREEMAN",
+          "line": "Cerritos crew, I need a detail to transfer gift pallets over to the Karemma ship.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "RUTHERFORD",
+          "line": "Are you looking? Look at me!"
+        },
+        {
+          "character": "TENDI",
+          "line": "I'll do it, Captain. Oh, gosh. Captain needs us on duty ASAP."
+        },
+        {
+          "character": "RUTHERFORD",
+          "line": "Tendi! Tendi! Tendi!"
+        },
+        {
+          "character": "TENDI",
+          "line": "Oh, what a shame. Rutherford, let's go!"
+        },
+        {
+          "character": "RUTHERFORD",
+          "line": "But I wanted to have a heart-to-heart with a junior reporter up here!"
+        },
+        {
+          "character": "TENDI",
+          "line": "Now!"
+        },
+        {
+          "character": "RUTHERFORD",
+          "line": "Aw, man."
+        }
+      ],
+      "location": "Promenade"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "PLAYERS",
+          "line": "Dabo!"
+        },
+        {
+          "character": "BOIMLER",
+          "line": "And the streak continues."
+        },
+        {
+          "character": "PIT BOSS",
+          "line": "It looks like we've got a bit of beginner's luck on our hands. Surprising for a man with a coin purse."
+        },
+        {
+          "character": "BOIMLER",
+          "line": "It's a clutch. And it's feeling a little light. Let it ride!"
+        }
+      ],
+      "location": "Quarks"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "RUTHERFORD",
+          "line": "Man, it must have been so cool for you to hang out with another Orion."
+        },
+        {
+          "character": "TENDI",
+          "line": "Yeah, sure. But actually, I'd rather just be working with you. Oh!"
+        },
+        {
+          "character": "MESK",
+          "line": "Hey-oh! Guess who got themselves reassigned! I'm doing security for you guys for the rest of the day. How lucky are you?"
+        },
+        {
+          "character": "RUTHERFORD",
+          "line": "Mesk! That's great!"
+        },
+        {
+          "character": "TENDI",
+          "line": "Oh, wow. That's... that's news."
+        },
+        {
+          "character": "MESK",
+          "line": "Hey! This calls for a little pirate shanty! Tendi, sing along! I know you know it! \u266a Where it's cold and dark in the void of space, Orions take from every race!\u266a"
+        }
+      ],
+      "location": "Docking corridor"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "CASTRO",
+          "line": "It was a dark and stormy 57162.3. A stardate just like this."
+        },
+        {
+          "character": "WENDY",
+          "line": "Castro really nailed the theme tonight, didn't she?"
+        },
+        {
+          "character": "MARINER",
+          "line": "And what is the theme? Er, pillows?"
+        },
+        {
+          "character": "WENDY",
+          "line": "Personal Battlefields."
+        },
+        {
+          "character": "MARINER",
+          "line": "Oh, great, 'cause this one is mine."
+        },
+        {
+          "character": "CASTRO",
+          "line": ".that really I wasn't in the Enterprise, the Enterprise was in me all along. Oh, my gosh, you guys, thank you."
+        },
+        {
+          "character": "MARINER",
+          "line": "Urgh, yes."
+        },
+        {
+          "character": "ANYA",
+          "line": "Speak the truth."
+        },
+        {
+          "character": "JENNIFER",
+          "line": "Yeah. Speak it, honey. Speak."
+        },
+        {
+          "character": "MARINER",
+          "line": "So good."
+        },
+        {
+          "character": "CASTRO",
+          "line": "And now, please welcome a new voice, Mariner."
+        },
+        {
+          "character": "MARINER",
+          "line": "Me? Oh no, er, I mean, I didn't prepare anything."
+        },
+        {
+          "character": "ANYA",
+          "line": "That's okay, just speak your truth."
+        },
+        {
+          "character": "MARINER",
+          "line": "Yeah, I'd rather just listen to y'all's truths."
+        },
+        {
+          "character": "CASTRO",
+          "line": "Okay, I'm just gonna say it. The intention I'm detecting is that you're kind of disrespecting my salon."
+        },
+        {
+          "character": "MARINER",
+          "line": "Oh, no, I don't want to disrespect anything. Er, I..."
+        },
+        {
+          "character": "CASTRO",
+          "line": "Jenny was right, you do love being contrary. Anya, you want to go next?"
+        },
+        {
+          "character": "ANYA",
+          "line": "Oh yeah. Of course. I call this piece \"The Kobayashi Maroon.\" There's no right way to dance it."
+        }
+      ],
+      "location": "Castro's quarters"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "KIRA",
+          "line": "As you can see, species from all over the quadrant are participating in a robust exchange of goods and services, right here on Deep Space Nine."
+        },
+        {
+          "character": "KORZAK",
+          "line": "A tailor and some tchotchke kiosks? This is hardly worth my time."
+        },
+        {
+          "character": "FREEMAN",
+          "line": "Well, what about Quark's? He started his bar here, and now has locations on dozens of planets."
+        },
+        {
+          "character": "KORZAK",
+          "line": "Franchises, you say?"
+        }
+      ],
+      "location": "Promenade"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "FREEMAN",
+          "line": "Yes, and with massive profits. Nobody can tell you better than the Ferengi himself."
+        },
+        {
+          "character": "QUARK",
+          "line": "Get away from me."
+        },
+        {
+          "character": "FREEMAN",
+          "line": "Quark. I was so impressed with your entrepreneurial story. I believe our friends from the Gamma Quadrant would love to hear all about it."
+        },
+        {
+          "character": "QUARK",
+          "line": "Er, I'm too busy."
+        },
+        {
+          "character": "FREEMAN",
+          "line": "Quark, you've had such success, Korzak could open up even more franchise locations in his..."
+        },
+        {
+          "character": "QUARK",
+          "line": "Pass. I don't want to oversaturate the market."
+        },
+        {
+          "character": "KIRA",
+          "line": "Do us a favor here, Quark. We're trying to make a good impression."
+        },
+        {
+          "character": "QUARK",
+          "line": "Maybe I don't want to make a good impression."
+        },
+        {
+          "character": "KORZAK",
+          "line": "Oh? And why is that?"
+        },
+        {
+          "character": "QUARK",
+          "line": "A little thing called the Dominion War? I don't remember the Karemma helping out when my customers were dying!"
+        },
+        {
+          "character": "KORZAK",
+          "line": "We had nothing to do with that. The Founders and the Vorta were behind..."
+        },
+        {
+          "character": "QUARK",
+          "line": "Oh, right, you were so innocent. I've done business with your kind before. I'm not dumb enough to repeat that mistake."
+        },
+        {
+          "character": "KORZAK",
+          "line": "You bring me here to be insulted by this long-lobed halfling?"
+        },
+        {
+          "character": "QUARK",
+          "line": "Hey! No. No!"
+        },
+        {
+          "character": "KORZAK",
+          "line": "The nerve."
+        }
+      ],
+      "location": "Quarks"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "MESK",
+          "line": "\u266a And 40 slaves to serve our days, and we'll kill you in your cots. \u266a Feels weird being let in instead of breaking in, you know? If I don't pick a lock, I get all jittery. I'm all, \"How did I get in here?\" I know you feel me. Seriously, Tends, I bet the two of us could take this ship if we wanted to, you know?"
+        },
+        {
+          "character": "TENDI",
+          "line": "Would you just shut up?! You keep acting like pirating is cool, but guess what. It's not. It's embarrassing, and sometimes, it makes me not want to be associated with Orions at all."
+        },
+        {
+          "character": "MESK",
+          "line": "Wow. Someone got all \"human'ed up\" at the Academy. At least I'll remember where we came from."
+        }
+      ],
+      "location": "Karemma ship"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "PLAYERS",
+          "line": "Dabo!"
+        },
+        {
+          "character": "BOIMLER",
+          "line": "Oh, he does it again! Hey, man, get off me. What are you doing?"
+        },
+        {
+          "character": "PIT BOSS",
+          "line": "You're cheating, human. Tell me your secret."
+        },
+        {
+          "character": "BOIMLER",
+          "line": "I'm not cheating. I'm just the Dabo king. In fact, triple down Dabo."
+        },
+        {
+          "character": "PIT BOSS",
+          "line": "Eek!"
+        },
+        {
+          "character": "KIRA",
+          "line": "What is wrong with you?"
+        },
+        {
+          "character": "QUARK",
+          "line": "I have principles!"
+        },
+        {
+          "character": "KIRA",
+          "line": "No, you don't."
+        },
+        {
+          "character": "FREEMAN",
+          "line": "Quark, Korzak, please calm down."
+        },
+        {
+          "character": "KORZAK",
+          "line": "I will not stand for this disrespect."
+        },
+        {
+          "character": "FREEMAN",
+          "line": "I know, I know. Sometimes Quark can come across a little... insufferable. But his business acumen? Oh, it speaks for itself. He's got this amazing replicator, the Quark 2000. You know, I've never seen anything like it."
+        },
+        {
+          "character": "AIDE",
+          "line": "This is the Quark 2000?"
+        },
+        {
+          "character": "QUARK",
+          "line": "Hey, get away from that! That's my intellectual property."
+        },
+        {
+          "character": "FREEMAN",
+          "line": "Quark, be reasonable."
+        },
+        {
+          "character": "QUARK",
+          "line": "That's it. Everyone, out of the bar. We're closed."
+        },
+        {
+          "character": "AIDE",
+          "line": "Are you kidding? Minister."
+        },
+        {
+          "character": "QUARK",
+          "line": "That replicator contains trade secrets. Kira, they're trying to rip me off."
+        },
+        {
+          "character": "KORZAK",
+          "line": "How dare you?"
+        },
+        {
+          "character": "KIRA",
+          "line": "Korzak!"
+        },
+        {
+          "character": "KORZAK",
+          "line": "Alpha contingency, now."
+        }
+      ],
+      "location": "Quarks"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "ANYA",
+          "line": "Ow, hot wax!"
+        }
+      ],
+      "location": "Castro's quarters"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "QUARK",
+          "line": "Get off of me. Help!"
+        },
+        {
+          "character": "KIRA",
+          "line": "Kira to ops. That thing must have triggered some kind of system shutdown."
+        },
+        {
+          "character": "RANSOM",
+          "line": "You might have sold them on his franchise a little too well, Captain."
+        },
+        {
+          "character": "FREEMAN",
+          "line": "Oh, how did we get from failed trade talks to a kidnapping?"
+        },
+        {
+          "character": "PLAYERS",
+          "line": "Dabo!"
+        },
+        {
+          "character": "PIT BOSS",
+          "line": "No!"
+        }
+      ],
+      "location": "Quarks"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "RUTHERFORD",
+          "line": "Hey, Mesk, what are you doing?"
+        },
+        {
+          "character": "MESK",
+          "line": "Oh, this? It's nothing. Just a little pirate code for future Orions to let them know D'Vana Tendi is a traitor!"
+        },
+        {
+          "character": "TENDI",
+          "line": "I am not a traitor! I just, I don't feel the need to..."
+        },
+        {
+          "character": "QUARK",
+          "line": "Help! Help!"
+        },
+        {
+          "character": "RUTHERFORD",
+          "line": "Is that... is that Quark?"
+        },
+        {
+          "character": "QUARK",
+          "line": "This is all a misunderstanding."
+        },
+        {
+          "character": "KORZAK",
+          "line": "Oh, you say? Release docking and set a course for the wormhole."
+        },
+        {
+          "character": "RUTHERFORD",
+          "line": "I can't get the Cerritos."
+        },
+        {
+          "character": "MESK",
+          "line": "We're trapped!"
+        }
+      ],
+      "location": "Karemma ship"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "CASTRO",
+          "line": "Er, why did we just lose power?"
+        },
+        {
+          "character": "JENNIFER",
+          "line": "I bet it has something to do with the wormhole."
+        },
+        {
+          "character": "MARINER",
+          "line": "Ooo, yeah. It's always something with the wormhole."
+        },
+        {
+          "character": "JENNIFER",
+          "line": "Let's get to our stations."
+        },
+        {
+          "character": "MARINER",
+          "line": "The manual latch is fused."
+        },
+        {
+          "character": "WENDY",
+          "line": "Excuse me, is anybody... is anyone else finding it hard to breathe?"
+        },
+        {
+          "character": "MARINER",
+          "line": "Come on, we've been in here two seconds. It's totally fine. It's... Wait, it is a little stuffy. : I need air!"
+        },
+        {
+          "character": "MARINER",
+          "line": "Everybody, just keep calm, okay? What is going on?"
+        },
+        {
+          "character": "WENDY",
+          "line": "Oh, my God!"
+        },
+        {
+          "character": "MARINER",
+          "line": "Ah, the Impulian candles. The flames eat twice the oxygen."
+        },
+        {
+          "character": "CASTRO",
+          "line": "Wait, wait, wait, our intentions."
+        },
+        {
+          "character": "MARINER",
+          "line": "Everybody, okay, let's calm down, all right? If I could have your attention, please. Ladies."
+        },
+        {
+          "character": "JENNIFER",
+          "line": "Why are you being so polite? This doesn't sound like you."
+        },
+        {
+          "character": "MARINER",
+          "line": "Because I've been trying this whole time not to be bossy or mean to your friends."
+        },
+        {
+          "character": "JENNIFER",
+          "line": "Why?"
+        },
+        {
+          "character": "MARINER",
+          "line": "Because if they didn't like me, you'd get mad and then this wouldn't work out."
+        },
+        {
+          "character": "JENNIFER",
+          "line": "Beckett, I like that you don't take shit from anyone."
+        },
+        {
+          "character": "MARINER",
+          "line": "Really?"
+        },
+        {
+          "character": "JENNIFER",
+          "line": "Yes. I know my friends can be a bit much. I've been looking forward to you tearing them a new one. Go destroy them."
+        },
+        {
+          "character": "MARINER",
+          "line": "Ah, thanks, babe. Everyone, shut the fuck up!"
+        },
+        {
+          "character": "CASTRO",
+          "line": "Oh. You can't tell us what to do. This is my salon."
+        },
+        {
+          "character": "MARINER",
+          "line": "And this is my phaser. Hey, did you know that when you're unconscious you actually consume way less oxygen?"
+        },
+        {
+          "character": "CASTRO",
+          "line": "So? What does that have to do..."
+        },
+        {
+          "character": "ANYA",
+          "line": "Oh, my God, she stunned her."
+        },
+        {
+          "character": "WENDY",
+          "line": "What are you doing?"
+        },
+        {
+          "character": "MARINER",
+          "line": "Just actualizing my dreams."
+        },
+        {
+          "character": "WENDY",
+          "line": "No!"
+        },
+        {
+          "character": "JENNIFER",
+          "line": "Whoo!"
+        }
+      ],
+      "location": "Castro's quarters"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "RUTHERFORD",
+          "line": "Oh, man, we're almost to the wormhole! Mesk. Mesk, you can save us!"
+        },
+        {
+          "character": "MESK",
+          "line": "Um, I'm sorry, what?"
+        },
+        {
+          "character": "RUTHERFORD",
+          "line": "With all your pirating skills, you can take the ship Orion-style."
+        },
+        {
+          "character": "MESK",
+          "line": "Right, totally. Um, the er, thing with that is, um... I er... I don't know how. I've never pirated anything in my whole stupid life."
+        },
+        {
+          "character": "TENDI",
+          "line": "What? It's all you talk about!"
+        },
+        {
+          "character": "MESK",
+          "line": "I'm a faker. I don't know. I've... I've never even been to Orion. I'm from Cincinnati."
+        },
+        {
+          "character": "RUTHERFORD",
+          "line": "What?"
+        },
+        {
+          "character": "TENDI",
+          "line": "Are you freaking serious?"
+        },
+        {
+          "character": "RUTHERFORD",
+          "line": "Cincinnati?"
+        },
+        {
+          "character": "MESK",
+          "line": "I got adopted by humans, and everything I know about Orions I learned from the holonovels. And bad ones, too. The ones with the boobs on the cover."
+        },
+        {
+          "character": "TENDI",
+          "line": "Why would you lie?"
+        },
+        {
+          "character": "MESK",
+          "line": "Well, people just expect Orions to act like that, so it's always worked for me. I never knew any other Orions back in Ohio, so no one ever checked me on it."
+        },
+        {
+          "character": "TENDI",
+          "line": "Yeah, I... I get that. It's hard when you feel like people expect you to act a certain way but, you just got to be yourself. It doesn't matter what other people expect."
+        },
+        {
+          "character": "MESK",
+          "line": "I'm sorry that I put all that on you, too."
+        },
+        {
+          "character": "TENDI",
+          "line": "Thanks, and I'm sure the real Mesk is great, too. The Ohio Mesk."
+        },
+        {
+          "character": "MESK",
+          "line": "Oh, I just feel bad, 'cause actual Orion pirating skills really would come in handy right now."
+        },
+        {
+          "character": "TENDI",
+          "line": "Yep, you're right about that."
+        },
+        {
+          "character": "MESK",
+          "line": "Whoa. What the...?"
+        },
+        {
+          "character": "TENDI",
+          "line": "Listen, if there's one thing my father taught me, it's that every ship has a security fail-safe."
+        },
+        {
+          "character": "MESK",
+          "line": "Your family's Orion pirates?"
+        },
+        {
+          "character": "TENDI",
+          "line": "Yep, Syndicate and all."
+        },
+        {
+          "character": "KAREMMA",
+          "line": "You there, stop."
+        },
+        {
+          "character": "RUTHERFORD",
+          "line": "Wait a minute, wait a minute. That thing has a tooth remover?"
+        },
+        {
+          "character": "TENDI",
+          "line": "Shh, I'm pirating. Let's go!"
+        },
+        {
+          "character": "MESK",
+          "line": "Whoa, you just did that with a wine opener!"
+        },
+        {
+          "character": "RUTHERFORD",
+          "line": "Oh, no! Wormhole! You stopped us? How?"
+        },
+        {
+          "character": "TENDI",
+          "line": "I used the latinum from the guy's tooth to magnetically decouple the propulsion controls."
+        },
+        {
+          "character": "MESK",
+          "line": "You took the ship. You took the ship!"
+        },
+        {
+          "character": "TENDI",
+          "line": "Oh, my folks would be so proud, but this is only a temporary fix. In a couple of hours, the Karemma are gonna figure out what I did, and when they do... Whoa!"
+        },
+        {
+          "character": "RUTHERFORD",
+          "line": "We're in a tractor beam. Ha, ha! We're saved."
+        }
+      ],
+      "location": "Karemma ship"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "KIRA",
+          "line": "We got 'em. Good work, people."
+        },
+        {
+          "character": "RANSOM",
+          "line": "Wonder why they just stopped and waited. I mean, they were as good as Gamma'd."
+        },
+        {
+          "character": "FREEMAN",
+          "line": "Beam 'em to the brig first, ask questions later."
+        }
+      ],
+      "location": "Ops"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "MARINER",
+          "line": "Well, I definitely didn't have \"phaser all your friends\" on my bingo card."
+        },
+        {
+          "character": "JENNIFER",
+          "line": "And that's what I like about us. You keep things unexpected. Though, you know, us being the only ones not stunned here? Kind of a bad look."
+        },
+        {
+          "character": "MARINER",
+          "line": "Mmm-hmm, mmm-hmm, mmm-hmm. I see that. Welp, shall we? Mwah."
+        }
+      ],
+      "location": "Castro's quarters"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "KORZAK",
+          "line": "Let me out of here. This imprisonment will not stand."
+        },
+        {
+          "character": "FREEMAN",
+          "line": "You kidnapped an innocent Ferengi."
+        },
+        {
+          "character": "QUARK",
+          "line": "If I can quickly interject? This is just a big misunderstanding, and I'm sure we can work out some sort of resolution."
+        },
+        {
+          "character": "KORZAK",
+          "line": "A resolution for what? You stole our technology."
+        },
+        {
+          "character": "FREEMAN",
+          "line": "Your technology?"
+        },
+        {
+          "character": "KORZAK",
+          "line": "The Quark 2000. He stole it from us. It's filled with Karemma components."
+        },
+        {
+          "character": "FREEMAN",
+          "line": "So, you didn't kidnap him?"
+        },
+        {
+          "character": "KORZAK",
+          "line": "No. We arrested him."
+        },
+        {
+          "character": "QUARK",
+          "line": "I... may... have borrowed a Karemma replicator some years ago, but it was my codes that made it so popular."
+        },
+        {
+          "character": "KORZAK",
+          "line": "Oh, that's beside the point."
+        },
+        {
+          "character": "FREEMAN",
+          "line": "I think I have a solution that will make you both happy."
+        },
+        {
+          "character": "FREEMAN",
+          "line": "Captain's log, supplemental. Our mission, though unexpected, has been a resounding success. The Karemma have agreed to open up trade and not imprison Quark in exchange for 76% of all his franchises' profits.",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "Brig"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "PIT BOSS",
+          "line": "That table wants more top-shelf Tamarian mead, and they're insisting that it's on the house."
+        },
+        {
+          "character": "QUARK",
+          "line": "Just bring them what they want. I thought you said your plan would make us both happy."
+        },
+        {
+          "character": "FREEMAN",
+          "line": "Well, you're happier being poor than in prison, aren't you?"
+        },
+        {
+          "character": "QUARK",
+          "line": "No!"
+        },
+        {
+          "character": "MARINER",
+          "line": "Sorry I didn't win over your friends."
+        },
+        {
+          "character": "JENNIFER",
+          "line": "Please. Even better, now they're scared of you."
+        },
+        {
+          "character": "ANYA",
+          "line": "Shh, shh. She's looking, she's looking, don't look."
+        },
+        {
+          "character": "QUARK",
+          "line": "One Risa Colada and a Mind Meld. Mariner. You'd better have a stack of latinum down there."
+        },
+        {
+          "character": "MARINER",
+          "line": "Er, nope. But I do have a copy of that hologram with your head on Kira's body."
+        },
+        {
+          "character": "QUARK",
+          "line": "Impossible. I erased that."
+        },
+        {
+          "character": "MARINER",
+          "line": "How about we clear my tab? Unless you're not afraid of Kira seeing this."
+        },
+        {
+          "character": "KIRA",
+          "line": "Mariner. I was wondering when you'd show up. Are you guys telling war stories?"
+        },
+        {
+          "character": "QUARK",
+          "line": "I was just clearing her tab, for old time's sake."
+        },
+        {
+          "character": "KIRA",
+          "line": "What is on that chip?"
+        },
+        {
+          "character": "QUARK",
+          "line": "No! No!"
+        },
+        {
+          "character": "KIRA",
+          "line": "Give that to me, give it to me. Quark."
+        },
+        {
+          "character": "PLAYERS",
+          "line": "Dabo!"
+        },
+        {
+          "character": "PIT BOSS",
+          "line": "Listen, you could walk out of here with all that latinum. That germy, dirty latinum. Or... a gift certificate for twice its value at our Quark's gift store."
+        },
+        {
+          "character": "BOIMLER",
+          "line": "Quark's bucks? I'll take it. We don't even use money in Starfleet anyway."
+        },
+        {
+          "character": "PIT BOSS",
+          "line": "What?"
+        },
+        {
+          "character": "KIRA",
+          "line": "Oh, it was good to see you today, old-timer."
+        },
+        {
+          "character": "SHAXS",
+          "line": "Yes. The prophets smiled on both of us."
+        },
+        {
+          "character": "KIRA",
+          "line": "Thanks for having my back when the klisht hit the fan."
+        },
+        {
+          "character": "SHAXS",
+          "line": "Just doing my job."
+        },
+        {
+          "character": "KIRA",
+          "line": "Now I do owe you one."
+        },
+        {
+          "character": "SHAXS",
+          "line": "Wait, what? No. No, no, no. Hey, come on."
+        },
+        {
+          "character": "KIRA",
+          "line": "Gotcha."
+        },
+        {
+          "character": "RUTHERFORD",
+          "line": "But then the way you, like, dance-flip-konked that guard, I was like, damn! I didn't know Tendi could do that."
+        },
+        {
+          "character": "TENDI",
+          "line": "Well, so you're not embarrassed to be friends with someone whose family was into pirating?"
+        },
+        {
+          "character": "RUTHERFORD",
+          "line": "No way. It's a part of who you are. I like hearing about it."
+        },
+        {
+          "character": "TENDI",
+          "line": "Thanks, Rutherford. From now on I'm going to embrace my past, and what comes with it."
+        },
+        {
+          "character": "RUTHERFORD",
+          "line": "Er, what are you gonna do with the tooth?"
+        },
+        {
+          "character": "TENDI",
+          "line": "I don't know. It's actually kind of gross, isn't it?"
+        },
+        {
+          "character": "QUARK",
+          "line": "I'll take that. Rule of Acquisition number nine. Opportunity plus instinct equals profit."
+        }
+      ],
+      "location": "Quarks"
+    }
+  ],
+  "schedule": {
+    "episode": 6,
+    "number": 26,
+    "season": 3
+  },
+  "stardate": "2381",
+  "title": "Room for Growth"
+}

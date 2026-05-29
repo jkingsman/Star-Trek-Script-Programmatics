@@ -1,0 +1,1483 @@
+{
+  "airdate": 1629356400,
+  "scenes": [
+    {
+      "dialogue": [
+        {
+          "character": "TENDI",
+          "line": "I'm so zonked. The red alerts from that wormhole kept me up half the night."
+        },
+        {
+          "character": "MARINER",
+          "line": "Oh, I know. It's, like, are we crossing the event horizon or not? Like, I don't care, actually. I just want you to pick one. Jet. What are you doing here?"
+        },
+        {
+          "character": "JET",
+          "line": "Got reassigned to Beta shift. Looks like we'll be showering together."
+        },
+        {
+          "character": "MARINER",
+          "line": "Cool. Well, welcome to the team. I'm sort of the unofficial leader. Feel free to come to me with any questions."
+        },
+        {
+          "character": "JET",
+          "line": "She's joking, right?"
+        },
+        {
+          "character": "TENDI",
+          "line": "Nope."
+        }
+      ],
+      "location": "Crew Quarters"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "MARINER",
+          "line": "Ooo, actually, usually Boimler leaves that one open for me. He has issues with communal nudity."
+        },
+        {
+          "character": "JET",
+          "line": "Well, I'm not him, and he's not here."
+        },
+        {
+          "character": "MARINER",
+          "line": "Cool. Hope this isn't too high for you."
+        },
+        {
+          "character": "JET",
+          "line": "Oh. Ha-ha. Fine with me. I could go higher."
+        },
+        {
+          "character": "TENDI",
+          "line": "Er, that's a little high, don't you think?"
+        },
+        {
+          "character": "JET",
+          "line": "Not for me."
+        },
+        {
+          "character": "MARINER",
+          "line": "This is my favorite."
+        },
+        {
+          "character": "RUTHERFORD",
+          "line": "I think I'm clean."
+        },
+        {
+          "character": "TENDI",
+          "line": "Yeah, I'm good."
+        },
+        {
+          "character": "MARINER",
+          "line": "Never felt more alive."
+        },
+        {
+          "character": "FREEMAN",
+          "line": "Captain's log, stardate 58001.2. Those who spend their lives and fortunes gathering scientific rarities from around the galaxy call themselves Collectors. Now, a prominent collector has died, leaving behind a starship full of hazardous treasures that need to be safely cataloged. The Collector's Guild has asked the Federation for help, so the Cerritos has been tasked with the job.",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "Sonic showers"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "FREEMAN",
+          "line": "Chairman Siggi, allow me to offer my deepest condolences for the loss of your friend."
+        },
+        {
+          "character": "SIGGI",
+          "line": "Kerner Hauze was no friend. His collection pales in comparison to mine.",
+          "modifier": "screen"
+        },
+        {
+          "character": "FREEMAN",
+          "line": "Well, I'm sure that's true. How can we help?"
+        },
+        {
+          "character": "SIGGI",
+          "line": "Well, I'm supposed to auction off his things, per Guild rules, but I don't know what kind of dangerous items he might have been hoarding. I need you guys to come in and safely dispose of anything that could, you know, atomise me.",
+          "modifier": "screen"
+        },
+        {
+          "character": "FREEMAN",
+          "line": "Happy to help. We'll prepare a team."
+        },
+        {
+          "character": "SIGGI",
+          "line": "And I'll be overseein' 'em. I don't want any of your crew getting sticky appendages.",
+          "modifier": "screen"
+        },
+        {
+          "character": "FREEMAN",
+          "line": "Urgh, Collector's Guild. Just a bunch of greedy packrats."
+        },
+        {
+          "character": "RANSOM",
+          "line": "Wasn't he the one who tried to collect Data?"
+        },
+        {
+          "character": "FREEMAN",
+          "line": "They all tried to collect Data."
+        },
+        {
+          "character": "MIGLEEMO",
+          "line": "Why couldn't they leave Data alone? He just wanted to feel."
+        },
+        {
+          "character": "FREEMAN",
+          "line": "This is the last thing I need right now. I'm supposed to find out the results of my command evaluation today."
+        },
+        {
+          "character": "RANSOM",
+          "line": "Well, sounds like your basic tag-and-bag. Want me to head it up?"
+        },
+        {
+          "character": "FREMAN",
+          "line": "No, I think this is a fine first job for our brand-new head of security. Lieutenant Kayshon, welcome to the Cerritos."
+        },
+        {
+          "character": "KAYSHON",
+          "line": "Rapunki, when he joined the Seven. Ah, sorry. The universal translator doesn't always... What I meant was, er, it is my honor, Captain."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TENDI",
+          "line": "Jah. This is so cool. Lieutenant Kayshon is the first Tamarian in Starfleet and we get to go on a mission with him."
+        },
+        {
+          "character": "MARINER",
+          "line": "Eh. We're basically clearing out a dead dude's storage locker."
+        },
+        {
+          "character": "JET",
+          "line": "A mission's only as important as you make it, Mariner."
+        },
+        {
+          "character": "MARINER",
+          "line": "Okay, Commander Protocol. You always this fun?"
+        },
+        {
+          "character": "JET",
+          "line": "We're on the clock. I'll have fun after we do the job."
+        },
+        {
+          "character": "MARINER",
+          "line": "Urgh. You sound uptighter than Boimler."
+        },
+        {
+          "character": "RUTHERFORD",
+          "line": "Ah, man, Boims would have loved this mission. He took Ethics of Collecting at the Academy."
+        },
+        {
+          "character": "TENDI",
+          "line": "Yeah, but the Titan's such a big deal. I bet he's living the dream."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "RIKER",
+          "line": "Mister Boimler, attack pattern Delta. Target the aft shields. Let's see how these Pakleds do with their aft hanging out."
+        },
+        {
+          "character": "BOIMLER",
+          "line": "Er, yes, sir."
+        },
+        {
+          "character": "TACTICAL OFFICER",
+          "line": "Photon torpedoes locked and ready."
+        },
+        {
+          "character": "RIKER",
+          "line": "Fire!"
+        },
+        {
+          "character": "TACTICAL OFFICER",
+          "line": "Hasta ma\u00f1ana, Pakleds."
+        },
+        {
+          "character": "RIKER",
+          "line": "Great job, everyone. That's a wrap."
+        }
+      ],
+      "location": "USS Titan"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TENDI",
+          "line": "Lieutenant Kayshon? We're your away team, reporting for duty."
+        },
+        {
+          "character": "KAYSHON",
+          "line": "It is a pleasure to meet you, and I look forward to, er... oh, geez... Darmok and Jalad on the ocean... er..."
+        },
+        {
+          "character": "JET",
+          "line": "Working with you?"
+        },
+        {
+          "character": "KAYSHON",
+          "line": "Yes. Thank you. Apologies, my Federation Standard is still shaky."
+        },
+        {
+          "character": "JET",
+          "line": "It's no problem, sir. Or should I say, it's no beast at Tanagra."
+        },
+        {
+          "character": "KAYSHON",
+          "line": "Oh."
+        },
+        {
+          "character": "MARINER",
+          "line": "More like suck-up at Tanagra."
+        }
+      ],
+      "location": "Transporter room"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "SIGGI",
+          "line": "About time, Starfleet. What'd you do, stop to debate the human rights of a robot?"
+        },
+        {
+          "character": "KAYSHON",
+          "line": "I... I do not believe so. Perhaps we should review our logs."
+        },
+        {
+          "character": "SIGGI",
+          "line": "Hey, just bustin' your bioducts. Here's the deal. I need youse to comb through all this stuff on the floor here. But the high-ticket items in these cases? That stuff stays here."
+        },
+        {
+          "character": "TENDI",
+          "line": "Er, okay."
+        },
+        {
+          "character": "JET",
+          "line": "All right, if we split up, we can knock this out in an hour."
+        },
+        {
+          "character": "SIGGI",
+          "line": "Whoa, big fella. This is just the first room. Most of the collection's further in the ship."
+        },
+        {
+          "character": "MARINER",
+          "line": "There's more? Oh, how much can one guy collect?"
+        },
+        {
+          "character": "SIGGI",
+          "line": "Sister, you got no idea."
+        }
+      ],
+      "location": "Hauze's ship"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "RIKER",
+          "line": "There's a pattern to the Pakleds' attacks on these outposts. They're after Varuvian ore."
+        },
+        {
+          "character": "BOIMLER",
+          "line": "Er, sorry. What ore?"
+        },
+        {
+          "character": "FIRST OFFICER",
+          "line": "Varuvian. Contains minerals which become volatile at high vibratory frequencies."
+        },
+        {
+          "character": "TACTICAL OFFICER",
+          "line": "Those terrorists tried to use it to blow up Starbase 58."
+        },
+        {
+          "character": "BOIMLER",
+          "line": "Oh, er, yeah, I think I remember reading that in one of your logs. Huh. Titan's seen a lot of action."
+        },
+        {
+          "character": "OFFICER",
+          "line": "Ain't weaponising Varuvian ore a bit above the Pakleds' grade level?"
+        },
+        {
+          "character": "RIKER",
+          "line": "Way above, which is why Starfleet Command believes there may be another player involved. Intel says the Pakleds' next target is a Varuvian mining colony on Karzill IV. We'll embed an away team there disguised as miners with the goal of planting a tracking device on their shuttle."
+        },
+        {
+          "character": "FIRST OFFICER",
+          "line": "They'll lead us right to their puppet master."
+        },
+        {
+          "character": "RIKER",
+          "line": "And that's when we cut the strings."
+        },
+        {
+          "character": "BOIMLER",
+          "line": "Cutting the strings."
+        },
+        {
+          "character": "RIKER",
+          "line": "You don't have to write that down."
+        },
+        {
+          "character": "BOIMLER",
+          "line": "I don't have to write that down."
+        }
+      ],
+      "location": "USS Titan briefing room"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "RUTHERFORD",
+          "line": "Got another old disintegrator here."
+        },
+        {
+          "character": "SIGGI",
+          "line": "Oh, hey, Cyborg. You're pretty rare, huh?"
+        },
+        {
+          "character": "RUTHERFORD",
+          "line": "Yeah, as far as I know there's only a few of us in Starfleet."
+        },
+        {
+          "character": "SIGGI",
+          "line": "Interesting."
+        },
+        {
+          "character": "MARINER",
+          "line": "Careful, Ruthy. He's gonna try to collect you."
+        },
+        {
+          "character": "SIGGI",
+          "line": "Take my card. I got a top-notch menagerie."
+        },
+        {
+          "character": "TENDI",
+          "line": "So, Kerner Hauze just lived here all alone on an automated ship? He must have been so lonely."
+        },
+        {
+          "character": "KAYSHON",
+          "line": "Perhaps to him the silence was, er... Temba, his arms open."
+        },
+        {
+          "character": "TENDI",
+          "line": "A gift?"
+        },
+        {
+          "character": "KAYSHON",
+          "line": "Yes, gift. Sorry. Perhaps he preferred to be alone."
+        },
+        {
+          "character": "TENDI",
+          "line": "Yeah, I guess more time to enjoy... Kahless' fornication helmet. Oh, that's fun. Safety first."
+        },
+        {
+          "character": "MARINER",
+          "line": "This way, mortals, or thou shalt be smited."
+        },
+        {
+          "character": "JET",
+          "line": "We got a lot to do. You might want to focus."
+        },
+        {
+          "character": "MARINER",
+          "line": "And you might want to loosen up."
+        },
+        {
+          "character": "JET",
+          "line": "Oh, yeah, loosen up while carrying ordnance. Great idea, Mariner."
+        },
+        {
+          "character": "MARINER",
+          "line": "Whoa. Uh, what's going on?"
+        },
+        {
+          "character": "HAUZE",
+          "line": "Ah-ah-ah. If you're seeing this holo-message, it means I'm dead and you're trying to steal from my precious collection."
+        },
+        {
+          "character": "SIGGI",
+          "line": "Oh-ho, great. Automated defenses. You must've moved something."
+        },
+        {
+          "character": "TENDI",
+          "line": "What? You had us move lots of things."
+        },
+        {
+          "character": "HAUZE",
+          "line": "For your greed, you will now be part of my collection."
+        },
+        {
+          "character": "TENDI",
+          "line": "Lieutenant Kayshon!"
+        },
+        {
+          "character": "KAYSHON",
+          "line": "Help me. It's... it's... Zinda, his eyes red. Argh!"
+        },
+        {
+          "character": "JET",
+          "line": "He's saying it hurts."
+        },
+        {
+          "character": "MARINER",
+          "line": "Yeah, man, I get it. Context clues."
+        },
+        {
+          "character": "RUTHERFORD",
+          "line": "That beam turned him into a puppet."
+        },
+        {
+          "character": "SIGGI",
+          "line": "He'll be worth a fortune."
+        },
+        {
+          "character": "MARINER",
+          "line": "Could you stop collecting for one... Ah, flying orb."
+        },
+        {
+          "character": "MARINER",
+          "line": "Whoa."
+        },
+        {
+          "character": "JET",
+          "line": "Manhaver to Cerritos, come in. Comms are blocked."
+        },
+        {
+          "character": "MARINER",
+          "line": "We've got to get out of here. Now."
+        },
+        {
+          "character": "MARINER",
+          "line": "I've got him."
+        },
+        {
+          "character": "JET",
+          "line": "No, I've got him."
+        },
+        {
+          "character": "TENDI",
+          "line": "Guys."
+        },
+        {
+          "character": "SIGGI",
+          "line": "Out of my way."
+        },
+        {
+          "character": "MARINER",
+          "line": "Hey."
+        },
+        {
+          "character": "JET",
+          "line": "Let's go."
+        },
+        {
+          "character": "SIGGI",
+          "line": "I told you to keep your hands to yourself, Orion."
+        },
+        {
+          "character": "TENDI",
+          "line": "Grr."
+        },
+        {
+          "character": "SIGGI",
+          "line": "Just great. This is what I get for involving Starfleet."
+        },
+        {
+          "character": "MARINER",
+          "line": "Oh, you want to try to get through the killer ship on your own? Be my guest."
+        },
+        {
+          "character": "RUTHERFORD",
+          "line": "Oh, man, it's just gallery after gallery."
+        },
+        {
+          "character": "MARINER",
+          "line": "We need to get to the engine room and disable the defenses. For us to make it out of here, we're gonna have to travel into the belly of the beast."
+        },
+        {
+          "character": "JET",
+          "line": "Quiet. I've got a safer plan."
+        },
+        {
+          "character": "MARINER",
+          "line": "What? No, you don't cut off my badass plan. Not even Boimler would..."
+        },
+        {
+          "character": "JET",
+          "line": "Shh. He's gone. Get over it. Now listen. There are escape pods right here. And fewer galleries to go through means better odds. We don't need to be heroes today, people. We just need to survive."
+        },
+        {
+          "character": "SIGGI",
+          "line": "I'm with the hunk."
+        },
+        {
+          "character": "MARINER",
+          "line": "You don't get a vote."
+        },
+        {
+          "character": "TENDI",
+          "line": "Er, actually, I think I like Jet's plan, too."
+        },
+        {
+          "character": "MARINER",
+          "line": "Tendi. Okay, Rutherford, what about you?"
+        },
+        {
+          "character": "RUTHERFORD",
+          "line": "Yeah, it just sounds less risky? It's more like what our training says to do."
+        },
+        {
+          "character": "JET",
+          "line": "Exactly. If we follow our training, we get out of here alive. All of us."
+        },
+        {
+          "character": "MARINER",
+          "line": "Grr."
+        }
+      ],
+      "location": "Hauze's ship"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "BOIMLER",
+          "line": "Ooh, I love me an undercover op."
+        },
+        {
+          "character": "OFFICER",
+          "line": "You could tell the captain was bummed to have to stay on the ship. Badass like Riker, you know he'd rather have boots on the ground."
+        },
+        {
+          "character": "TACTICAL OFFICER",
+          "line": "He must have been so bored on the Enterprise. I mean, seven years of what, exploring?"
+        },
+        {
+          "character": "FIRST OFFICER",
+          "line": "On a ship with five day care centers."
+        },
+        {
+          "character": "BOIMLER",
+          "line": "Are you talking about the D? The flagship? They went to different dimensions. They fought the Borg. They insurrected."
+        },
+        {
+          "character": "FIRST OFFICER",
+          "line": "They had regular string quartets. Wow, what a rush."
+        },
+        {
+          "character": "OFFICER",
+          "line": "Play me a concerto."
+        },
+        {
+          "character": "TACTICAL OFFICER",
+          "line": "That's dumb."
+        }
+      ],
+      "location": "Shuttlecraft"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "RANSOM",
+          "line": "Er, Captain? You feeling okay?"
+        },
+        {
+          "character": "FREEMAN",
+          "line": "Hmm? I'm fine. Why?"
+        },
+        {
+          "character": "RANSOM",
+          "line": "This is typically about the time you'd start asking for a second or even third status report from the away team, but, er, you haven't even asked for one yet."
+        },
+        {
+          "character": "FREEMAN",
+          "line": "Commander, are you suggesting that I micromanage?"
+        },
+        {
+          "character": "RANSOM",
+          "line": "No, no, no. Not at all. I..."
+        },
+        {
+          "character": "FREEMAN",
+          "line": "Because that is what Starfleet Command said in my evaluation. Can you believe that? Since when do I micromanage? I am going to have to, quote, show more trust in my subordinates. Lieutenant Kayshon is an accomplished officer. I am sure he's got a handle on things."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "JET",
+          "line": "Rutherford, take the puppet."
+        },
+        {
+          "character": "MARINER",
+          "line": "Tendi, target the hinge."
+        },
+        {
+          "character": "TENDI",
+          "line": "Ah! Inorganic matter compactor."
+        },
+        {
+          "character": "RUTHERFORD",
+          "line": "Whoa. Whoa."
+        },
+        {
+          "character": "MARINER",
+          "line": "Rutherford!"
+        },
+        {
+          "character": "MARINER",
+          "line": "Don't let go. Hey, what the f***? Little help?"
+        },
+        {
+          "character": "SIGGI",
+          "line": "Not my problem."
+        },
+        {
+          "character": "ALL",
+          "line": "Ah."
+        }
+      ],
+      "location": "Hauze's ship"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TENDI",
+          "line": "Whoa."
+        },
+        {
+          "character": "MARINER",
+          "line": "Hey. Thanks for helping out back there. You couldn't lend a frickin' tentacle?"
+        },
+        {
+          "character": "SIGGI",
+          "line": "Get your lousy hands off me."
+        },
+        {
+          "character": "TENDI",
+          "line": "Kahless's sex helmet? You took it. That's what set off the ship. This is all your fault, you pervert. No judgment."
+        },
+        {
+          "character": "SIGGI",
+          "line": "Oh, save it, Orion. I don't got to answer to nobody but me. That's how I got on top, that's how I'm staying on top."
+        },
+        {
+          "character": "JET",
+          "line": "Don't move."
+        },
+        {
+          "character": "SIGGI",
+          "line": "I'm done listening to youse."
+        },
+        {
+          "character": "RUTHERFORD",
+          "line": "Maybe his helmet saved him?"
+        },
+        {
+          "character": "JET",
+          "line": "Guess we have to go up and over."
+        },
+        {
+          "character": "MARINER",
+          "line": "Er, remind me again how this was the safer option?"
+        },
+        {
+          "character": "JET",
+          "line": "There's unknowns to any plan. If we'd gone your way, we'd have had to fight twice as many collectables and free-climb a radiation coolant pipe."
+        },
+        {
+          "character": "MARINER",
+          "line": "I'm not afraid of a little risk."
+        },
+        {
+          "character": "JET",
+          "line": "But what about them? Maybe you've got a death wish, but you can't ask them to follow you there."
+        },
+        {
+          "character": "MARINER",
+          "line": "Oh, don't act like you're watching out for them. You're just using them to prop yourself up."
+        },
+        {
+          "character": "JET",
+          "line": "What are you talking about?"
+        },
+        {
+          "character": "MARINER",
+          "line": "You want everyone to see you as this big, brave hero who only cares about the team, but..."
+        },
+        {
+          "character": "MARINER",
+          "line": "Oh, God, get out of here. Stupid vacuum."
+        },
+        {
+          "character": "RUTHERFORD",
+          "line": "Uh-oh. I think you triggered some kind of network response."
+        },
+        {
+          "character": "MARINER",
+          "line": "Aw, what are they gonna do, suck us to death? Ow! They're gonna suck us to death."
+        },
+        {
+          "character": "TENDI",
+          "line": "There's too many of them."
+        },
+        {
+          "character": "JET",
+          "line": "We need a barricade."
+        },
+        {
+          "character": "MARINER",
+          "line": "No, guys, grab a bone. Just swing on 'em."
+        },
+        {
+          "character": "JET",
+          "line": "No, help me build."
+        },
+        {
+          "character": "MARINER",
+          "line": "Don't listen to him."
+        },
+        {
+          "character": "JET",
+          "line": "Stand down, Mariner."
+        },
+        {
+          "character": "MARINER",
+          "line": "You stand down."
+        },
+        {
+          "character": "JET",
+          "line": "I told you to stand down."
+        },
+        {
+          "character": "MARINER",
+          "line": "You stand down."
+        }
+      ],
+      "location": "Bones room"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "PAKLED",
+          "line": "We are strong. We take your mine. It is our mine now."
+        },
+        {
+          "character": "BOIMLER",
+          "line": "Stay strong, brother. We miners shall overcome."
+        },
+        {
+          "character": "MINER",
+          "line": "Dude, you're clearly Starfleet. Your hands are super soft and clean."
+        },
+        {
+          "character": "BOIMLER",
+          "line": "Er, no, I'm a miner with a heart of gold. And I have dad issues."
+        },
+        {
+          "character": "TACTICAL OFFICER",
+          "line": "Okay, the Pakleds' shuttle is unattended. Now's our chance."
+        },
+        {
+          "character": "FIRST OFFICER",
+          "line": "Hold it. We got a 'Led over there. We have to stun him, or he could sound the alarm."
+        },
+        {
+          "character": "BOIMLER",
+          "line": "But our orders are to avoid..."
+        },
+        {
+          "character": "FIRST OFFICER",
+          "line": "We can't leave anything up to chance. Sorry, pal, but this ain't your lucky... Huh? It's a pile of snacks."
+        },
+        {
+          "character": "PAKLED",
+          "line": "Hey. Those miners are stealing our snacks."
+        },
+        {
+          "character": "FIRST OFFICER",
+          "line": "We're blown. Fall back to that tunnel."
+        }
+      ],
+      "location": "Mining colony"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "JET",
+          "line": "There. This should buy us some time. I'll try to come up with a plan."
+        },
+        {
+          "character": "MARINER",
+          "line": "Enough with this whole textbook leader routine. We're not buying it."
+        },
+        {
+          "character": "JET",
+          "line": "I'm just trying to step up here. You're the one with the act. The whole dive in headfirst thing. You're just desperate to be seen as some kind of renegade hero."
+        },
+        {
+          "character": "MARINER",
+          "line": "No, I'm not. Diving in is just how I work best."
+        },
+        {
+          "character": "JET",
+          "line": "And I like to think things out. Sorry if that comes off all textbook to you. What, you think I'm trying to be like Ransom up in here? Square jaw, all squinting, like, let's roll?"
+        },
+        {
+          "character": "MARINER",
+          "line": "Er, no, not a good look. I'm just surprised that you'd ever trash-talk a superior."
+        },
+        {
+          "character": "JET",
+          "line": "Ha! Are you kidding me? Don't even get me started on Stevens. Do you know he keeps a log about his mustache?"
+        },
+        {
+          "character": "MARINER",
+          "line": "Gah, this isn't gonna hold much longer. If I had thought for one second before I hit that stupid vacuum, none of this would have happened."
+        },
+        {
+          "character": "JET",
+          "line": "No, it was my call to go this way. I led us into this mess."
+        },
+        {
+          "character": "MARINER",
+          "line": "Great. So, then, what, neither of us should be in charge? Oh."
+        },
+        {
+          "character": "JET",
+          "line": "Ha."
+        },
+        {
+          "character": "MARINER",
+          "line": "Rutherford, Tendi."
+        },
+        {
+          "character": "JET",
+          "line": "What do you two think we should do?"
+        },
+        {
+          "character": "RUTHERFORD",
+          "line": "We two?"
+        },
+        {
+          "character": "TENDI",
+          "line": "I... I don't know. This isn't really my... Well, actually, these are Excalbian bones. With enough friction, they break down and become acidic."
+        },
+        {
+          "character": "RUTHERFORD",
+          "line": "Which we could use to cut through the wall paneling and access the engineering sub-conduits."
+        },
+        {
+          "character": "TENDI",
+          "line": "And those run the length of the ship."
+        },
+        {
+          "character": "RUTHERFORD",
+          "line": "Heh. Honestly, we could've bypassed all this scary stuff by using them from the start."
+        },
+        {
+          "character": "MARINER",
+          "line": "What? Why didn't you say something before?"
+        },
+        {
+          "character": "TENDI",
+          "line": "Because you guys were in charge. JET +"
+        },
+        {
+          "character": "MARINER",
+          "line": "Er..."
+        }
+      ],
+      "location": "Hauze's ship"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "OFFICER",
+          "line": "There. This will buy us some time, but not much."
+        },
+        {
+          "character": "RIKER",
+          "line": "Riker to away team.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "FIRST OFFICER",
+          "line": "Go ahead."
+        }
+      ],
+      "location": "Mine"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "RIKER",
+          "line": "We've entered the system. What the hell happened down there?"
+        }
+      ],
+      "location": "USS Titan"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "FIRST OFFICER",
+          "line": "Long story, sir. Requesting emergency transport."
+        }
+      ],
+      "location": "Mine"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "RIKER",
+          "line": "Get them out of there."
+        },
+        {
+          "character": "OFFICER 2",
+          "line": "I can't, sir."
+        },
+        {
+          "character": "RIKER",
+          "line": "Why the hell not?"
+        },
+        {
+          "character": "OFFICER 2",
+          "line": "There's some sort of..."
+        }
+      ],
+      "location": "USS Titan"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "OFFICER 2",
+          "line": ".distortion field. It must be interfering with the transporter."
+        },
+        {
+          "character": "OFFICER",
+          "line": "That Varuvian explosion must have released an ion cloud."
+        },
+        {
+          "character": "RIKER",
+          "line": "Hang in down there. We'll figure this out.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "PAKLED",
+          "line": "Get the saw. We need to hit the door with the saw.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "OFFICER",
+          "line": "I can't say this is how I pictured going out, but I'll tell you what, there's no other blokes I'd rather be with."
+        },
+        {
+          "character": "FIRST OFFICER",
+          "line": "This is what we signed up for, men. To boldly go. Boimler?"
+        },
+        {
+          "character": "BOIMLER",
+          "line": "Er... I'm sorry, I gotta be honest. I didn't join Starfleet to get in phaser fights. I signed up to explore, to be out in space making new discoveries and peaceful diplomatic solutions. That's boldly going. And you know what? I'd love to be in a string quartet. I love that when Riker was on the Enterprise, he was out there jammin' on the trombone and catching love disease and acting in plays and meeting his identical transporter clone Thomas. That stuff may not seem as cool as what you guys do, but it's Starfleet all the way."
+        },
+        {
+          "character": "PAKLEDS",
+          "line": "Ha-ha. Ho-ho-ho.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "FIRST OFFICER",
+          "line": "I got into Starfleet to study moss."
+        },
+        {
+          "character": "TACTICAL OFFICER",
+          "line": "I joined up 'cause I love beaming."
+        },
+        {
+          "character": "FIRST OFFICER",
+          "line": "Thanks, Boimler. If we're going out, at least it's remembering that Starfleet isn't just about kicking enemy ass."
+        },
+        {
+          "character": "OFFICER",
+          "line": "Ha. Can't believe the captain has a transporter clone."
+        },
+        {
+          "character": "BOIMLER",
+          "line": "Yeah, Thomas Riker. He was created from a distortion field that was actually a lot like... Oh."
+        },
+        {
+          "character": "FIRST OFFICER",
+          "line": "What are you doing?"
+        },
+        {
+          "character": "BOIMLER",
+          "line": "We might not have to die."
+        }
+      ],
+      "location": "Mine"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TENDI",
+          "line": "Ah."
+        },
+        {
+          "character": "RUTHERFORD",
+          "line": "Ha-ha. Yeah. Okay, the escape pods should be down this way, if that's still the plan."
+        },
+        {
+          "character": "MARINER",
+          "line": "It is if you say it is, buddy."
+        },
+        {
+          "character": "TENDI",
+          "line": "Stay alert, stay alive. MARINER +"
+        },
+        {
+          "character": "JET",
+          "line": "Damn."
+        }
+      ],
+      "location": "Hauze's ship"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "RANSOM",
+          "line": "Captain, it's okay if you want to check in on Lieutenant Kayshon."
+        },
+        {
+          "character": "FREEMAN",
+          "line": "No, no, no, no. I can be a hands-off captain. I don't mind."
+        },
+        {
+          "character": "BARNES",
+          "line": "Captain, two escape pods just launched from the collector's ship."
+        },
+        {
+          "character": "FREEMAN",
+          "line": "What? On screen. What the hell is going on?"
+        },
+        {
+          "character": "RUTHERFORD",
+          "line": "The ship tried to collect us, Captain.",
+          "modifier": "screen"
+        },
+        {
+          "character": "FREEMAN",
+          "line": "Where's Kayshon?"
+        },
+        {
+          "character": "TENDI",
+          "line": "Kayshon, when he became a puppet."
+        },
+        {
+          "character": "FREEMAN",
+          "line": "This is what being hands-off gets me? Well, never again."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "BOIMLER",
+          "line": "Initiating drill. Reversing the polarity."
+        }
+      ],
+      "location": "Mine"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "CHIEF",
+          "line": "I got signal lock."
+        },
+        {
+          "character": "RIKER",
+          "line": "Get them out of there."
+        }
+      ],
+      "location": "USS Titan transporter room"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "BOIMLER",
+          "line": "Whoa, no. No, no, no, no."
+        },
+        {
+          "character": "RIKER",
+          "line": "Boimler? Boimler!",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "BOIMLER",
+          "line": "Ah. Huh? Oh, God."
+        }
+      ],
+      "location": "Mine"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "CHIEF",
+          "line": "The distortion field's reengaging. I'm losing him."
+        },
+        {
+          "character": "RIKER",
+          "line": "That's not an option."
+        },
+        {
+          "character": "CHIEF",
+          "line": "Rerouting main power. Initiating second containment beam."
+        },
+        {
+          "character": "RIKER",
+          "line": "Well done, Mister Boimler."
+        },
+        {
+          "character": "BOIMLER",
+          "line": "Thank you, Riker. I mean, Mister Captain."
+        },
+        {
+          "character": "RIKER",
+          "line": "Get him to sickbay, have the doc check him out. Riker to bridge. Give me warp in the factor of five, six, seven..."
+        }
+      ],
+      "location": "Transporter room"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "OFFICER 2",
+          "line": "Captain, shuttle craft incoming from the planet, it's... ours."
+        }
+      ],
+      "location": "USS Titan"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "FIRST OFFICER",
+          "line": "What? That's not possible. We all beamed off."
+        },
+        {
+          "character": "OFFICER 2",
+          "line": "Shuttle pilot's in distress. Requesting transport.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "RIKER",
+          "line": "Could be a Pakled trap. Energize."
+        },
+        {
+          "character": "RIKER",
+          "line": "Mister Boimler?"
+        },
+        {
+          "character": "BOIMLER",
+          "line": "You guys made it. Oh. The Pakleds got stuck in the door, so I... Aw, man. A copy of me got transported out? Boo."
+        },
+        {
+          "character": "BOIMLER 2",
+          "line": "I'm the transporter clone? Boo."
+        },
+        {
+          "character": "RIKER",
+          "line": "The distortion field must've... Oh, I've heard this tune before. Let's hear it for the Boimlers."
+        }
+      ],
+      "location": "Transporter room"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "RIKER",
+          "line": "Meeting your exact copy is never easy. Believe me, I know. Mister Boimlers, you showed great bravery and ingenuity down there."
+        },
+        {
+          "character": "BOTH",
+          "line": "Thank you, sir."
+        },
+        {
+          "character": "RIKER",
+          "line": "I just wish I could keep both of you. Starfleet Command feels our missions are too complex to have the added complication of two identical crew members. I'm afraid one of you will have to return to the Cerritos... as an ensign."
+        },
+        {
+          "character": "BOIMLER",
+          "line": "I should be the one to go. Huh?"
+        },
+        {
+          "character": "RIKER",
+          "line": "All right, works for me."
+        },
+        {
+          "character": "BOIMLER",
+          "line": "Whoa, whoa, whoa, wait. I thought we were both gonna step forward, and then, like, you'd go, oh, I should be the one to go."
+        },
+        {
+          "character": "BOIMLER 2",
+          "line": "Nah. I'm good to stay."
+        },
+        {
+          "character": "BOIMLER",
+          "line": "But what was that nod?"
+        },
+        {
+          "character": "BOIMLER 2",
+          "line": "I don't know, I just thought we were doing a copy thing. But thanks, man, that's really big of you."
+        },
+        {
+          "character": "RIKER",
+          "line": "Hey, I wish I could be on a ship that's exploring and solving science mysteries instead of nonstop fighting."
+        },
+        {
+          "character": "BOIMLER",
+          "line": "Like on the D?"
+        },
+        {
+          "character": "RIKER",
+          "line": "Exactly. Damn, do I miss that ship. Enjoy it while you have it, Bradward."
+        },
+        {
+          "character": "BOIMLER",
+          "line": "I will, sir."
+        },
+        {
+          "character": "BOIMLER 2",
+          "line": "Hey, Cap, the name Brad just feels kind of meh to me now. What do you think of William Boimler?"
+        },
+        {
+          "character": "RIKER",
+          "line": "I love it. Hey, you like Romulan ale?"
+        },
+        {
+          "character": "BOIMLER 2",
+          "line": "Ah, I can learn."
+        },
+        {
+          "character": "RIKER",
+          "line": "Computer, play Nightbird."
+        }
+      ],
+      "location": "USS Titan Ready room"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "FIRST OFFICER",
+          "line": "Hey, Enterprise. You did good."
+        },
+        {
+          "character": "OFFICER",
+          "line": "Go boldly out there, mate."
+        },
+        {
+          "character": "OFFICER",
+          "line": "You think we'll ever see him again?"
+        },
+        {
+          "character": "FIRST OFFICER",
+          "line": "I do. 'Cause, like, his clone's here. We'll see him every day."
+        },
+        {
+          "character": "TACTICAL OFFICER",
+          "line": "Whoa."
+        },
+        {
+          "character": "OFFICER",
+          "line": "Oh, yeah."
+        }
+      ],
+      "location": "USS Titan shuttlebay"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "T'ANA",
+          "line": "This isn't my first guy got turned into a doll. He'll be back to normal in an hour."
+        },
+        {
+          "character": "MIGLEEMO",
+          "line": "Aw. Look at this little guy. I could use him as puppet therapy."
+        },
+        {
+          "character": "T'ANA",
+          "line": "Hey. Migleemo!"
+        },
+        {
+          "character": "MIGLEEMO",
+          "line": "Yeah?"
+        },
+        {
+          "character": "T'ANA",
+          "line": "Read the sign."
+        }
+      ],
+      "location": "Sickbay"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "RUTHERFORD",
+          "line": "Whoa. Did you get double promoted? Congrats."
+        },
+        {
+          "character": "JET",
+          "line": "Huh? What do you mean?"
+        },
+        {
+          "character": "RUTHERFORD",
+          "line": "You got a whole new pip right there."
+        },
+        {
+          "character": "JET",
+          "line": "Nah, just a piece of corn. That's always happening. Half the time when you see someone with the wrong amount of pips around here, it's usually just delicious street corn. Want some?"
+        },
+        {
+          "character": "RUTHERFORD",
+          "line": "Sure."
+        },
+        {
+          "character": "MARINER",
+          "line": "I had you wrong, Jet. I thought you were another one of those try-hards who only wants to rank up. But you love the job, and I respect that."
+        },
+        {
+          "character": "JET",
+          "line": "Thanks, Mariner. It's the best job in the galaxy."
+        },
+        {
+          "character": "MARINER",
+          "line": "You're a true Lower Decker, man, and something tells me we're gonna make a great team... Oh, my God, it's Boimler! It's my friend! What are you doing here?"
+        },
+        {
+          "character": "RUTHERFORD",
+          "line": "You're supposed to be on the Titan."
+        },
+        {
+          "character": "BOIMLER",
+          "line": "I got transporter cloned."
+        },
+        {
+          "character": "RUTHERFORD",
+          "line": "Ha-ha. Pay up."
+        },
+        {
+          "character": "TENDI",
+          "line": "Damn it. How did you possibly guess that?"
+        },
+        {
+          "character": "RUTHERFORD",
+          "line": "Oh, I don't know. It just seemed like a Boimler thing to happen."
+        },
+        {
+          "character": "BOIMLER",
+          "line": "Clone me's staying on the Titan, so here I am."
+        },
+        {
+          "character": "MARINER",
+          "line": "Wow. If you think you can leave us for the big time only to come crawling back, you would be right about that. Get over here, man. Sit down."
+        },
+        {
+          "character": "BOIMLER",
+          "line": "Oh, there's no room for me to er..."
+        },
+        {
+          "character": "JET",
+          "line": "Oh. I'll let you all catch up."
+        },
+        {
+          "character": "MARINER",
+          "line": "Ha-ha-ha."
+        },
+        {
+          "character": "JET",
+          "line": "I know you got, like, a shared history and stuff..."
+        },
+        {
+          "character": "RUTHERFORD",
+          "line": "Oh, man, so much to tell you. We just did a mission on a collector's ship."
+        },
+        {
+          "character": "TENDI",
+          "line": "Ooo. And our away team leader got zapped by a ray and it turned him into a puppet."
+        },
+        {
+          "character": "BOIMLER",
+          "line": "What?!"
+        },
+        {
+          "character": "MARINER",
+          "line": "So, was the Titan as awesome as everybody says?"
+        },
+        {
+          "character": "BOIMLER",
+          "line": "Eh, it was a bunch of complex characters thrown into heavily serialized battles which always ended in mind-blowing twists and made me question the basic tenets of my reality. But who cares about that? Tell me more about this puppet ray. That's the kind of stuff I live for."
+        },
+        {
+          "character": "MARINER",
+          "line": "Time for shots."
+        },
+        {
+          "character": "BOIMLER",
+          "line": "All right. Shots. Shots. Whoa."
+        },
+        {
+          "character": "MARINER",
+          "line": "Yeah, go get 'em. You have a lot of work to do for abandoning me."
+        },
+        {
+          "character": "BOIMLER",
+          "line": "You're not letting that go, huh?"
+        },
+        {
+          "character": "MARINER",
+          "line": "Nope."
+        },
+        {
+          "character": "TENDI",
+          "line": "Yeah, so hurry up, huh?"
+        },
+        {
+          "character": "RUTHERFORD",
+          "line": "Drinks don't replicate themselves."
+        },
+        {
+          "character": "BOIMLER",
+          "line": "Okay, okay, I'm going."
+        },
+        {
+          "character": "MARINER",
+          "line": "From now on, you'll get all the drinks, you backstabber. Lower Decks. Lower Decks."
+        },
+        {
+          "character": "KAYSHON",
+          "line": "Are you tired? Because you've been Arnock, at the race of Natara through my mind all night."
+        },
+        {
+          "character": "KAYSHON",
+          "line": "Well, Shaka, when the walls fell."
+        }
+      ],
+      "location": "Lounge"
+    }
+  ],
+  "schedule": {
+    "episode": 2,
+    "number": 12,
+    "season": 2
+  },
+  "stardate": "58001.2",
+  "title": "Kayshon, His Eyes Open"
+}

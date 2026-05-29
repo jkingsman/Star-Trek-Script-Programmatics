@@ -61,12 +61,13 @@ def generate_dumps(series, json_dir, csv_path, txt_path, schedule_key='season'):
 
 # Series with season/episode structure
 series_list = [
-    ('tng', 'json_transcripts/tng', 'per_show_csv_per_show_text_dumps/tng.csv', 'per_show_text_dumps/tng_dumped.txt'),
-    ('ds9', 'json_transcripts/ds9', 'per_show_csv_per_show_text_dumps/ds9.csv', 'per_show_text_dumps/ds9_dumped.txt'),
-    ('voy', 'json_transcripts/voy', 'per_show_csv_per_show_text_dumps/voy.csv', 'per_show_text_dumps/voy_dumped.txt'),
-    ('ent', 'json_transcripts/ent', 'per_show_csv_per_show_text_dumps/ent.csv', 'per_show_text_dumps/ent_dumped.txt'),
-    ('tos', 'json_transcripts/tos', 'per_show_csv_per_show_text_dumps/tos.csv', 'per_show_text_dumps/tos_dumped.txt'),
-    ('tas', 'json_transcripts/tas', 'per_show_csv_per_show_text_dumps/tas.csv', 'per_show_text_dumps/tas_dumped.txt'),
+    ('tng', 'json_transcripts/tng', 'per_show_csv_dumps/tng.csv', 'per_show_text_dumps/tng_dumped.txt'),
+    ('ds9', 'json_transcripts/ds9', 'per_show_csv_dumps/ds9.csv', 'per_show_text_dumps/ds9_dumped.txt'),
+    ('voy', 'json_transcripts/voy', 'per_show_csv_dumps/voy.csv', 'per_show_text_dumps/voy_dumped.txt'),
+    ('ent', 'json_transcripts/ent', 'per_show_csv_dumps/ent.csv', 'per_show_text_dumps/ent_dumped.txt'),
+    ('tos', 'json_transcripts/tos', 'per_show_csv_dumps/tos.csv', 'per_show_text_dumps/tos_dumped.txt'),
+    ('tas', 'json_transcripts/tas', 'per_show_csv_dumps/tas.csv', 'per_show_text_dumps/tas_dumped.txt'),
+    ('ld', 'json_transcripts/ld', 'per_show_csv_dumps/ld.csv', 'per_show_text_dumps/ld_dumped.txt'),
 ]
 
 for series, json_dir, csv_path, txt_path in series_list:
@@ -103,7 +104,7 @@ for filepath in sorted(glob.iglob('json_transcripts/movies/*.json')):
                 ep_rows.append(row)
 
     # Individual movie dumps
-    with open(f'per_show_csv_per_show_text_dumps/{base}.csv', 'w', newline='') as csvfile:
+    with open(f'per_show_csv_dumps/{base}.csv', 'w', newline='') as csvfile:
         writer = csv.DictWriter(csvfile, fieldnames=['number', 'title', 'character', 'line'])
         writer.writeheader()
         writer.writerows(ep_rows)
@@ -117,7 +118,7 @@ for filepath in sorted(glob.iglob('json_transcripts/movies/*.json')):
     movie_txt_lines.extend(ep_txt)
 
 # Combined movies dump
-with open('per_show_csv_per_show_text_dumps/movies.csv', 'w', newline='') as csvfile:
+with open('per_show_csv_dumps/movies.csv', 'w', newline='') as csvfile:
     writer = csv.DictWriter(csvfile, fieldnames=['number', 'title', 'character', 'line'])
     writer.writeheader()
     writer.writerows(movie_rows)

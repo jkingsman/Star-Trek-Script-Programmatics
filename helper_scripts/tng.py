@@ -63,7 +63,7 @@ def getSeasonDataFromEpisode(ep_num):
 
 
 def getLinesFromStringBlock(block):
-    split_scene_text = re.split(r'([A-Z0-9\' ]+(?: \[.*?\])?):', block)
+    split_scene_text = re.split(r'([A-Z0-9\' ]+(?:[ \n]\[.*?\])?):', block)
     if len(split_scene_text) == 1:
         # who knows what happened here
         return [{'character': 'unknown', 'line': block}]
@@ -122,7 +122,9 @@ for entry in os.scandir(directory):
     full_script = soup.find('td', {'width': '85%'}).getText()
 
     # split on scenes
-    scenes = re.split(r'((?<!\w )\[.*?\] *\n)', full_script.strip(), flags=re.DOTALL)
+    cleaned_script = re.sub(r'](?=[A-Z])', ']\n', full_script.strip().replace('\n\n\n', '\n\n').replace(u'\xa0', ' '))
+    cleaned_script = re.sub(r'\)(?=[A-Z])', ') ', cleaned_script)
+    scenes = re.split(r'((?<!\w )\[[^:]*?\] *\n)', cleaned_script, flags=re.DOTALL)
     cleaned_scenes = scrubList(scenes)
     episode['scenes'] = []
     while len(cleaned_scenes) != 0:

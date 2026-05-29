@@ -12,7 +12,7 @@ import subprocess
 
 DATA_DIR = os.path.join(os.path.dirname(os.path.abspath(__file__)), "json_transcripts")
 
-SERIES_MAP = {"tng": "TNG", "ds9": "DS9", "voy": "VOY", "ent": "ENT", "tos": "TOS", "tas": "TAS", "movies": "Movies"}
+SERIES_MAP = {"tng": "TNG", "ds9": "DS9", "voy": "VOY", "ent": "ENT", "tos": "TOS", "tas": "TAS", "ld": "ST:LD", "movies": "Movies"}
 
 MOVIE_ABBREVS = {
     "movie01": "ST:TMP",

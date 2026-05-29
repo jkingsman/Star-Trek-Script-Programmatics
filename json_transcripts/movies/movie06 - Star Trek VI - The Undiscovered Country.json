@@ -5,7 +5,7 @@
       "dialogue": [
         {
           "character": "unknown",
-          "line": "FOR GENE RODDENBERRY\nOPENING CREDITS\n \n Stardate 9521.6, Captain's log, U.S.S. Excelsior. Hikaru Sulu commanding. After three years I've concluded my first assignment as master of this vessel, cataloging gaseous planetary anomalies in the Beta Quadrant. We're heading home under full impulse power. I am pleased to report that ship and crew have functioned well."
+          "line": "FOR GENE RODDENBERRY\nOPENING CREDITS Stardate 9521.6, Captain's log, U.S.S. Excelsior. Hikaru Sulu commanding. After three years I've concluded my first assignment as master of this vessel, cataloging gaseous planetary anomalies in the Beta Quadrant. We're heading home under full impulse power. I am pleased to report that ship and crew have functioned well."
         }
       ],
       "location": "unknown"
@@ -123,7 +123,7 @@
       "dialogue": [
         {
           "character": "KIRK",
-          "line": "What are we doing here? Mc"
+          "line": "What are we doing here?"
         },
         {
           "character": "COY",
@@ -147,14 +147,14 @@
         },
         {
           "character": "KIRK",
-          "line": "Captain Sulu. On assignment. Where's Spock? AIDE-DE-"
+          "line": "Captain Sulu. On assignment. Where's Spock?"
         },
         {
-          "character": "CAMP",
-          "line": "This briefing is classified. Ladies and Gentlemen, the C-in-C. C-IN-"
+          "character": "AIDE-DE-CAMP",
+          "line": "This briefing is classified. Ladies and Gentlemen, the C-in-C."
         },
         {
-          "character": "C",
+          "character": "C-IN-C",
           "line": "As you were. To break this information down succinctly, the Klingon Empire has roughly fifty years of life left to it. For full details, I'm turning this briefing over to the Federation Special Envoy."
         },
         {
@@ -179,10 +179,10 @@
         },
         {
           "character": "MILITARY AIDE",
-          "line": "Bill, are we talking about mothballing the Starfleet? C-IN-"
+          "line": "Bill, are we talking about mothballing the Starfleet?"
         },
         {
-          "character": "C",
+          "character": "C-IN-C",
           "line": "Well, I'm sure that our exploration and scientific programs would be unaffected, Captain, but..."
         },
         {
@@ -191,10 +191,10 @@
         },
         {
           "character": "KIRK",
-          "line": "Sir! C-IN-"
+          "line": "Sir!"
         },
         {
-          "character": "C",
+          "character": "C-IN-C",
           "line": "Captain Kirk?"
         },
         {
@@ -203,10 +203,10 @@
         },
         {
           "character": "SPOCK",
-          "line": "It is imperative that we act now to support the Gorkon initiative, lest more conservative elements persuade his Empire that it is better to attempt a military solution and die fighting. C-IN-"
+          "line": "It is imperative that we act now to support the Gorkon initiative, lest more conservative elements persuade his Empire that it is better to attempt a military solution and die fighting."
         },
         {
-          "character": "C",
+          "character": "C-IN-C",
           "line": "You, Captain Kirk, are to be our first olive branch."
         },
         {
@@ -215,10 +215,10 @@
         },
         {
           "character": "KIRK",
-          "line": "Me? C-IN-"
+          "line": "Me?"
         },
         {
-          "character": "C",
+          "character": "C-IN-C",
           "line": "Well, there are Klingons who feel the same way about the peace treaty as yourself and Admiral Cartwright. But they'll think twice about attacking the Enterprise under your command."
         },
         {
@@ -227,10 +227,10 @@
         },
         {
           "character": "KIRK",
-          "line": "You ...have personally ...vouched? C-IN-"
+          "line": "You ...have personally ...vouched?"
         },
         {
-          "character": "C",
+          "character": "C-IN-C",
           "line": "You will extend Chancellor Gorkon full diplomatic courtesy, Captain Kirk."
         },
         {
@@ -238,12 +238,12 @@
           "line": "But a full Ambassador would be better equipped... C in"
         },
         {
-          "character": "C",
+          "character": "C-IN-C",
           "line": "If there's no further business ...I wish you and your crew Godspeed. Thank you ladies and gentlemen. ...I remind you this meeting is classified."
         },
         {
           "character": "CARTWRIGHT",
-          "line": "I don't know whether to congratulate you or not, Jim. Mc"
+          "line": "I don't know whether to congratulate you or not, Jim."
         },
         {
           "character": "COY",
@@ -325,7 +325,7 @@
         },
         {
           "character": "VALERIS",
-          "line": "I don't believe so, sir. Mc"
+          "line": "I don't believe so, sir."
         },
         {
           "character": "COY",
@@ -389,7 +389,7 @@
         },
         {
           "character": "SPOCK",
-          "line": "Hm. Hm. Mc"
+          "line": "Hm. Hm."
         },
         {
           "character": "COY",
@@ -662,11 +662,11 @@
       "dialogue": [
         {
           "character": "GORKON",
-          "line": "I offer a toast. ...The undiskovered country, ...the future."
+          "line": "I offer a toast. ...The undiscovered country, ...the future."
         },
         {
           "character": "ALL",
-          "line": "The undiskovered country."
+          "line": "The undiscovered country."
         },
         {
           "character": "SPOCK",
@@ -686,7 +686,7 @@
         },
         {
           "character": "KIRK",
-          "line": "One of the advantages of being a thousand light years from Federation headquarters. Mc"
+          "line": "One of the advantages of being a thousand light years from Federation headquarters."
         },
         {
           "character": "COY",
@@ -738,7 +738,7 @@
         },
         {
           "character": "KERLA",
-          "line": "In any case, we know where this is leading. The annihilation of our culture. Mc"
+          "line": "In any case, we know where this is leading. The annihilation of our culture."
         },
         {
           "character": "COY",
@@ -746,7 +746,7 @@
         },
         {
           "character": "KERLA",
-          "line": "No! Mc"
+          "line": "No!"
         },
         {
           "character": "COY",
@@ -815,7 +815,7 @@
         },
         {
           "character": "KIRK",
-          "line": "I'm going to sleep it off. Please let me know if there's some other way we can screw up tonight. Mc"
+          "line": "I'm going to sleep it off. Please let me know if there's some other way we can screw up tonight."
         },
         {
           "character": "COY",
@@ -1104,7 +1104,7 @@
         },
         {
           "character": "KIRK",
-          "line": "I wish I knew. Mc"
+          "line": "I wish I knew."
         },
         {
           "character": "COY",
@@ -1120,7 +1120,7 @@
         },
         {
           "character": "KIRK",
-          "line": "No, I'll go. You'll be responsible for getting me out of this. We'll not be the instigators of a full-scale war on the eve of universal peace. Mc"
+          "line": "No, I'll go. You'll be responsible for getting me out of this. We'll not be the instigators of a full-scale war on the eve of universal peace."
         },
         {
           "character": "COY",
@@ -1149,7 +1149,7 @@
         },
         {
           "character": "KIRK",
-          "line": "I give you my word I don't understand what's happened. Mc"
+          "line": "I give you my word I don't understand what's happened."
         },
         {
           "character": "COY",
@@ -1182,7 +1182,7 @@
         },
         {
           "character": "CHANG",
-          "line": "With a direct torpedo hit you crippled our entire gravitational field, and two of your Starfleet crew beamed aboard wearing magnetic boots and did this. Mc"
+          "line": "With a direct torpedo hit you crippled our entire gravitational field, and two of your Starfleet crew beamed aboard wearing magnetic boots and did this."
         },
         {
           "character": "COY",
@@ -1190,7 +1190,7 @@
         },
         {
           "character": "CHANG",
-          "line": "We were until this disgrace. Mc"
+          "line": "We were until this disgrace."
         },
         {
           "character": "COY",
@@ -1198,7 +1198,7 @@
         },
         {
           "character": "KIRK",
-          "line": "Can you?... Mc"
+          "line": "Can you?..."
         },
         {
           "character": "COY",
@@ -1206,7 +1206,7 @@
         },
         {
           "character": "KERLA",
-          "line": "He's killing him! Mc"
+          "line": "He's killing him!"
         },
         {
           "character": "COY",
@@ -1335,7 +1335,7 @@
           "line": "Send them in. C in"
         },
         {
-          "character": "C",
+          "character": "C-IN-C",
           "line": "Mister President."
         },
         {
@@ -1355,7 +1355,7 @@
           "line": "Yes, yes Admiral, but I am constrained to observe Interstellar Law. C in"
         },
         {
-          "character": "C",
+          "character": "C-IN-C",
           "line": "Sir, would you please take a look at this. ...Colonel West."
         },
         {
@@ -1387,7 +1387,7 @@
           "line": "Mister President. C in"
         },
         {
-          "character": "C",
+          "character": "C-IN-C",
           "line": "Sir. ...Those men have literally saved this planet."
         },
         {
@@ -1686,7 +1686,7 @@
         },
         {
           "character": "CHANG",
-          "line": "Doctor McCoy, would you be so good as to tell me your current medical status? Mc"
+          "line": "Doctor McCoy, would you be so good as to tell me your current medical status?"
         },
         {
           "character": "COY",
@@ -1694,7 +1694,7 @@
         },
         {
           "character": "CHANG",
-          "line": "You have a singular wit, Doctor. Mc"
+          "line": "You have a singular wit, Doctor."
         },
         {
           "character": "COY",
@@ -1710,7 +1710,7 @@
         },
         {
           "character": "KLINGON JUDGE",
-          "line": "Sustained. Mc"
+          "line": "Sustained."
         },
         {
           "character": "COY",
@@ -1718,7 +1718,7 @@
         },
         {
           "character": "CHANG",
-          "line": "Was Chancellor Gorkon alive when you first examined him? Mc"
+          "line": "Was Chancellor Gorkon alive when you first examined him?"
         },
         {
           "character": "COY",
@@ -1726,7 +1726,7 @@
         },
         {
           "character": "CHANG",
-          "line": "Now be careful, Doctor. Have you ever, in your past, ...saved patients as 'barely' alive as he? Mc"
+          "line": "Now be careful, Doctor. Have you ever, in your past, ...saved patients as 'barely' alive as he?"
         },
         {
           "character": "COY",
@@ -1734,7 +1734,7 @@
         },
         {
           "character": "CHANG",
-          "line": "I see. Mc"
+          "line": "I see."
         },
         {
           "character": "COY",
@@ -1746,7 +1746,7 @@
         },
         {
           "character": "COLONEL WORF",
-          "line": "Objection! Mc"
+          "line": "Objection!"
         },
         {
           "character": "COY",
@@ -1763,7 +1763,7 @@
       "dialogue": [
         {
           "character": "CHANG",
-          "line": "You were incompetent, whether deliberately or as a result of age combined with drink. The court will have to determine. Mc"
+          "line": "You were incompetent, whether deliberately or as a result of age combined with drink. The court will have to determine."
         },
         {
           "character": "COY",
@@ -1910,7 +1910,7 @@
         },
         {
           "character": "CHANG",
-          "line": "And if it should be proved that members of your crew did in fact carry out such an assassination?... Mc"
+          "line": "And if it should be proved that members of your crew did in fact carry out such an assassination?..."
         },
         {
           "character": "COY",
@@ -2131,15 +2131,11 @@
         },
         {
           "character": "BEHEMOTH ALIEN",
-          "line": "Rangnit ascru, unto pram shondik! Mc"
+          "line": "Rangnit ascru, unto pram shondik!"
         },
         {
           "character": "COY",
           "line": "He's definitely on about something, Jim."
-        },
-        {
-          "character": "BEHEMOTH ALIEN",
-          "line": "Quog wok na pushnat!"
         },
         {
           "character": "BEHEMOTH ALIEN",
@@ -2203,7 +2199,7 @@
         },
         {
           "character": "MARTIA",
-          "line": "Of course not. But there is a reward for your death. Mc"
+          "line": "Of course not. But there is a reward for your death."
         },
         {
           "character": "COY",
@@ -2317,7 +2313,7 @@
         },
         {
           "character": "HORNED ALIEN",
-          "line": "Aarrgh! Aaarrrgghh! Aaaaarrrrrgghh! Mc"
+          "line": "Aarrgh! Aaarrrgghh! Aaaaarrrrrgghh!"
         },
         {
           "character": "COY",
@@ -2329,7 +2325,7 @@
         },
         {
           "character": "MARTIA",
-          "line": "They'll respect you now. Mc"
+          "line": "They'll respect you now."
         },
         {
           "character": "COY",
@@ -2345,7 +2341,7 @@
         },
         {
           "character": "KIRK",
-          "line": "Anything you want to tell me? ...Bones, why don't you see what you can do for him? Let them know we're not holding a grudge. Mc"
+          "line": "Anything you want to tell me? ...Bones, why don't you see what you can do for him? Let them know we're not holding a grudge."
         },
         {
           "character": "COY",
@@ -2370,7 +2366,7 @@
         },
         {
           "character": "KIRK",
-          "line": "We're not finished. Mc"
+          "line": "We're not finished."
         },
         {
           "character": "COY",
@@ -2378,7 +2374,7 @@
         },
         {
           "character": "KIRK",
-          "line": "Bones, are you afraid of the future? Mc"
+          "line": "Bones, are you afraid of the future?"
         },
         {
           "character": "COY",
@@ -2386,7 +2382,7 @@
         },
         {
           "character": "KIRK",
-          "line": "I don't mean this future. Mc"
+          "line": "I don't mean this future."
         },
         {
           "character": "COY",
@@ -2394,7 +2390,7 @@
         },
         {
           "character": "KIRK",
-          "line": "Some people are afraid ...of what might happen. I was terrified. Mc"
+          "line": "Some people are afraid ...of what might happen. I was terrified."
         },
         {
           "character": "COY",
@@ -2402,7 +2398,7 @@
         },
         {
           "character": "KIRK",
-          "line": "No more Neutral Zone. I was used to hating Klingons. ...It never even occurred to me to take Gorkon at his word. ...Spock was right. Mc"
+          "line": "No more Neutral Zone. I was used to hating Klingons. ...It never even occurred to me to take Gorkon at his word. ...Spock was right."
         },
         {
           "character": "COY",
@@ -2410,7 +2406,7 @@
         },
         {
           "character": "KIRK",
-          "line": "No! Somebody felt a lot worse. ...I'm beginning to understand why. Mc"
+          "line": "No! Somebody felt a lot worse. ...I'm beginning to understand why."
         },
         {
           "character": "COY",
@@ -2454,7 +2450,7 @@
         },
         {
           "character": "MARTIA",
-          "line": "Go to lift seven in the morning for mining duty. I'll see you there. Don't disappoint me. Mc"
+          "line": "Go to lift seven in the morning for mining duty. I'll see you there. Don't disappoint me."
         },
         {
           "character": "COY",
@@ -2462,7 +2458,7 @@
         },
         {
           "character": "KIRK",
-          "line": "Still think we're finished? Mc"
+          "line": "Still think we're finished?"
         },
         {
           "character": "COY",
@@ -2601,7 +2597,7 @@
       "dialogue": [
         {
           "character": "MARTIA",
-          "line": "Watch me. Mc"
+          "line": "Watch me."
         },
         {
           "character": "COY",
@@ -2659,7 +2655,7 @@
         },
         {
           "character": "CHEKOV",
-          "line": "Mister Spock, Rura Penthe is deep inside the Klingon frontier. If we're diskovered..."
+          "line": "Mister Spock, Rura Penthe is deep inside the Klingon frontier. If we're discovered..."
         },
         {
           "character": "SPOCK",
@@ -2676,7 +2672,7 @@
         },
         {
           "character": "KIRK",
-          "line": "No! ...Bones, I'm wearing a viridium patch on my back. Spock slapped it there just before we went on Gorkon's ship. Mc"
+          "line": "No! ...Bones, I'm wearing a viridium patch on my back. Spock slapped it there just before we went on Gorkon's ship."
         },
         {
           "character": "COY",
@@ -2688,7 +2684,7 @@
         },
         {
           "character": "KIRK",
-          "line": "Now that we're out of the shield they'll be able to locate us two sectors away. Mc"
+          "line": "Now that we're out of the shield they'll be able to locate us two sectors away."
         },
         {
           "character": "COY",
@@ -2827,7 +2823,7 @@
       "dialogue": [
         {
           "character": "MARTIA",
-          "line": "It takes a lot of effort. Mc"
+          "line": "It takes a lot of effort."
         },
         {
           "character": "COY",
@@ -2839,7 +2835,7 @@
         },
         {
           "character": "KIRK",
-          "line": "If you say so. Mc"
+          "line": "If you say so."
         },
         {
           "character": "COY",
@@ -2915,7 +2911,7 @@
         },
         {
           "character": "KIRK",
-          "line": "Killed while trying to escape. Mc"
+          "line": "Killed while trying to escape."
         },
         {
           "character": "COY",
@@ -2956,7 +2952,7 @@
         },
         {
           "character": "CHEKOV",
-          "line": "You want to go back? Mc"
+          "line": "You want to go back?"
         },
         {
           "character": "COY",
@@ -3035,7 +3031,7 @@
         },
         {
           "character": "SCOTT",
-          "line": "But the uniforms belong to these two men! Burke ...and Samno! Mc"
+          "line": "But the uniforms belong to these two men! Burke ...and Samno!"
         },
         {
           "character": "COY",
@@ -3051,7 +3047,7 @@
         },
         {
           "character": "KIRK",
-          "line": "Can I talk to you? Mc"
+          "line": "Can I talk to you?"
         },
         {
           "character": "COY",
@@ -3093,7 +3089,7 @@
         },
         {
           "character": "KIRK",
-          "line": "I'd just as soon you didn't. Mc"
+          "line": "I'd just as soon you didn't."
         },
         {
           "character": "COY",
@@ -3122,7 +3118,7 @@
         },
         {
           "character": "VALERIS",
-          "line": "You have betrayed the Federation. ...All of you. Mc"
+          "line": "You have betrayed the Federation. ...All of you."
         },
         {
           "character": "COY",
@@ -3130,7 +3126,7 @@
         },
         {
           "character": "VALERIS",
-          "line": "Saving Starfleet. Klingons cannot be trusted. Sir, ...you said so yourself. They killed your son. Did you not wish Gorkon dead? 'Let them die.' you said. Did I misinterpret you? ...And you were right. They conspired with us to assassinate their own Chancellor. How trustworthy can they be? Mc"
+          "line": "Saving Starfleet. Klingons cannot be trusted. Sir, ...you said so yourself. They killed your son. Did you not wish Gorkon dead? 'Let them die.' you said. Did I misinterpret you? ...And you were right. They conspired with us to assassinate their own Chancellor. How trustworthy can they be?"
         },
         {
           "character": "COY",
@@ -3182,7 +3178,7 @@
         },
         {
           "character": "KIRK",
-          "line": "Who else? SPOCK/"
+          "line": "Who else?"
         },
         {
           "character": "VALERIS",
@@ -3190,7 +3186,7 @@
         },
         {
           "character": "KIRK",
-          "line": "Who else? SPOCK/"
+          "line": "Who else?"
         },
         {
           "character": "VALERIS",
@@ -3589,7 +3585,7 @@
         },
         {
           "character": "SPOCK",
-          "line": "Doctor, would you care to assist me in performing surgery on a torpedo? Mc"
+          "line": "Doctor, would you care to assist me in performing surgery on a torpedo?"
         },
         {
           "character": "COY",
@@ -3699,7 +3695,7 @@
         },
         {
           "character": "SPOCK",
-          "line": "The hull has been compromised. Mc"
+          "line": "The hull has been compromised."
         },
         {
           "character": "COY",
@@ -3716,7 +3712,7 @@
       "dialogue": [
         {
           "character": "FEDERATION PRESIDENT",
-          "line": "...diskuss the report on Phase two..."
+          "line": "...discuss the report on Phase two..."
         }
       ],
       "location": "Camp Khitomer gallery"
@@ -3725,7 +3721,7 @@
       "dialogue": [
         {
           "character": "SPOCK",
-          "line": "Alter circuit A. Mc"
+          "line": "Alter circuit A."
         },
         {
           "character": "COY",
@@ -3760,7 +3756,7 @@
         },
         {
           "character": "SPOCK",
-          "line": "Plate please. Mc"
+          "line": "Plate please."
         },
         {
           "character": "COY",
@@ -3800,7 +3796,7 @@
       "dialogue": [
         {
           "character": "SPOCK",
-          "line": "Key please. Mc"
+          "line": "Key please."
         },
         {
           "character": "COY",
@@ -3808,7 +3804,7 @@
         },
         {
           "character": "KIRK",
-          "line": "Where's that damned torpedo. Mc"
+          "line": "Where's that damned torpedo."
         },
         {
           "character": "COY",
@@ -3894,7 +3890,7 @@
         },
         {
           "character": "SPOCK",
-          "line": "Arrest yourself. Mc"
+          "line": "Arrest yourself."
         },
         {
           "character": "COY",
@@ -3914,7 +3910,7 @@
           "line": "Cartwright! Just a minute. C in"
         },
         {
-          "character": "C",
+          "character": "C-IN-C",
           "line": "It's Colonel West."
         },
         {
@@ -3923,7 +3919,7 @@
         },
         {
           "character": "KIRK",
-          "line": "It's about the future, Madam Chancellor. Some people think the future means the end of history. ...But we haven't run out of history just yet. ...Your father called the future ...'the undiskovered country'. ...People can be very frightened of change."
+          "line": "It's about the future, Madam Chancellor. Some people think the future means the end of history. ...But we haven't run out of history just yet. ...Your father called the future ...'the undiscovered country'. ...People can be very frightened of change."
         },
         {
           "character": "AZETBUR",
@@ -3940,7 +3936,7 @@
       "dialogue": [
         {
           "character": "KIRK",
-          "line": "Once again we've saved civilisation, as we know it. Mc"
+          "line": "Once again we've saved civilisation, as we know it."
         },
         {
           "character": "COY",
@@ -3948,7 +3944,7 @@
         },
         {
           "character": "UHURA",
-          "line": "They might as well have prosecuted me. I felt like Lieutenant Valeris. Mc"
+          "line": "They might as well have prosecuted me. I felt like Lieutenant Valeris."
         },
         {
           "character": "COY",
@@ -3968,7 +3964,7 @@
         },
         {
           "character": "SULU",
-          "line": "Nice to see you in action one more time, Captain Kirk. Take care. Mc"
+          "line": "Nice to see you in action one more time, Captain Kirk. Take care."
         },
         {
           "character": "COY",
@@ -4000,7 +3996,7 @@
         },
         {
           "character": "KIRK",
-          "line": "Second star to the right, ...and straight on 'til morning. Captain's log, U.S.S. Enterprise, stardate 9529.1. This is the final cruise of the Starship Enterprise under my command. This ship and her history will shortly become the care of another crew. To them and their posterity will we commit our future. They will continue the voyages we have begun and journey to all the undiskovered countries, boldly going where no man, where no one, ...has gone before. <Back to the movies list Star Trek \u00ae and related marks are trademarks of CBS Studios Inc. Copyright \u00a9 1966, Present. The Star Trek web pages on this site are for educational and entertainment purposes only. All other copyrights property of their respective holders."
+          "line": "Second star to the right, ...and straight on 'til morning. Captain's log, U.S.S. Enterprise, stardate 9529.1. This is the final cruise of the Starship Enterprise under my command. This ship and her history will shortly become the care of another crew. To them and their posterity will we commit our future. They will continue the voyages we have begun and journey to all the undiscovered countries, boldly going where no man, where no one, ...has gone before. <Back to the movies list Star Trek \u00ae and related marks are trademarks of CBS Studios Inc. Copyright \u00a9 1966, Present. The Star Trek web pages on this site are for educational and entertainment purposes only. All other copyrights property of their respective holders."
         }
       ],
       "location": "Enterprise-A bridge"
@@ -4010,5 +4006,5 @@
     "number": 6
   },
   "stardate": "9521.6",
-  "title": "Star Trek VI: The Undiskovered Country"
+  "title": "Star Trek VI: The Undiscovered Country"
 }

@@ -338,7 +338,7 @@
           "modifier": "voiceover"
         },
         {
-          "character": "EMH",
+          "character": "NARRATOR-EMH",
           "line": "Ah, welcome. You've made an excellent choice. You're about to take part in a thrilling first person narrative. You will take on the role of an Emergency Medical Hologram, the Chief Medical Officer aboard the starship Vortex."
         },
         {
@@ -346,7 +346,7 @@
           "line": "Vortex? NARRATOR-"
         },
         {
-          "character": "EMH",
+          "character": "NARRATOR-EMH",
           "line": "As our story begins, an anomaly has hurled your ship thousands of light years across the galaxy. Your mission, to uphold your medical and ethical standards as you struggle against the crew's bigotry and intolerance. Persons with vascular disorders should consult a physician before running this program. And now, a few acknowledgments. First, Doctor Lewis Zimmerman, the creator of my holo-matrix, whose foresight and dedication have made it possible for me to achieve"
         },
         {
@@ -555,7 +555,7 @@
           "line": "This thing must weigh fifty kilos. MARSEILLES-"
         },
         {
-          "character": "PARIS",
+          "character": "MARSEILLES-PARIS",
           "line": "You should be glad we let you out of your cage at all. Now get going."
         }
       ],
@@ -772,7 +772,7 @@
     {
       "dialogue": [
         {
-          "character": "EMH",
+          "character": "NARRATOR-EMH",
           "line": "What you've experienced, dear protagonist is a work of fiction. But like all fiction, it has elements of truth. I hope you now have a better understanding of the struggles holograms must endure in a world controlled by organics."
         },
         {
@@ -997,7 +997,7 @@
           "line": "Computer, run EMH program Photons Be Free. NARRATOR-"
         },
         {
-          "character": "PARIS",
+          "character": "NARRATOR-PARIS",
           "line": "Welcome. You've made an excellent choice. You're obviously a person with impeccable taste."
         },
         {
@@ -1009,7 +1009,7 @@
           "line": "Unable to comply. NARRATOR-"
         },
         {
-          "character": "PARIS",
+          "character": "NARRATOR-PARIS",
           "line": "You are about to embark on a remarkable journey. You will take on the role of a medical assistant aboard the starship Voyeur."
         },
         {
@@ -1017,7 +1017,7 @@
           "line": "Voyeur? NARRATOR-"
         },
         {
-          "character": "PARIS",
+          "character": "NARRATOR-PARIS",
           "line": "Your job will be to assist the Chief Medical Officer, and learn to tolerate his overbearing behavior and obnoxious bedside manner. Remember, patience is a virtue."
         }
       ],
@@ -1031,7 +1031,7 @@
           "modifier": "voiceover"
         },
         {
-          "character": "EMH",
+          "character": "HOLO-EMH",
           "line": "When I tell you your shift begins at oh eight hundred that doesn't mean you can stroll in here at oh eight hundred and twenty four seconds. Do you understand me, Ensign!"
         },
         {
@@ -1039,7 +1039,7 @@
           "line": "This is outrageous. HOLO-"
         },
         {
-          "character": "EMH",
+          "character": "HOLO-EMH",
           "line": "What's outrageous is that I'm going to miss my tee time. Now, come along. Aw, what seems to be the trouble, One of Three?"
         },
         {
@@ -1047,7 +1047,7 @@
           "line": "I'm Two of Three. HOLO-"
         },
         {
-          "character": "EMH",
+          "character": "HOLO-EMH",
           "line": "Sorry. They're triplets, you know."
         },
         {
@@ -1055,7 +1055,7 @@
           "line": "It hurts when I do this. HOLO-"
         },
         {
-          "character": "EMH",
+          "character": "HOLO-EMH",
           "line": "Well then, don't do it."
         },
         {
@@ -1063,11 +1063,11 @@
           "line": "Ow! HOLO-"
         },
         {
-          "character": "EMH",
+          "character": "HOLO-EMH",
           "line": "Don't be a baby. Your biradial clamp's out of alignment. I've got just the thing. It's a Klingon aphrodisiac, my own special blend. HOLO-"
         },
         {
-          "character": "EMH",
+          "character": "HOLO-EMH",
           "line": "You'll be feeling better in no time at all."
         }
       ],

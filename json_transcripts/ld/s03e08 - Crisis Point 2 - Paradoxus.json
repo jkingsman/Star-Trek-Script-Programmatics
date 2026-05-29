@@ -1,0 +1,1503 @@
+{
+  "airdate": 1665644400,
+  "scenes": [
+    {
+      "dialogue": [
+        {
+          "character": "FREEMAN",
+          "line": "Evasive maneuvers! Fire at will!"
+        },
+        {
+          "character": "SHAXS",
+          "line": "We're being boarded!"
+        },
+        {
+          "character": "RANSOM",
+          "line": "Then let's throw them a welcoming party."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "INTRUDER",
+          "line": "The device, hand it over!"
+        },
+        {
+          "character": "SCIENTIST",
+          "line": "I'll destroy this before I let you... aah!"
+        },
+        {
+          "character": "KAYSHON",
+          "line": "Temba!"
+        }
+      ],
+      "location": "Lab 4007"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "INTRUDER",
+          "line": "Commanders, the asset has been obtained."
+        },
+        {
+          "character": "CENTRE",
+          "line": "Excellent."
+        },
+        {
+          "character": "LEFT",
+          "line": "Destroy this joke of a Federation ship."
+        },
+        {
+          "character": "RIGHT",
+          "line": "Leave no survivors."
+        }
+      ],
+      "location": "Romulan ship"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "FREEMAN",
+          "line": "All decks! I hoped I would never have to give this order, but... All hands to es..."
+        },
+        {
+          "character": "KZINTI",
+          "line": "Captain, incoming ship. It's the Wayfarer!"
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "RIGHT",
+          "line": "No!"
+        },
+        {
+          "character": "LEFT",
+          "line": "Ugh!"
+        }
+      ],
+      "location": "Romulan ship"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "SHAXS",
+          "line": "Thank the Prophets."
+        },
+        {
+          "character": "FREEMAN",
+          "line": "Send those thanks to Captain Bucephalus Dagger."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "BOIMLER",
+          "line": "Commander Doodle, I think it's time we introduce this warbird to the biggest kid on the block."
+        },
+        {
+          "character": "MARINER",
+          "line": "You heard the Cap. Target those disruptors."
+        }
+      ],
+      "location": "Wayfarer Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "LEFT",
+          "line": "Dagger? Get us out of here."
+        },
+        {
+          "character": "RIGHT",
+          "line": "No! I want his head!"
+        },
+        {
+          "character": "CENTRE",
+          "line": "Don't be greedy, sister. We've already won. They just don't know it yet."
+        }
+      ],
+      "location": "Romulan ship"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TENDI",
+          "line": "Captain, they're retreating. Should I set a course to pursue?"
+        },
+        {
+          "character": "BOIMLER",
+          "line": "Let 'em run. Protecting the Cerritos is our top priority."
+        },
+        {
+          "character": "FREEMAN",
+          "line": "You're late, Dagger. What you do, stop for raktajino?",
+          "modifier": "screen"
+        },
+        {
+          "character": "BOIMLER",
+          "line": "What were the Melponar triplets after this time?"
+        },
+        {
+          "character": "FREEMAN",
+          "line": "The Chronogami. A top-secret Starfleet prototype which can penetrate temporal barriers. Chrono because it involves taking time, and folding it on itself like the Japanese artform...",
+          "modifier": "screen"
+        },
+        {
+          "character": "MARINER",
+          "line": "Yeah, origami, right, yeah, we... we get it."
+        },
+        {
+          "character": "BOIMLER",
+          "line": "I thought the Chronogami was theoretical."
+        },
+        {
+          "character": "FREEMAN",
+          "line": "Well, consider the theory proved. And now the Romulans have itm and I bet my pips they're going..."
+        },
+        {
+          "character": "BOIMLER",
+          "line": "Computer, freeze program."
+        },
+        {
+          "character": "OFFICER",
+          "line": "Ensign Boimler, please report to Commander Ransom's office.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "BOIMLER",
+          "line": "On my way."
+        },
+        {
+          "character": "TENDI",
+          "line": "I thought you were off duty."
+        },
+        {
+          "character": "BOIMLER",
+          "line": "I am. Ransom just probably wants me to spot him. He just learned Tellarite deadlifts."
+        },
+        {
+          "character": "RUTHERFORD",
+          "line": "Whoo, baby! That opening was awesome, Boims."
+        },
+        {
+          "character": "MARINER",
+          "line": "Crisis Point? No! You can't just piggyback off my movie."
+        },
+        {
+          "character": "BOIMLER",
+          "line": "Technically, it was my program first, so I can do what I want. Er, Computer, arch."
+        },
+        {
+          "character": "MARINER",
+          "line": "That doesn't contractually obligate you to make a bad sequel."
+        },
+        {
+          "character": "TENDI",
+          "line": "Is this a sequel? I mean, Vindicta got blown up."
+        },
+        {
+          "character": "RUTHERFORD",
+          "line": "You don't follow the villain. We're back with the Cerritos bridge crew."
+        },
+        {
+          "character": "BOIMLER",
+          "line": "Trust me, you're gonna love it. It's got everything. Action, adventure, romance. I'll skip ahead to the opening credits. Er, okay. Freeman just explained that the Chronogami can be used to destroy any point in history."
+        },
+        {
+          "character": "MARINER",
+          "line": "What, does it make an alternate cinematic timeline that runs concurrent to our own, but with, like, different people playing younger versions of us?"
+        },
+        {
+          "character": "TENDI",
+          "line": "Oh, scientifically that would be a bit of a reach."
+        },
+        {
+          "character": "MARINER",
+          "line": "Whatever. If you're expanding the Vindictaverse, I'm just saying it better not suck."
+        },
+        {
+          "character": "BOIMLER",
+          "line": "Let me know if you want some hot sauce while you're eating those words in the third act. I'll be right back."
+        },
+        {
+          "character": "ALL",
+          "line": "Ooo!"
+        },
+        {
+          "character": "RUTHERFORD",
+          "line": "Wait, what's my character's name again?"
+        },
+        {
+          "character": "TENDI",
+          "line": "Looks like you're Chief Engineer Sylvo Toussant. -"
+        },
+        {
+          "character": "RUTHERFORD",
+          "line": "Ooh, Cajun? Mon cheri, I guarantee I can do that... Nah, I'm just gonna play it straight."
+        },
+        {
+          "character": "TENDI",
+          "line": "I play Lieutenant Commander Meena Vesper, whose love of science and exploration is tempered by her troubled childhood."
+        },
+        {
+          "character": "MARINER",
+          "line": "Argh. This is such fan fiction. All right, I've got an evaluation with Ransom at 1900. Boims better not draw this out. Ah, the auteur has returned. What did, er, what did Ransom want?"
+        },
+        {
+          "character": "BOIMLER",
+          "line": "Er, just reassigning duty shifts."
+        },
+        {
+          "character": "TENDI",
+          "line": "Ooo , the credits are ending. Let's get back in character."
+        },
+        {
+          "character": "TENDI",
+          "line": "Rutherford, shh!"
+        }
+      ],
+      "location": "Wayfarer Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "FREEMAN",
+          "line": "The Chronogami Project was headed up by..."
+        },
+        {
+          "character": "BOIMLER",
+          "line": "Yeah, yeah, yeah, Doctor Helena Gibson."
+        },
+        {
+          "character": "HELENA",
+          "line": "Bucephalus. Oh, you have got some nerve never calling me back after that weekend on Risa."
+        },
+        {
+          "character": "RUTHERFORD",
+          "line": "Oh, ho, ho, ho, spicy!"
+        },
+        {
+          "character": "MARINER",
+          "line": "Oh, so this gorgeous scientist is the estranged love interest? Yeah, sure."
+        },
+        {
+          "character": "BOIMLER",
+          "line": "I'm here for your research, not your heart. Look, the Romulans have the Chromogami."
+        },
+        {
+          "character": "HELENA",
+          "line": "Oh, of... of course."
+        },
+        {
+          "character": "RUTHERFORD",
+          "line": "Whoa, these graphics are mind-blowing!"
+        },
+        {
+          "character": "TENDI",
+          "line": "Rutherford."
+        },
+        {
+          "character": "HELENA",
+          "line": "We've learned there are space-time worldlines that prevent the beginning of existence from merging with the end. The Chronogami's gravitons essentially fold worldlines, allowing a user to travel to the past, or the future."
+        },
+        {
+          "character": "SHAXS",
+          "line": "The Romulans could attack any place and any time, allowing them to wipe the Federation from ever existing."
+        },
+        {
+          "character": "BOIMLER",
+          "line": "So many lives, just blinked out of existence."
+        },
+        {
+          "character": "T'ANA",
+          "line": "We could run a long-range scan..."
+        },
+        {
+          "character": "BOIMLER",
+          "line": "And to think, you go to bed, probably still thinking about some task you have to do the next day, then, poof... You're gone."
+        },
+        {
+          "character": "MARINER",
+          "line": "Geez, somebody took a Winger Bingston acting class."
+        },
+        {
+          "character": "HELENA",
+          "line": "You can track the Chronogami with this. It has limited Chronogamic functionality."
+        },
+        {
+          "character": "MARINER",
+          "line": "Ah, yes, a watch that drives the plot. Very convenient and not at all dumb."
+        },
+        {
+          "character": "HELENA",
+          "line": "It detects the chronitons. It'll lead you right to them."
+        },
+        {
+          "character": "FREEMAN",
+          "line": "Looks like they're heading for Tatasciore IX."
+        },
+        {
+          "character": "SHAXS",
+          "line": "A favorite of black-market weapon dealers."
+        },
+        {
+          "character": "HELENA",
+          "line": "They're probably trying to buy Wallerian Dutronium to power the Chronogasmic matrix!"
+        },
+        {
+          "character": "MARINER",
+          "line": "Yeah, Doc, you really want to avoid that many made-up words in a row."
+        },
+        {
+          "character": "BOIMLER",
+          "line": "All right, er, this where we set a course for Tatasciore IX, so, let's do that."
+        },
+        {
+          "character": "HELENA",
+          "line": "Wait, Bucephalus. Could we talk... privately?"
+        },
+        {
+          "character": "MARINER",
+          "line": "Ooo, here comes the romance in three, two..."
+        },
+        {
+          "character": "BOIMLER",
+          "line": "No thanks, I... I... I... I got to go."
+        },
+        {
+          "character": "HELENA",
+          "line": "No thanks?"
+        },
+        {
+          "character": "MARINER",
+          "line": "Wait, you can't cut out the romantic subplot. A good movie's got to have some romance."
+        },
+        {
+          "character": "BOIMLER",
+          "line": "Dagger's love life doesn't matter anymore."
+        },
+        {
+          "character": "MARINER",
+          "line": "Wait, then why'd you design her so, hot?"
+        },
+        {
+          "character": "HELENA",
+          "line": "I don't know what to do now."
+        },
+        {
+          "character": "MARINER",
+          "line": "Er, yeah. Me, either, lady. Okay, bye."
+        }
+      ],
+      "location": "Europa - Starfleet Temporal Laboratory"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "ALIEN",
+          "line": "Do you feel lost in your way? Let Minooki guide you."
+        },
+        {
+          "character": "TENDI",
+          "line": "We have to find the Romulans or the universe could cease to exist."
+        },
+        {
+          "character": "ALIEN 2",
+          "line": "We're all holograms in a simulation."
+        },
+        {
+          "character": "ALIEN 3",
+          "line": "The koala smiles on us all."
+        },
+        {
+          "character": "ILLUSTOR",
+          "line": "Ki-ty-ha has the true answers, for life's most important questions."
+        },
+        {
+          "character": "MARINER",
+          "line": "Okay, feels like we're just moments away from a big set piece, aren't we? What are we talking, a heist? Chase? Yo, Earth to Dagger, I asked if there's gonna be, like, a cool chase or something."
+        },
+        {
+          "character": "BOIMLER",
+          "line": "I need answers."
+        },
+        {
+          "character": "ILLUSTOR",
+          "line": "Then you seek Ki-ty-ha. Legend says he resides on the forbidden moon."
+        },
+        {
+          "character": "MARINER",
+          "line": "What are you doing? The holodeck just populated that guy into the background for color."
+        },
+        {
+          "character": "KNICKNAC",
+          "line": "I sense Purplehead knows much. If one such as he is drawn to this place, so shall he who is I."
+        },
+        {
+          "character": "MARINER",
+          "line": "What in the...? Alien of the week bullshit? Okay, boys, come on. We have a movie to do, man. We don't have time to chat up the extras."
+        },
+        {
+          "character": "BOIMLER",
+          "line": "It's an adaptive program. The... the holodeck's creating meaning for these guys."
+        },
+        {
+          "character": "TENDI",
+          "line": "I've got a lock! Aah!"
+        },
+        {
+          "character": "FREEMAN",
+          "line": "Gravcycles, mount up."
+        },
+        {
+          "character": "MARINER",
+          "line": "Oh, hell yeah! Now we're talking. Dude, come on, we got to grav! Come on, we're missing the sequence!"
+        },
+        {
+          "character": "BOIMLER",
+          "line": "No, we need to find Kit-ty-ha. Dagger to Vesper, take command of the Chronogami mission. You are acting captain now."
+        },
+        {
+          "character": "TENDI",
+          "line": "Ah! Oh, my gosh, thank you!",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "MARINER",
+          "line": "We just spent like an hour getting the backstory of your MacGuffin and now we're not going after it?"
+        },
+        {
+          "character": "ILLUSTOR",
+          "line": "The path to Ki-ty-ha is perilous, but the reward is all the truths of the universe."
+        },
+        {
+          "character": "BOIMLER",
+          "line": "This could be the key to it all. We got to do this."
+        },
+        {
+          "character": "MARINER",
+          "line": "This? What is this? These random extras?"
+        },
+        {
+          "character": "KNICKNAC",
+          "line": "I am Knicknac."
+        },
+        {
+          "character": "MARINER",
+          "line": "Case in point. Now what the hell does finding some weirdo have to do with your story?"
+        },
+        {
+          "character": "BOIMLER",
+          "line": "We... We're gonna go find the meaning of life. This is better than what I wrote. This is important."
+        },
+        {
+          "character": "MARINER",
+          "line": "Important ? What? No. This was supposed to be a thrill ride."
+        },
+        {
+          "character": "BOIMLER",
+          "line": "Ah, that chase sequence wasn't gonna be fun anyway."
+        }
+      ],
+      "location": "Tatasciore IX"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "RUTHERFORD",
+          "line": "This is so fucking fun! Whoo!"
+        },
+        {
+          "character": "RUTHERFORD",
+          "line": "Aah!"
+        },
+        {
+          "character": "RANSOM",
+          "line": "Remind me to never lend you my gravcycle."
+        },
+        {
+          "character": "T'ANA",
+          "line": "Oh, shit. They're activating the Chronogami!"
+        },
+        {
+          "character": "FREEMAN",
+          "line": "Oh, damn it! They've crossed the origamic threshfold. And if we follow, we may never be able to get back to our own time."
+        },
+        {
+          "character": "TENDI",
+          "line": "We have to. For Starfleet!"
+        },
+        {
+          "character": "ALL",
+          "line": "For Starfleet!"
+        }
+      ],
+      "location": "Desert"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TENDI",
+          "line": "Where are we?"
+        },
+        {
+          "character": "T'ANA",
+          "line": "2341. We're smack dab in the middle of the goddamn algae crisis."
+        },
+        {
+          "character": "FREEMAN",
+          "line": "This is the science center where Ambassador Koro was able to communicate with the algaeic slime mind. Every kid learns about this in school."
+        },
+        {
+          "character": "TENDI",
+          "line": "We have to find the Romulans. If they kill Koro, the algae will wipe out every living creature on the... Did you leave and get food?"
+        },
+        {
+          "character": "RUTHERFORD",
+          "line": "Oh, yeah, during the whole time travel light show. That stuff always gets me seasick. I stepped out to grab a bite. You want some?"
+        },
+        {
+          "character": "TENDI",
+          "line": "No! I... I feel like you're not taking this seriously."
+        },
+        {
+          "character": "RUTHERFORD",
+          "line": "Er, yeah, because I'm not. Hey, who's that big squid?"
+        },
+        {
+          "character": "TENDI",
+          "line": "That's Ambassador Koro! Huh. Never mind. All right. Keep down, stay quiet, and spread out. We are looking for..."
+        },
+        {
+          "character": "RUTHERFORD",
+          "line": "Mmm! What? You got to have chips."
+        }
+      ],
+      "location": "Starfleet Aquatic Research Center 2341 The Great Soolian Algae Crisis"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "MARINER",
+          "line": "Okay, can we please get back to the real movie? Tendi and Ruthie could be, like, I dunno, in Ancient Egypt riding crocodiles without us."
+        },
+        {
+          "character": "BOIMLER",
+          "line": "Illustor, how do we get to Ki-ty-ha?"
+        },
+        {
+          "character": "ILLUSTOR",
+          "line": "Ah, to that I have a fascinating answer. And the answer is... this answer, that's about to be, coming now."
+        },
+        {
+          "character": "MARINER",
+          "line": "He's stalling, the holodeck's just building this dude a backstory on the fly. We are way off book here."
+        },
+        {
+          "character": "ILLUSTOR",
+          "line": "Oh, I can show you my back story."
+        },
+        {
+          "character": "KNICKNAC",
+          "line": "Thou art a map."
+        },
+        {
+          "character": "MARINER",
+          "line": "No, absolutely not. No, this is stupid, and too literal."
+        },
+        {
+          "character": "ILLUSTOR",
+          "line": "Quickly, read my saggy skin."
+        },
+        {
+          "character": "MARINER",
+          "line": "Ew! No, this guy can't be part of the Vindictaverse."
+        },
+        {
+          "character": "BOIMLER",
+          "line": "Oh, shut up! I went along with your stupid movie, which, by the way, didn't even have a real ending."
+        },
+        {
+          "character": "MARINER",
+          "line": "How dare you! It was epic."
+        },
+        {
+          "character": "BOIMLER",
+          "line": "You should be thanking me for turning your mess into a classy story that means something."
+        },
+        {
+          "character": "KNICKNAC",
+          "line": "It is steeped in significance, wise one."
+        },
+        {
+          "character": "BOIMLER",
+          "line": "Thank you, Knacknac."
+        },
+        {
+          "character": "KNICKNAC",
+          "line": "Knicknac."
+        },
+        {
+          "character": "BOIMLER",
+          "line": "I'm gonna follow this old man's skin map, and I'm gonna find some answers."
+        },
+        {
+          "character": "ILLUSTOR",
+          "line": "There are others who will join this quest, if you lead us, wise Purplehead."
+        },
+        {
+          "character": "BOIMLER",
+          "line": "Great idea, let's gather the flock."
+        },
+        {
+          "character": "MARINER",
+          "line": "No! This goes against everything the Vindictaverse stood for. I was being nice agreeing to come in here, and now you're ruining my franchise, and making me late for my evals."
+        },
+        {
+          "character": "BOIMLER",
+          "line": "Crisis Point was just a sad little tantrum so you could murder the crew. This is an important examination of the human condition."
+        },
+        {
+          "character": "MARINER",
+          "line": "Yeah, i.e., bad movie. I officially disown Crisis Point. Computer, arch."
+        },
+        {
+          "character": "BOIMLER",
+          "line": "You know what, I'm glad you don't like it, because you have awful taste."
+        },
+        {
+          "character": "KNICKNAC",
+          "line": "Purplehead speaks the truth."
+        },
+        {
+          "character": "MARINER",
+          "line": "Oh, you hated mine so much, you had to make a sequel, huh? Whatever. Have fun with Knapsack."
+        },
+        {
+          "character": "KNICKNAC",
+          "line": "Knicknac."
+        },
+        {
+          "character": "BOIMLER",
+          "line": "I will!"
+        }
+      ],
+      "location": "Tatasciore IX"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "MARINER",
+          "line": "Awful taste. Awful taste, me. This guy thinks he's gonna find spiritual truth in the holodeck, and I'm the idiot?"
+        }
+      ],
+      "location": "Corridor"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "RANSOM",
+          "line": "Ah-ha. Ah-ha. You've really turned a corner, Ensign. Nothing here but praise from the department heads. Nice work, Mariner. Really."
+        },
+        {
+          "character": "MARINER",
+          "line": "Thanks, Commander."
+        },
+        {
+          "character": "RANSOM",
+          "line": "Hey, er, how's Boimler doing, by the way?"
+        },
+        {
+          "character": "MARINER",
+          "line": "Annoying. Why?"
+        },
+        {
+          "character": "RANSOM",
+          "line": "Oh, er, I figured he would've told you. William, his transporter clone on the Titan? Died this morning."
+        },
+        {
+          "character": "MARINER",
+          "line": "Wha... Died? What?"
+        },
+        {
+          "character": "RANSOM",
+          "line": "Freak gas leak. Neurocine flooded his quarters. He was asleep. Hell of a way to go. I gave Mister Boimler the news earlier today. He's on bereavement leave. He didn't say anything?"
+        },
+        {
+          "character": "MARINER",
+          "line": "No. No, it didn't come up."
+        },
+        {
+          "character": "RANSOM",
+          "line": "I'm sure you want to be there for him. When I've got a case of the blues, I lean on my besties pretty hard. I don't know what I'd do without Honus the bartender, Nurse Westlake and Matt the whale. Friends for life."
+        },
+        {
+          "character": "MARINER",
+          "line": "Oh, no."
+        }
+      ],
+      "location": "Ransom's office"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TENDI",
+          "line": "Ah, that time fold was a big one."
+        },
+        {
+          "character": "T'ANA",
+          "line": "Earth's 20th century. Late."
+        },
+        {
+          "character": "RANSOM",
+          "line": "I thought the triplets were trying to destroy the Federation. It doesn't even exist yet."
+        },
+        {
+          "character": "TENDI",
+          "line": "Look! An ancestor of Ambassador Koro is inside that aquarium. They're going to take out his whole family line."
+        },
+        {
+          "character": "PUNK 1",
+          "line": "Oy! Drop the shiny gizmo, mate."
+        },
+        {
+          "character": "PUNK 2",
+          "line": "Stepped in the wrong place!"
+        },
+        {
+          "character": "PUNK 3",
+          "line": "It's our turf, mate."
+        },
+        {
+          "character": "SHAXS",
+          "line": "Look, we don't want any..."
+        },
+        {
+          "character": "PUNK 1",
+          "line": "Ah, my arm!"
+        },
+        {
+          "character": "SHAXS",
+          "line": ".witnesses."
+        },
+        {
+          "character": "PUNK 3",
+          "line": "Oi! Let's get out of here."
+        },
+        {
+          "character": "TENDI",
+          "line": "I think we have to kidnap that octopus, and take it to a safe house. Then we..."
+        },
+        {
+          "character": "RUTHERFORD",
+          "line": "Give me that jacket."
+        },
+        {
+          "character": "TENDI",
+          "line": "What are you doing?"
+        },
+        {
+          "character": "RUTHERFORD",
+          "line": "I'm robbing these street punks so we can all dress up in these old-timey outfits."
+        },
+        {
+          "character": "TENDI",
+          "line": "Yeah, we don't have time for that."
+        },
+        {
+          "character": "RUTHERFORD",
+          "line": "But that's, like, the fun part of the whole time travel thing."
+        },
+        {
+          "character": "TENDI",
+          "line": "No! Stop messing around."
+        },
+        {
+          "character": "RUTHERFORD",
+          "line": "I'm at least getting the pants."
+        },
+        {
+          "character": "TENDI",
+          "line": "Will you please hurry up?"
+        },
+        {
+          "character": "RUTHERFORD",
+          "line": "They don't fit. We need to find bigger punks."
+        }
+      ],
+      "location": "Sydney July 15 1982"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "MARINER",
+          "line": "Space freighter? Er, hello? Boimler er, Captain Dagger?"
+        },
+        {
+          "character": "ACOLYTE",
+          "line": "Intruder! Capture the nonbeliever."
+        },
+        {
+          "character": "MARINER",
+          "line": "Don't touch me! Your characters don't even have names."
+        },
+        {
+          "character": "ACOLYTE",
+          "line": "You know nothing of our ways. Acolyte 2, throw her into the brig."
+        }
+      ],
+      "location": "Freighter"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "MARINER",
+          "line": "I'm friends with the lead character, you idiots."
+        },
+        {
+          "character": "BOIMLER",
+          "line": "Hey."
+        },
+        {
+          "character": "MARINER",
+          "line": "What are you doing in here?"
+        },
+        {
+          "character": "BOIMLER",
+          "line": "The tattoo map was a total bust. I couldn't find Ki-ty-ha. Then my followers got pissed and mutinied. I can't make a good movie. I can hardly make a bad one. It fell apart right after you left."
+        },
+        {
+          "character": "MARINER",
+          "line": "Yeah, so, Ransom told me about William. I'm so sorry. You must feel terrible. Why didn't you say something?"
+        },
+        {
+          "character": "BOIMLER",
+          "line": "Ah, I haven't really processed it. I mean, he was an exact copy of me. Had his own quarters on a cooler ship but, he died for no reason. I guess I was trying to make all of this matter because then... I would matter. But trying to make this dumb movie important just proves that I'm not."
+        },
+        {
+          "character": "MARINER",
+          "line": "It's just a holodeck program."
+        },
+        {
+          "character": "BOIMLER",
+          "line": "I know, I was stupid. Let's just get out of here. Computer, arch."
+        },
+        {
+          "character": "MARINER",
+          "line": "Cancel arch."
+        },
+        {
+          "character": "BOIMLER",
+          "line": "Mariner..."
+        },
+        {
+          "character": "MARINER",
+          "line": "I found deeper meaning in Rise of Vindicta, and it was totally unscripted. If I did it, you can, too."
+        },
+        {
+          "character": "BOIMLER",
+          "line": "But it's a bad story."
+        },
+        {
+          "character": "MARINER",
+          "line": "Yeah, it's an uneven slog that totally ignores the successes of the original. But, it's also a Starfleet movie, which means it's worth doing."
+        },
+        {
+          "character": "BOIMLER",
+          "line": "Yeah, it is a Starfleet movie. We are Starfleet."
+        },
+        {
+          "character": "MARINER",
+          "line": "Fuck yeah, we're Starfleet."
+        },
+        {
+          "character": "BOIMLER",
+          "line": "Yes! Okay, er... Okay, first we have to figure a way out of this brig."
+        },
+        {
+          "character": "BOTH",
+          "line": "Knicknac!"
+        },
+        {
+          "character": "KNICKNAC",
+          "line": "I never stopped believing in you, Purplehead. I love you. I'm in love with you."
+        },
+        {
+          "character": "BOIMLER",
+          "line": "I'm in love with you too, buddy. Let's go."
+        },
+        {
+          "character": "MARINER",
+          "line": "Okay, hey, there's your romance."
+        }
+      ],
+      "location": "Brig"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "ILLUSTOR",
+          "line": "With the power of Ki-ty-ha, all of creation will be in my control."
+        },
+        {
+          "character": "MARINER",
+          "line": "Oh, shut up. You're just a fleshy map."
+        },
+        {
+          "character": "ILLUSTOR",
+          "line": "Acolytes! Throw these nonbelievers out the holy airlock."
+        },
+        {
+          "character": "BOIMLER",
+          "line": "You have no power here! We're all searching for greater meaning, and it's not you."
+        },
+        {
+          "character": "MARINER",
+          "line": "Here it comes, the big heroic speech, where you turn him around from being..."
+        },
+        {
+          "character": "MARINER",
+          "line": "Or yeah, we can do the Kirk thing. That's cool, too."
+        },
+        {
+          "character": "KNICKNAC",
+          "line": "Knicknac!"
+        },
+        {
+          "character": "MARINER",
+          "line": "Damn, okay, third act Knicknac reveal. Come here!"
+        },
+        {
+          "character": "MARINER",
+          "line": "Feel better?"
+        },
+        {
+          "character": "BOIMLER",
+          "line": "Er, yeah, a little, but... Ah! Look at this. If I pull these two folds of skin together..."
+        },
+        {
+          "character": "ALL",
+          "line": "The map to Ki-ty-ha."
+        }
+      ],
+      "location": "Freighter"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "T'ANA",
+          "line": "Careful! That bomb has a hair trigger."
+        },
+        {
+          "character": "RANSOM",
+          "line": "Wait, how does this play into the octopus stuff?"
+        },
+        {
+          "character": "TENDI",
+          "line": "I think the Romulans gave up on that. Now they're just trying to blow up the founders, before they found the Federation."
+        },
+        {
+          "character": "FREEMAN",
+          "line": "I hope you know what you're doing, Toussant."
+        },
+        {
+          "character": "RUTHERFORD",
+          "line": "\u266a Chu-chu, chu-chu-choo...\u266a"
+        },
+        {
+          "character": "TENDI",
+          "line": "Rutherford, will you stop fucking around?! If that thing explodes, then there's no Federation."
+        },
+        {
+          "character": "RUTHERFORD",
+          "line": "Sorry, I've got that Chu Chu song stuck in my head. It's such an earworm. \u266a Chu-chu, chu-choo...\u266a \u266a I almost got it \u266a"
+        },
+        {
+          "character": "ROMULAN",
+          "line": "Die."
+        },
+        {
+          "character": "T'ANA",
+          "line": "No..."
+        },
+        {
+          "character": "RUTHERFORD",
+          "line": "\u266a Got it, chu-chu...\u266a"
+        },
+        {
+          "character": "TENDI",
+          "line": "No! No, no, no, no, no. Stay with me, Doctor T. You're gonna be okay."
+        },
+        {
+          "character": "T'ANA",
+          "line": "Don't bullshit a bullshiter."
+        },
+        {
+          "character": "RUTHERFORD",
+          "line": "Ooo. Smells like fried Romulan in here, huh, guys? Whoof, someone crack a window."
+        },
+        {
+          "character": "TENDI",
+          "line": "Damn it, Rutherford! Why aren't you taking this seriously?"
+        },
+        {
+          "character": "RUTHERFORD",
+          "line": "'Cause we're having fun. What's the big deal?"
+        },
+        {
+          "character": "TENDI",
+          "line": "This isn't fun for me. Would you laugh this much if I was really the captain in real life?"
+        },
+        {
+          "character": "RUTHERFORD",
+          "line": "Sorry, if you were what?"
+        },
+        {
+          "character": "TENDI",
+          "line": "Nobody would believe in me as a captain. You don't even care about this story at all."
+        },
+        {
+          "character": "RUTHERFORD",
+          "line": "You want to be a captain?"
+        },
+        {
+          "character": "TENDI",
+          "line": "Yes! Oh, wow, I've never said that out loud before. Yes. Yes, I do."
+        },
+        {
+          "character": "RUTHERFORD",
+          "line": "Tendi, you'd be a great captain. You don't need a movie to prove that."
+        },
+        {
+          "character": "TENDI",
+          "line": "Really?"
+        },
+        {
+          "character": "RUTHERFORD",
+          "line": "Are you kidding? I'd want you as my captain anytime."
+        },
+        {
+          "character": "TENDI",
+          "line": "Oh, I can't even tell you what that means to me."
+        },
+        {
+          "character": "RUTHERFORD",
+          "line": "Captain Vesper, your crew is ready. What are your orders?"
+        },
+        {
+          "character": "TENDI",
+          "line": "It's time to take a page from the Melponar's book."
+        }
+      ],
+      "location": "Founding of the Federation 2161"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "FREEMAN",
+          "line": "Evasive maneuvers! Fire at will."
+        },
+        {
+          "character": "SHAXS",
+          "line": "We're being boarded."
+        },
+        {
+          "character": "RANSOM",
+          "line": "Let's throw them a welcoming party."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "SCIENTIST",
+          "line": "Just take it. Don't hurt me."
+        },
+        {
+          "character": "ROMULAN",
+          "line": "Ha. Federation coward."
+        },
+        {
+          "character": "KAYSHON",
+          "line": "Temba."
+        }
+      ],
+      "location": "Lab 4007"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "ROMULAN",
+          "line": "Commanders, the asset has been attained."
+        },
+        {
+          "character": "CENTRE",
+          "line": "Excellent."
+        },
+        {
+          "character": "LEFT",
+          "line": "Destroy this joke of a Federation ship."
+        },
+        {
+          "character": "TENDI",
+          "line": "Joke's on you.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "CENTRE",
+          "line": "Identify yourself. Who is this?"
+        }
+      ],
+      "location": "Romulan ship"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TENDI",
+          "line": "This is acting Captain Meena Vesper."
+        },
+        {
+          "character": "CENTRE",
+          "line": "You're too late. With the Chronogami, we will destroy everything you hold dear.",
+          "modifier": "screen"
+        },
+        {
+          "character": "TENDI",
+          "line": "That would be true if you had the Chronogami, and not your own bomb."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "SISTERS",
+          "line": "No!"
+        }
+      ],
+      "location": "Romulan ship"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "RUTHERFORD",
+          "line": "Tendi, you did it! Ha-ha! Way to go, Captain."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "BOIMLER",
+          "line": "There. Whoa!"
+        },
+        {
+          "character": "KITYHA",
+          "line": "I am Ki-ty-ha. You have journeyed far. What truth do you seek?"
+        },
+        {
+          "character": "BOIMLER",
+          "line": "A man named William Boimler died. It was meaningless. What is life for?"
+        },
+        {
+          "character": "KITYHA",
+          "line": "The purpose of life... Is a life of purpose."
+        },
+        {
+          "character": "BOIMLER",
+          "line": "Okay. But what about what I was asking?"
+        },
+        {
+          "character": "KITYHA",
+          "line": "Love without trust is a river without water."
+        },
+        {
+          "character": "BOIMLER",
+          "line": "Yeah, these are just inspirational quotes. I... I... I wanted the meaning of life."
+        },
+        {
+          "character": "KITYHA",
+          "line": "Life is like a cup of tea. It's all in how you steep the water."
+        },
+        {
+          "character": "BOIMLER",
+          "line": "Are you fucking kidding me? You're supposed to be the Almighty."
+        },
+        {
+          "character": "MARINER",
+          "line": "Oh, there's always a catch with these god stories. The holodeck just made a cheesy quote generator."
+        },
+        {
+          "character": "BOIMLER",
+          "line": "But we came all this way. I want answers."
+        },
+        {
+          "character": "KITYHA",
+          "line": "Laughter and a good night's sleep will..."
+        },
+        {
+          "character": "BOTH",
+          "line": "Shut up."
+        },
+        {
+          "character": "MARINER",
+          "line": "Not every holodeck movie is gonna work as therapy. Why don't we head over to Migleemo's office and he'll tell us some recipes."
+        },
+        {
+          "character": "KITYHA",
+          "line": "Hey!"
+        },
+        {
+          "character": "BOIMLER",
+          "line": "The real answers must be in... there!"
+        },
+        {
+          "character": "KITYHA",
+          "line": "Ow. - Ow! Stop, that hurts."
+        },
+        {
+          "character": "MARINER",
+          "line": "Oh, Boimler, come on."
+        },
+        {
+          "character": "KITYHA",
+          "line": "Don't..."
+        },
+        {
+          "character": "MARINER",
+          "line": "You don't want to crawl in there, man. That thing's putting off a lot of heat."
+        }
+      ],
+      "location": "Third Moon of Shananari"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "BOIMLER",
+          "line": "Kitty Hawk? Kitty Hawk?! That reveal doesn't make any sense. Urgh! My movie is trash. It doesn't have a deeper meaning, and neither does life. I should have stayed a raisin farmer. I could have married Lianne."
+        }
+      ],
+      "location": "Inside Kityha"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "BOIMLER",
+          "line": "Where am I? Mariner?"
+        },
+        {
+          "character": "SULU",
+          "line": "Steady. Steady, Atlas.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "BOIMLER",
+          "line": "Er, Captain Kirk?"
+        },
+        {
+          "character": "SULU",
+          "line": "Oh my, no. It's Captain Sulu."
+        },
+        {
+          "character": "BOIMLER",
+          "line": "Oh my gosh, Captain Sulu. Even better. Er, sorry about that. The... the mailbox says..."
+        },
+        {
+          "character": "SULU",
+          "line": "I took this place off Kirk's hands. He had to go and time travel, or who knows what. The man could never relax."
+        },
+        {
+          "character": "BOIMLER",
+          "line": "What... what is this place?"
+        },
+        {
+          "character": "SULU",
+          "line": "Pretty nice spread, right? There's even a hot tub in the back."
+        },
+        {
+          "character": "BOIMLER",
+          "line": "Is this heaven? The afterlife? The Nexus?"
+        },
+        {
+          "character": "SULU",
+          "line": "It's Idaho. Would you like to feed the horsey?"
+        },
+        {
+          "character": "BOIMLER",
+          "line": "Er, sure. I... I didn't program any of this. I was in the holodeck trying to find meaning in the randomness of death, but I just made a fool of myself."
+        },
+        {
+          "character": "SULU",
+          "line": "Brad, I've lost many friends. Some heroically, some tragically. The randomness of death is merely a reflection of the unexpected joys we find in life."
+        },
+        {
+          "character": "BOIMLER",
+          "line": "So if I spend my life worrying about a meaningless death, I'll never find joy?"
+        },
+        {
+          "character": "SULU",
+          "line": "I literally just said that."
+        },
+        {
+          "character": "BOIMLER",
+          "line": "Sorry. Thanks, Captain Sulu. I think I can live with that."
+        },
+        {
+          "character": "SULU",
+          "line": "Happy to help a fellow Starfleet officer looking for answers."
+        },
+        {
+          "character": "BOIMLER",
+          "line": "Oh, great. Awesome. So, can I ask you what it was like working with Spock and Uhura? Was it weird using the crystal buttons on the Enterprise? Ooo, did you practice daily with the sword? I'm er, kind of a sword guy myself, so..."
+        },
+        {
+          "character": "SULU",
+          "line": "The horsey's going to bite you now."
+        },
+        {
+          "character": "BOIMLER",
+          "line": "What?"
+        }
+      ],
+      "location": "Kirk's ranch"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "BOIMLER",
+          "line": "Sulu? How'd I get off the ranch?"
+        },
+        {
+          "character": "MARINER",
+          "line": "Yeah, you passed out, screaming something about the Wright Brothers."
+        },
+        {
+          "character": "T'ANA",
+          "line": "| Kid, you gotta take water breaks in there. Holodeck might be fake, but dehydration is real."
+        },
+        {
+          "character": "BOIMLER",
+          "line": "So I was... dreaming?"
+        },
+        {
+          "character": "T'ANA",
+          "line": "More like clinically dead."
+        },
+        {
+          "character": "MARINER",
+          "line": "Sorry you didn't find out the meaning of life today."
+        },
+        {
+          "character": "BOIMLER",
+          "line": "You know what, I think maybe I shouldn't have been looking for it. Sorry my movie was a letdown."
+        },
+        {
+          "character": "TENDI",
+          "line": "Are you kidding? It was amazing."
+        },
+        {
+          "character": "BOIMLER",
+          "line": "Really?"
+        },
+        {
+          "character": "RUTHERFORD",
+          "line": "I don't know what you guys got into, but our story was sick. Tendi rocked it."
+        },
+        {
+          "character": "MARINER",
+          "line": "Yeah. Ours was great, too. Dagger here fought off a mutiny, and then beat the shit out of a god."
+        },
+        {
+          "character": "TENDI",
+          "line": "What? I want to do that!"
+        },
+        {
+          "character": "T'ANA",
+          "line": "Would you get the hell out of here?! Stevens leaned against the warp core. I need this bed cleared now."
+        },
+        {
+          "character": "STEVENS",
+          "line": "Oh, not twice in one day!"
+        }
+      ],
+      "location": "Sickbay"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TENDI",
+          "line": "Ooo, that was so much fun. That hovercycle chase was intense."
+        },
+        {
+          "character": "RUTHERFORD",
+          "line": "Yeah. I'm still thinking about those graphics."
+        },
+        {
+          "character": "BOIMLER",
+          "line": "Ooo, did you guys run into the punks?"
+        },
+        {
+          "character": "TENDI",
+          "line": "Yeah. Oh, they were so punky."
+        },
+        {
+          "character": "RUTHERFORD",
+          "line": "Oh, man. So good."
+        },
+        {
+          "character": "MARINER",
+          "line": "You know what, Boims? Maybe this was a good sequel to Crisis Point."
+        },
+        {
+          "character": "BOIMLER",
+          "line": "Aw, thanks, Mariner."
+        },
+        {
+          "character": "MARINER",
+          "line": "I'm glad you didn't end it on some dark cliffhanger. I like happy endings."
+        },
+        {
+          "character": "BOIMLER",
+          "line": "Urgh. Cliffhangers are the worst. I hate when people do that."
+        },
+        {
+          "character": "BOIMLER 2",
+          "line": "It... it worked."
+        },
+        {
+          "character": "OPERATIVE",
+          "line": "Welcome, William. Starfleet now considers you a dead man. Just how we like it."
+        },
+        {
+          "character": "BOIMLER 2",
+          "line": "Isn't Section 31 supposed to be, like, a big secret? I mean, why would we wear special combadges that advertise who we are?"
+        },
+        {
+          "character": "OPERATIVE",
+          "line": "You could still be dead."
+        },
+        {
+          "character": "BOIMLER 2",
+          "line": "No, no, no, you know... You know what, I like the badge. I like the badge. Bwahahahahaha!"
+        }
+      ],
+      "location": "Corridor"
+    }
+  ],
+  "schedule": {
+    "episode": 8,
+    "number": 28,
+    "season": 3
+  },
+  "stardate": "2381",
+  "title": "Crisis Point 2: Paradoxus"
+}
