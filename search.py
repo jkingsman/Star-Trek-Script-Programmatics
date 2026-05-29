@@ -28,7 +28,7 @@ MOVIE_ABBREVS = {
 }
 
 
-def load_all_lines():
+def load_all_lines(on_file=None):
     """Load every dialogue line into a flat list for searching."""
     lines = []
     for series_dir in SERIES_MAP:
@@ -37,6 +37,8 @@ def load_all_lines():
         for filepath in sorted(glob.glob(pattern)):
             basename = os.path.basename(filepath)  # e.g. "s01e01 - Title.json"
             ep_code = basename.split(" - ")[0] if " - " in basename else basename.replace(".json", "")
+            if on_file:
+                on_file(series_label, ep_code, basename)
             with open(filepath) as f:
                 ep = json.load(f)
             title = ep.get("title", "")
@@ -114,11 +116,13 @@ def main(stdscr):
     stdscr.timeout(50)  # non-blocking getch with 50ms timeout
 
     # Loading screen
-    stdscr.clear()
-    stdscr.addstr(0, 0, "Loading Star Trek scripts...", curses.A_BOLD)
-    stdscr.refresh()
+    def show_loading(series, ep_code, filename):
+        stdscr.clear()
+        stdscr.addstr(0, 0, "Loading Star Trek scripts...", curses.A_BOLD)
+        stdscr.addstr(1, 0, f"  {series} {ep_code}", curses.A_DIM)
+        stdscr.refresh()
 
-    all_lines = load_all_lines()
+    all_lines = load_all_lines(on_file=show_loading)
 
     query = ""
     cursor_pos = 0       # cursor position in query string
