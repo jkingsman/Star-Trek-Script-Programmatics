@@ -5,7 +5,7 @@
       "dialogue": [
         {
           "character": "ARCHER",
-          "line": "Previously, on Enterprise",
+          "line": "",
           "modifier": "voiceover"
         },
         {
@@ -651,7 +651,8 @@
         },
         {
           "character": "TUCKER",
-          "line": "[OC]: What about helm control?"
+          "line": "What about helm control?",
+          "modifier": "voiceover"
         },
         {
           "character": "TRAVIS",
