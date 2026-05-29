@@ -1,0 +1,1079 @@
+{
+  "airdate": -57945600,
+  "scenes": [
+    {
+      "dialogue": [
+        {
+          "character": "SULU",
+          "line": "Approaching planet Omega Four, sir. Object ahead. Another vessel in planet orbit, Captain."
+        },
+        {
+          "character": "KIRK",
+          "line": "Lieutenant, sound alert."
+        },
+        {
+          "character": "UHURA",
+          "line": "Aye, sir. All decks report ready, sir."
+        },
+        {
+          "character": "KIRK",
+          "line": "Long range sensor scan, Mister Sulu."
+        },
+        {
+          "character": "SULU",
+          "line": "It's the USS Exeter, sir."
+        },
+        {
+          "character": "KIRK",
+          "line": "Try to contact her, Lieutenant."
+        },
+        {
+          "character": "UHURA",
+          "line": "Aye, sir."
+        },
+        {
+          "character": "KIRK",
+          "line": "The Exeter. she was patrolling in this area six months ago. I hadn't heard of any trouble."
+        },
+        {
+          "character": "UHURA",
+          "line": "Receiving no response to our signal, sir."
+        },
+        {
+          "character": "SULU",
+          "line": "The sensors indicate no damage to the vessel, Captain."
+        },
+        {
+          "character": "KIRK",
+          "line": "I see. Magnification factor three, Mister Sulu."
+        },
+        {
+          "character": "KIRK",
+          "line": "Hold our position out here, Mister Sulu. Lieutenant, have Mister Spock, Doctor McCoy, and Lieutenant Galloway report to the transporter room. We'll board and investigate."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "SPOCK",
+          "line": "We're locked onto the Exeter's engineering section, Captain."
+        },
+        {
+          "character": "KIRK",
+          "line": "Phasers on heavy stun. Energize."
+        }
+      ],
+      "location": "Transporter room"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "SPOCK",
+          "line": "Captain."
+        },
+        {
+          "character": "KIRK",
+          "line": "Just their uniforms left."
+        },
+        {
+          "character": "SPOCK",
+          "line": "As if they were in them when"
+        },
+        {
+          "character": "KIRK",
+          "line": "Exactly. When what?"
+        },
+        {
+          "character": "KIRK",
+          "line": "This is Captain Kirk of the USS Enterprise. Is anyone on board? If there is, and you can hear me, please respond by intercom to the engineering section. Is there anyone on board?"
+        },
+        {
+          "character": "SPOCK",
+          "line": "Spock here, Captain.",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "Exeter Engineering"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "SPOCK",
+          "line": "Lieutenant Galloway and I are checking out the lower levels. There seems to be no one aboard. Only uniforms."
+        }
+      ],
+      "location": "Corridor"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "KIRK",
+          "line": "What about the shuttlecraft?"
+        },
+        {
+          "character": "GALLOWAY",
+          "line": "Galloway on the hangar deck, sir. All four of the craft are still here. If they left, they didn't leave that way.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "KIRK",
+          "line": "Doctor McCoy and I are going to the Bridge. Meet us there."
+        },
+        {
+          "character": "KIRK",
+          "line": "Captain's log. Aboard the USS Exeter commanded by Ron Tracey, one of the most experienced captains in the Starfleet. What could have happened to him and the over four hundred men and women who were on this ship?",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "Exeter Engineering"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "GALLOWAY",
+          "line": "The helm was left on automatic, sir."
+        },
+        {
+          "character": "SPOCK",
+          "line": "Fascinating."
+        },
+        {
+          "character": "KIRK",
+          "line": "Spock, play the last log tape. Maybe they had time to record what happened to them."
+        },
+        {
+          "character": "SPOCK",
+          "line": "Aye, sir."
+        },
+        {
+          "character": "MCCOY",
+          "line": "Jim, the analysis of this so far is potassium thirty five percent, carbon eighteen percent, phosphorous one point zero, calcium one point five. Jim, the crew didn't leave. They're still here."
+        },
+        {
+          "character": "KIRK",
+          "line": "What do you mean?"
+        },
+        {
+          "character": "MCCOY",
+          "line": "These white crystals. That's what's left of the human body when you take the water away, which makes up ninety six percent of our bodies. Without water, we're all just three or four pounds of chemicals. Something crystallized them down to this."
+        },
+        {
+          "character": "SPOCK",
+          "line": "I have their surgeon's log, Captain. Their last log entry, Captain, on screen."
+        },
+        {
+          "character": "DOCTOR",
+          "line": "If you've come aboard this ship, you're dead men. Don't go back to your own ship. You have one chance. Get down there. Get down there fast. Captain Tracey is",
+          "modifier": "screen"
+        },
+        {
+          "character": "KIRK",
+          "line": "Prepare to beam down to the planet surface fast."
+        }
+      ],
+      "location": "Exeter Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "VOICE",
+          "line": "Oi! O1!"
+        },
+        {
+          "character": "TRACEY",
+          "line": "Put the ax away, Liyang."
+        },
+        {
+          "character": "KIRK",
+          "line": "That's Ron Tracey. Ron."
+        },
+        {
+          "character": "TRACEY",
+          "line": "I knew someone would come looking for us. I'm just sorry it had to be you, Jim. I'm glad your arrival stopped this. No more of this, Wu. Lock up the savages."
+        },
+        {
+          "character": "WU",
+          "line": "They carry fire boxes."
+        },
+        {
+          "character": "TRACEY",
+          "line": "I said lock up the savages. The prisoners are called Yangs. Impossible even to communicate with. Hordes of them out there. They'll attack anything that moves."
+        },
+        {
+          "character": "SPOCK",
+          "line": "Interesting that the villagers know about phasers."
+        },
+        {
+          "character": "KIRK",
+          "line": "You were left alone down here, Ron. What happened?"
+        },
+        {
+          "character": "TRACEY",
+          "line": "Our medi-scanners revealed this planet as perfectly harmless. The villagers, the Kohms here, were friendly enough once they got over the shock of my white skin. As you've seen, we resemble the Yangs, the savages. My landing party transported back to the ship. I stayed down here to arrange for the planet survey with the village elders. The next thing I knew, the ship was calling me. The landing party had taken an unknown disease back. My crew, Jim. My entire crew. Gone."
+        },
+        {
+          "character": "KIRK",
+          "line": "Yes, I know. We saw it."
+        },
+        {
+          "character": "TRACEY",
+          "line": "And I'm just as infected as they were. As you are. But I stayed alive because I stayed down here. There's some natural immunization that protects everyone on the planet surface. I don't know what it is."
+        },
+        {
+          "character": "MCCOY",
+          "line": "Lucky we found that log. If we'd gone back to the Enterprise."
+        },
+        {
+          "character": "TRACEY",
+          "line": "You'd be dying by now, along with the rest of the Enterprise crew. You'll stay alive only as long as you stay here. None of us will ever leave this planet."
+        },
+        {
+          "character": "KIRK",
+          "line": "Captain's log, supplemental. The Enterprise has left the Exeter and moved into close planet orbit. Although it appears the infection may strand us here the rest of our lives, I face an even more difficult problem. A growing belief that Captain Tracey has been interfering with the evolution of life on this planet. It seems impossible. A star captain's most solemn oath is that he will give his life, even his entire crew, rather than violate the Prime Directive.",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "Village"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "MCCOY",
+          "line": "Tell the lab the final reading on our tissue is Y three X point zero zero four. And I could use a second blood analyzer unit."
+        }
+      ],
+      "location": "Storeroom"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "UHURA",
+          "line": "We'll beam it down shortly, Doctor."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "UHURA",
+          "line": "Enterprise out.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "MCCOY",
+          "line": "Our tissues definitely show a massive infection, Jim, but something is immunizing us down here, thank heavens, or we'd have been dead hours ago."
+        },
+        {
+          "character": "KIRK",
+          "line": "I don't think we're going to have time to isolate it, Bones."
+        },
+        {
+          "character": "MCCOY",
+          "line": "The problem is, it could be anything Some spores or pollen in the air, some chemical. Just finding it could take months, maybe even years. And I've only got one lead. The infection resembles one developed by Earth during their bacteriological warfare experiments in the 1990s. Hard to believe we were once foolish enough to play around with that."
+        },
+        {
+          "character": "SPOCK",
+          "line": "A Yang lance, Doctor."
+        },
+        {
+          "character": "KIRK",
+          "line": "Are you all right?"
+        },
+        {
+          "character": "SPOCK",
+          "line": "Bruised only. We were approximately one hundred meters from the village when five of the savages ambushed us. We managed to escape without firing."
+        },
+        {
+          "character": "KIRK",
+          "line": "Spock, do you see any hope that these Yangs can be reasoned with? A truce, a parley, a"
+        },
+        {
+          "character": "GALLOWAY",
+          "line": "No, Captain. They're too wild. They act almost insane."
+        },
+        {
+          "character": "SPOCK",
+          "line": "Captain Tracey is being quite factual in several statements. One, the Yangs are totally contemptuous of death. They seem incredibly vicious. Two, he is also being factual in that the Yangs are massing for an attack. There are signs of thousands of them in the foothills beyond. However, he was less than truthful in one very important matter."
+        },
+        {
+          "character": "KIRK",
+          "line": "Phaser power packs."
+        },
+        {
+          "character": "SPOCK",
+          "line": "Captain Tracey's reserve belt packs. Empty. Found among the remains of several hundred Yang bodies."
+        },
+        {
+          "character": "KIRK",
+          "line": "The fool."
+        },
+        {
+          "character": "SPOCK",
+          "line": "A smaller attack on this village a week ago, driven off by Captain Tracey with his phaser. I have found villagers who will corroborate it."
+        },
+        {
+          "character": "MCCOY",
+          "line": "Now wait a minute. He lost his ship and his crew, and he found himself the only thing standing between an entire village of peaceful people."
+        },
+        {
+          "character": "SPOCK",
+          "line": "Regulations are quite harsh, but they're also quite clear, Captain. If you do not act, you will be considered equally guilty."
+        },
+        {
+          "character": "MCCOY",
+          "line": "Without a serum, we're trapped here with the villagers. Now why destroy what's left of the man by arresting him?"
+        },
+        {
+          "character": "SPOCK",
+          "line": "I agree that formal charges have little meaning now. However, you must at least confiscate his phaser."
+        },
+        {
+          "character": "KIRK",
+          "line": "The fool. Starfleet should be made aware."
+        },
+        {
+          "character": "TRACEY",
+          "line": "I'll be sending the next message, Jim."
+        },
+        {
+          "character": "TRACEY",
+          "line": "Enterprise, come in."
+        },
+        {
+          "character": "UHURA",
+          "line": "Enterprise bridge. Lieutenant Uhura.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "TRACEY",
+          "line": "Captain Tracey of the Exeter."
+        },
+        {
+          "character": "UHURA",
+          "line": "Yes, sir. Captain Kirk informed us earlier you had survived."
+        },
+        {
+          "character": "TRACEY",
+          "line": "I'm afraid I have some bad news. Your captain and landing party must have beamed down too late for full immunization."
+        }
+      ],
+      "location": "Storeroom"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TRACEY",
+          "line": "They've been found unconscious, but I'm doing everything I can for them now.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "SULU",
+          "line": "Sir, this is Lieutenant Sulu in temporary command of the Enterprise."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "SULU",
+          "line": "Our whole medical staff will volunteer to beam down",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "TRACEY",
+          "line": "There's no point in risking more lives, Lieutenant. Since I've acquired some immunity perhaps the others"
+        },
+        {
+          "character": "KIRK",
+          "line": "Sulu!"
+        },
+        {
+          "character": "TRACEY",
+          "line": "At their next word, kill him."
+        },
+        {
+          "character": "SULU",
+          "line": "Repeat your message. Come in, landing party. Repeat your message.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "TRACEY",
+          "line": "I'm sorry, Lieutenant. Your captain's feverish, quite delirious."
+        },
+        {
+          "character": "SULU",
+          "line": "I understand, sir. When he regains consciousness, assure him that we have no problems here.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "TRACEY",
+          "line": "I'll contact you later, let you know of any future needs. Landing party out."
+        },
+        {
+          "character": "TRACEY",
+          "line": "That's enough of that, Captain. Leave us."
+        },
+        {
+          "character": "KIRK",
+          "line": "Captain Ronald Tracey, as per Starfleet Command, regulation seven, paragraph four"
+        },
+        {
+          "character": "TRACEY",
+          "line": "I must now consider myself under arrest, unless in the presence of the most senior fellow officers presently available, I give satisfactory answer to those charges which you now bring. Et cetera, et cetera. Those were the first words duty required you to say to me, and you said them. You're covered. Now, suppose we go on to the next subject."
+        },
+        {
+          "character": "KIRK",
+          "line": "Which is, why?"
+        },
+        {
+          "character": "TRACEY",
+          "line": "Good. Direct, succinct. Answer. No native to this planet has ever had any trace of any kind of disease. How long would a man live if all disease were erased, Jim? Wu. Tell Captain Kirk your age."
+        },
+        {
+          "character": "WU",
+          "line": "Age? I have seen forty two years of the red bird. My eldest brother"
+        },
+        {
+          "character": "TRACEY",
+          "line": "Their year of the red bird comes once every eleven years, which he's seen forty two times. Multiply it. Wu is four hundred and sixty two years old. His father is well over a thousand. Interested, Jim?"
+        },
+        {
+          "character": "KIRK",
+          "line": "McCoy could verify all that."
+        },
+        {
+          "character": "TRACEY",
+          "line": "He will if you order it. We must have a doctor researching this. Are you grasping all it means? This immunizing agent here, once we've found it, is a fountain of youth. Virtual immortality, or as much as any man will ever want."
+        },
+        {
+          "character": "KIRK",
+          "line": "For sale by"
+        },
+        {
+          "character": "TRACEY",
+          "line": "Out. By those who own the serum. McCoy will eventually isolate it. Meanwhile, you inform your ship your situation's impossible. Order them away. When we're ready, we'll bargain for a whole fleet of ships to pick us up. And they'll do it."
+        },
+        {
+          "character": "KIRK",
+          "line": "Yes, I suppose they would."
+        },
+        {
+          "character": "TRACEY",
+          "line": "We've got to stay alive. Let the Yangs kill us and destroy what we have to offer and we'll have committed a crime against all humanity. I'd say that's slightly more important than the Prime Directive, wouldn't you, Jim?"
+        },
+        {
+          "character": "KIRK",
+          "line": "It's a very interesting proposition. Let me think it over."
+        },
+        {
+          "character": "TRACEY",
+          "line": "Guards."
+        }
+      ],
+      "location": "Storeroom"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TRACEY",
+          "line": "Take the doctor back to his workplace. The pointed-eared one stays. And Wu, tell your men we'll be leaving soon. We'll be in ambush for the Yangs. With many fire boxes this time. What do you think of that, Jim?"
+        },
+        {
+          "character": "TRACEY",
+          "line": "Animals who happen to look like us. You still think the Prime Directive's for this planet?"
+        },
+        {
+          "character": "KIRK",
+          "line": "I don't think we have the right or the wisdom to interfere, however a planet is evolving."
+        },
+        {
+          "character": "TRACEY",
+          "line": "Well, if logic won't work, perhaps this will. Put him in there."
+        },
+        {
+          "character": "KIRK",
+          "line": "Don't they ever rest?"
+        },
+        {
+          "character": "SPOCK",
+          "line": "Not that I have observed, Captain. Of course, should they wish to do so, one could always rest while the other keeps you occupied."
+        },
+        {
+          "character": "KIRK",
+          "line": "Thank you, Spock. At least tell me why you want to kill me."
+        },
+        {
+          "character": "SPOCK",
+          "line": "Good, Captain. Try to reason with them. Keep trying, Captain. Their behavior is highly illogical."
+        },
+        {
+          "character": "KIRK",
+          "line": "No point in repeating that it's illogical, Spock. I'm quite aware of it."
+        },
+        {
+          "character": "KIRK",
+          "line": "Pity you can't teach me that."
+        },
+        {
+          "character": "SPOCK",
+          "line": "I have tried, Captain. {Storeroom]"
+        },
+        {
+          "character": "MCCOY",
+          "line": "Oh, thank you. Thank you very much."
+        }
+      ],
+      "location": "Jailhouse"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "SPOCK",
+          "line": "Captain, I have managed to loosen this grill somewhat. If the mortar on yours is as old."
+        },
+        {
+          "character": "KIRK",
+          "line": "I can't even get at it. He'd be on me in a moment. Keep talking, Spock. Don't let me doze off."
+        },
+        {
+          "character": "SPOCK",
+          "line": "Captain Tracey mentioned there was once a considerable civilisation here. The only reasonable explanation would be a war. Nuclear devastation or a bacteriological holocaust."
+        },
+        {
+          "character": "KIRK",
+          "line": "That's a very interesting theory. The yellow civilisation is almost destroyed, the white civilisation is destroyed. Keep working on the window if we're ever going to regain our freedom."
+        },
+        {
+          "character": "CLOUD",
+          "line": "Freedom? Freedom?"
+        },
+        {
+          "character": "KIRK",
+          "line": "Spock."
+        },
+        {
+          "character": "SPOCK",
+          "line": "Yes, I heard, Captain."
+        },
+        {
+          "character": "CLOUD",
+          "line": "That is a worship word. Yang worship. You will not speak it."
+        },
+        {
+          "character": "KIRK",
+          "line": "Well, well, well. It is our worship word, too."
+        },
+        {
+          "character": "CLOUD",
+          "line": "You live with the Kohms."
+        },
+        {
+          "character": "KIRK",
+          "line": "Am I not now a prisoner of the Kohms as you are?"
+        },
+        {
+          "character": "KIRK",
+          "line": "Why did you not speak until now?"
+        },
+        {
+          "character": "CLOUD",
+          "line": "You spoke to Kohms. They are only for killing."
+        },
+        {
+          "character": "KIRK",
+          "line": "Spock, we'll have you out in a minute."
+        },
+        {
+          "character": "SPOCK",
+          "line": "Captain? Captain? Captain, are you able to respond?"
+        },
+        {
+          "character": "KIRK",
+          "line": "Spock. How long?"
+        },
+        {
+          "character": "SPOCK",
+          "line": "Seven hours and eight minutes, Captain."
+        },
+        {
+          "character": "KIRK",
+          "line": "Seven hours and eight. Spock. Keys. I'll have you out in a minute."
+        }
+      ],
+      "location": "Jailhouse"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "MCCOY",
+          "line": "Good morning, Jim."
+        },
+        {
+          "character": "KIRK",
+          "line": "Good morning."
+        },
+        {
+          "character": "SPOCK",
+          "line": "We can contact the ship in a few moments, Captain, if I can cross-circuit this unit."
+        },
+        {
+          "character": "KIRK",
+          "line": "Good. Did you find out anything?"
+        },
+        {
+          "character": "MCCOY",
+          "line": "Yes. I'm convinced that once there was a frightening biological war that existed here. The virus still exists. Then over the years, nature built up these natural immunizing agents in the food, the water, and the soil."
+        },
+        {
+          "character": "SPOCK",
+          "line": "War created an imbalance and nature counterbalanced it."
+        },
+        {
+          "character": "KIRK",
+          "line": "There is a disease here, something that affected the Exeter landing party and us."
+        },
+        {
+          "character": "MCCOY",
+          "line": "That's right. These immunizing agents take time, and that's the real tragedy. Had the Exeter landing party stayed here just a few hours longer, they never would have died."
+        },
+        {
+          "character": "KIRK",
+          "line": "Then we can leave any time we want to. Tracey is of the opinion these immunizing agents can become a fountain of youth. There are people here over a thousand years old, Bones."
+        },
+        {
+          "character": "MCCOY",
+          "line": "Survival of the fittest, because their ancestors who survived had to have a superior resistance. Then they built up these powerful protective antibodies in the blood during the wars. Now, if you want to destroy a civilisation or a whole world, your descendants might develop a longer life, but I hardly think it's worth it."
+        },
+        {
+          "character": "KIRK",
+          "line": "Then anything you develop here as a result of all this is useless."
+        },
+        {
+          "character": "MCCOY",
+          "line": "Who knows? It might eventually cure the common cold, but lengthen lives? Poppycock. I can do more for you if you just eat right and exercise regularly."
+        },
+        {
+          "character": "SPOCK",
+          "line": "Ready, Captain. Quite crude. Voice communication will not be possible, but we can signal the ship."
+        },
+        {
+          "character": "KIRK",
+          "line": "All that bloodshed for nothing. That'll be sufficient, Mister Spock."
+        },
+        {
+          "character": "TRACEY",
+          "line": "No messages. Kirk, the savage in the cell with you. Did you set him free? You sent him, Kirk. You sent him to warn the tribes! The Yangs must've been warned. They sacrificed hundreds just to draw us out in the open. And then they came, and they came. We drained four of our phasers, and they still came. We killed thousands and they still came."
+        },
+        {
+          "character": "MCCOY",
+          "line": "He'll live, but I'll have to get him to better facilities than this."
+        },
+        {
+          "character": "TRACEY",
+          "line": "Impossible! You can't carry the disease up to the ship with you."
+        },
+        {
+          "character": "MCCOY",
+          "line": "He's fully immunized now. We all are."
+        },
+        {
+          "character": "KIRK",
+          "line": "We can beam up at any time. Any of us."
+        },
+        {
+          "character": "TRACEY",
+          "line": "You've isolated the serum?"
+        },
+        {
+          "character": "KIRK",
+          "line": "There's no serum! There are no miracles! There's no immortality here! All this is for nothing!"
+        },
+        {
+          "character": "TRACEY",
+          "line": "Explain it to him, Doctor."
+        },
+        {
+          "character": "MCCOY",
+          "line": "Leave medicine to medical men, Captain. You found no fountain of youth here. People live longer here now because it's natural for them to."
+        },
+        {
+          "character": "TRACEY",
+          "line": "Outside. Or I'll burn down both your friends now."
+        },
+        {
+          "character": "KIRK",
+          "line": "Do what you can for him, Doctor."
+        }
+      ],
+      "location": "Storeroom"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "KIRK",
+          "line": "Where is everybody?"
+        },
+        {
+          "character": "TRACEY",
+          "line": "Dead or in hiding. Now let's see how eager you are to die. Call your ship. I need your help, Kirk. They're going to attack the village. My phaser's almost drained. We need new, fresh ones. You're not just going to stand there and let them kill you, are you? If I put a weapon in your hand you'll fight, won't you?"
+        },
+        {
+          "character": "KIRK",
+          "line": "We can beam up, Tracey. All of us."
+        },
+        {
+          "character": "TRACEY",
+          "line": "I want five phasers. No, ten. With three extra power packs each."
+        },
+        {
+          "character": "KIRK",
+          "line": "All right. Kirk to Enterprise."
+        }
+      ],
+      "location": "Village"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "UHURA",
+          "line": "Captain, are you all right now?"
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "KIRK",
+          "line": "Yes, quite all right. I'd like ten phasers beamed down with three extra power packs, please. Have you got that?"
+        },
+        {
+          "character": "TRACEY",
+          "line": "Say again."
+        },
+        {
+          "character": "KIRK",
+          "line": "Enterprise, do you read me?"
+        }
+      ],
+      "location": "Village"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "SULU",
+          "line": "Captain, this is Sulu. We read you, but surely you know that can't be done"
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "SULU",
+          "line": "Without verification.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "KIRK",
+          "line": "Not even if we're in danger, Mister Sulu?"
+        }
+      ],
+      "location": "Village"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "SULU",
+          "line": "Captain, we have volunteers standing by to beam down. What is your situation?"
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "KIRK",
+          "line": "The situation is not immediately dangerous. Have the volunteers stand by. Kirk out."
+        },
+        {
+          "character": "TRACEY",
+          "line": "You have a well-trained bridge crew, Captain. My compliments."
+        }
+      ],
+      "location": "Village"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "KIRK",
+          "line": "Spock?"
+        },
+        {
+          "character": "SPOCK",
+          "line": "I'm weak, Captain, but not in difficulty."
+        },
+        {
+          "character": "MCCOY",
+          "line": "He must have attention soon."
+        },
+        {
+          "character": "SPOCK",
+          "line": "My need for attention is vital, Doctor, but our need for departure is even more immediate."
+        },
+        {
+          "character": "KIRK",
+          "line": "If my ancestors were forced out of the cities into the deserts, the hills"
+        },
+        {
+          "character": "SPOCK",
+          "line": "Yes. I see, Captain. They would've learned to wear skins, adopted stoic mannerisms, learned the bow and the lance."
+        },
+        {
+          "character": "KIRK",
+          "line": "Living like the Indians, and finally even looking like the American Indian. American. Yangs? Yanks? Spock, Yankees!"
+        },
+        {
+          "character": "SPOCK",
+          "line": "Kohms? Communists? The parallel is almost too close, Captain. It would mean they fought the war your Earth avoided, and in this case, the Asiatics won and took over this planet."
+        },
+        {
+          "character": "KIRK",
+          "line": "But if it were true, all these generations of Yanks fighting to regain their land."
+        },
+        {
+          "character": "MCCOY",
+          "line": "You're a romantic, Jim."
+        },
+        {
+          "character": "CLOUD",
+          "line": "That which is ours is ours again. It will never be taken from us again."
+        },
+        {
+          "character": "TRACEY",
+          "line": "They can be handled, Jim. Together it'll be easy. I caution you, gentlemen, don't fight me here. I'll win. Or at worst, I'll drag you down with me."
+        },
+        {
+          "character": "CLOUD",
+          "line": "I am Cloud William, chief. Also son of chief. Guardian of the holies, speaker of the holy words, leader of warriors. Many have died, but this is the last of the Kohm places. What is ours is ours again."
+        },
+        {
+          "character": "CLOUD",
+          "line": "Aypledgli ianectu flaggen tupep kile for stahn"
+        },
+        {
+          "character": "KIRK",
+          "line": "And to the republic for which it stands, one nation under God, indivisible, with liberty and justice for all."
+        },
+        {
+          "character": "ELDER",
+          "line": "He spoke the holy word."
+        },
+        {
+          "character": "CLOUD",
+          "line": "You know many of our high-worship words. How?"
+        },
+        {
+          "character": "KIRK",
+          "line": "In my land we have a tribe like you."
+        },
+        {
+          "character": "CLOUD",
+          "line": "Where is your tribe?"
+        },
+        {
+          "character": "KIRK",
+          "line": "Up there. One of those points of light that you see at night."
+        },
+        {
+          "character": "ELDER",
+          "line": "Why are you here? Were you cast out?"
+        },
+        {
+          "character": "KIRK",
+          "line": "You're confusing the stars with heaven."
+        },
+        {
+          "character": "TRACEY",
+          "line": "He was cast out! Don't you recognize the Evil One? Who else would trick you with your own sacred words? Let your God strike me dead if I lie. But he won't, because I speak for him."
+        },
+        {
+          "character": "CLOUD",
+          "line": "Yet you killed many Yangs."
+        },
+        {
+          "character": "TRACEY",
+          "line": "You tried to kill me."
+        },
+        {
+          "character": "KIRK",
+          "line": "We're not gods! We're not evil ones. We're men, like yourselves."
+        },
+        {
+          "character": "TRACEY",
+          "line": "Would a man know your holy words? Would a man use them to trick you? See his servant? His face, his eyes, his ears? Do the Yang legends describe this servant of the evil one?"
+        },
+        {
+          "character": "KIRK",
+          "line": "Are your faces alike? Can you tell from them which of you is good and which of you is evil?"
+        },
+        {
+          "character": "TRACEY",
+          "line": "You command him. Everyone's seen that. You want more proof? He has no heart."
+        },
+        {
+          "character": "MCCOY",
+          "line": "His heart is different! The internal organs of a Vulcan are"
+        },
+        {
+          "character": "CLOUD",
+          "line": "Bring him."
+        },
+        {
+          "character": "CLOUD",
+          "line": "He has no heart."
+        },
+        {
+          "character": "ELDER",
+          "line": "One of them lies."
+        },
+        {
+          "character": "CLOUD",
+          "line": "But which? If we should kill the good, evil would be among us."
+        },
+        {
+          "character": "ELDER",
+          "line": "There is a way."
+        },
+        {
+          "character": "CLOUD",
+          "line": "Greatest of holies. Chiefs and sons of chiefs may speak the words, but the Evil One's tongue would surely turn to fire. I will begin. You shall finish. Ee'dplebnista norkohn forkohn perfectunun."
+        },
+        {
+          "character": "KIRK",
+          "line": "Those words are familiar. Wait a moment."
+        },
+        {
+          "character": "TRACEY",
+          "line": "He fears to speak them, for indeed his tongue would burn with fire. Force him! Kill his servant unless he speaks, so you may see if the words burn him."
+        },
+        {
+          "character": "KIRK",
+          "line": "No, wait! There's a better way. Does not your sacred book promise that good is stronger than evil?"
+        },
+        {
+          "character": "SIRAH",
+          "line": "Yes, it is written. Good shall always destroy evil."
+        },
+        {
+          "character": "ELDER",
+          "line": "It is written."
+        },
+        {
+          "character": "CLOUD",
+          "line": "The fight is done when one is dead."
+        },
+        {
+          "character": "MCCOY",
+          "line": "Spock, I've found that evil usually triumphs unless good is very, very careful."
+        },
+        {
+          "character": "CLOUD",
+          "line": "Hoola!"
+        },
+        {
+          "character": "MCCOY",
+          "line": "Spock, we've got to do something!"
+        },
+        {
+          "character": "SPOCK",
+          "line": "I am open to suggestions, Doctor."
+        },
+        {
+          "character": "MCCOY",
+          "line": "What are you doing?"
+        },
+        {
+          "character": "SPOCK",
+          "line": "I'm making a suggestion."
+        },
+        {
+          "character": "CLOUD",
+          "line": "Kill him. It is written. Good must destroy evil."
+        },
+        {
+          "character": "SULU",
+          "line": "Sir, we picked up communicator signals, but"
+        },
+        {
+          "character": "KIRK",
+          "line": "We'll diskuss that later, Lieutenant. Leslie, free Doctor McCoy and Mister Spock. Put Captain Tracey under arrest."
+        },
+        {
+          "character": "SULU",
+          "line": "Aye, sir."
+        },
+        {
+          "character": "KIRK",
+          "line": "Now, Cloud William."
+        },
+        {
+          "character": "CLOUD",
+          "line": "You are a great God servant. We are your slaves. KIRK; Get up. Face me."
+        },
+        {
+          "character": "CLOUD",
+          "line": "When you would not say the holy words, of the Ee'd Plebnista, I doubted you."
+        },
+        {
+          "character": "KIRK",
+          "line": "I did not recognize those words, you said them so badly, Without meaning."
+        },
+        {
+          "character": "ELDER",
+          "line": "No! No! Only the eyes of a chief may see the Ee'd Plebnista."
+        },
+        {
+          "character": "KIRK",
+          "line": "This was not written for chiefs. Hear me! Hear this! Among my people, we carry many such words as this from many lands, many worlds. Many are equally good and are as well respected, but wherever we have gone, no words have said this thing of importance in quite this way. Look at these three words written larger than the rest, with a special pride never written before or since. Tall words proudly saying We the People. That which you call Ee'd Plebnista was not written for the chiefs or the kings or the warriors or the rich and powerful, but for all the people! Down the centuries, you have slurred the meaning of the words, 'We, the people of the United States, in order to form a more perfect union, establish justice, ensure domestic tranquility, provide for the common defense, promote the general welfare, and secure the blessings of liberty to ourselves and our posterity, do ordain and establish this constitution.' These words and the words that follow were not written only for the Yangs, but for the Kohms as well!"
+        },
+        {
+          "character": "CLOUD",
+          "line": "The Kohms?"
+        },
+        {
+          "character": "KIRK",
+          "line": "They must apply to everyone or they mean nothing! Do you understand?"
+        },
+        {
+          "character": "CLOUD",
+          "line": "I do not fully understand, one named Kirk. But the holy words will be obeyed. I swear it."
+        },
+        {
+          "character": "SPOCK",
+          "line": "There's no question about his guilt, Captain, but does our involvement here also constitute a violation of the Prime Directive?"
+        },
+        {
+          "character": "KIRK",
+          "line": "We merely showed them the meaning of what they were fighting for. Liberty and freedom have to be more than just words."
+        },
+        {
+          "character": "KIRK",
+          "line": "Gentlemen, the fighting is over here. I suggest we leave them to diskover their history and their liberty."
+        }
+      ],
+      "location": "Meeting hall"
+    }
+  ],
+  "schedule": {
+    "episode": 25,
+    "number": 54,
+    "season": 2
+  },
+  "stardate": "Unknown",
+  "title": "The Omega Glory"
+}

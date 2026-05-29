@@ -1,0 +1,1101 @@
+{
+  "airdate": 122976000,
+  "scenes": [
+    {
+      "dialogue": [
+        {
+          "character": "KIRK",
+          "line": "Captain's log, stardate 52.2. We have just entered the Delta Triangle, a vast, uninhabited sector of our galaxy in which a high number of mysterious disappearances of starships have been recorded since ancient times. The Enterprise has been assigned the mission of surveying this area, and if possible, determining the cause of these disappearances.",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "unknown"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "KIRK",
+          "line": "Situation, Mister Spock."
+        },
+        {
+          "character": "SPOCK",
+          "line": "Our sensors are in a state of chaos, Captain. They became unreliable when we entered the Triangle."
+        },
+        {
+          "character": "KIRK",
+          "line": "Magnification ten on forward scanners, Mister Sulu."
+        },
+        {
+          "character": "SULU",
+          "line": "Magnification ten, sir."
+        },
+        {
+          "character": "KIRK",
+          "line": "Klingon battle cruiser. Deflector shields up, Mister Sulu."
+        },
+        {
+          "character": "SULU",
+          "line": "Deflectors up, sir."
+        },
+        {
+          "character": "KIRK",
+          "line": "Lieutenant Uhura, open a hailing frequency."
+        },
+        {
+          "character": "KIRK",
+          "line": "Ready phasers."
+        },
+        {
+          "character": "SULU",
+          "line": "Phasers locked on target, sir."
+        },
+        {
+          "character": "KIRK",
+          "line": "Fire."
+        },
+        {
+          "character": "SULU",
+          "line": "Firing phasers."
+        },
+        {
+          "character": "KIRK",
+          "line": "Mister Spock, did you see what I think I just saw?"
+        },
+        {
+          "character": "SPOCK",
+          "line": "Yes, Captain."
+        },
+        {
+          "character": "KIRK",
+          "line": "Explanation?"
+        },
+        {
+          "character": "SPOCK",
+          "line": "I can offer none at this time. However, the Klingon ship was not destroyed by our phaser fire. Its shields clearly deflected the phasers. Nor was its disappearance the type that would have been affected if it were using its cloaking device."
+        },
+        {
+          "character": "KIRK",
+          "line": "Any sensor analysis on that wavering effect just before the ship disappeared?"
+        },
+        {
+          "character": "SPOCK",
+          "line": "The sensors are still not registering normally, sir. But I would venture the theory it has something to do with the many ship disappearances in this area."
+        },
+        {
+          "character": "KIRK",
+          "line": "A natural phenomenon. But what? Duty personnel on Yellow Alert. Visual scan three hundred and sixty degrees, Mister Sulu."
+        },
+        {
+          "character": "SULU",
+          "line": "Scanning three hundred and sixty degrees, sir."
+        },
+        {
+          "character": "KIRK",
+          "line": "Mousetrapped. If the first ship doesn't succeed in blasting us out of existence, they have two backup ships to do the job."
+        },
+        {
+          "character": "SPOCK",
+          "line": "Tactically well planned. When the Federation investigates, we'll be recorded as just another mysterious starship disappearance."
+        },
+        {
+          "character": "UHURA",
+          "line": "Captain, we are receiving a class two signal from the lead Klingon vessel."
+        },
+        {
+          "character": "KIRK",
+          "line": "One moment, Lieutenant. Mister Sulu, on my command, I want you to turn the Enterprise and head for the exact co-ordinates where the Klingon ship disappeared. Warp eight."
+        },
+        {
+          "character": "SULU",
+          "line": "Yes, sir."
+        },
+        {
+          "character": "KIRK",
+          "line": "Put the signal on the main viewing screen, Lieutenant, and pipe the entire exchange back to Starfleet Command."
+        },
+        {
+          "character": "UHURA",
+          "line": "It will take three weeks to reach the nearest starbase, sir."
+        },
+        {
+          "character": "KIRK",
+          "line": "Nonetheless, let's have it on the record."
+        },
+        {
+          "character": "UHURA",
+          "line": "Aye, sir. Signal in."
+        },
+        {
+          "character": "KURI",
+          "line": "You have been identified as the starship Enterprise. Captain James T Kirk last known to be in command.",
+          "modifier": "screen"
+        },
+        {
+          "character": "KIRK",
+          "line": "Your information is correct. This is Captain Kirk."
+        },
+        {
+          "character": "KURI",
+          "line": "I am Commander Kuri of the Klingon Imperial Fleet. We have witnessed the destruction of our sister ship, the Klothos, and hold you responsible. Surrender immediately or we will destroy you.",
+          "modifier": "screen"
+        },
+        {
+          "character": "KIRK",
+          "line": "We did not destroy the Klothos, and you are well aware of it, Commander."
+        },
+        {
+          "character": "KURI",
+          "line": "Surely you don't expect me to believe she just vanished?",
+          "modifier": "screen"
+        },
+        {
+          "character": "KIRK",
+          "line": "You may believe what you like, Commander. We were fired upon first and returned fire. The Klothos deflectors turned aside our phaser fire and then disappeared. I don't know why. But we are in the Delta Triangle."
+        },
+        {
+          "character": "KURI",
+          "line": "I do not accept this.",
+          "modifier": "screen"
+        },
+        {
+          "character": "KIRK",
+          "line": "Frankly, Commander, what you accept is of little importance to me. Enterprise out. Now, Mister Sulu."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "KURI",
+          "line": "What fools! Thinking they can escape. Accelerate to maximum and prepare to open fire."
+        }
+      ],
+      "location": "Klingon ship"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "SCOTT",
+          "line": "Sir, aren't we going to defend ourselves?"
+        },
+        {
+          "character": "KIRK",
+          "line": "Your deflector shields are doing that for us, Mister Scott."
+        },
+        {
+          "character": "SCOTT",
+          "line": "But to just turn and run, sir."
+        },
+        {
+          "character": "KIRK",
+          "line": "We'll fight if we have to. Sulu, are we headed for the exact co-ordinates where the Klothos disappeared?"
+        },
+        {
+          "character": "SULU",
+          "line": "Dead on, sir. We'll be there in ten seconds."
+        },
+        {
+          "character": "SCOTT",
+          "line": "Captain, our deflector shields have just gone out."
+        },
+        {
+          "character": "SULU",
+          "line": "Sir, the instruments. They've gone haywire. I can't orient myself. Everything is"
+        },
+        {
+          "character": "UHURA",
+          "line": "Subspace radio channels are dead, sir."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "KURI",
+          "line": "Where did they go?"
+        }
+      ],
+      "location": "Klingon ship"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "UHURA",
+          "line": "Captain, I've lost all co-ordination. Dizzy."
+        },
+        {
+          "character": "SPOCK",
+          "line": "Sir, we seem to be suffering from some form of vertigo."
+        },
+        {
+          "character": "KIRK",
+          "line": "Sulu, are we still on the same co-ordinates?"
+        },
+        {
+          "character": "SULU",
+          "line": "I can't tell, sir. Vision won't focus."
+        },
+        {
+          "character": "SPOCK",
+          "line": "Captain, on the viewscreen."
+        },
+        {
+          "character": "KIRK",
+          "line": "It's like a vast Sargasso Sea. A graveyard of ships from every civilisation imaginable."
+        },
+        {
+          "character": "UHURA",
+          "line": "Where are we, sir?"
+        },
+        {
+          "character": "KIRK",
+          "line": "At another place in time, I think. If we check closely, I believe we'll find many of those ships are the ones designated as lost in the Delta Triangle."
+        },
+        {
+          "character": "UHURA",
+          "line": "An alternate universe?"
+        },
+        {
+          "character": "KIRK",
+          "line": "Something corresponding to that. The records say every ship lost here vanished without a trace. Most logged communication loss and disorientation just before disappearance. My guess was they entered a window to some other continuum. Comments, Spock?"
+        },
+        {
+          "character": "SPOCK",
+          "line": "Your logic is excellent, Captain. There is a random factor to the ship disappearances. Perhaps the touching of the two time continuums is erratic. In any event, the window stayed open long enough for us to follow the Klothos in."
+        },
+        {
+          "character": "SCOTT",
+          "line": "Aye, and where is that tricky devil?"
+        },
+        {
+          "character": "SULU",
+          "line": "I've been scanning for her, but there are so many ships here it's hard to pick up a specific trace."
+        },
+        {
+          "character": "KIRK",
+          "line": "Stay on it, Mister Sulu."
+        },
+        {
+          "character": "SULU",
+          "line": "Aye, sir."
+        },
+        {
+          "character": "SCOTT",
+          "line": "There are ships here I've only seen crude drawings of, pictures in museums."
+        },
+        {
+          "character": "SPOCK",
+          "line": "Sensor scans give a rough approximation of the age of the metal in the hulls, Captain. Some of them have been here for centuries."
+        },
+        {
+          "character": "SCOTT",
+          "line": "Captain, there's the old Bonaventure. She was the first ship to have warp drive installled. She vanished without a trace on her third voyage."
+        },
+        {
+          "character": "SPOCK",
+          "line": "The crew's descendants may still be living, Captain."
+        },
+        {
+          "character": "KIRK",
+          "line": "Their descendants?"
+        },
+        {
+          "character": "SPOCK",
+          "line": "Yes. I am picking up life and energy readings from the cluster of ships ahead of us."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "KAZ",
+          "line": "Scanners indicate the Enterprise shields are totally depleted, sir."
+        },
+        {
+          "character": "KOR",
+          "line": "Good. All hands to battle stations. Prepare to open fire on the Enterprise immediately."
+        }
+      ],
+      "location": "Klothos Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "SULU",
+          "line": "Captain, the Klothos, dead ahead."
+        },
+        {
+          "character": "KIRK",
+          "line": "Sound Red Alert. Phasers lock on target."
+        },
+        {
+          "character": "SULU",
+          "line": "Aye, sir. Phasers locked on."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "KOR",
+          "line": "Fire!"
+        },
+        {
+          "character": "KAZ",
+          "line": "Sir, our weaponry is frozen."
+        }
+      ],
+      "location": "Klothos Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "KIRK",
+          "line": "Fire."
+        },
+        {
+          "character": "SULU",
+          "line": "Firing phasers."
+        },
+        {
+          "character": "KIRK",
+          "line": "Report, sir."
+        },
+        {
+          "character": "SULU",
+          "line": "No response, sir. There's no indication of damage. All instruments register normal."
+        },
+        {
+          "character": "KIRK",
+          "line": "Captain's log, supplemental. First Officer Spock recording. We appear to be in an alternate universe. Position, undetermined. Captain Kirk has been transported from the ship by an unknown power. His present location also is undetermined.",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "XERIUS",
+          "line": "That will not be needed here, Commander Kor."
+        },
+        {
+          "character": "XERIUS",
+          "line": "Welcome to Elysia. Devna, Interpreter of Laws. DEVNA Gentlemen, you now stand before the Ruling Council. Elysia is comprised of representatives of a hundred and twenty three races. Our existence dates back over one thousand years. During this time, these diverse races, many of whom were enemies on the outside, have learned to live together because they must. As a result, any act of violence is strictly forbidden, and will be dealt with swiftly and with utmost severity. Questions?"
+        },
+        {
+          "character": "KIRK",
+          "line": "Are we in an alternate universe?"
+        },
+        {
+          "character": "DEVNA",
+          "line": "It is more aptly described as a pocket in the garment of time."
+        },
+        {
+          "character": "KOR",
+          "line": "How did you freeze my weaponry?"
+        },
+        {
+          "character": "DEVNA",
+          "line": "We have among us many individuals gifted with psionic powers, peace being our single goal. You were attempting to break that peace."
+        },
+        {
+          "character": "XERIUS",
+          "line": "Pronounce the law."
+        },
+        {
+          "character": "DEVNA",
+          "line": "Under our law, you as ship captains are responsible for the behavior of your crews. Should a crew member, with or without your knowledge, engage in any form of violence whatsoever, you will suffer the ultimate penalty. Total immobilization of your ship for a century."
+        },
+        {
+          "character": "KOR",
+          "line": "A century? We'd all be dead by the end of it."
+        },
+        {
+          "character": "XERIUS",
+          "line": "No, Commander Kor. This small universe of ours is a curios trap. Time passes here, but very slowly. A century means nothing to us. Our Council appears young. Yet all are centuries old."
+        },
+        {
+          "character": "KIRK",
+          "line": "Your life here must be almost perfect, if you haven't wanted to leave."
+        },
+        {
+          "character": "XERIUS",
+          "line": "All of us have wanted to leave at some time, Captain Kirk. But we have made the best possible world here, because we have found there is no escape from it."
+        }
+      ],
+      "location": "Council chamber"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "KIRK",
+          "line": "We are getting out."
+        },
+        {
+          "character": "SCOTT",
+          "line": "Then we'd better do it pretty quick, Captain."
+        },
+        {
+          "character": "SPOCK",
+          "line": "If we find an answer, it will still take time."
+        },
+        {
+          "character": "SCOTT",
+          "line": "That's just what we haven't got."
+        },
+        {
+          "character": "KIRK",
+          "line": "What's wrong, Scotty?"
+        },
+        {
+          "character": "SCOTT",
+          "line": "It's our dilithium crystals, sir. They're deteriorating rapidly."
+        },
+        {
+          "character": "KIRK",
+          "line": "But how?"
+        },
+        {
+          "character": "SCOTT",
+          "line": "I don't know, sir. Maybe because of the time warp we went through. But we've only four days at the most before power goes."
+        },
+        {
+          "character": "KIRK",
+          "line": "Got any miracles in your computer, Spock?"
+        },
+        {
+          "character": "SPOCK",
+          "line": "Impossible to predict, Captain."
+        },
+        {
+          "character": "KIRK",
+          "line": "I don't want a prediction. You will start work immediately, around the clock, nonstop, until you arrive at a formula that gets us out of here."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "KOR",
+          "line": "These computations are useless. Get out of here and don't come back until you have a plan that works."
+        },
+        {
+          "character": "KAZ",
+          "line": "Yes, sir."
+        }
+      ],
+      "location": "Klothos Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "DEVNA",
+          "line": "What do you see beyond your eyes, Magen?"
+        },
+        {
+          "character": "MAGEN",
+          "line": "Two new ships. In each, beings labor to solve the riddle. The riddle of the time trap escape. Escape."
+        },
+        {
+          "character": "DEVNA",
+          "line": "Gently, good Magen. Return to us now."
+        },
+        {
+          "character": "XERIUS",
+          "line": "It is impossible."
+        },
+        {
+          "character": "DEVNA",
+          "line": "They must try, Xerius. They all must try before they accept."
+        }
+      ],
+      "location": "Council chamber"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "KIRK",
+          "line": "This is the best you could come up with, Mister Spock?"
+        },
+        {
+          "character": "SPOCK",
+          "line": "Yes, sir."
+        },
+        {
+          "character": "KIRK",
+          "line": "Have you covered every possibility? Every factor?"
+        },
+        {
+          "character": "SPOCK",
+          "line": "Several times, Captain. I do not wish to surrender hope, but the facts remain unchangeable."
+        },
+        {
+          "character": "KIRK",
+          "line": "He isn't giving up. If they can do it, why can't we?"
+        },
+        {
+          "character": "SPOCK",
+          "line": "I do not believe they can, sir. High rank probability. Their S2 graf unit, which is roughly the equivalent of our warp drive, began giving off depleted energy readings. Kor decided to try to bluff it through."
+        },
+        {
+          "character": "KIRK",
+          "line": "Jeopardizing his crew and his ship unnecessarily?"
+        }
+      ],
+      "location": "Briefing room"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "KAZ",
+          "line": "All power has been diverted to the engines, sir. We're picking up speed."
+        }
+      ],
+      "location": "Klothos Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "KIRK",
+          "line": "You were right, Spock. But I almost wish they'd made it."
+        },
+        {
+          "character": "SPOCK",
+          "line": "Their attempt has given me an idea as to how we may be able to break through the time barrier."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "KIRK",
+          "line": "Mister Spock has come up with a formula which may just get us out of here."
+        },
+        {
+          "character": "SCOTT",
+          "line": "But this involves combining our ship with the Klothos."
+        },
+        {
+          "character": "KIRK",
+          "line": "That is correct."
+        },
+        {
+          "character": "MCCOY",
+          "line": "You mean you want us to co-operate with those"
+        },
+        {
+          "character": "KIRK",
+          "line": "If we want to get out of here, it's our only choice."
+        },
+        {
+          "character": "SULU",
+          "line": "It's a complicated navigation problem, trying to guide two such disparate ships."
+        },
+        {
+          "character": "SCOTT",
+          "line": "Considering we only have two days left before our supply of dilithium crystals is exhausted, I say we go with this plan."
+        },
+        {
+          "character": "SULU",
+          "line": "I agree, sir."
+        },
+        {
+          "character": "KIRK",
+          "line": "Good. I'll contact Kor right away."
+        }
+      ],
+      "location": "Briefing room"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "XERIUS",
+          "line": "What is it?"
+        },
+        {
+          "character": "DEVNA",
+          "line": "These new ones. Now they plan to combine the two ships and try again. Can you not stop them, Xerius?"
+        },
+        {
+          "character": "XERIUS",
+          "line": "It is not against our laws to try to escape."
+        },
+        {
+          "character": "DEVNA",
+          "line": "But they may kill themselves in these mad attempts."
+        },
+        {
+          "character": "XERIUS",
+          "line": "So long as they do not break our laws, we must not impede them."
+        },
+        {
+          "character": "DEVNA",
+          "line": "Even if they die?"
+        },
+        {
+          "character": "XERIUS",
+          "line": "It is their choice."
+        }
+      ],
+      "location": "Council chamber"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "KIRK",
+          "line": "Then it's settled. Our science teams will get to work right away conjoining our warp and navigation systems so we will function as a single ship. Exchange of personnel and computer hookup to start as soon as we are beamed back to our ship."
+        },
+        {
+          "character": "KOR",
+          "line": "Agreed."
+        },
+        {
+          "character": "KIRK",
+          "line": "Mister Spock?"
+        },
+        {
+          "character": "SPOCK",
+          "line": "I cannot tell you how impressed I am by your splendid spirit of co-operation."
+        },
+        {
+          "character": "KOR",
+          "line": "Mister Spock!"
+        },
+        {
+          "character": "SPOCK",
+          "line": "Forgive me, Commander. I was overcome by the moment. Goodbye."
+        },
+        {
+          "character": "KOR",
+          "line": "Goodbye, Mister Spock. Captain Kirk."
+        },
+        {
+          "character": "KAZ",
+          "line": "The stories of his being half human must be true."
+        },
+        {
+          "character": "KOR",
+          "line": "Perhaps the time continuum affected his mind."
+        },
+        {
+          "character": "KAZ",
+          "line": "I wonder if we all haven't become affected."
+        },
+        {
+          "character": "KOR",
+          "line": "Explain yourself."
+        },
+        {
+          "character": "KAZ",
+          "line": "Your willingness to work with your old enemy, Kirk. It is not like you, Commander. What do you really have in mind?"
+        },
+        {
+          "character": "KOR",
+          "line": "You do know me, Kaz. Very well, what would you think if the Enterprise suddenly disintegrated after our dual ship had pierced the time continuum?"
+        },
+        {
+          "character": "KAZ",
+          "line": "I would think my commander had maneuverd brilliantly."
+        },
+        {
+          "character": "KOR",
+          "line": "And it can be arranged, practically speaking?"
+        },
+        {
+          "character": "KAZ",
+          "line": "It implies a rather high risk factor, given the time involved and Kirk's highly suspicious nature. But I believe it can be arranged."
+        },
+        {
+          "character": "KOR",
+          "line": "Very good, Kaz. I will leave it to you to attend to the details of the Enterprise's destruction."
+        },
+        {
+          "character": "KIRK",
+          "line": "Captain's log, stardate 5267.6. We are in the final stages preparatory to making our escape from Elysia.",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "Klothos briefing room"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "KIRK",
+          "line": "We must make our escape by tomorrow or our dilithium crystals will be too depleted, and we will be trapped here forever."
+        },
+        {
+          "character": "GABLER",
+          "line": "Beg your pardon, sir."
+        },
+        {
+          "character": "KIRK",
+          "line": "What is it, Gabler."
+        },
+        {
+          "character": "GABLER",
+          "line": "Bell and I are the relief guard for the dilithium vault. We arrived a few minutes late and found them poking around."
+        },
+        {
+          "character": "KLINGON",
+          "line": "We were lost."
+        },
+        {
+          "character": "GABLER",
+          "line": "Lost, my foot. It's clearly posted as a restricted area. You knew you weren't supposed to be there."
+        },
+        {
+          "character": "SPOCK",
+          "line": "Gentlemen, I'm sure there has been a mistake. Where are you supposed to be working?"
+        },
+        {
+          "character": "KLINGON",
+          "line": "Engineering, deck five."
+        },
+        {
+          "character": "SPOCK",
+          "line": "Captain, allow me to escort this young man to his work area."
+        },
+        {
+          "character": "KIRK",
+          "line": "Very well, Mister Spock."
+        },
+        {
+          "character": "KIRK",
+          "line": "Return to your post and don't leave it until you've been relieved."
+        },
+        {
+          "character": "GABLER",
+          "line": "Aye, sir."
+        },
+        {
+          "character": "MCCOY",
+          "line": "Jim, I'm worried about Spock. He's just not acting normal."
+        },
+        {
+          "character": "KIRK",
+          "line": "He's under a lot of pressure, Bones."
+        },
+        {
+          "character": "MCCOY",
+          "line": "I know that. But I've never known Spock to act like a pal under any circumstances, least of all toward Klingons."
+        },
+        {
+          "character": "KIRK",
+          "line": "That's true."
+        },
+        {
+          "character": "MCCOY",
+          "line": "And if he's coming apart, Jim, we're in serious trouble. Getting out of here hinges on his computations."
+        },
+        {
+          "character": "KIRK",
+          "line": "I'll talk to him, Bones. It's all I can do."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "KIRK",
+          "line": "Everything seems to be in order. But then you're the only person who can really be sure. Isn't that right, Spock?"
+        },
+        {
+          "character": "SPOCK",
+          "line": "Yes, Captain. Why do you ask?"
+        },
+        {
+          "character": "KIRK",
+          "line": "Your recent behavior. Is something wrong?"
+        },
+        {
+          "character": "SPOCK",
+          "line": "I believe there is, Captain. But not within me. I sensed something strange about the Klingons when we were aboard the Klothos. They were too agreeable, too willing to co-operate."
+        },
+        {
+          "character": "KIRK",
+          "line": "Why is that unusual? They want to get out of here as much as we do."
+        },
+        {
+          "character": "SPOCK",
+          "line": "Had I not touched them, I would have agreed with you, Captain. But even though contact was necessarily limited and their minds were suspicious, I picked up some indication they are planning to sabotage the Enterprise."
+        },
+        {
+          "character": "KIRK",
+          "line": "Sabotage! How? When?"
+        },
+        {
+          "character": "SPOCK",
+          "line": "I cannot say. The Klingon found near the dilithium vault knew nothing specific. But there is some kind of sabotage in the offing."
+        },
+        {
+          "character": "KIRK",
+          "line": "They need us to get through the time barrier, if they're to get through at all. Security, this is Captain Kirk. I want all security teams on duty around the clock. Watch every Klingon who sets foot aboard this ship. I don't want one of them to make a move we don't know about."
+        }
+      ],
+      "location": "Briefing room"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "KOR",
+          "line": "You have the device, Kaz?"
+        },
+        {
+          "character": "KAZ",
+          "line": "By my calculations, the capsule will be triggered the exact moment our dual ship reaches warp eight. Approximately three minutes after the time barrier is pierced and we have disengaged, the Enterprise will disintegrate."
+        },
+        {
+          "character": "KOR",
+          "line": "Excellent! Kali, you know what to do. Tonight they entertain us, but the gift they will receive in return will be their destruction."
+        }
+      ],
+      "location": "Klothos Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "KIRK",
+          "line": "Beautifully done."
+        },
+        {
+          "character": "DEVNA",
+          "line": "I thank you, Captain. You have seen the dance of Orion women before?"
+        },
+        {
+          "character": "KIRK",
+          "line": "Many times."
+        },
+        {
+          "character": "DEVNA",
+          "line": "I wish"
+        },
+        {
+          "character": "KIRK",
+          "line": "Yes?"
+        },
+        {
+          "character": "DEVNA",
+          "line": "I wish I could return through the time barrier and see Orion again."
+        },
+        {
+          "character": "KIRK",
+          "line": "You could go. We're willing to take passengers."
+        },
+        {
+          "character": "DEVNA",
+          "line": "No. You see, we have all seen the futility of attempting to escape. Once each of us dreamed of breaking free. Then we came to understand it could not be done, and we accepted our life here."
+        },
+        {
+          "character": "KIRK",
+          "line": "We believe it can be done."
+        },
+        {
+          "character": "DEVNA",
+          "line": "Then I shall not interfere with your dream, Captain."
+        },
+        {
+          "character": "KAZ",
+          "line": "Get away from here, human. This is my woman."
+        },
+        {
+          "character": "MCCOY",
+          "line": "Now just a minute. All I did was ask her to dance. She didn't have to say yes."
+        },
+        {
+          "character": "KIRK",
+          "line": "Bones!"
+        },
+        {
+          "character": "XERIUS",
+          "line": "Stop!"
+        },
+        {
+          "character": "XERIUS",
+          "line": "Ship captains and these two will come to the Council Chamber now to face charges."
+        }
+      ],
+      "location": "Rec room"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "XERIUS",
+          "line": "You know any form of violence is forbidden here. Your man began the fight and attempted to kill. I propose we freeze the Klothos and its crew for a star century."
+        },
+        {
+          "character": "KIRK",
+          "line": "May I speak?"
+        },
+        {
+          "character": "XERIUS",
+          "line": "You may."
+        },
+        {
+          "character": "KIRK",
+          "line": "Captain Kor and I were preparing to attempt an escape from here tomorrow. If you hibernate the Klothos, you will not only be punishing them but us. We cannot leave as a single ship. I urge you to permit our dual ship to depart tomorrow as scheduled."
+        },
+        {
+          "character": "XERIUS",
+          "line": "Getting back to your own time continuum is that important to you?"
+        },
+        {
+          "character": "KIRK",
+          "line": "Yes."
+        },
+        {
+          "character": "XERIUS",
+          "line": "You will fail."
+        },
+        {
+          "character": "KIRK",
+          "line": "We must try, Xerius. Elysia is, in many respects, a perfect society. But with all its virtues, it is not home. And home, with all its faults, is where we prefer to be."
+        },
+        {
+          "character": "XERIUS",
+          "line": "You would take these renegades with you?"
+        },
+        {
+          "character": "KIRK",
+          "line": "We need them."
+        },
+        {
+          "character": "XERIUS",
+          "line": "Very well. I release Captain Kor into your custody. Good luck to you, Captain Kirk. You will be needing it."
+        }
+      ],
+      "location": "Council chamber"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "KIRK",
+          "line": "Ready to accelerate to warp six."
+        },
+        {
+          "character": "SULU",
+          "line": "Ready, sir."
+        },
+        {
+          "character": "KIRK",
+          "line": "Three, two, one. Accelerate."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "MAGEN",
+          "line": "No! The Klingons have hidden an explosive aboard the Enterprise. She will be destroyed."
+        },
+        {
+          "character": "XERIUS",
+          "line": "Enterprise, this is Xerius! Come in, Enterprise."
+        }
+      ],
+      "location": "Council chamber"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "SULU",
+          "line": "Warp seven, Captain."
+        },
+        {
+          "character": "UHURA",
+          "line": "Sir, Xerius is calling us. He says it's urgent."
+        },
+        {
+          "character": "KIRK",
+          "line": "On audio, Lieutenant."
+        },
+        {
+          "character": "XERIUS",
+          "line": "Captain Kirk! The Klingons have placed and explosive in your computer room. Magen says it is located in the warp control panel.",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "XERIUS",
+          "line": "It will go off when you reach warp eight."
+        }
+      ],
+      "location": "Council chamber"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "KIRK",
+          "line": "Spock. Scotty."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "KAZ",
+          "line": "Approaching warp eight, sir."
+        },
+        {
+          "character": "KOR",
+          "line": "The barrier."
+        }
+      ],
+      "location": "Klothos Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "SCOTT",
+          "line": "There it is, sir."
+        }
+      ],
+      "location": "Computer room"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "UHURA",
+          "line": "Captain Kirk, I'm picking up a radio transmission Captain Kor intended for his home base. He took full credit for our escape from Elysia."
+        },
+        {
+          "character": "MCCOY",
+          "line": "Why, that scoundrel."
+        },
+        {
+          "character": "KIRK",
+          "line": "It doesn't matter, Bones."
+        },
+        {
+          "character": "UHURA",
+          "line": "It doesn't?"
+        },
+        {
+          "character": "KIRK",
+          "line": "That's what matters."
+        }
+      ],
+      "location": "Bridge"
+    }
+  ],
+  "schedule": {
+    "episode": 10,
+    "number": 10,
+    "season": 1
+  },
+  "stardate": "5267.6",
+  "title": "The Time Trap"
+}

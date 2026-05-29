@@ -1,0 +1,1787 @@
+{
+  "airdate": 579758400,
+  "scenes": [
+    {
+      "dialogue": [
+        {
+          "character": "unknown",
+          "line": "First officer's log, stardate 41986.0. We are awaiting the return of Captain Picard who was summoned to Starbase 718 for an emergency conference. Meanwhile, our sensors are monitoring an ancient capsule floating in our vicinity which appears to be from Earth."
+        }
+      ],
+      "location": "unknown"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "LAFORGE",
+          "line": "I wonder how it got out here."
+        },
+        {
+          "character": "WORF",
+          "line": "At its present speed and heading, it will eventually enter the Kazis binary system and will certainly be destroyed. I could attach a tractor beam and adjust its heading."
+        },
+        {
+          "character": "RIKER",
+          "line": "I think not, Mister Worf. It's just a piece of space debris. If we hadn't sitting here waiting for the Captain, we wouldn't have noticed it. Leave it be. Let nature take its course. How long until Captain Picard returns?"
+        },
+        {
+          "character": "WORF",
+          "line": "The last communication indicated it would be several hours."
+        },
+        {
+          "character": "DATA",
+          "line": "Commander, request permission to investigate this vehicle."
+        },
+        {
+          "character": "RIKER",
+          "line": "Why, Data? It's just a derelict."
+        },
+        {
+          "character": "DATA",
+          "line": "It is a piece of history. The opportunity to examine such an ancient vehicle does not come around very often, and as you pointed out, we do have the time."
+        },
+        {
+          "character": "RIKER",
+          "line": "Very well. Be prepared to beam back before the Captain returns."
+        },
+        {
+          "character": "DATA",
+          "line": "Thank you, sir."
+        },
+        {
+          "character": "RIKER",
+          "line": "Lieutenant Worf, go with him."
+        },
+        {
+          "character": "WORF",
+          "line": "Aye, sir."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "DATA",
+          "line": "Minimal oxygen atmosphere. An ancient solar generator, still operating."
+        },
+        {
+          "character": "WORF",
+          "line": "Commander, look at this."
+        },
+        {
+          "character": "DATA",
+          "line": "The on-board computers have ceased functioning. I may be able to download this old style disk drive back to the Enterprise."
+        },
+        {
+          "character": "WORF",
+          "line": "It must be sealed, probably with age."
+        },
+        {
+          "character": "DATA",
+          "line": "Not necessary."
+        }
+      ],
+      "location": "Derelict ship"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "DATA",
+          "line": "The seal was broken and the environment has been corrupted."
+        },
+        {
+          "character": "WORF",
+          "line": "Here's another."
+        },
+        {
+          "character": "DATA",
+          "line": "This one is empty."
+        },
+        {
+          "character": "WORF",
+          "line": "Commander, look at this."
+        },
+        {
+          "character": "WORF",
+          "line": "Were they frozen for an extended journey?"
+        },
+        {
+          "character": "DATA",
+          "line": "If that were the purpose, there would be evidence of a more sophisticated monitoring system. These containers were designed solely for refrigeration."
+        }
+      ],
+      "location": "Cryo chamber"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "LAFORGE",
+          "line": "The Captain's shuttle is approaching the main Shuttlebay, sir."
+        },
+        {
+          "character": "PICARD",
+          "line": "Enterprise, this is the Captain. Number One, I want to get underway as soon as the shuttle is secure.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "RIKER",
+          "line": "Aye, sir. We'll make all preparations. Commander Data, return to the Enterprise immediately."
+        },
+        {
+          "character": "DATA",
+          "line": "We have run into an unusual situation, sir. There are people on board. Frozen.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "RIKER",
+          "line": "Frozen. How many?"
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "DATA",
+          "line": "Three. The vehicle has suffered severe damage. Most of her systems have failed."
+        }
+      ],
+      "location": "Cryo chamber"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "RIKER",
+          "line": "Are you suggesting they be transferred to the Enterprise?"
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "DATA",
+          "line": "I do not believe we should leave them here, sir. With your permission, we will be returning with three containers."
+        },
+        {
+          "character": "RIKER",
+          "line": "Whatever you do, do it quickly.",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "Cryo chamber"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "PICARD",
+          "line": "Mister La Forge, set course zero five eight, mark one seven three."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Laying it in, sir."
+        },
+        {
+          "character": "PICARD",
+          "line": "Number One, I want a staff meeting on the observation deck."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Captain, those coordinates will take us right into the Neutral Zone."
+        },
+        {
+          "character": "PICARD",
+          "line": "That is correct, Mister La Forge. Warp factor eight."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Aye, sir. Warp eight."
+        },
+        {
+          "character": "PICARD",
+          "line": "Engage."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "PICARD",
+          "line": "Two Federation outposts in sector three zero have been destroyed. There's been no communication with Federation starbases in sector three one since stardate 41903.2."
+        },
+        {
+          "character": "WORF",
+          "line": "Romulans."
+        },
+        {
+          "character": "PICARD",
+          "line": "That's the assumption."
+        },
+        {
+          "character": "RIKER",
+          "line": "There's been no direct contact with the Romulans since the Tomed Incident."
+        },
+        {
+          "character": "PICARD",
+          "line": "The question are, why now? What's their objective? For fifty years there's barely a whisper out of them, and now for no apparent reason they seem to be back with a roar."
+        },
+        {
+          "character": "RIKER",
+          "line": "Everything we know about them is based on rumor or conjecture."
+        },
+        {
+          "character": "PICARD",
+          "line": "The strategic decision is to send one ship."
+        },
+        {
+          "character": "RIKER",
+          "line": "The Enterprise."
+        },
+        {
+          "character": "WORF",
+          "line": "We could get out there and find ourselves greatly over-matched."
+        },
+        {
+          "character": "PICARD",
+          "line": "True enough. It's a gamble."
+        },
+        {
+          "character": "RIKER",
+          "line": "This first encounter, coming so suddenly after all this time. We have to assume it's a setup."
+        },
+        {
+          "character": "PICARD",
+          "line": "If force is necessary, we will use it, but that will mean we have failed. Our goal here is to establish some kind of relations with the Romulans. If we don't succeed, then to convince them of our resolve. The general feeling at Starfleet is that they are seeking a confrontation. They may want to test themselves in battle against a Federation starship. See how far we have advanced. If that is the case, then I need to know it. Counselor, I shall need a full profile on them."
+        },
+        {
+          "character": "TROI",
+          "line": "There is limited information, but I will prepare something."
+        },
+        {
+          "character": "PICARD",
+          "line": "Computer, estimated arrival time at the Neutral Zone?"
+        },
+        {
+          "character": "COMPUTER",
+          "line": "Nineteen hours, twenty eight minutes."
+        },
+        {
+          "character": "PICARD",
+          "line": "Let's reassemble in six hours. Stay sharp. No surprises. I would rather outthink them than outfight them. Questions?"
+        }
+      ],
+      "location": "Observation lounge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "PICARD",
+          "line": "What is it, Doctor?"
+        },
+        {
+          "character": "CRUSHER",
+          "line": "It's the people from the capsule."
+        },
+        {
+          "character": "PICARD",
+          "line": "Capsule? People? What people?"
+        },
+        {
+          "character": "CRUSHER",
+          "line": "The people Data beamed over."
+        },
+        {
+          "character": "PICARD",
+          "line": "I wasn't aware that he had."
+        },
+        {
+          "character": "CRUSHER",
+          "line": "Well he did, and they were frozen. I thawed them."
+        },
+        {
+          "character": "PICARD",
+          "line": "You what?"
+        },
+        {
+          "character": "CRUSHER",
+          "line": "I didn't know what else to do. The crypts in which they were frozen were literally falling apart."
+        },
+        {
+          "character": "PICARD",
+          "line": "So what's their condition?"
+        },
+        {
+          "character": "CRUSHER",
+          "line": "Right now, they are all sleeping. Each of them needed minor medical attention. Minor now, but then their conditions were obviously terminal. One had a heart problem, another had an advanced case of emphysema with extensive liver damage. You know the most surprising thing of all, is that each of them had been frozen after they died."
+        },
+        {
+          "character": "PICARD",
+          "line": "After they died?"
+        },
+        {
+          "character": "CRUSHER",
+          "line": "Cryonics. It was a kind of fad in the late twentieth century. People feared dying. It terrified them. At the moment of death, they would be frozen, so that later, some time in the future, when presumably medical science had a cure for whatever killed them, they could be thawed back to life, healed, and sent on about their business."
+        },
+        {
+          "character": "PICARD",
+          "line": "In the case of this group, it apparently worked. Mister Data, will you report to Sickbay."
+        }
+      ],
+      "location": "Sickbay"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "PICARD",
+          "line": "Immediately.",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "PICARD",
+          "line": "Look, I am never critical of any member of my staff being curious, but it's just that the timing is so"
+        },
+        {
+          "character": "DATA",
+          "line": "I could not leave them there, Captain. The condition of their vehicle was deteriorating."
+        },
+        {
+          "character": "PICARD",
+          "line": "But Data, they were already dead. I mean, what more could have happened to them?"
+        },
+        {
+          "character": "DATA",
+          "line": "I see your point, Captain, but at the time it seemed the proper thing to do."
+        },
+        {
+          "character": "PICARD",
+          "line": "Well, they're alive now. We're going to have to treat them as living human beings."
+        },
+        {
+          "character": "CRUSHER",
+          "line": "Alive and well and ready to be awakened."
+        },
+        {
+          "character": "PICARD",
+          "line": "Before you wake them up, I want to have Security here. Lieutenant Worf, report to Sickbay."
+        },
+        {
+          "character": "CRUSHER",
+          "line": "I have them sedated now, but they should be up and about as soon as possible."
+        },
+        {
+          "character": "PICARD",
+          "line": "Well, then we have no other choice."
+        },
+        {
+          "character": "CRUSHER",
+          "line": "None that I can see."
+        },
+        {
+          "character": "PICARD",
+          "line": "Welcome to the twenty fourth century."
+        },
+        {
+          "character": "DATA",
+          "line": "I was able to retrieve some information from the ancient disk I removed from the module's computer. Her name is Clare Raymond, age thirty five, occupation homemaker. Must be some kind of construction work."
+        },
+        {
+          "character": "CRUSHER",
+          "line": "She died of an embolism. It probably happened very suddenly, otherwise her physical condition was excellent."
+        },
+        {
+          "character": "DATA",
+          "line": "His name is Ralph Offenhouse, age fifty five, occupation financier."
+        },
+        {
+          "character": "CRUSHER",
+          "line": "Advanced cardiomyopathy. Inoperable at the time, but easily correctable now. He must have known his condition was terminal for quite some time."
+        },
+        {
+          "character": "DATA",
+          "line": "Much of his file we could not retrieved. His name is L Q Sonny Clemonds. Apparently his occupation had something to do with music."
+        },
+        {
+          "character": "CRUSHER",
+          "line": "There was marked deterioration of every system in his body. Probably from massive chemical abuse. Unbelievable."
+        },
+        {
+          "character": "PICARD",
+          "line": "That sounds like someone who hated life. Yet he had himself frozen presumably so he could go through it all again."
+        },
+        {
+          "character": "CRUSHER",
+          "line": "Too afraid to live, too scared to die."
+        },
+        {
+          "character": "PICARD",
+          "line": "Doctor, this seems to be a situation more suited to your talents. I'll leave it with you. I'll be on the Bridge."
+        }
+      ],
+      "location": "Sickbay"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "PICARD",
+          "line": "Number One, kindly take charge of our guests until we have time to decide what we're going to do with them."
+        },
+        {
+          "character": "RIKER",
+          "line": "Aye, sir."
+        },
+        {
+          "character": "PICARD",
+          "line": "Number One, keep them out of my way."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "RIKER",
+          "line": "I know this is all very confusing to you so I'll attempt to explain. You are on the starship USS Enterprise."
+        },
+        {
+          "character": "RALPH",
+          "line": "American?"
+        },
+        {
+          "character": "RIKER",
+          "line": "No, it's a vessel of the United Federation of Planets, and Earth is a member."
+        },
+        {
+          "character": "RALPH",
+          "line": "What year is this?"
+        },
+        {
+          "character": "DATA",
+          "line": "By your calendar two thousand three hundred sixty four."
+        },
+        {
+          "character": "RALPH",
+          "line": "What? My heart, is it?"
+        },
+        {
+          "character": "CRUSHER",
+          "line": "It's perfectly fine. In fact, you are all now in excellent health."
+        },
+        {
+          "character": "RALPH",
+          "line": "It worked. I made it."
+        },
+        {
+          "character": "SONNY",
+          "line": "What is that?"
+        },
+        {
+          "character": "RIKER",
+          "line": "An android."
+        },
+        {
+          "character": "SONNY",
+          "line": "You mean a robot?"
+        },
+        {
+          "character": "DATA",
+          "line": "Actually there is a distinct difference between an android and a robot."
+        },
+        {
+          "character": "CLARE",
+          "line": "And him? The one I saw before, with the head?"
+        },
+        {
+          "character": "CRUSHER",
+          "line": "She means Worf."
+        },
+        {
+          "character": "RIKER",
+          "line": "He's a Klingon. That takes a little more explanation."
+        },
+        {
+          "character": "SONNY",
+          "line": "Now, listen, guys. I paid some idiot a lot of money to freeze me when I died, and I just got to hear the words. Am I alive?"
+        },
+        {
+          "character": "RIKER",
+          "line": "Oh, yes. Absolutely."
+        },
+        {
+          "character": "SONNY",
+          "line": "And the liver that was about to explode in my face?"
+        },
+        {
+          "character": "CRUSHER",
+          "line": "Perfectly sound."
+        },
+        {
+          "character": "CLARE",
+          "line": "Excuse me, could someone please tell me what's going on here?"
+        },
+        {
+          "character": "CRUSHER",
+          "line": "About three hundred and seventy years ago, you died of a massive embolism."
+        },
+        {
+          "character": "CLARE",
+          "line": "I don't remember anything about that."
+        },
+        {
+          "character": "CRUSHER",
+          "line": "You and the others were frozen."
+        },
+        {
+          "character": "SONNY",
+          "line": "Cryonics. You know, freeze you now and heal you later."
+        },
+        {
+          "character": "CLARE",
+          "line": "Yeah, I've heard of it. I just never gave it much thought. How did we get here?"
+        },
+        {
+          "character": "DATA",
+          "line": "You were in a space module."
+        },
+        {
+          "character": "SONNY",
+          "line": "The whacko who sold me this scam said that by putting us in orbit there weren't gonna be no chance of a brown out."
+        },
+        {
+          "character": "RALPH",
+          "line": "Yes, several cryonics companies fell into disrepute because of power failures which adversely affected their refrigeration system. Their stocks were severely depressed."
+        },
+        {
+          "character": "SONNY",
+          "line": "The whole deal was a long shot but I figured what the hell, might as well give them the dough instead of leaving it to my ex-wives. But you know, son, I figured it was all just a bunch of hooey."
+        },
+        {
+          "character": "DATA",
+          "line": "Hooey? Ah, as in hogwash, malarky, jive. An intentional fabrication."
+        },
+        {
+          "character": "SONNY",
+          "line": "There you go, now you got it."
+        },
+        {
+          "character": "RIKER",
+          "line": "Now, if you didn't contract for this, who did?"
+        },
+        {
+          "character": "CLARE",
+          "line": "It must have been my husband, Donald. If it was new and foolish, he would have popped for it. Well, I'll say this for it. It's the first thing he's ever bought into that worked."
+        },
+        {
+          "character": "RALPH",
+          "line": "I, for one, never had a doubt. My stock in this company must have split at least a dozen times by now."
+        },
+        {
+          "character": "DATA",
+          "line": "Actually, the process of cryonics was never more than a fad, and did not continue much beyond the mid-twenty first century."
+        },
+        {
+          "character": "RALPH",
+          "line": "I need to make a phone call as soon as possible."
+        },
+        {
+          "character": "RIKER",
+          "line": "A phone call?"
+        },
+        {
+          "character": "RALPH",
+          "line": "Yes. I have provided for myself. I have a substantial portfolio. It's critical that I check on it. Let the bank know that I am alive and well."
+        },
+        {
+          "character": "RIKER",
+          "line": "Ah, that's going to be a little difficult right at the moment."
+        },
+        {
+          "character": "RALPH",
+          "line": "Well, do you at least have a copy of The Wall Street Journal?"
+        },
+        {
+          "character": "RIKER",
+          "line": "I think we should take the Doctor's advice. Take this very slowly until we've all adjusted, and then we'll talk to the Captain."
+        }
+      ],
+      "location": "Guest lounge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TROI",
+          "line": "As you know, there is very little available on the Romulans."
+        },
+        {
+          "character": "PICARD",
+          "line": "Counselor, anything would be helpful."
+        },
+        {
+          "character": "TROI",
+          "line": "They seem to be creatures of extremes. One moment violent beyond description, the next tender. They are related to the Vulcans, but as each race developed, their differences grew wider. They are intensely curious. Their belief in their own superiority is beyond arrogance. For some reason they have exhibited a fascination with humans and it is that fascination, more than anything else, that has kept the peace. One other thing. They will not initiate anything. They will wait for you to commit yourself."
+        },
+        {
+          "character": "PICARD",
+          "line": "Counter-punchers. Thank you, Counselor. That's quite valuable."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "DATA",
+          "line": "Talk."
+        },
+        {
+          "character": "SONNY",
+          "line": "I'd like me a thick Kansas City steak, and some country fried potatoes, and a mess of greens. Oh, hell, just forget all that and give me have a martini, straight up, with two olives. For the vitamins."
+        },
+        {
+          "character": "DATA",
+          "line": "Is there something wrong?"
+        },
+        {
+          "character": "SONNY",
+          "line": "Wrong? Only that your computer here fixed about the best martini I have ever had. I just might get to like this place. Let's see if the Braves are on. How do you turn on this teevee?"
+        },
+        {
+          "character": "RIKER",
+          "line": "TV?"
+        },
+        {
+          "character": "SONNY",
+          "line": "Yeah, the boob tube. I'd like to see how the Braves are doing after all this time. Probably still finding ways to lose."
+        },
+        {
+          "character": "DATA",
+          "line": "I believe he means television, sir. That particular form of entertainment did not last much beyond the year two thousand forty."
+        },
+        {
+          "character": "SONNY",
+          "line": "Well, what do you guys do? I mean, you don't drink, and you ain't got no TV. Must be kind of boring, ain't it?"
+        },
+        {
+          "character": "PICARD",
+          "line": "Number One.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "RIKER",
+          "line": "Riker here."
+        },
+        {
+          "character": "PICARD",
+          "line": "Would you and Mister Data report to the Bridge?"
+        },
+        {
+          "character": "RIKER",
+          "line": "At once, sir."
+        },
+        {
+          "character": "RALPH",
+          "line": "With whom were you speaking?"
+        },
+        {
+          "character": "RIKER",
+          "line": "The Captain."
+        },
+        {
+          "character": "RALPH",
+          "line": "Good. Would you tell him I would like to see him as soon as it's convenient?"
+        },
+        {
+          "character": "CLARE",
+          "line": "What's going to happen to us? Do we stay here with you? Do we go back to Earth?"
+        },
+        {
+          "character": "RIKER",
+          "line": "That will all be up to the Captain."
+        },
+        {
+          "character": "RALPH",
+          "line": "Well, get him in here. I have to phone Geneva right away about my accounts. The interest alone could be enough to buy this ship."
+        },
+        {
+          "character": "SONNY",
+          "line": "The Yankee's right. Let's get the big boy in here."
+        },
+        {
+          "character": "RIKER",
+          "line": "I'll pass along your request. If you'll excuse us."
+        },
+        {
+          "character": "SONNY",
+          "line": "Duty calls. Hey, I understand. Why don't you come back later on. You and me'll find us a couple of low mileage pit woofies, and help'em build a memory."
+        }
+      ],
+      "location": "Guest lounge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "DATA",
+          "line": "What is to be done with them, sir?"
+        },
+        {
+          "character": "RIKER",
+          "line": "I don't know."
+        },
+        {
+          "character": "DATA",
+          "line": "Commander, a low mileage pit woofie?"
+        },
+        {
+          "character": "RIKER",
+          "line": "This time you've got me. I haven't a clue."
+        },
+        {
+          "character": "DATA",
+          "line": "These are the most unusual humans I have ever encountered."
+        },
+        {
+          "character": "RIKER",
+          "line": "Well, from what I've seen of our guests, there's not much to redeem them. It makes one wonder how our species survived the twenty-first century."
+        }
+      ],
+      "location": "Corridor"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "PICARD",
+          "line": "Report."
+        },
+        {
+          "character": "WORF",
+          "line": "We are six hours from the Neutral Zone. I have been unable to establish communications with any Federation colony or station in this vicinity."
+        },
+        {
+          "character": "PICARD",
+          "line": "How many outposts are there in this sector?"
+        },
+        {
+          "character": "WORF",
+          "line": "Nine."
+        },
+        {
+          "character": "RIKER",
+          "line": "I think we work on the assumption they've all been destroyed."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "By the Romulans?"
+        },
+        {
+          "character": "RIKER",
+          "line": "It fits their historical pattern."
+        },
+        {
+          "character": "DATA",
+          "line": "Since we have no contact with the Romulans for fifty three years, seven months, eighteen days, we must consider that the information we do have, is out of date."
+        },
+        {
+          "character": "RIKER",
+          "line": "The positive side of that is the information they have about us is also out of date. Captain, I think it's that lack of information that this is all about."
+        },
+        {
+          "character": "PICARD",
+          "line": "Go on."
+        },
+        {
+          "character": "RIKER",
+          "line": "In my opinion, the Romulans want a confrontation specifically with us."
+        },
+        {
+          "character": "PICARD",
+          "line": "The Enterprise?"
+        },
+        {
+          "character": "RIKER",
+          "line": "Well, not by name, but the Federation. They know the Federation will send their best. That'll give them a perfect chance to see firsthand how far we've advanced both in technology and technique."
+        },
+        {
+          "character": "PICARD",
+          "line": "What are you recommending?"
+        },
+        {
+          "character": "RIKER",
+          "line": "I'm not sure I have a specific recommendation. Perhaps we should assume the initiative."
+        },
+        {
+          "character": "WORF",
+          "line": "I agree with Commander Riker. This may be our only opportunity. We should seize it."
+        },
+        {
+          "character": "PICARD",
+          "line": "Mister Data?"
+        },
+        {
+          "character": "DATA",
+          "line": "The strategy is built on a single premise. The hostile intent of the Romulans. If the premise is sound, so is the proposal."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "If their intention isn't hostile, what is it?"
+        },
+        {
+          "character": "RALPH",
+          "line": "Captain Picard?",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "PICARD",
+          "line": "This is Captain Picard. To whom am I speaking?"
+        },
+        {
+          "character": "RALPH",
+          "line": "Ralph Offenhouse.",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "Ready room"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "RALPH",
+          "line": "I need to talk to you."
+        }
+      ],
+      "location": "Guest lounge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "PICARD",
+          "line": "What is going on here, Number One? Did you give him permission to contact me?"
+        },
+        {
+          "character": "RIKER",
+          "line": "Of course not. He must have seen me use the comm. panel."
+        },
+        {
+          "character": "PICARD",
+          "line": "Listen, Mister Offenhouse. We're in a very important conference right now."
+        },
+        {
+          "character": "RALPH",
+          "line": "I'm sick and tired of being put off",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "Ready room"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "RALPH",
+          "line": "By you and your staff. This is the worst run ship I have ever been on."
+        }
+      ],
+      "location": "Guest lounge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "RALPH",
+          "line": "You should take some lessons from the QE Two. Now that's an efficient operation.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "PICARD",
+          "line": "Data, identify. What is a QE Two?"
+        },
+        {
+          "character": "DATA",
+          "line": "It was a passenger liner which mostly traveled Earth's Atlantic Ocean during the late twentieth and early twenty first centuries."
+        },
+        {
+          "character": "PICARD",
+          "line": "He's comparing the Enterprise to a cruise ship?"
+        },
+        {
+          "character": "RALPH",
+          "line": "Captain Picard, I demand that you see me. I think I have been very, very patient.",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "Ready room"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "RALPH",
+          "line": "I demand a phone, or a radio whatever else you have. Frankly, enough is enough. Especially under the circumstances, and considering what I paid for this procedure! I must make contact with my law"
+        },
+        {
+          "character": "PICARD",
+          "line": "I'm Captain Picard."
+        },
+        {
+          "character": "RALPH",
+          "line": "Excellent. Now, maybe we'll be able to get some things straightened out."
+        },
+        {
+          "character": "PICARD",
+          "line": "We may indeed. Those comm. panels are for official ship business."
+        },
+        {
+          "character": "RALPH",
+          "line": "If they are so important, why don't they need an executive key?"
+        },
+        {
+          "character": "PICARD",
+          "line": "Aboard a starship, that is not necessary. We are all capable of exercising self-diskipline. Now, you will refrain from using them."
+        },
+        {
+          "character": "RALPH",
+          "line": "Now just a minute."
+        },
+        {
+          "character": "PICARD",
+          "line": "We are in a very serious and potentially dangerous situation."
+        },
+        {
+          "character": "RALPH",
+          "line": "I'm sure whatever it is seems very important to you, but my situation is far more critical."
+        },
+        {
+          "character": "PICARD",
+          "line": "I don't think you are aware of your situation, or of how much time has passed."
+        },
+        {
+          "character": "RALPH",
+          "line": "Believe me, I'm fully cognisant of where I am, and when. It is simply that I have more to protect than a man in your position could possibly imagine. No offense, but a military career has never been considered to be upwardly mobile. I must contact my lawyer."
+        },
+        {
+          "character": "PICARD",
+          "line": "Your lawyer has been dead for centuries."
+        },
+        {
+          "character": "RALPH",
+          "line": "Yes, of course I know that, but he was a full partner in a very important firm. Rest assured, that firm is still operating."
+        },
+        {
+          "character": "PICARD",
+          "line": "That's what this is all about. A lot has changed in the past three hundred years. People are no longer obsessed with the accumulation of things. We've eliminated hunger, want, the need for possessions. We have grown out of our infancy."
+        },
+        {
+          "character": "RALPH",
+          "line": "You've got it all wrong. It's never been about possessions. It's about power."
+        },
+        {
+          "character": "PICARD",
+          "line": "Power to do what?"
+        },
+        {
+          "character": "RALPH",
+          "line": "To control your life, your destiny."
+        },
+        {
+          "character": "PICARD",
+          "line": "That kind of control is an illusion."
+        },
+        {
+          "character": "RALPH",
+          "line": "Really? I'm here, aren't I? I should be dead but I'm not."
+        },
+        {
+          "character": "PICARD",
+          "line": "What is it?"
+        },
+        {
+          "character": "CLARE",
+          "line": "I don't know. It just started and it won't stop. I keep thinking about my boys."
+        },
+        {
+          "character": "PICARD",
+          "line": "Counselor Troi, will you report to the guest lounge?"
+        },
+        {
+          "character": "RIKER",
+          "line": "Captain, we are approaching Science Station Delta Zero Five.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "PICARD",
+          "line": "Slow to half impulse. I'm on my way."
+        },
+        {
+          "character": "SONNY",
+          "line": "Captain, I need to see that pretty little Doctor of yours."
+        },
+        {
+          "character": "PICARD",
+          "line": "I'll inform her."
+        },
+        {
+          "character": "RALPH",
+          "line": "Captain. I didn't mean to come on so strong. It's just that I've built my whole life on knowing what's going on. For the first time I feel completely out of touch. It's making me crazy. You can understand that?"
+        },
+        {
+          "character": "PICARD",
+          "line": "It's the first thing you've said I do understand. I'll see what I can do. And, please, stay off the comm. panels."
+        }
+      ],
+      "location": "Guest lounge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "PICARD",
+          "line": "Counselor, will you get those people under control. We cannot afford this continuing distraction."
+        },
+        {
+          "character": "TROI",
+          "line": "Yes, sir."
+        }
+      ],
+      "location": "Corridor"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TROI",
+          "line": "Hello. My name is Deanna."
+        },
+        {
+          "character": "CLARE",
+          "line": "They sent you here to settle me down?"
+        },
+        {
+          "character": "TROI",
+          "line": "I'm the ship's Counselor and I thought you might want to talk."
+        },
+        {
+          "character": "CLARE",
+          "line": "The local shrink."
+        },
+        {
+          "character": "TROI",
+          "line": "I'm sorry, I'm not familiar with that term."
+        },
+        {
+          "character": "CLARE",
+          "line": "It doesn't matter."
+        },
+        {
+          "character": "TROI",
+          "line": "You're feeling profoundly sad."
+        },
+        {
+          "character": "CLARE",
+          "line": "I can't stop crying. I miss my sons, and then I think I'm here, but they are gone. Donald, that's my husband. I love that man but, good intentions aside, he'd mess up a free lunch. Why on Earth he ever decided to do this?"
+        },
+        {
+          "character": "TROI",
+          "line": "He must have thought you would have wanted it."
+        },
+        {
+          "character": "CLARE",
+          "line": "No, I can tell you exactly what happened. He couldn't think about going on alone. I died and he couldn't face it, so he figured if he had me frozen, then in his mind I wasn't really gone. It sounds crazy, but you had to know Donald. I wish I knew what happened to my children. Did they get married, did they have kids?"
+        },
+        {
+          "character": "TROI",
+          "line": "Let's see if we can find out. Computer, this is Counselor Troi. Request personal history on. What are their names?"
+        },
+        {
+          "character": "CLARE",
+          "line": "Tommy. He's eight, and Eddie's five."
+        },
+        {
+          "character": "COMPUTER",
+          "line": "Full names, date and place of birth."
+        },
+        {
+          "character": "CLARE",
+          "line": "They were born in Secaucus, that's in Jersey. Can this really work? Can this tell me what's happened to them?"
+        },
+        {
+          "character": "TROI",
+          "line": "Well, there must be a record somewhere. There is a good chance we can find it."
+        },
+        {
+          "character": "CLARE",
+          "line": "Well, whether we do or not, I want to thank you for trying. Date of birth. Tommy was born February seventeenth"
+        }
+      ],
+      "location": "Clare's quarters"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "SONNY",
+          "line": "I just got to have a little something to jump start the morning, and a little something else to shut down the night."
+        },
+        {
+          "character": "CRUSHER",
+          "line": "You have no medical need."
+        },
+        {
+          "character": "SONNY",
+          "line": "It ain't a question of need, darling. It's a matter of survival."
+        },
+        {
+          "character": "CRUSHER",
+          "line": "Sorry."
+        },
+        {
+          "character": "SONNY",
+          "line": "Not to worry. Old Watosh'll scuffle along the best way he can. How do I get a hold of that feller with the strange looking face?"
+        },
+        {
+          "character": "CRUSHER",
+          "line": "I beg your pardon?"
+        },
+        {
+          "character": "SONNY",
+          "line": "What's his name. That android fella."
+        },
+        {
+          "character": "CRUSHER",
+          "line": "You mean Lieutenant Commander Data?"
+        },
+        {
+          "character": "SONNY",
+          "line": "That's the one."
+        },
+        {
+          "character": "CRUSHER",
+          "line": "I'll let him know you're looking for him."
+        },
+        {
+          "character": "SONNY",
+          "line": "Much obliged. You know, you're just about the prettiest little old Doctor I ever seen."
+        },
+        {
+          "character": "CRUSHER",
+          "line": "Much obliged."
+        }
+      ],
+      "location": "Sickbay"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "CLARE",
+          "line": "This is amazing. It's all right here."
+        },
+        {
+          "character": "TROI",
+          "line": "Ten generations of your progeny."
+        },
+        {
+          "character": "CLARE",
+          "line": "Everyone I've ever known is dead. Do you mind? I'd like to be alone."
+        },
+        {
+          "character": "TROI",
+          "line": "No, not at all."
+        }
+      ],
+      "location": "Clare's quarters"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "DATA",
+          "line": "You asked to see me."
+        },
+        {
+          "character": "SONNY",
+          "line": "Look, I'm about to go out of my mind for something to do. I mean, sitting here alone just don't get it. What say you and I put together a little party?"
+        },
+        {
+          "character": "DATA",
+          "line": "A celebration?"
+        },
+        {
+          "character": "SONNY",
+          "line": "No, nothing that fancy. Just some folks, some suds, and some sounds. Hell, it ain't nothing but something to do."
+        },
+        {
+          "character": "DATA",
+          "line": "I will speak to the Captain."
+        },
+        {
+          "character": "SONNY",
+          "line": "Great, you do that."
+        },
+        {
+          "character": "DATA",
+          "line": "Inquiry. You do not seem to be having as much difficulty adjusting to your current circumstances as the others."
+        },
+        {
+          "character": "SONNY",
+          "line": "You mean being here on this tub four hundred years from where I started? Heck, it's the same dance, it's just a different tune. You think anybody here's got a guitar I could borrow?"
+        },
+        {
+          "character": "DATA",
+          "line": "No, but the computer can replicate such an instrument."
+        },
+        {
+          "character": "SONNY",
+          "line": "I was kind of hoping to get one while I still remember the chords."
+        },
+        {
+          "character": "RIKER",
+          "line": "Commander Data, we are approaching the Neutral Zone. Report to the Bridge.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "DATA",
+          "line": "I must leave now."
+        },
+        {
+          "character": "SONNY",
+          "line": "What's this Neutral Zone?"
+        },
+        {
+          "character": "DATA",
+          "line": "It is a buffer between the Romulan Empire and the Federation."
+        },
+        {
+          "character": "SONNY",
+          "line": "Why does that make me nervous?"
+        },
+        {
+          "character": "DATA",
+          "line": "I do not know."
+        },
+        {
+          "character": "SONNY",
+          "line": "We won't be inviting these Romulans to our party, will we?"
+        },
+        {
+          "character": "DATA",
+          "line": "No, that would not be appropriate."
+        },
+        {
+          "character": "PICARD",
+          "line": "Captain's log, supplemental. We have arrived at the edge of the Neutral Zone, where we will now have an opportunity to learn firsthand what happened to our distant outpost.",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "Sonny's quarters"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "DATA",
+          "line": "Captain, there is nothing left of Outpost Delta Zero Five."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Must have been one hell of an explosion."
+        },
+        {
+          "character": "DATA",
+          "line": "Sensors indicate no evidence of conventional attack."
+        },
+        {
+          "character": "PICARD",
+          "line": "Can you determine what happened?"
+        },
+        {
+          "character": "WORF",
+          "line": "The outpost was not just destroyed, it's as though some great force just scooped it off the face of the planet."
+        },
+        {
+          "character": "PICARD",
+          "line": "Could it have been a natural phenomenon?"
+        },
+        {
+          "character": "WORF",
+          "line": "Insufficient information, sir."
+        },
+        {
+          "character": "PICARD",
+          "line": "Mister La Forge."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Sir?"
+        },
+        {
+          "character": "PICARD",
+          "line": "Set course for the next closest station."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Aye, sir."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "RALPH",
+          "line": "I have spent my career being able to tell when the other guy's mouth is dry. There is something going on here. Something serious. The tension level on this ship has jumped up."
+        },
+        {
+          "character": "SONNY",
+          "line": "Even if you're right, what can we do about it? And besides, these old boys here don't need us telling them where the bear sits. Look here what that young fella made for me."
+        },
+        {
+          "character": "CLARE",
+          "line": "How did he do that?"
+        },
+        {
+          "character": "SONNY",
+          "line": "He called it a pattern replication. It plays real good, too."
+        },
+        {
+          "character": "RALPH",
+          "line": "I'm trying to tell you that there is a situation developing on this vessel that directly affects us, and all you can talk about is that stupid guitar!"
+        },
+        {
+          "character": "SONNY",
+          "line": "Hey, now, these folks don't need us swimming in their soup, so why don't you just relax and let'em do their jobs?"
+        },
+        {
+          "character": "RALPH",
+          "line": "That may be all right for you, but I am not willing to allow my fate to be decided by others. I at least want to know what is going on."
+        }
+      ],
+      "location": "Guest lounge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "LAFORGE",
+          "line": "We are approaching Tarod Nine."
+        },
+        {
+          "character": "DATA",
+          "line": "The condition is identical, Captain."
+        },
+        {
+          "character": "WORF",
+          "line": "Everyone and everything is gone."
+        },
+        {
+          "character": "RIKER",
+          "line": "Captain, I strongly recommend that we go to Red Alert. If the Romulans have improved their cloaking device, and we'd be fools to believe they haven't, we should assume a more defensive posture."
+        },
+        {
+          "character": "WORF",
+          "line": "I agree, Captain. I recommend we go immediately to battle stations."
+        },
+        {
+          "character": "PICARD",
+          "line": "I appreciate your advice and concern, but this is not the time for rash actions. We are still investigating. There are three other stations in this sector we have to visit. Let's proceed in a calm and orderly manner."
+        },
+        {
+          "character": "RIKER",
+          "line": "If not battle stations, may we at least take the ship to Yellow Alert?"
+        },
+        {
+          "character": "PICARD",
+          "line": "Yes, Number One. That would be prudent. Make it so."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "RALPH",
+          "line": "Ah, let's see. I want to go to the, er. Where would the Captain be?"
+        },
+        {
+          "character": "COMPUTER",
+          "line": "Captain Picard is located on the main Bridge."
+        },
+        {
+          "character": "RALPH",
+          "line": "Well then, take me to the main Bridge."
+        }
+      ],
+      "location": "Turbolift"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "WORF",
+          "line": "Captain, my sensors indicate a disturbance. It is large and moving, but I cannot get a positive lock nor can I get it on the viewscreen."
+        },
+        {
+          "character": "RIKER",
+          "line": "Shields up."
+        },
+        {
+          "character": "WORF",
+          "line": "Aye, sir."
+        },
+        {
+          "character": "RIKER",
+          "line": "Captain, I recommend we transfer all power to phasers, and arm the photon torpedoes."
+        },
+        {
+          "character": "PICARD",
+          "line": "Wait. If that is a Romulan ship, they will read our intent. It'll force them into taking a similar posture. We don't want to engage in battle."
+        },
+        {
+          "character": "RIKER",
+          "line": "Captain, this is sufficient evidence. Outposts have been destroyed. Countless lives have been lost."
+        },
+        {
+          "character": "WORF",
+          "line": "I have a positive lock. They're disengaging their cloaking device."
+        },
+        {
+          "character": "RIKER",
+          "line": "They'll only be vulnerable for an instant as they become visible."
+        },
+        {
+          "character": "WORF",
+          "line": "Captain, this may be our only chance."
+        },
+        {
+          "character": "PICARD",
+          "line": "No."
+        },
+        {
+          "character": "RIKER",
+          "line": "Where are they?"
+        },
+        {
+          "character": "WORF",
+          "line": "The signal is weakening."
+        },
+        {
+          "character": "WORF",
+          "line": "I've lost them."
+        },
+        {
+          "character": "PICARD",
+          "line": "Damn. Mister Data, are your sensors picking up anything? You should be detecting a disturbance."
+        },
+        {
+          "character": "DATA",
+          "line": "Negative, sir."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "We wanted to know if they have improved the cloaking device. Guess we have our answer."
+        },
+        {
+          "character": "PICARD",
+          "line": "They were trying to determine our intent. They wanted to see if we would fire."
+        },
+        {
+          "character": "RALPH",
+          "line": "Who the hell are they?"
+        },
+        {
+          "character": "RIKER",
+          "line": "Get that man off the Bridge, now."
+        },
+        {
+          "character": "RALPH",
+          "line": "I'm not going anywhere."
+        },
+        {
+          "character": "WORF",
+          "line": "Captain, they're back."
+        },
+        {
+          "character": "RIKER",
+          "line": "Amazing. I never thought I would ever see a Romulan ship. Not this close."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "The last time we encountered them was decades ago. Cost thousands of lives."
+        },
+        {
+          "character": "RALPH",
+          "line": "I can believe that."
+        },
+        {
+          "character": "PICARD",
+          "line": "Stay calm, everyone. Open hailing frequencies."
+        },
+        {
+          "character": "WORF",
+          "line": "Captain, these are Romulans. They are without honor. They killed my parents in an attack on Khitomer when they were supposed to be our allies. They believe humans and Klingons are a waste of skin."
+        },
+        {
+          "character": "PICARD",
+          "line": "Lieutenant, control your emotions. Please, open hailing frequencies."
+        },
+        {
+          "character": "WORF",
+          "line": "Hailing frequencies open."
+        },
+        {
+          "character": "PICARD",
+          "line": "Romulan vessel, this is Captain Jean-Luc Picard of the USS Enterprise."
+        },
+        {
+          "character": "DATA",
+          "line": "Sensors indicate all of their systems are armed, sir."
+        },
+        {
+          "character": "PICARD",
+          "line": "But they've not fired. Let's try them again."
+        },
+        {
+          "character": "TEBOK",
+          "line": "I am Commander Tebok.",
+          "modifier": "screen"
+        },
+        {
+          "character": "PICARD",
+          "line": "Commander, you have crossed the Neutral Zone. This is Federation territory."
+        },
+        {
+          "character": "THEI",
+          "line": "It was necessary.",
+          "modifier": "screen"
+        },
+        {
+          "character": "PICARD",
+          "line": "It might be viewed as an act of aggression."
+        },
+        {
+          "character": "THEI",
+          "line": "If our intent were aggression, you would not be here now.",
+          "modifier": "screen"
+        },
+        {
+          "character": "TEBOK",
+          "line": "If we go to war, let us be sure it is for the right reason. We are here because our outposts, which border the Neutral Zone, were also attacked.",
+          "modifier": "screen"
+        },
+        {
+          "character": "THEI",
+          "line": "Destroyed in the exact same manner as your own.",
+          "modifier": "screen"
+        },
+        {
+          "character": "WORF",
+          "line": "Even so, what gives them the right to enter Federation space?"
+        },
+        {
+          "character": "TEBOK",
+          "line": "Silence your dog, Captain.",
+          "modifier": "screen"
+        },
+        {
+          "character": "PICARD",
+          "line": "Lieutenant Worf's question is valid."
+        },
+        {
+          "character": "THEI",
+          "line": "To even to ask such a question implies that we need permission. We do not.",
+          "modifier": "screen"
+        },
+        {
+          "character": "PICARD",
+          "line": "Do you think that we attacked your outposts?"
+        },
+        {
+          "character": "TEBOK",
+          "line": "Once we realized the level of destruction, we knew it could not have been you.",
+          "modifier": "screen"
+        },
+        {
+          "character": "PICARD",
+          "line": "Who is responsible?"
+        },
+        {
+          "character": "RALPH",
+          "line": "They haven't got a clue. They're hoping you know, but they're too arrogant to ask."
+        },
+        {
+          "character": "RIKER",
+          "line": "You're out of line, Mister."
+        },
+        {
+          "character": "PICARD",
+          "line": "Yes, but it's a correct assessment."
+        },
+        {
+          "character": "TEBOK",
+          "line": "We do not know who is responsible. Why entire outposts on both sides have been carried off.",
+          "modifier": "screen"
+        },
+        {
+          "character": "PICARD",
+          "line": "I would like to offer a proposal."
+        },
+        {
+          "character": "THEI",
+          "line": "An alliance? Between the Romulans and the Federation?",
+          "modifier": "screen"
+        },
+        {
+          "character": "PICARD",
+          "line": "Nothing so grandiose. Just this. Cooperation. There was an intent here. Whoever or whatever did this is more powerful than either of us. Let's collaborate. Let's share whatever we learn about what has happened here."
+        },
+        {
+          "character": "THEI",
+          "line": "Agreed. On this one issue. And only if it is convenient and appropriate at the time.",
+          "modifier": "screen"
+        },
+        {
+          "character": "TEBOK",
+          "line": "Captain Picard, because your actions are those of a thoughtful man, I'll you this. Matters more urgent caused our absence. Now, witness the result. Outposts destroyed, expansion of the Federation everywhere. Yes, we have indeed been negligent, Captain. But no more.",
+          "modifier": "screen"
+        },
+        {
+          "character": "PICARD",
+          "line": "Commander, we have made some progress here. Let's not ruin that with unnecessary posturing."
+        },
+        {
+          "character": "TEBOK",
+          "line": "Your presence is not wanted. Do you understand my meaning, Captain? We are back.",
+          "modifier": "screen"
+        },
+        {
+          "character": "PICARD",
+          "line": "I think our lives just became a lot more complicated. Get him off my Bridge."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TROI",
+          "line": "I've found something. I have been able to locate a family living outside of Indianapolis. The man's name is Thomas Raymond."
+        },
+        {
+          "character": "CLARE",
+          "line": "That's my son's name. My son's name is Tommy."
+        },
+        {
+          "character": "TROI",
+          "line": "Computer, let us see Thomas Raymond."
+        },
+        {
+          "character": "CLARE",
+          "line": "Oh, my God. That's Donald. That's my husband."
+        },
+        {
+          "character": "TROI",
+          "line": "Actually, it's your great, great, great, great, great grandson."
+        },
+        {
+          "character": "CLARE",
+          "line": "He's the spitting image."
+        },
+        {
+          "character": "TROI",
+          "line": "Well, I have his address. When you get back to Earth, you can go and see him."
+        },
+        {
+          "character": "CLARE",
+          "line": "No, I'll be out of time. A relic."
+        },
+        {
+          "character": "TROI",
+          "line": "Perhaps. But it's a place to start. After all, he is family."
+        },
+        {
+          "character": "CLARE",
+          "line": "There's no denying that."
+        }
+      ],
+      "location": "Clare's quarters"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "PICARD",
+          "line": "Here's what I propose. You can't stay on the Enterprise, but I have arranged for us to rendezvous with the USS Charleston, bound for Earth. They will deliver you there."
+        },
+        {
+          "character": "RALPH",
+          "line": "Then what will happen to us? There's no trace of my money. My office is gone. What will I do? How will I live?"
+        },
+        {
+          "character": "PICARD",
+          "line": "This is the twenty fourth century. Material needs no longer exist."
+        },
+        {
+          "character": "RALPH",
+          "line": "Then what's the challenge?"
+        },
+        {
+          "character": "PICARD",
+          "line": "The challenge, Mister Offenhouse, is to improve yourself. To enrich yourself. Enjoy it."
+        },
+        {
+          "character": "SONNY",
+          "line": "Well, one good thing is, since everybody's forgotten everything I ever did, it'll all be brand spanking new. I'll be a bigger hit than I ever was."
+        },
+        {
+          "character": "PICARD",
+          "line": "Perhaps so. Anything is possible."
+        },
+        {
+          "character": "SONNY",
+          "line": "What say you, son. You'd make a hell of a sideman."
+        },
+        {
+          "character": "DATA",
+          "line": "That offer does present a certain fascination."
+        }
+      ],
+      "location": "Observation lounge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "LAFORGE",
+          "line": "Captain, I have plotted a course to intercept the Charleston, but they've just informed me that they'll be making an extended stop at Arloff Nine."
+        },
+        {
+          "character": "PICARD",
+          "line": "Your point, Mister La Forge?"
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Well, at warp eight, we could have our guests at Starbase Thirty Nine Sierra in five days. Take months off their journey."
+        },
+        {
+          "character": "PICARD",
+          "line": "But they'll benefit from the extended time. It will allow them to acclimate before returning to Earth."
+        },
+        {
+          "character": "RIKER",
+          "line": "It's a pity we can't take them ourselves. Having them on board is like a visit from the past."
+        },
+        {
+          "character": "PICARD",
+          "line": "That would take us in the wrong direction. Our mission is to go forward, and it's just begun. Set velocity. Warp six, Mister La Forge."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Aye, sir. Warp six."
+        },
+        {
+          "character": "PICARD",
+          "line": "There's still much to do. Still so much to learn. Mister La Forge, engage."
+        }
+      ],
+      "location": "Bridge"
+    }
+  ],
+  "schedule": {
+    "episode": 26,
+    "number": 26,
+    "season": 1
+  },
+  "stardate": "41986.0",
+  "title": "The Neutral Zone"
+}

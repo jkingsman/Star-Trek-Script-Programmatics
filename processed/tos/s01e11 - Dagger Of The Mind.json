@@ -1,0 +1,1581 @@
+{
+  "airdate": -99763200,
+  "scenes": [
+    {
+      "dialogue": [
+        {
+          "character": "BERKELEY",
+          "line": "Ready to beam down. Energize. Energize."
+        },
+        {
+          "character": "KIRK",
+          "line": "Having trouble, gentlemen?"
+        },
+        {
+          "character": "BERKELEY",
+          "line": "I just don't understand the problem, sir."
+        },
+        {
+          "character": "KIRK",
+          "line": "You're beaming cargo down to a penal colony, Mister Berkeley."
+        },
+        {
+          "character": "BERKELEY",
+          "line": "Their security force field, sir."
+        },
+        {
+          "character": "KIRK",
+          "line": "U.S.S. Enterprise to Tantalus colony."
+        },
+        {
+          "character": "WOMAN",
+          "line": "Rehab colony. Come in.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "KIRK",
+          "line": "Request opening in your force field for beaming down of cargo."
+        },
+        {
+          "character": "WOMAN",
+          "line": "Enterprise, affirmative. Our security cover is now open.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "KIRK",
+          "line": "Energize. Any incoming cargo?"
+        },
+        {
+          "character": "BERKELEY",
+          "line": "Just one item, sir. Some research material bound for the Central Bureau of Penology at Stockholm."
+        },
+        {
+          "character": "WOMAN",
+          "line": "Tantalus cargo ready to beam up.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "KIRK",
+          "line": "Oh, Mister Berkeley, you might refamiliarize yourself with the manual on penal colony procedures."
+        },
+        {
+          "character": "BERKELEY",
+          "line": "Immediately, sir."
+        },
+        {
+          "character": "KIRK",
+          "line": "I think you can take the time to lock this up first."
+        },
+        {
+          "character": "BERKELEY",
+          "line": "I'll get a vault assignment."
+        },
+        {
+          "character": "KIRK",
+          "line": "Captain's log, stardate 2715.1. Exchanged cargo with penal colony on Tantalus V. I've departed without going ashore.",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "Transporter room"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "KIRK",
+          "line": "I would like to have met Doctor Adams. Have you ever been to a penal colony since they started following his theories?"
+        },
+        {
+          "character": "MCCOY",
+          "line": "A cage is a cage, Jim."
+        },
+        {
+          "character": "KIRK",
+          "line": "You're behind the times, Bones. They're more like resort colonies now."
+        },
+        {
+          "character": "UHURA",
+          "line": "Message, Captain. Switching to speaker."
+        },
+        {
+          "character": "WOMAN",
+          "line": "Tantalus colony to Enterprise. We are unable to locate one of our inmates. This is a potentially violent case. Possibly hidden in the box we beamed up to you. Repeat, unable to locate one of our inmates. This is a potentially violent case.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "KIRK",
+          "line": "Enterprise acknowledging. Stand by. Security alert three."
+        },
+        {
+          "character": "UHURA",
+          "line": "Security alert, condition three. All sections go to alert condition three. We may have an intruder aboard."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "UHURA",
+          "line": "Repeat, all sections to alert condition three. Intruder aboard.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "SECURITY",
+          "line": "Hey, you from Engineering! Bridge. Section C, deck fourteen."
+        }
+      ],
+      "location": "Corridor"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "UHURA",
+          "line": "Captain, section C deck fourteen, reporting trouble. Someone in Engineering uniform."
+        },
+        {
+          "character": "KIRK",
+          "line": "Security control, this is the Bridge. Come in."
+        },
+        {
+          "character": "SPOCK",
+          "line": "I have them, Captain. Closing off deck fourteen, search in progress."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "UHURA",
+          "line": "Security alert, condition three. Approximately six foot four male, early forties. Approach with caution. This man's extremely dangerous.",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "Corridor"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "UHURA",
+          "line": "Repeat, approach with extreme caution. Bridge out."
+        },
+        {
+          "character": "SPOCK",
+          "line": "Negative in the deck area, Captain. He may have gotten out. Expanding search to adjoining sections."
+        },
+        {
+          "character": "KIRK",
+          "line": "Enterprise to Tantalus colony."
+        },
+        {
+          "character": "ADAMS",
+          "line": "Tantalus colony. Adams here.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "KIRK",
+          "line": "Doctor Adams? This is Captain Kirk. It appears we may have an inmate of yours aboard the ship."
+        },
+        {
+          "character": "UHURA",
+          "line": "Transporter crewman found unconscious, Captain. Cargo case open and empty."
+        },
+        {
+          "character": "KIRK",
+          "line": "Make that definite, Doctor. He's aboard."
+        },
+        {
+          "character": "ADAMS",
+          "line": "Terribly sorry, Captain. I take all the blame. Let me repeat, he's clever as well as extremely violent. Take all possible precautions.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "KIRK",
+          "line": "We'll keep you posted, Doctor. Kirk out."
+        },
+        {
+          "character": "SPOCK",
+          "line": "Interesting. Your Earth people glorify organized violence for forty centuries, but you imprison those who employ it privately."
+        },
+        {
+          "character": "MCCOY",
+          "line": "And, of course, your people found an answer."
+        },
+        {
+          "character": "SPOCK",
+          "line": "We disposed of emotion, Doctor. Where there is no emotion there is no motive for violence."
+        },
+        {
+          "character": "GELDER",
+          "line": "Where's the captain? Which one of you is the captain?"
+        },
+        {
+          "character": "KIRK",
+          "line": "I'm Captain Kirk."
+        },
+        {
+          "character": "GELDER",
+          "line": "My name is Van Gelder. I want asylum."
+        },
+        {
+          "character": "KIRK",
+          "line": "At gunpoint?"
+        },
+        {
+          "character": "GELDER",
+          "line": "I want your promise first, your word that you won't take me back there, to Tantalus."
+        },
+        {
+          "character": "KIRK",
+          "line": "No promises. Give me the weapon."
+        },
+        {
+          "character": "GELDER",
+          "line": "No! No. No, I'm not going back! I'll disable your vessel first. You choose, Captain. I'll destroy your control panel."
+        },
+        {
+          "character": "KIRK",
+          "line": "Take him to Sickbay. Reverse course. Head back for Tantalus colony."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "MCCOY",
+          "line": "Abnormal, of course, but it's not schizophrenia, tissue damage, or any condition I'm acquainted with, Jim. And you know after getting him here, it took almost a triple dose of sedative to put him under."
+        },
+        {
+          "character": "KIRK",
+          "line": "Your report said he was quite talkative."
+        },
+        {
+          "character": "MCCOY",
+          "line": "But not very informative. He claimed one thing, then he seemed to forget, and then he'd start to claim something else, but always with just the ring of truth in it. I'd sure like to study this one, Jim."
+        },
+        {
+          "character": "KIRK",
+          "line": "Not our problem, Bones."
+        },
+        {
+          "character": "GELDER",
+          "line": "You smart, button-pushing brass hat. Wash your hands of it. Is that your system? You're both quite sure of yourselves, aren't you? Quite expert. Take him back. Let someone else worry about him."
+        },
+        {
+          "character": "KIRK",
+          "line": "What did you say your name was?"
+        },
+        {
+          "character": "GELDER",
+          "line": "My name? My name is Simon Van Gelder. I was the director of, director at the Tantalus colony."
+        },
+        {
+          "character": "MCCOY",
+          "line": "You see what I mean?"
+        },
+        {
+          "character": "GELDER",
+          "line": "I was a graduate of, of. I was assistant to Doctor. I knew. I knew, but they've erased it."
+        },
+        {
+          "character": "MCCOY",
+          "line": "Erased?"
+        },
+        {
+          "character": "GELDER",
+          "line": "Edited, adjusted, subverted me, but I won't forget! I won't forget! You, you're so blind ignorant. You believe I belong back there, don't you? Dead or alive. Well, I won't let you take me back. I'm not going! I'll die first! Do you hear? I'm not going! No! No! No."
+        }
+      ],
+      "location": "Sickbay"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "KIRK",
+          "line": "Estimated arrival at Tantalus?"
+        },
+        {
+          "character": "SPOCK",
+          "line": "Fifty seven minutes, thirty seconds, Captain."
+        },
+        {
+          "character": "KIRK",
+          "line": "What's so fascinating?"
+        },
+        {
+          "character": "SPOCK",
+          "line": "An identification tape from our ship's library on Doctor Simon Van Gelder."
+        },
+        {
+          "character": "KIRK",
+          "line": "Doctor Van Gelder?"
+        },
+        {
+          "character": "SPOCK",
+          "line": "Doctor Van Gelder, Captain. No mistake. There's a full ID tape on him."
+        },
+        {
+          "character": "KIRK",
+          "line": "Committed to Tantalus colony when?"
+        },
+        {
+          "character": "SPOCK",
+          "line": "Assigned there six months ago as Doctor Adams' associate."
+        },
+        {
+          "character": "KIRK",
+          "line": "Ship to surface, Tantalus colony."
+        },
+        {
+          "character": "UHURA",
+          "line": "Hailing frequency's open, sir."
+        },
+        {
+          "character": "KIRK",
+          "line": "U.S.S. Enterprise to Tantalus colony."
+        },
+        {
+          "character": "WOMAN",
+          "line": "Tantalus.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "KIRK",
+          "line": "This is Captain Kirk. I'd like to speak to Doctor Adams."
+        },
+        {
+          "character": "WOMAN",
+          "line": "Stand by, Enterprise.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "ADAMS",
+          "line": "Captain Kirk, Doctor Adams here.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "KIRK",
+          "line": "Doctor Adams, regarding your escaped man"
+        },
+        {
+          "character": "ADAMS",
+          "line": "Is Doctor Van Gelder all right? And your people, no injuries?",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "KIRK",
+          "line": "No casualties, sir. This man is Doctor Simon Van Gelder?"
+        },
+        {
+          "character": "ADAMS",
+          "line": "Yes, of course. You're certain he's all right? We've been very concerned. In the violent state he's in",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "KIRK",
+          "line": "No harm to him, sir. We thought you might enlighten us as to his condition."
+        },
+        {
+          "character": "ADAMS",
+          "line": "He'd been doing some experimental work, Captain, an experimental beam we'd hoped might rehabilitate incorrigibles. Van Gelder felt he hadn't the moral right to expose another man to something he hadn't tried on his own person.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "KIRK",
+          "line": "Tragedy, Doctor."
+        },
+        {
+          "character": "MCCOY",
+          "line": "Jim, that doesn't quite ring true."
+        },
+        {
+          "character": "KIRK",
+          "line": "Er, Doctor Adams, please stand by. Explain."
+        },
+        {
+          "character": "MCCOY",
+          "line": "I don't believe him. I can't explain it, but the more I study that patient"
+        },
+        {
+          "character": "KIRK",
+          "line": "You don't believe him, and you can't explain it. Bones, are you aware that in the last twenty years Doctor Adams has done more to revolutionize, to humanize prisons and the treatment of prisoners than all the rest of humanity had done in forty centuries? I've been to those penal colonies since they've begun following his methods, and they're not cages anymore."
+        },
+        {
+          "character": "MCCOY",
+          "line": "Jim"
+        },
+        {
+          "character": "KIRK",
+          "line": "They're clean, decent hospitals for sick minds."
+        },
+        {
+          "character": "MCCOY",
+          "line": "Jim, listen!"
+        },
+        {
+          "character": "SPOCK",
+          "line": "Gentlemen, I suggest you ask Doctor Adams if he wants Van Gelder returned."
+        },
+        {
+          "character": "KIRK",
+          "line": "Doctor Adams, regarding Van Gelder."
+        },
+        {
+          "character": "ADAMS",
+          "line": "Yes, Captain. May I inquire about your patrol destinations? Are you passing near any hospital facilities superior to ours? I'd like Van Gelder to have the best possible treatment, of course.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "KIRK",
+          "line": "Thank you, Doctor. I'll take it up with the ship's surgeon. Stand by. Well, Bones, you've got the ball. You care to recommend a better place?"
+        },
+        {
+          "character": "MCCOY",
+          "line": "There are no superior facilities, he knows that. But that's not the question. If something unusual is going on down there"
+        },
+        {
+          "character": "KIRK",
+          "line": "An assumption, Doctor."
+        },
+        {
+          "character": "MCCOY",
+          "line": "I'm required to enter any reasonable doubts into my medical log. That requires you to answer in your log. Sorry, Jim."
+        },
+        {
+          "character": "KIRK",
+          "line": "Doctor Adams, this is rather embarrassing. By strict interpretation of our starship regulation, I'm required to initiate an investigation of this so that a proper report"
+        },
+        {
+          "character": "ADAMS",
+          "line": "No need to apologize, Captain Kirk. In fact, I'd take it as a personal favor if you'd beam down and look into it yourself. I'm sure you realize we don't get too many visitors here. Oh, I, er, Captain, I would appreciate it if you could come down with a minimum staff. We're forced to limit outside contact as much as possible.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "KIRK",
+          "line": "Affirmative, Doctor. I've visited rehab colonies before. Enterprise out. Find me someone in your department with psychiatric and penology experience, if possible."
+        },
+        {
+          "character": "MCCOY",
+          "line": "Yes, sir."
+        },
+        {
+          "character": "KIRK",
+          "line": "Captain's log, stardate 2715.2. Standard orbit, planet Tantalus V.",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "KIRK",
+          "line": "Mission, routine investigation and report as per ship surgeon's medical log. As for my last entry, it seems I will get to meet Doctor Adams at last. However, I would have preferred other circumstances. Sickbay. Report, Doctor."
+        },
+        {
+          "character": "MCCOY",
+          "line": "Van Gelder's still violently agitated, Captain.",
+          "modifier": "screen"
+        },
+        {
+          "character": "KIRK",
+          "line": "And you'd prefer to keep him here until I complete my investigation anyway."
+        },
+        {
+          "character": "SPOCK",
+          "line": "I believe we should, Jim."
+        },
+        {
+          "character": "MCCOY",
+          "line": "Oh, I'm assigning your technical aide, Captain. One of our psychiatrists does have a background in rehabilitative therapy. Doctor Noel, standing by in the transporter room now.",
+          "modifier": "screen"
+        },
+        {
+          "character": "KIRK",
+          "line": "Thank you, Doctor. Bridge out. Mister Spock."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "KIRK",
+          "line": "Co-ordinates?"
+        },
+        {
+          "character": "BERKELEY",
+          "line": "Locked in, sir. Ready to beam down."
+        },
+        {
+          "character": "NOEL",
+          "line": "Doctor Helen Noel, Captain. We've met. Don't you remember the science lab Christmas party?"
+        },
+        {
+          "character": "KIRK",
+          "line": "Yes, I remember."
+        },
+        {
+          "character": "NOEL",
+          "line": "You dropped in"
+        },
+        {
+          "character": "KIRK",
+          "line": "Yes, yes, I remember."
+        },
+        {
+          "character": "SPOCK",
+          "line": "Problem, Captain?"
+        },
+        {
+          "character": "KIRK",
+          "line": "Mister Spock, you tell McCoy that she had better check out as the best assistant I ever had. Energize."
+        },
+        {
+          "character": "BERKELEY",
+          "line": "Energize."
+        }
+      ],
+      "location": "Transporter room"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "KIRK",
+          "line": "In here, I presume, Doctor."
+        },
+        {
+          "character": "NOEL",
+          "line": "Perhaps it would be simpler if you called me Helen, Captain, since"
+        },
+        {
+          "character": "KIRK",
+          "line": "This is another time, another place, and another situation."
+        },
+        {
+          "character": "NOEL",
+          "line": "Of course, Captain."
+        }
+      ],
+      "location": "Building entrance"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "KIRK",
+          "line": "Elevator, and going down quite a ways."
+        },
+        {
+          "character": "NOEL",
+          "line": "I wouldn't recommend it for weak hearts."
+        }
+      ],
+      "location": "Turbolift"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "ADAMS",
+          "line": "Hello Captain Kirk, and er"
+        },
+        {
+          "character": "KIRK",
+          "line": "Doctor Helen Noel. It's a pleasure to finally meet you, sir."
+        },
+        {
+          "character": "ADAMS",
+          "line": "Thank you. Thank you, Captain. Welcome to Devil's Island, Doctor."
+        },
+        {
+          "character": "NOEL",
+          "line": "Perhaps you'll call me Helen, Doctor. With so many titles around, we're not going to be sure who's talking to who."
+        },
+        {
+          "character": "ADAMS",
+          "line": "I shall indeed. Won't you?"
+        },
+        {
+          "character": "NOEL",
+          "line": "Thank you."
+        },
+        {
+          "character": "KIRK",
+          "line": "I believe regulations call for me to check my weapon."
+        },
+        {
+          "character": "ADAMS",
+          "line": "No, no. That won't be necessary in your case, Captain. Just keep it out of sight, hmm? I know you people feel as naked without a weapon as we do without a medikit. A small toast. Do you mind? It's such a great day for us here on Tantalus when we have visitors, no matter what the excuse."
+        },
+        {
+          "character": "KIRK",
+          "line": "Doctor."
+        },
+        {
+          "character": "ADAMS",
+          "line": "Oh, now, Captain, you made your apology from upstairs. Now forget it. I don't think you'll be able to get through the security screen, Captain. Just a second, hmm? There. Now try it."
+        },
+        {
+          "character": "KIRK",
+          "line": "Kirk to Enterprise. Come in."
+        },
+        {
+          "character": "SPOCK",
+          "line": "Enterprise. Spock here.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "KIRK",
+          "line": "Your landing co-ordinates were right on the nose, Mister Spock. We arrived safely, and we're here with Doctor Adams right now. Kirk out."
+        },
+        {
+          "character": "SPOCK",
+          "line": "Affirmative, Captain. Enterprise out.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "ADAMS",
+          "line": "Ah, Lethe, come in. Lethe, this is Captain Kirk and Doctor Helen Noel. Lethe came to us for rehabilitation and stayed on as a therapist, and a very good one too, I might add."
+        },
+        {
+          "character": "LETHE",
+          "line": "I love my work."
+        },
+        {
+          "character": "ADAMS",
+          "line": "Go right ahead, Captain."
+        },
+        {
+          "character": "KIRK",
+          "line": "Before you came here"
+        },
+        {
+          "character": "LETHE",
+          "line": "I was another person, malignant, hateful."
+        },
+        {
+          "character": "KIRK",
+          "line": "May I ask what crime you committed?"
+        },
+        {
+          "character": "LETHE",
+          "line": "Does it matter? That person no longer exists."
+        },
+        {
+          "character": "ADAMS",
+          "line": "Um, part of our cure, if you will, Captain, is to bury the past. Why should a person go on living with unbearable memories if there's no necess. Oh, I feel quite sure that you'd concur with me in that, Doctor. Helen."
+        },
+        {
+          "character": "NOEL",
+          "line": "A shifting of memory patterns is basic to psychotherapy."
+        },
+        {
+          "character": "ADAMS",
+          "line": "Yes. And now to the toast, hmm? You'll forgive us, Lethe. There you are, Captain. To all mankind. May we never find space so vast, planets so cold, heart and mind so empty that, that we cannot fill them with love and warmth."
+        }
+      ],
+      "location": "Adam's study"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "KIRK",
+          "line": "Quite a tour, Doctor. Very impressive."
+        },
+        {
+          "character": "ADAMS",
+          "line": "Thank you. Hi, Carl."
+        }
+      ],
+      "location": "Corridor"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "KIRK",
+          "line": "Doctor."
+        },
+        {
+          "character": "ADAMS",
+          "line": "Yes?"
+        },
+        {
+          "character": "KIRK",
+          "line": "Hmm?"
+        },
+        {
+          "character": "ADAMS",
+          "line": "Ah. I was afraid you would ask about this, Captain. One doesn't like to talk about their personal failures, you know? It was just an experiment that went wrong, I'm afraid."
+        },
+        {
+          "character": "KIRK",
+          "line": "May I see it?"
+        },
+        {
+          "character": "NOEL",
+          "line": "Captain, if something hasn't worked out and therefore has no scientific fact"
+        },
+        {
+          "character": "KIRK",
+          "line": "Shall we leave it up to the doctor?"
+        },
+        {
+          "character": "NOEL",
+          "line": "Since you brought me down here for advice, Captain"
+        },
+        {
+          "character": "KIRK",
+          "line": "One of the advantages of being a Captain, Doctor, is being able to ask for advice without necessarily having to take it."
+        },
+        {
+          "character": "ADAMS",
+          "line": "I think I'll have to award that round to the Captain, Helen. You're fighting over your weight. All right, let's take a look."
+        }
+      ],
+      "location": "Treatment room"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "GELDER",
+          "line": "I'm not a criminal! I do not require neural neutralizer."
+        },
+        {
+          "character": "SPOCK",
+          "line": "Neural neutralizer. Can you explain that, Doctor Van Gelder?"
+        },
+        {
+          "character": "GELDER",
+          "line": "A room. A device. Door. Control panel. I see it. A device. A light! The light!"
+        },
+        {
+          "character": "SPOCK",
+          "line": "This room. What happens there?"
+        }
+      ],
+      "location": "Sickbay"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "ADAMS",
+          "line": "A neural neutralizer. Experimental. Actually, we don't expect to get much use out of it at all. That beam from above neutralizes brain waves, relaxs the patient's mind. Does them no harm, of course, and the effects are only temporary."
+        },
+        {
+          "character": "KIRK",
+          "line": "One question, Doctor. If it doesn't do any good"
+        },
+        {
+          "character": "ADAMS",
+          "line": "Why do we go on using it, hmm, Captain? Hope. Yes, yes, there's always that slight chance that it might do some good in the more violent cases."
+        },
+        {
+          "character": "NOEL",
+          "line": "Tranquilizers are fine, Captain, but to continually pump chemicals into a person's bloodstream"
+        },
+        {
+          "character": "ADAMS",
+          "line": "Exactly my point, Helen. Yes. Shall we?"
+        },
+        {
+          "character": "KIRK",
+          "line": "How does it work?"
+        },
+        {
+          "character": "THERAPIST",
+          "line": "Quite simple. Off on switches, and the large control here changes the strength of the brain neutralizing beam."
+        },
+        {
+          "character": "ADAMS",
+          "line": "Captain, you remind me of the ancient skeptic who demanded of the wise old sage to be taught all the world's wisdom while standing on one foot."
+        },
+        {
+          "character": "NOEL",
+          "line": "Beam neutralizing has been experimented with on Earth, Captain. I'm not acquainted with this particular style of equipment, but I can assure you that Doctor Adams has not created a chamber of horrors here."
+        },
+        {
+          "character": "KIRK",
+          "line": "I didn't mean to suggest that he had. The reason I asked, sir, was you haven't mentioned where Doctor Van Gelder's injury occurred."
+        },
+        {
+          "character": "ADAMS",
+          "line": "Right here, Captain. Yes, Simon was a very stubborn man. He could've sat in that room for years with the beam at that volume or even higher. Or if he simply had someone standing by to snap it off in case he got into trouble, but, but no. He tried it alone and on full volume. It's a pity."
+        },
+        {
+          "character": "KIRK",
+          "line": "Thank you."
+        },
+        {
+          "character": "THERAPIST",
+          "line": "You will forget all you have heard. To remember any portion of it, any word, will cause you pain, terrible pain, growing more terrible as you fight to remember."
+        }
+      ],
+      "location": "Treatment room"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "SPOCK",
+          "line": "Can you give us your present location, Captain?"
+        },
+        {
+          "character": "KIRK",
+          "line": "In Doctor Adams' study, Mister Spock. Why?",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "SPOCK",
+          "line": "Then you're with Doctor Adams now."
+        },
+        {
+          "character": "KIRK",
+          "line": "Affirmative.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "SPOCK",
+          "line": "Captain, Van Gelder has made reference to a particular treatment room. The term was neural neutralizer."
+        }
+      ],
+      "location": "Sickbay"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "KIRK",
+          "line": "Yes. He was injured there. I've seen the room. Doctor Adams explained"
+        }
+      ],
+      "location": "Adam's study"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "KIRK",
+          "line": "the mistake Van Gelder made.",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "Sickbay"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "KIRK",
+          "line": "Go ahead, Mister Spock. Anything further?"
+        },
+        {
+          "character": "ADAMS",
+          "line": "Your Mister Spock sounds like a very excellent second in command, Captain Kirk. Please tell him to go ahead and speak freely. I have to check in with a member of my staff anyway."
+        },
+        {
+          "character": "KIRK",
+          "line": "Thank you, Doctor Adams."
+        },
+        {
+          "character": "ADAMS",
+          "line": "Excuse me."
+        },
+        {
+          "character": "KIRK",
+          "line": "Stand by, Mister Spock. Doctor Adams has left with some things to attend to. What is it, Mister Spock?"
+        }
+      ],
+      "location": "Adam's study"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "SPOCK",
+          "line": "Van Gelder is extremely agitated, Captain, and warns that you are in danger."
+        }
+      ],
+      "location": "Sickbay"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "NOEL",
+          "line": "Oh, that's foolish."
+        },
+        {
+          "character": "SPOCK",
+          "line": "Please repeat, Captain. I didn't receive that.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "KIRK",
+          "line": "Tell McCoy the technical expert he sent along with me insists that any concern is unjustified. According to Adams, Van Gelder created his own problem."
+        },
+        {
+          "character": "NOEL",
+          "line": "He's suffering from"
+        }
+      ],
+      "location": "Adam's study"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "NOEL",
+          "line": "neuro-synapse damage, as if his brain were short-circuited. It's no wonder he's having delusions.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "MCCOY",
+          "line": "McCoy here. Received and understood."
+        }
+      ],
+      "location": "Sickbay"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "MCCOY",
+          "line": "But we still have some doubts up here, Captain. Can you tell us any more?",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "KIRK",
+          "line": "Not really."
+        },
+        {
+          "character": "SPOCK",
+          "line": "When do you plan to beam back up, Captain?"
+        },
+        {
+          "character": "KIRK",
+          "line": "I think we'll spend the night here, Mister Spock."
+        }
+      ],
+      "location": "Adam's study"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "GELDER",
+          "line": "No! No, no, no."
+        },
+        {
+          "character": "SPOCK",
+          "line": "And you will continue to check in every four hours?"
+        },
+        {
+          "character": "KIRK",
+          "line": "Affirmative.",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "Sickbay"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "KIRK",
+          "line": "Kirk out."
+        }
+      ],
+      "location": "Adam's study"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "GELDER",
+          "line": "No! No. No, don't let them! You must warn your captain. No! No! Don't let him stay! Don't let him stay! Don't! No. No. Don't hypo me. Please, don't hypo me. I'll try not to fight. I'll try. But you must listen. Warn your Captain. Doctor Adams. Doc, Doctor Adams will destroy."
+        },
+        {
+          "character": "SPOCK",
+          "line": "Destroy how? What?"
+        },
+        {
+          "character": "GELDER",
+          "line": "Right death."
+        },
+        {
+          "character": "SPOCK",
+          "line": "Enterprise log. First officer Spock, acting captain. I must now use an ancient Vulcan technique to probe into Van Gelder's tortured mind.",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "Sickbay"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "MCCOY",
+          "line": "Spock, if there's the slightest possibility it might help."
+        },
+        {
+          "character": "SPOCK",
+          "line": "I've never used it on a human, Doctor."
+        },
+        {
+          "character": "MCCOY",
+          "line": "If there's any way we can look into this man's mind to see if what he's seeing is real or delusion"
+        },
+        {
+          "character": "SPOCK",
+          "line": "It's a hidden, personal thing to the Vulcan people, part of our private lives."
+        },
+        {
+          "character": "MCCOY",
+          "line": "Now look, Spock, Jim Kirk could be in real trouble. Will it work or not?"
+        },
+        {
+          "character": "SPOCK",
+          "line": "It could be dangerous. Do you understand? It requires I make pressure changes in your nerves, your blood vessels."
+        },
+        {
+          "character": "GELDER",
+          "line": "You must open my mind. Let me warn you and explain to you."
+        },
+        {
+          "character": "SPOCK",
+          "line": "This will not affect you, Doctor McCoy, only the person I touch. It is not hypnosis."
+        },
+        {
+          "character": "MCCOY",
+          "line": "I understand. Good, the reading's leveling."
+        },
+        {
+          "character": "SPOCK",
+          "line": "You begin to feel a strange euphoria. Your body floats."
+        },
+        {
+          "character": "GELDER",
+          "line": "Yes, I begin to feel it."
+        },
+        {
+          "character": "SPOCK",
+          "line": "Open your mind. We move together. Our minds sharing the same thoughts."
+        }
+      ],
+      "location": "Sickbay"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "KIRK",
+          "line": "Good evening."
+        },
+        {
+          "character": "NOEL",
+          "line": "Good evening."
+        },
+        {
+          "character": "KIRK",
+          "line": "What did you think of the inmates we saw here this afternoon?"
+        },
+        {
+          "character": "NOEL",
+          "line": "You could've waited until tomorrow morning to ask me that, Captain."
+        },
+        {
+          "character": "KIRK",
+          "line": "I didn't."
+        },
+        {
+          "character": "NOEL",
+          "line": "I thought they were happy, well-adjusted."
+        },
+        {
+          "character": "KIRK",
+          "line": "But a bit blank."
+        },
+        {
+          "character": "NOEL",
+          "line": "Captain, if you're questioning the methods of a man like Tristan Adams"
+        },
+        {
+          "character": "KIRK",
+          "line": "I'd like to see that treatment room again. You say you're somewhat familiar with the theory behind it?"
+        },
+        {
+          "character": "NOEL",
+          "line": "Yes, somewhat, but if you'd simply state any doubts you have to Doctor Adams"
+        },
+        {
+          "character": "KIRK",
+          "line": "And if he's lying, he'll continue to lie, and I won't find out a thing. The only way I can be sure is to see that machine at work, or is that too impractical and unscientific of me, Doctor? Well?"
+        },
+        {
+          "character": "NOEL",
+          "line": "Coming."
+        }
+      ],
+      "location": "Noel's room"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "SPOCK",
+          "line": "What is our name? Who are we?"
+        },
+        {
+          "character": "GELDER",
+          "line": "We are Simon Van Gelder."
+        },
+        {
+          "character": "SPOCK",
+          "line": "Doctor Adams. The neural neutralizer. What did he do to us?"
+        },
+        {
+          "character": "GELDER",
+          "line": "He can reshape any mind he chooses. He used it to erase our memories, put his own thoughts there. He was surprised it took so much power. We fought him, remember? But we grew so tired, our minds so blank, so open, that any thought he placed there became our thoughts. Our minds so empty like a sponge, needing thoughts, begging. Empty. Loneliness. So lonely to be sitting there empty, wanting any word from him. Love."
+        },
+        {
+          "character": "SPOCK",
+          "line": "Yes."
+        },
+        {
+          "character": "GELDER",
+          "line": "Hate."
+        },
+        {
+          "character": "SPOCK",
+          "line": "Yes."
+        },
+        {
+          "character": "GELDER",
+          "line": "Live."
+        },
+        {
+          "character": "SPOCK",
+          "line": "Yes."
+        },
+        {
+          "character": "GELDER",
+          "line": "Die."
+        },
+        {
+          "character": "SPOCK",
+          "line": "Yes."
+        },
+        {
+          "character": "GELDER",
+          "line": "Such agony to be empty."
+        },
+        {
+          "character": "SPOCK",
+          "line": "Empty."
+        },
+        {
+          "character": "GELDER",
+          "line": "Lonely."
+        },
+        {
+          "character": "SPOCK",
+          "line": "Lonely."
+        },
+        {
+          "character": "GELDER",
+          "line": "So empty."
+        },
+        {
+          "character": "SPOCK",
+          "line": "Empty."
+        },
+        {
+          "character": "GELDER",
+          "line": "So empty."
+        }
+      ],
+      "location": "Sickbay"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "KIRK",
+          "line": "I have no desire to damage my brain. Can this be handled with reasonable safety? Yes or no?"
+        },
+        {
+          "character": "NOEL",
+          "line": "Yes."
+        },
+        {
+          "character": "KIRK",
+          "line": "And will you be able to determine if that beam is harming me in the slightest?"
+        },
+        {
+          "character": "NOEL",
+          "line": "Yes, Captain. I know my profession. Ready?"
+        },
+        {
+          "character": "KIRK",
+          "line": "Mm-hmm."
+        },
+        {
+          "character": "NOEL",
+          "line": "We'll try minimum intensity, a second or two."
+        },
+        {
+          "character": "KIRK",
+          "line": "Anytime you're ready, Doctor, just for a second or two."
+        },
+        {
+          "character": "NOEL",
+          "line": "We already tried it for that long, Captain."
+        },
+        {
+          "character": "KIRK",
+          "line": "Nothing happened."
+        },
+        {
+          "character": "NOEL",
+          "line": "Something happened. Your face went completely blank."
+        },
+        {
+          "character": "KIRK",
+          "line": "Try a harmless suggestion."
+        },
+        {
+          "character": "NOEL",
+          "line": "You're hungry."
+        },
+        {
+          "character": "KIRK",
+          "line": "You know, when we finally get through this I'd like to locate and raid a kitchen somewhere."
+        },
+        {
+          "character": "NOEL",
+          "line": "I put that suggestion in your mind, Captain. I said simply that you were hungry."
+        },
+        {
+          "character": "KIRK",
+          "line": "Remarkably effective for a device that Doctor Adams was going to abandon."
+        },
+        {
+          "character": "NOEL",
+          "line": "I think we should try this again."
+        },
+        {
+          "character": "KIRK",
+          "line": "Yes. Pick something unusual, an unusual suggestion, something we can both be sure of."
+        },
+        {
+          "character": "NOEL",
+          "line": "At the Christmas party, we met, we danced, you talked about the stars. I suggest now that it happened in a different way. You swept me off my feet and carried me to your cabin."
+        }
+      ],
+      "location": "Treatment room"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "KIRK",
+          "line": "Merry Christmas."
+        },
+        {
+          "character": "NOEL",
+          "line": "Captain, if your crew saw you carry me here."
+        },
+        {
+          "character": "KIRK",
+          "line": "My crew is sworn to secrecy."
+        },
+        {
+          "character": "NOEL",
+          "line": "But my reputation. I mean, just having met like this. Of course, it would be different if you cared for me."
+        },
+        {
+          "character": "KIRK",
+          "line": "You want me to manufacture a lie, wrap it up as a Christmas present for you?"
+        },
+        {
+          "character": "NOEL",
+          "line": "No, I prefer honesty."
+        }
+      ],
+      "location": "Kirk's quarters"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "ADAMS",
+          "line": "Now Captain Kirk is going to have a complete demonstration. I want there to be no doubts whatsoever in his mind. Mmm. You're madly in love with Helen, Captain. You'd lie, cheat, steal for her, sacrifice your career, your reputation."
+        },
+        {
+          "character": "NOEL",
+          "line": "No, Doctor! No!"
+        },
+        {
+          "character": "ADAMS",
+          "line": "The pain. Do you feel it, Captain? You must have her, or the pain grows worse, the pain, the longing for her."
+        },
+        {
+          "character": "KIRK",
+          "line": "Helen."
+        },
+        {
+          "character": "NOEL",
+          "line": "No."
+        },
+        {
+          "character": "ADAMS",
+          "line": "For years, you've loved her, Captain, for years."
+        },
+        {
+          "character": "KIRK",
+          "line": "For years, I've loved you."
+        },
+        {
+          "character": "ADAMS",
+          "line": "You must continue to remember that, Captain. And now, she's gone."
+        },
+        {
+          "character": "KIRK",
+          "line": "Helen! Helen, don't go! I need you, Helen!"
+        },
+        {
+          "character": "ADAMS",
+          "line": "Now Captain, you must take your phaser weapon and drop it on the floor. Captain, the pain increases unless you obey me."
+        },
+        {
+          "character": "KIRK",
+          "line": "I must drop it."
+        },
+        {
+          "character": "ADAMS",
+          "line": "Very good, Captain. Very good indeed. And now your communicator. Drop it on the floor."
+        },
+        {
+          "character": "KIRK",
+          "line": "Kirk to Enterprise. Argh! Kirk to Enterprise. Argh!"
+        },
+        {
+          "character": "NOEL",
+          "line": "No!"
+        }
+      ],
+      "location": "Treatment room"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "NOEL",
+          "line": "They've taken you from the room, Captain. You're in your own quarters now."
+        },
+        {
+          "character": "KIRK",
+          "line": "Helen. Helen, for years I've loved you. Helen."
+        },
+        {
+          "character": "NOEL",
+          "line": "Try to remember."
+        },
+        {
+          "character": "KIRK",
+          "line": "I've loved you."
+        },
+        {
+          "character": "NOEL",
+          "line": "He placed all that in your mind."
+        },
+        {
+          "character": "KIRK",
+          "line": "For years."
+        },
+        {
+          "character": "NOEL",
+          "line": "Remember. Doctor Adams took the controls away from me. Do you remember the pain and then his voice? Remember?"
+        },
+        {
+          "character": "KIRK",
+          "line": "Yes. Yes, I remember. I remember. Helen. Look. The duct. The duct. Give me a hand here. Pull. Air conditioning. It has to connect with other ducts and tunnels. You can get through this. It might lead to the power supply. Short-circuited, it would cut off the security force field. Have you had any training in hyper-power circuits?"
+        },
+        {
+          "character": "NOEL",
+          "line": "No."
+        },
+        {
+          "character": "KIRK",
+          "line": "Megavoltage. Touch the wrong line, and you're dead."
+        },
+        {
+          "character": "NOEL",
+          "line": "Anything's better than Adams' treatment room. Time for another treatment?"
+        }
+      ],
+      "location": "Kirk's room"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "ADAMS",
+          "line": "Please don't fight me, Captain. The pain only gets worse when you doubt me. You believe in me completely."
+        },
+        {
+          "character": "KIRK",
+          "line": "I believe in you."
+        },
+        {
+          "character": "ADAMS",
+          "line": "You trust me completely."
+        },
+        {
+          "character": "KIRK",
+          "line": "I trust you."
+        },
+        {
+          "character": "ADAMS",
+          "line": "Excellent, Captain. I compliment you. Do you know Doctor Van Gelder was down on his hands and knees sobbing at this point? It was so gratifying. I'm so fortunate to have had a couple of excellent specimens to, to work with. I've learned a great deal."
+        },
+        {
+          "character": "LETHE",
+          "line": "The woman doctor. She's gone, Doctor Adams."
+        },
+        {
+          "character": "ADAMS",
+          "line": "Notify security at once, Lethe. Where is she, Captain?"
+        },
+        {
+          "character": "KIRK",
+          "line": "I, argh, I don't know."
+        },
+        {
+          "character": "ADAMS",
+          "line": "Where is Helen And with what instructions?"
+        },
+        {
+          "character": "KIRK",
+          "line": "I don't know."
+        }
+      ],
+      "location": "Treatment room"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "SPOCK",
+          "line": "Emergency channel D."
+        },
+        {
+          "character": "BERKELEY",
+          "line": "It's no good, Mister Spock. I can't break through their force field."
+        },
+        {
+          "character": "SPOCK",
+          "line": "Keep trying."
+        }
+      ],
+      "location": "Transporter room"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "ADAMS",
+          "line": "Put him back in the chair, Eli, and find that girl."
+        }
+      ],
+      "location": "Treatment room"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "BERKELEY",
+          "line": "Mister Spock, the force field is gone. I can send you right to the source of the interruption."
+        },
+        {
+          "character": "SPOCK",
+          "line": "Get some security people and follow me down. Energize."
+        }
+      ],
+      "location": "Transporter room"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "SPOCK",
+          "line": "Enterprise, this is Spock. Force field has been eliminated."
+        }
+      ],
+      "location": "Power control room"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "NOEL",
+          "line": "Captain. Captain?"
+        },
+        {
+          "character": "KIRK",
+          "line": "Helen, are you all right?"
+        },
+        {
+          "character": "NOEL",
+          "line": "Yes. This isn't right, Captain. Doctor Adams did this to you."
+        },
+        {
+          "character": "KIRK",
+          "line": "Doctor Adams? Doctor A. The treatment room. Follow me."
+        }
+      ],
+      "location": "Kirk's room"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "MCCOY",
+          "line": "Jim!"
+        },
+        {
+          "character": "KIRK",
+          "line": "The power came on."
+        },
+        {
+          "character": "MCCOY",
+          "line": "He's dead, Captain."
+        },
+        {
+          "character": "NOEL",
+          "line": "The machine wasn't on high enough to kill."
+        },
+        {
+          "character": "KIRK",
+          "line": "But he was alone. Can you imagine the mind emptied by that thing? Without even a tormentor for company."
+        },
+        {
+          "character": "NOEL",
+          "line": "I understand."
+        }
+      ],
+      "location": "Treatment room"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "UHURA",
+          "line": "Oh, Captain, there was a message from Tantalus colony, sir."
+        },
+        {
+          "character": "SPOCK",
+          "line": "It was from Van Gelder. He thought you'd like to know the treatment room had been dismantled and the equipment destroyed."
+        },
+        {
+          "character": "KIRK",
+          "line": "Thank you."
+        },
+        {
+          "character": "MCCOY",
+          "line": "It's hard to believe that a man could die of loneliness."
+        },
+        {
+          "character": "KIRK",
+          "line": "Not when you've sat in that room. Take us out of orbit, Mister Spock. Ahead warp factor one."
+        },
+        {
+          "character": "SPOCK",
+          "line": "Acknowledged, Captain. Warp factor one."
+        }
+      ],
+      "location": "Bridge"
+    }
+  ],
+  "schedule": {
+    "episode": 11,
+    "number": 11,
+    "season": 1
+  },
+  "stardate": "2715.1",
+  "title": "Dagger Of The Mind"
+}

@@ -1,0 +1,1012 @@
+{
+  "airdate": 118738800,
+  "scenes": [
+    {
+      "dialogue": [
+        {
+          "character": "KIRK",
+          "line": "Captain's log, stardate 5392.4. The Enterprise has been assigned to escort two robot grain ships to Sherman's Planet, which has been struck by crop failures and famine. This shipment of seed grain, quintrotriticale, is necessary to the survival of the colonists. We are breaking course to Sherman's Planet to investigate what appears to be a Klingon battle cruiser pursuing some kind of smaller ship. Observation may confirm a rumor that the Klingons have a new weapon, type so far unknown.",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "unknown"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "SULU",
+          "line": "Captain, it is a Klingon ship. Rapidly closing on its target."
+        },
+        {
+          "character": "SPOCK",
+          "line": "Sensors indicate the smaller vessel is a one-man scout ship of common design."
+        },
+        {
+          "character": "SULU",
+          "line": "They're firing on him."
+        },
+        {
+          "character": "KIRK",
+          "line": "Klingon battle cruiser, identify yourself. Ahead, warp factor six. Scotty, lock the transporter on that small vessel. We're going to rescue that pilot."
+        },
+        {
+          "character": "SCOTT",
+          "line": "Aye, aye, Captain.",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "SCOTT",
+          "line": "Locking on."
+        }
+      ],
+      "location": "Transporter room"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "KIRK",
+          "line": "Open hailing frequencies. Klingon battle cruiser, identify yourself. You are violating Federation space. Identify yourself. Stop firing on scout ship."
+        },
+        {
+          "character": "KIRK",
+          "line": "Arm all phasers. Deflector shields up."
+        },
+        {
+          "character": "SULU",
+          "line": "Phasers armed. Shields up."
+        },
+        {
+          "character": "KIRK",
+          "line": "Ahead warp factor eight. Klingon battle cruiser, identify yourself."
+        },
+        {
+          "character": "SULU",
+          "line": "They got him."
+        },
+        {
+          "character": "KIRK",
+          "line": "Scotty, have you got that pilot yet?"
+        },
+        {
+          "character": "SCOTT",
+          "line": "I don't know, sir.",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "SCOTT",
+          "line": "That Klingon . That blast decalibrated the integration parameters."
+        }
+      ],
+      "location": "Transporter room"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "SULU",
+          "line": "Captain. (The Klingon ship is coming straight for them. Red Alert sounds. A wibbly energy field is fired at Enterprise)"
+        },
+        {
+          "character": "KIRK",
+          "line": "The new weapon. Spock?"
+        },
+        {
+          "character": "SPOCK",
+          "line": "Some kind of field effect, Captain. It will hit us in precisely four seconds. It produces a most remarkable disruption."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "SCOTT",
+          "line": "Now, what"
+        }
+      ],
+      "location": "Transporter room"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "SULU",
+          "line": "Our engines are dead."
+        },
+        {
+          "character": "SPOCK",
+          "line": "Captain, we have been hit by a kind of projected stasis field. Our matter-antimatter generators are disabled. We are paralyzed."
+        },
+        {
+          "character": "KIRK",
+          "line": "Fire phasers."
+        },
+        {
+          "character": "SULU",
+          "line": "The phasers don't work, sir."
+        },
+        {
+          "character": "SPOCK",
+          "line": "The photon torpedoes will not respond, either. The stasis field disables all higher-order field and warp functions."
+        },
+        {
+          "character": "UHURA",
+          "line": "Well, we could always throw rocks."
+        },
+        {
+          "character": "SPOCK",
+          "line": "This new Klingon weapon must be one of surprising power if it can immobilize a starship. The energy drain on the Klingon ship would be enormous."
+        },
+        {
+          "character": "KIRK",
+          "line": "Scotty, did you get that pilot?"
+        },
+        {
+          "character": "SCOTT",
+          "line": "I got him in the beam, sir.",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "SCOTT",
+          "line": "But I can't integrate him. The system's been diskoordinated."
+        },
+        {
+          "character": "UHURA",
+          "line": "Captain, I have a message coming in, sir."
+        },
+        {
+          "character": "KIRK",
+          "line": "Put it on the viewscreen."
+        },
+        {
+          "character": "KOLOTH",
+          "line": "Ah, Captain Kirk.",
+          "modifier": "screen"
+        },
+        {
+          "character": "KIRK",
+          "line": "Release my ship."
+        },
+        {
+          "character": "KOLOTH",
+          "line": "I'd be delighted to, Captain Kirk, if you will turn over the pilot of the little ship.",
+          "modifier": "screen"
+        },
+        {
+          "character": "KIRK",
+          "line": "That ship was a Federation-built craft. The pilot is under our protection."
+        },
+        {
+          "character": "KOLOTH",
+          "line": "He has committed ecological sabotage. If I have to take him by force, I will.",
+          "modifier": "screen"
+        },
+        {
+          "character": "KIRK",
+          "line": "The first Klingon to step aboard this ship will be the last Klingon. Full security alert, Mister Spock."
+        },
+        {
+          "character": "KOLOTH",
+          "line": "I'm afraid, Captain Kirk, you'll find your phasers no longer work, nor any of your weapons.",
+          "modifier": "screen"
+        },
+        {
+          "character": "UHURA",
+          "line": "Mister Spock, I'm losing contact with our robot ships. They're not held by the stasis field and they're moving out of range."
+        },
+        {
+          "character": "KIRK",
+          "line": "What was that? Lieutenant, cut off that frequency."
+        },
+        {
+          "character": "UHURA",
+          "line": "Yes, sir. The robot ships, they're moving off."
+        },
+        {
+          "character": "KIRK",
+          "line": "They still have power? We still control them?"
+        },
+        {
+          "character": "SULU",
+          "line": "Affirmative, sir."
+        },
+        {
+          "character": "KIRK",
+          "line": "Bring them back, Mister Sulu. Have them ram the Klingon ship."
+        },
+        {
+          "character": "SPOCK",
+          "line": "Captain, you can't afford to lose that grain."
+        },
+        {
+          "character": "KIRK",
+          "line": "I can afford even less to lose the Enterprise. Open the hailing frequency again, Lieutenant. Captain Koloth. I'm going to give you one last chance to release the Enterprise."
+        },
+        {
+          "character": "KOLOTH",
+          "line": "You're going to give me one chance? It won't work, Captain Kirk.",
+          "modifier": "screen"
+        },
+        {
+          "character": "KIRK",
+          "line": "It will work, or he'd still be gloating. Bring the robot ships in from two different angles, Mister Sulu."
+        },
+        {
+          "character": "SPOCK",
+          "line": "Incredible. The amount of energy that field must require."
+        },
+        {
+          "character": "SPOCK",
+          "line": "They couldn't maintain the stasis field."
+        },
+        {
+          "character": "KIRK",
+          "line": "Keep your phasers locked on target, Mister Sulu. Hold your fire until they fire first."
+        },
+        {
+          "character": "SULU",
+          "line": "Aye, sir. Phasers locked on."
+        },
+        {
+          "character": "SPOCK",
+          "line": "Apparently their battle capacity is down. They only damaged it."
+        },
+        {
+          "character": "SULU",
+          "line": "They're veering off."
+        },
+        {
+          "character": "SPOCK",
+          "line": "Sensors indicate their power cells are almost exhausted. They probably don't have the strength for a prolonged battle now."
+        },
+        {
+          "character": "KIRK",
+          "line": "Scotty, can you integrate that pilot now?"
+        }
+      ],
+      "location": "Transporter room"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "SCOTT",
+          "line": "I think so, Captain."
+        },
+        {
+          "character": "KIRK",
+          "line": "We'll be right there.",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "Transporter room"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "KIRK",
+          "line": "Call McCoy to the Transporter room. Spock."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "KIRK",
+          "line": "Have you got him?"
+        },
+        {
+          "character": "SCOTT",
+          "line": "Just putting him together now, sir."
+        },
+        {
+          "character": "KIRK",
+          "line": "I think we know that man."
+        },
+        {
+          "character": "SPOCK",
+          "line": "It appears to be"
+        },
+        {
+          "character": "MCCOY",
+          "line": "I don't want to think about it."
+        },
+        {
+          "character": "KIRK",
+          "line": "Cyrano Jones!"
+        },
+        {
+          "character": "SCOTT",
+          "line": "And he's got tribbles with him. Tribbles!"
+        },
+        {
+          "character": "KIRK",
+          "line": "Captain's log, supplemental. Our rescue effort has given us some knowledge of the new Klingon weapon and the presence of Cyrano Jones, intergalactic trader and general nuisance.",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "Transporter room"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "JONES",
+          "line": "Captain Kirk. Friend Kirk."
+        },
+        {
+          "character": "KIRK",
+          "line": "Seal off the area, Ensign. You know the law about transporting animals proven harmful."
+        },
+        {
+          "character": "JONES",
+          "line": "Captain, these are safe tribbles."
+        },
+        {
+          "character": "MCCOY",
+          "line": "There's no such thing as a safe tribble."
+        },
+        {
+          "character": "SPOCK",
+          "line": "A safe tribble would be a contradiction in terms. Tribbles are well known for their proclivities in multiplication."
+        },
+        {
+          "character": "JONES",
+          "line": "And they breed fast, too. And that's why these tribbles are safe. They don't reproduce."
+        },
+        {
+          "character": "MCCOY",
+          "line": "Don't reproduce?"
+        },
+        {
+          "character": "JONES",
+          "line": "I've had them genetically engineered for compatibility with humanoid ecologies. See how friendly and loveable they are? And not a baby in the bunch. They're great pets and profitable, too."
+        },
+        {
+          "character": "KIRK",
+          "line": "Jones, how did you get away from Space Station K7? You were supposed to clean up all the tribbles there."
+        },
+        {
+          "character": "JONES",
+          "line": "Oh, well, I managed a short parole. I found some help. This is a tribble predator. It's called a glommer."
+        },
+        {
+          "character": "JONES",
+          "line": "Watch."
+        },
+        {
+          "character": "MCCOY",
+          "line": "Well, at least it's neat."
+        },
+        {
+          "character": "KIRK",
+          "line": "Why were the Klingons chasing you, Jones?"
+        },
+        {
+          "character": "JONES",
+          "line": "How should I know? Klingons have notoriously bad tempers."
+        },
+        {
+          "character": "SPOCK",
+          "line": "That may be true, but they rarely enter Federation space and fire on Federation vessels without reason."
+        },
+        {
+          "character": "KIRK",
+          "line": "They did mention ecological sabotage."
+        },
+        {
+          "character": "JONES",
+          "line": "Me? A saboteur? Ridiculous."
+        },
+        {
+          "character": "KIRK",
+          "line": "Captain Koloth was pretty emphatic."
+        },
+        {
+          "character": "JONES",
+          "line": "It was such a little thing. I can't understand at all why they got upset."
+        },
+        {
+          "character": "KIRK",
+          "line": "What did you do?"
+        },
+        {
+          "character": "JONES",
+          "line": "I only sold them some tribbles."
+        },
+        {
+          "character": "KIRK",
+          "line": "You sold tribbles on a Klingon planet?"
+        },
+        {
+          "character": "JONES",
+          "line": "Well, I didn't know it was a Klingon planet."
+        },
+        {
+          "character": "KIRK",
+          "line": "Tribbles don't like Klingons. That should have given you some clue."
+        },
+        {
+          "character": "JONES",
+          "line": "Klingons like tribbles even less. It was lucky you came along and saved me when you did, Friend Kirk. I couldn't have outrun them much longer."
+        },
+        {
+          "character": "KIRK",
+          "line": "According to our computer files, Jones, you are in violation of three Federation mandates and forty seven local ones. You're confined until we complete our mission. Then we'll turn you over to the proper authorities."
+        },
+        {
+          "character": "JONES",
+          "line": "Captain, couldn't we talk this over? I didn't think so."
+        }
+      ],
+      "location": "Transporter room"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "MCCOY",
+          "line": "Jim, Cyrano Jones is right. These tribbles don't reproduce. They just get fat. I don't think we have anything to worry about."
+        },
+        {
+          "character": "KIRK",
+          "line": "Not about tribbles, anyway. I am concerned about that new Klingon weapon."
+        },
+        {
+          "character": "SPOCK",
+          "line": "It is an energy-sapping field of great strength, Captain. It immobilizes a starship and its weapons capability. But apparently, it also immobilizes the attacking ship's abilities at the same time."
+        },
+        {
+          "character": "SCOTT",
+          "line": "Aye, and if that's true, then it's a weapon that leaves them as helpless as it does us."
+        },
+        {
+          "character": "SPOCK",
+          "line": "I believe I just said that, Mister Scott."
+        },
+        {
+          "character": "KIRK",
+          "line": "The practical advantages of such a weapon would seem to be limited."
+        },
+        {
+          "character": "SPOCK",
+          "line": "Perhaps, but there are logical applications. The key question is, how long does it take them to recharge? They will probably attack us again as soon as they are back up to power. And they will probably begin by destroying the other robot ship to prevent us from repeating the same trick. They want Cyrano Jones very badly."
+        },
+        {
+          "character": "MCCOY",
+          "line": "He really doesn't seem the saboteur type, Jim."
+        },
+        {
+          "character": "KIRK",
+          "line": "Yes. Status report on the damaged grain ship, Scotty?"
+        },
+        {
+          "character": "SCOTT",
+          "line": "Well, sir, we've managed to transfer all the grain aboard, but it severely limits us. We filled the shuttlecraft hangars, all our extra holds, and we've even got containers of that wheat, that quintrotriticale, in the corridors of the ship. And then we've got that other robot ship to escort, too. I don't like it at all, sir."
+        },
+        {
+          "character": "KIRK",
+          "line": "Nor do I, Mister Scott, but we've got to do it. Sherman's Planet needs that grain desperately."
+        },
+        {
+          "character": "SCOTT",
+          "line": "Aye, sir, but we've got tribbles on the ship, quintrotriticale in the corridors, Klingons in the quadrant. It can ruin your whole day, sir."
+        }
+      ],
+      "location": "Briefing room"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "SPOCK",
+          "line": "Captain, sensors are picking up a Klingon battle cruiser."
+        },
+        {
+          "character": "KIRK",
+          "line": "Deflector shields up. Stand by phasers. How fat do these things get?"
+        },
+        {
+          "character": "SULU",
+          "line": "Klingon ship approaching rapidly. Within phaser range in thirty seconds."
+        },
+        {
+          "character": "SPOCK",
+          "line": "Obviously, they can recharge their power in a matter of hours."
+        },
+        {
+          "character": "KIRK",
+          "line": "Use the robot ship as a decoy. Have it change course and move off. We'll use it again to give the Klingons trouble. They can't control more than one ship at a time with their stasis field."
+        },
+        {
+          "character": "SULU",
+          "line": "Beginning evasive maneuvers."
+        },
+        {
+          "character": "SPOCK",
+          "line": "The Klingon seems to be veering off. My mistake, Captain. They were not veering off. They were attacking the grain ship."
+        },
+        {
+          "character": "SULU",
+          "line": "But they didn't destroy it. They only wrecked the propulsion units. They left the cargo intact."
+        },
+        {
+          "character": "SPOCK",
+          "line": "Captain Koloth is quite a marksman."
+        },
+        {
+          "character": "SULU",
+          "line": "They've changed course. They're coming in again."
+        },
+        {
+          "character": "KIRK",
+          "line": "Ready phasers."
+        },
+        {
+          "character": "SULU",
+          "line": "Phasers armed and ready, sir."
+        },
+        {
+          "character": "KIRK",
+          "line": "Photon torpedoes. Fire one."
+        },
+        {
+          "character": "SPOCK",
+          "line": "They're running away. Very odd. They did not use their stasis weapon at all."
+        },
+        {
+          "character": "KIRK",
+          "line": "Perhaps they haven't had enough time to recharge it."
+        },
+        {
+          "character": "SPOCK",
+          "line": "Or the purpose of the attack was something else."
+        },
+        {
+          "character": "SULU",
+          "line": "They disabled the robot ship."
+        },
+        {
+          "character": "KIRK",
+          "line": "Scotty, put a tractor beam on it. We'll take it in tow."
+        },
+        {
+          "character": "SPOCK",
+          "line": "Captain, that could be exactly what they want us to do. Tow the robot and limit our available power. We're carrying the extra mass of the first ship's cargo, and now we have the second one in tow. That requires a great deal of power we won't be able to use in battle."
+        },
+        {
+          "character": "KIRK",
+          "line": "That seems logical."
+        },
+        {
+          "character": "SPOCK",
+          "line": "Thank you."
+        },
+        {
+          "character": "KIRK",
+          "line": "Well, Mister Spock, do you have any ideas?"
+        },
+        {
+          "character": "SPOCK",
+          "line": "We could always throw tribbles at them."
+        },
+        {
+          "character": "KIRK",
+          "line": "I thought Vulcans didn't have a sense of humor."
+        },
+        {
+          "character": "SPOCK",
+          "line": "We don't, Captain."
+        },
+        {
+          "character": "SCOTT",
+          "line": "Captain, we've got broken cargo containers in all the corridors, and the tribbles are eating the grain."
+        },
+        {
+          "character": "KIRK",
+          "line": "Get Cyrano Jones up here."
+        },
+        {
+          "character": "SCOTT",
+          "line": "Aye, sir."
+        },
+        {
+          "character": "KIRK",
+          "line": "Any sign of Captain Koloth's ship?"
+        },
+        {
+          "character": "SULU",
+          "line": "Nothing, sir."
+        },
+        {
+          "character": "KIRK",
+          "line": "Keep scanning."
+        },
+        {
+          "character": "JONES",
+          "line": "Captain Kirk, what can I do for you? Some Spican flame gems perhaps?"
+        },
+        {
+          "character": "KIRK",
+          "line": "Your tribbles are all over my ship. My security men can't find them all."
+        },
+        {
+          "character": "JONES",
+          "line": "You need better security men, Captain."
+        },
+        {
+          "character": "KIRK",
+          "line": "Mister Jones, you are in enough trouble already."
+        },
+        {
+          "character": "JONES",
+          "line": "Captain, a harmless little tribble. What can they hurt?"
+        },
+        {
+          "character": "KIRK",
+          "line": "Harmless, maybe. Little? In any case, they're eating the quintrotriticale."
+        },
+        {
+          "character": "JONES",
+          "line": "The what?"
+        },
+        {
+          "character": "KIRK",
+          "line": "The wheat!"
+        },
+        {
+          "character": "JONES",
+          "line": "They're hungry, Captain."
+        },
+        {
+          "character": "KIRK",
+          "line": "So are the people on Sherman's Planet. A little tribble doesn't eat much, a big tribble does. And these are growing. Jones, is this the ecological sabotage the Klingons are so mad about?"
+        },
+        {
+          "character": "SULU",
+          "line": "Captain, the Klingons are coming back."
+        },
+        {
+          "character": "KIRK",
+          "line": "Speak of the devil."
+        },
+        {
+          "character": "MCCOY",
+          "line": "Jim, there's something about these tribbles."
+        },
+        {
+          "character": "KIRK",
+          "line": "Later, Bones. Mister Sulu, release the robot ship. We'll swing back and pick it up later. Deflector shields up. Stand by photon torpedoes. And all noncombatants off the Bridge."
+        },
+        {
+          "character": "KIRK",
+          "line": "Captain's log, supplemental. The Klingon ship under command of Captain Koloth is forcing us into a battle for custody of Cyrano Jones for reasons still unknown.",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "SPOCK",
+          "line": "Contact in thirty seconds."
+        },
+        {
+          "character": "KIRK",
+          "line": "Ready photon torpedoes. Fire one."
+        },
+        {
+          "character": "SULU",
+          "line": "One fired."
+        },
+        {
+          "character": "SCOTT",
+          "line": "That's done it. We're caught."
+        },
+        {
+          "character": "UHURA",
+          "line": "Message coming in, sir."
+        },
+        {
+          "character": "KOLOTH",
+          "line": "Ah, Captain Kirk. We'll take control of your ship now.",
+          "modifier": "screen"
+        },
+        {
+          "character": "KIRK",
+          "line": "Not if I can help it."
+        },
+        {
+          "character": "KOLOTH",
+          "line": "I want your prisoner.",
+          "modifier": "screen"
+        },
+        {
+          "character": "KIRK",
+          "line": "Much as I hate to admit it, Captain Koloth, Cyrano Jones is a citizen of the Federation and entitled to Federation protection. I must, much as it pains me, refuse your request."
+        },
+        {
+          "character": "KOLOTH",
+          "line": "It is not a request. Don't force me to take steps that we will both regret.",
+          "modifier": "screen"
+        },
+        {
+          "character": "KIRK",
+          "line": "Close channel, Lieutenant."
+        },
+        {
+          "character": "UHURA",
+          "line": "With pleasure, sir."
+        },
+        {
+          "character": "SPOCK",
+          "line": "Aren't you going to sit down, sir?"
+        },
+        {
+          "character": "KIRK",
+          "line": "I think I'll stand."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "KOLOTH",
+          "line": "Implement boarding plan C."
+        },
+        {
+          "character": "KORAX",
+          "line": "Yes, sir."
+        }
+      ],
+      "location": "Klingon Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "KIRK",
+          "line": "Mister Scott, we're going to implement Emergency defense plan B."
+        },
+        {
+          "character": "SCOTT",
+          "line": "Plan B, sir?"
+        },
+        {
+          "character": "KIRK",
+          "line": "Mister Spock suggested it."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "SCOTT",
+          "line": "Emergency plan B complete, sir."
+        }
+      ],
+      "location": "Transporter room"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "KIRK",
+          "line": "Open hailing frequencies, Lieutenant. Captain Koloth, are you ready to release my ship?"
+        },
+        {
+          "character": "KOLOTH",
+          "line": "Release your ship? Kirk, you are monotonous.",
+          "modifier": "screen"
+        },
+        {
+          "character": "KIRK",
+          "line": "You don't know yet, do you?"
+        },
+        {
+          "character": "KOLOTH",
+          "line": "Know what?",
+          "modifier": "screen"
+        },
+        {
+          "character": "KIRK",
+          "line": "That we have immobilized your ship worse than you have immobilized ours."
+        },
+        {
+          "character": "KOLOTH",
+          "line": "I doubt that. Our instruments report nothing except some undue transporter activity and Kirk? Tribbles?",
+          "modifier": "screen"
+        },
+        {
+          "character": "KIRK",
+          "line": "Tribbles."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "KOLOTH",
+          "line": "Kirk, Cyrano Jones took a Klingon genetic construct, an artificial creature from one of our planets. We must have it back. It was designed to be a tribble predator. We are prepared to go to war if we have to."
+        }
+      ],
+      "location": "Klingon Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "KIRK",
+          "line": "You must have others."
+        },
+        {
+          "character": "KOLOTH",
+          "line": "This was the first one, Kirk. We need it in order to grow others from it. We need it to get rid of the tribbles",
+          "modifier": "screen"
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "KOLOTH",
+          "line": "Jones sold before they completely overrun the planet."
+        }
+      ],
+      "location": "Klingon Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "KIRK",
+          "line": "And that's all you want?"
+        },
+        {
+          "character": "KOLOTH",
+          "line": "Jones is not that important.",
+          "modifier": "screen"
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "KOLOTH",
+          "line": "We must have the glommer."
+        }
+      ],
+      "location": "Klingon Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "KIRK",
+          "line": "Oh, well, if that's all. Mister Scott, transport the glommer over to the Klingon ship."
+        },
+        {
+          "character": "SCOTT",
+          "line": "Aye, sir.",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "JONES",
+          "line": "You can't do this to me. Under space salvage laws, he's mine."
+        },
+        {
+          "character": "SCOTT",
+          "line": "A planetary surface is not covered by space salvage laws. But if you want the little beastie that bad, Mister Jones, we'll transport you over with it."
+        },
+        {
+          "character": "JONES",
+          "line": "I withdraw my claim."
+        }
+      ],
+      "location": "Transporter room"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "KIRK",
+          "line": "Well, at least we can report the stasis field is not as effective a weapon as we thought. The power drain is too high and takes too long for the Klingon ship to recover to make it practical."
+        },
+        {
+          "character": "SPOCK",
+          "line": "Agreed, Captain. Tribbles appear to be a much more effective weapon."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "MCCOY",
+          "line": "Jones' genetic engineering was very slipshod. Jim. He may have kept the tribbles from reproducing, but he didn't slow down their metabolism. You see, they're not just giant tribbles, they're colonies."
+        }
+      ],
+      "location": "Corridor"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "KORAX",
+          "line": "Captain, the engine room is filled with tribble."
+        },
+        {
+          "character": "KOLOTH",
+          "line": "Well, we can do something about that. Attack."
+        },
+        {
+          "character": "KOLOTH",
+          "line": "He did it to us again! That tin-plated, overbearing excuse for a starship captain did it to us again. Blast that thing."
+        },
+        {
+          "character": "KORAX",
+          "line": "Any other orders, sir?"
+        },
+        {
+          "character": "KOLOTH",
+          "line": "Yes. Don't do that again. Ever."
+        }
+      ],
+      "location": "Klingon ship"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "MCCOY",
+          "line": "A simple shot of neoethylene will fix everything. The tribble colonies will break down into their individual units with a slower metabolic rate. And these really will be safe tribbles now."
+        },
+        {
+          "character": "JONES",
+          "line": "Er, what about the Klingons?"
+        },
+        {
+          "character": "MCCOY",
+          "line": "Well, unless they treat their tribbles too, that ship isn't going to be big enough for all of them."
+        },
+        {
+          "character": "KIRK",
+          "line": "Say, you didn't get this one, Bones."
+        },
+        {
+          "character": "MCCOY",
+          "line": "Oh yes I did."
+        },
+        {
+          "character": "KIRK",
+          "line": "But it hasn't Someday I'll learn."
+        },
+        {
+          "character": "SCOTT",
+          "line": "Aye, Captain. But you've got to admit, if we've got to have tribbles, it's best if all our tribbles are little ones."
+        }
+      ],
+      "location": "Corridor"
+    }
+  ],
+  "schedule": {
+    "episode": 1,
+    "number": 1,
+    "season": 1
+  },
+  "stardate": "5392.4",
+  "title": "More Tribbles, More Troubles"
+}

@@ -1,0 +1,1641 @@
+{
+  "airdate": 1040198400,
+  "scenes": [
+    {
+      "dialogue": [
+        {
+          "character": "unknown",
+          "line": "Captain's Starlog, September 18th, 2152. We've entered orbit of an uninhabited planet. Our scans show it's teeming with all sorts of plant and animal life. I'll be leading a survey team to the surface."
+        }
+      ],
+      "location": "unknown"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TUCKER",
+          "line": "There's a gorge on the southern continent five times deeper than the Grand Canyon."
+        },
+        {
+          "character": "ARCHER",
+          "line": "What have you got in mind?"
+        },
+        {
+          "character": "TUCKER",
+          "line": "How about a little river rafting? T'Pol says it only gets dark four days a month because of the binary suns. We'll have plenty of daylight left after we're done working every night."
+        }
+      ],
+      "location": "Launch bay"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "ARCHER",
+          "line": "It's going to take at least a week to complete the survey. Should be enough time to sneak in some R and R."
+        },
+        {
+          "character": "T'POL",
+          "line": "Bridge to Captain Archer.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "ARCHER",
+          "line": "Go ahead."
+        },
+        {
+          "character": "T'POL",
+          "line": "We've got an alien vessel approaching. They're hailing us.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "ARCHER",
+          "line": "Put them through to Shuttlepod One."
+        },
+        {
+          "character": "T'POL",
+          "line": "Yes, sir.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "TUCKER",
+          "line": "New planet, new aliens. Banner day."
+        },
+        {
+          "character": "TAGRIM",
+          "line": "We're very relieved to see you. I'm Rellus Tagrim. This is my crew.",
+          "modifier": "screen"
+        },
+        {
+          "character": "ARCHER",
+          "line": "Captain Archer of the Starship Enterprise. Something we can do for you?"
+        },
+        {
+          "character": "TAGRIM",
+          "line": "Considering the circumstances, we would like permission to come aboard as soon as possible.",
+          "modifier": "screen"
+        },
+        {
+          "character": "ARCHER",
+          "line": "What circumstances?"
+        },
+        {
+          "character": "TAGRIM",
+          "line": "The neutronic wavefront. It's almost here.",
+          "modifier": "screen"
+        },
+        {
+          "character": "TUCKER",
+          "line": "Nothing on sensors."
+        },
+        {
+          "character": "TAGRIM",
+          "line": "You should detect the storm in a few minutes. It's traveling at high warp. Once we're aboard, I suggest you go to warp seven immediately.",
+          "modifier": "screen"
+        },
+        {
+          "character": "ARCHER",
+          "line": "Our top speed is warp five."
+        }
+      ],
+      "location": "Shuttlepod"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "T'POL",
+          "line": "The wavefront spans more than half a dozen light years. A Vulcan starship encountered a class five over a century ago. The vessel was nearly destroyed."
+        },
+        {
+          "character": "ARCHER",
+          "line": "How long until it hits?"
+        },
+        {
+          "character": "T'POL",
+          "line": "Approximately four hours."
+        },
+        {
+          "character": "REED",
+          "line": "If we reinforce structural integrity we should be able to weather it without too much trouble."
+        },
+        {
+          "character": "PHLOX",
+          "line": "Enterprise may survive. The crew is another matter. The storm is saturated with radiolytic isotopes. If the crew is exposed, they'll be dead within three minutes. Sickbay is the most heavily shielded section. It's possible that some of the crew could survive there."
+        },
+        {
+          "character": "ARCHER",
+          "line": "We can't fit eighty three people into Sickbay, and I'm not about to draw lots."
+        },
+        {
+          "character": "TUCKER",
+          "line": "What about the Catwalk? You know, the maintenance shaft running the length of each nacelle."
+        },
+        {
+          "character": "ARCHER",
+          "line": "They are heavily shielded. Some kind of osmium alloy, if I remember."
+        },
+        {
+          "character": "T'POL",
+          "line": "You're proposing we take refuge in a crawlspace?"
+        },
+        {
+          "character": "TUCKER",
+          "line": "It'll be a tight squeeze, but there's no reason we can't fit eighty three people in there, and whatever supplies we need."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Doctor?"
+        },
+        {
+          "character": "PHLOX",
+          "line": "Do you know the absorption depth of this alloy?"
+        },
+        {
+          "character": "TUCKER",
+          "line": "At least twenty thousand particles per micron."
+        },
+        {
+          "character": "PHLOX",
+          "line": "It should be adequate."
+        },
+        {
+          "character": "TUCKER",
+          "line": "There's just one other problem. It gets kind of toasty in there when the warp coils are online. About three hundred degrees. We'd have to shut down the main reactor."
+        },
+        {
+          "character": "ARCHER",
+          "line": "I don't see that we have any choice. We'll use the Catwalk, and set up a command station in one of the compartments."
+        },
+        {
+          "character": "TUCKER",
+          "line": "Aye, Captain. ARCHER You'll be in charge of the evacuation. Take us out of orbit, Travis."
+        }
+      ],
+      "location": "Situation room"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TRAVIS",
+          "line": "Maybe we should open a window."
+        },
+        {
+          "character": "TUCKER",
+          "line": "You think it's stuffy now, wait till we get eighty three people in here."
+        },
+        {
+          "character": "TRAVIS",
+          "line": "And don't forget Porthos, and all the Doctor's animals."
+        },
+        {
+          "character": "TUCKER",
+          "line": "You ever been through a storm as bad as this?"
+        },
+        {
+          "character": "TRAVIS",
+          "line": "Ran into a Class three once. Had to take shelter in the ship's core. We were down there for six weeks."
+        },
+        {
+          "character": "TUCKER",
+          "line": "Six weeks?"
+        },
+        {
+          "character": "TRAVIS",
+          "line": "Any idea about a latrine?"
+        },
+        {
+          "character": "TUCKER",
+          "line": "Oh, I never thought about that. There are some storage lockers in the aft compartment. We ought to be able to convert a couple of them."
+        },
+        {
+          "character": "TUCKER",
+          "line": "This'll be our Bridge. We're going to have to jury-rig these panels, tap them into command functions."
+        },
+        {
+          "character": "TRAVIS",
+          "line": "Not much room for a Captain's chair."
+        },
+        {
+          "character": "TUCKER",
+          "line": "That storm must've been pretty scary."
+        },
+        {
+          "character": "TRAVIS",
+          "line": "We only got worried when the generators went down. We lost the grav-plating, life support. I'll never forget that look in my father's eyes. He knew we were in trouble."
+        }
+      ],
+      "location": "Catwalk"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "ARCHER",
+          "line": "Sorry to keep you in there so long. Please."
+        },
+        {
+          "character": "TAGRIM",
+          "line": "We understand."
+        },
+        {
+          "character": "ARCHER",
+          "line": "My Science Officer tells me you're from the Takret system. That's a long way from here."
+        },
+        {
+          "character": "TAGRIM",
+          "line": "Our work often takes us far from home."
+        },
+        {
+          "character": "RENTH",
+          "line": "We're stellar cartographers."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Really? Once we get out of the storm maybe you can help us update our star charts."
+        },
+        {
+          "character": "TAGRIM",
+          "line": "We'd be pleased."
+        },
+        {
+          "character": "PHLOX",
+          "line": "This way."
+        }
+      ],
+      "location": "Corridor"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "T'POL",
+          "line": "You're behind schedule. Do you need help?"
+        },
+        {
+          "character": "PHLOX",
+          "line": "I understand you've allotted fifteen cubic meters for medical supplies?"
+        },
+        {
+          "character": "T'POL",
+          "line": "That's correct."
+        },
+        {
+          "character": "PHLOX",
+          "line": "That means there's only enough room for two-thirds of these cages."
+        },
+        {
+          "character": "T'POL",
+          "line": "Perhaps some of your creatures could share."
+        },
+        {
+          "character": "PHLOX",
+          "line": "They'll eat each other. They're vital to my work and the health of this crew. I'm not accustomed to making emotional appeals. Please, don't ask me to choose between them."
+        },
+        {
+          "character": "T'POL",
+          "line": "All right. Twenty cubic meters."
+        },
+        {
+          "character": "PHLOX",
+          "line": "My Edosian slugs thank you."
+        }
+      ],
+      "location": "Sickbay"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TUCKER",
+          "line": "I'm afraid these aren't first class accommodations."
+        },
+        {
+          "character": "TAGRIM",
+          "line": "They'll be fine, Commander. We're grateful for your hospitality."
+        },
+        {
+          "character": "TUCKER",
+          "line": "We're going to have a lot of time to get to know each other. If you need anything, I'll be right over here."
+        },
+        {
+          "character": "GURI",
+          "line": "I don't know the first thing about stellar cartography."
+        },
+        {
+          "character": "TAGRIM",
+          "line": "Guri."
+        },
+        {
+          "character": "GURI",
+          "line": "What if they begin to ask questions?"
+        }
+      ],
+      "location": "Catwalk"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "ARCHER",
+          "line": "Come in. I didn't expect it to be beautiful. Too bad we don't have time to run some scans."
+        },
+        {
+          "character": "T'POL",
+          "line": "We'll be inside the phenomenon for nearly eight days. We can run all the scans we want. Lieutenant Reed has completed his modifications."
+        },
+        {
+          "character": "ARCHER",
+          "line": "I'm a little nervous about shutting down the power grid."
+        },
+        {
+          "character": "T'POL",
+          "line": "A single neutronic surge could overload the grid and damage critical systems."
+        },
+        {
+          "character": "ARCHER",
+          "line": "I did a little research in the Vulcan database. That Class five storm a century ago involved the Starship T'Plana. Apparently, they couldn't outrun the wavefront. It was lost with all hands. I thought you said it was nearly destroyed."
+        },
+        {
+          "character": "T'POL",
+          "line": "I must have remembered incorrectly."
+        }
+      ],
+      "location": "Ready room"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "ARCHER",
+          "line": "Bridge to Commander Tucker."
+        },
+        {
+          "character": "TUCKER",
+          "line": "Go ahead.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "ARCHER",
+          "line": "Ready for the handoff?"
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TUCKER",
+          "line": "Give me a second."
+        }
+      ],
+      "location": "Catwalk command area"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TUCKER",
+          "line": "Standing by, Captain.",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TUCKER",
+          "line": "We're in the driver's seat."
+        }
+      ],
+      "location": "Catwalk command area"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "ARCHER",
+          "line": "See you in a few minutes. Archer out. Let's close up shop."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "ARCHER",
+          "line": "Done a head count?"
+        },
+        {
+          "character": "TUCKER",
+          "line": "Entire crew's accounted for, including one quadruped. Would you like to try out the Captain's chair?"
+        },
+        {
+          "character": "ARCHER",
+          "line": "Maybe later. Where's the comm.?"
+        },
+        {
+          "character": "ARCHER",
+          "line": "All hands, this is the Captain. This catwalk is going to be our home for a while. A week, maybe more. You may not be comfortable, but you'll be alive. We have the best crew in the fleet and the sturdiest ship. I promise you, we'll get through this."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Time?"
+        },
+        {
+          "character": "T'POL",
+          "line": "One minute, five seconds."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Polarize the hull plating."
+        },
+        {
+          "character": "T'POL",
+          "line": "Thirty seconds."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Travis?"
+        },
+        {
+          "character": "TRAVIS",
+          "line": "Spatial turbulence."
+        },
+        {
+          "character": "T'POL",
+          "line": "Twenty seconds. Fifteen. Ten."
+        },
+        {
+          "character": "ARCHER",
+          "line": "All hands, brace for impact."
+        },
+        {
+          "character": "TRAVIS",
+          "line": "Aft stabilizers aren't engaging."
+        },
+        {
+          "character": "TUCKER",
+          "line": "Try them again."
+        },
+        {
+          "character": "TRAVIS",
+          "line": "Grav-shear's dropping."
+        },
+        {
+          "character": "TRAVIS",
+          "line": "That should be the worst of it, sir, at least for now."
+        }
+      ],
+      "location": "Catwalk command area"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "CREWWOMAN",
+          "line": "You wouldn't know who was the first Vulcan ambassador to Earth. Six letters, ends with an R?"
+        },
+        {
+          "character": "ARCHER",
+          "line": "Solkar, I think."
+        },
+        {
+          "character": "CREWWOMAN",
+          "line": "Thanks, Captain."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Don't mention it."
+        },
+        {
+          "character": "ARCHER",
+          "line": "How're you holding up?"
+        },
+        {
+          "character": "HOSHI",
+          "line": "Pretty well, sir. A few days in this place should cure anyone of claustrophobia."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Your quarters will probably feel like a ballroom after this."
+        },
+        {
+          "character": "HOSHI",
+          "line": "You're the Captain. Can't you order the storm to calm down a little?"
+        },
+        {
+          "character": "ARCHER",
+          "line": "I'll see what I can do."
+        },
+        {
+          "character": "VOICE",
+          "line": "Someone has already asked for it, so why isn't he doing anything about it?"
+        },
+        {
+          "character": "CREWMAN",
+          "line": "How should I know?"
+        },
+        {
+          "character": "VOICE",
+          "line": "Another day in this place."
+        },
+        {
+          "character": "VOICE",
+          "line": "We're running out of food."
+        },
+        {
+          "character": "ARCHER",
+          "line": "How're they doing?"
+        },
+        {
+          "character": "TUCKER",
+          "line": "Your guess is as good as mine. One of them came out a few hours ago. Told us we were making too much noise. Now, I've been real friendly. Even asked them to join the game. Doesn't seem like they want anything to do with us."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Let's give them a little time to adjust."
+        },
+        {
+          "character": "TUCKER",
+          "line": "You know, I bet by now we'd have set up camp on the rim of that canyon, had a fire going."
+        },
+        {
+          "character": "ARCHER",
+          "line": "There'll be other canyons."
+        },
+        {
+          "character": "PHLOX",
+          "line": "PalantiI, are you passing through or is there something I can help you with?"
+        },
+        {
+          "character": "REED",
+          "line": "Actually, there is something."
+        },
+        {
+          "character": "PHLOX",
+          "line": "Yes?"
+        },
+        {
+          "character": "REED",
+          "line": "I assume I can depend on doctor-patient confidentiality."
+        },
+        {
+          "character": "PHLOX",
+          "line": "This wouldn't have anything to do with gastrointestinal distress?"
+        },
+        {
+          "character": "REED",
+          "line": "Is it that obvious?"
+        },
+        {
+          "character": "PHLOX",
+          "line": "Not at all. There's a notation in your medical file. Something about an unfortunate incident during zero g training."
+        },
+        {
+          "character": "REED",
+          "line": "The EV simulator at Lunaport, or as Starfleet trainees call it, The Vomitorium."
+        },
+        {
+          "character": "PHLOX",
+          "line": "Nothing to be embarrassed about. I've treated a number of crewmen this afternoon for motion sickness."
+        },
+        {
+          "character": "PHLOX",
+          "line": "That should last for about twelve hours."
+        },
+        {
+          "character": "REED",
+          "line": "Thank you, Doctor."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Feeling all right, Malcolm?"
+        },
+        {
+          "character": "REED",
+          "line": "Never better."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Any problems with the crew?"
+        },
+        {
+          "character": "PHLOX",
+          "line": "Oh, a few bumps and bruises from the turbulence. Nothing too serious."
+        },
+        {
+          "character": "ARCHER",
+          "line": "I could see about moving some of this to the aft section."
+        },
+        {
+          "character": "PHLOX",
+          "line": "Nonsense. I have plenty of room. I find the close quarters rather comforting. Reminds me of home."
+        },
+        {
+          "character": "ARCHER",
+          "line": "I didn't realize space was at a premium on Denobula."
+        },
+        {
+          "character": "PHLOX",
+          "line": "Twelve billion people sharing one continent."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Let me know if you change your mind."
+        }
+      ],
+      "location": "Catwalk"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "ARCHER",
+          "line": "Travis?"
+        },
+        {
+          "character": "TRAVIS",
+          "line": "We've got a cluster of plasma eddies about eighty thousand kilometers ahead. I should be able to steer clear of them."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Wake me if there's a problem."
+        },
+        {
+          "character": "TRAVIS",
+          "line": "Aye, Captain."
+        },
+        {
+          "character": "ARCHER",
+          "line": "When we're past those eddies, try and get some rest yourself. Ensign Tanner can relieve you."
+        },
+        {
+          "character": "TRAVIS",
+          "line": "Thank you, sir. Good night."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Good night."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Go on. Go to sleep."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Does this bother you?"
+        },
+        {
+          "character": "T'POL",
+          "line": "Only slightly."
+        },
+        {
+          "character": "T'POL",
+          "line": "Am I disturbing you?"
+        },
+        {
+          "character": "ARCHER",
+          "line": "Only slightly."
+        },
+        {
+          "character": "ARCHER",
+          "line": "You know, there's a bright side to all of this."
+        },
+        {
+          "character": "T'POL",
+          "line": "Really."
+        },
+        {
+          "character": "ARCHER",
+          "line": "It's bringing the crew closer together. If you forget about the storm outside, this is almost like going on a camping trip."
+        },
+        {
+          "character": "T'POL",
+          "line": "Perhaps we can sing a few songs later."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Haven't you ever gone camping?"
+        },
+        {
+          "character": "T'POL",
+          "line": "In a manner of speaking. I once participated in the kahswan ritual. I was taken to the desert and left to survive for ten days."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Sounds fun. You haven't left the command area much today. You might want to wander around, get to know the crew."
+        },
+        {
+          "character": "T'POL",
+          "line": "I'm familiar with every one of them."
+        },
+        {
+          "character": "ARCHER",
+          "line": "There's a lot more to these people than just their names. It'd be good for you to fraternize a little."
+        },
+        {
+          "character": "T'POL",
+          "line": "Is that an order?"
+        },
+        {
+          "character": "ARCHER",
+          "line": "Does it have to be?"
+        },
+        {
+          "character": "T'POL",
+          "line": "I'm not skilled at fraternizing."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Here's a chance to learn."
+        },
+        {
+          "character": "REED",
+          "line": "I'll see your strawberry shortcake, and I'll raise you one pineapple cobbler."
+        },
+        {
+          "character": "TRAVIS",
+          "line": "Broccoli?"
+        },
+        {
+          "character": "HOSHI",
+          "line": "I'm out of desserts."
+        },
+        {
+          "character": "TRAVIS",
+          "line": "Call."
+        },
+        {
+          "character": "REED",
+          "line": "Oh, what I wouldn't give for a shower right about now. When this hand's over maybe you could look into building one."
+        },
+        {
+          "character": "TUCKER",
+          "line": "Would you like a sauna while I'm at it?"
+        },
+        {
+          "character": "REED",
+          "line": "You knew we'd be stuck in here for over a week. You might've given it a little thought to making it tolerable."
+        },
+        {
+          "character": "TUCKER",
+          "line": "I only had four hours, Malcolm. You're lucky we've got a toilet."
+        },
+        {
+          "character": "REED",
+          "line": "Well, I obviously overestimated your people's abilities when it comes to indoor plumbing."
+        },
+        {
+          "character": "TUCKER",
+          "line": "You want to take a shower? Build one yourself."
+        },
+        {
+          "character": "TUCKER",
+          "line": "Thanks, Chef."
+        },
+        {
+          "character": "HOSHI",
+          "line": "Thanks, Chef."
+        },
+        {
+          "character": "REED",
+          "line": "Pot roast? Oh, come on. That's the third time in three days."
+        },
+        {
+          "character": "TRAVIS",
+          "line": "Anyone know what they're showing tonight?"
+        },
+        {
+          "character": "TUCKER",
+          "line": "The Day the Earth Stood Still."
+        },
+        {
+          "character": "REED",
+          "line": "We're having movie night in here?"
+        },
+        {
+          "character": "TUCKER",
+          "line": "Captain's orders. I set up a monitor in Compartment Five. The screen's a little small, but"
+        },
+        {
+          "character": "HOSHI",
+          "line": "Who's picking these movies? Shouldn't we all get a vote?"
+        },
+        {
+          "character": "TRAVIS",
+          "line": "I think something's burning."
+        },
+        {
+          "character": "TUCKER",
+          "line": "Are you aware you're sitting on top of a plasma manifold? You got to turn that thing off!"
+        },
+        {
+          "character": "TAGRIM",
+          "line": "I apologize, Commander. We should've spoken with you first."
+        },
+        {
+          "character": "TUCKER",
+          "line": "That might've been a good idea."
+        },
+        {
+          "character": "RENTH",
+          "line": "We've had trouble digesting your food."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Archer to Tucker.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "TUCKER",
+          "line": "Go ahead."
+        },
+        {
+          "character": "ARCHER",
+          "line": "I need you in the command area right away.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "TUCKER",
+          "line": "I'll be right there. (He picks up their pan loaded with - something.)"
+        },
+        {
+          "character": "TUCKER",
+          "line": "I'll talk to Chef. Maybe he can heat that up for you."
+        }
+      ],
+      "location": "Catwalk command area"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "ARCHER",
+          "line": "We may have a problem in Engineering."
+        },
+        {
+          "character": "T'POL",
+          "line": "The antimatter injectors have come online."
+        },
+        {
+          "character": "TUCKER",
+          "line": "That can't be right. Probably just a glitch. Think you've got room for one more sleeping bag in here?"
+        },
+        {
+          "character": "ARCHER",
+          "line": "Not happy with your bunk mates?"
+        },
+        {
+          "character": "TUCKER",
+          "line": "I caught them throwing a barbecue next to a plasma manifold. Now, I understand we're explorers. We're supposed to keep an open mind about different cultures, but these guys are driving me crazy. They only need to sleep once a week, so they've kept us up the last two nights with their strange rituals. Chanting, walking in circles. They've practically taken over the compartment."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Don't forget they're the ones who warned us about the storm. We owe them. Be patient."
+        },
+        {
+          "character": "TUCKER",
+          "line": "I'm trying. Looks like the matter injectors and the antimatter injectors are online."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Two sensor glitches?"
+        },
+        {
+          "character": "T'POL",
+          "line": "A power surge could've triggered both circuits."
+        },
+        {
+          "character": "TUCKER",
+          "line": "Do you have any idea what the odds are of that happening?"
+        },
+        {
+          "character": "ARCHER",
+          "line": "Can you shut them down?"
+        },
+        {
+          "character": "TUCKER",
+          "line": "Not from here. Someone's going to have to go to Engineering."
+        }
+      ],
+      "location": "Catwalk command area"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "PHLOX",
+          "line": "Remember, the suit will protect you for only twenty two minutes."
+        },
+        {
+          "character": "ARCHER",
+          "line": "It'd be best not to take the scenic route."
+        }
+      ],
+      "location": "Hatch into the rest of the ship"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "PALANTI",
+          "line": "We've searched every deck. There's no sign of the fugitives."
+        },
+        {
+          "character": "CAPTAIN",
+          "line": "What about the crew?"
+        },
+        {
+          "character": "PALANTI",
+          "line": "It appears they have deserted the ship."
+        },
+        {
+          "character": "CAPTAIN",
+          "line": "These humans. They've traveled over a hundred light years from their homeworld."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Captain's Starlog, February 9, 2152. The Vulcans have allowed the Mazarites to leave. Ambassador V'Lar says there's a",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "CAPTAIN",
+          "line": "Archer and his crew must've taken refuge in a nearby system. They may intend to return. What's the status of the warp engines?"
+        },
+        {
+          "character": "PALANTI",
+          "line": "I'm having difficulty with the dilithium matrix."
+        },
+        {
+          "character": "CAPTAIN",
+          "line": "Make it a priority."
+        },
+        {
+          "character": "ARCHER",
+          "line": "2152. We've responded to a distress call from a vessel in the",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "Ready room"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "PHLOX",
+          "line": "They're immune to radiolytic isotopes. The storm was never any threat to them."
+        },
+        {
+          "character": "TUCKER",
+          "line": "Funny, you didn't mention that."
+        },
+        {
+          "character": "TAGRIM",
+          "line": "We were in danger. Our ship is less durable than yours. We would've been destroyed by the storm."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Who are they? What are they doing here?"
+        },
+        {
+          "character": "TAGRIM",
+          "line": "Captain, I assure you. We don't know these men."
+        },
+        {
+          "character": "ARCHER",
+          "line": "They just happened to find Enterprise in the middle of a class five neutronic storm? Where three members of their own species just happened to be taking refuge?"
+        },
+        {
+          "character": "T'POL",
+          "line": "We're more than twenty light years from your homeworld. It's an unlikely coincidence."
+        },
+        {
+          "character": "ARCHER",
+          "line": "I get the feeling they must be looking for you. Answer me!"
+        },
+        {
+          "character": "GURI",
+          "line": "I told you we shouldn't have come here."
+        },
+        {
+          "character": "TAGRIM",
+          "line": "Guri."
+        },
+        {
+          "character": "RENTH",
+          "line": "They're officers of the Takret Militia. They've been pursuing us for weeks. We thought we could evade them by hiding aboard your ship."
+        },
+        {
+          "character": "GURI",
+          "line": "They must've detected our vessel in your launch bay."
+        },
+        {
+          "character": "ARCHER",
+          "line": "What do they want with you?"
+        },
+        {
+          "character": "RENTH",
+          "line": "We used to be members of the militia, in the lower ranks, but after a year we realized that the commanding officers were corrupt. They seize alien vessels without provocation. They murder the crews, take anything of value."
+        },
+        {
+          "character": "GURI",
+          "line": "They're little more than criminals."
+        },
+        {
+          "character": "TAGRIM",
+          "line": "We tried to resign our commissions but they wouldn't allow it."
+        },
+        {
+          "character": "ARCHER",
+          "line": "You're deserters."
+        },
+        {
+          "character": "TAGRIM",
+          "line": "We had no choice. We would've told you the truth, but we weren't sure that you would help us."
+        },
+        {
+          "character": "RENTH",
+          "line": "If they find us, we'll be executed."
+        },
+        {
+          "character": "TAGRIM",
+          "line": "Captain, I apologize for the difficult position that we've put you in, but I know these men. Even if they found us, I doubt they'd simply leave. They've captured vessels far less impressive than yours."
+        },
+        {
+          "character": "REED",
+          "line": "They're trying to re-initialize the warp reactor, sir. It seems to me they've already decided to help themselves to Enterprise."
+        },
+        {
+          "character": "T'POL",
+          "line": "They obviously don't realize we're in the catwalk. If they learn we're here, it would undoubtedly endanger the crew."
+        },
+        {
+          "character": "TUCKER",
+          "line": "What're you suggesting? We just sit on our hands until they fire up the engines?"
+        },
+        {
+          "character": "ARCHER",
+          "line": "You're assuming these three are telling the truth. They've already lied to us."
+        },
+        {
+          "character": "TAGRIM",
+          "line": "We're not lying. These men are dangerous."
+        }
+      ],
+      "location": "Catwalk"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "PALANTI",
+          "line": "Palanti to Captain."
+        }
+      ],
+      "location": "Engineering"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "CAPTAIN",
+          "line": "Yes."
+        },
+        {
+          "character": "PALANTI",
+          "line": "The dilithium matrix is active.",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "PALANTI",
+          "line": "We're ready to initialize the warp reactor."
+        },
+        {
+          "character": "CAPTAIN",
+          "line": "Stand by.",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "Engineering"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "CAPTAIN",
+          "line": "Do we have helm control?"
+        },
+        {
+          "character": "CREWMAN",
+          "line": "The navigation relay's still not responding. I think they've been re-routed."
+        },
+        {
+          "character": "CAPTAIN",
+          "line": "How much longer?"
+        },
+        {
+          "character": "CREWMAN",
+          "line": "I'm not certain."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "CAPTAIN",
+          "line": "Bring the warp engines online and report to the Bridge.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "PALANTI",
+          "line": "Acknowledged."
+        }
+      ],
+      "location": "Engineering"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "T'POL",
+          "line": "We may outnumber them, but we only have three EV suits."
+        },
+        {
+          "character": "REED",
+          "line": "I could take a security team and bring back more."
+        },
+        {
+          "character": "TUCKER",
+          "line": "I doubt you'd get very far. The launch bay's crawling with them."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Even if we could get the suits, we only have twenty two minutes in the radiation. Hard to believe we could re-take the ship in that"
+        },
+        {
+          "character": "ARCHER",
+          "line": "How long do we have?"
+        },
+        {
+          "character": "TUCKER",
+          "line": "It'll take a while for the warp coils to charge."
+        },
+        {
+          "character": "ARCHER",
+          "line": "How long?"
+        },
+        {
+          "character": "TUCKER",
+          "line": "Twenty minutes, tops."
+        }
+      ],
+      "location": "Catwalk"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TUCKER",
+          "line": "Remember, junction forty two alpha."
+        },
+        {
+          "character": "T'POL",
+          "line": "Understood."
+        },
+        {
+          "character": "TUCKER",
+          "line": "Third panel, starboard side. And be careful. There's a lot of current running through those circuits. I really ought to be the one doing this, Captain. The Doc said I was only out there for thirteen minutes."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Forget it, Trip. You've already been exposed."
+        },
+        {
+          "character": "HOSHI",
+          "line": "I've isolated your comm. frequencies. They won't hear a thing."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Tell Travis to wait for my signal."
+        }
+      ],
+      "location": "Hatch into rest of ship"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "CAPTAIN",
+          "line": "Any progress?"
+        },
+        {
+          "character": "CREWMAN",
+          "line": "Not yet. We could lose our ship by staying here. We should take what we can and leave."
+        },
+        {
+          "character": "CAPTAIN",
+          "line": "Keep working. I want helm control."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "ARCHER",
+          "line": "I'll see you back at the catwalk. Don't be late."
+        },
+        {
+          "character": "REED",
+          "line": "Aye, Captain."
+        }
+      ],
+      "location": "Corridor"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TUCKER",
+          "line": "T'Pol?"
+        },
+        {
+          "character": "T'POL",
+          "line": "We're in position.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "TUCKER",
+          "line": "All right. First, you're going to have to disrupt the antimatter stream."
+        }
+      ],
+      "location": "Catwalk command area"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TUCKER",
+          "line": "Do you see the blue conduit to the left of the power transfer module?",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "REED",
+          "line": "Go ahead."
+        }
+      ],
+      "location": "Junction 42A"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TUCKER",
+          "line": "Start by locking down the flow regulators."
+        }
+      ],
+      "location": "Catwalk command area"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "T'POL",
+          "line": "Stand by."
+        }
+      ],
+      "location": "Junction 42A"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "PALANTI",
+          "line": "We're being hailed."
+        },
+        {
+          "character": "CAPTAIN",
+          "line": "Another ship?"
+        },
+        {
+          "character": "PALANTI",
+          "line": "No. It's coming from within this vessel."
+        },
+        {
+          "character": "CAPTAIN",
+          "line": "Answer it."
+        },
+        {
+          "character": "ARCHER",
+          "line": "You're in my chair.",
+          "modifier": "screen"
+        },
+        {
+          "character": "CAPTAIN",
+          "line": "Captain Archer. I didn't realize you were still aboard. Where's the rest of your crew?"
+        },
+        {
+          "character": "ARCHER",
+          "line": "They're dead, killed by the storm.",
+          "modifier": "screen"
+        },
+        {
+          "character": "CAPTAIN",
+          "line": "I'm sorry."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Thanks for your condolences. Now, why don't you get the hell off my ship.",
+          "modifier": "screen"
+        },
+        {
+          "character": "CAPTAIN",
+          "line": "I'm afraid I can't do that. We detected a vessel in your launch bay that belongs to three fugitives."
+        },
+        {
+          "character": "ARCHER",
+          "line": "I've been watching you, I know you're trying to take Enterprise. I'm not going to let you.",
+          "modifier": "screen"
+        },
+        {
+          "character": "CAPTAIN",
+          "line": "You're in no position to do anything about it. I'm in command of this Bridge. Your vessel has been impounded under the authority of the Takret Militia. When we return, you'll be charged with criminal conspiracy."
+        },
+        {
+          "character": "ARCHER",
+          "line": "I don't recognize your authority. I answer to Starfleet Command, and I'm under orders to use any means necessary to keep my ship from falling into enemy hands.",
+          "modifier": "screen"
+        },
+        {
+          "character": "CAPTAIN",
+          "line": "I have soldiers searching every deck. It's only a matter of time before they find you."
+        },
+        {
+          "character": "ARCHER",
+          "line": "You're leaving me no choice. I'll destroy Enterprise.",
+          "modifier": "screen"
+        },
+        {
+          "character": "CAPTAIN",
+          "line": "Earth's first warp five starship? Your father's engine? I've been reading about you, Captain, and I doubt very much if you'll do anything to damage this vessel."
+        },
+        {
+          "character": "ARCHER",
+          "line": "You would be surprised.",
+          "modifier": "screen"
+        },
+        {
+          "character": "CAPTAIN",
+          "line": "Can you trace his signal?"
+        },
+        {
+          "character": "PALANTI",
+          "line": "He's somewhere on the fifth deck."
+        },
+        {
+          "character": "CAPTAIN",
+          "line": "You have men there. Alert them."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TUCKER",
+          "line": "Go ahead."
+        },
+        {
+          "character": "ARCHER",
+          "line": "It's time to change course, Travis. Head straight for that plasma eddy.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "TRAVIS",
+          "line": "It'll take a minute, sir."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Try and keep us in one piece. I'm on my way back. Archer out.",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "Catwalk command area"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "CREWMAN",
+          "line": "We've altered course."
+        },
+        {
+          "character": "CAPTAIN",
+          "line": "Where's he taking us?"
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TUCKER",
+          "line": "What's the problem shutting down the reactor?"
+        }
+      ],
+      "location": "Catwalk command area"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "T'POL",
+          "line": "We're having trouble with the dilithium sequencers. It's taking longer than we expected."
+        },
+        {
+          "character": "TUCKER",
+          "line": "I don't mean to rush you",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "Junction 42A"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TUCKER",
+          "line": "But it's getting pretty warm in here."
+        }
+      ],
+      "location": "Catwalk command area"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "CREWMAN",
+          "line": "He's steering us toward a plasma eddy."
+        },
+        {
+          "character": "CAPTAIN",
+          "line": "How long?"
+        },
+        {
+          "character": "CREWMAN",
+          "line": "Less than eight minutes."
+        },
+        {
+          "character": "CAPTAIN",
+          "line": "Get me helm control!"
+        },
+        {
+          "character": "PALANTI",
+          "line": "It'll take me much longer than that. We should evacuate."
+        },
+        {
+          "character": "CAPTAIN",
+          "line": "No!"
+        },
+        {
+          "character": "PALANTI",
+          "line": "You heard what he said. He's willing to destroy his own ship."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TUCKER",
+          "line": "The temperature just went up another six degrees. Sub-Commander, how's it coming?"
+        },
+        {
+          "character": "T'POL",
+          "line": "We're disabling"
+        }
+      ],
+      "location": "Catwalk command area"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "T'POL",
+          "line": "The final sequencer."
+        }
+      ],
+      "location": "Junction 42A"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "CREWMAN",
+          "line": "The warp reactor has shut down."
+        },
+        {
+          "character": "PALANTI",
+          "line": "Spatial disturbance. We're four minutes from the eddy."
+        },
+        {
+          "character": "PALANTI",
+          "line": "Unless you've found a way to turn this ship around I strongly suggest we abort the mission."
+        },
+        {
+          "character": "CREWMAN",
+          "line": "Three minutes."
+        },
+        {
+          "character": "CAPTAIN",
+          "line": "Soldiers, report to the docking hatch immediately. I repeat, report to the docking hatch!"
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "T'POL",
+          "line": "Report."
+        },
+        {
+          "character": "TRAVIS",
+          "line": "We're too close to the eddy. We've got to veer off."
+        },
+        {
+          "character": "T'POL",
+          "line": "Maintain your course."
+        },
+        {
+          "character": "TUCKER",
+          "line": "Another one like that'll split us in two."
+        },
+        {
+          "character": "T'POL",
+          "line": "They could still be on board."
+        },
+        {
+          "character": "TRAVIS",
+          "line": "We've got no choice."
+        },
+        {
+          "character": "T'POL",
+          "line": "Maintain your course. That's an order. Go ahead."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Travis, I hope you're not still heading for that eddy. Our friends are gone.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "T'POL",
+          "line": "Ensign. Captain's Starlog, supplemental. We seem to have passed through the worst part of the storm, but it'll still be a while before we can leave the catwalk. The crew's in relatively good spirits, considering they haven't had a change of uniform in eight days."
+        }
+      ],
+      "location": "Catwalk command area"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TUCKER",
+          "line": "Did that guy shoot one of his own men?"
+        },
+        {
+          "character": "REED",
+          "line": "It's hard to tell them apart in those ridiculous hats."
+        },
+        {
+          "character": "T'POL",
+          "line": "The dead man was secretly working for Sheriff Boggs."
+        },
+        {
+          "character": "TUCKER",
+          "line": "How do you know that?"
+        },
+        {
+          "character": "T'POL",
+          "line": "Isn't it obvious?"
+        },
+        {
+          "character": "ARCHER",
+          "line": "All hands, this is the Captain. Thanks to some fine piloting by Travis Mayweather, we're going to be moving out of the storm a little earlier than expected. We should be clear in a few minutes.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "TUCKER",
+          "line": "Glad you could join us, Sub-Commander. We have movie night every Tuesday, if you're interested."
+        }
+      ],
+      "location": "Catwalk"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TAGRIM",
+          "line": "I apologize for the trouble we've caused."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Where're you headed next?"
+        },
+        {
+          "character": "TAGRIM",
+          "line": "The Gyrannan System. We should be safe there."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Good luck."
+        },
+        {
+          "character": "T'POL",
+          "line": "That's everyone."
+        }
+      ],
+      "location": "Corridor"
+    }
+  ],
+  "schedule": {
+    "episode": 12,
+    "number": 38,
+    "season": 2
+  },
+  "stardate": "Unknown",
+  "title": "The Catwalk"
+}

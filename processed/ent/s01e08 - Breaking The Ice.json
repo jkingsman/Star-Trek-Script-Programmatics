@@ -1,0 +1,1664 @@
+{
+  "airdate": 1005120000,
+  "scenes": [
+    {
+      "dialogue": [
+        {
+          "character": "TUCKER",
+          "line": "Looks like we're going about warp four point five."
+        },
+        {
+          "character": "PHLOX",
+          "line": "Human children have such fertile imaginations. Sub-commander."
+        },
+        {
+          "character": "TUCKER",
+          "line": "These were sent by my nephew's fourth grade class. I thought the crew might like to see how excited folks at home are about our mission."
+        },
+        {
+          "character": "PHLOX",
+          "line": "I'm going to put this one up in Sickbay. Would you like one for your quarters?"
+        },
+        {
+          "character": "T'POL",
+          "line": "This rendering is crude, yet surprisingly accurate."
+        },
+        {
+          "character": "TUCKER",
+          "line": "Some of these kids are pretty talented. Which one do you want? This one's nice. Or maybe you want First Contact. Or how about this one?"
+        },
+        {
+          "character": "T'POL",
+          "line": "We're dropping out of warp."
+        },
+        {
+          "character": "ARCHER",
+          "line": "For those of you who aren't near a window, you might want to find one. There's something pretty amazing off starboard.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "ARCHER",
+          "line": "Senior staff",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "Mess hall"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "ARCHER",
+          "line": "Please report to the Bridge."
+        },
+        {
+          "character": "REED",
+          "line": "I've checked the Vulcan database, sir. No previous sightings."
+        },
+        {
+          "character": "HOSHI",
+          "line": "That means we diskovered it."
+        },
+        {
+          "character": "TRAVIS",
+          "line": "Archer's comet."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Take us closer, Ensign."
+        },
+        {
+          "character": "TRAVIS",
+          "line": "Aye sir."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Ever seen anything like that in your astronomy books?"
+        },
+        {
+          "character": "TUCKER",
+          "line": "Wow, that's one big snowball."
+        },
+        {
+          "character": "T'POL",
+          "line": "The diameter is eighty two point six kilometers."
+        },
+        {
+          "character": "ARCHER",
+          "line": "I always wanted to chase a comet. Maybe we should spend a few days following this one."
+        },
+        {
+          "character": "T'POL",
+          "line": "Vulcan and human scientists have researched hundreds of comets. They've proven to be little more than rock and ice."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Except this one's bigger than any comet humans have ever seen. That's got to be worth a look. Stay with it, Travis."
+        },
+        {
+          "character": "TRAVIS",
+          "line": "Aye, sir."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TUCKER",
+          "line": "Milk, cold."
+        },
+        {
+          "character": "TUCKER",
+          "line": "Catching up on your reading?"
+        },
+        {
+          "character": "T'POL",
+          "line": "I came for a tea."
+        },
+        {
+          "character": "TUCKER",
+          "line": "Stay away from the Zariphean blend unless you want to stay up for the next three days."
+        },
+        {
+          "character": "T'POL",
+          "line": "Caffeine has little effect on Vulcan physiology. Green tea, hot."
+        },
+        {
+          "character": "TUCKER",
+          "line": "You want to join me? I could use the company."
+        },
+        {
+          "character": "T'POL",
+          "line": "I'm very tired."
+        },
+        {
+          "character": "TUCKER",
+          "line": "Tell me about it. I put out about a hundred fires in Engineering this afternoon and missed dinner. Then somebody told me Chef made a pecan pie, and suddenly my life brightened. It's been my favorite since I was a kid. Care for a bite?"
+        },
+        {
+          "character": "T'POL",
+          "line": "No thank you."
+        },
+        {
+          "character": "TUCKER",
+          "line": "It's delicious."
+        },
+        {
+          "character": "T'POL",
+          "line": "It's mostly sugar."
+        },
+        {
+          "character": "TUCKER",
+          "line": "What, Vulcans don't have a sweet tooth? It may not be good for the body, but it sure is good for the soul. Mmm, I feel better already."
+        },
+        {
+          "character": "TUCKER",
+          "line": "Must be a real page turner. You all right?"
+        },
+        {
+          "character": "T'POL",
+          "line": "I'm fine, Commander. Goodnight."
+        },
+        {
+          "character": "TUCKER",
+          "line": "Sweet dreams."
+        }
+      ],
+      "location": "Mess hall"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "ARCHER",
+          "line": "Eisilium?"
+        },
+        {
+          "character": "T'POL",
+          "line": "It's an extremely rare mineral. This comet appears to contain large quantities of it."
+        },
+        {
+          "character": "ARCHER",
+          "line": "I've never heard of eisilium."
+        },
+        {
+          "character": "T'POL",
+          "line": "Vulcan chemists have only obtained small amounts. They've never been able to study it in detail."
+        },
+        {
+          "character": "ARCHER",
+          "line": "This could be your chance. Can we collect a sample with the transporter?"
+        },
+        {
+          "character": "T'POL",
+          "line": "Most of the eisilium deposits are at least twenty meters beneath the crust."
+        },
+        {
+          "character": "TUCKER",
+          "line": "That's too deep to get a lock."
+        },
+        {
+          "character": "REED",
+          "line": "We've got the portable drilling rig, sir."
+        },
+        {
+          "character": "TRAVIS",
+          "line": "The comet's certainly big enough to land on. We could take a shuttlepod."
+        },
+        {
+          "character": "T'POL",
+          "line": "I'd advise setting down near one of the two poles. If you're out of direct sunlight, the surface ice will be more stable."
+        },
+        {
+          "character": "ARCHER",
+          "line": "How long would you need?"
+        },
+        {
+          "character": "REED",
+          "line": "Shouldn't take more than three or four hours."
+        },
+        {
+          "character": "ARCHER",
+          "line": "You up for a little comet walk?"
+        },
+        {
+          "character": "REED",
+          "line": "By all means."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Get started."
+        }
+      ],
+      "location": "Situation room"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "HOSHI",
+          "line": "Captain, I'm detecting a vessel closing on our position. It's Vulcan."
+        },
+        {
+          "character": "T'POL",
+          "line": "The starship Ti'Mur."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Hail them. This is Captain Jonathan Archer of the Starship Enterprise."
+        },
+        {
+          "character": "VANIK",
+          "line": "I'm Captain Vanik.",
+          "modifier": "screen"
+        },
+        {
+          "character": "ARCHER",
+          "line": "Pleased to meet you."
+        },
+        {
+          "character": "VANIK",
+          "line": "You're a long way from Earth, Captain. Are you lost?",
+          "modifier": "screen"
+        },
+        {
+          "character": "ARCHER",
+          "line": "Not at all. Just taking a look at this comet."
+        },
+        {
+          "character": "VANIK",
+          "line": "Our sensors detected it two days ago. We also decided to investigate.",
+          "modifier": "screen"
+        },
+        {
+          "character": "ARCHER",
+          "line": "Really? My science officer tells me that Vulcans that Vulcans aren't very interested in comets."
+        },
+        {
+          "character": "VANIK",
+          "line": "Actually, it's your interest in the comet that we're investigating.",
+          "modifier": "screen"
+        },
+        {
+          "character": "ARCHER",
+          "line": "We plan to send a drilling team to the surface to collect core samples. You're welcome to participate."
+        },
+        {
+          "character": "VANIK",
+          "line": "If you have no objection, we'd like to remain here and observe.",
+          "modifier": "screen"
+        },
+        {
+          "character": "ARCHER",
+          "line": "Stay as long as you want."
+        },
+        {
+          "character": "ARCHER",
+          "line": "T'Pol."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "ARCHER",
+          "line": "I'd love to know what they're really doing here. You don't find anything strange about them suddenly showing up?"
+        },
+        {
+          "character": "T'POL",
+          "line": "Perhaps they're simply curious."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Curious? That doesn't sound very Vulcan to me. This isn't the first time we've caught them lurking around. Remember three weeks ago, the planetary nebula?"
+        },
+        {
+          "character": "T'POL",
+          "line": "That was nothing more than a survey ship."
+        },
+        {
+          "character": "ARCHER",
+          "line": "So why didn't they respond to our hails? Why'd they go to warp when we headed toward them? I'm starting to get the feeling they're looking over our shoulder a little too often."
+        },
+        {
+          "character": "T'POL",
+          "line": "That seems unlikely."
+        },
+        {
+          "character": "ARCHER",
+          "line": "We'll see. Fine. If Vanik is the kind of guy who likes to watch, let him."
+        }
+      ],
+      "location": "Ready room"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "REED",
+          "line": "I've never stood on a comet before."
+        },
+        {
+          "character": "TRAVIS",
+          "line": "Has anyone?"
+        },
+        {
+          "character": "REED",
+          "line": "Good question."
+        },
+        {
+          "character": "TRAVIS",
+          "line": "I've only seen snow twice in my life."
+        },
+        {
+          "character": "REED",
+          "line": "Well, then it's only fitting that we commemorate the occasion."
+        },
+        {
+          "character": "TRAVIS",
+          "line": "You mean plant a flag?"
+        },
+        {
+          "character": "REED",
+          "line": "No, too predictable."
+        },
+        {
+          "character": "TRAVIS",
+          "line": "Snowball fight."
+        },
+        {
+          "character": "REED",
+          "line": "The EV suits would take all the fun out of that. We'll just have to see how the spirit moves us when we get there."
+        }
+      ],
+      "location": "Shuttlepod"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "HOSHI",
+          "line": "Commander, you wanted to see me?"
+        },
+        {
+          "character": "TUCKER",
+          "line": "Take a look at something, will you? I've been running diagnostics and I found some kind of power surge in the transceiver array."
+        },
+        {
+          "character": "HOSHI",
+          "line": "Looks like an encrypted transmission. It came from the Vulcan ship."
+        },
+        {
+          "character": "TUCKER",
+          "line": "Who was it sent to?"
+        }
+      ],
+      "location": "Engineering"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "ARCHER",
+          "line": "You're sure this was sent to her quarters."
+        },
+        {
+          "character": "TUCKER",
+          "line": "I wish I wasn't. Did she say anything to you about it?"
+        },
+        {
+          "character": "ARCHER",
+          "line": "Not a word. We had an agreement. She promised not to speak to the Vulcans without telling me."
+        },
+        {
+          "character": "TUCKER",
+          "line": "Looks like she's having some trouble keeping her promises. Should I have Hoshi decrypt it?"
+        },
+        {
+          "character": "ARCHER",
+          "line": "Tell her it's top priority."
+        }
+      ],
+      "location": "Ready room"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "HOSHI",
+          "line": "Whenever you're ready, Captain."
+        },
+        {
+          "character": "TUCKER",
+          "line": "You sure you want me here for this? I've got a lot of work to do."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Stay put, Commander. This is important. Start the recording. To the students of Miz Malvin's fourth grade class at the Worley Elementary School in Kenmare, County Kerry, Ireland. This is Captain Archer aboard the starship Enterprise. On behalf of the entire crew, I'd like to thank you for your transmission. We all got a real kick out of your drawings and letters. You asked a lot of interesting questions. I wish we had time to answer all of them, but if we did that, we wouldn't get much exploring done. So I've selected a few, and hopefully our answers will give you a better idea of what life is like out here. Liam Brennan asks 'what do you eat?' For the most part, the same things you eat at home. Our Chef can make anything from a peanut butter and jelly sandwich to turkey with all the trimmings. We have a hydroponic greenhouse onboard where we grow fruits and vegetables, and we can also replicate certain foods with our protein resequencer. Here's one from Geoff Miles. 'Is dating allowed on Enterprise?' Well, it's not diskouraged, but there isn't a lot of privacy on a starship. Most of our crew share quarters with at least one other person, so it wouldn't exactly be practical. But if two crewmembers decide that they really like each other, there are a lot of places they can go to look at the stars. Chloe O'Shannon wants to know, 'how do we talk to aliens?' I think I'll give that one to my Communications Officer, Ensign Hoshi Sato."
+        },
+        {
+          "character": "HOSHI",
+          "line": "Well, Chloe, that's a very good question. We use a device called the universal translator. It's like an alien dictionary with hundreds of languages programd into it, and it can learn new languages very quickly, but it doesn't always work, and when that happens it's up to me to try to translate. I'm sure I don't have to tell you it can be really hard sometimes. One wrong word can mean the difference between saying 'take my hand' or 'take my life'. So far I have managed to do pretty well."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Thanks, Hoshi. Here's one from Molly McCook. 'When you flush the toilet, where does it go?' That sounds like an engineering question, so we'll ask Commander Charles Tucker, our Chief Engineer. Trip."
+        },
+        {
+          "character": "TUCKER",
+          "line": "Pause it, will you?"
+        },
+        {
+          "character": "TUCKER",
+          "line": "A poop question, sir? Can't I talk about the warp reactor or the transporter?"
+        },
+        {
+          "character": "ARCHER",
+          "line": "It's a perfectly valid question."
+        },
+        {
+          "character": "TUCKER",
+          "line": "The first thing you've got to understand is we recycle pretty much everything on a starship. That includes waste, and the first thing that happens to the waste is it gets processed through a machine called a bio-matter resequencer. Then it gets broken down into. Hold on."
+        },
+        {
+          "character": "TUCKER",
+          "line": "They're going to think I'm the sanitation engineer."
+        },
+        {
+          "character": "ARCHER",
+          "line": "You're doing fine."
+        },
+        {
+          "character": "TUCKER",
+          "line": "So the waste is broken down into little molecules and then they get transformed into any number of things we can use on the ship. Cargo containers, insulation, boots, you name it."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Very enlightening, Commander. Gabrielle Witty wants to know if germs can live in space."
+        },
+        {
+          "character": "PHLOX",
+          "line": "Ah, I believe I can answer that, Captain. Hello, children. I'm Doctor Phlox, the ship's physician. I'm from a system called Denobula Triaxa and I feel very honored to be part of this important mission. Germs. They may be tiny but they are among the most resilient organisms known to medical science. They can survive almost anywhere, on your kitchen counter, under your fingernail, in the vacuum of space. Over two hundred million space-dwelling microbes have been catalogd. One of the most virulent species lives inside grains of interstellar dust. Polycocyx astris. They can drift in a dormant state for millions of years and still cause a nasty cold. I once diskovered a peculiar colony of spores on the hull of a"
+        },
+        {
+          "character": "ARCHER",
+          "line": "Thank you, Doctor. Fascinating. I think we've taken up enough of Miz Malvin's classroom time. By the way, we've included some pictures of a comet we're studying. We think it might be the biggest one ever diskovered by humans or Vulcans. That's what's so exciting about being on Enterprise. You never know what you're going to find next. We miss Earth, but hearing from you makes us all feel a little closer to home. Captain Archer, out."
+        },
+        {
+          "character": "ARCHER",
+          "line": "How'd it go?"
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "REED",
+          "line": "The beauty of ice is that it records everything like a blank page. The farther down you drill, the farther back in time you go."
+        },
+        {
+          "character": "TRAVIS",
+          "line": "Lieutenant."
+        },
+        {
+          "character": "REED",
+          "line": "Yes?"
+        },
+        {
+          "character": "TRAVIS",
+          "line": "What do you think?"
+        },
+        {
+          "character": "REED",
+          "line": "Hand me the plasma torch."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Archer to Lieutenant Reed.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "REED",
+          "line": "Go ahead, sir."
+        },
+        {
+          "character": "ARCHER",
+          "line": "How are you doing, Malcolm?",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "REED",
+          "line": "We're just about to set the charges."
+        }
+      ],
+      "location": "Comet surface"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "ARCHER",
+          "line": "I'm sure I don't need to remind you we're being observed."
+        },
+        {
+          "character": "REED",
+          "line": "No, sir.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "ARCHER",
+          "line": "We want this to go as smoothly as possible."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "ARCHER",
+          "line": "Make a good impression.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "REED",
+          "line": "Right."
+        },
+        {
+          "character": "ARCHER",
+          "line": "So tell me,",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "Comet surface"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "ARCHER",
+          "line": "Who's the sculptor?"
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "REED",
+          "line": "It won't be there for long, sir."
+        }
+      ],
+      "location": "Comet surface"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "ARCHER",
+          "line": "Archer out."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TUCKER",
+          "line": "Any luck?"
+        },
+        {
+          "character": "HOSHI",
+          "line": "Sorry it took so long. The code was pretty complex."
+        },
+        {
+          "character": "TUCKER",
+          "line": "What's it say?"
+        },
+        {
+          "character": "HOSHI",
+          "line": "It's in Vulcan. You'll have to run it through the translation matrix."
+        },
+        {
+          "character": "TUCKER",
+          "line": "You didn't read it?"
+        },
+        {
+          "character": "HOSHI",
+          "line": "I didn't feel it'd be right."
+        },
+        {
+          "character": "TUCKER",
+          "line": "Thanks."
+        }
+      ],
+      "location": "Engineering"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "ARCHER",
+          "line": "Come in."
+        },
+        {
+          "character": "TUCKER",
+          "line": "Well, we decrypted the message."
+        },
+        {
+          "character": "ARCHER",
+          "line": "And?"
+        },
+        {
+          "character": "TUCKER",
+          "line": "It's not exactly what we expected. It's a letter."
+        },
+        {
+          "character": "ARCHER",
+          "line": "What did it say?"
+        },
+        {
+          "character": "TUCKER",
+          "line": "It's personal."
+        },
+        {
+          "character": "ARCHER",
+          "line": "What do you mean?"
+        },
+        {
+          "character": "TUCKER",
+          "line": "Very personal. You could order me to tell you, sir, but you wouldn't be happy if I did."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Why the hell was it encrypted?"
+        },
+        {
+          "character": "TUCKER",
+          "line": "That's what I want to know. Maybe Vulcans encrypt all their personal letters. All they had to do was send it through regular channels, mark it personal, and we'd have left it alone. But no, they had to encrypt it, force me to start snooping. I feel like I got caught with my hand in the cookie jar."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Let it go, Trip. Come on, it was an honest mistake."
+        },
+        {
+          "character": "TUCKER",
+          "line": "I can't let it go. I've got to tell her."
+        },
+        {
+          "character": "ARCHER",
+          "line": "How's that going to help?"
+        },
+        {
+          "character": "TUCKER",
+          "line": "It's the right thing to do. At least I'll be able to look her in the eye without feeling guilty."
+        },
+        {
+          "character": "ARCHER",
+          "line": "You're a good man. You might want to take a phase pistol with you."
+        },
+        {
+          "character": "TUCKER",
+          "line": "I might need one."
+        }
+      ],
+      "location": "Ready room"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TUCKER",
+          "line": "Got a minute? In private?"
+        },
+        {
+          "character": "T'POL",
+          "line": "Excuse us, crewman."
+        },
+        {
+          "character": "TUCKER",
+          "line": "Did you ever, did you ever do anything totally by mistake that you weren't very proud of?"
+        },
+        {
+          "character": "T'POL",
+          "line": "No."
+        },
+        {
+          "character": "TUCKER",
+          "line": "Did you ever come across something that you thought was one thing so you reacted in a certain way, but then it turned out to be something completely different?"
+        },
+        {
+          "character": "T'POL",
+          "line": "Your point, Commander?"
+        },
+        {
+          "character": "TUCKER",
+          "line": "I found out about your message from the Vulcan ship."
+        },
+        {
+          "character": "T'POL",
+          "line": "It was a personal matter."
+        },
+        {
+          "character": "TUCKER",
+          "line": "Why wasn't it sent through normal Starfleet channels?"
+        },
+        {
+          "character": "T'POL",
+          "line": "That takes time. The letter was important."
+        },
+        {
+          "character": "TUCKER",
+          "line": "So they sent it in code? Do you have any idea how suspicious that looked?"
+        },
+        {
+          "character": "T'POL",
+          "line": "You read my letter?"
+        },
+        {
+          "character": "TUCKER",
+          "line": "Believe me, I don't feel very good about it."
+        },
+        {
+          "character": "T'POL",
+          "line": "I have more letters in my quarters. Would you like to read those as well?"
+        },
+        {
+          "character": "TUCKER",
+          "line": "I'm trying to apologize here."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Archer to T'Pol.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "T'POL",
+          "line": "Yes, Captain."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Please report to my Ready room.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "T'POL",
+          "line": "Has anyone else read the letter?"
+        },
+        {
+          "character": "TUCKER",
+          "line": "No."
+        },
+        {
+          "character": "T'POL",
+          "line": "I'd appreciate it if you wouldn't mention it."
+        },
+        {
+          "character": "TUCKER",
+          "line": "I won't, I promise."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "ARCHER",
+          "line": "I thought I'd invite Captain Vanik for a visit. If he's so interested in how we do things, he might as well come see for himself. Once he realizes we're not going to blow up the galaxy, maybe he'll leave us alone."
+        },
+        {
+          "character": "T'POL",
+          "line": "I'm sure he'll appreciate the gesture."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Dinner's a good way to break the ice. I was hoping you might give Chef some menu suggestions."
+        },
+        {
+          "character": "T'POL",
+          "line": "Certainly."
+        },
+        {
+          "character": "ARCHER",
+          "line": "A little food, a little wine."
+        },
+        {
+          "character": "T'POL",
+          "line": "Vulcans don't drink wine."
+        },
+        {
+          "character": "ARCHER",
+          "line": "You know what I mean. Just help me make him go away."
+        }
+      ],
+      "location": "Ready room"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "PHLOX",
+          "line": "When did these symptoms begin?"
+        },
+        {
+          "character": "T'POL",
+          "line": "Two days ago."
+        },
+        {
+          "character": "PHLOX",
+          "line": "Perhaps you slept in an awkward position."
+        },
+        {
+          "character": "T'POL",
+          "line": "I haven't slept."
+        },
+        {
+          "character": "PHLOX",
+          "line": "For two days? Something on your mind? It appears to be a tension headache. You know anything said between us is strictly confidential. Would you like to talk about what's troubling you?"
+        },
+        {
+          "character": "T'POL",
+          "line": "No."
+        },
+        {
+          "character": "PHLOX",
+          "line": "I don't know if there's anyone on this ship you would feel comfortable talking with, but if there is, it might feel good to get whatever's bothering you out in the open. This is a simple analgesic. I can give you something later to help you sleep this evening, if you'd like."
+        },
+        {
+          "character": "T'POL",
+          "line": "Thank you, Doctor."
+        }
+      ],
+      "location": "Sickbay"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TRAVIS",
+          "line": "The ears are a nice touch."
+        },
+        {
+          "character": "REED",
+          "line": "I thought so."
+        },
+        {
+          "character": "TRAVIS",
+          "line": "We should get out more often."
+        },
+        {
+          "character": "REED",
+          "line": "Don't get too comfortable. This landscape is about to change. Reed to Enterprise."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Go ahead.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "REED",
+          "line": "Charges are set."
+        }
+      ],
+      "location": "Comet surface"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "ARCHER",
+          "line": "Stand by. Inform the Vulcans we're about to make a very loud noise."
+        },
+        {
+          "character": "HOSHI",
+          "line": "Aye, sir."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Archer to Reed."
+        },
+        {
+          "character": "REED",
+          "line": "Yes, Captain.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "ARCHER",
+          "line": "Blast away."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "REED",
+          "line": "Understood."
+        },
+        {
+          "character": "TRAVIS",
+          "line": "Impressive."
+        },
+        {
+          "character": "REED",
+          "line": "I was hoping for a little more symmetry."
+        },
+        {
+          "character": "TRAVIS",
+          "line": "I'll get the drill."
+        }
+      ],
+      "location": "Comet surface"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "ARCHER",
+          "line": "If I'm not mistaken, you're flying a Surak class ship."
+        },
+        {
+          "character": "VANIK",
+          "line": "You're not mistaken."
+        },
+        {
+          "character": "ARCHER",
+          "line": "You can get her up to, what, six, six point five?"
+        },
+        {
+          "character": "VANIK",
+          "line": "Six point five."
+        },
+        {
+          "character": "TUCKER",
+          "line": "I'd love to get a look inside those nacelles."
+        },
+        {
+          "character": "VANIK",
+          "line": "Our warp systems are classified."
+        },
+        {
+          "character": "ARCHER",
+          "line": "A few years back I was a guest aboard a Maymora class ship, the Yarahla. Captain Tok. Do you know him?"
+        },
+        {
+          "character": "VANIK",
+          "line": "Not personally."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Oh. We made a run to a dark matter nebula. I helped set up the graviton telescope. Most fun I've ever had on a space walk. Those Vulcan EV suits are something else, like you're flying around inside your own little starship."
+        },
+        {
+          "character": "VANIK",
+          "line": "You're easily impressed."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Something wrong with your Pok Tar?"
+        },
+        {
+          "character": "VANIK",
+          "line": "No."
+        },
+        {
+          "character": "ARCHER",
+          "line": "If it's not to your liking, I'm sure our Chef can prepare you something else."
+        },
+        {
+          "character": "VANIK",
+          "line": "I've already eaten."
+        },
+        {
+          "character": "TUCKER",
+          "line": "Hope you saved room for dessert."
+        },
+        {
+          "character": "ARCHER",
+          "line": "After dinner, I thought you might like to take a look around. Enterprise may not be Surak class, but she's quite a ship."
+        },
+        {
+          "character": "VANIK",
+          "line": "Perhaps another time."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Tea?"
+        },
+        {
+          "character": "VANIK",
+          "line": "I only drink water."
+        },
+        {
+          "character": "ARCHER",
+          "line": "You know, for people who claim not to be explorers, you sure do get around."
+        },
+        {
+          "character": "VANIK",
+          "line": "I hope our presence here is not proving inconvenient."
+        },
+        {
+          "character": "ARCHER",
+          "line": "On the contrary, it's nice to know no matter how big the universe is, there's always a Vulcan ship nearby."
+        },
+        {
+          "character": "TUCKER",
+          "line": "So, Captain, tell us about yourself."
+        },
+        {
+          "character": "VANIK",
+          "line": "Excuse me?"
+        },
+        {
+          "character": "T'POL",
+          "line": "On Earth, it's customary to exchange personal information with someone you've just met."
+        },
+        {
+          "character": "ARCHER",
+          "line": "We have this peculiar habit of actually talking during meals."
+        },
+        {
+          "character": "VANIK",
+          "line": "I've noticed. What would you like to know?"
+        },
+        {
+          "character": "TUCKER",
+          "line": "I don't know. Where were you born, how long have you been Captain, any hobbies?"
+        },
+        {
+          "character": "VANIK",
+          "line": "I've served in the Vulcan space program for seventy six years, fifteen of them commanding the Ti'Mur."
+        },
+        {
+          "character": "T'POL",
+          "line": "I believe this is Captain Vanik's first visit aboard an Earth vessel."
+        },
+        {
+          "character": "ARCHER",
+          "line": "We'd be happy to answer any questions you might have."
+        },
+        {
+          "character": "VANIK",
+          "line": "I have none. Humans have never held much interest for me."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Well, where did the time go? Seems like you just got here. I'm sure you're eager to get back to your ship so I'll trouble you with just one last question. How long to you plan on spying on us?"
+        },
+        {
+          "character": "VANIK",
+          "line": "If we were spying, Captain, you would have never detected our presence. Your inexperience and your arrogance are your enemies, not us. Archer"
+        },
+        {
+          "character": "ARCHER",
+          "line": "Please show Captain Vanik to the launch bay."
+        },
+        {
+          "character": "VANIK",
+          "line": "Shanshot tumora camosh."
+        },
+        {
+          "character": "TUCKER",
+          "line": "What'd he say?"
+        }
+      ],
+      "location": "Captain's mess"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "HOSHI",
+          "line": "Captain, you should take a look at this."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "ARCHER",
+          "line": "Archer to Lieutenant Reed.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "REED",
+          "line": "Go ahead, sir."
+        },
+        {
+          "character": "ARCHER",
+          "line": "How's it going?",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "REED",
+          "line": "We hit a layer of magnesite and cracked a drill bit, but we've replaced it."
+        },
+        {
+          "character": "ARCHER",
+          "line": "You may want to pick up the pace a little bit.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "REED",
+          "line": "Sir?"
+        },
+        {
+          "character": "ARCHER",
+          "line": "The comet's rotational axis shifted when you set off those charges. In about two hours the shuttlepod will be facing the star.",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "Comet surface"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "ARCHER",
+          "line": "The temperature's going to shoot up by a couple of hundred degrees. I want you out of there before then."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "REED",
+          "line": "We'll be done with time to spare, sir."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Be sure you are. Archer out.",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "Comet surface"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "T'POL",
+          "line": "Come in."
+        },
+        {
+          "character": "TUCKER",
+          "line": "You decide to tell me what Vanik said?"
+        },
+        {
+          "character": "T'POL",
+          "line": "Please, sit down."
+        },
+        {
+          "character": "TUCKER",
+          "line": "I've never seen your quarters before. Cozy."
+        },
+        {
+          "character": "TUCKER",
+          "line": "You know you're not supposed to have an open flame on the ship."
+        },
+        {
+          "character": "T'POL",
+          "line": "I was given permission from the Captain. They're for meditation."
+        },
+        {
+          "character": "TUCKER",
+          "line": "So, what can I do for you?"
+        },
+        {
+          "character": "T'POL",
+          "line": "Doctor Phlox believes that it might help if I was to diskuss my problem with someone I felt comfortable confiding in."
+        },
+        {
+          "character": "TUCKER",
+          "line": "You want to talk to me? Well, I'm not sure I'm going to be much help. I mean, I've only been in three relationships and they all went bust. Are you sure you wouldn't rather talk to Hoshi or Ensign Kimball? She's married."
+        },
+        {
+          "character": "T'POL",
+          "line": "You were far from my first choice, but speaking with someone else would mean more people knowing about my situation."
+        },
+        {
+          "character": "TUCKER",
+          "line": "I'll do anything I can. What's your problem?"
+        },
+        {
+          "character": "T'POL",
+          "line": "You read the letter."
+        },
+        {
+          "character": "TUCKER",
+          "line": "Yes."
+        },
+        {
+          "character": "T'POL",
+          "line": "Then you know that unless I leave Enterprise immediately, my wedding plans will be canceled."
+        },
+        {
+          "character": "TUCKER",
+          "line": "Have you talked to?"
+        },
+        {
+          "character": "T'POL",
+          "line": "Koss."
+        },
+        {
+          "character": "TUCKER",
+          "line": "Have you talked to Koss about all this?"
+        },
+        {
+          "character": "T'POL",
+          "line": "We haven't spoken in many years. Marriages on Vulcan are arranged during childhood. I've only met Koss four times."
+        },
+        {
+          "character": "TUCKER",
+          "line": "How can you be in love with a guy you've only met four times?"
+        },
+        {
+          "character": "T'POL",
+          "line": "It's assumed that we'd eventually develop an affection for one another."
+        },
+        {
+          "character": "TUCKER",
+          "line": "So his parents send you an ultimatum? He doesn't have a say?"
+        },
+        {
+          "character": "T'POL",
+          "line": "His parents planned the union. It's their decision."
+        },
+        {
+          "character": "TUCKER",
+          "line": "Boy. Where I come from, arranged marriages went out with slavery."
+        },
+        {
+          "character": "T'POL",
+          "line": "Are you going to give me advice or criticize my people's tradition."
+        },
+        {
+          "character": "TUCKER",
+          "line": "I'm still a little fuzzy on why they threatened to call it off in the first place."
+        },
+        {
+          "character": "T'POL",
+          "line": "The ceremony was supposed to take place next week. When I decided to remain on Enterprise I requested a postponement. Koss's parents were insulted that I would put off our plans to serve on a human vessel."
+        },
+        {
+          "character": "TUCKER",
+          "line": "Well, Vanik can take you home. Why don't you go marry Koss, then come back?"
+        },
+        {
+          "character": "T'POL",
+          "line": "It's customary for a husband and wife to reside together for at least one Vulcan year."
+        },
+        {
+          "character": "TUCKER",
+          "line": "Maybe he can come to Enterprise."
+        },
+        {
+          "character": "T'POL",
+          "line": "He's an architect. It would be illogical for him to live aboard a starship."
+        },
+        {
+          "character": "TUCKER",
+          "line": "This whole thing sounds illogical."
+        },
+        {
+          "character": "T'POL",
+          "line": "Your advice, Commander."
+        },
+        {
+          "character": "TUCKER",
+          "line": "What do you want to do?"
+        },
+        {
+          "character": "T'POL",
+          "line": "That is irrelevant."
+        },
+        {
+          "character": "TUCKER",
+          "line": "No, it's not. It's very relevant. Do you want to go back and marry this guy, spend a year with him, ten years, a hundred years, or do you want to stay on Enterprise?"
+        },
+        {
+          "character": "T'POL",
+          "line": "I have an obligation."
+        },
+        {
+          "character": "TUCKER",
+          "line": "You've got an obligation to yourself. You've spent the last year around humans. If there's one thing you should have learned it's that we're free to make our own decisions. There's a lot to be said for personal choice."
+        },
+        {
+          "character": "T'POL",
+          "line": "If you'd spent the last year on Vulcan, you would have learned that our commitment to tradition outweighs personal choice."
+        },
+        {
+          "character": "TUCKER",
+          "line": "I respect your customs, but this marriage was arranged when you were a kid. A lot's happened since then. People change."
+        },
+        {
+          "character": "T'POL",
+          "line": "Vulcan's don't."
+        },
+        {
+          "character": "TUCKER",
+          "line": "Really."
+        },
+        {
+          "character": "T'POL",
+          "line": "My obligation is to my culture, my heritage. It has to take precedence."
+        },
+        {
+          "character": "TUCKER",
+          "line": "Sounds to me like you already made up your mind. Why the hell did you ask me here?"
+        },
+        {
+          "character": "T'POL",
+          "line": "It was a mistake. I apologize."
+        },
+        {
+          "character": "TUCKER",
+          "line": "Did it ever occur to you that you might have postponed the wedding because subconsciously you wanted to get out of it?"
+        },
+        {
+          "character": "T'POL",
+          "line": "That would imply that my subconscious mind controls my decisions. It doesn't."
+        },
+        {
+          "character": "TUCKER",
+          "line": "Well it happens to humans all the time. Maybe you're picking up some of our bad habits."
+        }
+      ],
+      "location": "T'Pol's quarters"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "REED",
+          "line": "Travis!"
+        },
+        {
+          "character": "TRAVIS",
+          "line": "I'm okay. Ah!"
+        },
+        {
+          "character": "REED",
+          "line": "What?"
+        },
+        {
+          "character": "TRAVIS",
+          "line": "My knee."
+        },
+        {
+          "character": "REED",
+          "line": "You rest here."
+        },
+        {
+          "character": "TRAVIS",
+          "line": "I'm all right."
+        },
+        {
+          "character": "REED",
+          "line": "Okay."
+        },
+        {
+          "character": "REED",
+          "line": "Well, let's get you to the pod. I'll come back for the gear if there's time."
+        },
+        {
+          "character": "TRAVIS",
+          "line": "At least take the core sample. We shouldn't go back to the ship empty-handed."
+        },
+        {
+          "character": "REED",
+          "line": "Almost there."
+        },
+        {
+          "character": "TRAVIS",
+          "line": "It might be faster without the suits."
+        },
+        {
+          "character": "REED",
+          "line": "Yes, and a lot colder."
+        },
+        {
+          "character": "REED",
+          "line": "What's that?"
+        },
+        {
+          "character": "TRAVIS",
+          "line": "I hope I never see snow again."
+        }
+      ],
+      "location": "Comet surface"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "REED",
+          "line": "You all right?"
+        },
+        {
+          "character": "TRAVIS",
+          "line": "We should have never ignited the thrusters."
+        },
+        {
+          "character": "REED",
+          "line": "Well, it's not like we had a choice. Reed here."
+        },
+        {
+          "character": "ARCHER",
+          "line": "You two okay?",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "REED",
+          "line": "More or less. How far did we drop?"
+        }
+      ],
+      "location": "Shuttlepod"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "ARCHER",
+          "line": "About eighteen meters. We'll get you out of there."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "ARCHER",
+          "line": "Just give us a few minutes.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "REED",
+          "line": "We're not going anywhere."
+        }
+      ],
+      "location": "Shuttlepod"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "ARCHER",
+          "line": "Bring the grappler online."
+        },
+        {
+          "character": "TUCKER",
+          "line": "The mouth of that chasm's a little narrow."
+        },
+        {
+          "character": "ARCHER",
+          "line": "I'll get you in close enough."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Do you see them?"
+        },
+        {
+          "character": "TUCKER",
+          "line": "Bring us in another fifty meters. Two meters starboard. A little more."
+        },
+        {
+          "character": "HOSHI",
+          "line": "The Vulcan ship's hailing us."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Take a message, I'm busy."
+        },
+        {
+          "character": "HOSHI",
+          "line": "Captain Vanik wants to know if we require assistance."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Tell him we've got everything under control."
+        },
+        {
+          "character": "TUCKER",
+          "line": "There, right there. Synchronize to the rotation. Almost got it."
+        },
+        {
+          "character": "TUCKER",
+          "line": "One hit, one miss."
+        },
+        {
+          "character": "ARCHER",
+          "line": "One'll be fine. Reel them in."
+        },
+        {
+          "character": "TUCKER",
+          "line": "The pod's hit an outcropping. It's wedged in. Take us a few meters to port. We might be able to pull them around it. Those eisilium deposits are disrupting the maglock. I'm losing them."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Ease them back down."
+        },
+        {
+          "character": "T'POL",
+          "line": "They've fallen another nine meters."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Let's try it again."
+        },
+        {
+          "character": "T'POL",
+          "line": "Captain, they're moving out of the sunlight. The surface ice is recrystallizing."
+        },
+        {
+          "character": "TUCKER",
+          "line": "In less than an hour that chasm will be sealed up again."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Then we'd better hurry."
+        },
+        {
+          "character": "T'POL",
+          "line": "There is another option. Captain Vanik."
+        },
+        {
+          "character": "ARCHER",
+          "line": "I'd rather leave him out of this."
+        },
+        {
+          "character": "T'POL",
+          "line": "His ship has a tractor beam that won't be affected by the eisilium."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Reset the grappler."
+        },
+        {
+          "character": "T'POL",
+          "line": "Vanik offered to assist us. There's no shame in accepting."
+        },
+        {
+          "character": "ARCHER",
+          "line": "We can do this on our own."
+        },
+        {
+          "character": "TUCKER",
+          "line": "I don't like him any more than you do, Captain, but a tractor beam sounds like a pretty good idea right now."
+        },
+        {
+          "character": "T'POL",
+          "line": "Vanik expects you to refuse his offer. He sees humans as arrogant, prideful. Why not prove him wrong? You can save them, or you can let your pride stand in the way. You're human. You're free to choose."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TRAVIS",
+          "line": "They've got us."
+        },
+        {
+          "character": "REED",
+          "line": "Go ahead, Enterprise."
+        },
+        {
+          "character": "VANIK",
+          "line": "This is Captain Vanik of the Vulcan ship Ti'Mur. Stand by to ignite your engines and return to your ship.",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "Shuttlepod"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "ARCHER",
+          "line": "I thought you might want to take a look at the data we collected. You helped us bring it back, it's the least we can do."
+        },
+        {
+          "character": "VANIK",
+          "line": "As your science officer told you, we have little interest in comets.",
+          "modifier": "screen"
+        },
+        {
+          "character": "TUCKER",
+          "line": "That tractor beam of yours is quite something. Any chance we could take a look at the specifications?"
+        },
+        {
+          "character": "VANIK",
+          "line": "That information is classified.",
+          "modifier": "screen"
+        },
+        {
+          "character": "TUCKER",
+          "line": "I thought it might be."
+        },
+        {
+          "character": "VANIK",
+          "line": "We'll be leaving within the hour. Is there anything else we can help you with?",
+          "modifier": "screen"
+        },
+        {
+          "character": "ARCHER",
+          "line": "You've done more than enough. See you around."
+        },
+        {
+          "character": "TUCKER",
+          "line": "You don't have much time. I assume you're all packed."
+        },
+        {
+          "character": "T'POL",
+          "line": "Captain, with your permission, I'd like to transmit a message to the Ti'Mur, to send to Vulcan."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Go right ahead."
+        },
+        {
+          "character": "T'POL",
+          "line": "Thank you."
+        },
+        {
+          "character": "ARCHER",
+          "line": "What was that all about?"
+        },
+        {
+          "character": "TUCKER",
+          "line": "It's personal."
+        }
+      ],
+      "location": "Bridge"
+    }
+  ],
+  "schedule": {
+    "episode": 8,
+    "number": 8,
+    "season": 1
+  },
+  "stardate": "Unknown",
+  "title": "Breaking The Ice"
+}

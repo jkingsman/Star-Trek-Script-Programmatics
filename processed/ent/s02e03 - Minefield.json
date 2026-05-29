@@ -1,0 +1,1670 @@
+{
+  "airdate": 1033542000,
+  "scenes": [
+    {
+      "dialogue": [
+        {
+          "character": "ARCHER",
+          "line": "Come in.",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "Mess hall"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "ARCHER",
+          "line": "Good morning."
+        },
+        {
+          "character": "REED",
+          "line": "Captain."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Sleep well?"
+        },
+        {
+          "character": "REED",
+          "line": "Well enough."
+        },
+        {
+          "character": "ARCHER",
+          "line": "I wasn't sure what you wanted for breakfast, so I took the liberty of having Chef prepare his famous Eggs Benedict."
+        },
+        {
+          "character": "REED",
+          "line": "That'll be fine, sir."
+        },
+        {
+          "character": "ARCHER",
+          "line": "You plan to eat standing up?"
+        },
+        {
+          "character": "ARCHER",
+          "line": "This isn't a visit to the principal's office, Malcolm. At ease."
+        },
+        {
+          "character": "REED",
+          "line": "Thank you, sir. I just wasn't sure whether you called me here to diskuss something."
+        },
+        {
+          "character": "ARCHER",
+          "line": "No. No business. I just wanted to have a long overdue meal with my Armory Officer."
+        },
+        {
+          "character": "ARCHER",
+          "line": "I heard that England made it to the finals in the World Cup."
+        },
+        {
+          "character": "REED",
+          "line": "I beg your pardon?"
+        },
+        {
+          "character": "ARCHER",
+          "line": "The World Cup? Soccer?"
+        },
+        {
+          "character": "REED",
+          "line": "Oh. I'm afraid I don't much follow football, sir."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Any sports you do follow?"
+        },
+        {
+          "character": "REED",
+          "line": "No, not particularly."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Thanks."
+        },
+        {
+          "character": "CREWMAN",
+          "line": "You're welcome, sir."
+        },
+        {
+          "character": "REED",
+          "line": "I've been working on the duty roster, sir. We only have two crewmen assigned to the Armory full time. If we added a third, Ensign Tanner would be free to begin those upgrades to those torpedo launchers I told you about."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Didn't your mother ever tell you not to bring your homework to the table?"
+        },
+        {
+          "character": "REED",
+          "line": "Sir?"
+        },
+        {
+          "character": "ARCHER",
+          "line": "This looks fine. Archer."
+        },
+        {
+          "character": "T'POL",
+          "line": "I'm sorry to interrupt, Captain, but we've detected an uncharted system along our present course. One of the planets is Minshara-Class.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "ARCHER",
+          "line": "Take us out of warp. I'm on my way. Looks like we'll have to reschedule."
+        },
+        {
+          "character": "REED",
+          "line": "Whenever it's convenient. After you, sir."
+        }
+      ],
+      "location": "Captain's mess"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "ARCHER",
+          "line": "Anybody home?"
+        },
+        {
+          "character": "T'POL",
+          "line": "It's uninhabited."
+        },
+        {
+          "character": "ARCHER",
+          "line": "What about geographical features? Anything interesting?"
+        },
+        {
+          "character": "T'POL",
+          "line": "There's a chain of volcanoes that spans an entire hemisphere."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Well, I don't know about anyone else, but I could use some fresh air. Put us in a standard orbit."
+        },
+        {
+          "character": "TRAVIS",
+          "line": "Aye, sir."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Find a volcano with a gentle slope. Preferably one that's not erupting. Prep a shuttlepod, Travis. We'll take shifts down to"
+        },
+        {
+          "character": "ARCHER",
+          "line": "Report!"
+        },
+        {
+          "character": "REED",
+          "line": "It was a thermo-kinetic explosion on the outer hull, port forward quarter. Breeches on C deck, D deck."
+        },
+        {
+          "character": "T'POL",
+          "line": "Bridge to Sickbay. We need medical assistance."
+        },
+        {
+          "character": "PHLOX",
+          "line": "Acknowledged.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "ARCHER",
+          "line": "Emergency bulkheads?"
+        },
+        {
+          "character": "REED",
+          "line": "They're in place, but eight subsections have decompressed."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Was anybody in them?"
+        },
+        {
+          "character": "REED",
+          "line": "I can't tell, sir. Not yet."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Find out what happened. Malcolm!"
+        },
+        {
+          "character": "REED",
+          "line": "I'd give you an answer if I could, sir. The sensor logs aren't showing anything. All systems were functioning normally."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Archer to Engineering."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TUCKER",
+          "line": "Captain, what's going on?"
+        },
+        {
+          "character": "ARCHER",
+          "line": "I was hoping you could tell me.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "TUCKER",
+          "line": "We've got plasma fires, an overload in the EPS grid but whatever caused that explosion,"
+        }
+      ],
+      "location": "Engineering"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TUCKER",
+          "line": "I don't have a clue. Weapons fire? An asteroid?",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "ARCHER",
+          "line": "Nothing on our sensors. How are your people?"
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TUCKER",
+          "line": "A few bumps and bruises, but we're all right."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Keep me posted. Archer out.",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "Engineering"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "ARCHER",
+          "line": "Any casualty reports?"
+        },
+        {
+          "character": "REED",
+          "line": "Figures are coming in, sir. Seventeen so far, including Hoshi. No fatalities."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "PHLOX",
+          "line": "Get this man into the imaging chamber."
+        },
+        {
+          "character": "CREWWOMAN",
+          "line": "What's happening? Are we under attack?"
+        },
+        {
+          "character": "PHLOX",
+          "line": "I don't know."
+        },
+        {
+          "character": "CREWMAN",
+          "line": "Doctor!"
+        }
+      ],
+      "location": "Sickbay"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TRAVIS",
+          "line": "Captain, something just struck the ship. Starboard side upper aft quadrant."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Can you get a visual?"
+        },
+        {
+          "character": "ARCHER",
+          "line": "There. Just behind the secondary plasma vent. You see it?"
+        },
+        {
+          "character": "TRAVIS",
+          "line": "Some kind of cloaked ship?"
+        },
+        {
+          "character": "ARCHER",
+          "line": "It's too small."
+        },
+        {
+          "character": "T'POL",
+          "line": "I'm not reading any biosigns."
+        },
+        {
+          "character": "REED",
+          "line": "It's armed with tricobalt explosives. I think it's a mine. And judging by the firepower, something similar damaged our ship."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Can you tell if it's active?"
+        },
+        {
+          "character": "REED",
+          "line": "No reason to believe it's not."
+        },
+        {
+          "character": "T'POL",
+          "line": "Captain, it's lodged near Impulse Reactor Two. An explosion anywhere near there could disable Enterprise."
+        },
+        {
+          "character": "ARCHER",
+          "line": "What if we polarized the adjacent hull plating?"
+        },
+        {
+          "character": "REED",
+          "line": "We don't know how it's triggered. Somebody has to go out there and defuse it, and it should be me. I have the ordnance training."
+        },
+        {
+          "character": "ARCHER",
+          "line": "I've never heard of a minefield with just two mines. Are the quantum beacons still mounted on the grappler arm?"
+        },
+        {
+          "character": "TRAVIS",
+          "line": "I believe so."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Lower them into position, then modify the viewscreen. Activate the beacon."
+        },
+        {
+          "character": "T'POL",
+          "line": "They were designed to penetrate Suliban cloaking devices. I'll try shifting the phase variance."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "REED",
+          "line": "Lieutenant Reed to Bridge. I've opened the outer hatch. Wish me luck."
+        }
+      ],
+      "location": "Airlock"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "T'POL",
+          "line": "I'm detecting something in the gamma spectrum, phase variant point zero zero seven five."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "REED",
+          "line": "Its surface is pockmarked. Probably micrometeorite impacts. It seems to have been in orbit for some time. The spikes are magnetic. Two of them have locked onto the hull."
+        }
+      ],
+      "location": "Hull"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "REED",
+          "line": "Stand by. I'm going to run an internal scan.",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "REED",
+          "line": "There are proximity sensors, but they appear to be offline."
+        }
+      ],
+      "location": "Hull"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "ARCHER",
+          "line": "How bad is it?"
+        },
+        {
+          "character": "TUCKER",
+          "line": "I can't really tell until we can get into the decompressed sections but I imagine it's pretty ugly. I've got one piece of good news. I did a head count. We didn't lose anyone."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Trip, I'm not sure Malcolm's going to be able to defuse this thing. Couldn't we just detach that section of hull plating? Let it drift away?"
+        },
+        {
+          "character": "TUCKER",
+          "line": "We'd have to reroute some EPS conduits. There's about three hundred bolt couplings. It could be done."
+        },
+        {
+          "character": "ARCHER",
+          "line": "How long?"
+        },
+        {
+          "character": "TUCKER",
+          "line": "Three or four hours. But I wouldn't recommend it, sir. We'd be exposing a good piece of the impulse manifold."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Get a team started. I'll consider it our last resort."
+        },
+        {
+          "character": "REED",
+          "line": "I'm removing the panel.",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "REED",
+          "line": "The arming mechanism's extending."
+        },
+        {
+          "character": "REED",
+          "line": "Captain."
+        }
+      ],
+      "location": "Hull"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "ARCHER",
+          "line": "We see it, Malcolm."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Ever see a ship like that?"
+        },
+        {
+          "character": "T'POL",
+          "line": "No. It's reflecting our scans."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Why didn't the beacons let us see through its cloak?"
+        },
+        {
+          "character": "T'POL",
+          "line": "Perhaps the mines use a more primitive cloaking system."
+        },
+        {
+          "character": "TRAVIS",
+          "line": "Sir, they're hailing us."
+        },
+        {
+          "character": "T'POL",
+          "line": "The translator's not locking on."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Archer to Sickbay."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "PHLOX",
+          "line": "Yes, Captain."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Is Hoshi in any shape to return to the Bridge? It's urgent.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "PHLOX",
+          "line": "I'm afraid not. She suffered a rather severe concussion."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Understood.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "HOSHI",
+          "line": "Tell him I'm on my way."
+        },
+        {
+          "character": "PHLOX",
+          "line": "You'd be of little help in your present condition, Ensign."
+        }
+      ],
+      "location": "Sickbay"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "ARCHER",
+          "line": "Any luck?"
+        },
+        {
+          "character": "T'POL",
+          "line": "Not yet."
+        },
+        {
+          "character": "TRAVIS",
+          "line": "They're charging weapons."
+        },
+        {
+          "character": "TRAVIS",
+          "line": "They missed our starboard nacelle by less than twenty meters."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Not a very subtle warning shot."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Can you get us out of here?"
+        },
+        {
+          "character": "TRAVIS",
+          "line": "The orbits of those mines are pretty erratic, sir. It's going to be tricky."
+        },
+        {
+          "character": "ARCHER",
+          "line": "We'll give you whatever help we can. Bridge to Lieutenant Reed."
+        },
+        {
+          "character": "REED",
+          "line": "Go ahead.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "ARCHER",
+          "line": "Our friends seem to be anxious for us to leave. We're going to break orbit, nice and slowly."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "REED",
+          "line": "Understood. If you plan to go to warp, sir, you'll let me know?"
+        },
+        {
+          "character": "ARCHER",
+          "line": "I'll try to remember.",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "Hull"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "ARCHER",
+          "line": "Maneuvering thrusters only."
+        },
+        {
+          "character": "TRAVIS",
+          "line": "Aye, sir."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Activate the beacon."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "REED",
+          "line": "Our friends just vanished."
+        },
+        {
+          "character": "ARCHER",
+          "line": "That doesn't mean they're not still close.",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "Hull"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "REED",
+          "line": "Lieutenant Reed to Bridge.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "ARCHER",
+          "line": "Go ahead."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "REED",
+          "line": "I've identified four separate detonation circuits. If I can isolate them in the proper sequence, I should be able to deactivate the mine. It'll take some doing, but to be honest, Captain, it's only a theory."
+        }
+      ],
+      "location": "Hull"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "ARCHER",
+          "line": "How good a theory?"
+        },
+        {
+          "character": "REED",
+          "line": "The closest thing I'm familiar with that this device resembles is a Triton-Class spatial torpedo. I've disarmed at least half a dozen of those. I believe I can do it, sir.",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "ARCHER",
+          "line": "I've got Trip working on a backup plan, but I'd prefer not to use it. Right now, you're our best bet. Be careful, Malcolm."
+        },
+        {
+          "character": "TRAVIS",
+          "line": "I see it."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "REED",
+          "line": "Bridge."
+        }
+      ],
+      "location": "Hull"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "ARCHER",
+          "line": "Go ahead."
+        },
+        {
+          "character": "REED",
+          "line": "Another one of those spikes I told you about.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "ARCHER",
+          "line": "What about it?"
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "REED",
+          "line": "It just magnetized itself to the hull."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Is there a problem?",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "REED",
+          "line": "On its way it went through my leg, sir."
+        }
+      ],
+      "location": "Hull"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "ARCHER",
+          "line": "I'm on my way, Lieutenant. The Bridge is yours."
+        },
+        {
+          "character": "TUCKER",
+          "line": "Captain, I should be the one to go out there. I'm the engineer."
+        },
+        {
+          "character": "ARCHER",
+          "line": "That's why I need you here, Trip."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "PHLOX",
+          "line": "Ensign, lie still. Your injuries don't appear to be serious. Present circumstances, however, should not keep up from continuing our Denobulan lessons. What about anatomy? Let's begin with the thyroid gland."
+        },
+        {
+          "character": "HOSHI",
+          "line": "The thyroid gland?"
+        },
+        {
+          "character": "PHLOX",
+          "line": "In Denobulan."
+        },
+        {
+          "character": "PHLOX",
+          "line": "Very good. How about the hypothalamus?"
+        },
+        {
+          "character": "PHLOX",
+          "line": "Excellent. Now the xiphoid process. That's a difficult one."
+        },
+        {
+          "character": "PHLOX",
+          "line": "No. No, that could be misinterpreted as big toe. The proper term would be . All right, let's try something simpler. Pericardia."
+        }
+      ],
+      "location": "Deleted scene - Sickbay - not really sure where it actually belongs, but this is as good a place as any"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "PHLOX",
+          "line": "You'll have to wait in line for my osmotic eel to cauterize your wound. He's getting quite a workout today."
+        },
+        {
+          "character": "HOSHI",
+          "line": "Doctor."
+        },
+        {
+          "character": "PHLOX",
+          "line": "Ensign."
+        },
+        {
+          "character": "HOSHI",
+          "line": "They need a translator. I should be at my post."
+        },
+        {
+          "character": "PHLOX",
+          "line": "I realize you're anxious to help but you wouldn't make it to the turbolift. If you'd like, I could have them bring the comm. logs here."
+        },
+        {
+          "character": "HOSHI",
+          "line": "Thank you, Doctor."
+        }
+      ],
+      "location": "Sickbay"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "ARCHER",
+          "line": "Thought you might need a hand."
+        },
+        {
+          "character": "REED",
+          "line": "Actually, I'd prefer a leg."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Let's see what we can do with the one you got. Could have been worse. It missed the bone, and it looks like the pressure from the spike is keeping the wound from bleeding too much. You'll be in Sickbay in no time. These should cut right through it."
+        },
+        {
+          "character": "REED",
+          "line": "Actually, sir, I wouldn't do that. My scans show detonation circuits inside the spikes. I would consider letting you amputate, but if Chef got hold of it he'd be serving Roast Reed for Sunday dinner. Just give me something for the pain and I'll do my best to reach the access panel."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Not without doing more damage to that leg."
+        },
+        {
+          "character": "REED",
+          "line": "What's more important, my leg or your ship?"
+        },
+        {
+          "character": "ARCHER",
+          "line": "I intend to save both."
+        },
+        {
+          "character": "REED",
+          "line": "I don't see how."
+        },
+        {
+          "character": "ARCHER",
+          "line": "That backup plan I was telling you about? I asked Trip to prepare to detach this section of hull plating. Seemed like a good idea at the time."
+        },
+        {
+          "character": "REED",
+          "line": "It's still a good idea."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Not with you attached to it."
+        },
+        {
+          "character": "REED",
+          "line": "I hope that's an anesthetic."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Phlox's own recipe."
+        },
+        {
+          "character": "REED",
+          "line": "Please, sir, may I have some more?"
+        },
+        {
+          "character": "ARCHER",
+          "line": "I don't want you too sedated. I'm going to need your help. Someone's got to defuse this thing. You're going to talk me through it."
+        },
+        {
+          "character": "REED",
+          "line": "With all due respect, Captain, disarming mines is extremely delicate business. I'm trained for it. You're not."
+        },
+        {
+          "character": "ARCHER",
+          "line": "I'm a quick study."
+        },
+        {
+          "character": "REED",
+          "line": "It's too dangerous."
+        },
+        {
+          "character": "ARCHER",
+          "line": "In case you haven't noticed, Lieutenant we're sitting about five meters from an impulse reactor. I'm not leaving until we take this weapon offline."
+        },
+        {
+          "character": "REED",
+          "line": "Sir."
+        },
+        {
+          "character": "ARCHER",
+          "line": "The way I see it, you don't have much choice. You're sort of stuck here. So would you let me get started?"
+        },
+        {
+          "character": "REED",
+          "line": "I hope you've got a steady hand."
+        }
+      ],
+      "location": "Hull"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "HOSHI",
+          "line": "They're ordering us to leave their system immediately or they'll destroy us."
+        },
+        {
+          "character": "TUCKER",
+          "line": "Charming. Could you figure out a way to compose a message back, explaining we're going as fast as we can?"
+        },
+        {
+          "character": "HOSHI",
+          "line": "I can try."
+        },
+        {
+          "character": "T'POL",
+          "line": "And their next message?"
+        },
+        {
+          "character": "HOSHI",
+          "line": "They say they've annexed this planet in the name of something called The Romalin Star Empire."
+        },
+        {
+          "character": "T'POL",
+          "line": "Romulan. It's pronounced Romulan."
+        }
+      ],
+      "location": "Sickbay"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "ARCHER",
+          "line": "Romulans? I read about them when I was with Daniels."
+        },
+        {
+          "character": "TUCKER",
+          "line": "What'd you find out?",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "ARCHER",
+          "line": "Not much. Just the name. He wouldn't let me see anything else. T'Pol?"
+        }
+      ],
+      "location": "Hull"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "T'POL",
+          "line": "They're rumored to be an aggressive, territorial species but the Vulcan High Command has never made direct contact with them. Ensign Sato's translation says that"
+        }
+      ],
+      "location": "Sickbay"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "T'POL",
+          "line": "They're demanding that we withdraw from this system immediately.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "ARCHER",
+          "line": "That's going to be a little tough to do at the moment. Is there any way you can explain our situation?"
+        }
+      ],
+      "location": "Hull"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "T'POL",
+          "line": "She believes she'll have a reply prepared within the hour."
+        },
+        {
+          "character": "TUCKER",
+          "line": "How's it going out there, Captain?"
+        },
+        {
+          "character": "ARCHER",
+          "line": "We've taken two of the detonation circuits offline. Three more to go. Keep me posted.",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "Sickbay"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "REED",
+          "line": "The next one's going to be tricky. Do you see the Y-shaped components surrounding the circuit?"
+        },
+        {
+          "character": "ARCHER",
+          "line": "There's six of them."
+        },
+        {
+          "character": "REED",
+          "line": "Right. Those are timing relays. You'll have to rotate each one counterclockwise seventy degrees, but it has to be done in the proper order. I'll guide you through it. Start with the relay to your upper right. Raise it one centimeter and then turn it seventy degrees counterclockwise. Good. Now pull it out slowly. Be careful not to touch the housing. Well done. Now complete that set on the diagonal."
+        },
+        {
+          "character": "ARCHER",
+          "line": "So, where were we?"
+        },
+        {
+          "character": "REED",
+          "line": "Sir?"
+        },
+        {
+          "character": "ARCHER",
+          "line": "This morning, at breakfast, before we were interrupted. You said you didn't follow any particular sport."
+        },
+        {
+          "character": "REED",
+          "line": "Well, I'm afraid I haven't started following one since breakfast, sir. Now, go to the relay top center, but watch that one. I believe it may be damaged. It'll need some extra torque to deactivate it."
+        },
+        {
+          "character": "ARCHER",
+          "line": "How about hobbies? Any hobbies?"
+        },
+        {
+          "character": "REED",
+          "line": "No, not really, sir."
+        },
+        {
+          "character": "ARCHER",
+          "line": "I could've sworn I've seen you reading a book or two in the mess hall."
+        },
+        {
+          "character": "REED",
+          "line": "Sir, do you really think that this is the appropriate time for a chat?"
+        },
+        {
+          "character": "ARCHER",
+          "line": "It helps me focus. It calms my nerves."
+        },
+        {
+          "character": "REED",
+          "line": "Well, it isn't calming mine."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Sorry. It made you a little nervous this morning, too, didn't it? Why is that?"
+        },
+        {
+          "character": "REED",
+          "line": "If you must know, I was honored to be asked to sit at your table. I just wasn't entirely comfortable having a casual meal with my captain. I was trained not to fraternize with superior officers."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Never too late to learn."
+        },
+        {
+          "character": "REED",
+          "line": "Frankly, sir, from my point of view that kind of socializing has no place on a starship."
+        },
+        {
+          "character": "ARCHER",
+          "line": "I had a CO once felt the same way. They're your crew, not your friends. I thought about that a lot when I took this command, but then I realized this is not your typical mission. We could be out here for years. All we have to depend on is each other."
+        },
+        {
+          "character": "REED",
+          "line": "There are two left. Top left first."
+        },
+        {
+          "character": "ARCHER",
+          "line": "I appreciate your suggestions, Malcolm. Anything else?"
+        },
+        {
+          "character": "REED",
+          "line": "Well, since you asked. Bridge protocols have become somewhat lax. Too many people offering opinions. We're here to carry out your orders, sir. You're the Captain."
+        },
+        {
+          "character": "ARCHER",
+          "line": "What's the point of having a senior staff if they just sit around with their mouths shut? I'm glad they have opinions. I rely on them. Keep going."
+        },
+        {
+          "character": "REED",
+          "line": "And in the area of security I sometimes think you could show a little more caution, sir."
+        },
+        {
+          "character": "ARCHER",
+          "line": "I'm aware of your concerns in that area."
+        },
+        {
+          "character": "REED",
+          "line": "Not to say that it hasn't been a privilege to have served with you."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Ah ha."
+        },
+        {
+          "character": "REED",
+          "line": "Sir?"
+        },
+        {
+          "character": "ARCHER",
+          "line": "You're talking in the past tense, Lieutenant."
+        },
+        {
+          "character": "REED",
+          "line": "Now, reinsert all six relays, but in the reverse order. You're doing fine, sir."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Thanks."
+        }
+      ],
+      "location": "Hull"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TUCKER",
+          "line": "You've earned yourself a break, Travis. Ensign Hutchison can cover the helm for a while."
+        },
+        {
+          "character": "TRAVIS",
+          "line": "Thank you, sir, but I'd prefer to stay at my post."
+        },
+        {
+          "character": "T'POL",
+          "line": "Bridge to Captain Archer."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Go ahead.",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "T'POL",
+          "line": "We're clear of the minefield.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "ARCHER",
+          "line": "Maintain course and speed."
+        },
+        {
+          "character": "T'POL",
+          "line": "Understood."
+        },
+        {
+          "character": "REED",
+          "line": "This last detonation circuit has an added attraction. I'm seeing something that looks like a back-up arming mechanism. We'll have to fool the circuit into thinking it's still online."
+        },
+        {
+          "character": "ARCHER",
+          "line": "How do we do that?"
+        },
+        {
+          "character": "REED",
+          "line": "There's a hyperspanner in the equipment case. Take out its power cell and strip off the casing."
+        },
+        {
+          "character": "ARCHER",
+          "line": "You must have realized this wasn't going to be your typical armory posting. That my command style lacked a certain spit and polish."
+        },
+        {
+          "character": "REED",
+          "line": "It was obvious, if you don't mind me saying so."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Strange."
+        },
+        {
+          "character": "REED",
+          "line": "What's strange, sir?"
+        },
+        {
+          "character": "ARCHER",
+          "line": "I understand you came from a long line of Royal Navy men. Your father, your grandfather. Why pick Starfleet? Why not continue the family tradition?"
+        },
+        {
+          "character": "REED",
+          "line": "God knows I tried."
+        },
+        {
+          "character": "ARCHER",
+          "line": "What happened?"
+        },
+        {
+          "character": "REED",
+          "line": "I'll need a circuit probe."
+        },
+        {
+          "character": "ARCHER",
+          "line": "So, what happened?"
+        },
+        {
+          "character": "REED",
+          "line": "I was raised on the water. I knew how to handle a boat before I could ride a bicycle. Studied all the great naval battles. I don't know. I suppose I thought I'd just grow out of it."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Grow out of what?"
+        },
+        {
+          "character": "REED",
+          "line": "Aquaphobia."
+        },
+        {
+          "character": "ARCHER",
+          "line": "You're afraid of the water?"
+        },
+        {
+          "character": "REED",
+          "line": "More precisely, afraid of drowning."
+        },
+        {
+          "character": "ARCHER",
+          "line": "So instead of a life on the sea you chose a life in the vacuum of space?"
+        },
+        {
+          "character": "REED",
+          "line": "I had a great-uncle who suffered from the same problem, but he faced his fears. Joined the Navy, had a distinguished career. All you have to do is attach it to the cylinder on your upper right. It's working. Start with the topmost component. Use the caliper to lift it a few millimeters and then turn it clockwise three hundred and sixty degrees, and then gently reinsert it. He was something of a hero to me, my great-uncle."
+        },
+        {
+          "character": "ARCHER",
+          "line": "The one with aquaphobia?"
+        },
+        {
+          "character": "REED",
+          "line": "Indeed. He signed up with the submarine service."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Talk about facing your deepest fears."
+        },
+        {
+          "character": "REED",
+          "line": "He was a brave man. Wasn't long before he'd worked his way up through the ranks. Made chief engineer on the HMS Clement. Do you know the story of the Clement, sir?"
+        },
+        {
+          "character": "ARCHER",
+          "line": "I don't think I do."
+        },
+        {
+          "character": "REED",
+          "line": "Good. Now, the other five components. Repeat the same process on each one, counterclockwise."
+        },
+        {
+          "character": "ARCHER",
+          "line": "You were telling me about the Clement."
+        },
+        {
+          "character": "REED",
+          "line": "They were on a routine patrol when they had an accident. Now, there's a beautiful irony for you. They hit a mine left over from some world war. There they were, trapped underneath an ice shelf, several compartments flooding, including Engineering. Can you imagine? My great-uncle, the man afraid of drowning? The ship was sinking, losing power. According to his lieutenant, my great-uncle sealed himself in the engine room and kept the reactor online long enough for his crew to make it to the escape pods. He went down with his ship. He did what he had to do to save his crewmates."
+        },
+        {
+          "character": "ARCHER",
+          "line": "I appreciate what you're trying to tell me, Malcolm, but I was hoping you'd be able to save your heroics for another time."
+        },
+        {
+          "character": "REED",
+          "line": "I just want you to know, sir, that I am prepared."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Got you."
+        },
+        {
+          "character": "REED",
+          "line": "If we're not able to defuse this mine, the safety of the crew"
+        },
+        {
+          "character": "ARCHER",
+          "line": "I said I heard you, Lieutenant."
+        },
+        {
+          "character": "REED",
+          "line": "I'm afraid we have another problem, sir."
+        },
+        {
+          "character": "ARCHER",
+          "line": "What? What is it?"
+        },
+        {
+          "character": "REED",
+          "line": "I need to use the bathroom."
+        },
+        {
+          "character": "ARCHER",
+          "line": "I won't tell a soul."
+        },
+        {
+          "character": "REED",
+          "line": "In my EV suit, sir?"
+        },
+        {
+          "character": "REED",
+          "line": "Sir."
+        }
+      ],
+      "location": "Hull"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TRAVIS",
+          "line": "We're being hailed."
+        },
+        {
+          "character": "ROMULAN",
+          "line": "You've ignored our warnings.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "T'POL",
+          "line": "We were unable to translate your language until a short time ago. We're trying to defuse a weapon lodged on our hull."
+        },
+        {
+          "character": "ROMULAN",
+          "line": "I'm well aware of your situation. Our scans show you're prepared to detach the hull segment surrounding the mine. Complete the procedure and leave this system immediately.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "TUCKER",
+          "line": "We've got a man trapped out there. Don't your scans show you that?"
+        },
+        {
+          "character": "ROMULAN",
+          "line": "One crewman. You have eighty two others safely aboard. Jettison the hull segment and leave. We will not tolerate espionage.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "ARCHER",
+          "line": "T'Pol, report.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "T'POL",
+          "line": "They're demanding that we jettison the section of hull plating and leave."
+        },
+        {
+          "character": "TUCKER",
+          "line": "They scanned us, Captain. They know we're ready to detach it."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "ARCHER",
+          "line": "I'm defusing the last detonation circuit. Stand by."
+        },
+        {
+          "character": "REED",
+          "line": "It's rearming! Reset that last component! Quickly!"
+        },
+        {
+          "character": "ARCHER",
+          "line": "Lieutenant?"
+        },
+        {
+          "character": "REED",
+          "line": "When you deactivated that final circuit, it triggered a sub detonator."
+        },
+        {
+          "character": "ARCHER",
+          "line": "How can we get to it?"
+        },
+        {
+          "character": "REED",
+          "line": "We can't. It's too deep inside. We'd have to dismantle the entire mine. Captain? Those heroics we spoke about. I think it may be time. You've done all you can, sir. For what it's worth, you'd make a fine Armory Officer."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Show me that sub-detonator."
+        },
+        {
+          "character": "REED",
+          "line": "I'd prefer a burial at sea, if I'm not completely vaporized."
+        },
+        {
+          "character": "ARCHER",
+          "line": "I thought you were afraid of the water. Your scanner, Lieutenant."
+        },
+        {
+          "character": "REED",
+          "line": "I told you, sir. There's nothing we can do."
+        },
+        {
+          "character": "ARCHER",
+          "line": "We'll dismantle this thing piece by piece if we have to."
+        },
+        {
+          "character": "REED",
+          "line": "That'll take days."
+        },
+        {
+          "character": "ARCHER",
+          "line": "My schedule's open."
+        },
+        {
+          "character": "REED",
+          "line": "And these Romulans? They don't seem like the patient types. The longer we stay in this system, the more likely they're going to attack. As much as I appreciate all your efforts, you have to detach the hull plating. It's the only option."
+        },
+        {
+          "character": "ARCHER",
+          "line": "I'm not about to leave one of my crew behind."
+        },
+        {
+          "character": "REED",
+          "line": "You're putting Enterprise at risk."
+        },
+        {
+          "character": "ARCHER",
+          "line": "We're wasting time. Help me figure out a way to get you off of here. That's an order."
+        },
+        {
+          "character": "ARCHER",
+          "line": "What the hell are you doing?"
+        },
+        {
+          "character": "ARCHER",
+          "line": "Great."
+        },
+        {
+          "character": "ARCHER",
+          "line": "If I were the kind of captain you think I should be, I'd bust your ass back to crewman."
+        },
+        {
+          "character": "REED",
+          "line": "Begging your pardon, sir, but if you were that kind of captain we wouldn't be having this conversation. You'd have cut me loose by now."
+        },
+        {
+          "character": "ARCHER",
+          "line": "I'm not going to do that, Malcolm. When we triggered that sub-detonator, why didn't the mine explode right away?"
+        },
+        {
+          "character": "ARCHER",
+          "line": "How many seconds went by before I rearmed it?"
+        },
+        {
+          "character": "REED",
+          "line": "Sir?"
+        },
+        {
+          "character": "ARCHER",
+          "line": "How many seconds?"
+        },
+        {
+          "character": "REED",
+          "line": "I don't remember. Ten, maybe twelve."
+        },
+        {
+          "character": "ARCHER",
+          "line": "It felt more like twenty."
+        },
+        {
+          "character": "REED",
+          "line": "Ten, twenty, what's the difference?"
+        },
+        {
+          "character": "ARCHER",
+          "line": "If it had exploded, how big would the yield have been?"
+        },
+        {
+          "character": "REED",
+          "line": "Judging by the damage the first mine caused, I'd guess about a quarter of a kiloton. What are you getting at, sir?"
+        }
+      ],
+      "location": "Hull"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "ARCHER",
+          "line": "How close is your team to finishing?"
+        },
+        {
+          "character": "TUCKER",
+          "line": "They're down to the last few couplings. What's going on out there?"
+        },
+        {
+          "character": "ARCHER",
+          "line": "We're going to detach the plating."
+        },
+        {
+          "character": "T'POL",
+          "line": "I'm sure you did everything you could, Captain."
+        },
+        {
+          "character": "ARCHER",
+          "line": "I'm going with him. Can a shuttle pod hatch withstand a quarter-kiloton blast?"
+        },
+        {
+          "character": "TUCKER",
+          "line": "Depends how close it was."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Twenty meters, maybe twenty five."
+        },
+        {
+          "character": "TUCKER",
+          "line": "They're reinforced with duratanium alloy. They can take a hell of a beating. What have you got in mind?"
+        },
+        {
+          "character": "ARCHER",
+          "line": "I need two shuttlepod hatches. Have them brought up here on the double."
+        },
+        {
+          "character": "TUCKER",
+          "line": "Sir?"
+        },
+        {
+          "character": "ARCHER",
+          "line": "On the double."
+        },
+        {
+          "character": "T'POL",
+          "line": "Captain, I assume there's no point in my questioning your plan."
+        }
+      ],
+      "location": "Airlock"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "T'POL",
+          "line": "Bridge to Captain Archer."
+        }
+      ],
+      "location": "Situation room"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "ARCHER",
+          "line": "Go ahead."
+        },
+        {
+          "character": "T'POL",
+          "line": "We're ready.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "ARCHER",
+          "line": "See you soon."
+        }
+      ],
+      "location": "Hull"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TUCKER",
+          "line": "Hang on, fellas. (Bridge]"
+        },
+        {
+          "character": "TRAVIS",
+          "line": "Six hundred meters."
+        },
+        {
+          "character": "TUCKER",
+          "line": "Another hundred ought to do it."
+        },
+        {
+          "character": "TRAVIS",
+          "line": "Sub-commander."
+        },
+        {
+          "character": "T'POL",
+          "line": "Hail them."
+        },
+        {
+          "character": "TRAVIS",
+          "line": "No response."
+        },
+        {
+          "character": "TUCKER",
+          "line": "They're charging weapons."
+        },
+        {
+          "character": "T'POL",
+          "line": "Polarize the hull plating."
+        },
+        {
+          "character": "TUCKER",
+          "line": "I'll do what I can, but keep in mind we're missing some of it."
+        }
+      ],
+      "location": "Situation room"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "REED",
+          "line": "It's rearming."
+        },
+        {
+          "character": "ARCHER",
+          "line": "That's it, let's go."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Now, Malcolm!"
+        }
+      ],
+      "location": "Hull"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "T'POL",
+          "line": "Enterprise to Captain Archer. Captain, respond."
+        },
+        {
+          "character": "TUCKER",
+          "line": "Maybe their transmitters were knocked out in the blast. Travis?"
+        },
+        {
+          "character": "TRAVIS",
+          "line": "I see them. Bearing two one three mark four. Closing in."
+        },
+        {
+          "character": "T'POL",
+          "line": "Open the doors to Launch bay two."
+        },
+        {
+          "character": "TUCKER",
+          "line": "The Romulans are locking weapons."
+        },
+        {
+          "character": "T'POL",
+          "line": "Bridge to Doctor Phlox."
+        },
+        {
+          "character": "PHLOX",
+          "line": "Go ahead.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "T'POL",
+          "line": "Meet us outside Launch bay two."
+        },
+        {
+          "character": "TUCKER",
+          "line": "They're targeting our engines."
+        },
+        {
+          "character": "TRAVIS",
+          "line": "A hundred meters more. Fifty. I've got them. Sealing Launch bay doors."
+        },
+        {
+          "character": "T'POL",
+          "line": "Go to warp, Ensign."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "ARCHER",
+          "line": "Are you all right?"
+        },
+        {
+          "character": "REED",
+          "line": "All things considered. If I may say so, sir, your style of command does have its advantages."
+        },
+        {
+          "character": "ARCHER",
+          "line": "So, how long was it?"
+        },
+        {
+          "character": "REED",
+          "line": "I counted ten seconds."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Ten? It was more like twenty."
+        },
+        {
+          "character": "REED",
+          "line": "Respectfully, sir, it was ten."
+        },
+        {
+          "character": "ARCHER",
+          "line": "I'm not going to argue with you, Malcolm. It was twenty. That's an order."
+        }
+      ],
+      "location": "Launch bay two"
+    }
+  ],
+  "schedule": {
+    "episode": 3,
+    "number": 29,
+    "season": 2
+  },
+  "stardate": "Unknown",
+  "title": "Minefield"
+}

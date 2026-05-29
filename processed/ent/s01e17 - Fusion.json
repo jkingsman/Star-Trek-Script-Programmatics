@@ -1,0 +1,1575 @@
+{
+  "airdate": 1014796800,
+  "scenes": [
+    {
+      "dialogue": [
+        {
+          "character": "T'POL",
+          "line": "This text book is what you wanted me to see?"
+        },
+        {
+          "character": "ARCHER",
+          "line": "Not exactly."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Look familiar? This was my first astronomy book. My father got it for me on my eighth birthday. I used to stare at the cover for hours. The Arachnid Nebula. Who'd ever have thought I'd get to see it in person. It's less than a light year away. We'll be there in a few hours."
+        },
+        {
+          "character": "T'POL",
+          "line": "From the library of Admiral Johnny Archer?"
+        },
+        {
+          "character": "ARCHER",
+          "line": "I had high hopes when I was a kid. Yes?"
+        },
+        {
+          "character": "REED",
+          "line": "Sir, there's a ship approaching at half impulse. They're hailing us.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "ARCHER",
+          "line": "Do you know who it is?"
+        },
+        {
+          "character": "REED",
+          "line": "Hoshi says they're using a Vulcan frequency.",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "Ready room"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "ARCHER",
+          "line": "Doesn't look like any Vulcan ship I've ever seen."
+        },
+        {
+          "character": "T'POL",
+          "line": "This class of vessel hasn't been used for a long time."
+        },
+        {
+          "character": "HOSHI",
+          "line": "They're hailing us again."
+        },
+        {
+          "character": "TAVIN",
+          "line": "Is this the Earth vessel Enterprise?",
+          "modifier": "screen"
+        },
+        {
+          "character": "ARCHER",
+          "line": "It is. I'm Captain Jonathan Archer."
+        },
+        {
+          "character": "TAVIN",
+          "line": "My name is Tavin, Captain of the Vahklas. It's very good to meet you.",
+          "modifier": "screen"
+        },
+        {
+          "character": "ARCHER",
+          "line": "I get the feeling you weren't sent out here by the High Command."
+        },
+        {
+          "character": "TAVIN",
+          "line": "Not quite. We're a civilian ship.",
+          "modifier": "screen"
+        },
+        {
+          "character": "ARCHER",
+          "line": "What brings you out this far?"
+        },
+        {
+          "character": "TAVIN",
+          "line": "I suppose you could say we're on a mission of exploration.",
+          "modifier": "screen"
+        },
+        {
+          "character": "ARCHER",
+          "line": "From what I'm told, Vulcans aren't that interested in exploring."
+        },
+        {
+          "character": "TAVIN",
+          "line": "We're not typical Vulcans. I'd be happy to explain, but first I'd like to ask a favor.",
+          "modifier": "screen"
+        },
+        {
+          "character": "ARCHER",
+          "line": "Certainly."
+        },
+        {
+          "character": "TAVIN",
+          "line": "Our propulsion and life-support systems are in need of repair. We'd be grateful for any assistance you could offer.",
+          "modifier": "screen"
+        },
+        {
+          "character": "ARCHER",
+          "line": "We'll see what we can do."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TAVIN",
+          "line": "We've noticed the High Command looking over our shoulders on several occasions as well."
+        },
+        {
+          "character": "ARCHER",
+          "line": "That's good to know. I was starting to think they'd singled us out. Our chef's had a lot of experience lately preparing Vulcan dishes. T'Pol says he's gotten pretty good at it."
+        },
+        {
+          "character": "TAVIN",
+          "line": "What is that?"
+        },
+        {
+          "character": "ARCHER",
+          "line": "Oh, it's called chicken."
+        },
+        {
+          "character": "TAVIN",
+          "line": "May I?"
+        },
+        {
+          "character": "ARCHER",
+          "line": "Of course. It's, er, meat, you know."
+        },
+        {
+          "character": "TAVIN",
+          "line": "It looks delicious."
+        },
+        {
+          "character": "ARCHER",
+          "line": "So, when did you leave Vulcan?"
+        },
+        {
+          "character": "TAVIN",
+          "line": "Eight years ago."
+        },
+        {
+          "character": "TOLARIS",
+          "line": "And in those eight years we've experienced more than most Vulcans will in their lifetime."
+        },
+        {
+          "character": "ARCHER",
+          "line": "You said you were explorers?"
+        },
+        {
+          "character": "TAVIN",
+          "line": "Yes, but it's not space we're exploring. It's ourselves."
+        },
+        {
+          "character": "TAVIN",
+          "line": "Mmm!"
+        },
+        {
+          "character": "T'POL",
+          "line": "You're V'tosh ka'tur."
+        },
+        {
+          "character": "ARCHER",
+          "line": "I'm sorry?"
+        },
+        {
+          "character": "TAVIN",
+          "line": "Vulcans without logic. It's a name the Elders give to anyone who disagrees with the ancestral teachings, but it's not entirely accurate. We haven't abandoned logic. We've simply learned to exist without the need to continually repress our emotions. It's taken years of experimentation, but we've managed to find a balance between the two."
+        },
+        {
+          "character": "T'POL",
+          "line": "That's not possible."
+        },
+        {
+          "character": "TOLARIS",
+          "line": "Here we are."
+        },
+        {
+          "character": "TAVIN",
+          "line": "Logic is an essential part of Vulcan existence, but it has to complement emotions, not exclude them."
+        },
+        {
+          "character": "TOLARIS",
+          "line": "You must know a great deal about emotion. You live on a human starship. That's not something that many Vulcans would be comfortable with."
+        },
+        {
+          "character": "T'POL",
+          "line": "I am here as an observer."
+        },
+        {
+          "character": "TOLARIS",
+          "line": "I'm sorry. I didn't mean to offend you."
+        },
+        {
+          "character": "T'POL",
+          "line": "I'm not capable of feeling offense."
+        },
+        {
+          "character": "ARCHER",
+          "line": "My Chief Engineer tells me your repairs are going to take three or four days. We were going to use that time to explore the nebula, if you don't mind tagging along."
+        },
+        {
+          "character": "TAVIN",
+          "line": "Not at all. [Engineering}"
+        },
+        {
+          "character": "TUCKER",
+          "line": "I've never seen an engine this far gone. We're going to have to swap out every plasma relay in your reactor."
+        },
+        {
+          "character": "KOV",
+          "line": "There are a lot of women on your ship."
+        },
+        {
+          "character": "TUCKER",
+          "line": "Yeah, nearly a third of the crew."
+        },
+        {
+          "character": "KOV",
+          "line": "Is it true you mate year-round, with any of them you choose?"
+        },
+        {
+          "character": "TUCKER",
+          "line": "You haven't been around humans too much, have you?"
+        },
+        {
+          "character": "KOV",
+          "line": "You're the first we've met, but I've heard a lot of stories. Your people indulge their passions. Do you really eat six meals a day?"
+        },
+        {
+          "character": "TUCKER",
+          "line": "More like three."
+        },
+        {
+          "character": "KOV",
+          "line": "And what about sleep? I understand you spend more than half the day in bed."
+        },
+        {
+          "character": "TUCKER",
+          "line": "Eight hours. We sleep for eight hours. In my case, about six. When we're through here maybe we can get a bite to eat. I might be able to clear up some of your misconceptions."
+        },
+        {
+          "character": "KOV",
+          "line": "I'd like that, Commander."
+        },
+        {
+          "character": "TUCKER",
+          "line": "Call me Trip."
+        }
+      ],
+      "location": "Captain's mess"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "T'POL",
+          "line": "They've asked for any medical supplies we can spare and a thousand liters of plasma coolant."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Well, that shouldn't be a problem."
+        },
+        {
+          "character": "T'POL",
+          "line": "Tavin has also requested the recipe for Chicken Marsala."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Tell him Chef's recipes are usually classified but, we'll make an exception in this case. I thought you'd be spending a little more time getting to know our guests."
+        },
+        {
+          "character": "T'POL",
+          "line": "I've been busy."
+        },
+        {
+          "character": "ARCHER",
+          "line": "It seems to me like, you've been busy avoiding them. I can understand that you might not approve of what they're trying to do, but for all we know they're onto something."
+        },
+        {
+          "character": "T'POL",
+          "line": "That's unlikely."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Is it? Eight years. That's a pretty good track record."
+        },
+        {
+          "character": "T'POL",
+          "line": "Just because they smile and eat chicken doesn't mean they've learned to master their emotions."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Maybe I'm just relieved to finally meet some Vulcans who aren't giving me a hard time. Then again, if they have found this balance."
+        },
+        {
+          "character": "T'POL",
+          "line": "They're not the first ones to attempt this, Captain. Others have tried to reintegrate their emotions. They all failed. What they're doing is dangerous."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Unless my instincts are way off, they don't seem very dangerous to me. But I could be wrong. I can't order you to spend time with them, but I would encourage you to keep an open mind."
+        }
+      ],
+      "location": "Ready room"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TOLARIS",
+          "line": "So this is the mess hall."
+        },
+        {
+          "character": "T'POL",
+          "line": "It is."
+        },
+        {
+          "character": "TOLARIS",
+          "line": "The crew must not have much of an appetite."
+        },
+        {
+          "character": "T'POL",
+          "line": "Most of them are asleep. It's quite late."
+        },
+        {
+          "character": "TOLARIS",
+          "line": "Could you show me how to operate this?"
+        },
+        {
+          "character": "T'POL",
+          "line": "What would you like?"
+        },
+        {
+          "character": "TOLARIS",
+          "line": "I'm not sure. I don't have much experience with human food. What's that?"
+        },
+        {
+          "character": "T'POL",
+          "line": "Mint tea."
+        },
+        {
+          "character": "TOLARIS",
+          "line": "That'll be fine."
+        },
+        {
+          "character": "T'POL",
+          "line": "Mint tea, hot."
+        },
+        {
+          "character": "TOLARIS",
+          "line": "Thank you. It has a lot of flavor."
+        },
+        {
+          "character": "T'POL",
+          "line": "You can try something else."
+        },
+        {
+          "character": "TOLARIS",
+          "line": "No, it's fine. I'm just surprised. Do you like the taste?"
+        },
+        {
+          "character": "T'POL",
+          "line": "Their selection of Vulcan beverages is limited."
+        },
+        {
+          "character": "TOLARIS",
+          "line": "But it can make Vulcan tea."
+        },
+        {
+          "character": "T'POL",
+          "line": "Yes."
+        },
+        {
+          "character": "TOLARIS",
+          "line": "Interesting."
+        },
+        {
+          "character": "T'POL",
+          "line": "Unless you need further assistance"
+        },
+        {
+          "character": "TOLARIS",
+          "line": "How long have you lived among humans?"
+        },
+        {
+          "character": "T'POL",
+          "line": "I spent two years at the Vulcan consulate on Earth and seven months on Enterprise."
+        },
+        {
+          "character": "TOLARIS",
+          "line": "That's a long time away from home. Living here has obviously affected you in ways that you don't realize."
+        },
+        {
+          "character": "T'POL",
+          "line": "You may be right. On occasion, I also drink chamomile tea."
+        },
+        {
+          "character": "TOLARIS",
+          "line": "And you have a sense of humor. A concept that most Vulcans can't seem to grasp."
+        },
+        {
+          "character": "T'POL",
+          "line": "You're easily amused."
+        },
+        {
+          "character": "TOLARIS",
+          "line": "There's that humor again. I'm curious, why do you stay here?"
+        },
+        {
+          "character": "T'POL",
+          "line": "Captain Archer needs a Science Officer."
+        },
+        {
+          "character": "TOLARIS",
+          "line": "Is that the only reason? Maybe you're more attached to these people than you'd care to admit."
+        },
+        {
+          "character": "T'POL",
+          "line": "What makes you say that?"
+        },
+        {
+          "character": "TOLARIS",
+          "line": "Your emotions are much closer to the surface than other Vulcans. They're easier to read."
+        },
+        {
+          "character": "T'POL",
+          "line": "I have yet to mediate this evening. Perhaps that's what you're sensing."
+        },
+        {
+          "character": "TOLARIS",
+          "line": "This may surprise you, but we still meditate. The balance between emotion and logic requires constant diskipline."
+        },
+        {
+          "character": "T'POL",
+          "line": "So you've said. You and your colleagues have chosen a reckless path."
+        },
+        {
+          "character": "TOLARIS",
+          "line": "Have we?"
+        },
+        {
+          "character": "T'POL",
+          "line": "History's shown that Vulcans who attempt to embrace their emotions often revert to their primal nature."
+        },
+        {
+          "character": "TOLARIS",
+          "line": "That's a myth. Propaganda from five thousand years ago. Our primal nature, T'Pol, is not as dangerous as you think. Commander Tucker suggests that I try something called pizza. Would you care to join me?"
+        },
+        {
+          "character": "T'POL",
+          "line": "I've already eaten. Another time, perhaps."
+        }
+      ],
+      "location": "Mess hall"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "REED",
+          "line": "Is it what you imagined, sir?"
+        },
+        {
+          "character": "ARCHER",
+          "line": "Pictures don't do it justice."
+        },
+        {
+          "character": "TRAVIS",
+          "line": "It's big. Over eight billion kilometers in diameter."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Eight billion? Are you sure?"
+        },
+        {
+          "character": "TRAVIS",
+          "line": "According to sensors."
+        },
+        {
+          "character": "ARCHER",
+          "line": "My astronomy book said it was only six and a half."
+        },
+        {
+          "character": "HOSHI",
+          "line": "We'll have to send our readings to the publisher so they can put out a revised edition."
+        },
+        {
+          "character": "ARCHER",
+          "line": "How long would it take to chart that thing?"
+        },
+        {
+          "character": "T'POL",
+          "line": "Several weeks."
+        },
+        {
+          "character": "TAVIN",
+          "line": "My vessel is equipped with translinear sensors. We could help you complete the survey a good deal quicker."
+        },
+        {
+          "character": "ARCHER",
+          "line": "We should have someone on your ship to monitor the data. Would you mind working from there?"
+        },
+        {
+          "character": "T'POL",
+          "line": "No."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Glad you dropped by. Take us in, Travis."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TOLARIS",
+          "line": "Look at that. I've never seen anything so beautiful. You'd probably consider that an emotional reaction."
+        },
+        {
+          "character": "T'POL",
+          "line": "Not necessarily. It is esthetically pleasing."
+        },
+        {
+          "character": "TOLARIS",
+          "line": "Pleasing. Coming from you, that's practically an outburst."
+        },
+        {
+          "character": "T'POL",
+          "line": "It's curious that people who reject Surak's teachings would display his likeness."
+        },
+        {
+          "character": "TOLARIS",
+          "line": "We don't reject his teachings. We simply disagree with how they're interpreted. Have you read his original text? He never intended for us to purge our emotions. He wanted us to master them, and then carefully integrate them into our lives."
+        },
+        {
+          "character": "T'POL",
+          "line": "I doubt many would agree with you."
+        },
+        {
+          "character": "TOLARIS",
+          "line": "That doesn't mean we're wrong."
+        },
+        {
+          "character": "T'POL",
+          "line": "What did you do on Vulcan before you left?"
+        },
+        {
+          "character": "TOLARIS",
+          "line": "I taught literature at the Shirkar Academy."
+        },
+        {
+          "character": "T'POL",
+          "line": "You gave up a great deal to wander the galaxy in a transport."
+        },
+        {
+          "character": "TOLARIS",
+          "line": "I don't have any regrets. I always knew there had to be more to life than just logic and reason. Haven't you ever felt that way?"
+        },
+        {
+          "character": "T'POL",
+          "line": "Not recently."
+        },
+        {
+          "character": "TOLARIS",
+          "line": "But you did once?"
+        },
+        {
+          "character": "T'POL",
+          "line": "Once. I should take these readings back to Enterprise."
+        },
+        {
+          "character": "TOLARIS",
+          "line": "T'Pol, you said that you meditated each night. Tonight, don't. See what happens. I think you'll find your dreams will be far more interesting. You're a scientist. Consider it an experiment."
+        }
+      ],
+      "location": "Vahklas sensor control"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TUCKER",
+          "line": "Where'd you hear that?"
+        },
+        {
+          "character": "KOV",
+          "line": "A Vulcan anthropologist told me he'd seen the ritual during an Earth expedition."
+        },
+        {
+          "character": "TUCKER",
+          "line": "They're not trying to kill the quarterback. They're just trying to keep him from throwing the ball or running with it. It's only a game, not a fight to the death."
+        },
+        {
+          "character": "KOV",
+          "line": "I see."
+        },
+        {
+          "character": "TUCKER",
+          "line": "You must think we're a bunch of barbarians."
+        },
+        {
+          "character": "KOV",
+          "line": "Your species does have a reputation, but I've always suspected the stories were exaggerated."
+        },
+        {
+          "character": "TUCKER",
+          "line": "Well, I hope you'll tell all your friends. Set the record straight."
+        },
+        {
+          "character": "KOV",
+          "line": "Gladly."
+        },
+        {
+          "character": "TUCKER",
+          "line": "There's, er, something I've always wondered about Vulcans. Maybe you could clear it up for me."
+        },
+        {
+          "character": "KOV",
+          "line": "Please."
+        },
+        {
+          "character": "TUCKER",
+          "line": "It's kind of personal."
+        },
+        {
+          "character": "KOV",
+          "line": "Go ahead."
+        },
+        {
+          "character": "TUCKER",
+          "line": "Well, I've learned about your marriage customs. How your parents arrange the whole thing when you're young, stuff like that but, what about, you know."
+        },
+        {
+          "character": "KOV",
+          "line": "Ah, you mean sex."
+        },
+        {
+          "character": "TUCKER",
+          "line": "It's not a topic I've heard Vulcans diskuss."
+        },
+        {
+          "character": "KOV",
+          "line": "Well, we do have it, if that's what you're asking."
+        },
+        {
+          "character": "REED",
+          "line": "Am I interrupting anything?"
+        },
+        {
+          "character": "KOV",
+          "line": "No, please join us, Mister?"
+        },
+        {
+          "character": "REED",
+          "line": "Reed. Malcolm Reed."
+        },
+        {
+          "character": "KOV",
+          "line": "Kov. We were just diskussing Vulcan mating rituals. Most of my people are extremely uncomfortable talking about such things. So many inhibitions. Vulcan males are driven to mate once every seven years."
+        },
+        {
+          "character": "TUCKER",
+          "line": "Seven years?"
+        },
+        {
+          "character": "REED",
+          "line": "Frightening."
+        },
+        {
+          "character": "KOV",
+          "line": "Over the past few years, we've been developing methods to accelerate the mating cycle."
+        },
+        {
+          "character": "TUCKER",
+          "line": "You up for seconds?"
+        },
+        {
+          "character": "KOV",
+          "line": "I've had enough, thank you. Back to work? A pleasure meeting you, Mister Reed."
+        },
+        {
+          "character": "REED",
+          "line": "Likewise."
+        }
+      ],
+      "location": "Mess hall"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "HOSHI",
+          "line": "Sir, I'm picking up a transmission from Echo three."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Starfleet?"
+        },
+        {
+          "character": "HOSHI",
+          "line": "It's Admiral Forrest."
+        },
+        {
+          "character": "ARCHER",
+          "line": "I'll take it in my ready room."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "ARCHER",
+          "line": "Admiral Forrest. Good to see you."
+        },
+        {
+          "character": "FORREST",
+          "line": "You, too, Jon. I understand you have guests.",
+          "modifier": "screen"
+        },
+        {
+          "character": "ARCHER",
+          "line": "A Vulcan crew. How'd you know?"
+        },
+        {
+          "character": "FORREST",
+          "line": "I got a call from Ambassador Soval about an hour ago. They're aware that you've docked with the Vahklas, and they have a favor to ask.",
+          "modifier": "screen"
+        },
+        {
+          "character": "ARCHER",
+          "line": "A favor from me?"
+        },
+        {
+          "character": "FORREST",
+          "line": "A minister at the High Command has a son on that ship, an engineer named Kov. Have you met him?",
+          "modifier": "screen"
+        },
+        {
+          "character": "ARCHER",
+          "line": "I don't think so."
+        },
+        {
+          "character": "FORREST",
+          "line": "Well, apparently, the two of them had a falling out about nine, ten years ago. His father's tried to contact him several times since then, but Kov won't respond.",
+          "modifier": "screen"
+        },
+        {
+          "character": "ARCHER",
+          "line": "What do they want me to do?"
+        },
+        {
+          "character": "FORREST",
+          "line": "I hear these aren't your garden variety Vulcans. Can I assume you're on friendly terms?",
+          "modifier": "screen"
+        },
+        {
+          "character": "ARCHER",
+          "line": "Yes."
+        },
+        {
+          "character": "FORREST",
+          "line": "Kov's father is dying, Jon. He'd like to speak with his son. Maybe you can encourage him somehow.",
+          "modifier": "screen"
+        },
+        {
+          "character": "ARCHER",
+          "line": "I'll see what I can do."
+        },
+        {
+          "character": "FORREST",
+          "line": "The High Command let you keep your Science Officer. It wouldn't hurt to return the favor.",
+          "modifier": "screen"
+        },
+        {
+          "character": "ARCHER",
+          "line": "Understood."
+        },
+        {
+          "character": "FORREST",
+          "line": "Keep me posted.",
+          "modifier": "screen"
+        }
+      ],
+      "location": "Ready room"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TOLARIS",
+          "line": "Our primal nature isn't as dangerous as you think.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "TOLARIS",
+          "line": "Do you like the taste? You must have learned a great deal about emotion."
+        },
+        {
+          "character": "TOLARIS",
+          "line": "Why do you stay here?"
+        }
+      ],
+      "location": "T'Pol's quarters"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "PHLOX",
+          "line": "This is more than a simple headache. Your blood pressure's elevated and I'm reading unusually high synaptic activity. It doesn't appear to be a virus or a bacterial infection. I'd like to run a cranial scan, just to be safe."
+        },
+        {
+          "character": "T'POL",
+          "line": "That won't be necessary."
+        },
+        {
+          "character": "PHLOX",
+          "line": "It'll only take a moment."
+        },
+        {
+          "character": "T'POL",
+          "line": "I believe I can explain my symptoms. Last night I neglected to meditate before I went to sleep. As a result, I awoke feeling agitated. All I need is an injection of inaprovaline. Twenty five milligrams should suffice."
+        },
+        {
+          "character": "PHLOX",
+          "line": "Very well, Doctor. It's not like you to stray from your routine. This wouldn't have anything to do with our visitors? You've been spending quite a bit of time on their ship."
+        },
+        {
+          "character": "T'POL",
+          "line": "I've become acquainted with one of them. He suggested that my dreams might be more interesting if I didn't meditate."
+        },
+        {
+          "character": "PHLOX",
+          "line": "And?"
+        },
+        {
+          "character": "T'POL",
+          "line": "He was wrong. They were unsettling. It was a foolish thing to do."
+        },
+        {
+          "character": "PHLOX",
+          "line": "Nothing that a little inaprovaline can't cure. I can understand why you'd be intrigued by their philosophy. Maybe you shouldn't be so quick to dismiss it after one bad experience."
+        },
+        {
+          "character": "T'POL",
+          "line": "There are too many risks. It would be unwise to continue."
+        },
+        {
+          "character": "PHLOX",
+          "line": "You're probably right, but if you do decide to experiment further, keep in mind that they've been working at this for a number of years. You've only known them for two days. Go slowly."
+        },
+        {
+          "character": "T'POL",
+          "line": "Thank you, Doctor."
+        }
+      ],
+      "location": "Sickbay"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "ARCHER",
+          "line": "Come in."
+        },
+        {
+          "character": "KOV",
+          "line": "Captain."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Please have a seat."
+        },
+        {
+          "character": "KOV",
+          "line": "The repairs to our propulsion system are going well. Mister Tucker's been very helpful."
+        },
+        {
+          "character": "ARCHER",
+          "line": "That's good to hear."
+        },
+        {
+          "character": "KOV",
+          "line": "Is there a problem?"
+        },
+        {
+          "character": "ARCHER",
+          "line": "I called you here to pass along a message from your father."
+        },
+        {
+          "character": "KOV",
+          "line": "You spoke with him?"
+        },
+        {
+          "character": "ARCHER",
+          "line": "Actually, it came through a Vulcan ambassador. I'm sorry to be the one to tell you this, but your father is very ill. He wants you to contact him as soon as possible. If you'd like, my comm. officer can arrange the transmission."
+        },
+        {
+          "character": "KOV",
+          "line": "It's a kind offer, but I'll deal with this myself. Thanks for the message. Kov stands to leave.)"
+        },
+        {
+          "character": "ARCHER",
+          "line": "I know it's none of my business, but do you plan on contacting him?"
+        },
+        {
+          "character": "KOV",
+          "line": "The last time I spoke with my father, he said I'd brought shame to fifteen generations of our family."
+        },
+        {
+          "character": "ARCHER",
+          "line": "He's dying, Kov."
+        },
+        {
+          "character": "KOV",
+          "line": "If it isn't too much trouble, would you please send a message back for me? Tell him that we said goodbye a long time ago."
+        }
+      ],
+      "location": "Ready room"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TOLARIS",
+          "line": "Good morning. Chamomile?"
+        },
+        {
+          "character": "T'POL",
+          "line": "Thank you."
+        },
+        {
+          "character": "TOLARIS",
+          "line": "How did it go?"
+        },
+        {
+          "character": "T'POL",
+          "line": "The lateral sensors were out of alignment. I haven't had a chance to scan the disodium layer."
+        },
+        {
+          "character": "TOLARIS",
+          "line": "I mean last night. Did you take my advice?"
+        },
+        {
+          "character": "T'POL",
+          "line": "Yes."
+        },
+        {
+          "character": "TOLARIS",
+          "line": "And your dreams?"
+        },
+        {
+          "character": "T'POL",
+          "line": "I'd rather not diskuss them."
+        },
+        {
+          "character": "TOLARIS",
+          "line": "It will get easier. Tonight will be less disturbing."
+        },
+        {
+          "character": "T'POL",
+          "line": "I plan to resume meditating tonight."
+        },
+        {
+          "character": "TOLARIS",
+          "line": "You can't give up after one trial."
+        },
+        {
+          "character": "T'POL",
+          "line": "It was a mistake to try in the first place."
+        },
+        {
+          "character": "TOLARIS",
+          "line": "Wasn't there anything enjoyable about the experience?"
+        },
+        {
+          "character": "T'POL",
+          "line": "I'm reading over twenty million cubic meters of disodium as well as traces of ethylchlorate."
+        },
+        {
+          "character": "TOLARIS",
+          "line": "We can run the scans later. Tell me about your dreams. Your emotions were closer to the surface. It must have been intense."
+        },
+        {
+          "character": "T'POL",
+          "line": "It involved a memory. I was walking down a street in San Francisco on Earth."
+        },
+        {
+          "character": "TOLARIS",
+          "line": "Why did you leave the compound?"
+        },
+        {
+          "character": "T'POL",
+          "line": "I was curious about human recreation. I wanted to see it for myself."
+        },
+        {
+          "character": "TOLARIS",
+          "line": "So you broke protocol?"
+        },
+        {
+          "character": "T'POL",
+          "line": "It was late. Everyone in the compound had gone to sleep. I didn't see any harm in leaving for a couple of hours."
+        },
+        {
+          "character": "TOLARIS",
+          "line": "Where did you go?"
+        },
+        {
+          "character": "T'POL",
+          "line": "I simply walked. Then I heard music."
+        },
+        {
+          "character": "TOLARIS",
+          "line": "Music?"
+        },
+        {
+          "character": "T'POL",
+          "line": "It was unusual, chaotic, but I was drawn to it."
+        },
+        {
+          "character": "TOLARIS",
+          "line": "Go on."
+        },
+        {
+          "character": "T'POL",
+          "line": "I went into a restaurant where musicians were playing. I sat at a table."
+        },
+        {
+          "character": "TOLARIS",
+          "line": "How did you feel?"
+        },
+        {
+          "character": "T'POL",
+          "line": "I can't remember."
+        },
+        {
+          "character": "TOLARIS",
+          "line": "Try."
+        },
+        {
+          "character": "T'POL",
+          "line": "I felt invigorated."
+        },
+        {
+          "character": "TOLARIS",
+          "line": "Emotion. You felt emotion."
+        },
+        {
+          "character": "T'POL",
+          "line": "Briefly. They finished playing and I returned to the compound."
+        },
+        {
+          "character": "TOLARIS",
+          "line": "You could feel that way again, T'Pol. It isn't difficult, and it's nothing to be afraid of. I can show you how."
+        }
+      ],
+      "location": "Vahklas"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TUCKER",
+          "line": "You want me to talk to him?"
+        },
+        {
+          "character": "ARCHER",
+          "line": "From what I hear you've become fast friends. Maybe you'll have better luck than I did."
+        },
+        {
+          "character": "TUCKER",
+          "line": "Well, I'll try, but something tells me it won't be as simple as fixing an engine. He's got a lot of resentment."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Do your best."
+        },
+        {
+          "character": "TUCKER",
+          "line": "Aye, sir."
+        },
+        {
+          "character": "ARCHER",
+          "line": "What about this Tolaris fellow?"
+        },
+        {
+          "character": "TUCKER",
+          "line": "Well, I haven't really gotten to know him. He seems kind of quiet, though. A little sullen."
+        },
+        {
+          "character": "ARCHER",
+          "line": "T'Pol's been spending a lot of time with him lately."
+        },
+        {
+          "character": "TUCKER",
+          "line": "Is that a problem?"
+        },
+        {
+          "character": "ARCHER",
+          "line": "Two days ago she couldn't wait to get these people off the ship. I practically had to order her to work with him. Now, they're almost inseparable."
+        },
+        {
+          "character": "TUCKER",
+          "line": "If I didn't know better I'd say you were a little jealous. If I was the only human on a ship full of Vulcans and we ran into an Earth vessel, I'd be spending as much time with them as I could. She likes being around her own kind. Who doesn't?"
+        },
+        {
+          "character": "ARCHER",
+          "line": "Well, let me know how it goes with Kov."
+        },
+        {
+          "character": "TUCKER",
+          "line": "Yes, sir."
+        }
+      ],
+      "location": "Engineering"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "T'POL",
+          "line": "Mind meld?"
+        },
+        {
+          "character": "TOLARIS",
+          "line": "It's an ancient technique. It was abandoned centuries ago, but we've diskovered that it can help us access our emotions."
+        },
+        {
+          "character": "T'POL",
+          "line": "How does it work?"
+        },
+        {
+          "character": "TOLARIS",
+          "line": "I'd begin by creating a telepathic link. We would be able to share our memories, our thoughts. In essence, we would become one mind. It's quite an experience, but it is profoundly intimate. Are you prepared for that? If you'd like, we could try a more traditional form of guided meditation but it wouldn't be nearly as effective."
+        },
+        {
+          "character": "T'POL",
+          "line": "Proceed."
+        },
+        {
+          "character": "TOLARIS",
+          "line": "It's all right. Close your eyes. Try to focus on my voice. My mind to your mind. Your thoughts to my thoughts. Our minds are merging, our minds are becoming one."
+        },
+        {
+          "character": "T'POL",
+          "line": "It's not working."
+        },
+        {
+          "character": "TOLARIS",
+          "line": "You're resisting. Relax. My mind to your mind. Your thoughts to my thoughts. Our minds are merging, our minds are becoming one."
+        },
+        {
+          "character": "TOLARIS",
+          "line": "Am I with you?"
+        },
+        {
+          "character": "T'POL",
+          "line": "Yes."
+        },
+        {
+          "character": "TOLARIS",
+          "line": "Can you sense my thoughts?"
+        },
+        {
+          "character": "T'POL",
+          "line": "Yes."
+        },
+        {
+          "character": "TOLARIS",
+          "line": "You're doing well. I want you to think about that night when you left the compound. Imagine yourself walking down that street."
+        },
+        {
+          "character": "TOLARIS",
+          "line": "Good. Now listen. Can you hear the music? Listen. Now follow it. I can see why you were drawn to this place. It's unlike anything on Vulcan. I'm not surprised"
+        }
+      ],
+      "location": "T'Pol's quarters"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TOLARIS",
+          "line": "it triggered an emotional response. You said you were invigorated, what else?"
+        },
+        {
+          "character": "T'POL",
+          "line": "I don't know."
+        },
+        {
+          "character": "TOLARIS",
+          "line": "Yes, you do. You're just not used to describing your emotions. You experienced other things. Excitement about breaking protocol, apprehension about getting caught, and the music, the music made you feel elated. Allow yourself to feel these emotions again. Don't hold them back."
+        },
+        {
+          "character": "T'POL",
+          "line": "I have to return to the compound."
+        },
+        {
+          "character": "TOLARIS",
+          "line": "You're anxious. It's just another emotion."
+        },
+        {
+          "character": "T'POL",
+          "line": "Let me go."
+        },
+        {
+          "character": "TOLARIS",
+          "line": "Stay with me, T'Pol."
+        },
+        {
+          "character": "T'POL",
+          "line": "No!"
+        }
+      ],
+      "location": "Jazz restaurant - memory"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "T'POL",
+          "line": "Stop."
+        },
+        {
+          "character": "TOLARIS",
+          "line": "No."
+        },
+        {
+          "character": "T'POL",
+          "line": "Stop! This was a mistake."
+        },
+        {
+          "character": "TOLARIS",
+          "line": "You've made progress. Don't give up now."
+        },
+        {
+          "character": "T'POL",
+          "line": "Please go."
+        },
+        {
+          "character": "TOLARIS",
+          "line": "T'Pol."
+        },
+        {
+          "character": "T'POL",
+          "line": "Leave!"
+        },
+        {
+          "character": "TOLARIS",
+          "line": "You're feeling anger. Your emotions are breaking the surface. Embrace them! What a shame."
+        },
+        {
+          "character": "T'POL",
+          "line": "T'Pol to Sickbay."
+        }
+      ],
+      "location": "T'Pol's quarters"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "KOV",
+          "line": "I've already been through this with your Captain."
+        },
+        {
+          "character": "TUCKER",
+          "line": "Are you sure you're making the right decision?"
+        },
+        {
+          "character": "KOV",
+          "line": "If you knew my father, you'd understand."
+        },
+        {
+          "character": "TUCKER",
+          "line": "I don't mean to put too fine a point on this, but you've got a limited window of opportunity. Once it closes"
+        },
+        {
+          "character": "KOV",
+          "line": "I consider you a friend, Trip, and I appreciate what you're trying to do, but please don't. I have no intention of contacting him. I test-fired our port thruster last night. It's still off by twelve percent."
+        },
+        {
+          "character": "TUCKER",
+          "line": "Well, probably a faulty injector. Should be easy enough to fix. Do Vulcans dance? You know"
+        },
+        {
+          "character": "KOV",
+          "line": "No. Only when it's part of some tedious ceremony."
+        },
+        {
+          "character": "TUCKER",
+          "line": "I remember the first dance I ever went to. Bayshore Elementary Panama City, Florida. A girl I had a crush on, Melissa Lyles, was going to be there. So I spent weeks practicing the two-step with my brother. I wanted to make sure I was ready. She was wearing a red dress that night. Prettiest girl there. All I wanted to do was ask her to dance with me, but I never worked up the courage to go over and talk to her. I caught her looking at me a couple times but, I ended up just standing in a corner with my buddies."
+        },
+        {
+          "character": "KOV",
+          "line": "Interesting, but what does that have to do with our thruster problem?"
+        },
+        {
+          "character": "TUCKER",
+          "line": "It's been more than twenty years and I'm still kicking myself for not asking that girl to dance. You probably don't know this, but regret is one of the strongest emotions and one of the saddest. I have a feeling you haven't had a brush with it yet, but it sounds to me like you're pretty close. That's something you might want to avoid."
+        }
+      ],
+      "location": "Engineering"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "ARCHER",
+          "line": "Come in."
+        },
+        {
+          "character": "TOLARIS",
+          "line": "Good morning."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Morning. Can I get you something? Coffee?"
+        },
+        {
+          "character": "TOLARIS",
+          "line": "No, thanks."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Have a seat. Trip tells me the repairs to your ship are almost finished. You should be on your way pretty soon."
+        },
+        {
+          "character": "TOLARIS",
+          "line": "Yes."
+        },
+        {
+          "character": "ARCHER",
+          "line": "How's that survey coming along?"
+        },
+        {
+          "character": "TOLARIS",
+          "line": "We'll be done this afternoon."
+        },
+        {
+          "character": "ARCHER",
+          "line": "That's great news. I wanted to thank you for all of your help."
+        },
+        {
+          "character": "TOLARIS",
+          "line": "It was the least we could do. Besides, we've enjoyed spending our time here. You have an exceptional crew, Captain."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Starfleet's finest. Sleep well last night?"
+        },
+        {
+          "character": "TOLARIS",
+          "line": "Well enough. You?"
+        },
+        {
+          "character": "ARCHER",
+          "line": "Tossed and turned. Always happens whenever we're exploring someplace new."
+        },
+        {
+          "character": "TOLARIS",
+          "line": "I understand. Well, if there's nothing more, Captain, I'm eager to get back to work. We have another twenty million cubic kilometers to chart."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Sorry to keep you. I'm afraid you'll be working alone today."
+        },
+        {
+          "character": "TOLARIS",
+          "line": "Oh?"
+        },
+        {
+          "character": "ARCHER",
+          "line": "Sub-Commander T'Pol's in Sickbay. From what the doctor tells me, she's in pretty bad shape."
+        },
+        {
+          "character": "TOLARIS",
+          "line": "That's unfortunate. What happened?"
+        },
+        {
+          "character": "ARCHER",
+          "line": "You know damn well what happened. She told me about your, what did she call it, mind-meld? She said when she asked you to stop, you got angry. She said she had to force you away."
+        },
+        {
+          "character": "TOLARIS",
+          "line": "What happened between us is personal. It's not your concern."
+        },
+        {
+          "character": "ARCHER",
+          "line": "You assaulted a member of my crew."
+        },
+        {
+          "character": "TOLARIS",
+          "line": "I did no such thing. Mind-melds can be emotionally turbulent. She simply panicked."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Panic doesn't land you in Sickbay. Our doctor said she could have suffered neurological damage, thanks to you."
+        },
+        {
+          "character": "TOLARIS",
+          "line": "No one forced her to try the meld. She did it willingly."
+        },
+        {
+          "character": "ARCHER",
+          "line": "You've been manipulating her ever since you came aboard."
+        },
+        {
+          "character": "TOLARIS",
+          "line": "I am helping her shed a lifetime of repression, and you of all people should understand what I'm trying to do. You're human. I need to go see her."
+        },
+        {
+          "character": "ARCHER",
+          "line": "T'Pol's had enough of your help. Stay away from her."
+        },
+        {
+          "character": "TOLARIS",
+          "line": "She is in a crucial stage of her awakening. She needs guidance."
+        },
+        {
+          "character": "ARCHER",
+          "line": "I told you, it's over."
+        },
+        {
+          "character": "TOLARIS",
+          "line": "I think that's for her to decide."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Maybe I'm not making myself clear. Sickbay's off-limits."
+        },
+        {
+          "character": "TOLARIS",
+          "line": "You're in my way, Captain. You'd be wise to let me leave."
+        },
+        {
+          "character": "ARCHER",
+          "line": "What's wrong, Tolaris? Getting angry? I thought you had that under control."
+        },
+        {
+          "character": "TOLARIS",
+          "line": "Move aside."
+        },
+        {
+          "character": "ARCHER",
+          "line": "T'Pol's right. You've got a temper."
+        },
+        {
+          "character": "TOLARIS",
+          "line": "Now!"
+        },
+        {
+          "character": "ARCHER",
+          "line": "Go to hell."
+        },
+        {
+          "character": "TOLARIS",
+          "line": "You planned this."
+        },
+        {
+          "character": "ARCHER",
+          "line": "If I'd known I was going to get thrown across the room that hard, I might have tried a different approach. I think it's time you and your friends went on your merry way."
+        }
+      ],
+      "location": "Ready room"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TUCKER",
+          "line": "Keep an eye on the intermix pressure. Don't let it drift above five thousand."
+        },
+        {
+          "character": "KOV",
+          "line": "Five thousand."
+        },
+        {
+          "character": "TUCKER",
+          "line": "And watch those injector ports."
+        },
+        {
+          "character": "KOV",
+          "line": "I will. I thought you'd like to know, I got an update on my father. Apparently, his condition's improved."
+        },
+        {
+          "character": "TUCKER",
+          "line": "Is that so?"
+        },
+        {
+          "character": "KOV",
+          "line": "The surgeons implanted a vaso-stimulator. They say, with any luck it'll extend his life a few years."
+        },
+        {
+          "character": "TUCKER",
+          "line": "I'm glad to hear it. That'll give you a little more time to think about making that call."
+        },
+        {
+          "character": "KOV",
+          "line": "I already did. My father's the one who gave me the good news. Thank you, Trip."
+        },
+        {
+          "character": "TUCKER",
+          "line": "Anytime."
+        }
+      ],
+      "location": "Corridor"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "T'POL",
+          "line": "Come in."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Is this a bad time?"
+        },
+        {
+          "character": "T'POL",
+          "line": "Not at all."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Feeling any better?"
+        },
+        {
+          "character": "T'POL",
+          "line": "Has the Vulcan ship left?"
+        },
+        {
+          "character": "ARCHER",
+          "line": "About twenty minutes ago."
+        },
+        {
+          "character": "T'POL",
+          "line": "Then yes, I'm feeling better."
+        },
+        {
+          "character": "ARCHER",
+          "line": "You do this every night?"
+        },
+        {
+          "character": "T'POL",
+          "line": "Every night."
+        },
+        {
+          "character": "ARCHER",
+          "line": "I think I finally understand why. I'll see you in the morning. T'POL; Captain. Do you dream?"
+        },
+        {
+          "character": "ARCHER",
+          "line": "Sure. Sometimes they're even in color."
+        },
+        {
+          "character": "T'POL",
+          "line": "Is it enjoyable?"
+        },
+        {
+          "character": "ARCHER",
+          "line": "Most nights."
+        },
+        {
+          "character": "T'POL",
+          "line": "I envy you. Goodnight."
+        }
+      ],
+      "location": "T'Pol's quarters"
+    }
+  ],
+  "schedule": {
+    "episode": 17,
+    "number": 17,
+    "season": 1
+  },
+  "stardate": "Unknown",
+  "title": "Fusion"
+}

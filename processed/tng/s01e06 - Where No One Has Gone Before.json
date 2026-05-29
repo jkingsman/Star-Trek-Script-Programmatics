@@ -1,0 +1,1615 @@
+{
+  "airdate": 562222800,
+  "scenes": [
+    {
+      "dialogue": [
+        {
+          "character": "PICARD",
+          "line": "Captain's log, Stardate 41263.1. We have rendezvoused with the USS Fearless, from which a Starfleet propulsion expert and his assistant are beaming over to conduct tests on the Enterprise's warp drive engines. They have completed similar adjustments on two other Starfleet vessels.",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "unknown"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "PICARD",
+          "line": "I don't understand your concern, Number One. They're not authorized to make any alterations in our engines, and according to Starfleet's report, they will simply test different ways of entering warp speed and different intermix formulas. What's the harm in that?"
+        },
+        {
+          "character": "RIKER",
+          "line": "It's the specs that Kosinski sent us. In my opinion, sir, they're gibberish."
+        },
+        {
+          "character": "PICARD",
+          "line": "Gibberish?"
+        },
+        {
+          "character": "RIKER",
+          "line": "Mister Data, would you explain?"
+        },
+        {
+          "character": "DATA",
+          "line": "Sir, we put Mister Kosinski's specs into the computer and ran a controlled test on them. There was no improvement in engine performance."
+        },
+        {
+          "character": "PICARD",
+          "line": "Then how do you explain Starfleet's report that the same tests on the USS Ajax and on the Fearless over there, resulted in a measurable increase in propulsion."
+        },
+        {
+          "character": "RIKER",
+          "line": "Our engines are new, sir. Top condition. The tests on those older ships may have simply been to straighten out some engine inefficiency."
+        },
+        {
+          "character": "CHIEF",
+          "line": "Bridge from Transporter Chief. Two from USS Fearless are ready to beam over.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "PICARD",
+          "line": "Stand by for Commander Riker, Chief. He's on his way."
+        },
+        {
+          "character": "CHIEF",
+          "line": "Aye, sir,",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "PICARD",
+          "line": "Since you're concerned about these tests."
+        },
+        {
+          "character": "RIKER",
+          "line": "Yes, sir. Captain, if I may, I'll ask Counselor Troi to look these visitors over."
+        },
+        {
+          "character": "PICARD",
+          "line": "Very good."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "RIKER",
+          "line": "Welcome aboard, Mister Kosinski. I'm the First Officer, Commander William Riker, and this is"
+        },
+        {
+          "character": "KOSINSKI",
+          "line": "Where is the Captain, please?"
+        },
+        {
+          "character": "RIKER",
+          "line": "He is engaged in other duties, sir."
+        },
+        {
+          "character": "KOSINSKI",
+          "line": "A ship's engines should be a concern of the ship's Captain."
+        },
+        {
+          "character": "RIKER",
+          "line": "They are, sir. Which is why they have made the First Officer directly responsible for an engine's condition and performance. Guided, of course, by one of our Chief Engineers, Lieutenant Commander Argyle in this case."
+        },
+        {
+          "character": "ARGYLE",
+          "line": "A pleasure, sir. I appreciated receiving the specs."
+        },
+        {
+          "character": "KOSINSKI",
+          "line": "To which you have no end of questions?"
+        },
+        {
+          "character": "ARGYLE",
+          "line": "Aye, I have."
+        },
+        {
+          "character": "RIKER",
+          "line": "And you, sir, are listed as"
+        },
+        {
+          "character": "TRAVELLER",
+          "line": "As Mister Kosinski's assistant. My actual name is unpronounceable by humans."
+        },
+        {
+          "character": "RIKER",
+          "line": "You're from Tau Alpha C. That's very distant."
+        },
+        {
+          "character": "KOSINSKI",
+          "line": "All approved and described in the Starfleet communications. Now, I would like to set up in the Engine Room immediately."
+        },
+        {
+          "character": "RIKER",
+          "line": "I'll have our Chief Engineer show you to his Engine Room."
+        },
+        {
+          "character": "KOSINSKI",
+          "line": "No need. I know my way around starships."
+        },
+        {
+          "character": "RIKER",
+          "line": "One thing that Kosinski isn't hiding, his bad disposition."
+        },
+        {
+          "character": "TROI",
+          "line": "Agreed. Also, he's arrogant, overbearing, self-important, and very sure of himself and his ability."
+        },
+        {
+          "character": "RIKER",
+          "line": "And the other one, his assistant?"
+        },
+        {
+          "character": "TROI",
+          "line": "He's the puzzle. With most life forms I can usually feel something. I may not be able to understand or interpret it, but I feel something, if only a presence. With him, nothing. Empty space. It's as though he isn't even here. Something about this concerns me. I don't know what, I can't point out a reason yet."
+        },
+        {
+          "character": "RIKER",
+          "line": "Stay concerned, please. The safety of the Enterprise may be entrusted to these two."
+        }
+      ],
+      "location": "Transporter room"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "KOSINSKI",
+          "line": "Inform the Bridge I shall begin the first test in precisely fifteen minutes. Why is that child here?"
+        },
+        {
+          "character": "ARGYLE",
+          "line": "He's working on a school project. Before you begin, there are some questions. First, tell us how you arrived"
+        },
+        {
+          "character": "KOSINSKI",
+          "line": "In order to save myself time, let me ask those questions for you. You received the information which Starfleet provided, you fed it into your computer as precisely as humanly possible, then you did a controlled test. And then, to your astonishment, nothing happened. So you said, what's going on? This doesn't work. Kosinski's a fraud. You see, I have had this conversation on other Starfleet vessels before. They didn't understand it. why should you?"
+        },
+        {
+          "character": "ARGYLE",
+          "line": "Surely you're not saying it's unexplainable?"
+        },
+        {
+          "character": "KOSINSKI",
+          "line": "I'm saying I'm not a teacher, nor do I wish to become one. I have neither the inclination nor the time."
+        },
+        {
+          "character": "RIKER",
+          "line": "You have all the time you need."
+        },
+        {
+          "character": "KOSINSKI",
+          "line": "I don't think you understand. This has already been approved by Starfleet Command."
+        },
+        {
+          "character": "RIKER",
+          "line": "But it hasn't been approved by the Chief Engineer or by me."
+        },
+        {
+          "character": "KOSINSKI",
+          "line": "I didn't know that was necessary."
+        },
+        {
+          "character": "RIKER",
+          "line": "Now you do."
+        },
+        {
+          "character": "KOSINSKI",
+          "line": "Perhaps I should speak to Captain Picard."
+        },
+        {
+          "character": "RIKER",
+          "line": "If you like. It won't change anything."
+        },
+        {
+          "character": "KOSINSKI",
+          "line": "How basic shall I be?"
+        },
+        {
+          "character": "RIKER",
+          "line": "I'll leave that to you."
+        },
+        {
+          "character": "KOSINSKI",
+          "line": "Would you get onto the auxiliary panel, please?"
+        },
+        {
+          "character": "KOSINSKI",
+          "line": "In order to save time, my assistant is going to lay in my base formulas more rapidly than any human being possibly could, including even myself. So, here then, in the simplest possible terms, what I do. Now, this warp drive system was tuned only in the grossest possible sense, at least according to my standards. What I do is specific. Thank you. Well, sufficient to say for now, these symbols"
+        },
+        {
+          "character": "TRAVELLER",
+          "line": "Something troubles you with the way this is configured? How about it now?"
+        },
+        {
+          "character": "WESLEY",
+          "line": "Yes. But shouldn't these be connected? Here and here."
+        },
+        {
+          "character": "TRAVELLER",
+          "line": "Now will it do what Kosinski says it will?"
+        },
+        {
+          "character": "WESLEY",
+          "line": "It has a chance. It might work better this way. Yes."
+        },
+        {
+          "character": "KOSINSKI",
+          "line": "View with me if you will this screen as we consider the following. Now, is this merely mechanics or is it nature that we deal with in all of this? And what else than nature are the elementals of space and time? You are trained in the system. You go in a straight line, competent, yes, and perhaps even innovative in a minimalist way, but what I do here is not the end of the process, it is the beginning. So, what do I do? Go back to the Fearless, which I left with a more efficient warp drive than I found? Or do you cast off your ignorance and allow me to continue?"
+        },
+        {
+          "character": "RIKER",
+          "line": "Could anything he's proposing damage our system?"
+        },
+        {
+          "character": "ARGYLE",
+          "line": "How could it? It's meaningless."
+        },
+        {
+          "character": "RIKER",
+          "line": "Then we should let him try it?"
+        },
+        {
+          "character": "KOSINSKI",
+          "line": "What do you mean, let he him try it? Don't talk about me in the third person like I'm not standing right here!"
+        },
+        {
+          "character": "ARGYLE",
+          "line": "Yes, we might as well let him try it."
+        },
+        {
+          "character": "KOSINSKI",
+          "line": "Oh yes, we might as well let him try it. You are too generous. Boy! Boy, don't play with that."
+        }
+      ],
+      "location": "Engineering"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "WORF",
+          "line": "Captain, main Engineering is ready to proceed."
+        },
+        {
+          "character": "PICARD",
+          "line": "Engineering, this is the Bridge. It's your call."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "KOSINSKI",
+          "line": "Do this one just like the last time. Nothing changes. Commander, I'll make my preliminary adjustments at warp one point five, and complete them as we achieve warp four."
+        },
+        {
+          "character": "RIKER",
+          "line": "Engineering to bridge, did you copy that?"
+        }
+      ],
+      "location": "Engineering"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "PICARD",
+          "line": "Affirmative, Number One. Are you ready?"
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "RIKER",
+          "line": "We are."
+        },
+        {
+          "character": "PICARD",
+          "line": "La Forge, set in warp one point five.",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "Engineering"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "LAFORGE",
+          "line": "Warp one point five, sir."
+        },
+        {
+          "character": "PICARD",
+          "line": "Engage."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "KOSINSKI",
+          "line": "All right, here we go."
+        },
+        {
+          "character": "KOSINSKI",
+          "line": "What are you doing?"
+        }
+      ],
+      "location": "Engineering"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "LAFORGE",
+          "line": "Captain, we're passing warp ten!"
+        },
+        {
+          "character": "PICARD",
+          "line": "What is our velocity?"
+        },
+        {
+          "character": "DATA",
+          "line": "It's off the scale, sir."
+        },
+        {
+          "character": "PICARD",
+          "line": "Reverse engines."
+        },
+        {
+          "character": "DATA",
+          "line": "Captain, no one has ever reversed engines at this velocity."
+        },
+        {
+          "character": "PICARD",
+          "line": "Because no one has gone this fast. Reverse engines."
+        },
+        {
+          "character": "PICARD",
+          "line": "All stop."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Reading all stop, sir."
+        },
+        {
+          "character": "PICARD",
+          "line": "Position?"
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Calculating it, sir. Data, what do you read there?"
+        },
+        {
+          "character": "DATA",
+          "line": "Malfunction, I trust."
+        },
+        {
+          "character": "PICARD",
+          "line": "Position, Mister La Forge."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Well, sir, according to these calculations, we've not only left our own galaxy, but passed through two others, ending up on the far side of Triangulum. The galaxy known as M Thirty Three."
+        },
+        {
+          "character": "PICARD",
+          "line": "That's not possible. Data, what distance have we traveled?"
+        },
+        {
+          "character": "DATA",
+          "line": "Two million seven hundred thousand light years."
+        },
+        {
+          "character": "PICARD",
+          "line": "I can't accept that."
+        },
+        {
+          "character": "DATA",
+          "line": "You must, sir. Our comparisons show it to be completely accurate."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "And I calculate that at maximum warp, sir it would take over three hundred years to get home."
+        },
+        {
+          "character": "PICARD",
+          "line": "Captain's log, stardate 41263.2. This will be a rather unusual log entry, assuming Starfleet ever receives it. As I have already informed my crew, a phenomenal surge of power during a warp speed experiment has sent our starship hurtling out of our own galaxy, past another, taking us over two million seven hundred thousand light years in a few minutes.",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "LAFORGE",
+          "line": "Message on this has been transmitted to Starfleet, sir."
+        },
+        {
+          "character": "DATA",
+          "line": "Which, traveling subspace, they should receive in fifty-one years, ten months nine weeks, sixteen days"
+        },
+        {
+          "character": "PICARD",
+          "line": "Mister Data!"
+        },
+        {
+          "character": "DATA",
+          "line": "Sir?"
+        },
+        {
+          "character": "KOSINSKI",
+          "line": "Captain Picard, I presume?"
+        },
+        {
+          "character": "RIKER",
+          "line": "We're still trying to determine what happened, sir."
+        },
+        {
+          "character": "KOSINSKI",
+          "line": "The truth is, Captain, I made a mistake. A wonderful, incredible mistake."
+        },
+        {
+          "character": "PICARD",
+          "line": "Just explain what brought us here."
+        },
+        {
+          "character": "KOSINSKI",
+          "line": "As the power grew, I applied the energy asymptomatically. I anticipated some tilling, but it didn't occur. Now that was my error, using the Bessel functions at the beginning."
+        },
+        {
+          "character": "PICARD",
+          "line": "What is he saying, Number One?"
+        },
+        {
+          "character": "RIKER",
+          "line": "To tell the truth, sir, it sounds to me like nonsense to me. But considering"
+        },
+        {
+          "character": "PICARD",
+          "line": "Considering where we are, we must assume it isn't."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "WESLEY",
+          "line": "Can I do something to help? I can call my mother. She's a doctor."
+        },
+        {
+          "character": "TRAVELLER",
+          "line": "No, there's nothing she can do. I need to rest. I've been away too long."
+        },
+        {
+          "character": "WESLEY",
+          "line": "What happened to you, is it part of what happened to the ship?"
+        },
+        {
+          "character": "TRAVELLER",
+          "line": "Please believe me, I mean no harm to this vessel or those in it."
+        },
+        {
+          "character": "WESLEY",
+          "line": "Is Mister Kosinski like he sounds? A joke?"
+        },
+        {
+          "character": "TRAVELLER",
+          "line": "No, that's too cruel. He has sensed some small part of it"
+        },
+        {
+          "character": "WESLEY",
+          "line": "That space and time and thought aren't the separate things they appear to be? I just thought the formula you were using said something like that."
+        },
+        {
+          "character": "TRAVELLER",
+          "line": "Boy, don't ever say that again. And especially not at your age in a world that's not ready for such, such dangerous nonsense."
+        }
+      ],
+      "location": "Engineering"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "KOSINSKI",
+          "line": "I've always suspected this rate of speed was possible, of course, but at this level? No, never. We're going to need new definitions. New parameters."
+        },
+        {
+          "character": "ARGYLE",
+          "line": "Perhaps you could call it the Kosinski scale."
+        },
+        {
+          "character": "KOSINSKI",
+          "line": "Why not? Yes, of course. Since I'm the one who has made the so-called warp barrier meaningless. And, Captain, this must be a special thrill for you."
+        },
+        {
+          "character": "PICARD",
+          "line": "Thrill?"
+        },
+        {
+          "character": "KOSINSKI",
+          "line": "As an explorer. In three centuries of space flight, we've charted just eleven percent of our galaxy. And then we accomplish this."
+        },
+        {
+          "character": "PICARD",
+          "line": "Yes, but isn't the real point, can you do it again? Can you get us home?"
+        },
+        {
+          "character": "KOSINSKI",
+          "line": "Of course I can. I'll just do what I did before. Coming, Riker?"
+        },
+        {
+          "character": "PICARD",
+          "line": "Commander Riker will join you in a moment."
+        },
+        {
+          "character": "PICARD",
+          "line": "Comment is invited. Counselor?"
+        },
+        {
+          "character": "TROI",
+          "line": "He's convinced he's right. I have no doubt of that."
+        },
+        {
+          "character": "WORF",
+          "line": "Captain, can you allow a man who has made one mistake back into a position where he may make another?"
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Captain, what are our options really? I mean, if this guy can't get us back, who will?"
+        },
+        {
+          "character": "DATA",
+          "line": "Captain, we're here. Why not avail ourselves of this opportunity for study? There is a giant protostar here in the process of forming. No other vessel has been out this far."
+        },
+        {
+          "character": "PICARD",
+          "line": "Spoken like a true Starfleet graduate. It is tempting, eh, Number One?"
+        },
+        {
+          "character": "RIKER",
+          "line": "Aye, sir, it is. But as they say, sir, you're the Captain."
+        },
+        {
+          "character": "PICARD",
+          "line": "I know that if Kosinski can get us home, Starfleet can use his technique to bring back a pure science vessel to do even more. Number One, tell Kosinski prepare to get us out of here."
+        },
+        {
+          "character": "RIKER",
+          "line": "Aye, sir."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "KOSINSKI",
+          "line": "Do you realize how many great advancements of mankind have been tied to speed? This is a moment in history. Right here, right now. And your names will be forever linked with mine."
+        },
+        {
+          "character": "WESLEY",
+          "line": "Excuse me, Commander Riker. I don't think he did this. I think"
+        },
+        {
+          "character": "RIKER",
+          "line": "Not now, Wes."
+        },
+        {
+          "character": "PICARD",
+          "line": "Standing by, Number One.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "WESLEY",
+          "line": "But sir, when this all happened, I was watching his assistant"
+        },
+        {
+          "character": "RIKER",
+          "line": "I'm sure it was fascinating, Wesley. I am looking forward to hearing about it. But not right now."
+        },
+        {
+          "character": "RIKER",
+          "line": "Aye, sir."
+        },
+        {
+          "character": "KOSINSKI",
+          "line": "Come on."
+        },
+        {
+          "character": "WESLEY",
+          "line": "He's too tired. Why don't you do it by yourself?"
+        },
+        {
+          "character": "KOSINSKI",
+          "line": "Yes, why not?"
+        },
+        {
+          "character": "TRAVELLER",
+          "line": "No, I will help."
+        },
+        {
+          "character": "KOSINSKI",
+          "line": "As you wish."
+        }
+      ],
+      "location": "Engineering"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "LAFORGE",
+          "line": "I've laid in the reciprocal course back, Captain."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "KOSINSKI",
+          "line": "Tell the captain I am ready, First Officer."
+        },
+        {
+          "character": "RIKER",
+          "line": "We're ready for you to engage, Captain."
+        },
+        {
+          "character": "PICARD",
+          "line": "As before",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "Engineering"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "PICARD",
+          "line": "Begin at warp one point five."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Warp one point five, sir."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "KOSINSKI",
+          "line": "This isn't working."
+        }
+      ],
+      "location": "Engineering"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "PICARD",
+          "line": "All stop."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Answering all stop, Captain."
+        },
+        {
+          "character": "DATA",
+          "line": "According to the instruments, sir, our speed never exceeded warp one point five."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "All stopped, sir."
+        },
+        {
+          "character": "PICARD",
+          "line": "Yes, but where is this place?"
+        },
+        {
+          "character": "DATA",
+          "line": "Where none have gone before."
+        },
+        {
+          "character": "PICARD",
+          "line": "Captain's log, stardate 41263.3. Instead of returning to our own galaxy, the Enterprise has gone forward to a place in the universe which is uncharted and unknown. Our present position puts us at over a billion light years from our galaxy.",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "PICARD",
+          "line": "Data, you have the helm. I'll be in Engineering."
+        },
+        {
+          "character": "TASHA",
+          "line": "What is it?"
+        },
+        {
+          "character": "WORF",
+          "line": "A Klingon Targ! My pet. From home, but when I was a child."
+        },
+        {
+          "character": "TASHA",
+          "line": "You're telling me that's a kitty-cat?"
+        },
+        {
+          "character": "WORF",
+          "line": "Yes, I suppose you could call it that."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TASHA",
+          "line": "You darling, what are you doing here?"
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TASHA",
+          "line": "Now, run. This isn't a safe place at all."
+        }
+      ],
+      "location": "Tunnel"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "LAFORGE",
+          "line": "Tasha, what's wrong? You look scared to death."
+        },
+        {
+          "character": "TASHA",
+          "line": "I was, I was. This is crazy. I was at the colony where I grew up, being chased by a rape gang"
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Are you all right? Well, you're safe now."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "CREWMAN",
+          "line": "Captain! Captain, we need help."
+        },
+        {
+          "character": "PICARD",
+          "line": "What's wrong?"
+        },
+        {
+          "character": "CREWMAN",
+          "line": "Don't you see what's following us?"
+        },
+        {
+          "character": "PICARD",
+          "line": "Ensign, what are you doing?"
+        },
+        {
+          "character": "MAMAN",
+          "line": "You look tense, Jean-Luc. Come and have a cup of tea."
+        },
+        {
+          "character": "PICARD",
+          "line": "Maman?"
+        },
+        {
+          "character": "MAMAN",
+          "line": "I'll make it good and strong, the way you like it. We will have a nice long talk."
+        },
+        {
+          "character": "PICARD",
+          "line": "This can't be. You've been"
+        },
+        {
+          "character": "MAMAN",
+          "line": "Dead? But I'm always with you, you know that."
+        },
+        {
+          "character": "PICARD",
+          "line": "Yes, I've felt that. But why now, suddenly."
+        },
+        {
+          "character": "MAMAN",
+          "line": "You mean out here? At what you say us the end of the universe? Or do you see this as the beginning of it?"
+        },
+        {
+          "character": "PICARD",
+          "line": "We believe it the outer rim. Maman, do you understand these things? Can you tell me where my ship is? What is this place?"
+        },
+        {
+          "character": "RIKER",
+          "line": "Captain? You were reported headed for"
+        },
+        {
+          "character": "PICARD",
+          "line": "Just a moment, Number One!"
+        },
+        {
+          "character": "RIKER",
+          "line": "Can I help you, sir?"
+        },
+        {
+          "character": "PICARD",
+          "line": "No. No, let's help all of us. General quarters. Red Alert."
+        }
+      ],
+      "location": "Corridor"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "ARGYLE",
+          "line": "What is it Captain? Why are we at General quarters?"
+        },
+        {
+          "character": "PICARD",
+          "line": "I had to get everyone's attention. It was the quickest way. This is the Captain. This is not a drill. It seems that in this place, the world of the physical universe and the world of ideas is somehow intermixed. What we think"
+        }
+      ],
+      "location": "Engineering"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "PICARD",
+          "line": "Also becomes a reality. We must, therefore, I repeat, must begin controlling our thoughts.",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "PICARD",
+          "line": "We will give you more on this as our understanding increases. The Enterprise will stay at full alert until the crisis is over.",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "Corridor"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "PICARD",
+          "line": "What did you do?"
+        },
+        {
+          "character": "RIKER",
+          "line": "It wasn't him. It never was. It was his assistant."
+        },
+        {
+          "character": "PICARD",
+          "line": "What are you talking about?"
+        },
+        {
+          "character": "RIKER",
+          "line": "Kosinski wasn't the one controlling the warp experiments."
+        },
+        {
+          "character": "KOSINSKI",
+          "line": "It was me!"
+        },
+        {
+          "character": "RIKER",
+          "line": "The equations he punched in were nonsense, just as we thought."
+        },
+        {
+          "character": "KOSINSKI",
+          "line": "I honestly thought it was me. I thought somehow, somehow I was operating on his level."
+        },
+        {
+          "character": "ARGYLE",
+          "line": "It's also my fault, Captain. I should have realized it wasn't Kosinski."
+        },
+        {
+          "character": "PICARD",
+          "line": "How could you? How could any of us?"
+        },
+        {
+          "character": "RIKER",
+          "line": "Wesley did."
+        },
+        {
+          "character": "PICARD",
+          "line": "If you knew something, why didn't you say so?"
+        },
+        {
+          "character": "RIKER",
+          "line": "He tried, twice. I didn't listen."
+        },
+        {
+          "character": "PICARD",
+          "line": "He's unconscious. Why?"
+        },
+        {
+          "character": "CRUSHER",
+          "line": "I'm not certain yet."
+        },
+        {
+          "character": "WESLEY",
+          "line": "He phased, sir."
+        },
+        {
+          "character": "PICARD",
+          "line": "What does that mean?"
+        },
+        {
+          "character": "WESLEY",
+          "line": "Parts of him disappeared and then came back. Nobody else was paying attention to him the first time."
+        },
+        {
+          "character": "RIKER",
+          "line": "When we saw it this time, he seemed to be struggling, fighting it."
+        },
+        {
+          "character": "CRUSHER",
+          "line": "He's dying."
+        },
+        {
+          "character": "PICARD",
+          "line": "He mustn't. He's the only one who can get us back."
+        },
+        {
+          "character": "CRUSHER",
+          "line": "Realistically, it does not seem possible."
+        },
+        {
+          "character": "PICARD",
+          "line": "Captain's log, supplemental. Our position is unknown, and our only chance of returning to the known universe is a dying alien who is generally humanoid but with a physiology sufficiently different from our own to create medical problems in caring for him.",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "Engineering"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "PICARD",
+          "line": "Cause?"
+        },
+        {
+          "character": "CRUSHER",
+          "line": "I don't know. My equipment doesn't register his kind of life signs. I would have to guess exhaustion, fatigue."
+        },
+        {
+          "character": "WESLEY",
+          "line": "Is he going to be all right?"
+        },
+        {
+          "character": "PICARD",
+          "line": "What is the boy doing here?"
+        },
+        {
+          "character": "WESLEY",
+          "line": "Mom, he's my friend."
+        },
+        {
+          "character": "RIKER",
+          "line": "You may want him here before we're done, sir. He seems to have developed some sort of special attachment to the boy."
+        },
+        {
+          "character": "WESLEY",
+          "line": "My name is Wesley, Commander Riker."
+        },
+        {
+          "character": "PICARD",
+          "line": "He knows. We all know. Will he live?"
+        },
+        {
+          "character": "CRUSHER",
+          "line": "I'm not sure."
+        },
+        {
+          "character": "PICARD",
+          "line": "Wake him."
+        },
+        {
+          "character": "CRUSHER",
+          "line": "I recommend we let him come around in his own time."
+        },
+        {
+          "character": "PICARD",
+          "line": "We don't have that luxury. Wake him."
+        },
+        {
+          "character": "CRUSHER",
+          "line": "He could die, and with him any chance we have."
+        },
+        {
+          "character": "PICARD",
+          "line": "Doctor. Wes. We all have other friends aboard this ship, too. If we stay here much longer we may lose the ability to distinguish between thought and reality. Now, regardless of the risk, wake him. Now."
+        },
+        {
+          "character": "PICARD",
+          "line": "Do you recognize me? I'm the Captain and I need answers."
+        },
+        {
+          "character": "TRAVELLER",
+          "line": "I'll do my best to provide"
+        },
+        {
+          "character": "PICARD",
+          "line": "Who are you? Or what?"
+        },
+        {
+          "character": "TRAVELLER",
+          "line": "I am a Traveler."
+        },
+        {
+          "character": "PICARD",
+          "line": "Traveler? What is your destination?"
+        },
+        {
+          "character": "TRAVELLER",
+          "line": "Destination?"
+        },
+        {
+          "character": "PICARD",
+          "line": "Yes, what place are you trying to reach?"
+        },
+        {
+          "character": "TRAVELLER",
+          "line": "Ah, place. No. There is no specific place I wish to go."
+        },
+        {
+          "character": "PICARD",
+          "line": "Then what is the purpose of your journey?"
+        },
+        {
+          "character": "TRAVELLER",
+          "line": "Curiosity."
+        },
+        {
+          "character": "PICARD",
+          "line": "That's not an answer."
+        },
+        {
+          "character": "TRAVELLER",
+          "line": "I have certain abilities. They give me an understanding of propulsion. I've been trading this for passage on Starfleet vessels."
+        },
+        {
+          "character": "RIKER",
+          "line": "And allowing Kosinski to take credit for what you did."
+        },
+        {
+          "character": "TRAVELLER",
+          "line": "It seemed the sensible way."
+        },
+        {
+          "character": "PICARD",
+          "line": "Until now."
+        },
+        {
+          "character": "TRAVELLER",
+          "line": "Captain, I seek only transportation in order to see and experience your reality. I am no a threat to you, your ship or your crew."
+        },
+        {
+          "character": "WESLEY",
+          "line": "He isn't, Captain. I know he isn't."
+        },
+        {
+          "character": "PICARD",
+          "line": "Our reality? And in order to satisfy this curiosity, you have brought my ship and my crew into great risk."
+        },
+        {
+          "character": "TRAVELLER",
+          "line": "I have made some mistakes."
+        },
+        {
+          "character": "PICARD",
+          "line": "Some mistakes? What mistakes could possibly explain these incredible explosions of velocity?"
+        },
+        {
+          "character": "TRAVELLER",
+          "line": "I don't know if I can put this in terms you'll understand."
+        },
+        {
+          "character": "PICARD",
+          "line": "I believe there may be a warp speed that can get us beyond Galaxy M Thirty Three, but there is no velocity of any magnitude that can possibly bring us wherever this is. Is it true what our navigation sensors are telling us? Are we millions of light years away from where we were?"
+        },
+        {
+          "character": "TRAVELLER",
+          "line": "Well, yes."
+        },
+        {
+          "character": "PICARD",
+          "line": "Well, what got us here?"
+        },
+        {
+          "character": "TRAVELLER",
+          "line": "Thought."
+        },
+        {
+          "character": "PICARD",
+          "line": "Thought?"
+        },
+        {
+          "character": "TRAVELLER",
+          "line": "You do understand, don't you that thought is the basis of all reality? The energy of thought, to put it in your terms, is very powerful."
+        },
+        {
+          "character": "KOSINSKI",
+          "line": "That's not an explanation."
+        },
+        {
+          "character": "TRAVELLER",
+          "line": "I have the ability to act like a lens which focuses thought."
+        },
+        {
+          "character": "KOSINSKI",
+          "line": "That's just so much nonsense. You're asking us to believe in magic."
+        },
+        {
+          "character": "TRAVELLER",
+          "line": "Well yes, this could seem like magic to you."
+        },
+        {
+          "character": "PICARD",
+          "line": "No. No, it actually makes sense to me. Only the power of thought could explain what has been happening. Especially out here."
+        },
+        {
+          "character": "TRAVELLER",
+          "line": "Thought is the essence of where you are now. You do understand the danger, don't you?"
+        },
+        {
+          "character": "PICARD",
+          "line": "Chaos. What we think is what happens."
+        },
+        {
+          "character": "TRAVELLER",
+          "line": "It pains me I was so careless, Captain. My intent was only to observe, not to cause this. You should not be here until your far, far distant future. Certainly not until you have learned control."
+        },
+        {
+          "character": "RIKER",
+          "line": "You are from a different time, aren't you?"
+        },
+        {
+          "character": "TRAVELLER",
+          "line": "Well, no, not exactly from another time. Although as you understand the concept, yes, perhaps that term fits as well as any."
+        },
+        {
+          "character": "RIKER",
+          "line": "And you have this ability to travel."
+        },
+        {
+          "character": "TRAVELLER",
+          "line": "Yes."
+        },
+        {
+          "character": "RIKER",
+          "line": "And others of your kind have the same ability?"
+        },
+        {
+          "character": "TRAVELLER",
+          "line": "Yes."
+        },
+        {
+          "character": "RIKER",
+          "line": "Then why, in all of our history, is there no record of you or someone like you ever having visited us?"
+        },
+        {
+          "character": "TRAVELLER",
+          "line": "What wonderful arrogance. There is no record because we have not visited you before."
+        },
+        {
+          "character": "RIKER",
+          "line": "Why not?"
+        },
+        {
+          "character": "TRAVELLER",
+          "line": "Well, up until now, if you'll forgive this, you've been uninteresting. It's only now that your life form merits serious attention. I'm sorry."
+        },
+        {
+          "character": "PICARD",
+          "line": "What's happening?"
+        },
+        {
+          "character": "CRUSHER",
+          "line": "He's unconscious again."
+        },
+        {
+          "character": "PICARD",
+          "line": "Revive him."
+        },
+        {
+          "character": "CRUSHER",
+          "line": "Whatever you need from him, you'd better get it soon."
+        },
+        {
+          "character": "RIKER",
+          "line": "If I may suggest, sir, that first leap out of our galaxy was, as he said, a mistake."
+        },
+        {
+          "character": "PICARD",
+          "line": "Unless he was distracted by something."
+        },
+        {
+          "character": "RIKER",
+          "line": "And it weakened him, in some way leading to the incredible leap out here."
+        },
+        {
+          "character": "KOSINSKI",
+          "line": "Theory!"
+        },
+        {
+          "character": "PICARD",
+          "line": "Do you have any facts that fit this? Can you get us back?"
+        },
+        {
+          "character": "KOSINSKI",
+          "line": "Wait, Captain, not so fast. We have an opportunity here for scientific discovery."
+        },
+        {
+          "character": "PICARD",
+          "line": "And we report our observations how? To whom? Can you get us back?"
+        },
+        {
+          "character": "TRAVELLER",
+          "line": "I will try."
+        },
+        {
+          "character": "PICARD",
+          "line": "Number One, take him down to main Engineering. I'll be on the Bridge."
+        },
+        {
+          "character": "WESLEY",
+          "line": "No! He's very weak."
+        },
+        {
+          "character": "TRAVELLER",
+          "line": "The Captain's right. We must hurry. But first, I request a moment with the Captain. Alone."
+        },
+        {
+          "character": "PICARD",
+          "line": "Strange how he seems to care for you."
+        },
+        {
+          "character": "TRAVELLER",
+          "line": "He will forget me in time, which is as it should be. It's Wesley I wanted to speak to you about."
+        },
+        {
+          "character": "PICARD",
+          "line": "The boy?"
+        },
+        {
+          "character": "TRAVELLER",
+          "line": "It's best you do not repeat this to the others, especially not to the mother. Whatever may happen, it is imperative that it proceed naturally."
+        },
+        {
+          "character": "PICARD",
+          "line": "I must get my ship back. Do we have time for this?"
+        },
+        {
+          "character": "TRAVELLER",
+          "line": "Oh, yes. He and a few like him are why I travel. You have it in your power to encourage him without interfering."
+        },
+        {
+          "character": "PICARD",
+          "line": "Encourage him in what?"
+        },
+        {
+          "character": "TRAVELLER",
+          "line": "How shall I explain? Are you familiar with the intricacies of what is called here music?"
+        },
+        {
+          "character": "PICARD",
+          "line": "Somewhat."
+        },
+        {
+          "character": "TRAVELLER",
+          "line": "Such musical genius I saw in one of your ship's libraries. One called Mozart, who as a small child wrote astonishing symphonies. A genius who made music not only to be heard, but seen and felt beyond the understanding, the ability of others. Wesley is such a person. Not with music, but with the equally lovely intricacies of time, energy, propulsion. and the instruments of this vessel which allow all that to be played. You're right, I must hurry now. But you're right in something else. He is just a boy for now. He should be encouraged, but told none of this."
+        }
+      ],
+      "location": "Sickbay"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "PICARD",
+          "line": "We're going to get back home. Take him to Engineering."
+        },
+        {
+          "character": "RIKER",
+          "line": "Yes, sir."
+        },
+        {
+          "character": "PICARD",
+          "line": "I'll be on the Bridge."
+        },
+        {
+          "character": "RIKER",
+          "line": "Yes, sir."
+        },
+        {
+          "character": "PICARD",
+          "line": "Put it out!"
+        },
+        {
+          "character": "CREWMAN",
+          "line": "How?"
+        },
+        {
+          "character": "PICARD",
+          "line": "Think! Put the flame out in your thoughts."
+        },
+        {
+          "character": "PICARD",
+          "line": "Now, Get to your station and concentrate on your assignment."
+        },
+        {
+          "character": "CREWMAN",
+          "line": "Yes, sir."
+        },
+        {
+          "character": "PICARD",
+          "line": "Captain's log. Any time entry is meaningless. We have no choice but to repeat the same warp experiment. but wish one variation. A principal part of this warp formula will be the thoughts of everyone aboard the Enterprise. We have no idea exactly how this works. We understand only that the Traveler makes use of this somehow. It will be most important that those aboard avoid random thoughts that might change the reality of what we're attempting to do.",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "Corridor"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "PICARD",
+          "line": "Do you have any further advice, Counselor?"
+        },
+        {
+          "character": "TROI",
+          "line": "When you begin the attempt, there will be stress, and it's only natural the crew's concentration will shift."
+        },
+        {
+          "character": "TASHA",
+          "line": "Plus some genuine fear, Captain. You can't notice what's happening outside without feeling some of that."
+        },
+        {
+          "character": "PICARD",
+          "line": "All decks, all stations."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "PICARD",
+          "line": "This is the Captain speaking. All decks, I must have your full attention. In a few moments, as we attempt to warp back home, it is vital, absolutely vital, that you center your thoughts on your duty or on the welfare of the one called the Traveler.",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "Various parts of the ship"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "PICARD",
+          "line": "Think of giving him some of your strength. Now, this is an order. You must try to do this.",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "Engineering"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "PICARD",
+          "line": "And now, attempt to concentrate completely on your duty of the moment. Or on the Traveler, on his well being."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "PICARD",
+          "line": "Think of him as someone you care deeply about.",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "Engineering"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "PICARD",
+          "line": "All decks, all stations. Battle stations."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TRAVELLER",
+          "line": "I will need Kosinski back on the main computer."
+        },
+        {
+          "character": "KOSINSKI",
+          "line": "You need me?"
+        },
+        {
+          "character": "TRAVELLER",
+          "line": "Yes."
+        }
+      ],
+      "location": "Engineering"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "PICARD",
+          "line": "Helm, set in warp one point five, retroactive course."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Warp one point five, retroactive two six one mark three one, sir."
+        },
+        {
+          "character": "PICARD",
+          "line": "Bridge to Engineering. Stand by."
+        },
+        {
+          "character": "TROI",
+          "line": "I feel such an abundance of well being on the ship. It feels like, quite wonderful."
+        },
+        {
+          "character": "RIKER",
+          "line": "Engineering to Bridge, we're ready.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "PICARD",
+          "line": "On my order, Mister Data, Mister La Forge. Engage."
+        },
+        {
+          "character": "PICARD",
+          "line": "It's not happening. It's not enough."
+        },
+        {
+          "character": "DATA",
+          "line": "Warp one point five, sir, which is what my instruments have read all along."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "And our position reads exactly what it was before this sleigh ride began, sir."
+        },
+        {
+          "character": "PICARD",
+          "line": "Cease Red Alert."
+        },
+        {
+          "character": "DATA",
+          "line": "Sleigh ride?"
+        },
+        {
+          "character": "LAFORGE",
+          "line": "Or whatever you want to call it, Data. I don't have a proper name for it."
+        },
+        {
+          "character": "RIKER",
+          "line": "The Traveler's gone, sir."
+        },
+        {
+          "character": "PICARD",
+          "line": "Gone?"
+        },
+        {
+          "character": "RIKER",
+          "line": "He's phased completely out of existence. At least, out of our existence."
+        },
+        {
+          "character": "PICARD",
+          "line": "Attention all decks. This is to inform you that with your support the Traveler has returned us to our galaxy. However, he has now left us. Wherever he has gone, we wish him well. Have the boy sent to the Bridge, Number One."
+        },
+        {
+          "character": "RIKER",
+          "line": "Wesley Crusher, report to the Bridge, on the double."
+        },
+        {
+          "character": "PICARD",
+          "line": "Our next assignment is on this heading?"
+        },
+        {
+          "character": "RIKER",
+          "line": "Yes, sir."
+        },
+        {
+          "character": "PICARD",
+          "line": "Mister Data, Mister La Forge, increase to warp five. Same heading."
+        },
+        {
+          "character": "DATA",
+          "line": "Warp five, sir."
+        },
+        {
+          "character": "LAFORGE",
+          "line": "On that same heading, sir."
+        },
+        {
+          "character": "PICARD",
+          "line": "Ah, Wesley. Come on the Bridge. Move!"
+        },
+        {
+          "character": "PICARD",
+          "line": "Commander Riker has told me how supportive you were in Engineering. Well done. At ease. Sit here in Command."
+        },
+        {
+          "character": "RIKER",
+          "line": "Captain, it's not allowed. Your orders."
+        },
+        {
+          "character": "PICARD",
+          "line": "Oh, that's true. Well, I can't waive them again. Only commissioned officers."
+        },
+        {
+          "character": "WESLEY",
+          "line": "It's quite all right, sir, I understand."
+        },
+        {
+          "character": "PICARD",
+          "line": "Please don't interrupt me, Wesley."
+        },
+        {
+          "character": "WESLEY",
+          "line": "I'm sorry, sir."
+        },
+        {
+          "character": "PICARD",
+          "line": "Any commissioned rank? Even ensign?"
+        },
+        {
+          "character": "RIKER",
+          "line": "That would give him authorized access to the Bridge."
+        },
+        {
+          "character": "PICARD",
+          "line": "Well, then, I'll have to make him an acting ensign. Captain's log, stardate 41263.4. For outstanding performance in the best of Starfleet tradition, Wesley Crusher is made Acting Ensign, with the duties and privileges of that rank. And whether that rank becomes permanent, Mister Crusher, depends on you. At the earliest opportunity, your entrance application for Starfleet Academy will be tendered. Until then, you will learn this ship. Every operation, every function. Commander Riker, a duty schedule for Mister Crusher, heavy on study."
+        },
+        {
+          "character": "RIKER",
+          "line": "Aye, sir."
+        },
+        {
+          "character": "PICARD",
+          "line": "Meanwhile, you can sit here and learn something."
+        },
+        {
+          "character": "RIKER",
+          "line": "Sir, shall I send for Doctor Crusher?"
+        },
+        {
+          "character": "PICARD",
+          "line": "Why? Is someone ill? Or would you rather tell her about this, Wes?"
+        },
+        {
+          "character": "WESLEY",
+          "line": "If you don't mind, sir, I'd like to sit here awhile. I'll tell her later."
+        }
+      ],
+      "location": "Bridge"
+    }
+  ],
+  "schedule": {
+    "episode": 6,
+    "number": 6,
+    "season": 1
+  },
+  "stardate": "41263.1",
+  "title": "Where No One Has Gone Before"
+}

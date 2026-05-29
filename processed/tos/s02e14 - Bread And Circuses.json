@@ -1,0 +1,1334 @@
+{
+  "airdate": -56736000,
+  "scenes": [
+    {
+      "dialogue": [
+        {
+          "character": "SPOCK",
+          "line": "No doubt about it, Captain. The space debris comes from the survey vessel SS Beagle."
+        },
+        {
+          "character": "KIRK",
+          "line": "Missing for six years, and now this junk in space."
+        },
+        {
+          "character": "SPOCK",
+          "line": "Portions of the antimatter nacelles, personal belongings. Captain, no signs of bodies whatsoever."
+        },
+        {
+          "character": "KIRK",
+          "line": "Then whatever destroyed the ship, the crew was able to get off safely. Navigator, compute the present drift of the wreckage."
+        },
+        {
+          "character": "CHEKOV",
+          "line": "Computed and on the board, sir."
+        },
+        {
+          "character": "KIRK",
+          "line": "Mister Spock, assuming that the wreckage drifted at the same speed and direction for the past six years?"
+        },
+        {
+          "character": "SPOCK",
+          "line": "It would have come from planet four, star system eight nine two, directly ahead."
+        },
+        {
+          "character": "CHEKOV",
+          "line": "Only one sixteenth parsec away, Captain. We should be there in seconds."
+        },
+        {
+          "character": "KIRK",
+          "line": "Standard orbit around the planet. There may be survivors there."
+        },
+        {
+          "character": "SPOCK",
+          "line": "SS Beagle. Small class four stardrive vessel. Crew of forty seven, commanded by. Jim, I believe you knew him. Captain R M Merik."
+        },
+        {
+          "character": "KIRK",
+          "line": "Yes, at the academy. He was dropped in his fifth year. He went into the merchant service."
+        },
+        {
+          "character": "CHEKOV",
+          "line": "Coming up on the planet, captain."
+        },
+        {
+          "character": "KIRK",
+          "line": "Put it on the screen."
+        },
+        {
+          "character": "CHEKOV",
+          "line": "Definitely class M, somewhat similar to Earth."
+        },
+        {
+          "character": "KIRK",
+          "line": "Yes, similar. But the land masses and oceans are quite different, however."
+        },
+        {
+          "character": "SPOCK",
+          "line": "Different in shape only, Captain. The proportion of land to water is exactly as on your Earth. Density five point five, diameter seven nine one seven at the equator, atmosphere seventy eight percent nitrogen, twenty one percent oxygen. Again, exactly like Earth."
+        },
+        {
+          "character": "KIRK",
+          "line": "Exactly in some ways, different in others."
+        },
+        {
+          "character": "SPOCK",
+          "line": "I also picked up indications of large cities."
+        },
+        {
+          "character": "KIRK",
+          "line": "What era?"
+        },
+        {
+          "character": "SPOCK",
+          "line": "No sign of atomic power as yet, but far enough along for radio communications, power transportation, an excellent road system."
+        },
+        {
+          "character": "UHURA",
+          "line": "Captain, both amplitude and frequency modulation being used. I think I can pick up something visual. It's a news broadcast using a system I think they once called video."
+        },
+        {
+          "character": "SPOCK",
+          "line": "Television was the colloquial term."
+        },
+        {
+          "character": "KIRK",
+          "line": "Put it on the screen."
+        },
+        {
+          "character": "UHURA",
+          "line": "Aye."
+        },
+        {
+          "character": "VOICE",
+          "line": "Today police rounded up still another group of dissidents. Authorities are as yet unable to explain these fresh outbreaks of treasonable disobedience by well-treated, well-protected, intelligent slaves. Now turning to the world of sports and bringing you the taped results of the arena games last night. The first heat involved amateurs. They're petty thieves from City Prison. Conducted, however, with traditional weapons, it provided some amusement for a few moments. In the second heat, a slightly more professional display in the spirit of our splendid past, when gladiator Claudius Marcus killed the last of the barbarians, William B. Harrison, in an excellent example of",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "UHURA",
+          "line": "Transmission lost, sir. Shall I try to get it back?"
+        },
+        {
+          "character": "KIRK",
+          "line": "Slaves and gladiators. What are we seeing, a twentieth-century Rome?"
+        },
+        {
+          "character": "SPOCK",
+          "line": "Captain, the one described as the barbarian is also listed here. Flight officer William B. Harrison of the SS Beagle. At least there were some survivors down there."
+        },
+        {
+          "character": "KIRK",
+          "line": "Ready the transporter room, Mister Spock. We're beaming down."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "KIRK",
+          "line": "You could have selected a more convenient place, Mister Spock."
+        },
+        {
+          "character": "SPOCK",
+          "line": "But hardly more practical, captain. Close to the city we located, but not populated. We should not be observed."
+        },
+        {
+          "character": "SPOCK",
+          "line": "Fascinating. This atmosphere is remarkably similar to your twentieth century. Moderately industrialized pollution containing substantial amounts of carbon monoxide and partially consumed hydrocarbons."
+        },
+        {
+          "character": "MCCOY",
+          "line": "The word was smog."
+        },
+        {
+          "character": "SPOCK",
+          "line": "Yes, I believe that was the term. I had no idea you were that much of a historian, Doctor."
+        },
+        {
+          "character": "MCCOY",
+          "line": "I am not, Mister Spock. I was simply trying to stop you from giving us a whole lecture on the subject. Jim, is there anything at all we know about this planet?"
+        },
+        {
+          "character": "KIRK",
+          "line": "The SS Beagle was the first ship to make a survey of this star sector when it disappeared."
+        },
+        {
+          "character": "SPOCK",
+          "line": "Then the Prime Directive is in full force, Captain?"
+        },
+        {
+          "character": "KIRK",
+          "line": "No identification of self or mission. No interference with the social development of said planet."
+        },
+        {
+          "character": "MCCOY",
+          "line": "No references to space, or the fact that there are other worlds, or more advanced civilisations."
+        },
+        {
+          "character": "KIRK",
+          "line": "Let's go."
+        },
+        {
+          "character": "MCCOY",
+          "line": "One, just once, I'd like to be able to land someplace and say, Behold, I am the Archangel Gabriel."
+        },
+        {
+          "character": "SPOCK",
+          "line": "I fail to see the humor in that situation, Doctor."
+        },
+        {
+          "character": "MCCOY",
+          "line": "Naturally. You could hardly claim to be an angel with those pointed ears, Mister Spock. But say you landed someplace with a pitchfork."
+        },
+        {
+          "character": "FLAVIUS",
+          "line": "Don't move! Hands in the air!",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "SPOCK",
+          "line": "Complete Earth parallel. The language here is English."
+        },
+        {
+          "character": "FLAVIUS",
+          "line": "I said, don't move!",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "KIRK",
+          "line": "I think he means it, Spock."
+        },
+        {
+          "character": "SPOCK",
+          "line": "There would seem to be evidence to that effect."
+        },
+        {
+          "character": "FLAVIUS",
+          "line": "Who are you?"
+        },
+        {
+          "character": "KIRK",
+          "line": "We come from another province."
+        },
+        {
+          "character": "FLAVIUS",
+          "line": "Where are you from? What do you call those?"
+        },
+        {
+          "character": "SPOCK",
+          "line": "I call them ears."
+        },
+        {
+          "character": "FLAVIUS",
+          "line": "Are you trying to be funny?"
+        },
+        {
+          "character": "SPOCK",
+          "line": "Never. Colloquial twentieth-century English. An amazing parallel."
+        },
+        {
+          "character": "KIRK",
+          "line": "We come from a place that's quite some journey from here. I doubt if you've heard"
+        },
+        {
+          "character": "FLAVIUS",
+          "line": "Uniforms. Probably some new Praetorian guard unit. I should kill you here, but Septimus would probably be displeased. Move. Move! (As they are lead along, a guard whistles the signal that they are approaching, and two men come out of a hidden cave."
+        }
+      ],
+      "location": "Hillside"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "FLAVIUS",
+          "line": "I didn't harm them, Septimus, as much as I wanted to."
+        },
+        {
+          "character": "SEPTIMUS",
+          "line": "Keep always in your mind, Flavius, that our way is peace."
+        },
+        {
+          "character": "MCCOY",
+          "line": "For which we are grateful, for we are men of peace ourselves."
+        },
+        {
+          "character": "SEPTIMUS",
+          "line": "Oh? Are you Children of the Sun?"
+        },
+        {
+          "character": "MCCOY",
+          "line": "Well, if you're speaking of worships of sorts, we represent many beliefs."
+        },
+        {
+          "character": "FLAVIUS",
+          "line": "There is only one true belief! Roman butchers, sent here by the first citizen."
+        },
+        {
+          "character": "KIRK",
+          "line": "Do we look like any Romans you ever saw ?"
+        },
+        {
+          "character": "SEPTIMUS",
+          "line": "Then are you slaves like ourselves?"
+        },
+        {
+          "character": "KIRK",
+          "line": "Our people don't believe in slavery."
+        },
+        {
+          "character": "FLAVIUS",
+          "line": "A Roman lie. We must kill them."
+        },
+        {
+          "character": "SPOCK",
+          "line": "Sir, we came here looking for some friends, forty seven of them who were stranded here some six years ago. They wore clothing similar to ours. Have you heard of such men?"
+        },
+        {
+          "character": "FLAVIUS",
+          "line": "Septimus, I know killing is evil, but sometimes it's necessary."
+        },
+        {
+          "character": "SEPTIMUS",
+          "line": "No."
+        },
+        {
+          "character": "FLAVIUS",
+          "line": "But they've located us, our hiding place. It's better to kill a few of them than all of us."
+        },
+        {
+          "character": "KIRK",
+          "line": "Wait. I can prove we're telling the truth. A small device. I'll take it out slowly. Kirk to Enterprise. Come in."
+        },
+        {
+          "character": "SCOTT",
+          "line": "Scott here, Captain.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "KIRK",
+          "line": "Scotty, lock in on my transmission beam. Scan us."
+        },
+        {
+          "character": "SCOTT",
+          "line": "Scanning, sir.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "KIRK",
+          "line": "Including ourselves, how many of us are there?"
+        },
+        {
+          "character": "SCOTT",
+          "line": "Twelve, Captain.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "KIRK",
+          "line": "Good, Scotty. Continue scanning. We'll maintain transmission. Kirk out. The Enterprise is our ship, somewhere at sea. That's all I can tell you. If it isn't sufficient, you will have to kill us."
+        },
+        {
+          "character": "SEPTIMUS",
+          "line": "Tell me the empire has a device like that, Flavius, and you may kill them. Otherwise, accept them as friends."
+        },
+        {
+          "character": "KIRK",
+          "line": "Captain's log, stardate 4040.7. On the surface of planet four, system eight nine two, the landing party has won the confidence of what obviously is a group of runaway slaves. They dwell in caves not far from a large city, wear rags, live under primitive conditions. But they are creatures of a heavily industrialized twentieth-century type planet very much like Earth. An amazing example of Hodgkins's law of Parallel Planet Development. But on this Earth, Rome never fell. A world ruled by emperors who can trace their line back two thousand years to their own Julius and Augustus Caesars.",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "Cave entrance"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "SEPTIMUS",
+          "line": "No, Captain. I'm sure I would have heard of the arrival of other men like you."
+        },
+        {
+          "character": "KIRK",
+          "line": "Perhaps you've heard, let's say, an impossible story or a rumor of men who came from the sky or from other worlds."
+        },
+        {
+          "character": "SEPTIMUS",
+          "line": "There are no other worlds."
+        },
+        {
+          "character": "KIRK",
+          "line": "The stars."
+        },
+        {
+          "character": "SEPTIMUS",
+          "line": "Lights shining through from heaven. It is where the sun is. Blessed be the sun."
+        },
+        {
+          "character": "KIRK",
+          "line": "Yes, of course."
+        },
+        {
+          "character": "SPOCK",
+          "line": "Captain, I thought you might find this interesting."
+        },
+        {
+          "character": "KIRK",
+          "line": "Spock?"
+        },
+        {
+          "character": "SPOCK",
+          "line": "Fascinating."
+        },
+        {
+          "character": "KIRK",
+          "line": "The Jupiter Eight. Conventional internal combustion engine. You were right about the smog. But the Jupiter Eight? Mars toothpaste. Neptune bath salts."
+        },
+        {
+          "character": "SEPTIMUS",
+          "line": "Taken from the names of false gods. When I was a senator, I worshiped them too, but I heard the words of the sun. I became a Brother. For that, they made me a slave."
+        },
+        {
+          "character": "KIRK",
+          "line": "Septimus, we need your help. We must go into the city. We know that one of our missing friends was seen there recently."
+        },
+        {
+          "character": "SEPTIMUS",
+          "line": "My advice to you is to leave. Go back where you came from."
+        },
+        {
+          "character": "KIRK",
+          "line": "We can't do that. Perhaps you know his name. Merik. Captain Merik."
+        },
+        {
+          "character": "SEPTIMUS",
+          "line": "Merikus?"
+        },
+        {
+          "character": "KIRK",
+          "line": "Yes. He's the leader of our friends."
+        },
+        {
+          "character": "SEPTIMUS",
+          "line": "Merikus is first citizen. Butcher."
+        },
+        {
+          "character": "KIRK",
+          "line": "That doesn't sound like the same man."
+        },
+        {
+          "character": "SPOCK",
+          "line": "Captain, a logical question, if I may. Septimus, how many years ago did Merikus become your first citizen?"
+        },
+        {
+          "character": "SEPTIMUS",
+          "line": "Perhaps five years."
+        },
+        {
+          "character": "FLAVIUS",
+          "line": "Almost six. I was there when he became lord of the games. If he is your friend, you are no friends of ours."
+        },
+        {
+          "character": "KIRK",
+          "line": "Septimus, wherever we may be from, you must believe that it is one of our most important laws that none of us interfere with the affairs of others. If Captain Merik is Merikus, then he has violated that law, and he must be taken away and punished. Will you help us get to the truth of all this?"
+        },
+        {
+          "character": "SEPTIMUS",
+          "line": "First I must diskuss it with the others."
+        },
+        {
+          "character": "SPOCK",
+          "line": "Curious, Captain, the similarity in names. Were you told why Merik was dropped from the Space Academy?"
+        },
+        {
+          "character": "KIRK",
+          "line": "He failed a psycho-simulator test. All it takes is a split second of indecision. Hardly the type to become a political strongman."
+        },
+        {
+          "character": "MCCOY",
+          "line": "Odd that these people should worship the sun."
+        },
+        {
+          "character": "SPOCK",
+          "line": "Why, Doctor?"
+        },
+        {
+          "character": "MCCOY",
+          "line": "Because, my dear Mister Spock, it is illogical. Rome had no sun worshipers. Why should they parallel Rome in every way except one?"
+        },
+        {
+          "character": "SEPTIMUS",
+          "line": "We have decided. Flavius will guide you. We will provide you with suitable clothing. I caution you, take great care. The police are everywhere. May the blessings of the sun be upon you."
+        }
+      ],
+      "location": "Cave"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "FLAVIUS",
+          "line": "We'll wait here until dark."
+        },
+        {
+          "character": "KIRK",
+          "line": "Are you a slave, Flavius?"
+        },
+        {
+          "character": "FLAVIUS",
+          "line": "You are barbarians indeed not to know of Flavius Maximus. For seven years, I was the most successful gladiator in this province."
+        },
+        {
+          "character": "KIRK",
+          "line": "Then you heard the word of the sun?"
+        },
+        {
+          "character": "FLAVIUS",
+          "line": "Yes. The words of peace and freedom. It wasn't easy for me to believe. I was trained to fight. But the words, the words are true."
+        },
+        {
+          "character": "KIRK",
+          "line": "There are many things I'd like to know"
+        },
+        {
+          "character": "MAXIMUS",
+          "line": "Hold! Don't move! Hands in the air! Four fleeing fish. A fine haul. Flavius Maximus."
+        },
+        {
+          "character": "MAXIMUS",
+          "line": "You have been too long absent from the games, Flavius. The first citizen will be pleased. Runaway slaves are always welcome. No, not slaves. Barbarians. It's been a long time since I've watched barbarians die in the arena."
+        },
+        {
+          "character": "KIRK",
+          "line": "Captain's log, stardate 4040.9. Uniformed police like those of Earth, a great city like Rome with automobiles. Astonishing similarities to twentieth-century Earth, down to the fine carbon steel in the bars.",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "Countryside"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "KIRK",
+          "line": "Tell Merikus I'd like to see him."
+        },
+        {
+          "character": "MAXIMUS",
+          "line": "The first citizen? Why would he bother with arena bait like you?"
+        },
+        {
+          "character": "KIRK",
+          "line": "Tell him it's Jim Kirk. Perhaps a friend."
+        },
+        {
+          "character": "MAXIMUS",
+          "line": "Perhaps?"
+        },
+        {
+          "character": "KIRK",
+          "line": "Well, if I am a friend and you don't tell him, do you really want to risk that?"
+        },
+        {
+          "character": "KIRK",
+          "line": "But if there have been slaves for over 2,000 years, hasn't there always been diskontent, runaways?"
+        },
+        {
+          "character": "FLAVIUS",
+          "line": "Long ago there were rebellions, but they were suppressed. And with each century, the slaves acquired more rights under the law. They received rights to medicine, the right to government payments in their old age, and they slowly learned to be content."
+        },
+        {
+          "character": "SPOCK",
+          "line": "Even more fascinating. Slavery evolving into an institution with guaranteed medical payments, old-age pensions."
+        },
+        {
+          "character": "MCCOY",
+          "line": "Quite logical, I'd say, Mister Spock. Just as it's logical that twentieth-century Rome would use television to show its gladiator contests or name a new car the Jupiter Eight."
+        },
+        {
+          "character": "SPOCK",
+          "line": "Doctor, if I were able to show emotion, your new infatuation with that term would begin to annoy me."
+        },
+        {
+          "character": "MCCOY",
+          "line": "What term? Logic? Medical men are trained in logic, Mister Spock."
+        },
+        {
+          "character": "SPOCK",
+          "line": "Really, Doctor, I had no idea they were trained. Watching you, I assumed it was trial and error."
+        },
+        {
+          "character": "FLAVIUS",
+          "line": "Are they enemies, Captain?"
+        },
+        {
+          "character": "KIRK",
+          "line": "I'm not sure they're sure. When the slaves began to worship the sun, they became diskontent again. When did all this happen?"
+        },
+        {
+          "character": "FLAVIUS",
+          "line": "Long ago. Perhaps as long ago as the beginning of the empire. The message of the sun, that all men are brothers, was kept from us. Perhaps I'm a fool to believe it. It does often seem that man must fight to live."
+        },
+        {
+          "character": "KIRK",
+          "line": "You go on believing it, Flavius. All men are brothers."
+        },
+        {
+          "character": "MAXIMUS",
+          "line": "Flavius. Your friends are waiting for you. You've already been matched for the morning games. Come."
+        },
+        {
+          "character": "FLAVIUS",
+          "line": "I will not fight. I'm a Brother of the Sun."
+        },
+        {
+          "character": "MAXIMUS",
+          "line": "Put a sword in your hand, and you'll fight. I know you, Flavius, you're as peaceful as a bull."
+        },
+        {
+          "character": "MAXIMUS",
+          "line": "You three come with us."
+        },
+        {
+          "character": "KIRK",
+          "line": "Three against three. We may never get a better chance."
+        },
+        {
+          "character": "MAXIMUS",
+          "line": "No talking. Outside."
+        },
+        {
+          "character": "KIRK",
+          "line": "I doubt if he'll get very far. He feels ill."
+        },
+        {
+          "character": "MCCOY",
+          "line": "I do?"
+        },
+        {
+          "character": "MAXIMUS",
+          "line": "Outside!"
+        },
+        {
+          "character": "KIRK",
+          "line": "All right, but he'll double over before we get very far."
+        },
+        {
+          "character": "MCCOY",
+          "line": "No, I think I can walk. I'll try."
+        },
+        {
+          "character": "KIRK",
+          "line": "Let's go."
+        },
+        {
+          "character": "MERIK",
+          "line": "Well done, Jim. I'm afraid it isn't that easy. They've been handling slaves here for two thousand years."
+        },
+        {
+          "character": "CLAUDIUS",
+          "line": "But it was exciting. They'd do well in the arena."
+        },
+        {
+          "character": "KIRK",
+          "line": "Captain Merik, isn't it ?"
+        },
+        {
+          "character": "MERIK",
+          "line": "Yes, it's me. This is our Proconsul, Claudius Marcus."
+        },
+        {
+          "character": "CLAUDIUS",
+          "line": "But this is no place for a reunion."
+        },
+        {
+          "character": "MERIK",
+          "line": "This way. Your friends, too. There's lots to talk about, lots to explain."
+        },
+        {
+          "character": "KIRK",
+          "line": "I agree."
+        },
+        {
+          "character": "MERIK",
+          "line": "Don't judge me before you know the facts. Come on, we can talk freely here. The Proconsul knows who and what we are."
+        }
+      ],
+      "location": "Prison"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "MERIK",
+          "line": "You can leave us."
+        },
+        {
+          "character": "MERIK",
+          "line": "Well, a celebration. A meeting of old friends."
+        },
+        {
+          "character": "CLAUDIUS",
+          "line": "Prepare food for our friends. They've come from a great distance. A great distance indeed. So, this is a Vulcan. Interesting. From what I've heard, I wish I had fifty of you for the arena."
+        },
+        {
+          "character": "MERIK",
+          "line": "This other is your ship's surgeon?"
+        },
+        {
+          "character": "KIRK",
+          "line": "McCoy."
+        },
+        {
+          "character": "MERIK",
+          "line": "It's a pity we can't let him loose in our hospitals. Our level of medicine would improve immeasurably, I'm sure."
+        },
+        {
+          "character": "CLAUDIUS",
+          "line": "Come. You must be hungry. Gentlemen?"
+        },
+        {
+          "character": "CLAUDIUS",
+          "line": "Oh, try the sparrow broiled in garum. Delicious. Or perhaps some of this roast kid. Lovely thing, isn't she?"
+        },
+        {
+          "character": "KIRK",
+          "line": "All right, what happened?"
+        },
+        {
+          "character": "MERIK",
+          "line": "We had meteor damage, Jim. I went ashore with a landing party to look for iridium ore for repairs, and I met this gentleman."
+        },
+        {
+          "character": "KIRK",
+          "line": "Go on."
+        },
+        {
+          "character": "MERIK",
+          "line": "He convinced me it would be unfair to this world to carry word of their existence elsewhere."
+        },
+        {
+          "character": "CLAUDIUS",
+          "line": "Contamination. Can't risk that. Oh, you'll understand as you learn more about us."
+        },
+        {
+          "character": "MERIK",
+          "line": "So I made the decision to stay."
+        },
+        {
+          "character": "KIRK",
+          "line": "What happened to your crew? Did they voluntarily beam, come ashore?"
+        },
+        {
+          "character": "MERIK",
+          "line": "This is an ordered world, Jim, a conservative world based on time-honored Roman strengths and virtues."
+        },
+        {
+          "character": "KIRK",
+          "line": "What happened to your crew?"
+        },
+        {
+          "character": "MERIK",
+          "line": "There's been no war here for over four hundred years, Jim. Could, let's say, your land of that same era make that same boast? I think you can see why they don't want to have their stability contaminated by dangerous ideas of other ways and other places."
+        },
+        {
+          "character": "SPOCK",
+          "line": "Interesting, and given a conservative empire, quite understandable."
+        },
+        {
+          "character": "MCCOY",
+          "line": "Are you out of your head?"
+        },
+        {
+          "character": "SPOCK",
+          "line": "I said I understood it, Doctor. I find the checks and balances of this civilisation quite illuminating."
+        },
+        {
+          "character": "MCCOY",
+          "line": "Next he'll be telling us he prefers it over Earth history."
+        },
+        {
+          "character": "SPOCK",
+          "line": "They do seem to have escaped the carnage of your first three world wars, Doctor."
+        },
+        {
+          "character": "MCCOY",
+          "line": "They have slavery, gladiatorial games, despotism."
+        },
+        {
+          "character": "SPOCK",
+          "line": "Situations quite familiar to the six million who died in your first world war, the eleven million who died in your second, the thirty seven million who died in your third. Shall I go on?"
+        },
+        {
+          "character": "CLAUDIUS",
+          "line": "Interesting. And you, Captain, which world do you prefer?"
+        },
+        {
+          "character": "KIRK",
+          "line": "My world, proconsul, is my vessel, my oath, my crew. What happened to your vessel you've explained. What happened to your oath is obvious."
+        },
+        {
+          "character": "MERIK",
+          "line": "And as for my men, those that were able to adapt to this world are still alive. Those who couldn't adapt are dead. That's the way it is with life everywhere, isn't it?"
+        },
+        {
+          "character": "KIRK",
+          "line": "You sent your own men into the arena?"
+        },
+        {
+          "character": "MERIK",
+          "line": "Just as I did, Jim, you're going to order your own people ashore."
+        },
+        {
+          "character": "MCCOY",
+          "line": "You must know that's impossible. Starfleet regulations"
+        },
+        {
+          "character": "CLAUDIUS",
+          "line": "Are designed to circumvent any such order. There may be over four hundred men on your ship, Captain, but they can be brought down if it's handled properly. Say, a few at a time. You see, I have the advantage of a trained ship captain to tell me what is and what is not possible. Your communicator, Captain Kirk. Now do save us all a lot of unnecessary trouble and issue the appropriate orders."
+        },
+        {
+          "character": "MERIK",
+          "line": "They're going to be arriving soon, anyway, Jim. A recon party, then a rescue party, then another rescue party. I had less men. It added up the same."
+        },
+        {
+          "character": "KIRK",
+          "line": "Do you really believe I could be made to order my own people down?"
+        },
+        {
+          "character": "CLAUDIUS",
+          "line": "I believe this, Captain. That you would do almost anything rather than see these two dear friends put slowly to death."
+        },
+        {
+          "character": "MCCOY",
+          "line": "Jim."
+        },
+        {
+          "character": "KIRK",
+          "line": "Kirk to Enterprise."
+        },
+        {
+          "character": "SCOTT",
+          "line": "Bridge. Scott here.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "KIRK",
+          "line": "Scotty, if you have a fix. Stand by, Scotty."
+        },
+        {
+          "character": "CLAUDIUS",
+          "line": "Very wise of you, Captain. No point in sending up bullet-ridden corpses."
+        },
+        {
+          "character": "KIRK",
+          "line": "Yet on the other hand, my chief engineer's standing by for a message."
+        },
+        {
+          "character": "CLAUDIUS",
+          "line": "I do hope so, for your sake. Now, Captain, what are you going to order your men to do?"
+        },
+        {
+          "character": "KIRK",
+          "line": "If I brought down a hundred of them armed with phasers"
+        },
+        {
+          "character": "CLAUDIUS",
+          "line": "you could probably defeat the combined armies of our entire empire, and violate your oath regarding noninterference with other societies. I believe you all swear you'll die before you'd violate that directive. Am I right?"
+        },
+        {
+          "character": "SPOCK",
+          "line": "Quite correct."
+        },
+        {
+          "character": "MCCOY",
+          "line": "Must you always be so blasted honest?"
+        },
+        {
+          "character": "CLAUDIUS",
+          "line": "But on the other hand, why even bother to send your men down? From what I understand, your vessel could lay waste to the entire surface of the world. Oh, but there's that Prime Directive in the way again. Can't interfere."
+        },
+        {
+          "character": "MERIK",
+          "line": "Jim, you've already started a message. Your engineer's waiting. What are you going to do?"
+        },
+        {
+          "character": "KIRK",
+          "line": "Scotty. Sorry to keep you waiting."
+        },
+        {
+          "character": "SCOTT",
+          "line": "We were becoming concerned, Captain. You were a bit overdue.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "CLAUDIUS",
+          "line": "Order your officers to come down."
+        },
+        {
+          "character": "KIRK",
+          "line": "Condition Green, all's well. Kirk out."
+        },
+        {
+          "character": "CLAUDIUS",
+          "line": "Guards, take them. Prepare them for the games."
+        },
+        {
+          "character": "MERIK",
+          "line": "Ah, that was stupid, Jim. This is not an Academy training test. This is for real. They're taking you to die. Ship's log, stardate 4041.2. Chief Engineer Scott recording. Captain Kirk and his landing party have checked in"
+        }
+      ],
+      "location": "Chamber"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "SCOTT",
+          "line": "But they have used the code term Condition Green, which means they're in trouble. But it also prohibits my taking any action. Mister Chekov, pinpoint power source locations. Type, power, load factors, and how much our beams will have to pull to overload them."
+        },
+        {
+          "character": "CHEKOV",
+          "line": "That may take some time."
+        },
+        {
+          "character": "SCOTT",
+          "line": "Let it take time, lad. They're in trouble, and I'm under orders not to interfere. However, no order can stop me from frightening them. It may do no good, but it may suggest to someone just what a starship can really do. Aye."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "ANNOUNCER",
+          "line": "Good evening, ladies and gentlemen. Live and direct from City Arena, and in color, we bring you Name the Winner, brought to you tonight by your Jupiter Eight dealers from coast to coast. In just a moment, tonight's first heat. We're in a taped commercial, Proconsul. Forty seconds, then we'll be back live."
+        },
+        {
+          "character": "ANNOUNCER",
+          "line": "Stand by. Ten seconds. And first tonight, ladies and gentlemen, a surprise extra. In the far corner, a pair of highly aggressive barbarians. Strong, intelligent, with strange ways, and I'm sure full of a lot of surprises. And facing them, two favorites here from previous encounters, Achilles and Flavius. Victory or death? And for which of them? Well, ladies and gentlemen, you know as much about that at this moment as I do because this is your program. You name the winner."
+        },
+        {
+          "character": "FLAVIUS",
+          "line": "I don't mind fighting, but why you?"
+        },
+        {
+          "character": "VOICE",
+          "line": "Begin!",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "ANNOUNCER",
+          "line": "Flavius may be getting off to a slow start, but he's never disappointed this crowd. A close one. The barbarian with the pointed ears seems to be in trouble."
+        },
+        {
+          "character": "SPOCK",
+          "line": "I tell you I'm well able to defeat you."
+        },
+        {
+          "character": "ACHILLES",
+          "line": "Fight, barbarian!"
+        },
+        {
+          "character": "MERIK",
+          "line": "Most of my men went the same way. I hoped I would feel it less with yours."
+        },
+        {
+          "character": "SPOCK",
+          "line": "I do not want to injure you."
+        },
+        {
+          "character": "MASTER",
+          "line": "Fight, you two. You bring this network's ratings down, Flavius, and we'll do a special on you."
+        },
+        {
+          "character": "CLAUDIUS",
+          "line": "Question, Captain?"
+        },
+        {
+          "character": "KIRK",
+          "line": "The rules. If Spock should finish his man off first, would he be able to help"
+        },
+        {
+          "character": "CLAUDIUS",
+          "line": "We believe men should fight their own battles. Only the weak will die. My word as a Roman. Ready to order your men down, Captain?"
+        },
+        {
+          "character": "MERIK",
+          "line": "Maybe now you understand why I gave in. The Romans have always been the strongest, and they've had practice for over two thousand years in enslaving men, using them, killing them."
+        },
+        {
+          "character": "CLAUDIUS",
+          "line": "Quite true, Captain Kirk. The games have always strengthened us. Death becomes a familiar pattern. We don't fear it as you do."
+        },
+        {
+          "character": "FLAVIUS",
+          "line": "At least defend yourself."
+        },
+        {
+          "character": "MCCOY",
+          "line": "I am defending myself!"
+        },
+        {
+          "character": "FLAVIUS",
+          "line": "Not like that, you fool. Hold your weapon higher."
+        },
+        {
+          "character": "CLAUDIUS",
+          "line": "Admit it. You find these games frightening, revolting."
+        },
+        {
+          "character": "KIRK",
+          "line": "Proconsul, in some parts of the galaxy I have seen forms of entertainment that makes this look like a folk dance."
+        },
+        {
+          "character": "CLAUDIUS",
+          "line": "Certain this isn't different, Captain? Those are your men dying, not strangers."
+        },
+        {
+          "character": "KIRK",
+          "line": "I've had to select men to die before so that others could be saved."
+        },
+        {
+          "character": "CLAUDIUS",
+          "line": "You're a clever liar, Captain Kirk. Merikus was a spaceship captain. I've observed him thoroughly. Your species has no such strength."
+        },
+        {
+          "character": "MERIK",
+          "line": "He commands not just a spaceship, Proconsul, but a starship. A very special vessel and crew. I tried for such a command."
+        },
+        {
+          "character": "CLAUDIUS",
+          "line": "I see no evidence of superiority. They fight no better than your men did, Merikus. Perhaps not as well."
+        },
+        {
+          "character": "ACHILLES",
+          "line": "Stop running. Fight."
+        },
+        {
+          "character": "SPOCK",
+          "line": "Need any help, Doctor?"
+        },
+        {
+          "character": "MCCOY",
+          "line": "Whatever gave you that idea?"
+        },
+        {
+          "character": "ACHILLES",
+          "line": "Fight, you pointed-ear freak!"
+        },
+        {
+          "character": "MCCOY",
+          "line": "You tell him, buster. Of all the completely ridiculous, illogical questions I ever heard in my life!"
+        },
+        {
+          "character": "MASTER",
+          "line": "A clear foul, Proconsul. Your decision?"
+        },
+        {
+          "character": "CLAUDIUS",
+          "line": "Your opinion, Merikus? After all, they're like yourself."
+        },
+        {
+          "character": "MERIK",
+          "line": "It's your decision, Proconsul."
+        },
+        {
+          "character": "CLAUDIUS",
+          "line": "Your opinion, Captain Kirk? Would you like me to kill them now? An easy death? Then you'd gladly accept whatever happens to you. Take them back to their cage. Well, it won't go that easily for them, Captain, nor for you. Take him to my quarters."
+        }
+      ],
+      "location": "Arena"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "DRUSILLA",
+          "line": "I was told to wait for you and provide wine, food, whatever you wish. I am Proconsul's slave Drusilla. Although for this evening. For this evening I was told I am your slave. Command me."
+        },
+        {
+          "character": "KIRK",
+          "line": "It won't work."
+        },
+        {
+          "character": "DRUSILLA",
+          "line": "What will not work?"
+        },
+        {
+          "character": "KIRK",
+          "line": "Whatever he has in mind, whatever tricks. You hear that, Proconsul? It won't work. I'm not co-operating. I may die, but you won't get any entertainment out of it."
+        },
+        {
+          "character": "DRUSILLA",
+          "line": "We're alone. Please believe me. I've never lied to one who owns me."
+        }
+      ],
+      "location": "Chamber"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "MCCOY",
+          "line": "Angry, Mister Spock, or frustrated, perhaps?"
+        },
+        {
+          "character": "SPOCK",
+          "line": "Such emotions are foreign to me, Doctor. I'm merely testing the strength of the door."
+        },
+        {
+          "character": "MCCOY",
+          "line": "For the fifteenth time. Spock. Spock, I know we've had our disagreements. Maybe they're jokes. I don't know. As Jim says, we're not often sure ourselves sometimes, but what I'm trying to say is"
+        },
+        {
+          "character": "SPOCK",
+          "line": "Doctor, I am seeking a means of escape. Will you please be brief?"
+        },
+        {
+          "character": "MCCOY",
+          "line": "Well, what I'm trying to say is you saved my life in the arena."
+        },
+        {
+          "character": "SPOCK",
+          "line": "Yes, that's quite true."
+        },
+        {
+          "character": "MCCOY",
+          "line": "I'm trying to thank you, you pointed-eared hobgoblin!"
+        },
+        {
+          "character": "SPOCK",
+          "line": "Oh, yes. You humans have that emotional need to express gratitude. You're welcome, I believe, is the correct response. However, Doctor, you must remember I am entirely motivated by logic. The loss of our ship's surgeon, whatever I think of his skill, would mean a reduction in the efficiency of the Enterprise and therefore"
+        },
+        {
+          "character": "MCCOY",
+          "line": "Do you know why you're not afraid to die, Spock? You're more afraid of living. Each day you stay alive is just one more day you might slip and let your human half peek out. That's it, isn't it? Insecurity. Why, you wouldn't know what to do with a genuine, warm, decent feeling."
+        },
+        {
+          "character": "SPOCK",
+          "line": "Really, Doctor?"
+        },
+        {
+          "character": "MCCOY",
+          "line": "I know. I'm worried about Jim, too."
+        }
+      ],
+      "location": "Jail"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "KIRK",
+          "line": "Very good. Excellent."
+        },
+        {
+          "character": "DRUSILLA",
+          "line": "I was concerned. I am ordered to please you."
+        },
+        {
+          "character": "KIRK",
+          "line": "I've been in some strange worlds with strange customs. Perhaps this is considered torture here."
+        },
+        {
+          "character": "DRUSILLA",
+          "line": "Torture? I do not understand. I do not wish to see you tortured in any way. At the first sign of pain, you will tell me?"
+        },
+        {
+          "character": "KIRK",
+          "line": "You'll be the first to know."
+        },
+        {
+          "character": "CLAUDIUS",
+          "line": "Captain. I'm sorry I was detained. Should we have our little talk now? So far on this planet we've kept you rather busy. I don't wonder you slept through the afternoon. By the way, one of the communicators we took from you is missing. Was it my pretty Drusilla by any chance?"
+        },
+        {
+          "character": "CLAUDIUS",
+          "line": "See if he has it. Not that I would have punished her. I would have blamed you. You're a Roman, Kirk, or you should have been. It's not on his person?"
+        },
+        {
+          "character": "MERIK",
+          "line": "No, Proconsul."
+        },
+        {
+          "character": "CLAUDIUS",
+          "line": "I am sorry I was detained. I trust there was nothing further you required?"
+        },
+        {
+          "character": "KIRK",
+          "line": "Nothing except perhaps an explanation."
+        },
+        {
+          "character": "CLAUDIUS",
+          "line": "Because you're a man, I owe you that. You must die shortly, and because you are a man Would you leave us, Merik? The thoughts of one man to another cannot possibly interest you."
+        },
+        {
+          "character": "CLAUDIUS",
+          "line": "Because you are a man, I gave you some last hours as a man."
+        },
+        {
+          "character": "KIRK",
+          "line": "I appreciate that."
+        },
+        {
+          "character": "CLAUDIUS",
+          "line": "Unfortunately, we must demonstrate that defiance is intolerable."
+        },
+        {
+          "character": "KIRK",
+          "line": "Of course."
+        },
+        {
+          "character": "CLAUDIUS",
+          "line": "But I've learned to respect you. I promise you, you will die easily, quickly."
+        },
+        {
+          "character": "KIRK",
+          "line": "I thank you. And my friends?"
+        },
+        {
+          "character": "CLAUDIUS",
+          "line": "When their time comes, the same of course. Guards. Take him to the arena. Oh, we've pre-empted fifteen minutes on the early show for you. In full color. We guarantee you a splendid audience. You may not understand because you're centuries beyond anything as crude as television."
+        },
+        {
+          "character": "KIRK",
+          "line": "I've heard it was similar. Enterprise log, Engineer Scott reporting. All banks in readiness for disruption of power sources on the planet's surface."
+        }
+      ],
+      "location": "Chamber"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "ANNOUNCER",
+          "line": "Good evening, ladies and gentlemen. Before tonight's first heat, a simple execution. Stay tuned to this channel. There's a lot of excitement coming your way."
+        },
+        {
+          "character": "CLAUDIUS",
+          "line": "Make it a quick, single thrust."
+        },
+        {
+          "character": "MASTER",
+          "line": "Don't move. You'll only die harder."
+        },
+        {
+          "character": "FLAVIUS",
+          "line": "Murderers! If you want death, fight me!"
+        }
+      ],
+      "location": "Arena"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "SCOTT",
+          "line": "Now, Mister Chekov. Activate."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "CLAUDIUS",
+          "line": "Guards, don't let him escape! Guards!"
+        }
+      ],
+      "location": "Arena"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "MCCOY",
+          "line": "Jim!"
+        },
+        {
+          "character": "KIRK",
+          "line": "Stand back."
+        },
+        {
+          "character": "KIRK",
+          "line": "Obsolete, but effective."
+        },
+        {
+          "character": "MCCOY",
+          "line": "What happened, Jim?"
+        },
+        {
+          "character": "SPOCK",
+          "line": "What did they do to you?"
+        },
+        {
+          "character": "KIRK",
+          "line": "They threw me a few curves. No time to explain."
+        },
+        {
+          "character": "CLAUDIUS",
+          "line": "Hold! We're in each other's line of fire. I pity you, Captain Merik, but at least watch and see how men die. Swords only!"
+        },
+        {
+          "character": "MERIK",
+          "line": "Starship, lock in on this. Three to beam"
+        },
+        {
+          "character": "SCOTT",
+          "line": "Enterprise to Captain Kirk. Ready to beam up three.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "KIRK",
+          "line": "Captain's log, stardate 4041.7. Note commendation, Engineering Officer Scott. Despite enormous temptation >",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "Jail"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "KIRK",
+          "line": "And strong personal feelings, he obeyed the Prime Directive. His temporary blackout of the city below resulted in no interference with the society and yet saved the lives of myself and the landing party."
+        },
+        {
+          "character": "SCOTT",
+          "line": "Thank you, Captain."
+        },
+        {
+          "character": "KIRK",
+          "line": "Gentlemen."
+        },
+        {
+          "character": "MCCOY",
+          "line": "Captain, I see on your report Flavius was killed. I am sorry. I liked that huge sun worshiper."
+        },
+        {
+          "character": "SPOCK",
+          "line": "I wish we could have examined that belief of his more closely. It seems illogical for a sun worshiper to develop a philosophy of total brotherhood. Sun worship is usually a primitive superstition religion."
+        },
+        {
+          "character": "UHURA",
+          "line": "I'm afraid you have it all wrong, Mister Spock, all of you. I've been monitoring some of their old-style radio waves, the empire spokesman trying to ridicule their religion. But he couldn't. Don't you understand? It's not the sun up in the sky. It's the Son of God."
+        },
+        {
+          "character": "KIRK",
+          "line": "Caesar and Christ. They had them both. And the word is spreading only now."
+        },
+        {
+          "character": "MCCOY",
+          "line": "A philosophy of total love and total brotherhood."
+        },
+        {
+          "character": "SPOCK",
+          "line": "It will replace their imperial Rome, but it will happen in their twentieth century."
+        },
+        {
+          "character": "KIRK",
+          "line": "Wouldn't it be something to watch, to be a part of? To see it happen all over again? Mister Chekov, take us out of orbit. Ahead warp factor one."
+        },
+        {
+          "character": "CHEKOV",
+          "line": "Aye, sir."
+        }
+      ],
+      "location": "Bridge"
+    }
+  ],
+  "schedule": {
+    "episode": 14,
+    "number": 43,
+    "season": 2
+  },
+  "stardate": "4040.7",
+  "title": "Bread And Circuses"
+}

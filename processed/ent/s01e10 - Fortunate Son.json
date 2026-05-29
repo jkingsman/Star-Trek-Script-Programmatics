@@ -1,0 +1,1843 @@
+{
+  "airdate": 1006329600,
+  "scenes": [
+    {
+      "dialogue": [
+        {
+          "character": "KEENE",
+          "line": "Hauled down in the corner of the end zone. Touchdown!"
+        },
+        {
+          "character": "RYAN",
+          "line": "Like to see you make that catch with the gravity plating at Earth sea level."
+        },
+        {
+          "character": "KEENE",
+          "line": "I doubt you could throw the ball ten meters on Earth."
+        },
+        {
+          "character": "RYAN",
+          "line": "One more reason not to go."
+        },
+        {
+          "character": "KEENE",
+          "line": "Did you find out what was causing that vibration in module two?"
+        },
+        {
+          "character": "RYAN",
+          "line": "The cargo handlers at Jupiter Station. They didn't balance the load. Shaw and I, we, er, we trimmed it out."
+        },
+        {
+          "character": "KEENE",
+          "line": "Keep an eye on it."
+        },
+        {
+          "character": "VOICE",
+          "line": "Bridge to Captain Keene. We're under attack, sir. It's the Nausicaans.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "KEENE",
+          "line": "Drop out of warp. Charge the plasma cannon."
+        }
+      ],
+      "location": "Cargo Module 4"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "ARCHER",
+          "line": "Archer."
+        },
+        {
+          "character": "CREWMAN",
+          "line": "Sorry to disturb you sir, but I have an incoming transmission from Starfleet Command. It's Admiral Forrest.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "ARCHER",
+          "line": "Put him through."
+        },
+        {
+          "character": "CREWMAN",
+          "line": "Yes, sir.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "ARCHER",
+          "line": "Admiral. Good to see you."
+        },
+        {
+          "character": "FORREST",
+          "line": "You too, Jon, what I can make out.",
+          "modifier": "screen"
+        },
+        {
+          "character": "ARCHER",
+          "line": "We're getting ready to deploy the first subspace amplifier. Should clear up reception a bit."
+        },
+        {
+          "character": "FORREST",
+          "line": "Whatever you have to do to keep those reports coming. The scans of that comet were incredible.",
+          "modifier": "screen"
+        },
+        {
+          "character": "ARCHER",
+          "line": "Something tells me you didn't call at four in the morning to talk about comets."
+        },
+        {
+          "character": "FORREST",
+          "line": "I hate to do this to you Jon, but we're turning you around.",
+          "modifier": "screen"
+        },
+        {
+          "character": "ARCHER",
+          "line": "Sir?"
+        },
+        {
+          "character": "FORREST",
+          "line": "We picked up an automated distress signal from a cargo freighter, the ECS Fortunate. The nearest Starfleet vessel is three weeks away at its maximum warp, but you could be there in a day and a half.",
+          "modifier": "screen"
+        },
+        {
+          "character": "ARCHER",
+          "line": "What's the problem?"
+        },
+        {
+          "character": "FORREST",
+          "line": "We're not sure. They're not responding to hails. I'd like you to check this out. Give them any assistance they need.",
+          "modifier": "screen"
+        },
+        {
+          "character": "ARCHER",
+          "line": "We're on our way."
+        },
+        {
+          "character": "FORREST",
+          "line": "Forrest out.",
+          "modifier": "screen"
+        },
+        {
+          "character": "ARCHER",
+          "line": "I think our day's going to start a little early."
+        }
+      ],
+      "location": "Archer's quarters"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "T'POL",
+          "line": "The Earth cargo ship Fortunate. Y-class freighter, maximum speed warp one point eight. Crew complement twenty three."
+        },
+        {
+          "character": "TRAVIS",
+          "line": "Not counting newborn babies."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Ensign?"
+        },
+        {
+          "character": "TRAVIS",
+          "line": "I grew up on a J-class, a little smaller but the same basic design, and one thing I can tell you is that at warp one point eight you've got a lot of time on your hands between ports. That's how my parents wound up with me."
+        },
+        {
+          "character": "T'POL",
+          "line": "Do you have any helpful information on this vessel beyond its recreational activities?"
+        },
+        {
+          "character": "REED",
+          "line": "For example, what kind of weapons they carry."
+        },
+        {
+          "character": "TRAVIS",
+          "line": "Well, typically nothing more than a low-yield plasma cannon, but most freight haulers would've upgraded the first chance they got."
+        },
+        {
+          "character": "REED",
+          "line": "Why is that?"
+        },
+        {
+          "character": "TRAVIS",
+          "line": "Think about it. You're a dozen light years from home with twenty kilotons of dilithium ore in your hold, armed with nothing but a pop-gun for shooting oncoming meteors. What would you do?"
+        }
+      ],
+      "location": "Situation room"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "REED",
+          "line": "I'm reading hull damage. Their warp reactor's offline and most of their primary systems are down."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Any other ships in the region."
+        },
+        {
+          "character": "T'POL",
+          "line": "None, Captain."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Open a channel. Fortunate, this is Captain Jonathan Archer of the Starship Enterprise. Fortunate, please respond."
+        },
+        {
+          "character": "HOSHI",
+          "line": "Their comm. systems may be down."
+        },
+        {
+          "character": "T'POL",
+          "line": "I'm reading twenty four biosigns."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Have Doctor Phlox meet us in the Launch bay."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "ARCHER",
+          "line": "Easy does it. There's a lot of debris out here."
+        },
+        {
+          "character": "TRAVIS",
+          "line": "Aye sir."
+        },
+        {
+          "character": "REED",
+          "line": "Some of it doesn't appear to be from the Fortunate."
+        },
+        {
+          "character": "PHLOX",
+          "line": "On the bright side, I'm only picking up inorganic material. No bodies."
+        },
+        {
+          "character": "REED",
+          "line": "The main hatch is damaged. No chance we'll get a positive seal."
+        },
+        {
+          "character": "TRAVIS",
+          "line": "There should be an auxiliary hatch on the port side."
+        }
+      ],
+      "location": "Shuttlepod"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "ARCHER",
+          "line": "Permission to come aboard."
+        },
+        {
+          "character": "RYAN",
+          "line": "Granted. I'm Matthew Ryan, first officer."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Jonathan Archer, Captain of the Enterprise. Sorry we couldn't meet under better circumstances. What happened here?"
+        },
+        {
+          "character": "RYAN",
+          "line": "Nausicaans. They tried to board us. We managed to fight them off but not before we took a few bruises."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Nausicaans?"
+        },
+        {
+          "character": "TRAVIS",
+          "line": "Pirates, sir. They've been attacking freighters in this sector for years. My parents had a run-in with them once. They were lucky to come out of it alive."
+        },
+        {
+          "character": "RYAN",
+          "line": "Your parents ran freight?"
+        },
+        {
+          "character": "TRAVIS",
+          "line": "Still do. An old J-class, the Horizon."
+        },
+        {
+          "character": "ARCHER",
+          "line": "I've got repair teams standing by. What can we do?"
+        },
+        {
+          "character": "RYAN",
+          "line": "Oh, we can handle this ourselves, Captain, but thank you."
+        },
+        {
+          "character": "REED",
+          "line": "If you didn't need our help, why did you send out a distress call?"
+        },
+        {
+          "character": "RYAN",
+          "line": "One of our younger crewmembers panicked, hit the emergency beacon. With our comm. down we had no way to tell Starfleet to ignore it."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Where's your Captain?"
+        },
+        {
+          "character": "RYAN",
+          "line": "He was wounded in the attack. I'm in command until he's back on his feet. I'm sorry we took valuable time away from your mission."
+        },
+        {
+          "character": "PHLOX",
+          "line": "Mister Ryan, I'm a physician. If your Captain or anyone else is hurt, it wouldn't be right for me to leave without seeing them."
+        },
+        {
+          "character": "TRAVIS",
+          "line": "He's got a lot more experience than any freighter medic I know."
+        },
+        {
+          "character": "ARCHER",
+          "line": "We've come an awfully long way. It would be a shame to turn around without lending a hand."
+        }
+      ],
+      "location": "Corridor"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "RYAN",
+          "line": "Is he going to die?"
+        },
+        {
+          "character": "PHLOX",
+          "line": "Not any time soon. The Nausicaan weapon disrupted his neural pathways. I've started him on a cortical regeneration but it'll take some time."
+        },
+        {
+          "character": "RYAN",
+          "line": "How long?"
+        },
+        {
+          "character": "PHLOX",
+          "line": "Two days, maybe three."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Since we have to stick around, we might as well help you get your ship up and running."
+        },
+        {
+          "character": "RYAN",
+          "line": "That's all right."
+        },
+        {
+          "character": "ARCHER",
+          "line": "I understand you're used to doing things on your own, but we're here. Use us. We might be able to upgrade your hull plating, your weapons. Couldn't hurt the next time you run into these Nausicaans. The sooner you're back at warp, the sooner that cargo you're hauling gets to where it's supposed to go."
+        }
+      ],
+      "location": "Fortunate Infirmary"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "SHAW",
+          "line": "You're letting them send over more people?"
+        },
+        {
+          "character": "RYAN",
+          "line": "A few engineers, that's all."
+        },
+        {
+          "character": "SHAW",
+          "line": "We can't have people crawling all over the place."
+        },
+        {
+          "character": "RYAN",
+          "line": "We'll keep them where they're supposed to be."
+        },
+        {
+          "character": "SHAW",
+          "line": "And what if they find him?"
+        },
+        {
+          "character": "RYAN",
+          "line": "What do you want me to do, throw him off the ship?"
+        },
+        {
+          "character": "RYAN",
+          "line": "Anything? Keep at it. I want those codes."
+        }
+      ],
+      "location": "Cargo module four"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TRAVIS",
+          "line": "Trip'll get a kick out of this, it's older than he is. The Quartermaster won't have anything like it but Engineering should be able to make one for you."
+        },
+        {
+          "character": "RYAN",
+          "line": "We've got our own machine shop."
+        },
+        {
+          "character": "TRAVIS",
+          "line": "I'm sure your guys have their hands full. We're happy to do it."
+        },
+        {
+          "character": "RYAN",
+          "line": "That's a transporter."
+        },
+        {
+          "character": "TRAVIS",
+          "line": "Enterprise came with all the trimmings."
+        },
+        {
+          "character": "RYAN",
+          "line": "I've read about them. Have you been through it?"
+        },
+        {
+          "character": "TRAVIS",
+          "line": "Not yet. Most of the crew is afraid, but I'm kind of curious to try it out."
+        },
+        {
+          "character": "RYAN",
+          "line": "They say that for a split second you can actually feel yourself in both places at once."
+        },
+        {
+          "character": "TRAVIS",
+          "line": "Why do you think I want to try it."
+        },
+        {
+          "character": "RYAN",
+          "line": "So you were on the Horizon?"
+        },
+        {
+          "character": "TRAVIS",
+          "line": "I was born on her, halfway between Draylax and Vega Colony."
+        },
+        {
+          "character": "RYAN",
+          "line": "How do your parents feel about you leaving?"
+        },
+        {
+          "character": "TRAVIS",
+          "line": "I've still got my sister and her husband aboard the Horizon, but I know my dad expected me to take over at some point."
+        },
+        {
+          "character": "RYAN",
+          "line": "Then why'd you leave?"
+        },
+        {
+          "character": "TRAVIS",
+          "line": "I had to figure out where I wanted to spend the rest of my life, and I was pretty sure it wasn't on the Draylax - Vega run. Besides, the Horizon didn't have transporters to play with."
+        }
+      ],
+      "location": "Corridor"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TUCKER",
+          "line": "These valve seals are shot. We'll have to synthesize some new ones. Give me about forty minutes. If you want, our resident boomer here can give you a tour."
+        },
+        {
+          "character": "RYAN",
+          "line": "Thanks. I've already seen most of the ship."
+        },
+        {
+          "character": "TUCKER",
+          "line": "You missed the best part. The only warp five engine in the fleet."
+        },
+        {
+          "character": "RYAN",
+          "line": "I've heard about it."
+        },
+        {
+          "character": "TUCKER",
+          "line": "Once they get installled in the next generation of freighters it'll change a whole lot of things."
+        },
+        {
+          "character": "TRAVIS",
+          "line": "Even with a warp three engine you'd be able to cut a five year cargo run down to six months."
+        },
+        {
+          "character": "RYAN",
+          "line": "Warp one point eight works just fine for us. Any faster and there'd be no time to enjoy the trip."
+        }
+      ],
+      "location": "Engineering"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TRAVIS",
+          "line": "Save room for dessert, home made ice-cream."
+        },
+        {
+          "character": "RYAN",
+          "line": "You eat this well all the time?"
+        },
+        {
+          "character": "TRAVIS",
+          "line": "Chef's the best in Starfleet. I heard the Captain had to call in a lot of favors to get him on board. It's good you stayed away from the resequenced meat loaf. They still haven't gotten that right."
+        },
+        {
+          "character": "RYAN",
+          "line": "Resequenced? This tastes real."
+        },
+        {
+          "character": "TRAVIS",
+          "line": "That's because it is."
+        },
+        {
+          "character": "RYAN",
+          "line": "You know the last time I had a steak? Eighteen months ago. All we've got left now are hydroponics and nutri-paks."
+        },
+        {
+          "character": "TRAVIS",
+          "line": "I remember those. What did we used to call them?"
+        },
+        {
+          "character": "BOTH",
+          "line": "Mystery meals."
+        },
+        {
+          "character": "TRAVIS",
+          "line": "My dad was a pretty good cook. He could do magical things with those nutri-paks."
+        },
+        {
+          "character": "RYAN",
+          "line": "When it was someone's birthday my mother would bake a cake. We knew batter than to ask what it was made of."
+        },
+        {
+          "character": "TRAVIS",
+          "line": "Didn't stop you from eating it."
+        },
+        {
+          "character": "RYAN",
+          "line": "Oh, no way."
+        },
+        {
+          "character": "TRAVIS",
+          "line": "Your parents on the Fortunate?"
+        },
+        {
+          "character": "RYAN",
+          "line": "No. They were on the North Star."
+        },
+        {
+          "character": "TRAVIS",
+          "line": "Were you on board?"
+        },
+        {
+          "character": "RYAN",
+          "line": "Yeah, I was one of the survivors. I went to the Fortunate after that."
+        },
+        {
+          "character": "TRAVIS",
+          "line": "I'm sorry."
+        },
+        {
+          "character": "RYAN",
+          "line": "Running freight is dangerous."
+        },
+        {
+          "character": "TRAVIS",
+          "line": "You ever think about doing something else?"
+        },
+        {
+          "character": "RYAN",
+          "line": "You mean join Starfleet?"
+        },
+        {
+          "character": "TRAVIS",
+          "line": "The food's not bad."
+        },
+        {
+          "character": "RYAN",
+          "line": "Was this premeditated? Buy me lunch and give me the recruiting pitch?"
+        },
+        {
+          "character": "TRAVIS",
+          "line": "No, but you've spent more time in space than most Starfleet Captains. There are three more NX class ships on the drawing boards. They're going to need experienced people."
+        },
+        {
+          "character": "RYAN",
+          "line": "If Starfleet gets all the good crews, who does that leave to run the freighters?"
+        },
+        {
+          "character": "TRAVIS",
+          "line": "Don't worry, not everybody's going to go."
+        },
+        {
+          "character": "RYAN",
+          "line": "You did."
+        },
+        {
+          "character": "TRAVIS",
+          "line": "You think leaving the Horizon was easy for me? That I just took off because I got tired of the food? That ship was my home."
+        },
+        {
+          "character": "RYAN",
+          "line": "So why'd you leave it? Why did you abandon your family."
+        },
+        {
+          "character": "TRAVIS",
+          "line": "Being in Starfleet is the best thing that ever happened to me. My parents weren't happy I left, but they respected my decision."
+        },
+        {
+          "character": "RYAN",
+          "line": "Did they? Or were they just saying what you wanted to hear so you wouldn't feel guilty. Commander Tucker should be done with my valve assembly by now. Thanks for lunch."
+        }
+      ],
+      "location": "Mess hall"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "BOY",
+          "line": "Come on."
+        },
+        {
+          "character": "T'POL",
+          "line": "Why is power being rerouted from internal sensors to the weapons systems?"
+        },
+        {
+          "character": "SHAW",
+          "line": "Maybe you didn't notice. We were in a battle."
+        },
+        {
+          "character": "T'POL",
+          "line": "The battle is over. I'll remove the bypass."
+        },
+        {
+          "character": "SHAW",
+          "line": "That's all right. You can just leave them."
+        },
+        {
+          "character": "BOY",
+          "line": "Ready or not, here I come. Have you seen Nadine?"
+        },
+        {
+          "character": "SHAW",
+          "line": "No."
+        },
+        {
+          "character": "BOY",
+          "line": "Have you seen Nadine?"
+        },
+        {
+          "character": "T'POL",
+          "line": "I'm sorry, I don't know which child is named Nadine."
+        },
+        {
+          "character": "NADINE",
+          "line": "Thanks."
+        },
+        {
+          "character": "T'POL",
+          "line": "I just told him the truth."
+        }
+      ],
+      "location": "Fortunate Corridor"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "T'POL",
+          "line": "T'Pol to Archer.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "ARCHER",
+          "line": "Go ahead."
+        },
+        {
+          "character": "T'POL",
+          "line": "The repairs are almost finished, Captain.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "ARCHER",
+          "line": "Acknowledged."
+        },
+        {
+          "character": "T'POL",
+          "line": "But there is something I need to speak to you about, in private.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "ARCHER",
+          "line": "Those engine parts Mister Tucker gave you working out okay?"
+        },
+        {
+          "character": "RYAN",
+          "line": "Some of the connections were off by a few microns, but they should be fine."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Good. Doctor Phlox tells me Captain Keene's condition is improving."
+        },
+        {
+          "character": "RYAN",
+          "line": "Well he's still unconscious but the burns are healing, thanks to your doctor."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Anything else we can do?"
+        },
+        {
+          "character": "RYAN",
+          "line": "Thanks, but we're anxious to get underway. Goodbye, Captain."
+        },
+        {
+          "character": "ARCHER",
+          "line": "There's one other question I'd like to ask you. Are there only humans on board your ship?"
+        },
+        {
+          "character": "RYAN",
+          "line": "I think one of the kids has a Teneebian skunk as a pet, if that's what you mean."
+        },
+        {
+          "character": "T'POL",
+          "line": "It isn't."
+        },
+        {
+          "character": "ARCHER",
+          "line": "T'Pol's scanner picked up a Nausicaan biosign."
+        },
+        {
+          "character": "RYAN",
+          "line": "Are you saying we've got a stowaway?"
+        },
+        {
+          "character": "ARCHER",
+          "line": "You know that's not what we're saying. Why don't you tell us what's going on over there."
+        },
+        {
+          "character": "RYAN",
+          "line": "Well, what are you talking about?"
+        },
+        {
+          "character": "T'POL",
+          "line": "My bioscans indicated this Nausicaan was injured."
+        },
+        {
+          "character": "RYAN",
+          "line": "Okay. Not that it's any of your business, but there is a Nausicaan aboard. He's my prisoner."
+        },
+        {
+          "character": "ARCHER",
+          "line": "What gives you the right to take prisoners?"
+        },
+        {
+          "character": "RYAN",
+          "line": "They have been attacking our ship for months, stealing our cargo. They nearly killed my Captain. Now what gives them the right to do that?"
+        },
+        {
+          "character": "ARCHER",
+          "line": "I want to see him."
+        },
+        {
+          "character": "RYAN",
+          "line": "And what would you do? Take him back to Nausicaa? They'd probably give him a medal."
+        },
+        {
+          "character": "ARCHER",
+          "line": "What do you plan to do with him?"
+        },
+        {
+          "character": "RYAN",
+          "line": "That is my business. Starfleet doesn't have any jurisdiction over what goes on aboard my ship."
+        },
+        {
+          "character": "ARCHER",
+          "line": "You're right, but there is one thing I do have jurisdiction over. Archer to Tucker."
+        },
+        {
+          "character": "TUCKER",
+          "line": "Go ahead, Captain.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "ARCHER",
+          "line": "I want you to remove all the spare parts and equipment you installled on the Fortunate."
+        },
+        {
+          "character": "TUCKER",
+          "line": "Sir?",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "ARCHER",
+          "line": "You heard me, Trip."
+        },
+        {
+          "character": "RYAN",
+          "line": "You wouldn't do that."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Watch me."
+        }
+      ],
+      "location": "Ready room"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "RYAN",
+          "line": "He's in there."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Where?"
+        },
+        {
+          "character": "RYAN",
+          "line": "He's tied up over there."
+        },
+        {
+          "character": "T'POL",
+          "line": "I'm reading one biosign, but it's not Nausicaan."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Don't do this."
+        },
+        {
+          "character": "REED",
+          "line": "Get down."
+        },
+        {
+          "character": "PHLOX",
+          "line": "Under the circumstances, I defer to your experience."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Ryan! You're making a big mistake. Go."
+        },
+        {
+          "character": "T'POL",
+          "line": "Captain, there's a breach."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Ryan!"
+        },
+        {
+          "character": "REED",
+          "line": "What was that?"
+        }
+      ],
+      "location": "Cargo Module 8"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TUCKER",
+          "line": "What the hell's going on over there?"
+        },
+        {
+          "character": "HOSHI",
+          "line": "There are four biosigns on the module. It's the away team."
+        },
+        {
+          "character": "TUCKER",
+          "line": "Tucker to Captain Archer."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TUCKER",
+          "line": "Are you all right?",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "ARCHER",
+          "line": "We're fine. I don't want the Fortunate leaving."
+        }
+      ],
+      "location": "Cargo Module 8"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TUCKER",
+          "line": "Understood. Hail them."
+        },
+        {
+          "character": "HOSHI",
+          "line": "No response."
+        },
+        {
+          "character": "TRAVIS",
+          "line": "They're charging weapons."
+        },
+        {
+          "character": "TUCKER",
+          "line": "Polarize the hull plating."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "T'POL",
+          "line": "The Fortunate has fired its weapons."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Trip, report."
+        },
+        {
+          "character": "TUCKER",
+          "line": "They're getting a little trigger-happy, sir. Stand by. Load starboard tubes three and four. Target their engines.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "TRAVIS",
+          "line": "Aye, sir.",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "Cargo Module 8"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TRAVIS",
+          "line": "They're jettisoning our pod. Their warp drive's coming online."
+        },
+        {
+          "character": "TUCKER",
+          "line": "Fire."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TUCKER",
+          "line": "Enterprise to Archer.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "ARCHER",
+          "line": "How're you doing, Trip?"
+        },
+        {
+          "character": "TUCKER",
+          "line": "We're okay, sir. We didn't take too much damage, but the Fortunate just went to warp.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "ARCHER",
+          "line": "Follow them."
+        },
+        {
+          "character": "T'POL",
+          "line": "Captain, considering our rate of decompression, I'd suggest Enterprise retrieve us as quickly as possible."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Belay that, Trip. Send a shuttlepod over here to pick us up. We've sprung a leak."
+        },
+        {
+          "character": "TUCKER",
+          "line": "On our way.",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "Cargo Module 8"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "REED",
+          "line": "We're trying to track their warp trail, but their plasma cannon knocked out our long range sensors."
+        },
+        {
+          "character": "ARCHER",
+          "line": "How long till they're back online?"
+        },
+        {
+          "character": "T'POL",
+          "line": "Mister Tucker says at least four hours."
+        },
+        {
+          "character": "TRAVIS",
+          "line": "We don't know where they are, but we know who they're looking for. The Nausicaans. Ryan's after revenge, sir."
+        },
+        {
+          "character": "T'POL",
+          "line": "A very primitive emotion, but it would explain his irrational behavior."
+        },
+        {
+          "character": "TRAVIS",
+          "line": "It's rational to him. Those pirates attacked his ship. That's his family. If we want to find the Fortunate, we need to find the Nausicaans."
+        }
+      ],
+      "location": "Situation room"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "RYAN",
+          "line": "The frequencies."
+        },
+        {
+          "character": "NAUSICAAN",
+          "line": "You're not very skilled at interrogation. I could give you some lessons."
+        },
+        {
+          "character": "RYAN",
+          "line": "Give me the frequencies."
+        },
+        {
+          "character": "NAUSICAAN",
+          "line": "You know my shipmates will come for me."
+        },
+        {
+          "character": "RYAN",
+          "line": "I'm counting on it."
+        }
+      ],
+      "location": "Cargo Module 4"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "RYAN",
+          "line": "That wasn't so difficult, was it."
+        },
+        {
+          "character": "SHAW",
+          "line": "You nearly killed him."
+        },
+        {
+          "character": "RYAN",
+          "line": "Remodulate the weapons."
+        },
+        {
+          "character": "SHAW",
+          "line": "What about the Nausicaan?"
+        },
+        {
+          "character": "RYAN",
+          "line": "Keep him locked up. We might still need him."
+        },
+        {
+          "character": "SHAW",
+          "line": "We've got what we wanted. Let's just get him off the ship."
+        },
+        {
+          "character": "RYAN",
+          "line": "How?"
+        },
+        {
+          "character": "SHAW",
+          "line": "An escape pod."
+        },
+        {
+          "character": "RYAN",
+          "line": "So his friends can pick him up and he can tell them to change their shield modulations? What was the point of all this?"
+        },
+        {
+          "character": "SHAW",
+          "line": "I've been asking myself the same question. We've always dealt with the Nausicaans without taking hostages or beating information out of them."
+        },
+        {
+          "character": "RYAN",
+          "line": "If we don't show them that we're serious, they're never going to leave us alone."
+        },
+        {
+          "character": "SHAW",
+          "line": "How would the Captain want us to handle this?"
+        },
+        {
+          "character": "RYAN",
+          "line": "I'm responsible for this ship now, and I need to know that you are going to help me do whatever it takes to protect her."
+        },
+        {
+          "character": "RYAN",
+          "line": "We've taken enough casualties. It's time we started inflicting some of our own. Captain's starlog, supplemental. We've picked up a faint warp trail that could be the Fortunate, but we don't know for sure until our long range sensors are back online."
+        }
+      ],
+      "location": "Fortunate corridor"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TUCKER",
+          "line": "Anything?"
+        },
+        {
+          "character": "TRAVIS",
+          "line": "No. Try bypassing circuit L-47."
+        },
+        {
+          "character": "CREWMAN",
+          "line": "Aye, sir."
+        },
+        {
+          "character": "TUCKER",
+          "line": "I don't know what's going on with that guy. I can understand taking on those pirates. I probably would have done the same thing. But firing on a Starfleet vessel? He's got a lot more than pirates to worry about now."
+        },
+        {
+          "character": "TRAVIS",
+          "line": "Never thought I'd see a Y-class running from any ship I was on. When I was growing up on the Horizon, anything that happened on board you handles yourself. If someone on the crew got into a fight, you just worked it out. You took care of your own. If Starfleet suddenly showed up and told my father what he could and couldn't do on his own ship?"
+        },
+        {
+          "character": "TUCKER",
+          "line": "Things are changing. Ryan's going to have to figure that out."
+        },
+        {
+          "character": "TRAVIS",
+          "line": "Maybe he already has and he just doesn't like it."
+        },
+        {
+          "character": "TUCKER",
+          "line": "Got it. Sensors are back online."
+        }
+      ],
+      "location": "Engineering"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "ARCHER",
+          "line": "Come in."
+        },
+        {
+          "character": "TRAVIS",
+          "line": "Do you have a minute, sir?"
+        },
+        {
+          "character": "ARCHER",
+          "line": "I think I can squeeze you in."
+        },
+        {
+          "character": "ARCHER",
+          "line": "What's on your mind, Travis?"
+        },
+        {
+          "character": "TRAVIS",
+          "line": "Permission to speak freely, sir?"
+        },
+        {
+          "character": "ARCHER",
+          "line": "Any time."
+        },
+        {
+          "character": "TRAVIS",
+          "line": "I'm worried that we're not handling the situation the right way."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Go on."
+        },
+        {
+          "character": "TRAVIS",
+          "line": "You know I'd never question your orders."
+        },
+        {
+          "character": "ARCHER",
+          "line": "You served on one of those freighters. I want to hear your opinion."
+        },
+        {
+          "character": "TRAVIS",
+          "line": "Maybe Ryan's right. Maybe this isn't any of our business. If he doesn't want our help, why force it on him."
+        },
+        {
+          "character": "ARCHER",
+          "line": "So you think we should just let Ryan take on the Nausicaans?"
+        },
+        {
+          "character": "TRAVIS",
+          "line": "Don't underestimate a freighter crew, sir. My father never ran into any trouble he couldn't handle himself, Nausicaans included."
+        },
+        {
+          "character": "ARCHER",
+          "line": "So what happens to the Nausicaans?"
+        },
+        {
+          "character": "TRAVIS",
+          "line": "Sir?"
+        },
+        {
+          "character": "ARCHER",
+          "line": "Suppose Ryan finds the ship that attacked him. Maybe it's been damaged and the Fortunate is more than a match for them. What do you think Ryan'll do?"
+        },
+        {
+          "character": "TRAVIS",
+          "line": "He'd probably try to blow them out of the sky."
+        },
+        {
+          "character": "ARCHER",
+          "line": "I don't know about you, Travis, but that doesn't sit right with me. Human beings have a code of behavior that applies whether they're Starfleet officers or space boomers, and it isn't driven by revenge. Just because someone isn't born on Earth doesn't make him any less human."
+        },
+        {
+          "character": "TRAVIS",
+          "line": "You're right, sir. I suppose I should understand that more than anyone."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Any other orders of mine you'd like to question?"
+        },
+        {
+          "character": "TRAVIS",
+          "line": "Not today, sir. Thank you, sir."
+        }
+      ],
+      "location": "Ready room"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "RYAN",
+          "line": "Are you sure?"
+        },
+        {
+          "character": "SHAW",
+          "line": "I've seen that hull signature enough times."
+        },
+        {
+          "character": "RYAN",
+          "line": "The new shield frequencies?"
+        },
+        {
+          "character": "SHAW",
+          "line": "Loaded and standing by."
+        },
+        {
+          "character": "RYAN",
+          "line": "Bring the cannons online, drop out of warp."
+        },
+        {
+          "character": "SHAW",
+          "line": "They're just sitting there, a hundred kilometers ahead near a small asteroid."
+        },
+        {
+          "character": "RYAN",
+          "line": "Put it on the viewer."
+        },
+        {
+          "character": "RYAN",
+          "line": "They've seen us. Lay in an intercept course. Full impulse."
+        },
+        {
+          "character": "SHAW",
+          "line": "We're closing. Twenty kilometers. They're firing. The hull plating is holding."
+        },
+        {
+          "character": "RYAN",
+          "line": "Can you get a weapons lock?"
+        },
+        {
+          "character": "SHAW",
+          "line": "We're out of range."
+        },
+        {
+          "character": "RYAN",
+          "line": "Then get us into range."
+        },
+        {
+          "character": "SHAW",
+          "line": "Ten kilometers, nine. Cannons locked on target."
+        },
+        {
+          "character": "RYAN",
+          "line": "Return fire."
+        },
+        {
+          "character": "SHAW",
+          "line": "They've gone behind the asteroid. I've lost the lock."
+        },
+        {
+          "character": "RYAN",
+          "line": "This must be where they offload stolen cargo."
+        },
+        {
+          "character": "SHAW",
+          "line": "I'm getting us out of here."
+        },
+        {
+          "character": "RYAN",
+          "line": "Hold your course."
+        },
+        {
+          "character": "SHAW",
+          "line": "Ryan!"
+        },
+        {
+          "character": "RYAN",
+          "line": "We still have their shield frequencies. Lock weapons on the first ship and fire."
+        },
+        {
+          "character": "RYAN",
+          "line": "Again."
+        },
+        {
+          "character": "SHAW",
+          "line": "No effect."
+        },
+        {
+          "character": "RYAN",
+          "line": "Are you sure you programd the right frequencies?"
+        },
+        {
+          "character": "SHAW",
+          "line": "I used the ones he gave us."
+        },
+        {
+          "character": "RYAN",
+          "line": "Go to warp!"
+        },
+        {
+          "character": "SHAW",
+          "line": "The reactor is offline."
+        },
+        {
+          "character": "RYAN",
+          "line": "Full impulse, then. Hull plating to maximum."
+        },
+        {
+          "character": "SHAW",
+          "line": "We've lost impulse. They're hailing us."
+        },
+        {
+          "character": "NAUSICAAN 2",
+          "line": "Our scans show you have one of our crewmen aboard. I assume you're here to return him.",
+          "modifier": "screen"
+        },
+        {
+          "character": "RYAN",
+          "line": "He's our prisoner."
+        },
+        {
+          "character": "NAUSICAAN 2",
+          "line": "He won't be for long.",
+          "modifier": "screen"
+        },
+        {
+          "character": "SHAW",
+          "line": "They've latched onto us."
+        }
+      ],
+      "location": "Fortunate Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "T'POL",
+          "line": "Captain, long range sensors are detecting weapons fire."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Who's doing the shooting?"
+        },
+        {
+          "character": "REED",
+          "line": "It's difficult to be sure at this distance, sir. Looks like some kind of plasma diskharge. I can't rule out our boomer friends."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Lay in a course."
+        },
+        {
+          "character": "TRAVIS",
+          "line": "Aye, sir."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "SHAW",
+          "line": "They're in the access corridor, section D."
+        },
+        {
+          "character": "RYAN",
+          "line": "How many?"
+        },
+        {
+          "character": "SHAW",
+          "line": "Three."
+        },
+        {
+          "character": "RYAN",
+          "line": "Pass out weapons."
+        },
+        {
+          "character": "SHAW",
+          "line": "We know what they're after. Why not just let them have him>"
+        },
+        {
+          "character": "RYAN",
+          "line": "We fought them off before, we can do it again."
+        },
+        {
+          "character": "SHAW",
+          "line": "It was one ship, not three."
+        },
+        {
+          "character": "RYAN",
+          "line": "Weapons."
+        }
+      ],
+      "location": "Fortunate Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "SHAW",
+          "line": "We should pull back."
+        }
+      ],
+      "location": "Section D corridor"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "REED",
+          "line": "It's the Fortunate, sir, and three smaller ships."
+        },
+        {
+          "character": "T'POL",
+          "line": "Nausicaans."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Polarize the hull plating. Drop us out of warp. Are we in range?"
+        },
+        {
+          "character": "HOSHI",
+          "line": "Two hundred thousand kilometers ahead."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Put it up."
+        },
+        {
+          "character": "T'POL",
+          "line": "There are four Nausicaan biosigns on board the Fortunate and I'm detecting weapon diskharges."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Hail the Nausicaans."
+        },
+        {
+          "character": "HOSHI",
+          "line": "Which ship, sir?"
+        },
+        {
+          "character": "ARCHER",
+          "line": "Lets see who answers."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "SHAW",
+          "line": "We'd better get him to the infirmary."
+        },
+        {
+          "character": "RYAN",
+          "line": "He's going to be okay."
+        },
+        {
+          "character": "NAUSICAAN",
+          "line": "I told you they'd come for me."
+        },
+        {
+          "character": "RYAN",
+          "line": "Shut up."
+        }
+      ],
+      "location": "Cargo Module 4"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "NAUSICAAN 2",
+          "line": "We're involved in a rescue operation.",
+          "modifier": "screen"
+        },
+        {
+          "character": "ARCHER",
+          "line": "There's a lot of firing going on for a rescue."
+        },
+        {
+          "character": "NAUSICAAN 2",
+          "line": "We want our crewman back.",
+          "modifier": "screen"
+        },
+        {
+          "character": "TRAVIS",
+          "line": "He wouldn't be there if you hadn't attacked them in the first place."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Perhaps we have an opportunity here to improve relations between your people and mine."
+        },
+        {
+          "character": "NAUSICAAN 2",
+          "line": "We're happy with our relations the way they are.",
+          "modifier": "screen"
+        },
+        {
+          "character": "ARCHER",
+          "line": "I have a proposal for you. We'll get your man back and then you'll let the Fortunate continue on her way."
+        },
+        {
+          "character": "NAUSICAAN 2",
+          "line": "You're facing three of my ships. We are not interested in your proposals.",
+          "modifier": "screen"
+        },
+        {
+          "character": "ARCHER",
+          "line": "We've scanned your ships. Mister Reed."
+        },
+        {
+          "character": "REED",
+          "line": "Fore and aft plasma cannons. I doubt those shields of theirs would hold up to our torpedoes."
+        },
+        {
+          "character": "ARCHER",
+          "line": "You're not sneaking up on an old freighter this time. This is an NX Class Starship. Take a good look, because you'll be seeing more of them. Now, you can reconsider my offer or you can take your chances."
+        },
+        {
+          "character": "NAUSICAAN 2",
+          "line": "If you think you can convince them to return our crewman, do it quickly. Otherwise we'll be forced to take our chances.",
+          "modifier": "screen"
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "ARCHER",
+          "line": "Enterprise to Ryan. This is Jonathan Archer. We're ten thousand meters off your starboard bow. I know you can hear me. Why don't you think about what's best for your crew and let us help you?",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "RYAN",
+          "line": "What a relief. Starfleet's come to save the day."
+        },
+        {
+          "character": "ARCHER",
+          "line": "I've spoken",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "Cargo Module 4"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "ARCHER",
+          "line": "To the Nausicaan Captain. He's willing to let the Fortunate go if you turn over his crewman."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "RYAN",
+          "line": "What, and you believe him? You believe they're just going to let us fly away?"
+        },
+        {
+          "character": "ARCHER",
+          "line": "I've got an armory of torpedoes that will make sure they do.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "RYAN",
+          "line": "What about next time, when another freighter gets jumped"
+        }
+      ],
+      "location": "Cargo Module 4"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "RYAN",
+          "line": "In the middle of nowhere. What then?",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "ARCHER",
+          "line": "You've got a chance to stop this before anyone else gets hurt."
+        },
+        {
+          "character": "RYAN",
+          "line": "I'm dealing with them the only way they understand.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "REED",
+          "line": "One of the Nausicaan ships has locked weapons on us, sir."
+        },
+        {
+          "character": "ARCHER",
+          "line": "This has gone on long enough. Now you're putting my crew in danger. Release that hostage."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "RYAN",
+          "line": "He's my prisoner, and I'm going to handle"
+        }
+      ],
+      "location": "Cargo Module 4"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "RYAN",
+          "line": "This in my way.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "TRAVIS",
+          "line": "What are you going to do, kill him?"
+        },
+        {
+          "character": "RYAN",
+          "line": "Oh, you again.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "TRAVIS",
+          "line": "Sir, with your permission. You think killing one of them is going to accomplish anything?"
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "RYAN",
+          "line": "What, your Captain decide a little boomer to boomer talk would persuade me?"
+        },
+        {
+          "character": "TRAVIS",
+          "line": "Just shut up and listen to me. I don't give a damn about you any more.",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "Cargo Module 4"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TRAVIS",
+          "line": "I'm just thinking about my family."
+        },
+        {
+          "character": "RYAN",
+          "line": "What have they got to do with this?",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "TRAVIS",
+          "line": "What's going to happen to the next freighter that runs into the Nausicaans? What if it's the Horizon and they have to pay the price for your"
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TRAVIS",
+          "line": "Stubborn stupidity.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "RYAN",
+          "line": "I'm doing this for them."
+        }
+      ],
+      "location": "Cargo Module 4"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TRAVIS",
+          "line": "The hell you are! This isn't about protecting cargo ships."
+        },
+        {
+          "character": "RYAN",
+          "line": "That is just what it's about.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "TRAVIS",
+          "line": "Don't kid yourself into thinking you're doing this for some greater good. This is about revenge, nothing else."
+        },
+        {
+          "character": "REED",
+          "line": "The Nausicaan ships are firing, sir."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Return fire. Starboard tubes three and four."
+        },
+        {
+          "character": "TRAVIS",
+          "line": "You don't like me because I left the Horizon to join Starfleet. You're afraid that if more people do that there won't be anyone left to run the freighters. Maybe you're right"
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TRAVIS",
+          "line": "Maybe not. But if you don't let your hostage go",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "Cargo Module 4"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TRAVIS",
+          "line": "The Nausicaans are going to kill you and your crew."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Port tubes one and two, fire."
+        },
+        {
+          "character": "TRAVIS",
+          "line": "And then there'll be twenty three fewer people out there to run those freighters."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TRAVIS",
+          "line": "No maybes.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "RYAN",
+          "line": "Hold your fire! Take him."
+        }
+      ],
+      "location": "Cargo Module 4"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "REED",
+          "line": "The Nausicaans are powering down their weapons. They're moving off, sir."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "ARCHER",
+          "line": "Need a hand?"
+        },
+        {
+          "character": "KEENE",
+          "line": "Just a little stiff. Thank your doctor for me. I've got some Drilaxian whisky stashed away, if you'd like to join me."
+        },
+        {
+          "character": "ARCHER",
+          "line": "I'm on duty."
+        },
+        {
+          "character": "KEENE",
+          "line": "Too bad. If you've never had it, you're missing one of the galaxy's real pleasures. I'm reducing Mister Ryan's rank to Able Crewman. He gets to spend the rest of the trip purging hydraulic pumps."
+        },
+        {
+          "character": "ARCHER",
+          "line": "If you think he's going to be a problem, we could take him back to Earth."
+        },
+        {
+          "character": "KEENE",
+          "line": "No, we take care of our own. Besides, that would leave me a man short."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Understood."
+        },
+        {
+          "character": "KEENE",
+          "line": "I made him my first officer because I trusted him with my ship. It's going to take him quite a while to earn that back."
+        },
+        {
+          "character": "ARCHER",
+          "line": "His intentions were good, but someone should teach him to accept help when it's offered."
+        },
+        {
+          "character": "KEENE",
+          "line": "The ones that grew up out here feel they have some special claim, that this particular stretch of space is theirs. They see another ship within ten light years, they get jumpy."
+        },
+        {
+          "character": "ARCHER",
+          "line": "They're going to be seeing a lot more ships than they're used to."
+        },
+        {
+          "character": "KEENE",
+          "line": "The ships get faster. It's progress, I suppose. My family's been on the Fortunate for three generations. Now, I'm going to need at least a warp three engine to stay in business."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Maybe that's not so bad. At warp three, help's a lot closer than before. You won't have to go it alone."
+        },
+        {
+          "character": "KEENE",
+          "line": "Going it alone's all I've ever done, and for some of us it's the reason we're out here. A chance to prove ourselves."
+        },
+        {
+          "character": "ARCHER",
+          "line": "I think you've already done that."
+        },
+        {
+          "character": "KEENE",
+          "line": "Well, we'll adapt, we always have, but things just won't be the same."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Good luck."
+        },
+        {
+          "character": "KEENE",
+          "line": "Sure you won't join me for that drink?"
+        },
+        {
+          "character": "ARCHER",
+          "line": "Thanks, but my crew's anxious to get underway. Next time."
+        }
+      ],
+      "location": "Fortunate Infirmary"
+    }
+  ],
+  "schedule": {
+    "episode": 10,
+    "number": 10,
+    "season": 1
+  },
+  "stardate": "Unknown",
+  "title": "Fortunate Son"
+}

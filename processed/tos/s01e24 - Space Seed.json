@@ -1,0 +1,1559 @@
+{
+  "airdate": -90691200,
+  "scenes": [
+    {
+      "dialogue": [
+        {
+          "character": "SPINELLI",
+          "line": "Coming up on it fast, sir."
+        },
+        {
+          "character": "KIRK",
+          "line": "Are you certain of your sensor readings?"
+        },
+        {
+          "character": "SPOCK",
+          "line": "Definitely a space vessel of some type."
+        },
+        {
+          "character": "KIRK",
+          "line": "Origin?"
+        },
+        {
+          "character": "SPOCK",
+          "line": "Unknown. It could hardly be an Earth ship. There have been no flights into this sector for years."
+        },
+        {
+          "character": "UHURA",
+          "line": "I'm picking up a signal, sir. Captain, that's the old Morse code call signal."
+        },
+        {
+          "character": "KIRK",
+          "line": "Thank you."
+        },
+        {
+          "character": "UHURA",
+          "line": "CQ. CQ."
+        },
+        {
+          "character": "KIRK",
+          "line": "We're reading it, Lieutenant. I thought you said it couldn't possibly be an Earth vessel."
+        },
+        {
+          "character": "SPOCK",
+          "line": "I fail to understand why it always gives you pleasure to see me proven wrong."
+        },
+        {
+          "character": "KIRK",
+          "line": "An emotional Earth weakness of mine. There it is."
+        },
+        {
+          "character": "KIRK",
+          "line": "An old Earth vessel, similar to the DY=500 class."
+        },
+        {
+          "character": "SPOCK",
+          "line": "Much older. DY-100 class, to be exact. Captain, the last such vessel was built centuries ago, back in the 1990s."
+        },
+        {
+          "character": "KIRK",
+          "line": "Then it's a derelict, its signal left on automatic."
+        },
+        {
+          "character": "SPOCK",
+          "line": "Or an old Earth ship being used by aliens."
+        },
+        {
+          "character": "KIRK",
+          "line": "Weapons status."
+        },
+        {
+          "character": "WEAPONS",
+          "line": "Deflector shields on maximum. Phasers manned, sir.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "KIRK",
+          "line": "Bioscanners report."
+        },
+        {
+          "character": "MCCOY",
+          "line": "Life science bioscanners are picking up heart beats from over there. Can't be human, though. They're too faint, and average only four beats per minute.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "SPOCK",
+          "line": "Sensor reading, Captain. Some sort of equipment functioning on that vessel."
+        },
+        {
+          "character": "KIRK",
+          "line": "All decks go to full alert. (Enterprise comes alongside the smaller ship, which is still as big as the engineering hull."
+        },
+        {
+          "character": "KIRK",
+          "line": "Captain's log, stardate 3141.9. A full hour has elapsed since interception of the strange vessel. Our presence alongside is still being completely ignored. Although our sensors continue to show signs of equipment and life aboard, there has been no indication of danger to us.",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "KIRK",
+          "line": "Weapons department, maintain battle stations. All other decks standby alert."
+        },
+        {
+          "character": "UHURA",
+          "line": "All decks acknowledging, sir."
+        },
+        {
+          "character": "MCCOY",
+          "line": "We're continuing to pick up some form of heart action over there. Very faint, very slow. Seems to be coming from about sixty or seventy bodies, as near as I can tell."
+        },
+        {
+          "character": "KIRK",
+          "line": "Alien bodies, Bones?"
+        },
+        {
+          "character": "MCCOY",
+          "line": "Could be. There's no sign of breathing or other form of respiration."
+        },
+        {
+          "character": "SPOCK",
+          "line": "Hull surface is pitted with meteor scars. However, scanners make out a name. SS Botany Bay."
+        },
+        {
+          "character": "KIRK",
+          "line": "Then you can check the registry."
+        },
+        {
+          "character": "SPOCK",
+          "line": "No such vessel listed. Records of that period are fragmentary, however. The mid=1990s was the era of your last so-called World War."
+        },
+        {
+          "character": "MCCOY",
+          "line": "The Eugenics Wars."
+        },
+        {
+          "character": "SPOCK",
+          "line": "Of course. Your attempt to improve the race through selective breeding."
+        },
+        {
+          "character": "MCCOY",
+          "line": "Now, wait a minute. Not our attempt, Mister Spock. A group of ambitious scientists. I'm sure you know the type. Devoted to logic, completely unemotional"
+        },
+        {
+          "character": "KIRK",
+          "line": "All right, all right, gentlemen. As you were. Rig for tractor beam, Helm. Lock onto that vessel."
+        },
+        {
+          "character": "SPINELLI",
+          "line": "Rigging for tractor beam, sir."
+        },
+        {
+          "character": "KIRK",
+          "line": "The Bridge is yours, Mister Spock. Care to join the landing party, Doctor?"
+        },
+        {
+          "character": "MCCOY",
+          "line": "Well, if you're actually giving me a choice"
+        },
+        {
+          "character": "KIRK",
+          "line": "I'm not. Oh, I'll need somebody familiar with the late 20th-Century Earth. Here's a chance for that historian to do something for a change. What's her name? McIvers?"
+        },
+        {
+          "character": "SPOCK",
+          "line": "Lieutenant McGivers."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "SPOCK",
+          "line": "Attention. The following personnel report to transporter room. Engineering Officer Scott, Lieutenant McGivers. Acknowledge.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "MARLA",
+          "line": "McGivers. On my way."
+        }
+      ],
+      "location": "McGiver's quarters"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "SCOTT",
+          "line": "Well, it looks like that ship was expecting us. We read heat coming on, complete oxygen atmosphere."
+        },
+        {
+          "character": "KIRK",
+          "line": "Very interesting. You ready, Bones?"
+        },
+        {
+          "character": "MCCOY",
+          "line": "No. I signed aboard this ship to practice medicine, not to have my atoms scattered back and forth across space by this gadget."
+        },
+        {
+          "character": "KIRK",
+          "line": "You're an old-fashioned boy, McCoy. Where's that historian? Come on, Lieutenant"
+        },
+        {
+          "character": "MARLA",
+          "line": "McGivers, sir."
+        },
+        {
+          "character": "KIRK",
+          "line": "Energize."
+        }
+      ],
+      "location": "Transporter room"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "KIRK",
+          "line": "Scotty?"
+        },
+        {
+          "character": "SCOTT",
+          "line": "Definitely Earth-type mechanism, sir. Twentieth century vessel. Old type atomic power. Bulky, solid. I think they used to call them transistor units. I'd love to tear this baby apart."
+        },
+        {
+          "character": "MARLA",
+          "line": "Captain, it's a sleeper ship."
+        },
+        {
+          "character": "KIRK",
+          "line": "Suspended animation."
+        },
+        {
+          "character": "MARLA",
+          "line": "I've seen old photographs of this. Necessary because of the time involved in space travel until about the year 2018. It took years just to travel from one planet to another."
+        },
+        {
+          "character": "KIRK",
+          "line": "Is it possible they're still alive after centuries of travel?"
+        },
+        {
+          "character": "MCCOY",
+          "line": "It's theoretically possible. I've never heard of it being tested for this long a period."
+        },
+        {
+          "character": "MARLA",
+          "line": "What a handsome group of people."
+        },
+        {
+          "character": "MCCOY",
+          "line": "Jim, I have a new reading. The lights must have triggered some mechanism."
+        },
+        {
+          "character": "MARLA",
+          "line": "Captain, look here."
+        },
+        {
+          "character": "KIRK",
+          "line": "Scotty?"
+        },
+        {
+          "character": "SCOTT",
+          "line": "Beats me what's happening."
+        },
+        {
+          "character": "MCCOY",
+          "line": "We've triggered something, all right. His heart beat's increasing. Now passing eight beats per minute. There are some signs of respiration beginning."
+        },
+        {
+          "character": "SCOTT",
+          "line": "This one was probably programd to be triggered first."
+        },
+        {
+          "character": "KIRK",
+          "line": "Could he be the leader? The leader. Lieutenant?"
+        },
+        {
+          "character": "MARLA",
+          "line": "Yes, sir. The leader was often set to revive first. This would allow him to decide whether the conditions warranted revival of the others."
+        },
+        {
+          "character": "MCCOY",
+          "line": "Heart beat now approaching forty per minute. The respiration pattern is firming up."
+        },
+        {
+          "character": "MARLA",
+          "line": "From the northern India area, I'd guess. Probably a Sikh. They were the most fantastic warriors."
+        },
+        {
+          "character": "MCCOY",
+          "line": "Heart beat now fifty two and increasing."
+        },
+        {
+          "character": "KIRK",
+          "line": "The others?"
+        },
+        {
+          "character": "SCOTT",
+          "line": "There's no change, and they're mixed types. Western, mid-European, Latin, Oriental."
+        },
+        {
+          "character": "MARLA",
+          "line": "A man from the twentieth century coming alive."
+        },
+        {
+          "character": "MCCOY",
+          "line": "Maybe. Heart beat dropping."
+        },
+        {
+          "character": "KIRK",
+          "line": "Circuit shorting."
+        },
+        {
+          "character": "SCOTT",
+          "line": "Probably some dust."
+        },
+        {
+          "character": "MCCOY",
+          "line": "Heartbeat now thirty, dropping fast. It's a heart flutter. He's dying."
+        },
+        {
+          "character": "MARLA",
+          "line": "Do something, Captain."
+        },
+        {
+          "character": "KIRK",
+          "line": "Can we?"
+        },
+        {
+          "character": "SCOTT",
+          "line": "It'd take an hour to figure it out."
+        },
+        {
+          "character": "KIRK",
+          "line": "What happens if we get him out of there?"
+        },
+        {
+          "character": "MCCOY",
+          "line": "He'll die in seconds if we don't."
+        },
+        {
+          "character": "KHAN",
+          "line": "How long?"
+        },
+        {
+          "character": "KIRK",
+          "line": "How long have you been sleeping? Two centuries we estimate. Landing party to Enterprise. Come in."
+        },
+        {
+          "character": "UHURA",
+          "line": "Go ahead, boarding party. We read you."
+        },
+        {
+          "character": "KIRK",
+          "line": "Lock in on McCoy's beam. He's transporting back with a casualty we diskovered here."
+        },
+        {
+          "character": "MARLA",
+          "line": "Magnificent."
+        },
+        {
+          "character": "KIRK",
+          "line": "Captain's log, supplemental. Alongside the SS Botany Bay for ten hours now. A boarding party of engineering and medical specialists are now completing their examination of the mysterious vessel. Attempts to revive other sleepers await our success or failure with the casualty already beamed over. Doctor McCoy is frankly amazed at his physical and recuperative power.",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "SS Botany Bay"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "KIRK",
+          "line": "Kirk to boarding party."
+        },
+        {
+          "character": "SCOTT",
+          "line": "Scott here.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "KIRK",
+          "line": "Scotty, any records, log books of any kind?"
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "SCOTT",
+          "line": "Negative, Captain. It appears they were in suspended animation when the ship took off."
+        },
+        {
+          "character": "KIRK",
+          "line": "How many alive?"
+        },
+        {
+          "character": "SCOTT",
+          "line": "Twelve units have malfunctioned, leaving seventy two still operating. Thirty of those are women.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "KIRK",
+          "line": "Kirk out. Seventy two alive. A group of people dating back to the 1990s. A diskovery of some importance, Mister Spock. There are a great many unanswered questions about those years."
+        },
+        {
+          "character": "SPOCK",
+          "line": "A strange, violent period in your history. I find no record what so ever of an SS Botany Bay. Captain, the DY-100 class vessel was designed for interplanetary travel only. With simple nuclear-powered engines, star travel was considered impractical at that time. It was ten thousand to one against their making it to another star system. And why no record of the trip?"
+        },
+        {
+          "character": "KIRK",
+          "line": "Botany Bay. That was the name of a penal colony on shores of Australia, wasn't it? If they took that name for their vessel"
+        },
+        {
+          "character": "SPOCK",
+          "line": "If you're suggesting this was a penal deportation vessel, you've arrived at a totally illogical conclusion."
+        },
+        {
+          "character": "KIRK",
+          "line": "Oh?"
+        },
+        {
+          "character": "SPOCK",
+          "line": "Your Earth was on the verge of a dark ages. Whole populations were being bombed out of existence. A group of criminals could have been dealt with far more efficiently than wasting one of their most advanced spaceships."
+        },
+        {
+          "character": "KIRK",
+          "line": "Yes. So much for my theory. I'm still waiting to hear yours."
+        },
+        {
+          "character": "SPOCK",
+          "line": "Even a theory requires some facts, Captain. So far I have none."
+        },
+        {
+          "character": "KIRK",
+          "line": "And that irritates you, Mister Spock."
+        },
+        {
+          "character": "SPOCK",
+          "line": "Irritation?"
+        },
+        {
+          "character": "KIRK",
+          "line": "Yeah."
+        },
+        {
+          "character": "SPOCK",
+          "line": "I am not capable of that emotion."
+        },
+        {
+          "character": "KIRK",
+          "line": "My apologies, Mister Spock. You suspect some danger in them?"
+        },
+        {
+          "character": "SPOCK",
+          "line": "Insufficient facts always invites danger, Captain."
+        },
+        {
+          "character": "KIRK",
+          "line": "Well, we'd better get some facts. Rig for towing."
+        },
+        {
+          "character": "SPINELLI",
+          "line": "Aye, aye, sir."
+        },
+        {
+          "character": "KIRK",
+          "line": "Make course for Starbase Twelve."
+        },
+        {
+          "character": "SPOCK",
+          "line": "Aye, sir."
+        }
+      ],
+      "location": "SS Botany Bay"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "MCCOY",
+          "line": "That'll be all."
+        },
+        {
+          "character": "KIRK",
+          "line": "Bones?"
+        },
+        {
+          "character": "MCCOY",
+          "line": "He'll live."
+        },
+        {
+          "character": "KIRK",
+          "line": "My compliments."
+        },
+        {
+          "character": "MCCOY",
+          "line": "No, I'm good, but not that good. There's something inside this man that refuses to accept death. Look at that. Even as he is now, his heart valve action has twice the power of yours and mine. Lung efficiency is fifty percent better."
+        },
+        {
+          "character": "KIRK",
+          "line": "An improved breed of human. That's what the Eugenics War was all about."
+        },
+        {
+          "character": "MCCOY",
+          "line": "I'd estimate he could lift us both with one arm. It will be interesting to see if his brain matches his body."
+        },
+        {
+          "character": "MARLA",
+          "line": "Doctor, will he live?"
+        },
+        {
+          "character": "MCCOY",
+          "line": "It appears he will, Lieutenant."
+        },
+        {
+          "character": "KIRK",
+          "line": "I'd like to talk to you."
+        },
+        {
+          "character": "KIRK",
+          "line": "If I were to rate your performance as a member of the landing party today I"
+        },
+        {
+          "character": "MARLA",
+          "line": "I know, sir. I'm sorry."
+        },
+        {
+          "character": "KIRK",
+          "line": "Lieutenant, at any one time, the safety of this entire vessel might depend upon the performance of a single crewman, and the fact that you find a man strangely compelling to you personally"
+        },
+        {
+          "character": "MARLA",
+          "line": "Not personally, Captain. Professionally. My profession is historian, and when I find a specimen from the past alive, I'm in the sheer delight of examining his mind."
+        },
+        {
+          "character": "KIRK",
+          "line": "And men were more adventuresome then. Bolder, more colorful."
+        },
+        {
+          "character": "MARLA",
+          "line": "Yes, sir, I think they were."
+        },
+        {
+          "character": "KIRK",
+          "line": "Good. If I can have honesty, it's easier to overlook mistakes. That's all."
+        },
+        {
+          "character": "MARLA",
+          "line": "Yes, sir."
+        },
+        {
+          "character": "MCCOY",
+          "line": "A pity you wasted your life on command, Jim. You'd have made a fair psychologist."
+        },
+        {
+          "character": "KIRK",
+          "line": "Fair?"
+        },
+        {
+          "character": "MCCOY",
+          "line": "Sickbay to lab. Anything new on those bios?"
+        },
+        {
+          "character": "LAB TECH",
+          "line": "They all came out fine, Doctor.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "MCCOY",
+          "line": "Good. McCoy out."
+        },
+        {
+          "character": "MCCOY",
+          "line": "Well, either choke me or cut my throat. Make up your mind."
+        },
+        {
+          "character": "KHAN",
+          "line": "English. I thought I dreamed hearing it. Where am I?"
+        },
+        {
+          "character": "MCCOY",
+          "line": "You're in You're in bed, holding a knife at your doctor's throat."
+        },
+        {
+          "character": "KHAN",
+          "line": "Answer my question."
+        },
+        {
+          "character": "MCCOY",
+          "line": "It would be most effective if you would cut the carotid artery, just under the left ear."
+        },
+        {
+          "character": "KHAN",
+          "line": "I like a brave man."
+        },
+        {
+          "character": "MCCOY",
+          "line": "I was simply trying to avoid an argument. You're aboard the United Spaceship Enterprise. Your vessel is in tow."
+        },
+        {
+          "character": "KHAN",
+          "line": "I remember a voice. Did I hear it say I had been sleeping for two centuries?"
+        },
+        {
+          "character": "MCCOY",
+          "line": "That is correct."
+        },
+        {
+          "character": "KHAN",
+          "line": "Where is your Captain? I have many questions."
+        },
+        {
+          "character": "KIRK",
+          "line": "Bridge.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "MCCOY",
+          "line": "I have a patient here with many questions, Captain."
+        },
+        {
+          "character": "KIRK",
+          "line": "On my way.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "KIRK",
+          "line": "James Kirk, commanding the starship Enterprise."
+        },
+        {
+          "character": "KHAN",
+          "line": "I see."
+        },
+        {
+          "character": "KIRK",
+          "line": "And your name?"
+        },
+        {
+          "character": "KHAN",
+          "line": "I have a few questions first. What is your heading?"
+        },
+        {
+          "character": "KIRK",
+          "line": "Our heading is Starbase Twelve, a planet in the Gamma 400 star system. Our command base in this sector. Is that of any use to you?"
+        },
+        {
+          "character": "KHAN",
+          "line": "And my people?"
+        },
+        {
+          "character": "KIRK",
+          "line": "Seventy two of your life-support canisters are still functioning."
+        },
+        {
+          "character": "KHAN",
+          "line": "You will revive them."
+        },
+        {
+          "character": "KIRK",
+          "line": "As soon as we reach Starbase Twelve."
+        },
+        {
+          "character": "KHAN",
+          "line": "I see."
+        },
+        {
+          "character": "KIRK",
+          "line": "And now"
+        },
+        {
+          "character": "KHAN",
+          "line": "Khan is my name."
+        },
+        {
+          "character": "KIRK",
+          "line": "Khan. Nothing else?"
+        },
+        {
+          "character": "KHAN",
+          "line": "Khan."
+        },
+        {
+          "character": "KIRK",
+          "line": "What was the exact date of your lift off? We know it was sometime in the early 1990s, but"
+        },
+        {
+          "character": "KHAN",
+          "line": "I find myself growing fatigued, Doctor. May we continue this questioning at some other time?"
+        },
+        {
+          "character": "KIRK",
+          "line": "The facts I need, Mister Khan, will take very little time. For example, the nature of your expedition."
+        },
+        {
+          "character": "MCCOY",
+          "line": "Jim. A little later might be better."
+        },
+        {
+          "character": "KHAN",
+          "line": "Captain, I wonder if I could have something to read during my convalescence. I was once an engineer of sorts. I would be most interested in studying the technical manuals on your vessel."
+        },
+        {
+          "character": "KIRK",
+          "line": "Yes, I understand. You have two hundred years of catching up to do."
+        },
+        {
+          "character": "KHAN",
+          "line": "Precisely."
+        },
+        {
+          "character": "KIRK",
+          "line": "They're available to any patient on the viewing screen. Doctor McCoy will show you how to tie into the library tapes."
+        },
+        {
+          "character": "KHAN",
+          "line": "Thank you, Captain. You are very co-operative."
+        }
+      ],
+      "location": "Sickbay - medical ward"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "KIRK",
+          "line": "This Khan is not what I expected of a twentieth century man."
+        },
+        {
+          "character": "SPOCK",
+          "line": "I note he's making considerable use of our technical library."
+        },
+        {
+          "character": "KIRK",
+          "line": "Common courtesy, Mister Spock. He'll spend the rest of his days in our time. It's only decent to help him catch up. Would you estimate him to be a product of selective breeding?"
+        },
+        {
+          "character": "SPOCK",
+          "line": "There is that possibility, Captain. His age would be correct. In 1993, a group of these young supermen did seize power simultaneously in over forty nations."
+        },
+        {
+          "character": "KIRK",
+          "line": "Well, they were hardly supermen. They were aggressive, arrogant. They began to battle among themselves."
+        },
+        {
+          "character": "SPOCK",
+          "line": "Because the scientists overlooked one fact. Superior ability breeds superior ambition."
+        },
+        {
+          "character": "KIRK",
+          "line": "Interesting, if true. They created a group of Alexanders, Napoleons."
+        },
+        {
+          "character": "SPOCK",
+          "line": "I have collected some names and made some counts. By my estimate, there were some eighty or ninety of these young supermen unaccounted for when they were finally defeated."
+        },
+        {
+          "character": "KIRK",
+          "line": "That fact isn't in the history texts."
+        },
+        {
+          "character": "SPOCK",
+          "line": "Would you reveal to war-weary populations that some eighty Napoleons might still be alive?"
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "MARLA",
+          "line": "Ship's historian, Lieutenant"
+        },
+        {
+          "character": "KHAN",
+          "line": "Marla McGivers."
+        },
+        {
+          "character": "MARLA",
+          "line": "Yes."
+        },
+        {
+          "character": "KHAN",
+          "line": "I am told you participated in my rebirth."
+        },
+        {
+          "character": "MARLA",
+          "line": "In a small way."
+        },
+        {
+          "character": "KHAN",
+          "line": "I've been reading up on starships, but they have one luxury not mentioned in the manuals."
+        },
+        {
+          "character": "MARLA",
+          "line": "I don't understand."
+        },
+        {
+          "character": "KHAN",
+          "line": "A beautiful woman. My name is Khan. Please sit and entertain me."
+        },
+        {
+          "character": "MARLA",
+          "line": "I'd like some historical information about your ship, its purpose and"
+        },
+        {
+          "character": "KHAN",
+          "line": "And why do you wear your hair in such an uncomplimentary fashion?"
+        },
+        {
+          "character": "MARLA",
+          "line": "It's comfortable."
+        },
+        {
+          "character": "KHAN",
+          "line": "But it's not attractive. There. Soft. Natural. Simple."
+        },
+        {
+          "character": "MARLA",
+          "line": "Mister Khan, I'm here on business."
+        },
+        {
+          "character": "KHAN",
+          "line": "You find no pleasure here?"
+        },
+        {
+          "character": "MARLA",
+          "line": "My interest is scientific. Men of. That is, the world of the past. I'm sure you understand to actually talk to a man of your century"
+        },
+        {
+          "character": "KHAN",
+          "line": "There. Simple, soft. Please remember."
+        },
+        {
+          "character": "MARLA",
+          "line": "Perhaps some other time, when you feel more like talking about the past."
+        },
+        {
+          "character": "KHAN",
+          "line": "I'm glad you came. Please do it again."
+        }
+      ],
+      "location": "Sickbay - medical ward"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "MCCOY",
+          "line": "Very impressive. Are we expecting a fleet admiral for dinner?"
+        },
+        {
+          "character": "KIRK",
+          "line": "Lieutenant McGivers' idea to welcome Khan to our century. Just how strongly is she attracted to him?"
+        },
+        {
+          "character": "MCCOY",
+          "line": "Well, there aren't any regulations against romance, Jim."
+        },
+        {
+          "character": "KIRK",
+          "line": "My curiosity's official, not personal, Bones."
+        },
+        {
+          "character": "MCCOY",
+          "line": "Well, he has a magnetism. Almost electric. You felt it. And it could over power McGivers with her preoccupation with the past."
+        }
+      ],
+      "location": "Officer's Mess"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "KHAN",
+          "line": "Thank you. I hoped you might guide me to our dinner engagement. Very good. Fine technique."
+        },
+        {
+          "character": "MARLA",
+          "line": "It's a gladiator named Flavius. He once"
+        },
+        {
+          "character": "KHAN",
+          "line": "And you've rearranged your hair for me. Excellent."
+        },
+        {
+          "character": "KHAN",
+          "line": "All bold men from the past. Richard, Leif Ericson, Napoleon. A hobby of yours, such men?"
+        },
+        {
+          "character": "KHAN",
+          "line": "I am honored. Thank you. But I caution you. Such men dare take what they want."
+        }
+      ],
+      "location": "McGiver's quarters"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "KIRK",
+          "line": "Forgive my curiosity, Mister Khan, but my officers are anxious to know more about your extraordinary journey."
+        },
+        {
+          "character": "SPOCK",
+          "line": "And how you managed to keep it out of the history books."
+        },
+        {
+          "character": "KHAN",
+          "line": "Adventure, Captain. Adventure. There was little else left on Earth."
+        },
+        {
+          "character": "SPOCK",
+          "line": "There was the war to end tyranny. Many considered that a noble effort."
+        },
+        {
+          "character": "KHAN",
+          "line": "Tyranny, sir? Or an attempt to unify humanity?"
+        },
+        {
+          "character": "SPOCK",
+          "line": "Unify, sir? Like a team of animals under one whip?"
+        },
+        {
+          "character": "KHAN",
+          "line": "I know something of those years. Remember, it was a time of great dreams, of great aspiration."
+        },
+        {
+          "character": "SPOCK",
+          "line": "Under dozens of petty dictatorships."
+        },
+        {
+          "character": "KHAN",
+          "line": "One man would have ruled eventually. As Rome under Caesar. Think of its accomplishments."
+        },
+        {
+          "character": "SPOCK",
+          "line": "Then your sympathies were with"
+        },
+        {
+          "character": "KHAN",
+          "line": "You are an excellent tactician, Captain. You let your second in command attack while you sit and watch for weakness."
+        },
+        {
+          "character": "KIRK",
+          "line": "You have a tendency to express ideas in military terms, Mister Khan. This is a social occasion."
+        },
+        {
+          "character": "KHAN",
+          "line": "It has been said that social occasions are only warfare concealed. Many prefer it more honest, more open."
+        },
+        {
+          "character": "KIRK",
+          "line": "You fled. Why? Were you afraid?"
+        },
+        {
+          "character": "KHAN",
+          "line": "I've never been afraid."
+        },
+        {
+          "character": "KIRK",
+          "line": "But you left at the very time mankind needed courage."
+        },
+        {
+          "character": "KHAN",
+          "line": "We offered the world order!"
+        },
+        {
+          "character": "KIRK",
+          "line": "We?"
+        },
+        {
+          "character": "KHAN",
+          "line": "Excellent. Excellent. But if you will excuse me, gentlemen and ladies, I grow fatigued again. With your permission, Captain, I will return to my quarters."
+        }
+      ],
+      "location": "Officer's mess"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "MARLA",
+          "line": "I wanted to apologize. They had no right to treat you that way."
+        },
+        {
+          "character": "KHAN",
+          "line": "Quite understandable, since I'm something of a mystery to them."
+        },
+        {
+          "character": "MARLA",
+          "line": "You're no mystery to me. I know exactly who you are."
+        },
+        {
+          "character": "KHAN",
+          "line": "Do you?"
+        },
+        {
+          "character": "MARLA",
+          "line": "Leif Ericson, Richard the Lion Heart, Napoleon. I don't know if you're going to like living in our time."
+        },
+        {
+          "character": "KHAN",
+          "line": "Then I'll have to remold it to my liking."
+        },
+        {
+          "character": "MARLA",
+          "line": "Please don't."
+        },
+        {
+          "character": "KHAN",
+          "line": "Go. Or stay. But do it because it is what you wish to do. Well?"
+        },
+        {
+          "character": "MARLA",
+          "line": "I'll stay a little longer."
+        },
+        {
+          "character": "KHAN",
+          "line": "How many minutes do you graciously offer?"
+        },
+        {
+          "character": "MARLA",
+          "line": "I only meant"
+        },
+        {
+          "character": "KHAN",
+          "line": "This grows tiresome. You must now ask to stay."
+        },
+        {
+          "character": "MARLA",
+          "line": "I'd like to stay. Please."
+        },
+        {
+          "character": "KHAN",
+          "line": "Open your heart. Will you open your heart?"
+        },
+        {
+          "character": "MARLA",
+          "line": "Yes."
+        },
+        {
+          "character": "KHAN",
+          "line": "I intend to take this ship. Do you agree?"
+        },
+        {
+          "character": "MARLA",
+          "line": "Oh, please don't ask me"
+        },
+        {
+          "character": "KHAN",
+          "line": "I need your help."
+        },
+        {
+          "character": "MARLA",
+          "line": "You won't harm anyone?"
+        },
+        {
+          "character": "KHAN",
+          "line": "Now you question me?"
+        },
+        {
+          "character": "MARLA",
+          "line": "No."
+        },
+        {
+          "character": "KHAN",
+          "line": "Will you assist me?"
+        },
+        {
+          "character": "MARLA",
+          "line": "Oh, please, Khan, don't ask me"
+        },
+        {
+          "character": "KHAN",
+          "line": "Leave me then. Go, I say."
+        },
+        {
+          "character": "MARLA",
+          "line": "No. I promise. I'll do anything you ask."
+        }
+      ],
+      "location": "Khan's quarters"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "KIRK",
+          "line": "Name, Khan, as we know him today. Name, Khan Noonien Singh."
+        },
+        {
+          "character": "SPOCK",
+          "line": "From 1992 through 1996, absolute ruler of more than a quarter of your world. From Asia through the Middle East."
+        },
+        {
+          "character": "MCCOY",
+          "line": "The last of the tyrants to be overthrown."
+        },
+        {
+          "character": "SCOTT",
+          "line": "I must confess, gentlemen. I've always held a sneaking admiration for this one."
+        },
+        {
+          "character": "KIRK",
+          "line": "He was the best of the tyrants and the most dangerous. They were supermen, in a sense. Stronger, braver, certainly more ambitious, more daring."
+        },
+        {
+          "character": "SPOCK",
+          "line": "Gentlemen, this romanticism about a ruthless dictator is"
+        },
+        {
+          "character": "KIRK",
+          "line": "Mister Spock, we humans have a streak of barbarism in us. Appallling, but there, nevertheless."
+        },
+        {
+          "character": "SCOTT",
+          "line": "There were no massacres under his rule."
+        },
+        {
+          "character": "SPOCK",
+          "line": "And as little freedom."
+        },
+        {
+          "character": "MCCOY",
+          "line": "No wars until he was attacked."
+        },
+        {
+          "character": "SPOCK",
+          "line": "Gentlemen."
+        },
+        {
+          "character": "KIRK",
+          "line": "Mister Spock, you misunderstand us. We can be against him and admire him all at the same time."
+        },
+        {
+          "character": "SPOCK",
+          "line": "Illogical."
+        },
+        {
+          "character": "KIRK",
+          "line": "Totally. This is the Captain. Put a twenty four hour security on Mister Khan's quarters, effective immediately."
+        }
+      ],
+      "location": "Briefing room"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "KHAN",
+          "line": "I'm sorry, Captain. I was lost in thought. My door. Locked from outside, a guard posted."
+        },
+        {
+          "character": "KIRK",
+          "line": "Unusual treatment for Khan Noonien Singh."
+        },
+        {
+          "character": "KHAN",
+          "line": "Excellent. You identified me with your computer system, I imagine."
+        },
+        {
+          "character": "KIRK",
+          "line": "I'd like those answers now. First, the purpose of your star flight."
+        },
+        {
+          "character": "KHAN",
+          "line": "A new life, a chance to build a world. Other things I doubt you would understand."
+        },
+        {
+          "character": "KIRK",
+          "line": "Why? Because I'm not a product of controlled genetics?"
+        },
+        {
+          "character": "KHAN",
+          "line": "Captain, although your abilities intrigue me, you are quite honestly inferior. Mentally, physically. In fact, I am surprised how little improvement there has been in human evolution. Oh, there has been technical advancement, but, how little man himself has changed. Yes, it appears we will do well in your century, Captain. Do you have any other questions?"
+        },
+        {
+          "character": "KIRK",
+          "line": "Thank you. They've all been answered."
+        }
+      ],
+      "location": "Khan's quarters"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "MARLA",
+          "line": "Move away."
+        }
+      ],
+      "location": "Transporter room"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "KHAN",
+          "line": "Otto. Joaquin. The trip is over. The battle begins again. Only this time it's not a world we win. It's a universe. Kati."
+        }
+      ],
+      "location": "SS Botany Bay"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "SPINELLI",
+          "line": "On course, sir. Warp factor two."
+        },
+        {
+          "character": "KIRK",
+          "line": "Maintain. Bridge."
+        },
+        {
+          "character": "SECURITY",
+          "line": "Captain, Security here. Khan's escaped.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "KIRK",
+          "line": "Sound security alert."
+        },
+        {
+          "character": "UHURA",
+          "line": "Security alert, Captain. Communication channels are down, Captain."
+        },
+        {
+          "character": "SPOCK",
+          "line": "Turbo elevators inoperative. Jammed, Captain."
+        },
+        {
+          "character": "KIRK",
+          "line": "Atmospheric controls cut off."
+        },
+        {
+          "character": "SPOCK",
+          "line": "Useless. They're on override in Engineering."
+        },
+        {
+          "character": "KIRK",
+          "line": "Engineering. Scotty. This is the Bridge."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "SCOTT",
+          "line": "Captain!"
+        }
+      ],
+      "location": "Engineering"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "KIRK",
+          "line": "What's going on down there?"
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "KHAN",
+          "line": "He's not able to answer you at the moment, Captain."
+        }
+      ],
+      "location": "Engineering"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "KHAN",
+          "line": "Your ship is mine. I have shut off the life-support system to your Bridge, and jammed up your exit routes. I am willing to negotiate.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "KIRK",
+          "line": "Flood all decks with neural gas."
+        },
+        {
+          "character": "SPOCK",
+          "line": "Impossible. Intruder control systems inoperative. Mister Khan was very thorough in his study of our tech manuals."
+        },
+        {
+          "character": "KIRK",
+          "line": "Contact Starbase Twelve."
+        },
+        {
+          "character": "UHURA",
+          "line": "All channels are totally jammed, Captain."
+        },
+        {
+          "character": "SPOCK",
+          "line": "Brilliant. Every contingency anticipated."
+        },
+        {
+          "character": "KHAN",
+          "line": "Your air should be getting quite thin by now.",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "KHAN",
+          "line": "Do you surrender the Bridge?"
+        }
+      ],
+      "location": "Engineering"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "KIRK",
+          "line": "Negative."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "KHAN",
+          "line": "Academic, Captain. Refuse,"
+        }
+      ],
+      "location": "Engineering"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "KHAN",
+          "line": "And every person on the Bridge will suffocate. Stardate 3142.8. They have my ship, diskarding their own worthless vessel. Only moments of air left on the Bridge now. Commendations recommended for Lieutenant Uhura, Technicians First Class Thule and Harrison, Lieutenant Spinelli and, of course, Mister Spock. I take full responsibility. I take full",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "KHAN",
+          "line": "Nothing ever changes, except man. Your technical accomplishments? Improve a mechanical device and you may double productivity. But improve man and you gain a thousand fold. I am such a man. Join me. I'll treat you well. I need your training to operate a vessel this complex."
+        },
+        {
+          "character": "SCOTT",
+          "line": "Where is Captain Kirk?"
+        },
+        {
+          "character": "KHAN",
+          "line": "I see now I made one serious error. You are the Communications Officer? Engage the viewing screen, please."
+        },
+        {
+          "character": "MARLA",
+          "line": "No!"
+        },
+        {
+          "character": "KHAN",
+          "line": "I should have realized that suffocating together on the Bridge would create heroic camaraderie among you. But it is quite a different thing to watch it happening to someone else. Engage the viewing screen. I'm sure you recognize your medical decompression chamber here, Doctor. And the meaning of that indicator. Your Captain will die. If you join me, Mister Spock, I will save his life. My vessel was useless. I need you and yours to select a colony planet. One with a population willing to be led by us."
+        },
+        {
+          "character": "MCCOY",
+          "line": "To be conquered by you. A starship would make that most simple, wouldn't it?"
+        },
+        {
+          "character": "KHAN",
+          "line": "Each of you in turn will go in there. Die while the others watch."
+        },
+        {
+          "character": "MARLA",
+          "line": "Khan. There's no reason I must watch this, is there?"
+        },
+        {
+          "character": "KHAN",
+          "line": "But I hoped you would be stronger. If any one of you joins me, anyone! I'll let him live. It's so useless!"
+        },
+        {
+          "character": "JOACHIM",
+          "line": "We've lost the channel. How do I regain picture?"
+        },
+        {
+          "character": "KHAN",
+          "line": "It does not matter. The Captain is dead. Take Mister Spock next."
+        }
+      ],
+      "location": "Briefing room"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "MARLA",
+          "line": "Khan said to watch him very closely. He may decide to co-operate."
+        },
+        {
+          "character": "MARLA",
+          "line": "Captain, I saved your life. Now please don't kill him."
+        },
+        {
+          "character": "SPOCK",
+          "line": "Surprised to see you, Captain, though pleased."
+        },
+        {
+          "character": "KIRK",
+          "line": "I'm a little pleased myself. Situation?"
+        },
+        {
+          "character": "SPOCK",
+          "line": "Khan is holding our staff in the briefing room. His men have control of the ship."
+        },
+        {
+          "character": "KIRK",
+          "line": "Our only chance is the intruder control circuit. Although he's cut it off at the Bridge."
+        },
+        {
+          "character": "SPOCK",
+          "line": "There's a relay junction down the corridor."
+        },
+        {
+          "character": "KIRK",
+          "line": "Gas all decks but this one."
+        }
+      ],
+      "location": "Decompression chamber"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "KHAN",
+          "line": "Armory, this is Khan. Report. Rodriguez. Ling. McPherson. Anyone. Report status."
+        }
+      ],
+      "location": "Briefing room"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "KIRK",
+          "line": "Where's Khan?"
+        },
+        {
+          "character": "SCOTT",
+          "line": "I don't know. He got out just as the gas"
+        },
+        {
+          "character": "KIRK",
+          "line": "Kirk here."
+        },
+        {
+          "character": "SPOCK",
+          "line": "Anesthesia gas in all sections except Engineering. Someone just closed that line.",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "Corridor"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "SPOCK",
+          "line": "Captain, acknowledge. Unable to flood Engineering section. I suspect",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "SCOTT",
+          "line": "This is Scott. Captain's headed for the Engineering section. I'll follow in case",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "SPOCK",
+          "line": "Negative. We must retake the vessel while the anesthesia lasts. Meet me in the Armory. I'm blowing it clear first. Spock out.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "KHAN",
+          "line": "If I understood your manuals, that's an overload in progress. Your ship flares up like an exploding sun within minutes."
+        },
+        {
+          "character": "KHAN",
+          "line": "I have five times your strength. You're no match for me. Captain's Log. Stardate 3143.3. Control of the Enterprise has been regained. I wish my next decisions were no more difficult. Khan and his people. What a waste to put them in a reorientation center. And what do I do about McGivers?"
+        }
+      ],
+      "location": "Engineering"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "UHURA",
+          "line": "Record tapes engaged and ready, Captain."
+        },
+        {
+          "character": "KIRK",
+          "line": "This hearing is now in session. Under the authority vested in me by Starfleet Command, I declare all charges and specifications in this matter have been dropped."
+        },
+        {
+          "character": "MCCOY",
+          "line": "Jim. Agreed you have the authority"
+        },
+        {
+          "character": "KIRK",
+          "line": "Mister Spock, our heading takes us near the Ceti Alpha star system."
+        },
+        {
+          "character": "SPOCK",
+          "line": "Quite correct, Captain. Planet number five there is habitable, although a bit savage, somewhat inhospitable."
+        },
+        {
+          "character": "KIRK",
+          "line": "But no more than Australia's Botany Bay colony was at the beginning. Those men went on to tame a continent, Mister Khan. Can you tame a world?"
+        },
+        {
+          "character": "KHAN",
+          "line": "Have you ever read Milton, Captain?"
+        },
+        {
+          "character": "KIRK",
+          "line": "Yes. I understand. Lieutenant Marla McGivers. Given a choice of court martial or accompanying them there."
+        },
+        {
+          "character": "KHAN",
+          "line": "It will be difficult. A struggle at first even to stay alive, to find food."
+        },
+        {
+          "character": "MARLA",
+          "line": "I'll go with him, sir."
+        },
+        {
+          "character": "KHAN",
+          "line": "A superior woman. I will take her. And I've gotten something else I wanted. A world to win, an empire to build."
+        },
+        {
+          "character": "KIRK",
+          "line": "This hearing is closed."
+        },
+        {
+          "character": "SCOTT",
+          "line": "It's a shame for a good Scotsman to admit it, but I'm not up on Milton."
+        },
+        {
+          "character": "KIRK",
+          "line": "The statement Lucifer made when he fell into the pit. 'It is better to rule in hell than serve in heaven.'"
+        },
+        {
+          "character": "SPOCK",
+          "line": "It would be interesting, Captain, to return to that world in a hundred years and to learn what crop has sprung from the seed you planted today."
+        },
+        {
+          "character": "KIRK",
+          "line": "Yes, Mister Spock, it would indeed."
+        }
+      ],
+      "location": "Briefing room"
+    }
+  ],
+  "schedule": {
+    "episode": 24,
+    "number": 24,
+    "season": 1
+  },
+  "stardate": "3141.9",
+  "title": "Space Seed"
+}

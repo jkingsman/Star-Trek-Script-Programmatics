@@ -1,0 +1,1518 @@
+{
+  "airdate": 1051081200,
+  "scenes": [
+    {
+      "dialogue": [
+        {
+          "character": "HOSHI",
+          "line": "Feeding time?"
+        },
+        {
+          "character": "PHLOX",
+          "line": "When isn't it?"
+        },
+        {
+          "character": "HOSHI",
+          "line": "What is that?"
+        },
+        {
+          "character": "PHLOX",
+          "line": "It won't bite. It's called a tribble."
+        },
+        {
+          "character": "PHLOX",
+          "line": "It was extremely difficult to acquire. They're outlawed on most worlds."
+        },
+        {
+          "character": "HOSHI",
+          "line": "Why? Is it dangerous?"
+        },
+        {
+          "character": "PHLOX",
+          "line": "Oh, far from it. All it's capable of doing, really, is eating and breeding. The problem is they breed quite prodigiously."
+        },
+        {
+          "character": "PHLOX",
+          "line": "The only thing that keeps their population in check is the abundance of reptiles on their homeworld. Are you feeling all right, Ensign?"
+        },
+        {
+          "character": "HOSHI",
+          "line": "I just came by to give you this transmission. It's from the Denobulan Science Academy. Marked urgent."
+        },
+        {
+          "character": "PHLOX",
+          "line": "Thank you."
+        }
+      ],
+      "location": "Sickbay"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TRAVIS",
+          "line": "These caverns go on for fifty kilometers."
+        },
+        {
+          "character": "PHLOX",
+          "line": "They've mapped fifty kilometers. No one knows exactly how far they extend."
+        },
+        {
+          "character": "TUCKER",
+          "line": "What were these scientists of yours doing down there?"
+        },
+        {
+          "character": "PHLOX",
+          "line": "This cave system is known for its mineral formations. The speleothems are supposed to be particularly unusual."
+        },
+        {
+          "character": "ARCHER",
+          "line": "They've been underground for six months. The Denobulan Science Academy lost contact with them three weeks ago. The planet's called Xantoras. The government's been politically unstable for several years. In the last few weeks a militant faction has taken control."
+        },
+        {
+          "character": "PHLOX",
+          "line": "They're demanding that all off-worlders leave. Anyone who fails to comply could face imprisonment, or possibly worse."
+        },
+        {
+          "character": "REED",
+          "line": "Then why don't the Denobulans evacuate their own scientists?"
+        },
+        {
+          "character": "ARCHER",
+          "line": "They can't get here in time. Enterprise is less than a day away. We've been asked to pick them up. First we have to find them. You've had some caving experience."
+        },
+        {
+          "character": "TRAVIS",
+          "line": "There are some pretty steep inclines here, but I think I can handle it."
+        },
+        {
+          "character": "ARCHER",
+          "line": "What about you and Malcolm?"
+        },
+        {
+          "character": "TUCKER",
+          "line": "Don't worry, Captain. I'm sure Travis is an excellent teacher."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Get some gear together."
+        },
+        {
+          "character": "TRAVIS",
+          "line": "Aye, sir."
+        },
+        {
+          "character": "PHLOX",
+          "line": "I realize this was an unusual request, Captain. I want to thank you."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Happy to help, Doctor."
+        }
+      ],
+      "location": "Situation room"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TRAVIS",
+          "line": "Pitons."
+        },
+        {
+          "character": "TUCKER",
+          "line": "All here."
+        },
+        {
+          "character": "TRAVIS",
+          "line": "Ration packs."
+        },
+        {
+          "character": "TUCKER",
+          "line": "A week's worth."
+        },
+        {
+          "character": "TRAVIS",
+          "line": "Flex-cable?"
+        },
+        {
+          "character": "REED",
+          "line": "Five hundred meters."
+        },
+        {
+          "character": "TRAVIS",
+          "line": "Waste disposal units."
+        },
+        {
+          "character": "TUCKER",
+          "line": "What are these for?"
+        },
+        {
+          "character": "TRAVIS",
+          "line": "We take out everything we bring in."
+        },
+        {
+          "character": "ARCHER",
+          "line": "I just spoke to the Xantoras Regional Governor. He's issued a general order. You have to get them out of there in three days."
+        },
+        {
+          "character": "TUCKER",
+          "line": "That's not much time."
+        },
+        {
+          "character": "ARCHER",
+          "line": "The military's preparing search patrols to arrest any stray off-worlders when the deadline arrives. If you haven't found them in a day and a half, I want you to turn around and head back."
+        },
+        {
+          "character": "TUCKER",
+          "line": "No arguments here."
+        }
+      ],
+      "location": "Launch bay"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "ARCHER",
+          "line": "What's the problem?"
+        },
+        {
+          "character": "T'POL",
+          "line": "One of the transports leaving the planet just declared an emergency."
+        },
+        {
+          "character": "HOSHI",
+          "line": "Their reactor casings ruptured. The Captain's asking the Xantoras for permission to go back down."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Can you put it on speaker?"
+        },
+        {
+          "character": "ALIEN",
+          "line": "Several compartments have flooded with radiation. I have injured passengers and crew.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "XANTORAS",
+          "line": "Your request has been denied. Leave orbit immediately.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "ALIEN",
+          "line": "Our situation is critical!",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "XANTORAS",
+          "line": "We're tracking your vessel. If you attempt to land, we will commence",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "ARCHER",
+          "line": "Where are they?"
+        },
+        {
+          "character": "T'POL",
+          "line": "In a low orbit. six hundred kilometers below us."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Set a course. Open a channel. I want to speak to their Captain."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "PHLOX",
+          "line": "There could be internal bleeding. Run a haemostatic scan. Treat these with dermalin gel and give him two cc's of anaprovaline for the pain. You're going to be fine."
+        },
+        {
+          "character": "CREWMAN",
+          "line": "He was working near the reactor when it ruptured."
+        },
+        {
+          "character": "CREWMAN",
+          "line": "Doctor?"
+        },
+        {
+          "character": "PHLOX",
+          "line": "Get him into the Imaging Chamber."
+        }
+      ],
+      "location": "Sickbay"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TUCKER",
+          "line": "What have you got?"
+        },
+        {
+          "character": "REED",
+          "line": "Nothing but three humans, one of which is not entirely convinced we're going in the right direction."
+        },
+        {
+          "character": "TUCKER",
+          "line": "Make that two."
+        },
+        {
+          "character": "TRAVIS",
+          "line": "This is the nearest entrance to their campsite. I'd be willing to bet they came this way."
+        }
+      ],
+      "location": "Planet - entrance to cave system"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TRAVIS",
+          "line": "Watch your footing. There's a lot of loose rock."
+        },
+        {
+          "character": "TUCKER",
+          "line": "The last cave I was in had handrails, a gift shop, a snack bar."
+        },
+        {
+          "character": "REED",
+          "line": "There's an opening. Over here."
+        },
+        {
+          "character": "REED",
+          "line": "Still willing to bet they came this way?"
+        },
+        {
+          "character": "TRAVIS",
+          "line": "Yes, sir."
+        },
+        {
+          "character": "TUCKER",
+          "line": "Isn't there a beginners' cliff we can start on?"
+        },
+        {
+          "character": "TRAVIS",
+          "line": "Don't worry, I'll go first."
+        }
+      ],
+      "location": "Cave system"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "ARCHER",
+          "line": "How's it going?"
+        },
+        {
+          "character": "PHLOX",
+          "line": "These two are doing well. His injuries were more extensive. His body absorbed a heavy dose of radiation. I've stabilized him for now, but he's going to need intra-cellular regeneration."
+        },
+        {
+          "character": "ARCHER",
+          "line": "What are his chances?"
+        },
+        {
+          "character": "PHLOX",
+          "line": "It's a complex procedure, but I'd say the odds are in his favor."
+        },
+        {
+          "character": "HUDAK",
+          "line": "here am I?"
+        },
+        {
+          "character": "ARCHER",
+          "line": "You're on my ship, Enterprise. I'm Captain Archer."
+        },
+        {
+          "character": "HUDAK",
+          "line": "What happened?"
+        },
+        {
+          "character": "ARCHER",
+          "line": "There was an accident on your transport."
+        },
+        {
+          "character": "HUDAK",
+          "line": "What's he doing here?"
+        },
+        {
+          "character": "ARCHER",
+          "line": "He's our doctor."
+        },
+        {
+          "character": "HUDAK",
+          "line": "Keep him away from me."
+        },
+        {
+          "character": "ARCHER",
+          "line": "You need his help."
+        },
+        {
+          "character": "HUDAK",
+          "line": "I'd rather die than be treated by him."
+        }
+      ],
+      "location": "Sickbay"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "PHLOX",
+          "line": "Our two species have a complicated history. We've gone to war with the Antarans on several occasions."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Recently?"
+        },
+        {
+          "character": "PHLOX",
+          "line": "On the contrary. It's been three hundred years since our last conflict."
+        },
+        {
+          "character": "ARCHER",
+          "line": "And there's still bad blood between you?"
+        },
+        {
+          "character": "PHLOX",
+          "line": "They've been particularly bitter disputes."
+        },
+        {
+          "character": "ARCHER",
+          "line": "If you explain to him that he won't survive without your help, maybe he'd set the past aside for a few hours."
+        },
+        {
+          "character": "PHLOX",
+          "line": "I seriously doubt it. He insisted I leave the room. I don't think you realize how much bad blood there is."
+        },
+        {
+          "character": "ARCHER",
+          "line": "You could always sedate him and perform the treatment."
+        },
+        {
+          "character": "PHLOX",
+          "line": "I have to respect his wishes."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Even if he wishes to die?"
+        },
+        {
+          "character": "PHLOX",
+          "line": "The will of the patient is the cornerstone of Denobulan medical ethics."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Don't you believe if you can help someone your ethically bound to do so?"
+        },
+        {
+          "character": "PHLOX",
+          "line": "Hippocrates wasn't Denobulan."
+        },
+        {
+          "character": "ARCHER",
+          "line": "This is an Earth ship, Doctor. I won't let that man die in my Sickbay if it can be prevented."
+        },
+        {
+          "character": "PHLOX",
+          "line": "Without his consent, there is nothing I can do."
+        },
+        {
+          "character": "ARCHER",
+          "line": "I'm giving you an order."
+        },
+        {
+          "character": "PHLOX",
+          "line": "I'm sorry, Captain, but I'm afraid I can't follow it."
+        }
+      ],
+      "location": "Corridor"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TRAVIS",
+          "line": "Watch your footing, sir."
+        },
+        {
+          "character": "TUCKER",
+          "line": "Thanks."
+        },
+        {
+          "character": "REED",
+          "line": "Travis!"
+        },
+        {
+          "character": "TRAVIS",
+          "line": "Stay calm. Commander, are you all right?"
+        },
+        {
+          "character": "TUCKER",
+          "line": "Just testing the rope."
+        },
+        {
+          "character": "TRAVIS",
+          "line": "Why don't you take a break. I'll see what's below."
+        },
+        {
+          "character": "REED",
+          "line": "Hey, what's that?"
+        },
+        {
+          "character": "TUCKER",
+          "line": "I think it's Denobulan. I've seen characters like these in Phlox's medical books."
+        },
+        {
+          "character": "REED",
+          "line": "You don't suppose Denobulans carry out everything they bring in?"
+        },
+        {
+          "character": "TUCKER",
+          "line": "Rock samples."
+        },
+        {
+          "character": "REED",
+          "line": "Looks like we're on the right track."
+        }
+      ],
+      "location": "Caves"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "ARCHER",
+          "line": "How are you feeling?"
+        },
+        {
+          "character": "HUDAK",
+          "line": "I'd like to return to my ship."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Your ship was damaged by the reactor leak. It'll be a few days before you can go back aboard. You were exposed to high levels of radiation. You need treatment."
+        },
+        {
+          "character": "HUDAK",
+          "line": "I prefer to be treated by another physician."
+        },
+        {
+          "character": "ARCHER",
+          "line": "If you don't let Phlox operate, you won't survive more than two days. I understand there's a troubled history between your peoples, but I can assure you Phlox is an excellent doctor."
+        },
+        {
+          "character": "HUDAK",
+          "line": "Our history is much more than troubled. Did your doctor tell you that their battle tactics resulted in twenty million Antaran casualties?"
+        },
+        {
+          "character": "ARCHER",
+          "line": "He wasn't that specific."
+        },
+        {
+          "character": "HUDAK",
+          "line": "I imagine not. They've been very successful at putting it behind them."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Do you want to become a casualty of a war that ended three hundred years ago? Phlox has been my Chief Medical Officer for nearly two years. I've never questioned his skill or his integrity."
+        },
+        {
+          "character": "HUDAK",
+          "line": "It's quite possible he's a proficient surgeon, but I don't intend to find out."
+        },
+        {
+          "character": "ARCHER",
+          "line": "You'd rather die?"
+        },
+        {
+          "character": "HUDAK",
+          "line": "I'm the first Antaran to even see a Denobulan in six generations."
+        },
+        {
+          "character": "ARCHER",
+          "line": "If you spent some time with him, it might change your perception of them."
+        },
+        {
+          "character": "HUDAK",
+          "line": "A few hours in our historical archives might change yours."
+        },
+        {
+          "character": "ARCHER",
+          "line": "I prefer to make my judgments based on firsthand experience. I respect your history and the sacrifice your people made, but I can tell you that the Denobulans you're describing are not the people I've met. Don't sacrifice your life based on preconceptions."
+        }
+      ],
+      "location": "Sickbay"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "ARCHER",
+          "line": "Why haven't you ever mentioned this? PHLOX It wasn't our proudest moment, but we've done our best to put it behind us."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Do you know you're the first Denobulan he's ever met?"
+        },
+        {
+          "character": "PHLOX",
+          "line": "And he is the first Antaran I've ever met."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Doesn't that seem odd to you? That in three hundred years neither side has tried to reconcile. Maybe you put it behind you too quickly."
+        },
+        {
+          "character": "PHLOX",
+          "line": "As I said before, the situation is complicated. From childhood, every Antaran is taught that Denobulans are enemies to be feared, reviled."
+        },
+        {
+          "character": "ARCHER",
+          "line": "This is your chance to prove them wrong."
+        },
+        {
+          "character": "PHLOX",
+          "line": "I doubt I could."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Set aside your preconceptions. I made some headway with him, but I won't be the one holding the scalpel. Show him that he can trust you."
+        },
+        {
+          "character": "PHLOX",
+          "line": "Do you believe I can earn his trust in less than thirty six hours?"
+        },
+        {
+          "character": "ARCHER",
+          "line": "All I'm asking is that you try. Your ethics might keep you from treating him against his will, but nothing's stopping you from talking to him. You're a doctor. He's your patient. Find a way to help him."
+        }
+      ],
+      "location": "Phlox's office"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TUCKER",
+          "line": "Toss a coin?"
+        },
+        {
+          "character": "REED",
+          "line": "They went that way."
+        },
+        {
+          "character": "TUCKER",
+          "line": "How can you tell?"
+        },
+        {
+          "character": "REED",
+          "line": "Well, look at those."
+        },
+        {
+          "character": "REED",
+          "line": "If I was a geologist, that's the way I'd go."
+        },
+        {
+          "character": "TRAVIS",
+          "line": "Stay close to the wall."
+        },
+        {
+          "character": "REED",
+          "line": "I don't have much choice. It's getting steeper."
+        },
+        {
+          "character": "TRAVIS",
+          "line": "Let me lock off. Check the safety, Commander."
+        },
+        {
+          "character": "TUCKER",
+          "line": "I can't reach it."
+        },
+        {
+          "character": "TUCKER",
+          "line": "Almost!"
+        },
+        {
+          "character": "TRAVIS",
+          "line": "I can't hold this much longer."
+        },
+        {
+          "character": "TUCKER",
+          "line": "Stand by. We'll try again. Let's swing together. You ready? On three. One, two, three!"
+        },
+        {
+          "character": "TRAVIS",
+          "line": "The rope's slipping! Tthe two ropes leave his hands just as Tucker gets a piton into a crack which then holds both him and Reed.)"
+        },
+        {
+          "character": "TUCKER",
+          "line": "We're all right!"
+        },
+        {
+          "character": "TRAVIS",
+          "line": "Is it broken?"
+        },
+        {
+          "character": "TUCKER",
+          "line": "Yes. You tore a couple of ligaments, too."
+        },
+        {
+          "character": "TRAVIS",
+          "line": "We need to keep moving. Just give me something for the pain."
+        },
+        {
+          "character": "TUCKER",
+          "line": "Sorry, Travis. You're not going anywhere."
+        },
+        {
+          "character": "TRAVIS",
+          "line": "I can make it, sir."
+        },
+        {
+          "character": "REED",
+          "line": "We're already behind schedule, Ensign. We can't have you slowing us down. Thanks for getting us this far."
+        },
+        {
+          "character": "TUCKER",
+          "line": "You'll be all right."
+        },
+        {
+          "character": "TRAVIS",
+          "line": "Respectfully, sir, it's not me that I'm worried about."
+        },
+        {
+          "character": "TUCKER",
+          "line": "Give me some light on this."
+        }
+      ],
+      "location": "Caves"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "HUDAK",
+          "line": "What are you doing?"
+        },
+        {
+          "character": "PHLOX",
+          "line": "Checking your biosigns. Nothing else."
+        },
+        {
+          "character": "HUDAK",
+          "line": "Very diligent. What a dedicated healer you must be."
+        },
+        {
+          "character": "PHLOX",
+          "line": "You're a long way from home. What brought you here?"
+        },
+        {
+          "character": "HUDAK",
+          "line": "Practicing your bedside manner?"
+        },
+        {
+          "character": "PHLOX",
+          "line": "I enjoy a good challenge. You haven't answered my question."
+        },
+        {
+          "character": "HUDAK",
+          "line": "I'm a teacher of xenomythology. I study the legends of alien species."
+        },
+        {
+          "character": "PHLOX",
+          "line": "Well, I imagine the diverse population on this planet made it ideal for your research. Enterprise is here to pick up three Denobulan scientists. They also found this world uniquely suited to their fieldwork."
+        },
+        {
+          "character": "HUDAK",
+          "line": "How delightful that we have so much in common. Why do you want to save my life?"
+        },
+        {
+          "character": "PHLOX",
+          "line": "I'm a doctor."
+        },
+        {
+          "character": "HUDAK",
+          "line": "Do you believe that saving one Antaran will assuage your guilt for killing millions?"
+        },
+        {
+          "character": "PHLOX",
+          "line": "I haven't killed anyone."
+        },
+        {
+          "character": "HUDAK",
+          "line": "Now you finally have your chance."
+        },
+        {
+          "character": "PHLOX",
+          "line": "I assure you, the regeneration procedure is quite safe. If you'll allow me to proceed"
+        },
+        {
+          "character": "HUDAK",
+          "line": "You must know a great deal about our anatomy after what your doctors did to us."
+        },
+        {
+          "character": "HUDAK",
+          "line": "Tell me, were you raised listening to stories about my people? The evil Antarans. Did they give you nightmares?"
+        },
+        {
+          "character": "PHLOX",
+          "line": "I could ask you the same question about my people."
+        },
+        {
+          "character": "HUDAK",
+          "line": "Do you have children, Doctor?"
+        },
+        {
+          "character": "PHLOX",
+          "line": "Why?"
+        },
+        {
+          "character": "HUDAK",
+          "line": "Did you tell those stories to them? Did you teach them to hate Antarans just like you were taught?"
+        },
+        {
+          "character": "PHLOX",
+          "line": "My children have nothing to do with this."
+        },
+        {
+          "character": "HUDAK",
+          "line": "Don't they? If they were here right now, what would they think about their father talking to an Antaran?"
+        },
+        {
+          "character": "PHLOX",
+          "line": "Enough!"
+        },
+        {
+          "character": "HUDAK",
+          "line": "Would you even let them in the same room with me?"
+        },
+        {
+          "character": "PHLOX",
+          "line": "I have tried to treat you with respect, but I refuse to listen to these insults. You're the reason we haven't been able to put the past behind us. You have kept this hatred alive. No Denobulan would want to be in the same room with you!"
+        }
+      ],
+      "location": "Sickbay"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "T'POL",
+          "line": "May I join you?"
+        },
+        {
+          "character": "PHLOX",
+          "line": "Actually, I'm not in the mood for company, Sub-Commander. Wait. I'm sorry. Sit down."
+        },
+        {
+          "character": "T'POL",
+          "line": "If you wish to be alone."
+        },
+        {
+          "character": "PHLOX",
+          "line": "Sit. Please. Please. How are the repairs to transport coming?"
+        },
+        {
+          "character": "T'POL",
+          "line": "Slowly. The damage was extensive. How is your patient?"
+        },
+        {
+          "character": "PHLOX",
+          "line": "Dying, but that seems to be his wish."
+        },
+        {
+          "character": "T'POL",
+          "line": "That's unfortunate."
+        },
+        {
+          "character": "PHLOX",
+          "line": "I've had patients refuse treatment before, but usually in the final stages of an illness. But this man seems determined to die just to prove a point. It's painful to admit, but I understand why. When I was quite young, I wanted to take a trip to an arboreal planet near our system. It was a park of sorts with a great variety of exotic animal life. Some friends and I had planned the journey for months, but the week before I was supposed to leave one of my grandmothers took me aside and told me I couldn't go."
+        },
+        {
+          "character": "T'POL",
+          "line": "Why not?"
+        },
+        {
+          "character": "PHLOX",
+          "line": "She said the planet was tainted. Antarans had lived there once. Even though they'd been gone for years, she believed the place had been spoiled by their presence."
+        },
+        {
+          "character": "T'POL",
+          "line": "Did you go?"
+        },
+        {
+          "character": "PHLOX",
+          "line": "No, but when I had children of my own I took them there. I was determined not to raise them as I was raised."
+        },
+        {
+          "character": "T'POL",
+          "line": "Your children are fortunate to have a father who taught them to embrace other cultures."
+        },
+        {
+          "character": "PHLOX",
+          "line": "I certainly tried."
+        },
+        {
+          "character": "T'POL",
+          "line": "Are you all right?"
+        },
+        {
+          "character": "PHLOX",
+          "line": "Thanks for your company. Good night."
+        }
+      ],
+      "location": "Mess hall"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TUCKER",
+          "line": "Can you see anything?"
+        },
+        {
+          "character": "REED",
+          "line": "More of the same."
+        },
+        {
+          "character": "TUCKER",
+          "line": "Are you sure this is the way they came?"
+        },
+        {
+          "character": "REED",
+          "line": "I didn't see any other passage."
+        },
+        {
+          "character": "TUCKER",
+          "line": "We'll give it another half hour, then we're turning back."
+        },
+        {
+          "character": "REED",
+          "line": "Three biosigns. Denobulan."
+        },
+        {
+          "character": "TUCKER",
+          "line": "How far?"
+        },
+        {
+          "character": "REED",
+          "line": "About fifty meters."
+        },
+        {
+          "character": "YOLEN",
+          "line": "Who are you?"
+        },
+        {
+          "character": "TUCKER",
+          "line": "Commander Tucker of the Starship Enterprise. This is Lieutenant Reed."
+        },
+        {
+          "character": "YOLEN",
+          "line": "I hope you won't think I'm rude but there are many other caverns here to explore."
+        },
+        {
+          "character": "TUCKER",
+          "line": "We're not geologists."
+        },
+        {
+          "character": "REED",
+          "line": "The Denobulan Science Academy asked us to find you."
+        },
+        {
+          "character": "YOLEN",
+          "line": "Why?"
+        },
+        {
+          "character": "TUCKER",
+          "line": "The Xantoras. They've given all the off-worlders three days to leave and that was two days ago."
+        },
+        {
+          "character": "ZEPHT",
+          "line": "Then you'd better hurry."
+        },
+        {
+          "character": "TUCKER",
+          "line": "You don't understand. We've been ordered to take you out of here. We've got a lot of hard climbing ahead of us, so you'd better decide how much of this gear you can do without."
+        },
+        {
+          "character": "YOLEN",
+          "line": "We're sorry you came all this way, but we're not leaving."
+        },
+        {
+          "character": "TUCKER",
+          "line": "Were not leaving without you."
+        },
+        {
+          "character": "YOLEN",
+          "line": "You've warned us about the situation, Commander. You've accomplished your mission."
+        },
+        {
+          "character": "REED",
+          "line": "Not quite. Your Science Academy will hold us responsible if we come back alone."
+        },
+        {
+          "character": "TREVIX",
+          "line": "If the Academy knew the progress we were making, they'd never have sent you."
+        },
+        {
+          "character": "TUCKER",
+          "line": "You don't get it. When the Xantoras get their hands on you, they'll throw you in prison. They may even execute you."
+        },
+        {
+          "character": "YOLEN",
+          "line": "All the more reason for us to stay down here where we're safe."
+        },
+        {
+          "character": "REED",
+          "line": "You can't stay here forever."
+        },
+        {
+          "character": "ZEPHT",
+          "line": "I doubt we'll need to. The government changes hands so often, everything will probably be cleared up by the time we're finished."
+        },
+        {
+          "character": "TUCKER",
+          "line": "I realize your work is important, but you can't risk your lives for these rocks."
+        },
+        {
+          "character": "YOLEN",
+          "line": "Rocks? This is the most remarkable collection of speleothems we've ever seen. There's calcite, aragonite, botyroidal flowstone. I've spent fourteen years searching for tractosites this perfect. These samples can provide clues to prevent seismic disasters on Denobula."
+        },
+        {
+          "character": "TUCKER",
+          "line": "How much longer do you need?"
+        },
+        {
+          "character": "TREVIX",
+          "line": "Two weeks, maybe three."
+        },
+        {
+          "character": "TUCKER",
+          "line": "Three weeks? I've spent the last two days falling down cliffs and getting stuck in lava tubes all just to find you. Now, I've got an injured man waiting for us and we have just enough time to get out of here before we end up in front of a Xantoras firing squad. My orders are to bring you back, and I promise you that's what I'm going to do."
+        },
+        {
+          "character": "YOLEN",
+          "line": "You can't force us to leave."
+        },
+        {
+          "character": "TUCKER",
+          "line": "Want to bet? We didn't risk our lives to hear you say, thanks, but no thanks. So pack up whatever you need because I swear, I'll tie you up and drag you out by your ankles if that's how you want it."
+        },
+        {
+          "character": "YOLEN",
+          "line": "We have a lot of samples. We'll need your help."
+        },
+        {
+          "character": "TUCKER",
+          "line": "Fine."
+        }
+      ],
+      "location": "Caves"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "HUDAK",
+          "line": "I'd prefer to spend my last few days alone."
+        },
+        {
+          "character": "PHLOX",
+          "line": "That's your decision, but if my knowledge of Antaran lifespans is correct, your last days won't come for about sixty years."
+        },
+        {
+          "character": "HUDAK",
+          "line": "What are you talking about?"
+        },
+        {
+          "character": "PHLOX",
+          "line": "Once the intra-cellular regeneration is complete, you should be able to"
+        },
+        {
+          "character": "HUDAK",
+          "line": "I refused your treatment."
+        },
+        {
+          "character": "PHLOX",
+          "line": "I need to take you off the pain medication before I begin the procedure."
+        },
+        {
+          "character": "HUDAK",
+          "line": "Get away from me. I was told your principles prevented you from treating me against my will. Or don't your ethics apply to Antarans?"
+        },
+        {
+          "character": "PHLOX",
+          "line": "I did have nightmares."
+        },
+        {
+          "character": "HUDAK",
+          "line": "What?"
+        },
+        {
+          "character": "PHLOX",
+          "line": "You asked me if I had heard stories as a child about the Antarans. My grandmother lived through the last war. I would lay in my bed at night thinking about her stories, terrified that one of those evil Antarans would climb through my window."
+        },
+        {
+          "character": "HUDAK",
+          "line": "I hope your confession makes you feel better, Doctor, but it doesn't change a thing."
+        },
+        {
+          "character": "PHLOX",
+          "line": "You also asked me if I have children. I have five. And no, I never told them my grandmother's stories. When they asked me about the Antarans, I told them the truth, as best as I knew it. I told them about our military campaigns against your people. About how we had demonized you, turned you into a faceless enemy. I wanted them to learn to judge people for what they really are, not what the propaganda tells them."
+        },
+        {
+          "character": "HUDAK",
+          "line": "How would you know who we really are?"
+        },
+        {
+          "character": "PHLOX",
+          "line": "I don't. But I'm proud to say that my children would consider my grandmother's attitude archaic. All of them but one. We have grown more open-minded since the last war, but there are still Denobulans who fear Antarans, even hate them. My youngest son, Mettus, was seduced by those people. I did my best to convince him he was mistaken. I told him I wouldn't tolerate the values he was embracing. It created a rift between us. Maybe I didn't do enough to reach him. Last time we spoke was nearly ten years ago. You wanted to know what my children would think if they were here now. I can tell you what Mettus would think. He would be happy to have me grant your request and let you die. But that is not the example I tried to set for my children. Why not live and set an example for yours?"
+        }
+      ],
+      "location": "Sickbay"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TUCKER",
+          "line": "What's wrong?"
+        },
+        {
+          "character": "YOLEN",
+          "line": "Nothing."
+        },
+        {
+          "character": "TUCKER",
+          "line": "Then keep moving."
+        },
+        {
+          "character": "REED",
+          "line": "What's the problem?"
+        },
+        {
+          "character": "TUCKER",
+          "line": "I don't know. Come on. Let's go."
+        },
+        {
+          "character": "YOLEN",
+          "line": "I just need a moment."
+        },
+        {
+          "character": "TUCKER",
+          "line": "We don't have a moment. What are you doing up there? Are those rock samples? We can't carry any more."
+        },
+        {
+          "character": "YOLEN",
+          "line": "It took us six weeks to extract these from the rock bed."
+        },
+        {
+          "character": "TUCKER",
+          "line": "If you don't start moving in the next five seconds, I'm going to take my phase pistol and shoot you in the ass."
+        },
+        {
+          "character": "YOLEN",
+          "line": "These are priceless."
+        },
+        {
+          "character": "TUCKER",
+          "line": "One, two."
+        },
+        {
+          "character": "TUCKER",
+          "line": "Go!"
+        },
+        {
+          "character": "TUCKER",
+          "line": "Could be some kind of seismic activity."
+        },
+        {
+          "character": "REED",
+          "line": "Feels like weapons fire to me. Pretty high yield by the sound of it."
+        },
+        {
+          "character": "TUCKER",
+          "line": "We still got two hours until the deadline. You better get your climbing gear on."
+        },
+        {
+          "character": "YOLEN",
+          "line": "We don't have any climbing gear."
+        },
+        {
+          "character": "REED",
+          "line": "You mean to tell us that you climbed down that rock face without any ropes, any safety equipment at all?"
+        },
+        {
+          "character": "ZEPHT",
+          "line": "Exactly."
+        },
+        {
+          "character": "TUCKER",
+          "line": "Well, in that case, after you."
+        },
+        {
+          "character": "TUCKER",
+          "line": "Get against the wall!"
+        },
+        {
+          "character": "TUCKER",
+          "line": "Everyone all right?"
+        },
+        {
+          "character": "REED",
+          "line": "I'm fine."
+        },
+        {
+          "character": "TREVIX",
+          "line": "Yes."
+        },
+        {
+          "character": "TUCKER",
+          "line": "Let's keep moving before we get trapped down here."
+        }
+      ],
+      "location": "Caves"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "HOSHI",
+          "line": "Captain."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Is that the Governor?"
+        },
+        {
+          "character": "HOSHI",
+          "line": "He says his time is precious."
+        },
+        {
+          "character": "ARCHER",
+          "line": "So is mine."
+        },
+        {
+          "character": "GOVERNOR",
+          "line": "Captain Archer, I thought I made myself clear.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "ARCHER",
+          "line": "You did, which makes me wonder why you're attacking my people."
+        },
+        {
+          "character": "GOVERNOR",
+          "line": "What do you mean?",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "ARCHER",
+          "line": "One of your patrols has opened fire in the vicinity of the caves. Your general order doesn't go into affect for another hour and a half."
+        },
+        {
+          "character": "GOVERNOR",
+          "line": "I assure you, they're not targeting your crewmen or the Denobulans.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "ARCHER",
+          "line": "Then who are they shooting at?"
+        },
+        {
+          "character": "GOVERNOR",
+          "line": "Soldiers from the previous regime. They've refused to accept the shift in power.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "ARCHER",
+          "line": "That's not my concern. You're endangering my people. You've got to wait until they're in the clear."
+        },
+        {
+          "character": "GOVERNOR",
+          "line": "I'm afraid that's impossible.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "ARCHER",
+          "line": "It's what we agreed to."
+        },
+        {
+          "character": "GOVERNOR",
+          "line": "We agreed to give you three days, nothing more.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "ARCHER",
+          "line": "Target the patrol that's firing at those caves."
+        },
+        {
+          "character": "GOVERNOR",
+          "line": "If you attack us, we'll retaliate.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "T'POL",
+          "line": "We're locked onto the co-ordinates."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Charge weapons."
+        },
+        {
+          "character": "GOVERNOR",
+          "line": "Do you really want to be at war with us, Captain?",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "ARCHER",
+          "line": "The question is do you want to be at war with us. It sounds like you've got your hands full already. Stick to our original agreement and you won't find yourself fighting on two fronts."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "YOLEN",
+          "line": "Commander, the bombing seems to have stopped."
+        },
+        {
+          "character": "REED",
+          "line": "We need to get out of here before it starts up again."
+        }
+      ],
+      "location": "Caves"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "PHLOX",
+          "line": "You wanted to see me?"
+        },
+        {
+          "character": "HUDAK",
+          "line": "What you said about your son. You seem sincere in your desire to set an example for your children. I wish more Denobulans felt that way."
+        },
+        {
+          "character": "PHLOX",
+          "line": "Many do. Perhaps if you met more of us."
+        },
+        {
+          "character": "HUDAK",
+          "line": "That seems unlikely."
+        },
+        {
+          "character": "PHLOX",
+          "line": "Is that all you wanted to say to me?"
+        },
+        {
+          "character": "HUDAK",
+          "line": "You made me think about my own family. I have children as well. I've decided to accept your treatment."
+        }
+      ],
+      "location": "Sickbay"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "YOLEN",
+          "line": "My speleothems!"
+        },
+        {
+          "character": "TUCKER",
+          "line": "Forget about them."
+        },
+        {
+          "character": "YOLEN",
+          "line": "Fortunately, I have some other samples in my case."
+        }
+      ],
+      "location": "Caves"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "ARCHER",
+          "line": "Try them again."
+        },
+        {
+          "character": "HOSHI",
+          "line": "Enterprise to Commander Tucker. Please respond."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Prep Shuttlepod one. Have a security team meet me in the Launch bay."
+        },
+        {
+          "character": "T'POL",
+          "line": "The Xantoras have mobilized their military patrols. They'll detect a shuttle launch."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Noted."
+        },
+        {
+          "character": "TUCKER",
+          "line": "Tucker to Enterprise.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "ARCHER",
+          "line": "You're cutting it pretty close, Trip. The deadline passed two hours ago."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TUCKER",
+          "line": "Better late than never."
+        },
+        {
+          "character": "ARCHER",
+          "line": "The Denobulans?",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "TUCKER",
+          "line": "All aboard. Along with some very rare speleothems."
+        }
+      ],
+      "location": "Shuttlepod"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "T'POL",
+          "line": "Captain, there's a small craft closing on the shuttlepod. It's a patrol ship."
+        },
+        {
+          "character": "ARCHER",
+          "line": "You've got company, Trip."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "REED",
+          "line": "I see them. Bearing one eight four mark two seven."
+        },
+        {
+          "character": "REED",
+          "line": "Minimal damage. They're using low-power particle beams."
+        }
+      ],
+      "location": "Shuttlepod"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "ARCHER",
+          "line": "Do you need assistance?"
+        },
+        {
+          "character": "TUCKER",
+          "line": "Stand by.",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TUCKER",
+          "line": "I think they're just trying to give us a little kick in the pants."
+        }
+      ],
+      "location": "Shuttlepod"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "ARCHER",
+          "line": "How is he?"
+        },
+        {
+          "character": "PHLOX",
+          "line": "He'll be a bit groggy when he comes out of the anesthesia, but the procedure was successful."
+        },
+        {
+          "character": "ARCHER",
+          "line": "I'm glad you didn't defy my orders. I wasn't looking forward to throwing you in irons."
+        },
+        {
+          "character": "PHLOX",
+          "line": "Neither was I."
+        },
+        {
+          "character": "ARCHER",
+          "line": "How did you convince him?"
+        },
+        {
+          "character": "PHLOX",
+          "line": "You must be familiar with the principle of doctor patient confidentiality. Of course, you could always order me to tell you."
+        }
+      ],
+      "location": "Sickbay"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "ARCHER",
+          "line": "Doctor Phlox wanted to see you off, but he's busy treating one of my crewmen who was injured on the surface."
+        },
+        {
+          "character": "HUDAK",
+          "line": "That's all right, Captain. The Doctor and I spent more than enough time together."
+        },
+        {
+          "character": "ARCHER",
+          "line": "It's too bad your research on Xantoras was cut short."
+        },
+        {
+          "character": "HUDAK",
+          "line": "The time I spent on your ship was an education in itself. Thank you for your help."
+        },
+        {
+          "character": "ARCHER",
+          "line": "You do know we came here to rescue three Denobulan geologists?"
+        },
+        {
+          "character": "HUDAK",
+          "line": "Phlox told me."
+        },
+        {
+          "character": "ARCHER",
+          "line": "I understand they'll be heading home on your transport. I hope that won't be a problem."
+        },
+        {
+          "character": "HUDAK",
+          "line": "Have they been informed that I'll be traveling with them?"
+        },
+        {
+          "character": "ARCHER",
+          "line": "I had a talk with them."
+        },
+        {
+          "character": "HUDAK",
+          "line": "And what was their response?"
+        },
+        {
+          "character": "ARCHER",
+          "line": "They're willing, if you are."
+        }
+      ],
+      "location": "Corridor"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "PHLOX",
+          "line": "Computer, begin recording. Dear Mettus, I know it's been time since I've written, and I know chances are slim that you'll respond to this letter. However, something has happened that compels me to try to reach you again. I've had an experience that has opened many old wounds. As painful as it's been, it's also changed something in me. I hope, if you're willing to listen, it might begin to change something in you."
+        }
+      ],
+      "location": "Sickbay"
+    }
+  ],
+  "schedule": {
+    "episode": 21,
+    "number": 47,
+    "season": 2
+  },
+  "stardate": "Unknown",
+  "title": "The Breach"
+}

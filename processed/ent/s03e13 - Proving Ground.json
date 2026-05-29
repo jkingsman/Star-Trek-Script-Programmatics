@@ -1,0 +1,2171 @@
+{
+  "airdate": 1074672000,
+  "scenes": [
+    {
+      "dialogue": [
+        {
+          "character": "ARCHER",
+          "line": "Previously on Enterprise ARCHER [Bridge] : Status.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "T'POL",
+          "line": "We're getting reports of anomalies on all decks."
+        },
+        {
+          "character": "ARCHER",
+          "line": "If we continue, there's a good chance this ship is going to get torn apart.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "DEGRA",
+          "line": "Think what you're asking me to do. Build a weapon to destroy an entire world.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "HUMANOID",
+          "line": "We do not have enough information about the humans."
+        },
+        {
+          "character": "REPTILIAN",
+          "line": "That can be remedied."
+        },
+        {
+          "character": "HOSHI",
+          "line": "They're locking onto the starboard docking port.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "HOSHI",
+          "line": "I'm reading twenty three intruders on decks C, D and E.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "DEGRA",
+          "line": "We're preparing to test the weapon on an uninhabited planet, but we're going to need another shipment of kemocite.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "REPTILIAN",
+          "line": "I'll contact Gralik."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Gralik, I have some questions for you. I want to know where they're shipping this kemocite. It could lead us to the weapon.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "TUCKER",
+          "line": "There's no doubt about it, Captain. This isotope was used in the weapon that attacked Earth.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "ARCHER",
+          "line": "You offered to help us. Are you still willing?",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "GRALIK",
+          "line": "If you're prepared to trust me."
+        },
+        {
+          "character": "HOSHI",
+          "line": "We've modified the radiolitic signature. If you can get it on board their ship, I'll be able to track it.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "ARCHER",
+          "line": "Degra's going to diskover that you sabotaged his kemocite.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "GRALIK",
+          "line": "You should just be concerned with finding this weapon."
+        },
+        {
+          "character": "TRAVIS",
+          "line": "They broke orbit five minutes ago, Captain.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "ARCHER",
+          "line": "Are you picking up the tracking signal?",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "HOSHI",
+          "line": "Loud and clear."
+        }
+      ],
+      "location": "unknown"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "SHRAN",
+          "line": "Yes."
+        },
+        {
+          "character": "TALAS",
+          "line": "Commander Shran, would you come to the Bridge.",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "Shran's Ready room"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "SHRAN",
+          "line": "Status."
+        },
+        {
+          "character": "TALAS",
+          "line": "We've lost the warp trail."
+        },
+        {
+          "character": "SHRAN",
+          "line": "Continue scanning. You know what we're looking for, Lieutenant. It shouldn't be that difficult to find."
+        },
+        {
+          "character": "TALAS",
+          "line": "Commander. We've been searching for weeks."
+        },
+        {
+          "character": "SHRAN",
+          "line": "And we'll continue searching until we've accomplished our mission."
+        },
+        {
+          "character": "TALAS",
+          "line": "Or until we're destroyed? You've seen what this place is like. What are the chances they've survived?"
+        },
+        {
+          "character": "SHRAN",
+          "line": "We have our orders."
+        },
+        {
+          "character": "TALAS",
+          "line": "We should head back to Andoria while we're still able."
+        },
+        {
+          "character": "SHRAN",
+          "line": "You sound like you're afraid of this Expanse, Lieutenant. I'd expect that from a Vulcan, not a member of the Imperial Guard."
+        },
+        {
+          "character": "TALAS",
+          "line": "Continue scanning."
+        },
+        {
+          "character": "SHRAN",
+          "line": "Don't underestimate these pinkskins, Lieutenant. They're still out there."
+        }
+      ],
+      "location": "IW Kumari Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "DEGRA",
+          "line": "Where are the others?"
+        },
+        {
+          "character": "HUMANOID",
+          "line": "Delayed."
+        },
+        {
+          "character": "DEGRA",
+          "line": "I said the matter was urgent."
+        },
+        {
+          "character": "REPTILIAN",
+          "line": "Typical humanoid arrogance. You expect us to come scurrying whenever it suits you."
+        },
+        {
+          "character": "DEGRA",
+          "line": "I'm sorry to inconvenience you, but I'm sure you'll find the journey worth the effort."
+        },
+        {
+          "character": "ARBOREAL",
+          "line": "The weapon is ready?"
+        },
+        {
+          "character": "DEGRA",
+          "line": "Not quite."
+        },
+        {
+          "character": "REPTILIAN",
+          "line": "Then why are you wasting our time?"
+        },
+        {
+          "character": "DEGRA",
+          "line": "The new prototype has been completed. We've scheduled a test."
+        },
+        {
+          "character": "REPTILIAN",
+          "line": "When?"
+        },
+        {
+          "character": "DEGRA",
+          "line": "Three days. You'll be able to view the test remotely from this chamber. If everything goes as planned, we should be ready to deploy the final version in a month, maybe sooner."
+        },
+        {
+          "character": "HUMANOID",
+          "line": "And the human threat will finally be eliminated."
+        },
+        {
+          "character": "DEGRA",
+          "line": "I hope you find that worth your time."
+        }
+      ],
+      "location": "Xindi Council Chamber"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "HOSHI",
+          "line": "The signal was so weak I wasn't even sure it was there at first."
+        },
+        {
+          "character": "ARCHER",
+          "line": "But you are now."
+        },
+        {
+          "character": "HOSHI",
+          "line": "Yes, sir. The isotopic signature matches the kemocite that you planted on the Xindi ship."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Set a course. Tell Trip I want everything he can give me from the engines."
+        },
+        {
+          "character": "T'POL",
+          "line": "Captain, as you know, Ensign Sato and I have been working to reconstruct our database."
+        },
+        {
+          "character": "ARCHER",
+          "line": "And?"
+        },
+        {
+          "character": "HOSHI",
+          "line": "We've managed to dig about thirty percent of our lost data out of the redundant memory core."
+        },
+        {
+          "character": "T'POL",
+          "line": "Enough to begin piecing together a map of the spatial anomalies. The signal lies just beyond a dense field of them."
+        },
+        {
+          "character": "HOSHI",
+          "line": "Here."
+        },
+        {
+          "character": "ARCHER",
+          "line": "How long to go around it?"
+        },
+        {
+          "character": "T'POL",
+          "line": "A field this massive? Seventeen days at warp five."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Alert the crew. It's going to get rough."
+        }
+      ],
+      "location": "Command center"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TUCKER",
+          "line": "Tucker to the Bridge."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Go ahead.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "TUCKER",
+          "line": "I've got the warp reactor buttoned up."
+        }
+      ],
+      "location": "Engineering"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TUCKER",
+          "line": "We're as ready as we'll ever be.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "ARCHER",
+          "line": "Acknowledged. T'Pol?"
+        },
+        {
+          "character": "T'POL",
+          "line": "I've charted the largest anomalies, but the field is extremely dense. We may not be able to avoid all of them."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Do your best. Travis, take us in. One half impulse."
+        },
+        {
+          "character": "TRAVIS",
+          "line": "Aye, sir."
+        },
+        {
+          "character": "T'POL",
+          "line": "Come to bearing two seven five mark eight. Hard to port!"
+        },
+        {
+          "character": "REED",
+          "line": "We just grazed it. No damage."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Just how accurate is this map of yours?"
+        },
+        {
+          "character": "T'POL",
+          "line": "Considering I only have thirty percent of our database to work with. There's an anomaly forming directly ahead. It's expanding."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Expanding?"
+        },
+        {
+          "character": "T'POL",
+          "line": "I've never seen this before. They're merging, building on one another."
+        },
+        {
+          "character": "TRAVIS",
+          "line": "Which way, Sub-Commander?"
+        },
+        {
+          "character": "T'POL",
+          "line": "It's growing too rapidly."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Emergency power to hull plating. Brace for impact."
+        },
+        {
+          "character": "REED",
+          "line": "We're losing hull integrity. Atmosphere's venting on D deck."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Come about. Get us out of here."
+        },
+        {
+          "character": "TRAVIS",
+          "line": "The helm's not responding."
+        },
+        {
+          "character": "T'POL",
+          "line": "We've been completely enveloped."
+        },
+        {
+          "character": "REED",
+          "line": "Main power's going down."
+        },
+        {
+          "character": "TRAVIS",
+          "line": "Sir, I'm picking up something out there. I think it's a ship."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Can you identify it?"
+        },
+        {
+          "character": "TRAVIS",
+          "line": "There's too much distortion."
+        },
+        {
+          "character": "T'POL",
+          "line": "A tractor beam's locked on to us. We've been pulled out."
+        },
+        {
+          "character": "HOSHI",
+          "line": "They're hailing us."
+        },
+        {
+          "character": "ARCHER",
+          "line": "I guess we owe someone a thank-you."
+        },
+        {
+          "character": "SHRAN",
+          "line": "Captain Archer. Look at the trouble you've gotten your pink skin into this time.",
+          "modifier": "screen"
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "SHRAN",
+          "line": "You're braver than I imagined. I wouldn't try to traverse an anomaly field in a ship this fragile."
+        },
+        {
+          "character": "ARCHER",
+          "line": "You don't seem to be having any trouble."
+        },
+        {
+          "character": "SHRAN",
+          "line": "We've diskovered a few tricks to deal with them."
+        },
+        {
+          "character": "T'POL",
+          "line": "How did you locate us?"
+        },
+        {
+          "character": "SHRAN",
+          "line": "We have a record of your warp signature from our last encounter. Our ships are considerably faster than Enterprise. It wasn't difficult to catch up with you."
+        },
+        {
+          "character": "ARCHER",
+          "line": "That explains how you got here. It doesn't explain why."
+        },
+        {
+          "character": "SHRAN",
+          "line": "Your world was brutally attacked. The Imperial Guard thought you'd be grateful to have an ally, considering no one else came rushing to your aid."
+        },
+        {
+          "character": "T'POL",
+          "line": "And how did the Imperial Guard know Earth had been attacked?"
+        },
+        {
+          "character": "SHRAN",
+          "line": "Seven million killed? Not exactly a state secret."
+        },
+        {
+          "character": "T'POL",
+          "line": "Especially if you're monitoring communications between Starfleet and the Vulcan High Command."
+        },
+        {
+          "character": "SHRAN",
+          "line": "What happened to your uniform, Sub-Commander? Not that I don't find your new look becoming, but it's not exactly regulation, is it?"
+        },
+        {
+          "character": "T'POL",
+          "line": "I resigned my commission."
+        },
+        {
+          "character": "SHRAN",
+          "line": "Yes, I believe I heard something about that."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Why are you here?"
+        },
+        {
+          "character": "SHRAN",
+          "line": "Your world is in jeopardy, and where are your friends, the Vulcans? Where is their mighty fleet? They couldn't even spare one officer. She was forced to abandon her career to remain on your ship. A remarkably selfless act, for a Vulcan. But we've come to your aid. We've come into the Expanse when they refused. We're here to help you. If you don't want our assistance, we'll leave you to deal with the Xindi on your own. Just like the Vulcans have done."
+        }
+      ],
+      "location": "Ready room"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "REED",
+          "line": "Targeting sensors are down, hull plating. We're damn lucky the torpedoes were all in safe mode. If one of them had detonated."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Phase cannons?"
+        },
+        {
+          "character": "REED",
+          "line": "They haven't even got enough power to light a camp fire."
+        },
+        {
+          "character": "ARCHER",
+          "line": "How long to fix them?"
+        },
+        {
+          "character": "REED",
+          "line": "I couldn't even guess without a chance to sort this out."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Commander Shran offered to send his Tactical Officer over to help."
+        },
+        {
+          "character": "REED",
+          "line": "We'd be giving them access to critical systems, sir."
+        },
+        {
+          "character": "ARCHER",
+          "line": "The kemocite signal Hoshi picked up could lead us to the Xindi weapon. We're going to need our defenses. I don't like the idea of having the Andorians down here any more than you do, but we could use their help."
+        },
+        {
+          "character": "REED",
+          "line": "Aye, sir."
+        }
+      ],
+      "location": "Armory"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "T'POL",
+          "line": "The Andorian shuttle has docked."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Good. Let's put them to work."
+        },
+        {
+          "character": "T'POL",
+          "line": "I recommend we assign a security detail to each repair crew."
+        },
+        {
+          "character": "ARCHER",
+          "line": "You been talking to Lieutenant Reed? They're here to help, T'Pol."
+        },
+        {
+          "character": "T'POL",
+          "line": "That doesn't mean we shouldn't exercise caution."
+        },
+        {
+          "character": "ARCHER",
+          "line": "I'm not going to ask them to work with guns at their heads just because you don't like them."
+        },
+        {
+          "character": "T'POL",
+          "line": "I neither like nor dislike Andorians. I've simply had a great deal of experience with them."
+        },
+        {
+          "character": "ARCHER",
+          "line": "I appreciate that, but whatever problems exist between Vulcan and Andoria don't involve us."
+        },
+        {
+          "character": "T'POL",
+          "line": "Not at the moment. We weren't always so antagonistic, Captain. In fact, despite their heightened emotions, our first contact with Andorians seemed promising."
+        },
+        {
+          "character": "ARCHER",
+          "line": "What happened?"
+        },
+        {
+          "character": "T'POL",
+          "line": "They were duplicitous. They only honored agreements that didn't conflict with their interests."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Is that your assessment or the High Commands?"
+        },
+        {
+          "character": "T'POL",
+          "line": "Considering the importance of this mission, I feel compelled to point out that they've proven untrustworthy in the past."
+        },
+        {
+          "character": "ARCHER",
+          "line": "I don't trust them either, T'Pol, but based on my experience I think I can trust Commander Shran."
+        }
+      ],
+      "location": "Corridor"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "REED",
+          "line": "Coffee, black."
+        },
+        {
+          "character": "TUCKER",
+          "line": "No tea?"
+        },
+        {
+          "character": "REED",
+          "line": "Yeah, no crumpets either, thank you. I need all the caffeine I can get. What's the situation in Engineering?"
+        },
+        {
+          "character": "TUCKER",
+          "line": "Bad. The Armory?"
+        },
+        {
+          "character": "REED",
+          "line": "Worse."
+        },
+        {
+          "character": "TALAS",
+          "line": "Which one of you is Reed?"
+        },
+        {
+          "character": "REED",
+          "line": "I'm Lieutenant Reed."
+        },
+        {
+          "character": "TALAS",
+          "line": "I assumed I'd find you in the Armory, not relaxing here. What is that?"
+        },
+        {
+          "character": "REED",
+          "line": "It's coffee, and just for the record, I haven't left the Armory for so much as a bathroom break in nearly twelve hours. And you are?"
+        },
+        {
+          "character": "TALAS",
+          "line": "Lieutenant Talas of the Imperial Warship Kumari."
+        },
+        {
+          "character": "REED",
+          "line": "This is Commander Tucker, our Chief Engineer."
+        },
+        {
+          "character": "TUCKER",
+          "line": "Pleasure."
+        },
+        {
+          "character": "TALAS",
+          "line": "I've been ordered to assist you."
+        },
+        {
+          "character": "REED",
+          "line": "Indeed. Well, I'll see if I can find something for you to do."
+        },
+        {
+          "character": "TALAS",
+          "line": "I have duties of my own. The sooner your ship is repaired, the sooner I can get back to them."
+        },
+        {
+          "character": "TUCKER",
+          "line": "Well, I'll let you two get acquainted."
+        }
+      ],
+      "location": "Mess hall"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "SHRAN",
+          "line": "I wasn't sure we'd find you alive. Under the circumstances, I'd say we have something to celebrate."
+        },
+        {
+          "character": "ARCHER",
+          "line": "I appreciate the gesture, but we have a lot of repairs to make."
+        },
+        {
+          "character": "SHRAN",
+          "line": "And your crew's doing a fine job of making them. Have a drink with me. You've earned a brief respite. Andorian ale. You seemed to enjoy it the last time we met. I took the liberty of bringing a few extra bottles."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Thanks."
+        },
+        {
+          "character": "SHRAN",
+          "line": "To a swift victory."
+        },
+        {
+          "character": "ARCHER",
+          "line": "So, how did you get picked for this assignment?"
+        },
+        {
+          "character": "SHRAN",
+          "line": "I volunteered. It made sense. I've had the greatest amount of contact with pink, with humans, and the last time we met you helped my people avert a war. I don't like unpaid debts."
+        },
+        {
+          "character": "ARCHER",
+          "line": "We keep doing each other favors."
+        },
+        {
+          "character": "SHRAN",
+          "line": "Isn't that how alliances are born?"
+        }
+      ],
+      "location": "Captain's Mess"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TUCKER",
+          "line": "I haven't seen you in a while. As long as you're here, maybe you can give me a hand. Touch this onto the phase regulator, there, while I check the polarity. I thought you might be avoiding me."
+        },
+        {
+          "character": "T'POL",
+          "line": "Three neuro-pressure sessions a week is hardly avoiding you. The Captain asked for an update on your repairs."
+        },
+        {
+          "character": "TUCKER",
+          "line": "Three of the injectors are burnt out, the restrictor coils are completely fried."
+        },
+        {
+          "character": "T'POL",
+          "line": "How long until we have warp?"
+        },
+        {
+          "character": "TUCKER",
+          "line": "I would say at least two days, but the blue guys really know their stuff. Should be up and running in about twelve hours? Is there a problem?"
+        },
+        {
+          "character": "T'POL",
+          "line": "No. Keep me informed of your progress."
+        }
+      ],
+      "location": "Engineering"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "REED",
+          "line": "Hand me the micro-spanner, please."
+        },
+        {
+          "character": "TALAS",
+          "line": "I've brought some equipment that should align those relays much more precisely."
+        },
+        {
+          "character": "REED",
+          "line": "The spanner will do the job nicely. If you wouldn't mind."
+        },
+        {
+          "character": "TALAS",
+          "line": "Is there anything else I can get you? Some coffee, perhaps?"
+        },
+        {
+          "character": "REED",
+          "line": "That'd be lovely."
+        },
+        {
+          "character": "TALAS",
+          "line": "Since you clearly don't need my help, I'll return to my ship. Thank you for the hospitality."
+        },
+        {
+          "character": "REED",
+          "line": "Give my regards to Commander Shran."
+        },
+        {
+          "character": "TALAS",
+          "line": "For what it's worth, Lieutenant, I'm not here to steal your secrets. It would hardly be worth the effort."
+        },
+        {
+          "character": "REED",
+          "line": "I beg your pardon?"
+        },
+        {
+          "character": "TALAS",
+          "line": "Last time I saw weapons like these was during my early tactical training."
+        },
+        {
+          "character": "REED",
+          "line": "I'm sorry I wasted your time on our primitive systems."
+        },
+        {
+          "character": "TALAS",
+          "line": "Not at all. I found it nostalgic. Just be careful when you reconnect that to your power grid. You didn't reset the EPS synchronizer. You may singe your eyebrows when you bring it back online."
+        },
+        {
+          "character": "REED",
+          "line": "Lieutenant Talas. I apologize if I've been rude. Why don't I get us both a cup of coffee and we can align these relays together. Captain's starlog, December 6th, 2153. With some assistance from the Andorians we've managed to steer clear of anomalies."
+        }
+      ],
+      "location": "Armory"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "T'POL",
+          "line": "Two hundred million kilometers."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Close enough, Travis. We don't want to give ourselves away."
+        },
+        {
+          "character": "TRAVIS",
+          "line": "Aye, sir."
+        },
+        {
+          "character": "T'POL",
+          "line": "It's a G-type star system, six planets with over a hundred moons."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Any biosigns?"
+        },
+        {
+          "character": "T'POL",
+          "line": "There's a great deal of debris in the system. I can't tell from this range."
+        },
+        {
+          "character": "SHRAN",
+          "line": "Our sensors are more sophisticated than yours. We should be able to scan the system without betraying our presence. If I may? This is Commander Shran."
+        },
+        {
+          "character": "ANDORIAN",
+          "line": "Go ahead.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "SHRAN",
+          "line": "Transfer our long range sensor data to Enterprise."
+        },
+        {
+          "character": "ANDORIAN",
+          "line": "Yes, Commander.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "HOSHI",
+          "line": "It's coming in."
+        },
+        {
+          "character": "T'POL",
+          "line": "Four vessels, all Xindi."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "T'POL",
+          "line": "Many of the moons show evidence of extensive weapons bombardment."
+        },
+        {
+          "character": "SHRAN",
+          "line": "Why attack an uninhabited system?"
+        },
+        {
+          "character": "ARCHER",
+          "line": "I don't think they attacked anyone. It's Bikini Atoll."
+        },
+        {
+          "character": "SHRAN",
+          "line": "What?"
+        },
+        {
+          "character": "ARCHER",
+          "line": "When my species was developing primitive nuclear weapons they needed places to test them. One was a remote island called Bikini Atoll."
+        },
+        {
+          "character": "T'POL",
+          "line": "So you believe this is some kind of proving ground."
+        },
+        {
+          "character": "ARCHER",
+          "line": "It's possible. If they are getting ready to test their weapon, we're running out of time."
+        },
+        {
+          "character": "SHRAN",
+          "line": "I wouldn't recommend a frontal assault. Your weapons are damaged, critical systems are down all over your ship, and your out-numbered four to one."
+        },
+        {
+          "character": "T'POL",
+          "line": "I thought it was four to two."
+        },
+        {
+          "character": "SHRAN",
+          "line": "Even our combined forces don't stand a chance against that kind of firepower. I'm not ready to risk my ship when we don't even know if the Xindi weapon is here."
+        },
+        {
+          "character": "ARCHER",
+          "line": "I agree. We need to get a closer look."
+        },
+        {
+          "character": "SHRAN",
+          "line": "What do you propose we do? Fly up to them and ask them what they're doing?"
+        }
+      ],
+      "location": "Command center"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TUCKER",
+          "line": "Ensign."
+        },
+        {
+          "character": "ENSIGN",
+          "line": "Commander."
+        },
+        {
+          "character": "TUCKER",
+          "line": "I'll take him from here."
+        },
+        {
+          "character": "SHRAN",
+          "line": "Mister Tucker. How are your repairs coming along?"
+        },
+        {
+          "character": "TUCKER",
+          "line": "Pretty well, thanks to your people, but I was wondering if I could ask a favor. I'm told your anti-matter injectors use variable compression nozzles."
+        },
+        {
+          "character": "SHRAN",
+          "line": "Told by whom? That's rather sensitive information."
+        },
+        {
+          "character": "TUCKER",
+          "line": "I don't want to get anyone in trouble, but one of those injectors would work wonders for our engines."
+        },
+        {
+          "character": "SHRAN",
+          "line": "I imagine it would. I don't know, Commander, that's a sophisticated piece of technology."
+        },
+        {
+          "character": "TUCKER",
+          "line": "I thought we were allies here."
+        },
+        {
+          "character": "SHRAN",
+          "line": "That remains to be seen. You have my condolences over the attack on your world."
+        },
+        {
+          "character": "TUCKER",
+          "line": "Thanks."
+        },
+        {
+          "character": "SHRAN",
+          "line": "I understand your sister was killed. Captain Archer told me."
+        },
+        {
+          "character": "TUCKER",
+          "line": "Well, lots of people lost family."
+        },
+        {
+          "character": "SHRAN",
+          "line": "No great victory comes without sacrifice. The dispute between my people and the Vulcans hasn't been bloodless. Border skirmishes were common a few decades ago. They'd violate our territory, we'd retaliate. I was still in school when my older brother joined the Imperial Guard. He was assigned to a forward surveillance unit. I can understand why you seek vengeance against these Xindi."
+        },
+        {
+          "character": "TUCKER",
+          "line": "I'd love to get my hands on whoever ordered that attack, but that's not why we're here."
+        },
+        {
+          "character": "SHRAN",
+          "line": "You have no desire to make these people pay for the death of your sister?"
+        },
+        {
+          "character": "TUCKER",
+          "line": "I just want to make sure they don't get the chance to finish what they started."
+        },
+        {
+          "character": "TUCKER",
+          "line": "So, any help you can give us."
+        },
+        {
+          "character": "SHRAN",
+          "line": "I'll have that anti-matter injector delivered to you."
+        },
+        {
+          "character": "TUCKER",
+          "line": "I appreciate it."
+        }
+      ],
+      "location": "Corridor"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "HUMANOID",
+          "line": "Degra, what's the delay?",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "DEGRA",
+          "line": "Stand by."
+        }
+      ],
+      "location": "Weapon control center"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "REPTILIAN",
+          "line": "We have been standing by for nearly an hour."
+        },
+        {
+          "character": "DEGRA",
+          "line": "We're confirming final",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "Xindi Council chamber"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "DEGRA",
+          "line": "power readings. I wouldn't want you to be disappointed with the results. Deploy the weapon."
+        },
+        {
+          "character": "DEGRA",
+          "line": "Initiate firing protocols."
+        }
+      ],
+      "location": "Weapon control center"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "REPTILIAN",
+          "line": "What is it?"
+        },
+        {
+          "character": "DEGRA",
+          "line": "A ship just entered the system.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "INSECTOID",
+          "line": "What kind of ship?"
+        }
+      ],
+      "location": "Xindi Council chamber"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "DEGRA",
+          "line": "We can't identify it. Abort the test. Return the weapon to the launch platform."
+        }
+      ],
+      "location": "Weapon control center"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "ARBOREAL",
+          "line": "Degra, report."
+        },
+        {
+          "character": "DEGRA",
+          "line": "Stand by.",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "Xindi Council chamber"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "DEGRA",
+          "line": "Activate all defense systems. Contact the other vessels and have them intercept that ship."
+        }
+      ],
+      "location": "Weapon control center"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "HUMANOID",
+          "line": "Degra!"
+        },
+        {
+          "character": "DEGRA",
+          "line": "We're securing the weapon.",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "Xindi Council chamber"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "DEGRA",
+          "line": "I'll resume contact when I can."
+        },
+        {
+          "character": "THALEN",
+          "line": "We're receiving a transmission from the ship."
+        },
+        {
+          "character": "SHRAN",
+          "line": "Allow me to introduce myself. My name is Shran.",
+          "modifier": "screen"
+        }
+      ],
+      "location": "Weapon control center"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "SHRAN",
+          "line": "Of the Andorian Mining Consortium."
+        },
+        {
+          "character": "DEGRA",
+          "line": "You've entered restricted space. Leave immediately.",
+          "modifier": "screen"
+        }
+      ],
+      "location": "IW Kumari Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "SHRAN",
+          "line": "Restricted? I had no idea. We don't want to cause any trouble. We're looking for a rare element",
+          "modifier": "screen"
+        }
+      ],
+      "location": "Weapon control center"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "SHRAN",
+          "line": "Archerite. We picked up some promising readings coming from your system."
+        },
+        {
+          "character": "DEGRA",
+          "line": "I don't care what you're looking for. Turn your ship around and leave.",
+          "modifier": "screen"
+        },
+        {
+          "character": "SHRAN",
+          "line": "Of course, of course, but you don't mind if we finish our scans? Archerite is"
+        }
+      ],
+      "location": "IW Kumari Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "SHRAN",
+          "line": "Extremely valuable to us. Even a few kilos will pay our expenses for the next ten cycles.",
+          "modifier": "screen"
+        },
+        {
+          "character": "THALEN",
+          "line": "They're scanning our ships."
+        },
+        {
+          "character": "SHRAN",
+          "line": "We're not trying to violate your privacy.",
+          "modifier": "screen"
+        }
+      ],
+      "location": "Weapon control center"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "SHRAN",
+          "line": "Our sensors are omni-directional. There's nothing to be concerned about."
+        }
+      ],
+      "location": "IW Kumari Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "DEGRA",
+          "line": "Deactivate your scans and leave, or we'll destroy you."
+        },
+        {
+          "character": "SHRAN",
+          "line": "There's no need for threats. We'll leave, but if this system does contain archerite, you just missed out your opportunity to collect a generous percentage.",
+          "modifier": "screen"
+        }
+      ],
+      "location": "Weapon control center"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "SHRAN",
+          "line": "Stop the scan. Take us out of the system, but not too quickly. The Andorian Mining Consortium runs from no one."
+        }
+      ],
+      "location": "IW Kumari Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "T'POL",
+          "line": "It's emitting high levels of radiation."
+        },
+        {
+          "character": "SHRAN",
+          "line": "It could be anything. Power generator of some kind, fusion reactor."
+        },
+        {
+          "character": "T'POL",
+          "line": "It has the same quantum signature as the weapon that attacked Earth."
+        },
+        {
+          "character": "ARCHER",
+          "line": "What's the status of our repairs?"
+        },
+        {
+          "character": "T'POL",
+          "line": "Impulse and warp engines are nominal, hull plating's at eighty two percent."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Weapons?"
+        },
+        {
+          "character": "T'POL",
+          "line": "Mister Reed reports the anomaly caused more damage that he originally estimated."
+        },
+        {
+          "character": "ARCHER",
+          "line": "How long?"
+        },
+        {
+          "character": "T'POL",
+          "line": "He isn't certain. Perhaps two days."
+        },
+        {
+          "character": "ARCHER",
+          "line": "If they are here to test that thing, we may not have two days."
+        },
+        {
+          "character": "SHRAN",
+          "line": "Why the urgency? This can't be the final version of the weapon. T'Pol's analysis shows it isn't powerful enough to destroy an entire planet. Let them run their tests. Why destroy this prototype when we can see it in use and gage it's destructive power?"
+        },
+        {
+          "character": "ARCHER",
+          "line": "I don't intend to destroy it. If we could get our hands on this weapon, Starfleet might be able to figure out a defense. We're going to take it."
+        }
+      ],
+      "location": "Command center"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TALAS",
+          "line": "The phase couplers are charging."
+        },
+        {
+          "character": "REED",
+          "line": "All we have left is to reset the emitters."
+        },
+        {
+          "character": "TALAS",
+          "line": "What's the frequency?"
+        },
+        {
+          "character": "REED",
+          "line": "I'll do it."
+        },
+        {
+          "character": "TALAS",
+          "line": "You don't trust me."
+        },
+        {
+          "character": "REED",
+          "line": "No offense, but when it comes to our weapons frequencies I wouldn't trust my own mother."
+        },
+        {
+          "character": "TALAS",
+          "line": "Is your mother considered a security risk?"
+        },
+        {
+          "character": "REED",
+          "line": "It's just an expression."
+        },
+        {
+          "character": "TALAS",
+          "line": "An odd one. My mother's security clearance is higher than mine."
+        },
+        {
+          "character": "REED",
+          "line": "Really."
+        },
+        {
+          "character": "TALAS",
+          "line": "She commanded an Imperial Infantry Unit."
+        },
+        {
+          "character": "REED",
+          "line": "You come from a military family."
+        },
+        {
+          "character": "TALAS",
+          "line": "Four generations."
+        },
+        {
+          "character": "REED",
+          "line": "Three, on my father's side."
+        },
+        {
+          "character": "TALAS",
+          "line": "He must be disappointed in you."
+        },
+        {
+          "character": "REED",
+          "line": "What?"
+        },
+        {
+          "character": "TALAS",
+          "line": "Betraying your family tradition by serving on a ship of exploration."
+        },
+        {
+          "character": "REED",
+          "line": "Actually, we haven't done much exploring for quite a while, but since you ask, he wasn't very pleased. The Royal Navy was his life."
+        },
+        {
+          "character": "TALAS",
+          "line": "Perhaps he'd feel differently if he saw you now, fighting for the survival of your race."
+        },
+        {
+          "character": "REED",
+          "line": "I'm sure he would. Right, all done. I'll power it up and we'll see where we stand."
+        }
+      ],
+      "location": "Armory"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "ARCHER",
+          "line": "Report."
+        },
+        {
+          "character": "T'POL",
+          "line": "They've launched the prototype."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Can we get a closer look?"
+        },
+        {
+          "character": "SHRAN",
+          "line": "This is Shran."
+        },
+        {
+          "character": "ANDORIAN",
+          "line": "Yes, Commander.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "SHRAN",
+          "line": "Transfer our sensor telemetry to Enterprise."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "REPTILIAN",
+          "line": "Are these the satisfying results you promised?"
+        },
+        {
+          "character": "INSECTOID",
+          "line": "You said the moon would be destroyed."
+        }
+      ],
+      "location": "Xindi Council chamber"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "DEGRA",
+          "line": "The device was building to an overload. We were forced to shut it down."
+        },
+        {
+          "character": "HUMANOID",
+          "line": "Why?",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "Weapon control center"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "HUMANOID",
+          "line": "What happened?"
+        },
+        {
+          "character": "DEGRA",
+          "line": "I need",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "Xindi Council chamber"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "DEGRA",
+          "line": "Time to analyze the data."
+        }
+      ],
+      "location": "Weapon control center"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "REPTILIAN",
+          "line": "Time? We have given you more than enough time. We were promised a weapon to destroy the humans in one stroke, not hack away at them bit by bit."
+        },
+        {
+          "character": "AQUATIC",
+          "line": "He's right, Degra. Our patience is wearing thin."
+        },
+        {
+          "character": "ARBOREAL",
+          "line": "That moon was nearly split in two. Clearly, progress has been made."
+        },
+        {
+          "character": "REPTILIAN",
+          "line": "Not enough. Every failure puts us at risk."
+        },
+        {
+          "character": "HUMANOID",
+          "line": "Degra"
+        }
+      ],
+      "location": "Xindi Council chamber"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "HUMANOID",
+          "line": "Can the problem be rectified?",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "DEGRA",
+          "line": "Once I've recovered the device, I'll have more information."
+        },
+        {
+          "character": "REPTILIAN",
+          "line": "We hope so."
+        }
+      ],
+      "location": "Weapon control center"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "T'POL",
+          "line": "The output was much greater than the probe that attacked Earth, but still, I don't believe the device reached it's maximum yield. We detected power fluctuations. It appears it was building toward an overload."
+        },
+        {
+          "character": "SHRAN",
+          "line": "Are you saying this was a failure?"
+        },
+        {
+          "character": "T'POL",
+          "line": "A spectacular one, but yes."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Gralik. An arboreal Xindi that we met at a facility that manufactured one of the components for the weapon. He promised to help us. Looks like he kept his word."
+        },
+        {
+          "character": "SHRAN",
+          "line": "Why haven't they retrieved it?"
+        },
+        {
+          "character": "T'POL",
+          "line": "It's still emitting high levels of radiation."
+        },
+        {
+          "character": "ARCHER",
+          "line": "How long until it's safe enough to get close?"
+        },
+        {
+          "character": "T'POL",
+          "line": "Six hours, at least."
+        },
+        {
+          "character": "ARCHER",
+          "line": "We've got to get to it before they do. What if we shield the launch bay, evacuate all the adjacent compartments. Could we bring it aboard any sooner?"
+        },
+        {
+          "character": "T'POL",
+          "line": "Our shielding wouldn't be sufficient to protect the crew."
+        },
+        {
+          "character": "SHRAN",
+          "line": "Use my ship. Our forcefield will contain the radiation. We'll secure the device in our cargo bay until it's safe to transfer to Enterprise."
+        },
+        {
+          "character": "ARCHER",
+          "line": "That's a generous offer, but what are we supposed to do, cheer you on?"
+        },
+        {
+          "character": "SHRAN",
+          "line": "It's four against two, remember? This would be a joint venture."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Archer to Lieutenant Reed."
+        }
+      ],
+      "location": "Command center"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "REED",
+          "line": "Reed here, sir."
+        },
+        {
+          "character": "ARCHER",
+          "line": "What's the status on weapons?",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "REED",
+          "line": "Torpedoes are back online, and thanks to Lieutenant Talas we should have phase cannons within the hour."
+        },
+        {
+          "character": "ARCHER",
+          "line": "We're going to need them. Archer out.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "TALAS",
+          "line": "I wish we had more time. You're only going to get ninety four percent efficiency from the phase cannons."
+        },
+        {
+          "character": "REED",
+          "line": "I've never gotten them above ninety three. If you ever decide to leave the Imperial Guard, Starfleet could certainly use you."
+        },
+        {
+          "character": "TALAS",
+          "line": "And if you get tired of exploring, you'd do well in the Imperial Guard."
+        }
+      ],
+      "location": "Armory"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "ARCHER",
+          "line": "I appreciate your offer, Shran. We accept."
+        },
+        {
+          "character": "SHRAN",
+          "line": "I'll return to my ship."
+        },
+        {
+          "character": "ARCHER",
+          "line": "I'm going with you. I plan to be there when you bring the weapon aboard."
+        },
+        {
+          "character": "SHRAN",
+          "line": "That won't be necessary. We'll keep you informed."
+        },
+        {
+          "character": "ARCHER",
+          "line": "That's not good enough. If something goes wrong."
+        },
+        {
+          "character": "SHRAN",
+          "line": "Kumari is a warship with a battle-tested crew. They're capable of performing their duties without you looking over their shoulders."
+        },
+        {
+          "character": "ARCHER",
+          "line": "What happened to this being a joint venture?"
+        },
+        {
+          "character": "SHRAN",
+          "line": "We'll render whatever assistance we can, but my crew won't take orders from you."
+        },
+        {
+          "character": "ARCHER",
+          "line": "They're going to have to."
+        },
+        {
+          "character": "SHRAN",
+          "line": "The Imperial Guard doesn't serve at your leisure, pinkskin."
+        },
+        {
+          "character": "ARCHER",
+          "line": "This is my mission."
+        },
+        {
+          "character": "SHRAN",
+          "line": "And you'd pass up your best chance for success over a matter of pride?"
+        },
+        {
+          "character": "ARCHER",
+          "line": "This isn't about pride. The Xindi killed seven million humans, not Andorians. I won't put the fate of my people in the hands of the Imperial Guard. Now, we could use your help, but if you're not happy with me calling the shots then we'll go it alone."
+        }
+      ],
+      "location": "Command center"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "GENERAL",
+          "line": "I've seen the scans you transmitted, Commander. Impressive.",
+          "modifier": "screen"
+        },
+        {
+          "character": "SHRAN",
+          "line": "Archer's science officer believes the weapon is unstable. It nearly overloaded."
+        },
+        {
+          "character": "GENERAL",
+          "line": "The Vulcan.",
+          "modifier": "screen"
+        },
+        {
+          "character": "SHRAN",
+          "line": "I have no reason to doubt her assessment. She seems competent."
+        },
+        {
+          "character": "GENERAL",
+          "line": "We'll review her data. Proceed as planned.",
+          "modifier": "screen"
+        },
+        {
+          "character": "SHRAN",
+          "line": "General, the humans may yet become valuable allies."
+        },
+        {
+          "character": "GENERAL",
+          "line": "If your mission is successful, we won't need an alliance with them, or anyone.",
+          "modifier": "screen"
+        },
+        {
+          "character": "SHRAN",
+          "line": "Why squander the opportunity? Is this mission worth making enemies of them?"
+        },
+        {
+          "character": "GENERAL",
+          "line": "It's not up to you to determine the value of this mission, Commander. I trust your regard for this pinkskin won't cause you to forget that.",
+          "modifier": "screen"
+        }
+      ],
+      "location": "Shran's ready room"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "REED",
+          "line": "What are you doing? Why are you accessing the sensors? They weren't damaged."
+        },
+        {
+          "character": "TALAS",
+          "line": "Not by the anomaly. With all the bypasses we've been running, we obviously could have created some additional problems."
+        },
+        {
+          "character": "REED",
+          "line": "You're just being thorough."
+        },
+        {
+          "character": "TALAS",
+          "line": "You wouldn't want to be in a battle with the Xindi and suddenly find yourself flying blind."
+        },
+        {
+          "character": "REED",
+          "line": "So, anything we need to worry about?"
+        },
+        {
+          "character": "TALAS",
+          "line": "Your lateral array was out of alignment. I corrected it. All other systems are functioning properly. I'd take this ship into combat myself."
+        },
+        {
+          "character": "REED",
+          "line": "Even with our primitive weapons?"
+        },
+        {
+          "character": "TALAS",
+          "line": "It's not the weapon, it's the soldier who wields it."
+        }
+      ],
+      "location": "Armory"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "DEGRA",
+          "line": "What is it?"
+        },
+        {
+          "character": "THALEN",
+          "line": "A ship."
+        },
+        {
+          "character": "DEGRA",
+          "line": "The Andorians?"
+        },
+        {
+          "character": "THALEN",
+          "line": "No. Biosigns are human."
+        },
+        {
+          "character": "DEGRA",
+          "line": "Send the escort ships to intercept. We have to keep them away from the weapon."
+        }
+      ],
+      "location": "Weapon control center"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TRAVIS",
+          "line": "Two Xindi ships approaching."
+        },
+        {
+          "character": "T'POL",
+          "line": "Tactical alert. Evasive maneuvers, Ensign."
+        },
+        {
+          "character": "TRAVIS",
+          "line": "Aye."
+        },
+        {
+          "character": "T'POL",
+          "line": "Hail the Captain."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "T'POL",
+          "line": "The two reptilian ships are moving towards us. The other vessels are holding position.",
+          "modifier": "screen"
+        },
+        {
+          "character": "ARCHER",
+          "line": "Try to keep them busy."
+        },
+        {
+          "character": "T'POL",
+          "line": "Acknowledged.",
+          "modifier": "screen"
+        },
+        {
+          "character": "SHRAN",
+          "line": "I await your orders."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Let's go get it."
+        },
+        {
+          "character": "SHRAN",
+          "line": "Charge weapons. Set a course."
+        }
+      ],
+      "location": "IW Kumari Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "THALEN",
+          "line": "Another vessel. It's the Andorian ship. They're heading for the weapon."
+        },
+        {
+          "character": "DEGRA",
+          "line": "They're working together. Get our ships back here now!"
+        }
+      ],
+      "location": "Weapon control center"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "REED",
+          "line": "Hull plating's holding."
+        },
+        {
+          "character": "T'POL",
+          "line": "Return fire. Target their engines."
+        },
+        {
+          "character": "REED",
+          "line": "They're breaking off."
+        },
+        {
+          "character": "TRAVIS",
+          "line": "They're heading back into the system."
+        },
+        {
+          "character": "T'POL",
+          "line": "Pursuit course, Ensign. Continue firing all weapons."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TALAS",
+          "line": "We have it."
+        },
+        {
+          "character": "SHRAN",
+          "line": "Take us out of the system, maximum speed. Are they following?"
+        },
+        {
+          "character": "TALAS",
+          "line": "No. The human vessel disabled main propulsion on both ships."
+        },
+        {
+          "character": "ARCHER",
+          "line": "What about Enterprise?"
+        },
+        {
+          "character": "TALAS",
+          "line": "They've gone to warp. No apparent damage."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Contact T'Pol. Have her meet us at the rendezvous point. Is there a problem?"
+        },
+        {
+          "character": "SHRAN",
+          "line": "Inform the Imperial Guard we have the weapon. Set a course for Andoria, maximum warp."
+        },
+        {
+          "character": "ARCHER",
+          "line": "What are you doing?"
+        },
+        {
+          "character": "SHRAN",
+          "line": "I'm afraid we won't be taking orders from you any longer."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Now I see why you generously offered to let us use your ship, you son of a bitch."
+        },
+        {
+          "character": "SHRAN",
+          "line": "I was ordered to retrieve the weapon by whatever means necessary."
+        },
+        {
+          "character": "ARCHER",
+          "line": "I'm starting to think the Vulcans may be right about you."
+        },
+        {
+          "character": "SHRAN",
+          "line": "The Vulcans are the reason we're doing this."
+        },
+        {
+          "character": "ARCHER",
+          "line": "What are you talking about?"
+        },
+        {
+          "character": "SHRAN",
+          "line": "For two hundred years all that's kept them from invading Andoria is the threat of massive retaliation. With a weapon of this magnitude at our disposal they wouldn't dare attack us."
+        },
+        {
+          "character": "ARCHER",
+          "line": "You're putting Earth at risk because of a border dispute with the Vulcans?"
+        },
+        {
+          "character": "SHRAN",
+          "line": "We disrupted the Xindi test, took their weapon. We may have helped save your world."
+        },
+        {
+          "character": "ARCHER",
+          "line": "I guess I'm not familiar with the Andorian concept of help."
+        },
+        {
+          "character": "SHRAN",
+          "line": "I don't need to justify my actions to you, pinkskin. I swore an oath to the Imperial Guard, my loyalty lies with them."
+        },
+        {
+          "character": "ARCHER",
+          "line": "My crew won't let you take the weapon without a fight."
+        },
+        {
+          "character": "SHRAN",
+          "line": "Your ship isn't fast enough to catch us."
+        },
+        {
+          "character": "ARCHER",
+          "line": "You'll have to slow down to pass back through the anomaly field."
+        },
+        {
+          "character": "SHRAN",
+          "line": "I anticipated that. When Talas was working on Enterprise she disrupted the main sensor array. They may be able to catch up to us, but they'll have no way to find us. Archer"
+        },
+        {
+          "character": "ARCHER",
+          "line": "You like to talk about repaying debts. I've owed you that for a long time."
+        },
+        {
+          "character": "SHRAN",
+          "line": "Take the Captain to an escape pod. Don't worry, I'll alert Enterprise where to find you."
+        }
+      ],
+      "location": "IW Kumari Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "T'POL",
+          "line": "We disabled main power on both reptilian ships. The other vessels aren't pursing us."
+        },
+        {
+          "character": "ARCHER",
+          "line": "What about our sensors?"
+        },
+        {
+          "character": "REED",
+          "line": "Back online. You were right, sir. If I hadn't been watching that Andorian officer it might have taken weeks to find where she'd sabotaged the array."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Their ship?"
+        },
+        {
+          "character": "T'POL",
+          "line": "It's approaching the anomaly field."
+        },
+        {
+          "character": "REED",
+          "line": "They've reduced speed. We'll intercept them in fourteen minutes."
+        }
+      ],
+      "location": "Corridor"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "SHRAN",
+          "line": "We've begun examining the weapon."
+        },
+        {
+          "character": "GENERAL",
+          "line": "Excellent work. I'll see that you receive a commendation.",
+          "modifier": "screen"
+        },
+        {
+          "character": "SHRAN",
+          "line": "With respect, General, I'd prefer you didn't."
+        },
+        {
+          "character": "GENERAL",
+          "line": "Transmit your analysis as soon as possible.",
+          "modifier": "screen"
+        },
+        {
+          "character": "TALAS",
+          "line": "Commander Shran.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "SHRAN",
+          "line": "What is it? TALAS [OC}: Enterprise is approaching."
+        }
+      ],
+      "location": "Shran's Ready room"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "SHRAN",
+          "line": "Where are they?"
+        },
+        {
+          "character": "TALAS",
+          "line": "Eighty thousand kilometers. They're hailing us."
+        },
+        {
+          "character": "SHRAN",
+          "line": "Captain Archer. Glad to see you made it back safely. How did you find us?"
+        },
+        {
+          "character": "ARCHER",
+          "line": "You don't think I'd let your people work on my ship without appropriate supervision. Give us the weapon.",
+          "modifier": "screen"
+        },
+        {
+          "character": "SHRAN",
+          "line": "I respect your perseverance, but you don't actually think you'll be able to take it from us?"
+        },
+        {
+          "character": "ARCHER",
+          "line": "No, I think you're going to give it to us. Willingly.",
+          "modifier": "screen"
+        },
+        {
+          "character": "SHRAN",
+          "line": "I should have warned you. Don't drink too much of that Andorian ale in one sitting."
+        },
+        {
+          "character": "ARCHER",
+          "line": "You tossed me overboard before I had a chance to thank you for letting us access your sensor telemetry. When the Xindi tested the weapon we were able to intercept their activation codes. Give it to us, or we'll detonate it in your cargo bay.",
+          "modifier": "screen"
+        },
+        {
+          "character": "SHRAN",
+          "line": "You'll lose your prize."
+        },
+        {
+          "character": "ARCHER",
+          "line": "I'd rather do that than let you take it back to Andoria.",
+          "modifier": "screen"
+        },
+        {
+          "character": "SHRAN",
+          "line": "Why? We're not your enemy."
+        },
+        {
+          "character": "ARCHER",
+          "line": "I can't take the chance that you'd use it against the Vulcans.",
+          "modifier": "screen"
+        },
+        {
+          "character": "SHRAN",
+          "line": "What have the Vulcans done to deserve your loyalty?"
+        },
+        {
+          "character": "ARCHER",
+          "line": "You said you came to help us, Shran. You can still make good on your offer.",
+          "modifier": "screen"
+        },
+        {
+          "character": "SHRAN",
+          "line": "I'm sorry, pinkskin."
+        },
+        {
+          "character": "ARCHER",
+          "line": "You're not giving me any choice.",
+          "modifier": "screen"
+        },
+        {
+          "character": "SHRAN",
+          "line": "I don't believe you. Take us into the anomaly field."
+        },
+        {
+          "character": "ARCHER",
+          "line": "T'Pol.",
+          "modifier": "screen"
+        },
+        {
+          "character": "SHRAN",
+          "line": "Shran to cargo hold three. What's your status?"
+        },
+        {
+          "character": "ANDORIAN",
+          "line": "The firing matrix has activated. I believe the device is arming itself.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "SHRAN",
+          "line": "Shut it down."
+        },
+        {
+          "character": "ANDORIAN",
+          "line": "We're trying, Commander.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "ARCHER",
+          "line": "I'd get rid of it while you still can.",
+          "modifier": "screen"
+        },
+        {
+          "character": "SHRAN",
+          "line": "Report!"
+        }
+      ],
+      "location": "IW Kumari Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "T'POL",
+          "line": "They have less than thirty seconds."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Shran."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "T'POL",
+          "line": "Twenty seconds.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "SHRAN",
+          "line": "Clear the hold. Prepare to open the bay doors."
+        }
+      ],
+      "location": "IW Kumari Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "T'POL",
+          "line": "Six seconds."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Let's get moving."
+        },
+        {
+          "character": "TRAVIS",
+          "line": "Already on it, sir."
+        },
+        {
+          "character": "REED",
+          "line": "No damage sir."
+        },
+        {
+          "character": "ARCHER",
+          "line": "The Andorians?"
+        },
+        {
+          "character": "REED",
+          "line": "They were much closer than we were. Their hull's intact but there's significant damage to their engines and power systems."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Open a channel to Shran. Ask him if he requires our assistance. Captain's Starlog, supplemental. Commander Shran graciously declined our offer of help. The last we saw of them, they were limping away on auxiliary power."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "ARCHER",
+          "line": "You have something?"
+        },
+        {
+          "character": "HOSHI",
+          "line": "Just before we went to warp we received a transmission from the Andorian ship."
+        },
+        {
+          "character": "T'POL",
+          "line": "It wasn't on one of their normal comm. frequencies. It was encrypted to look like subspace interference."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Let's see it."
+        },
+        {
+          "character": "HOSHI",
+          "line": "Apparently they had time to take some detailed scans while it was aboard their ship."
+        },
+        {
+          "character": "T'POL",
+          "line": "Judging by the clandestine nature of the transmission, I'd guess that whoever sent this didn't want to be diskovered."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Get it to Starfleet Command right away."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Why don't you and Trip join me for dinner tonight. I have some Andorian ale you might like to try."
+        }
+      ],
+      "location": "Command center"
+    }
+  ],
+  "schedule": {
+    "episode": 13,
+    "number": 65,
+    "season": 3
+  },
+  "stardate": "Unknown",
+  "title": "Proving Ground"
+}

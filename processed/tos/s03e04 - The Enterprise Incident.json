@@ -1,0 +1,1960 @@
+{
+  "airdate": -39805200,
+  "scenes": [
+    {
+      "dialogue": [
+        {
+          "character": "unknown",
+          "line": "Enterprise Medical Log, stardate 5027.3. Doctor Leonard McCoy recording. I'm concerned about Captain Kirk. He shows indications of increasing tension and emotional stress."
+        }
+      ],
+      "location": "unknown"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "CHEKOV",
+          "line": "I have completed the assignment, Captain. A theoretical incursion into"
+        },
+        {
+          "character": "KIRK",
+          "line": "Yes, Mister Chekov. I can read, and as usual your theoretical evaluations do not tally with mine. Return to your duty and I'll let you know when your work is satisfactory."
+        },
+        {
+          "character": "KIRK",
+          "line": "Mister Spock. Full sensor scan of the region, please."
+        },
+        {
+          "character": "SPOCK",
+          "line": "I did give a full report"
+        },
+        {
+          "character": "KIRK",
+          "line": "Yes, Mister Spock, that was the past. I'm concerned with the present. Or is it becoming too much for this crew to present me current information? SPOCK; No, sir. Compliance presents no problem."
+        },
+        {
+          "character": "KIRK",
+          "line": "Then, Mister Spock, comply."
+        },
+        {
+          "character": "SPOCK",
+          "line": "Sensor scan to one half parsec. Negative, Captain."
+        },
+        {
+          "character": "KIRK",
+          "line": "Very well."
+        },
+        {
+          "character": "MCCOY",
+          "line": "I can find no reason for the captain's behavior, except possibly that we've been on patrol too long without relief and diversion. He has resisted all of my attempts to run a psychological profile on him.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "SULU",
+          "line": "Maintaining course and speed, sir."
+        },
+        {
+          "character": "KIRK",
+          "line": "Change course. Come about to one eight five, mark three."
+        },
+        {
+          "character": "SULU",
+          "line": "But, sir, that'll lead us directly into the Romulan Neutral Zone."
+        },
+        {
+          "character": "KIRK",
+          "line": "Yes, very perceptive, Mister Sulu. I know where the course change takes us. Execute."
+        },
+        {
+          "character": "SULU",
+          "line": "Aye, sir."
+        },
+        {
+          "character": "SPOCK",
+          "line": "Increasing sensor scan to one parsec. All scanners report clear. Nothing in our immediate vicinity."
+        },
+        {
+          "character": "KIRK",
+          "line": "Better and better, Mister Spock."
+        },
+        {
+          "character": "SULU",
+          "line": "Captain, leaving Neutral Zone. Now entering Romulan space."
+        },
+        {
+          "character": "KIRK",
+          "line": "Very well, Mister Sulu."
+        },
+        {
+          "character": "SCOTT",
+          "line": "Lieutenant, when did the order come through?"
+        },
+        {
+          "character": "UHURA",
+          "line": "Order?"
+        },
+        {
+          "character": "SCOTT",
+          "line": "From Starfleet. The order to enter the Neutral Zone."
+        },
+        {
+          "character": "UHURA",
+          "line": "There's been no order I know of, Mister Scott."
+        },
+        {
+          "character": "SCOTT",
+          "line": "Surely the Captain couldn't be doing this on his own authority."
+        },
+        {
+          "character": "KIRK",
+          "line": "If you two have complaints, you can bring them out into the open."
+        },
+        {
+          "character": "SCOTT",
+          "line": "That's a Klingon ship! But it couldn't be, not in this area."
+        },
+        {
+          "character": "SPOCK",
+          "line": "Intelligence reports Romulans now using Klingon design."
+        },
+        {
+          "character": "KIRK",
+          "line": "Sound Red Alert. Man battle stations. Stand by main phasers."
+        },
+        {
+          "character": "UHURA",
+          "line": "Battle stations. All hands, battle stations."
+        },
+        {
+          "character": "SPOCK",
+          "line": "A second ship has appeared. Correction, there are now three. We are surrounded."
+        },
+        {
+          "character": "KIRK",
+          "line": "Lieutenant Uhura, code a message to Starfleet Command. Advise them of our situation. Include all log entries to this point."
+        },
+        {
+          "character": "UHURA",
+          "line": "Aye, sir."
+        },
+        {
+          "character": "KIRK",
+          "line": "Mister Spock, your sensors read clear. What happened?"
+        },
+        {
+          "character": "SPOCK",
+          "line": "I have a theory, Captain."
+        },
+        {
+          "character": "UHURA",
+          "line": "Captain Kirk, I'm receiving a class two signal from the Romulan vessel."
+        },
+        {
+          "character": "KIRK",
+          "line": "Put it on the main viewing screen, Lieutenant, and complete that message to Starfleet Command."
+        },
+        {
+          "character": "UHURA",
+          "line": "Aye, sir."
+        },
+        {
+          "character": "TAL",
+          "line": "You have been identified as the star ship Enterprise, Captain James T. Kirk last known to be in command.",
+          "modifier": "screen"
+        },
+        {
+          "character": "KIRK",
+          "line": "Your information is correct. This is Captain Kirk."
+        },
+        {
+          "character": "TAL",
+          "line": "I am Sub-commander Tal of the Romulan fleet. Your ship is surrounded, Captain. You will surrender immediately, or we will destroy you.",
+          "modifier": "screen"
+        },
+        {
+          "character": "KIRK",
+          "line": "Lieutenant. They want something, or they would have destroyed us by now."
+        },
+        {
+          "character": "SPOCK",
+          "line": "True, Captain. That would be standard Romulan procedure."
+        },
+        {
+          "character": "KIRK",
+          "line": "It's my ship they want, and very badly."
+        },
+        {
+          "character": "SPOCK",
+          "line": "It would be a great prize."
+        },
+        {
+          "character": "KIRK",
+          "line": "Lieutenant. Save your threats. If you board this ship, I'll blow it up. You'll gain nothing."
+        },
+        {
+          "character": "TAL",
+          "line": "Who is that beside you?",
+          "modifier": "screen"
+        },
+        {
+          "character": "KIRK",
+          "line": "My first officer, Commander Spock."
+        },
+        {
+          "character": "TAL",
+          "line": "Vulcan. Yes, Commander. Yes, Commander. No one should decide quickly to die, Captain. We give you one of your hours. If you do not surrender your ship at the end of that time, your destruction is certain. We will be open to communication should you wish it.",
+          "modifier": "screen"
+        },
+        {
+          "character": "KIRK",
+          "line": "You understand that Starfleet Command has been advised of the situation?"
+        },
+        {
+          "character": "TAL",
+          "line": "The subspace message will take three weeks to reach Starfleet. The decision is yours, Captain. One hour.",
+          "modifier": "screen"
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "KIRK",
+          "line": "The design of the ship is the same. Mister Spock, you said you had a theory on why your sensors didn't pick up the new ships until they were upon us."
+        },
+        {
+          "character": "SPOCK",
+          "line": "I believe the Romulans have developed a cloaking device which renders our tracking sensors useless."
+        },
+        {
+          "character": "KIRK",
+          "line": "If so, Romulans could attack in Federation territory before we knew they were there, before a vessel or planet could get even begin to get their defenses up."
+        },
+        {
+          "character": "SCOTT",
+          "line": "They caught us right enough."
+        },
+        {
+          "character": "KIRK",
+          "line": "Well, that's a brilliant observation, Mister Scott. Do you have any other helpful opinions?"
+        },
+        {
+          "character": "SCOTT",
+          "line": "We've not got many choices."
+        },
+        {
+          "character": "KIRK",
+          "line": "We have three. We can fight and be destroyed, or we can destroy the Enterprise ourselves and keep her from the Romulans. Or we can surrender. Opinions, gentlemen."
+        },
+        {
+          "character": "SCOTT",
+          "line": "If the Enterprise is taken by Romulans, they'll know everything there is to know about a starship."
+        },
+        {
+          "character": "SPOCK",
+          "line": "If we had not crossed the Neutral Zone, on your order, you would not now need our opinions to support a decision which should never have had to be made."
+        },
+        {
+          "character": "MCCOY",
+          "line": "Jim, you ordered us? You had no authority!"
+        },
+        {
+          "character": "KIRK",
+          "line": "Dismissed, Doctor."
+        },
+        {
+          "character": "MCCOY",
+          "line": "Jim!"
+        },
+        {
+          "character": "KIRK",
+          "line": "I said dismissed."
+        },
+        {
+          "character": "UHURA",
+          "line": "Bridge to Captain Kirk.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "KIRK",
+          "line": "Kirk here."
+        }
+      ],
+      "location": "Briefing room"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "UHURA",
+          "line": "The Romulan vessel is signaling again, sir."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "KIRK",
+          "line": "Put them on the screen."
+        },
+        {
+          "character": "UHURA",
+          "line": "Aye, aye, sir.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "TAL",
+          "line": "My commander wishes to speak with you, Captain Kirk.",
+          "modifier": "screen"
+        },
+        {
+          "character": "KIRK",
+          "line": "Put him on."
+        },
+        {
+          "character": "TAL",
+          "line": "The commander wishes to see you and your first officer aboard this vessel. It is felt this matter requires diskussion.",
+          "modifier": "screen"
+        },
+        {
+          "character": "KIRK",
+          "line": "Why should we walk right into your hands?"
+        },
+        {
+          "character": "TAL",
+          "line": "Two of my officers will beam aboard your vessel as exchange hostages while you are here.",
+          "modifier": "screen"
+        },
+        {
+          "character": "KIRK",
+          "line": "What guarantee do we have they'll beam aboard our ship once we're on yours?"
+        },
+        {
+          "character": "TAL",
+          "line": "Granted, we do not easily trust each other, Captain, but you are the ones who violated our territory. Should it not be we who distrust your motives? However, we agree to simultaneous exchange.",
+          "modifier": "screen"
+        },
+        {
+          "character": "KIRK",
+          "line": "Give us your transporter co-ordinates. We're beaming aboard."
+        }
+      ],
+      "location": "Briefing room"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "KIRK",
+          "line": "One final order, Engineer Scott. If we do not return, the Enterprise must not be taken. If the Romulans attempt it, you're to fight, and if necessary, destroy yourselves. Is that clear?"
+        },
+        {
+          "character": "SCOTT",
+          "line": "Perfectly clear."
+        },
+        {
+          "character": "KIRK",
+          "line": "Energize."
+        }
+      ],
+      "location": "Transporter room"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "COMMANDER",
+          "line": "Captain Kirk."
+        },
+        {
+          "character": "KIRK",
+          "line": "Commander. I'm honored."
+        },
+        {
+          "character": "COMMANDER",
+          "line": "I don't think so, but we have an important matter to diskuss. And your superficial courtesies are an overture to that diskussion. You are the first officer?"
+        },
+        {
+          "character": "SPOCK",
+          "line": "Spock."
+        },
+        {
+          "character": "COMMANDER",
+          "line": "I speak first with the Captain. You may wait outside."
+        },
+        {
+          "character": "COMMANDER",
+          "line": "The matter of trespass into Romulan space is one of galactic import, a violation of treaties. Now I ask you simply, what is your mission here?"
+        },
+        {
+          "character": "KIRK",
+          "line": "Instrument failure caused navigational error. We were across the Neutral Zone before we realized it, then we were surrounded by your ships before we could get back."
+        },
+        {
+          "character": "COMMANDER",
+          "line": "A starship? One of the Starfleet's finest vessels? You're saying instrument failure as radical as you suggest went unnoticed until you were well past the Neutral Zone?"
+        },
+        {
+          "character": "KIRK",
+          "line": "Accidents happen. Cut off back-up systems malfunction. We were due for overhaul two months ago."
+        },
+        {
+          "character": "COMMANDER",
+          "line": "I see. But you were able to navigate with this malfunction?"
+        },
+        {
+          "character": "KIRK",
+          "line": "The error was corrected."
+        },
+        {
+          "character": "COMMANDER",
+          "line": "But I doubt it'll clear you of espionage."
+        },
+        {
+          "character": "KIRK",
+          "line": "We were not spying, Commander."
+        },
+        {
+          "character": "COMMANDER",
+          "line": "Your language has always been most difficult for me, Captain. Perhaps you have another word for it."
+        },
+        {
+          "character": "KIRK",
+          "line": "You're grossly mistaken if you think we were there"
+        },
+        {
+          "character": "COMMANDER",
+          "line": "Captain, if a Romulan vessel ventured far into Federation territory without good explanation, what would a starbase commander do? You see, it works both ways. I hardly believe you are the injured party. Spock, come in."
+        },
+        {
+          "character": "COMMANDER",
+          "line": "The captain has made his statement."
+        },
+        {
+          "character": "SPOCK",
+          "line": "I understand."
+        },
+        {
+          "character": "COMMANDER",
+          "line": "I must admit some surprise on seeing you, Spock. We were not aware of Vulcans aboard the Enterprise."
+        },
+        {
+          "character": "SPOCK",
+          "line": "Starfleet is not in the habit of informing Romulans of its ships' personnel."
+        },
+        {
+          "character": "COMMANDER",
+          "line": "Quite so. Yet there are certain ships, certain officers, that are known to us. Your situation appears most interesting."
+        },
+        {
+          "character": "KIRK",
+          "line": "What earns Spock your special interest?"
+        },
+        {
+          "character": "COMMANDER",
+          "line": "He is a Vulcan. Our forebears had the same roots and origins. Something you wouldn't understand, Captain. We can appreciate the Vulcans, our distant brothers. I have heard of Vulcan integrity and personal honor. There's a well-known saying, or is it a myth, that Vulcans are incapable of lying?"
+        },
+        {
+          "character": "SPOCK",
+          "line": "It is no myth."
+        },
+        {
+          "character": "COMMANDER",
+          "line": "Then tell me truthfully now, by your honor as a Vulcan, what was your mission?"
+        },
+        {
+          "character": "SPOCK",
+          "line": "I reserve the privilege of speaking only when it will not violate my honor as a Vulcan."
+        },
+        {
+          "character": "COMMANDER",
+          "line": "It is unworthy of a Vulcan to resort to subterfuge."
+        },
+        {
+          "character": "SPOCK",
+          "line": "You're being clever, Commander. That is unworthy of a Romulan. It is not a lie to keep the truth to oneself."
+        },
+        {
+          "character": "COMMANDER",
+          "line": "Then there is a truth here that remains unspoken."
+        },
+        {
+          "character": "KIRK",
+          "line": "You've been told everything. There's nothing else to say."
+        },
+        {
+          "character": "COMMANDER",
+          "line": "There is Mister Spock's unspoken truth. You knew of the cloaking device that we have developed. You deliberately violated Romulan space with a blatant spy mission, by order of the Federation."
+        },
+        {
+          "character": "KIRK",
+          "line": "We've been all through that, Commander!"
+        },
+        {
+          "character": "COMMANDER",
+          "line": "We have not even begun! There's no force that I can use on a Vulcan that will make him speak. That is a fact. But there are Romulan methods completely effective against humans and human weaknesses."
+        },
+        {
+          "character": "SPOCK",
+          "line": "You would not resort to them, Commander. They would prove ineffective against the captain."
+        },
+        {
+          "character": "COMMANDER",
+          "line": "Then they will leave him dead, or what might be worse than dead. But I will know your unspoken truths."
+        },
+        {
+          "character": "KIRK",
+          "line": "Let her rant. There's nothing to say."
+        },
+        {
+          "character": "SPOCK",
+          "line": "I cannot allow the captain to be further destroyed. The strain of command has worn heavily upon him. He's not been himself for several weeks."
+        },
+        {
+          "character": "KIRK",
+          "line": "That's a lie!"
+        },
+        {
+          "character": "SPOCK",
+          "line": "As you can see, Captain Kirk is a highly sensitive and emotional person. I believe he has lost the capacity for rational decision."
+        },
+        {
+          "character": "KIRK",
+          "line": "Shut up, Spock!"
+        },
+        {
+          "character": "SPOCK",
+          "line": "I'm betraying no secrets. The commander's suspicion that Starfleet ordered the Enterprise into the Neutral Zone is unacceptable. Our rapid capture demonstrates its foolhardiness."
+        },
+        {
+          "character": "KIRK",
+          "line": "You filthy liar!"
+        },
+        {
+          "character": "SPOCK",
+          "line": "I am speaking the truth for the benefit of the Enterprise and the Federation. I say now and for the record, that Captain Kirk ordered the Enterprise across the Neutral Zone on his own initiative and his craving for glory."
+        },
+        {
+          "character": "KIRK",
+          "line": "I'll kill you, you filthy traitor! I'll kill you! I'll kill you!"
+        },
+        {
+          "character": "SPOCK",
+          "line": "He is not sane."
+        },
+        {
+          "character": "COMMANDER",
+          "line": "Attention, Enterprise, I am speaking to you from the Romulan flagship."
+        }
+      ],
+      "location": "Romulan Commander's office"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "COMMANDER",
+          "line": "The USS Enterprise, under command of Captain James T. Kirk, is formally charged with espionage. The testimony of First Officer",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "COMMANDER",
+          "line": "Spock was highly instrumental in confirming this intrusion into Romulan space was not an accident. First Officer Spock's testimony was specific that your ship was not under orders from Starfleet Command or the Federation council to perform such a spy mission.",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "Sickbay"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "COMMANDER",
+          "line": "It was Captain Kirk who was solely responsible. Since the crew had no choice but to obey orders, the crew will not be held responsible. Therefore, I am ordering Engineer Scott, presently in command of the Enterprise, to follow the Romulan flagship"
+        }
+      ],
+      "location": "Romulan Commander's office"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "COMMANDER",
+          "line": "To our home base. You will there be processed and released to Federation Command. Until judgment is passed, Captain Kirk will be held in confinement.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "SCOTT",
+          "line": "Security, put our two Romulan hostages in the brig. Lieutenant Uhura, give me a channel to that ship."
+        },
+        {
+          "character": "UHURA",
+          "line": "Channel is open, Mister Scott, and you are tied in."
+        },
+        {
+          "character": "SCOTT",
+          "line": "This is Lieutenant Commander Scott. The Enterprise takes no orders, except those of Captain"
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "SCOTT",
+          "line": "Kirk, And we will stay right here until he returns. And if you make any attempt to board or commandeer the Enterprise, it will be blown to bits along with as many of you as we can take with us.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "COMMANDER",
+          "line": "You humans make a brave noise. There are ways to convince you of your errors."
+        },
+        {
+          "character": "KIRK",
+          "line": "Did you hear that, you coward? You've betrayed everything of value you ever knew. Did you hear the sound of human integrity?"
+        },
+        {
+          "character": "COMMANDER",
+          "line": "Take him to the security room."
+        },
+        {
+          "character": "COMMANDER",
+          "line": "A Vulcan among humans. Living, working with them. I would think the situation would be intolerable to you."
+        },
+        {
+          "character": "SPOCK",
+          "line": "I am half Vulcan. My mother is a human."
+        },
+        {
+          "character": "COMMANDER",
+          "line": "To whom is your allegiance then? Do you call yourself Terran or Vulcan?"
+        },
+        {
+          "character": "SPOCK",
+          "line": "Vulcan."
+        },
+        {
+          "character": "COMMANDER",
+          "line": "How long have you been a Starfleet officer, Spock?"
+        },
+        {
+          "character": "SPOCK",
+          "line": "Eighteen years."
+        },
+        {
+          "character": "COMMANDER",
+          "line": "And you serve Captain Kirk. Do you like him? Do you like your shipmates?"
+        },
+        {
+          "character": "SPOCK",
+          "line": "The question is irrelevant."
+        },
+        {
+          "character": "COMMANDER",
+          "line": "Possibly, but you are subordinate to Captain Kirk's orders, even to his whims."
+        },
+        {
+          "character": "SPOCK",
+          "line": "My duty as an officer is to obey him."
+        },
+        {
+          "character": "COMMANDER",
+          "line": "You are a superior being. Why do you not command?"
+        },
+        {
+          "character": "SPOCK",
+          "line": "I do not desire a ship of my own."
+        },
+        {
+          "character": "COMMANDER",
+          "line": "Or is it that no one has offered you, a Vulcan, that opportunity?"
+        },
+        {
+          "character": "SPOCK",
+          "line": "Such opportunities are extremely rare."
+        },
+        {
+          "character": "COMMANDER",
+          "line": "For someone with your capabilities and accomplishments, opportunities are made and will be. I will see to that, if you'll stop looking on the Federation as the whole universe. It is not, you know."
+        },
+        {
+          "character": "SPOCK",
+          "line": "That thought has occasionally crossed my mind."
+        },
+        {
+          "character": "COMMANDER",
+          "line": "You must have your own ship."
+        },
+        {
+          "character": "SPOCK",
+          "line": "Commander, shall we speak plainly? It is you who desperately need a ship. You want the Enterprise."
+        },
+        {
+          "character": "COMMANDER",
+          "line": "Of course. It would be a great achievement for me to bring home the Enterprise intact. It would broaden the scope of my powers greatly. It would be the achievement of a lifetime. And it would open equal opportunities for you."
+        }
+      ],
+      "location": "Romulan Commander's office"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "UHURA",
+          "line": "Bridge to Doctor McCoy.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "MCCOY",
+          "line": "McCoy here."
+        }
+      ],
+      "location": "McCoy's quarters"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "UHURA",
+          "line": "Doctor, you must beam aboard the Romulan flagship immediately. There's been an injury."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "MCCOY",
+          "line": "I don't make house calls."
+        }
+      ],
+      "location": "McCoy's quarters"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "UHURA",
+          "line": "Doctor, it's Captain Kirk!"
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "MCCOY",
+          "line": "He'll recover, but he'll need further attention. Inform your superior."
+        }
+      ],
+      "location": "Romulan Brig"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "COMMANDER",
+          "line": "Yes? I'll come there. Attend me."
+        }
+      ],
+      "location": "Romulan Commander's office"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "COMMANDER",
+          "line": "I neglected to mention, I'll expect you for dinner. We have much to diskuss."
+        },
+        {
+          "character": "SPOCK",
+          "line": "Indeed."
+        },
+        {
+          "character": "COMMANDER",
+          "line": "Allow me to rephrase. Will you join me for dinner?"
+        },
+        {
+          "character": "SPOCK",
+          "line": "I am honored, Commander. Are the guards also invited?"
+        },
+        {
+          "character": "COMMANDER",
+          "line": "Mister Spock. That corridor is forbidden to all but loyal Romulans."
+        },
+        {
+          "character": "SPOCK",
+          "line": "Of course. I shall obey your restrictions."
+        },
+        {
+          "character": "COMMANDER",
+          "line": "I hope that one day there will be no need for you to observe any restrictions."
+        },
+        {
+          "character": "SPOCK",
+          "line": "It would be illogical to assume that all conditions remain stable."
+        }
+      ],
+      "location": "Romulan Corridor"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "COMMANDER",
+          "line": "Are you the doctor?"
+        },
+        {
+          "character": "MCCOY",
+          "line": "McCoy. Chief medical officer."
+        },
+        {
+          "character": "COMMANDER",
+          "line": "Captain Kirk's condition?"
+        },
+        {
+          "character": "MCCOY",
+          "line": "Well, you can see for yourself, he's mentally depressed, physically weak, disoriented, displays feelings of persecution and rebellion."
+        },
+        {
+          "character": "COMMANDER",
+          "line": "Then by your own standards of normality, this man is not fully competent."
+        },
+        {
+          "character": "MCCOY",
+          "line": "No, not now."
+        },
+        {
+          "character": "COMMANDER",
+          "line": "Mister Spock has stated that he believes the captain had no authority or order to cross the Neutral Zone. Could this mental incapacity have afflicted him earlier?"
+        },
+        {
+          "character": "MCCOY",
+          "line": "Yes, it's possible."
+        },
+        {
+          "character": "COMMANDER",
+          "line": "Mister Spock, the doctor has now confirmed your testimony as to the mental state of your captain. He was and is unfit to continue in command of the Enterprise. That duty has fallen on you. Are you ready to exercise that function?"
+        },
+        {
+          "character": "SPOCK",
+          "line": "I am ready."
+        },
+        {
+          "character": "MCCOY",
+          "line": "Spock, I don't believe it. There's no price you could pay that would make him sell out."
+        },
+        {
+          "character": "SPOCK",
+          "line": "The matter is not open for diskussion, Doctor."
+        },
+        {
+          "character": "MCCOY",
+          "line": "What do you mean, the matter's not open for diskussion?"
+        },
+        {
+          "character": "COMMANDER",
+          "line": "That's enough, Doctor. As a physician, your duty is to save lives. Mister Spock's duty is to lead the Enterprise and its crew to a safe haven."
+        },
+        {
+          "character": "SPOCK",
+          "line": "There is no alternative, Doctor. The safety of the crew is now the paramount issue. It is misguided loyalty to resist any further."
+        },
+        {
+          "character": "KIRK",
+          "line": "You traitor. I'll kill you. I'll kill you. I'll kill you!"
+        },
+        {
+          "character": "MCCOY",
+          "line": "What did you do? What did you do?"
+        },
+        {
+          "character": "SPOCK",
+          "line": "I was unprepared for his attack. I instinctively used the Vulcan death grip."
+        },
+        {
+          "character": "MCCOY",
+          "line": "Your instincts are still good, Mister Spock. The captain is dead."
+        }
+      ],
+      "location": "Romulan Brig"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "CHAPEL",
+          "line": "Doctor! Doctor McCoy! Doctor McCoy!"
+        },
+        {
+          "character": "MCCOY",
+          "line": "I left orders that no one come in here."
+        },
+        {
+          "character": "CHAPEL",
+          "line": "But he's alive, alive!"
+        },
+        {
+          "character": "MCCOY",
+          "line": "Well now that you know it, you might as well assist me. Hand me the physiostimulator."
+        },
+        {
+          "character": "CHAPEL",
+          "line": "But he was dead. Their doctors certified he was dead."
+        },
+        {
+          "character": "MCCOY",
+          "line": "Spock gave him a nerve pinch to simulate death."
+        },
+        {
+          "character": "CHAPEL",
+          "line": "Then Mister Spock isn't a traitor, and you knew that and you didn't"
+        },
+        {
+          "character": "MCCOY",
+          "line": "I didn't know it until I beamed aboard the Romulan ship. Jim and Spock were operating under Federation orders."
+        },
+        {
+          "character": "KIRK",
+          "line": "Oh. My neck feels like it's been twisted off."
+        },
+        {
+          "character": "MCCOY",
+          "line": "That's the Vulcan death grip for you."
+        },
+        {
+          "character": "CHAPEL",
+          "line": "There's no such thing as a Vulcan death grip."
+        },
+        {
+          "character": "KIRK",
+          "line": "Ah, but the Romulans don't know that. Sure fooled the doctors."
+        },
+        {
+          "character": "MCCOY",
+          "line": "You took a big chance they didn't start an autopsy."
+        },
+        {
+          "character": "KIRK",
+          "line": "As far as the rest of the crew's concerned, I'm still dead."
+        },
+        {
+          "character": "CHAPEL",
+          "line": "Why?"
+        },
+        {
+          "character": "KIRK",
+          "line": "That's what this whole masquerade was about. To keep the Enterprise and the Federation off the hook."
+        },
+        {
+          "character": "MCCOY",
+          "line": "So that if anything went wrong, you would be the one to blame."
+        },
+        {
+          "character": "KIRK",
+          "line": "Bones, I want you to prepare for surgery."
+        },
+        {
+          "character": "MCCOY",
+          "line": "What for?"
+        }
+      ],
+      "location": "Sickbay"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "MCCOY",
+          "line": "Sickbay to Bridge.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "SCOTT",
+          "line": "Scott here, Doctor."
+        },
+        {
+          "character": "MCCOY",
+          "line": "Mister Scott, will you report to Sickbay.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "SCOTT",
+          "line": "Sickbay? I can't leave the bridge at a time like this."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "MCCOY",
+          "line": "You have to. It's urgent."
+        }
+      ],
+      "location": "McCoy's office"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "SCOTT",
+          "line": "We're surrounded by enemy vessels ready to attack us. I don't know of anything more urgent than that."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "MCCOY",
+          "line": "Well, I do. Mister Scott, please."
+        }
+      ],
+      "location": "McCoy's office"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "SCOTT",
+          "line": "All right, Doctor. It better be important. Scott out."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "SCOTT",
+          "line": "All right, Doctor, what's so urgent that... Captain? Captain Kirk."
+        },
+        {
+          "character": "KIRK",
+          "line": "Yes."
+        },
+        {
+          "character": "SCOTT",
+          "line": "Well, you look like the devil himself, but as long as you're alive. What's it all about?"
+        },
+        {
+          "character": "KIRK",
+          "line": "Are those Romulan officers still aboard the ship?"
+        },
+        {
+          "character": "SCOTT",
+          "line": "They're in the brig, sir."
+        },
+        {
+          "character": "KIRK",
+          "line": "I'll need a Romulan uniform. SCOTT; Aye. It'll be a pleasure."
+        }
+      ],
+      "location": "Sickbay"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "COMMANDER",
+          "line": "I've had special Vulcan dishes prepared for you. I hope they're to your liking."
+        },
+        {
+          "character": "SPOCK",
+          "line": "I am very flattered, Commander. There's no doubt that the cuisine aboard your vessel is far superior to that of the Enterprise. It is indeed a very powerful recruiting inducement."
+        },
+        {
+          "character": "COMMANDER",
+          "line": "We have other inducements."
+        }
+      ],
+      "location": "Romulan Commander's quarters"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "MCCOY",
+          "line": "What the devil is Spock doing? What's delaying him?"
+        },
+        {
+          "character": "KIRK",
+          "line": "I wish I knew. Scotty, are you sure we have a clear channel to Spock?"
+        },
+        {
+          "character": "SCOTT",
+          "line": "Aye, sir. No doubt of it."
+        },
+        {
+          "character": "KIRK",
+          "line": "Then we can't wait any longer. Prepare to beam me aboard the flagship."
+        },
+        {
+          "character": "SCOTT",
+          "line": "But Mister Spock hasn't sent the proper co-ordinates yet."
+        },
+        {
+          "character": "KIRK",
+          "line": "It can't be helped, Scotty."
+        },
+        {
+          "character": "MCCOY",
+          "line": "You're taking an awful chance, Jim."
+        },
+        {
+          "character": "KIRK",
+          "line": "Just don't put me inside a bulkhead. Energize."
+        }
+      ],
+      "location": "Transporter room"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "ROMULAN",
+          "line": "Centurion. I'm sorry, no one is allowed"
+        },
+        {
+          "character": "KIRK",
+          "line": "I've just effected an escape from the Federation vessel. I have important information for Sub-commander Tal. Where is he?"
+        },
+        {
+          "character": "ROMULAN",
+          "line": "He's in control central, sir."
+        },
+        {
+          "character": "KIRK",
+          "line": "Good. I shall remember to mention your alertness to him. Return to your duty."
+        },
+        {
+          "character": "ROMULAN",
+          "line": "Thank you, Centurion."
+        }
+      ],
+      "location": "Romulan corridor"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "COMMANDER",
+          "line": "You have nothing in Starfleet to which to return. I offer, we offer you an alternative. We will find a place for you, if you wish it."
+        },
+        {
+          "character": "SPOCK",
+          "line": "A place?"
+        },
+        {
+          "character": "COMMANDER",
+          "line": "With me. Romulan women are not like Vulcan females. We are not dedicated to pure logic and the sterility of non-emotion. Our people are warriors. Often savage. But we are also many other pleasant things."
+        },
+        {
+          "character": "SPOCK",
+          "line": "I was not aware of that aspect of Romulan society."
+        },
+        {
+          "character": "COMMANDER",
+          "line": "As a Vulcan, you would study it. As a human you would find ways to appreciate it."
+        },
+        {
+          "character": "SPOCK",
+          "line": "Please believe me. I do appreciate it."
+        },
+        {
+          "character": "COMMANDER",
+          "line": "I am so glad. Now one final step to make the occasion complete. You will lead a small party of Romulans aboard the Enterprise, and there you will take your rightful place as its commander. And you will lead the ship to a Romulan port, with my flagship at its side."
+        },
+        {
+          "character": "SPOCK",
+          "line": "Yes, of course, but not just this moment. An hour from now will do even better. Would it not, Commander?"
+        },
+        {
+          "character": "COMMANDER",
+          "line": "Yes. Yes, it will, Mister Spock. You do know I have a first name."
+        },
+        {
+          "character": "SPOCK",
+          "line": "I was beginning to wonder."
+        },
+        {
+          "character": "COMMANDER",
+          "line": "Well, I do. Would you like to hear it?"
+        },
+        {
+          "character": "SPOCK",
+          "line": "How rare, and how beautiful. But so incongruous when spoken by a soldier."
+        },
+        {
+          "character": "COMMANDER",
+          "line": "If you will give me a moment, the soldier will transform herself into a woman."
+        },
+        {
+          "character": "SPOCK",
+          "line": "Spock to Captain Kirk."
+        },
+        {
+          "character": "KIRK",
+          "line": "Kirk here.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "SPOCK",
+          "line": "Captain"
+        }
+      ],
+      "location": "Romulan Commander's quarters"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "SPOCK",
+          "line": "Are you prepared to beam over?",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "KIRK",
+          "line": "I'm already on board, Spock. Do you have the information?"
+        }
+      ],
+      "location": "Romulan ship"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "SPOCK",
+          "line": "Yes, Captain. The cloaking device is in an area near the commander's quarters. It is closely guarded and off-limits to all but authorized personnel. What is your present location?"
+        }
+      ],
+      "location": "Romulan Commander's quarters"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "OFFICER",
+          "line": "Sub-commander Tal. I'm receiving an alien transmission from within our vessel, sir."
+        },
+        {
+          "character": "TAL",
+          "line": "Alien? Are you certain?"
+        },
+        {
+          "character": "OFFICER",
+          "line": "Yes, Sub-commander."
+        },
+        {
+          "character": "TAL",
+          "line": "I must know the source!"
+        },
+        {
+          "character": "OFFICER",
+          "line": "Triangulating now, sir."
+        }
+      ],
+      "location": "Romulan Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "KIRK",
+          "line": "Spock, I'll get the cloaking device. Will you be able to get back to the Enterprise without attracting their attention?"
+        }
+      ],
+      "location": "Romulan ship"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "SPOCK",
+          "line": "Unknown, Captain. At present, I am rather heavily"
+        },
+        {
+          "character": "COMMANDER",
+          "line": "Is my attire now more appropriate, Mister Spock?"
+        },
+        {
+          "character": "SPOCK",
+          "line": "Commander, your attire is not only more appropriate, it should actually stimulate our conversation."
+        }
+      ],
+      "location": "Romulan Commander's quarters"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "GUARD",
+          "line": "Centurion, have you clearance for this area? I do not recognize you."
+        },
+        {
+          "character": "KIRK",
+          "line": "There's an intruder aboard. Has someone tried to gain entrance there?"
+        },
+        {
+          "character": "GUARD",
+          "line": "I must see your authorisation, sir."
+        },
+        {
+          "character": "KIRK",
+          "line": "Over there!"
+        }
+      ],
+      "location": "Secure Area"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "COMMANDER",
+          "line": "It's hard to believe that I can be so moved by the touch of an alien hand."
+        },
+        {
+          "character": "SPOCK",
+          "line": "I must confess that I too am moved emotionally. I know it is illogical."
+        },
+        {
+          "character": "COMMANDER",
+          "line": "Mister Spock, we mustn't question what we truly feel. Accept what is happening between us, even as I do."
+        },
+        {
+          "character": "TAL",
+          "line": "Commander? Permission to enter.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "COMMANDER",
+          "line": "Not now, Tal."
+        },
+        {
+          "character": "TAL",
+          "line": "It is urgent, Commander.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "COMMANDER",
+          "line": "Enter."
+        },
+        {
+          "character": "TAL",
+          "line": "Commander, we have intercepted an alien transmission."
+        },
+        {
+          "character": "COMMANDER",
+          "line": "Locate its source."
+        },
+        {
+          "character": "TAL",
+          "line": "We have, Commander. This room."
+        },
+        {
+          "character": "COMMANDER",
+          "line": "The cloaking device. Bring him."
+        }
+      ],
+      "location": "Romulan Commander's quarters"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "ROMULAN",
+          "line": "Halt. Don't move. Who are you? What are you doing in here?"
+        },
+        {
+          "character": "KIRK",
+          "line": "There's an enemy spy aboard. He'll be after the cloaking device."
+        },
+        {
+          "character": "ROMULAN",
+          "line": "Drop your weapon."
+        },
+        {
+          "character": "KIRK",
+          "line": "Scotty, energize."
+        }
+      ],
+      "location": "Cloaking device room"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "SCOTT",
+          "line": "But, sir, what about Mister Spock?"
+        },
+        {
+          "character": "KIRK",
+          "line": "We'll just have to hope he can buy us enough time to get this cloaking device installled."
+        },
+        {
+          "character": "SCOTT",
+          "line": "It'll have to hook into our deflector shield control."
+        },
+        {
+          "character": "KIRK",
+          "line": "Can you do it?"
+        },
+        {
+          "character": "SCOTT",
+          "line": "I don't know, sir."
+        },
+        {
+          "character": "KIRK",
+          "line": "You have fifteen minutes, Scotty."
+        }
+      ],
+      "location": "Transporter room"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TAL",
+          "line": "Commander, the cloaking device is gone."
+        },
+        {
+          "character": "COMMANDER",
+          "line": "Full alert. Search all decks."
+        },
+        {
+          "character": "SPOCK",
+          "line": "That will be profitless, Commander. I do not believe you will find it."
+        },
+        {
+          "character": "COMMANDER",
+          "line": "You must be mad."
+        },
+        {
+          "character": "SPOCK",
+          "line": "I assure you I am quite sane."
+        },
+        {
+          "character": "COMMANDER",
+          "line": "Why would you do this to me? What are you that you could do this?"
+        },
+        {
+          "character": "SPOCK",
+          "line": "First officer of the Enterprise. What is your present form of execution?"
+        },
+        {
+          "character": "KIRK",
+          "line": "Captain's log, stardate 5027.4. Commander Scott has less than fifteen minutes to installl the Romulan's cloaking device and get it working. I hope Mister Spock can buy us the time we need.",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "Cloaking device room"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "SULU",
+          "line": "Captain!"
+        },
+        {
+          "character": "CHEKOV",
+          "line": "You're alive!"
+        },
+        {
+          "character": "UHURA",
+          "line": "They said you'd been killed, sir."
+        },
+        {
+          "character": "KIRK",
+          "line": "The report was premature."
+        },
+        {
+          "character": "CHEKOV",
+          "line": "Captain, your ears. What happened?"
+        },
+        {
+          "character": "KIRK",
+          "line": "We'll diskuss it later. Mister Sulu, lay in a course for home. Mister Chekov, take the sensors. Mister Spock is still aboard the Romulan flagship. I want his body readings pinpointed and isolated. That was not a request, gentlemen."
+        },
+        {
+          "character": "CHEKOV",
+          "line": "Aye, sir."
+        },
+        {
+          "character": "SULU",
+          "line": "Aye, sir."
+        },
+        {
+          "character": "UHURA",
+          "line": "Aye, sir."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "COMMANDER",
+          "line": "Return to your station, Sub-commander. The boarding action on the Enterprise will begin with my command. If they resist, destroy her."
+        },
+        {
+          "character": "COMMANDER",
+          "line": "Execution of state criminals is both painful and unpleasant. I believe the details are unnecessary. The sentence will be carried out immediately after the charges have been recorded."
+        },
+        {
+          "character": "SPOCK",
+          "line": "I demand the Right of Statement first."
+        },
+        {
+          "character": "COMMANDER",
+          "line": "You understand Romulan tradition well. The right is granted."
+        },
+        {
+          "character": "SPOCK",
+          "line": "Thank you. I shall not require much time. No more than twenty minutes, I should say."
+        },
+        {
+          "character": "COMMANDER",
+          "line": "It should take less time than that to find your ally, who stole the cloaking device. You will not die alone. Recording the Romulan Right of Statement. Proceed, Commander Spock."
+        },
+        {
+          "character": "SPOCK",
+          "line": "My crime is sabotage. I freely admit my guilt. The oath I swore as a Starfleet officer is both specific and binding. As long as I wear the uniform, my duty is to protect the security of the Federation. Clearly, your new cloaking device is a threat to that security. I carried out my duty."
+        },
+        {
+          "character": "COMMANDER",
+          "line": "Everyone carries out his duty. You state the obvious, Spock."
+        },
+        {
+          "character": "SPOCK",
+          "line": "There is no regulation regarding the content of my statement. May I continue?"
+        },
+        {
+          "character": "COMMANDER",
+          "line": "Very well. Your twenty minutes is almost up."
+        }
+      ],
+      "location": "Romulan Commander's quarters"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "KIRK",
+          "line": "Mister Chekov, there's only one Vulcan aboard that ship. He should be easy enough to locate."
+        },
+        {
+          "character": "CHEKOV",
+          "line": "Romulans and Vulcans appear to read almost exactly alike. There is just a slight difference which. Got him, sir."
+        },
+        {
+          "character": "KIRK",
+          "line": "Feed the co-ordinates to the transporter room on the double. Have them prepare to beam him aboard on my signal."
+        },
+        {
+          "character": "UHURA",
+          "line": "Captain Kirk. Mister Scott is on the intercom for you, sir."
+        },
+        {
+          "character": "KIRK",
+          "line": "Go ahead, Scotty."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "SCOTT",
+          "line": "I've got that device installled, but bless me if I know whether it'll work."
+        }
+      ],
+      "location": "Engineering"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "SCOTT",
+          "line": "It's the biggest guess I've ever made.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "KIRK",
+          "line": "Stand by, Scotty."
+        },
+        {
+          "character": "CHEKOV",
+          "line": "Sir, transporter room has the co-ordinates and is ready for beaming."
+        },
+        {
+          "character": "KIRK",
+          "line": "Transporter room, beam Mister Spock aboard."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "SPOCK",
+          "line": "Beyond the historic tradition of Vulcan loyalty, there is also the combined Romulan-Vulcan history of obedience to duty."
+        }
+      ],
+      "location": "Romulan Commander's quarters"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "UHURA",
+          "line": "Transporter room reports Mister Spock aboard, sir, and the Romulan commander."
+        },
+        {
+          "character": "KIRK",
+          "line": "The commander?"
+        },
+        {
+          "character": "UHURA",
+          "line": "Aye, sir."
+        },
+        {
+          "character": "KIRK",
+          "line": "All right. Have them report to the Bridge on the double. Mister Sulu, take us away from the Romulans. Warp factor nine."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "OFFICER",
+          "line": "Sub-commander, the enemy vessel is moving away at extreme speed, sir."
+        },
+        {
+          "character": "TAL",
+          "line": "Alert all vessels. Weapons officer, bring main batteries to bear on the Enterprise."
+        }
+      ],
+      "location": "Romulan Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "SULU",
+          "line": "Holding at warp nine, sir."
+        },
+        {
+          "character": "KIRK",
+          "line": "Scotty, throw the switch on that device."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "SCOTT",
+          "line": "I did, sir."
+        }
+      ],
+      "location": "Engineering"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "SCOTT",
+          "line": "It's not working.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "COMMANDER",
+          "line": "I would give you credit, Captain, for getting this far. But you will be dead in a moment and the credit would be gratuitous."
+        },
+        {
+          "character": "KIRK",
+          "line": "Lieutenant, open a channel to the Romulan vessel."
+        },
+        {
+          "character": "UHURA",
+          "line": "Aye, sir. I have Sub-commander Tal, sir."
+        },
+        {
+          "character": "KIRK",
+          "line": "Establish two-way visual contact."
+        },
+        {
+          "character": "TAL",
+          "line": "We have you under our weapons, Enterprise. You cannot escape.",
+          "modifier": "screen"
+        },
+        {
+          "character": "KIRK",
+          "line": "This is Captain Kirk. Hold your fire. We have your commander aboard."
+        },
+        {
+          "character": "TAL",
+          "line": "Commander?",
+          "modifier": "screen"
+        },
+        {
+          "character": "COMMANDER",
+          "line": "Destroy this vessel. I gave you a direct command! Tal!"
+        },
+        {
+          "character": "KIRK",
+          "line": "Break contact!"
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TAL",
+          "line": "Helmsman, flank speed. Weapons officer, stand by to fire main batteries as soon as we reach optimum range."
+        }
+      ],
+      "location": "Romulan Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "KIRK",
+          "line": "Scotty, we're running out of time."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "SCOTT",
+          "line": "Captain, I'm working as fast as I can."
+        }
+      ],
+      "location": "Engineering"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "COMMANDER",
+          "line": "You see, Captain? Your effort is being wasted."
+        },
+        {
+          "character": "KIRK",
+          "line": "Mister Spock, distance from the Romulan vessel?"
+        },
+        {
+          "character": "SPOCK",
+          "line": "One hundred and fifty thousand kilometers, Captain, and closing very rapidly."
+        },
+        {
+          "character": "KIRK",
+          "line": "Stand by, phasers. Commander, you'll forgive me if I put up a fight."
+        },
+        {
+          "character": "COMMANDER",
+          "line": "Of course. It's expected."
+        },
+        {
+          "character": "SPOCK",
+          "line": "One hundred thousand kilometers. They should commence firing at us within the next twelve point seven seconds."
+        },
+        {
+          "character": "KIRK",
+          "line": "Scotty."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "SCOTT",
+          "line": "It's ready now, Captain, but I don't know whether our circuits can handle this alien contraption."
+        }
+      ],
+      "location": "Engineering"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "KIRK",
+          "line": "Throw the switch."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "SCOTT",
+          "line": "It'll likely overload."
+        }
+      ],
+      "location": "Engineering"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "KIRK",
+          "line": "Throw the switch. (Scott does, and the Enterprise gently vanishes, like a Cheshire cat."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TAL",
+          "line": "Weapons officer, commence fire. Gone. They have the cloaking device! Quickly, compute enemy course from last position and open fire!"
+        },
+        {
+          "character": "OFFICER",
+          "line": "Yes, sir."
+        }
+      ],
+      "location": "Romulan Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "KIRK",
+          "line": "Mister Sulu, come about. Three one eight mark seven."
+        },
+        {
+          "character": "SULU",
+          "line": "Three one eight mark seven, sir. Executing."
+        },
+        {
+          "character": "SPOCK",
+          "line": "The cloaking device is working perfectly, and the commander has informed me that even the Romulan sensors cannot track a vessel so equipped."
+        },
+        {
+          "character": "KIRK",
+          "line": "Thank you, Mister Spock. Cancel Red Alert. We'll let you off at the nearest Federation outpost."
+        },
+        {
+          "character": "COMMANDER",
+          "line": "You are very generous, Captain. If I may be taken to your brig, I will take my place as your prisoner."
+        },
+        {
+          "character": "KIRK",
+          "line": "Mister Spock will have the honor of escorting you to your quarters."
+        },
+        {
+          "character": "COMMANDER",
+          "line": "Captain."
+        },
+        {
+          "character": "KIRK",
+          "line": "Commander."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "SPOCK",
+          "line": "Deck two. It is regrettable that you were made an unwilling passenger. It was not intentional. All the Federation wanted was the cloaking device."
+        },
+        {
+          "character": "COMMANDER",
+          "line": "The Federation. And what did you want?"
+        },
+        {
+          "character": "SPOCK",
+          "line": "It was my only interest when I boarded your vessel."
+        },
+        {
+          "character": "COMMANDER",
+          "line": "And that's exactly all you came away with."
+        },
+        {
+          "character": "SPOCK",
+          "line": "You underestimate yourself, Commander."
+        },
+        {
+          "character": "COMMANDER",
+          "line": "You realize that very soon we will learn to penetrate the cloaking device you stole."
+        },
+        {
+          "character": "SPOCK",
+          "line": "Obviously. Military secrets are the most fleeting of all. I hope that you and I exchanged something more permanent."
+        },
+        {
+          "character": "COMMANDER",
+          "line": "It was your choice."
+        },
+        {
+          "character": "SPOCK",
+          "line": "It was the only choice possible. You would not respect any other."
+        },
+        {
+          "character": "COMMANDER",
+          "line": "It will be our secret."
+        }
+      ],
+      "location": "Turbolift"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "CHEKOV",
+          "line": "Entering Neutral Zone, Captain."
+        },
+        {
+          "character": "KIRK",
+          "line": "Very good, Mister Chekov. Thank you, Mister Leslie."
+        },
+        {
+          "character": "MCCOY",
+          "line": "Sickbay to Bridge.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "KIRK",
+          "line": "What is it, Bones?"
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "MCCOY",
+          "line": "Well, if all the shouting's over up there, I'd like for you to report to Sickbay."
+        }
+      ],
+      "location": "McCoy's office"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "KIRK",
+          "line": "What for?"
+        },
+        {
+          "character": "MCCOY",
+          "line": "Well, you're due in surgery. I'm going to bob your ears.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "SPOCK",
+          "line": "Captain, please go. Somehow they do not look esthetically agreeable"
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "SPOCK",
+          "line": "On humans.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "MCCOY",
+          "line": "Well, are you coming, Jim?"
+        }
+      ],
+      "location": "McCoy's office"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "MCCOY",
+          "line": "Or do you want to go through life looking like your First Officer?",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "KIRK",
+          "line": "I'm on my way."
+        }
+      ],
+      "location": "Bridge"
+    }
+  ],
+  "schedule": {
+    "episode": 4,
+    "number": 59,
+    "season": 3
+  },
+  "stardate": "5027.3",
+  "title": "The Enterprise Incident"
+}

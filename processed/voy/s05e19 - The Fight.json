@@ -1,0 +1,2325 @@
+{
+  "airdate": 922251600,
+  "scenes": [
+    {
+      "dialogue": [
+        {
+          "character": "CHAKOTAY",
+          "line": "No! Make them stop!"
+        },
+        {
+          "character": "EMH",
+          "line": "Anything?"
+        },
+        {
+          "character": "SEVEN",
+          "line": "Nothing of relevance. His neural pathways are still fluctuating."
+        },
+        {
+          "character": "PARIS",
+          "line": "Doc! Can't you do something? Look how much he's suffering."
+        },
+        {
+          "character": "EMH",
+          "line": "If I sedate him we could lose any chance of making contact with the aliens."
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "Get them out!"
+        },
+        {
+          "character": "EMH",
+          "line": "Commander, can you hear me? Focus on the sound of my voice."
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "I can't understand them. They won't stop talking!"
+        },
+        {
+          "character": "EMH",
+          "line": "What are they saying?"
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "I don't know! Make them stop, please!"
+        }
+      ],
+      "location": "Sickbay"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "JANEWAY",
+          "line": "Janeway to Sickbay. Any progress, Doctor?"
+        },
+        {
+          "character": "EMH",
+          "line": "It's not going well.",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "EMH",
+          "line": "Our ambassador is still delusional."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "We're running out of time.",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "Sickbay"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TORRES",
+          "line": "The graviton shear is buckling the hull. If we don't find a way out of Chaotic space soon, we're going to die here,"
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "EMH",
+          "line": "Chief Medical Officer's Log, supplemental. Despite my efforts, Chakotay's condition continues to deteriorate."
+        }
+      ],
+      "location": "Doctor's office"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "CHAKOTAY",
+          "line": "Doctor!"
+        },
+        {
+          "character": "EMH",
+          "line": "Yes, Commander."
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "I'm tired. I want to sleep."
+        },
+        {
+          "character": "EMH",
+          "line": "If you lose consciousness, it could sever your link with the aliens."
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "Aliens?"
+        },
+        {
+          "character": "EMH",
+          "line": "The ones who live in this place. We're trapped here. They may know a way out. It's urgent that you speak with them."
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "But I don't understand what they're saying."
+        },
+        {
+          "character": "EMH",
+          "line": "I can try to help you understand."
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "I'm going to end up like my grandfather. A crazy old man."
+        },
+        {
+          "character": "EMH",
+          "line": "No, you're not crazy. I believe the aliens are reconfiguring your neural pathways so they can communicate with you. Do you remember the day you were injured on the holodeck?"
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "In the boxing simulation?"
+        },
+        {
+          "character": "EMH",
+          "line": "Yes. You were knocked down, remember?"
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "I was injured. I came to see you. We had an argument."
+        },
+        {
+          "character": "EMH",
+          "line": "That's right. Try to remember more about the holodeck."
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "I was sparring with a Terrellian, and Boothby was there. He used to train me when I was a cadet."
+        },
+        {
+          "character": "EMH",
+          "line": "Keep going. What round was it?"
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "Three. Round three. The fight was going badly. I was avoiding my opponent."
+        }
+      ],
+      "location": "Sickbay"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "BOOTHBY",
+          "line": "Stay away from the ropes, son. That's it, that's it."
+        },
+        {
+          "character": "COMPUTER",
+          "line": "End of round three."
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "That wasn't so bad."
+        },
+        {
+          "character": "BOOTHBY",
+          "line": "It was terrible."
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "Am I missing something? He barely landed a glove on me."
+        },
+        {
+          "character": "BOOTHBY",
+          "line": "Give him time. You're not reading him. You think he's slow and stupid. I know better. In fact, I know his kind in my bones. Literally. I can count the fractures, if you'd like."
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "He's not landing any punches."
+        },
+        {
+          "character": "BOOTHBY",
+          "line": "That's the problem. You're not letting him."
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "Have I got this sport all wrong?"
+        },
+        {
+          "character": "BOOTHBY",
+          "line": "Boxing is more about taking the shots than dishing them out. You shouldn't be dancing away from this fellow. Let him punch himself out a little. It all comes down to the heart. Do you have the heart for this? That's the contest. It's not against him. It's against your own natural human desire not to get hurt. That's the real fight."
+        },
+        {
+          "character": "COMPUTER",
+          "line": "Begin round four."
+        },
+        {
+          "character": "BOOTHBY",
+          "line": "Go. Go, go, go."
+        },
+        {
+          "character": "BOOTHBY",
+          "line": "Stay with him. Too close. Come on, come on, break it up. Atta boy. Keep him busy."
+        },
+        {
+          "character": "BOOTHBY",
+          "line": "Gloves up!"
+        }
+      ],
+      "location": "Holodeck - Boxing program"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "EMH",
+          "line": "How many?"
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "Three."
+        },
+        {
+          "character": "EMH",
+          "line": "Good guess. I've got a good mind to use a needle and thread. Add a little authenticity to your fun."
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "Be my guest"
+        },
+        {
+          "character": "EMH",
+          "line": "You'd like that. A manly scar above your eye. Chakotay, the Maquis Mauler. Pointless violence. That program shouldn't even be in our database."
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "There's nothing like a good fight, Doctor. I was there when Pryce-Jones went twenty three rounds with Gul Tulet. The Knockout in the Neutral Zone. Best match I ever saw."
+        },
+        {
+          "character": "EMH",
+          "line": "Really? Most blood spilled, or did Pryce-Jones drive Gul Tulet's nasal bone up into his brain?"
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "You've got the wrong idea."
+        },
+        {
+          "character": "EMH",
+          "line": "The idea is simple enough. Do enough damage to your opponent to render him unconscious. How's the headache?"
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "It hurts."
+        },
+        {
+          "character": "EMH",
+          "line": "Oedema beneath the anterior fossa of the cranium. Hairline fracture of the septum."
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "I saw something strange."
+        },
+        {
+          "character": "EMH",
+          "line": "I'll bet you did."
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "No, before I got hit."
+        },
+        {
+          "character": "EMH",
+          "line": "What do you mean?"
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "I looked over at Boothby. He yelled at me. I turned back, then the ring got distorted."
+        },
+        {
+          "character": "EMH",
+          "line": "An hallucination. You probably had some pressure building up along the optic nerves from a previous blow."
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "No, I was keeping away from him the whole fight. He never touched me."
+        },
+        {
+          "character": "EMH",
+          "line": "Hmm. A number of the ganglia in your visual cortex are hyperactive. Your opponent wasn't firing on you with an energy weapon, was he?"
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "Just his gloves."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Chakotay to the bridge.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "On my way."
+        },
+        {
+          "character": "EMH",
+          "line": "I want you back in here for some tests, unless you want to be seeing things on a regular basis."
+        }
+      ],
+      "location": "Sickbay"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "KIM",
+          "line": "It's changed course again. Twenty thousand kilometers off starboard."
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "Ion storm?"
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Not exactly. It's two light years across, emits enough energy for a dozen stars, it doesn't match any phenomenon in our database, and it won't sit still."
+        },
+        {
+          "character": "KIM",
+          "line": "Okay, eleven thousand kilometers off the port bow."
+        },
+        {
+          "character": "TUVOK",
+          "line": "We are too close."
+        },
+        {
+          "character": "PARIS",
+          "line": "I'm backing us off."
+        },
+        {
+          "character": "TUVOK",
+          "line": "The phenomenon has been shifting positions every few minutes."
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "Nothing so massive could move that fast."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Full reverse. Maximum shields."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Full stop. Anybody want to tell me where we are?"
+        },
+        {
+          "character": "TUVOK",
+          "line": "We appear to be inside the disturbance."
+        },
+        {
+          "character": "KIM",
+          "line": "I'm picking up a lot of raw data. Subspace flux, graviton waves. Sensors must be confused. The readings are shifting around so much I can't make heads or tails of what's out there."
+        },
+        {
+          "character": "SEVEN",
+          "line": "Captain, this is Seven of Nine. Please report to Astrometrics at once.",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "SEVEN",
+          "line": "The Borg have been aware of this phenomenon for many years. It is a zone where the law of physics are in a state of flux. Chaotic space."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Why didn't sensors warn us in time?"
+        },
+        {
+          "character": "SEVEN",
+          "line": "Chaotic space appears randomly and unexpectedly. The Borg have observed it throughout the galaxy."
+        },
+        {
+          "character": "TUVOK",
+          "line": "Then why hasn't a Federation starship encountered anything like this?"
+        },
+        {
+          "character": "SEVEN",
+          "line": "No doubt some have."
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "Think of all the Starfleet vessels that disappeared under mysterious circumstances."
+        },
+        {
+          "character": "SEVEN",
+          "line": "Borg vessels are more advanced, but only one Cube has survived an encounter with Chaotic space."
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "Those aren't good odds."
+        },
+        {
+          "character": "TUVOK",
+          "line": "If the physical constants are shifting, our sensors can't function."
+        },
+        {
+          "character": "SEVEN",
+          "line": "The problem is here. Changes in the gravitational coefficient will cause sudden shear forces against our hull. Shields will protect us, but only for a time."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "How much time?"
+        },
+        {
+          "character": "SEVEN",
+          "line": "Unknown."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "We've got to recalibrate the sensors, redesign them if necessary, otherwise we're flying blind. Let's get to work."
+        }
+      ],
+      "location": "Astrometrics lab"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "COMPUTER",
+          "line": "Begin round one."
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "Computer, did you say something?"
+        },
+        {
+          "character": "COMPUTER",
+          "line": "Negative."
+        },
+        {
+          "character": "BOOTHBY",
+          "line": "Pick them up, son. It's the fight you've been waiting for.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "COMPUTER",
+          "line": "Begin round one."
+        },
+        {
+          "character": "TUVOK",
+          "line": "Bridge to Commander Chakotay.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "Go ahead, Tuvok."
+        },
+        {
+          "character": "TUVOK",
+          "line": "Please report to the bridge.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "On my way."
+        }
+      ],
+      "location": "Chakotay's quarters"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "KIM",
+          "line": "Graviton wave displacement says we're moving at warp six. Subspace sensors show we're standing still."
+        },
+        {
+          "character": "PARIS",
+          "line": "We can't be that far from where we entered. Maybe we should just set a course, go to impulse and see what happens."
+        },
+        {
+          "character": "TUVOK",
+          "line": "What would most likely happen is a collision with an asteroid field or a star."
+        },
+        {
+          "character": "PARIS",
+          "line": "That'd be better than just sitting here waiting for."
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "Report."
+        },
+        {
+          "character": "KIM",
+          "line": "Torsional shear has increased by two hundred percent."
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "Shields?"
+        },
+        {
+          "character": "TUVOK",
+          "line": "Holding."
+        },
+        {
+          "character": "PARIS",
+          "line": "Like I was saying. Better than just sitting here waiting for our hull to breach."
+        },
+        {
+          "character": "TUVOK",
+          "line": "Perhaps we could drop a series of beacons to help us navigate."
+        },
+        {
+          "character": "PARIS",
+          "line": "Now that's an idea."
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "Did you hear something?"
+        },
+        {
+          "character": "TUVOK",
+          "line": "I heard nothing unusual."
+        },
+        {
+          "character": "PARIS",
+          "line": "I didn't hear anything."
+        },
+        {
+          "character": "COMPUTER",
+          "line": "Begin round one."
+        },
+        {
+          "character": "PARIS",
+          "line": "I'll plot a course. We'll take it slow. What do you think, Chakotay?"
+        },
+        {
+          "character": "MC",
+          "line": "The Challenger, Chakotay!",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "Don't you hear that?"
+        },
+        {
+          "character": "PARIS",
+          "line": "Hear what?"
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "Look."
+        },
+        {
+          "character": "TUVOK",
+          "line": "Commander. Are you all right?"
+        },
+        {
+          "character": "BOOTHBY",
+          "line": "Put on the gloves, son.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "I'm not ready."
+        },
+        {
+          "character": "TUVOK",
+          "line": "Commander."
+        },
+        {
+          "character": "MC",
+          "line": "In this corner, wearing the red trunks.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "COMPUTER",
+          "line": "Begin round one."
+        },
+        {
+          "character": "PARIS",
+          "line": "Bridge to Sickbay. We've got a medical emergency."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "EMH",
+          "line": "Laaaa. Laaaa. Lets go to eight hundred eighty hertz. Laaaa."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Music lessons?"
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "Pretty soon we'll be singing duets."
+        },
+        {
+          "character": "EMH",
+          "line": "I'm checking to see if there's been any damage to the auditory nerves. Nothing so far. His vision checks out as well. I'm afraid the source of the trouble may be a little deeper."
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "The family curse."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "What do you mean?"
+        },
+        {
+          "character": "EMH",
+          "line": "Chakotay has the genetic marker for a cognitive disorder. Sensory tremens. The primary symptoms are visual and auditory hallucinations."
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "My family doctor suppressed the gene before I was even born, so I never had to go through what the others did, like my grandfather."
+        },
+        {
+          "character": "EMH",
+          "line": "For some reason, the gene's been switched on. I'm not saying for certain that's why Chakotay thought he was getting ready for a prize-fight, but it's a good bet. The holodeck boxing simulation was fresh in his memory. A few misfiring neurons did the rest."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "This Chaotic space we've entered, could it be stimulating the gene?"
+        },
+        {
+          "character": "EMH",
+          "line": "Possibly. The only way to make certain would be to get the ship out of here. In the meantime, the Commander will have to stay in Sickbay."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Tuvok tells me you've got a mean left jab."
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "Never spar with a Vulcan."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "How are you doing?"
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "I'm all right. When I was a boy, my grandfather started seeing things nobody else could see, hearing what nobody else could hear. He refused treatment. A couple of hyposprays a day, that's all he would have needed, but he was stubborn. He said his spirit was in pain, but that the wound must be honored. Crazy old man."
+        }
+      ],
+      "location": "Sickbay"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "KIM",
+          "line": "Ready, Captain."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Janeway to Seven. Bring the grid back online."
+        },
+        {
+          "character": "SEVEN",
+          "line": "Stand by.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "KIM",
+          "line": "We've got sensors. Scanning to one hundred thousand kilometers, seven hundred thousand."
+        },
+        {
+          "character": "TUVOK",
+          "line": "Sensors are stable to one million kilometers. We won't be able to scan any further."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Are you picking up anything at that range?"
+        },
+        {
+          "character": "KIM",
+          "line": "No planets, no asteroid fields, no sink holes."
+        },
+        {
+          "character": "PARIS",
+          "line": "Good enough for me."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Set a course dead ahead, one quarter impulse. Sensor status?"
+        },
+        {
+          "character": "TUVOK",
+          "line": "Continuing to function."
+        },
+        {
+          "character": "KIM",
+          "line": "Still nothing ahead."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Good. Let's increase our speed. Mister Paris, go to half impulse."
+        },
+        {
+          "character": "KIM",
+          "line": "Wait! It's a ship."
+        },
+        {
+          "character": "TUVOK",
+          "line": "Warp capable. It's adrift and the outer hull is damaged."
+        },
+        {
+          "character": "KIM",
+          "line": "No lifesigns."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Let's take a closer look."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "JANEWAY",
+          "line": "Computer, let's hear that again."
+        },
+        {
+          "character": "ALIEN",
+          "line": "Why won't you answer? Did you give up on me for being so late? It's not my fault. We got lost in here. Why do the stars make such a noise? Let me sleep! I don't understand them, I don't want to talk to them. I just want to go home.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "TUVOK",
+          "line": "That was the final distress call."
+        },
+        {
+          "character": "EMH",
+          "line": "According to the vessel's medical records, the Captain and one of his engineers started hallucinating after they entered this space. The physician on board never found a way to treat them."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "How long were they stranded here?"
+        },
+        {
+          "character": "KIM",
+          "line": "Almost a year. Eventually their systems were compromised."
+        },
+        {
+          "character": "EMH",
+          "line": "They died of exposure."
+        },
+        {
+          "character": "KIM",
+          "line": "The sensors in that ship are more advanced than ours, and they couldn't find a way out."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Let's hold our position until we get a better idea of what we're up against."
+        },
+        {
+          "character": "TORRES",
+          "line": "It looks like that's what they did."
+        },
+        {
+          "character": "PARIS",
+          "line": "Along the way, a couple of them started sounding just like Chakotay."
+        },
+        {
+          "character": "EMH",
+          "line": "I can't believe that's a coincidence."
+        },
+        {
+          "character": "TUVOK",
+          "line": "Then why hasn't anyone else been affected?"
+        },
+        {
+          "character": "EMH",
+          "line": "That's a question I can't answer. Not yet. Request permission to beam their captain's body on board. I'd like to perform an autopsy."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Granted. Pull the sensor technology off that ship. Use it to enhance ours. We're going to need all the help we can get."
+        }
+      ],
+      "location": "Briefing room"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "EMH",
+          "line": "I made a deep scan of the alien's brain tissue and sensory organs. The optic and auditory neurons have been partially stripped of their normal protein insulation. The result, auditory and visual hallucinations."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "The same symptoms as Chakotay, but a different cause."
+        },
+        {
+          "character": "EMH",
+          "line": "Exactly. In this case the gene responsible for producing protein insulation was shut down."
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "By what?"
+        },
+        {
+          "character": "EMH",
+          "line": "There might be something in Chaotic space that reacts with DNA, alters it. But why it targeted him specifically and now you I can't say."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Is there a treatment?"
+        },
+        {
+          "character": "EMH",
+          "line": "I can control the hallucinations using a neural suppressant, but unless I can find a way to deactivate that gene of yours"
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "I need to go on a vision quest. Captain?"
+        },
+        {
+          "character": "EMH",
+          "line": "That's not the best idea right now. A vision quest taps directly into your frontal cortex. It could agitate your mind."
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "Or help me control it."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Permission granted."
+        },
+        {
+          "character": "EMH",
+          "line": "Very well. I will ask you to wear a cortical monitor. It'll help me keep track of your vital signs."
+        }
+      ],
+      "location": "Sickbay"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "CHAKOTAY",
+          "line": "A-koo-chee-moya. I am far from the sacred places of my grandfathers, I am far from the bones of my people. But perhaps there is a powerful being who will embrace me and give me the answers I seek."
+        }
+      ],
+      "location": "Chakotay's quarters"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "CHAKOTAY",
+          "line": "Grandfather! what are you doing here?"
+        },
+        {
+          "character": "GRANDFATHER",
+          "line": "I, er seem to be lost. Just a little lost."
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "You didn't take your medicine this morning."
+        },
+        {
+          "character": "GRANDFATHER",
+          "line": "Which medicine are you talking about? There are many medicines."
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "The one the hospital gave us."
+        },
+        {
+          "character": "GRANDFATHER",
+          "line": "Oh, that one."
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "Where are you going?"
+        },
+        {
+          "character": "GRANDFATHER",
+          "line": "My spirit doesn't want that medicine."
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "I don't care what your spirit wants. You're going to take it."
+        },
+        {
+          "character": "GRANDFATHER",
+          "line": "I don't think so."
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "Come with me back to the house."
+        },
+        {
+          "character": "GRANDFATHER",
+          "line": "Now why would I want to do that? It's better where I'm going. It's more interesting."
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "Where are you going?"
+        },
+        {
+          "character": "GRANDFATHER",
+          "line": "To the place where my spirit lives."
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "Grandfather! Where are you? Answer me!"
+        },
+        {
+          "character": "COMPUTER",
+          "line": "Begin round one."
+        }
+      ],
+      "location": "Vision quest - forest"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "COMPUTER",
+          "line": "Begin round one."
+        }
+      ],
+      "location": "Vision quest - boxing ring"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "CHAKOTAY",
+          "line": "The aliens. They were there, watching me."
+        },
+        {
+          "character": "EMH",
+          "line": "Inside your vision quest?"
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "They were trying to tell me something."
+        },
+        {
+          "character": "EMH",
+          "line": "What was it?"
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "I don't know."
+        },
+        {
+          "character": "EMH",
+          "line": "Are they with you now? Can you hear them?"
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "Yes."
+        },
+        {
+          "character": "EMH",
+          "line": "Let them speak to you."
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "No! They'll make me go crazy."
+        },
+        {
+          "character": "EMH",
+          "line": "You're not going crazy. They're doing this for a reason. You've got to trust them. Stop fighting. Open your mind. Let go. Listen."
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "Chaotic space intersects ours at the eighteenth dimensional gradient. Voyager entered through a trimetric fracture."
+        },
+        {
+          "character": "EMH",
+          "line": "Trimetric fracture?"
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "We must escape, or we'll be destroyed."
+        },
+        {
+          "character": "EMH",
+          "line": "How do we escape?"
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "We've got to alter our warp field."
+        },
+        {
+          "character": "EMH",
+          "line": "In what way?"
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "Rentrillic projectory."
+        },
+        {
+          "character": "EMH",
+          "line": "Rentrillic?"
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "It doesn't make any sense. I can't understand it. I'm scared I'm losing my mind."
+        },
+        {
+          "character": "EMH",
+          "line": "Try to focus!"
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "It's too much! I can't! It's too much!"
+        },
+        {
+          "character": "EMH",
+          "line": "Chakotay!"
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "Get them out!"
+        },
+        {
+          "character": "JANEWAY",
+          "line": "First contact?"
+        },
+        {
+          "character": "EMH",
+          "line": "It was brief, but he definitely communicated with them."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Rentrillic trajectory."
+        },
+        {
+          "character": "EMH",
+          "line": "Unfortunately, they never got around to explaining what that meant."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Could be some sort of alien geometry, but we'll need much more. Is it safe for him to try to make contact again?"
+        },
+        {
+          "character": "EMH",
+          "line": "Medically speaking, yes. The problem is convincing the Commander of that."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "I realize you're frightened, but you're our only hope out of this place. You think this could risk your sanity, but your sanity won't do you any good if we remain in Chaotic space. I need you to keep trying, Chakotay. Will you keep trying? Keep me posted."
+        },
+        {
+          "character": "EMH",
+          "line": "Are you ready to continue? Try to focus on the alien voices, tell me what they're saying."
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "I can't hear them."
+        },
+        {
+          "character": "EMH",
+          "line": "Are you sure? Listen carefully. Maybe we can return you to a more receptive frame of mind. Think back to when you first heard them in the vision quest. What were you doing? Where were you?"
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "In their boxing ring. A strange ring."
+        },
+        {
+          "character": "EMH",
+          "line": "Was anyone else there?"
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "Yes. My opponent, Kid Chaos."
+        },
+        {
+          "character": "EMH",
+          "line": "Describe him."
+        }
+      ],
+      "location": "Sickbay"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "CHAKOTAY",
+          "line": "Tuvok, move into position."
+        },
+        {
+          "character": "TUVOK",
+          "line": "Thompson and Sharr, target the midsection. Ensign MacAlister, you and I will aim for the head."
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "Set your phasers to kill."
+        },
+        {
+          "character": "BOOTHBY",
+          "line": "Not exactly the Marquis of Queensberry rules, now, is it? Set to kill? That's not even Starfleet! Put down the weapons, son."
+        },
+        {
+          "character": "TUVOK",
+          "line": "Tactical advice from an Academy groundskeeper? We fire at your command, sir."
+        },
+        {
+          "character": "BOOTHBY",
+          "line": "Give that order and you'll be out for the count, the whole lot of you."
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "Lower your weapons."
+        },
+        {
+          "character": "TUVOK",
+          "line": "Commander."
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "I said, stand down."
+        },
+        {
+          "character": "PARIS",
+          "line": "We've just heard from Vegas, Mars and Orion Three. The odds are running thirty three to one that he'll outpoint you. Eleven to one that you'll be k-o'ed by the fifth. Subspace radio is calling it the Disaster in the Delta. We can still scratch the card. I'll call the Doctor. We'll get you out on a medical."
+        },
+        {
+          "character": "BOOTHBY",
+          "line": "He's trying to hornswoggle us. Double check those calculations."
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "Let me see that PADD."
+        },
+        {
+          "character": "PARIS",
+          "line": "No. Fine, don't want to trust your friends? You're on your own."
+        },
+        {
+          "character": "NEELIX",
+          "line": "I'm filing a grievance with the Delta Quadrant Boxing Commission. This bout came out of nowhere. There's some scheduling mix-up. You haven't had the time to train, you're not ready. If you fight now, you'll be destroyed!"
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "I can't fight now. I'm not ready for this! I can't stay here!"
+        }
+      ],
+      "location": "Chaotic boxing ring"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "KIM",
+          "line": "I follow your example, learn from you, look up to you. I don't want to lose that."
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "You'll find another role model. You'll be okay."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "You're my First Officer. Your duty is to this crew. If something happens to me, you've got to get Voyager home."
+        },
+        {
+          "character": "TUVOK",
+          "line": "Tuvok can take command."
+        },
+        {
+          "character": "TORRES",
+          "line": "You're being selfish, Chakotay."
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "I'm doing this for you, for all of you!"
+        },
+        {
+          "character": "EMH",
+          "line": "A delusion. Dementia puglistica. You're punch-drunk, Commander.",
+          "modifier": "screen"
+        }
+      ],
+      "location": "Chaotic Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "EMH",
+          "line": "A hard shot to the head and neck collapses the carotid artery and cuts the flow of blood to the brain. The hook. The head and neck twist laterally, traumatizing the cerebral tissue. And who can forget the upper cut? The head snaps back, rupturing tissue in the cerebellum and upper spinal cord. Yes! And the result of all this poetry in motion? Neurologic dysfunction, chronic traumatic encephalopathy, loss of balance and coordination, loss of memory. Starting to sound familiar?"
+        },
+        {
+          "character": "NEELIX",
+          "line": "Chakotay's fine. He just needs a little conditioning, that's all."
+        },
+        {
+          "character": "EMH",
+          "line": "He needs to listen to his doctor and not to his fantasies. Step into that arena and you'll become what you most fear."
+        },
+        {
+          "character": "NEELIX",
+          "line": "What are you talking about?"
+        },
+        {
+          "character": "EMH",
+          "line": "He knows what I mean, don't you, Chakotay? Hmm?"
+        },
+        {
+          "character": "NEELIX",
+          "line": "What's wrong?"
+        },
+        {
+          "character": "EMH",
+          "line": "Victory. Defeat. Knockout. TKO. It's all beside the point. We know how it really ends. A crazy old man. It's your fate, your destiny. There's no escape."
+        }
+      ],
+      "location": "Chaotic ringside"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "NEELIX",
+          "line": "You just got to do your best. You can't let yourself give into your fears."
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "I'm not afraid."
+        },
+        {
+          "character": "NEELIX",
+          "line": "Who said you were?"
+        }
+      ],
+      "location": "Chaotic Engineering"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "CHAKOTAY",
+          "line": "I'm sorry! Please, come back!"
+        },
+        {
+          "character": "GRANDFATHER",
+          "line": "They got away."
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "Grandfather, where did you go?"
+        },
+        {
+          "character": "GRANDFATHER",
+          "line": "Some people were shouting at me. They were going for a walk. They wanted me to come along. It's hard to follow them. Oh, God, they go to strange places."
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "I'm supposed to be watching you. We're going to get in trouble if we don't go back home."
+        },
+        {
+          "character": "GRANDFATHER",
+          "line": "Be a good boy and go. We understand."
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "You have to come with me."
+        },
+        {
+          "character": "GRANDFATHER",
+          "line": "They say you can come with us."
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "There's nobody else here."
+        },
+        {
+          "character": "GRANDFATHER",
+          "line": "They say you're just like we are."
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "I'm not! I'm not like you!"
+        },
+        {
+          "character": "GRANDFATHER",
+          "line": "It's not so bad. When you get used to it, they're not so bad. They're just a lot of talk. Sometimes I wish they were more quiet, but they like to talk."
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "Come home."
+        },
+        {
+          "character": "GRANDFATHER",
+          "line": "Oh, I'm too tired. This is a nice place. A nice place to call home."
+        },
+        {
+          "character": "COMPUTER",
+          "line": "Begin round one."
+        },
+        {
+          "character": "GRANDFATHER",
+          "line": "Did you hear that?"
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "No."
+        },
+        {
+          "character": "GRANDFATHER",
+          "line": "Yes, you did. There's a lot of them this time."
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "Tell them to go away!"
+        },
+        {
+          "character": "GRANDFATHER",
+          "line": "Go away! They've got other ideas."
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "I have to go home."
+        },
+        {
+          "character": "GRANDFATHER",
+          "line": "They, they're coming for you."
+        },
+        {
+          "character": "MC",
+          "line": "The challenger, Chakotay!",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "Vision Quest - Forest"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "BOOTHBY",
+          "line": "Better late than never. They almost scrubbed the bout."
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "I'm afraid."
+        },
+        {
+          "character": "BOOTHBY",
+          "line": "I know you are. You'd be a liar if you said anything else."
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "But I've always been afraid."
+        },
+        {
+          "character": "BOOTHBY",
+          "line": "I know that too."
+        },
+        {
+          "character": "MC",
+          "line": "The Champion, Kid Chaos!",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "EMH",
+          "line": "That's it! All over! The fight's been canceled on medical grounds. Put them down, let's go. I hear there's some bear-baiting at the arena next door. Have fun."
+        }
+      ],
+      "location": "Chaotic boxing ring"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "PARIS",
+          "line": "He's coming out of it."
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "You stopped the fight."
+        },
+        {
+          "character": "PARIS",
+          "line": "You were stuck in the vision quest."
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "I've got to go back."
+        },
+        {
+          "character": "EMH",
+          "line": "You're going nowhere but Sickbay."
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "Let me go."
+        },
+        {
+          "character": "PARIS",
+          "line": "Calm down. It's over for you."
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "No, let me get in the ring."
+        },
+        {
+          "character": "PARIS",
+          "line": "Chakotay."
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "Let me back in the ring. Let me"
+        }
+      ],
+      "location": "Chakotay's quarters"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "KIM",
+          "line": "Two hundred thousand kilometers."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Launch another beacon."
+        },
+        {
+          "character": "TUVOK",
+          "line": "Beacon launched."
+        },
+        {
+          "character": "KIM",
+          "line": "I'm reading a shift of point zero zero three in the graviton shear."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Status."
+        },
+        {
+          "character": "TUVOK",
+          "line": "Shields holding."
+        },
+        {
+          "character": "PARIS",
+          "line": "Speed is steady at one quarter impulse."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Maintain course and heading, Mister Paris."
+        },
+        {
+          "character": "KIM",
+          "line": "Sensors are functioning. Our course is still clear."
+        },
+        {
+          "character": "PARIS",
+          "line": "Captain, I recommend we go to three quarters impulse."
+        },
+        {
+          "character": "TUVOK",
+          "line": "Increasing power to the engines could affect Chaotic space. There are too many unknowns."
+        },
+        {
+          "character": "PARIS",
+          "line": "At this speed we should see daylight in about two months. The longer we're in Chaotic space, the longer we're exposed to these unknowns."
+        },
+        {
+          "character": "TUVOK",
+          "line": "His logic is undeniable, Captain. We should increase our speed."
+        },
+        {
+          "character": "PARIS",
+          "line": "Finally."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Who am I to dispute logic?"
+        },
+        {
+          "character": "KIM",
+          "line": "Take a look at this."
+        },
+        {
+          "character": "KIM",
+          "line": "It's the first beacon we launched three hours ago."
+        },
+        {
+          "character": "PARIS",
+          "line": "We've been going in circles?"
+        },
+        {
+          "character": "TUVOK",
+          "line": "To be precise, one large circle."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Hold our position."
+        },
+        {
+          "character": "PARIS",
+          "line": "All stop."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "JANEWAY",
+          "line": "Report."
+        },
+        {
+          "character": "SEVEN",
+          "line": "I've applied ten thousand fifty three algorithms to the energy signatures produced by Chaotic space. There is a pattern."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Order to chaos?"
+        },
+        {
+          "character": "SEVEN",
+          "line": "Observe. An isolinear frequency."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Some kind of signal?"
+        },
+        {
+          "character": "SEVEN",
+          "line": "I haven't located the source. It may be natural. A star or quasar that's managed to survive in chaotic space."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "But it could be a transmission."
+        },
+        {
+          "character": "SEVEN",
+          "line": "Possibly."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Have you tried the standard language decryptions?"
+        },
+        {
+          "character": "SEVEN",
+          "line": "All of them, with no success."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Success seems to be in short supply lately. Oh! Impossible."
+        },
+        {
+          "character": "SEVEN",
+          "line": "Captain?"
+        },
+        {
+          "character": "JANEWAY",
+          "line": "And to think that kept me from getting an A."
+        }
+      ],
+      "location": "Astrometrics lab"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "JANEWAY",
+          "line": "It was the only question I missed in exogenetics my senior year."
+        },
+        {
+          "character": "EMH",
+          "line": "The nucleotide resonance frequency."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "That signal was designed to activate DNA."
+        },
+        {
+          "character": "EMH",
+          "line": "It realigned his molecular bonds."
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "Now do you believe me? They're the ones who scheduled the fight. They're promoting it. They're putting up the purse."
+        },
+        {
+          "character": "EMH",
+          "line": "His sensory cortex is hyperactive. He's still hallucinating."
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "It's not an hallucination, not a vision quest. It's a prize-fight!"
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Chakotay, do you know me? Do you know where you are?"
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "I know you, Captain. But you stopped the fight. You ruined my career. Nobody will put me on the card after this!"
+        },
+        {
+          "character": "JANEWAY",
+          "line": "It's better for you to rest, Chakotay, until we can figure out why this is happening to you."
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "They want to contact me."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Who does?"
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "The people who live here."
+        },
+        {
+          "character": "EMH",
+          "line": "This will sedate him."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Wait a minute. You believe somebody lives here, in Chaotic space, and they're trying to communicate with you?"
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "Yes. I saw him."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Tell me about him. What does he look like?"
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "He's got a couple of kilos on me, a few centimeters in height, but I can take him, Captain. I just have to stay off the ropes."
+        },
+        {
+          "character": "EMH",
+          "line": "The Holodeck boxing simulation is still strong in his memory. Obviously, it's the primary source of imagery for his hallucinations."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "What if those hallucinations are being induced for a purpose? Aliens who exist on some perceptual wavelength that our senses can't detect, and the only way for them to communicate with us is to alter our senses. Chakotay's bad gene gave them the opportunity."
+        },
+        {
+          "character": "EMH",
+          "line": "What are you proposing?"
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Remember the derelict ship? Two of their crewmembers claimed they were seeing things. Was somebody trying to communicate with them? Was somebody trying to warn them, help them?"
+        },
+        {
+          "character": "EMH",
+          "line": "Or trying to destroy them, just as they're trying to destroy us."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Why go through all the trouble? We're trapped here anyway."
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "Let me back in the ring."
+        },
+        {
+          "character": "EMH",
+          "line": "Even if this is some kind of alien communication it could harm him. Permanently."
+        },
+        {
+          "character": "TUVOK",
+          "line": "Bridge to Captain Janeway.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Go ahead, Tuvok."
+        },
+        {
+          "character": "TUVOK",
+          "line": "Graviton shear has increased again. Hull pressure is rising.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "JANEWAY",
+          "line": "I'm on my way."
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "Captain. When have we ever turned away from a first contact?"
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Send him back in the ring."
+        }
+      ],
+      "location": "Sickbay"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "JANEWAY",
+          "line": "Report."
+        },
+        {
+          "character": "KIM",
+          "line": "Some kind of spatial sinkhole just opened up beneath us."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Full thrusters. Status?"
+        },
+        {
+          "character": "PARIS",
+          "line": "We managed to side-step that one but graviton shear has increased by another three hundred and ten percent."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Janeway to Sickbay."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "EMH",
+          "line": "Sickbay here."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "It's now or never.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "EMH",
+          "line": "Understood, Captain."
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "I've got to get in there. They're about to ring the bell."
+        },
+        {
+          "character": "EMH",
+          "line": "I'm going to subject you to a field that will enhance the nucleotide bonds. The gene should become fully activated. Do you understand?"
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "I understand."
+        },
+        {
+          "character": "EMH",
+          "line": "Find us a way out of here."
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "I'll try."
+        }
+      ],
+      "location": "Sickbay"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "BOOTHBY",
+          "line": "Good idea. Keep him waiting. Let him sweat it out."
+        },
+        {
+          "character": "MC",
+          "line": "In this corner, representing the Alpha Quadrant, Earth and Humanity. The challenger, Chakotay!",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "BOOTHBY",
+          "line": "Everybody loves an underdog."
+        },
+        {
+          "character": "MC",
+          "line": "And on this corner, champion of the Delta Quadrant, Kid Chaos!",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "Looks like he's got a lot of upper body strength. A real puncher."
+        },
+        {
+          "character": "BOOTHBY",
+          "line": "Just keep your elbow low when you throw the right, and don't come in too straight. You'll be okay."
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "Where's the scouting report? We don't know anything about this guy. I don't know who I'm up against!"
+        },
+        {
+          "character": "BOOTHBY",
+          "line": "You're up against yourself, that's all you've got to remember. And don't raise the elbow."
+        },
+        {
+          "character": "COMPUTER",
+          "line": "Begin round one."
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "Boothby, where are you?"
+        },
+        {
+          "character": "BOOTHBY",
+          "line": "Still here, son. I'm not going anywhere."
+        },
+        {
+          "character": "EMH",
+          "line": "You"
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Are"
+        },
+        {
+          "character": "PARIS",
+          "line": "Far from where"
+        },
+        {
+          "character": "EMH",
+          "line": "You"
+        },
+        {
+          "character": "GRANDFATHER",
+          "line": "Call home."
+        },
+        {
+          "character": "EMH",
+          "line": "You"
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Are"
+        },
+        {
+          "character": "GRANDFATHER",
+          "line": "Lost."
+        },
+        {
+          "character": "EMH",
+          "line": "Do you understand?"
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "Yes. We are far from home. We are lost."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Our"
+        },
+        {
+          "character": "GRANDFATHER",
+          "line": "Home"
+        },
+        {
+          "character": "SEVEN",
+          "line": "Is here."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Our"
+        },
+        {
+          "character": "GRANDFATHER",
+          "line": "Home"
+        },
+        {
+          "character": "SEVEN",
+          "line": "Is here."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "In Chaotic space."
+        },
+        {
+          "character": "SEVEN",
+          "line": "Chaotic space."
+        },
+        {
+          "character": "EMH",
+          "line": "Chaotic space."
+        },
+        {
+          "character": "BOOTHBY",
+          "line": "Hang in there, son. Protect your head."
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "I understand!"
+        },
+        {
+          "character": "TUVOK",
+          "line": "We are too"
+        },
+        {
+          "character": "EMH",
+          "line": "Alien"
+        },
+        {
+          "character": "PARIS",
+          "line": "For you"
+        },
+        {
+          "character": "TUVOK",
+          "line": "We are too"
+        },
+        {
+          "character": "SEVEN",
+          "line": "Strange"
+        },
+        {
+          "character": "PARIS",
+          "line": "For you."
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "Maybe we're the ones who are too alien, too strange."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "If"
+        },
+        {
+          "character": "EMH",
+          "line": "You"
+        },
+        {
+          "character": "BOOTHBY",
+          "line": "Stay"
+        },
+        {
+          "character": "JANEWAY",
+          "line": "In Chaotic space"
+        },
+        {
+          "character": "SEVEN",
+          "line": "Chaotic space."
+        },
+        {
+          "character": "EMH",
+          "line": "Chaotic space."
+        },
+        {
+          "character": "NEELIX",
+          "line": "You'll be destroyed!"
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "We know that, but we can't navigate. Our sensors don't work in your space."
+        },
+        {
+          "character": "BOOTHBY",
+          "line": "Twenty more seconds. Don't go down."
+        },
+        {
+          "character": "EMH",
+          "line": "Your"
+        },
+        {
+          "character": "KIM",
+          "line": "Sensors must be."
+        },
+        {
+          "character": "EMH",
+          "line": "Realigned."
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "How can I?"
+        },
+        {
+          "character": "EMH",
+          "line": "Your mind"
+        },
+        {
+          "character": "KIM",
+          "line": "Must be"
+        },
+        {
+          "character": "EMH",
+          "line": "Realigned. Realigned. Realigned. Your mind"
+        },
+        {
+          "character": "KIM",
+          "line": "Must be."
+        },
+        {
+          "character": "EMH",
+          "line": "Realigned."
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "I understand."
+        },
+        {
+          "character": "COMPUTER",
+          "line": "End round one."
+        }
+      ],
+      "location": "Chaotic boxing ring"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "CHAKOTAY",
+          "line": "Get them out!"
+        },
+        {
+          "character": "EMH",
+          "line": "Let go, Commander."
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "I can't take any more punches!"
+        },
+        {
+          "character": "EMH",
+          "line": "They aren't hitting you!"
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "Duck, feint, clinch."
+        },
+        {
+          "character": "EMH",
+          "line": "Stop fighting!"
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "I can't. They'll destroy me."
+        },
+        {
+          "character": "EMH",
+          "line": "That's a risk you'll have to take."
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "You take the damn risk."
+        },
+        {
+          "character": "EMH",
+          "line": "They want you."
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "Why?"
+        },
+        {
+          "character": "EMH",
+          "line": "Because you have the gene."
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "The crazy gene."
+        },
+        {
+          "character": "EMH",
+          "line": "Yes, the crazy gene. The aliens are trying to speak to you, and the only thing keeping you from understanding them is your own fear. Your fear of losing control, your fear of the unknown."
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "The unknown. And I don't want to know."
+        },
+        {
+          "character": "EMH",
+          "line": "But we have to know, or we're all going to die. Allow yourself to hear them for just a few moments. Do it for us."
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "What will happen to me when they're done?"
+        },
+        {
+          "character": "EMH",
+          "line": "You'll be on Voyager, surrounded by friends."
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "I can't understand them."
+        },
+        {
+          "character": "EMH",
+          "line": "You will."
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "They're talking too fast. Too many words."
+        },
+        {
+          "character": "EMH",
+          "line": "Try to focus on one word at a time."
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "Too many words."
+        },
+        {
+          "character": "EMH",
+          "line": "Don't stop."
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "I'm scared. I don't want to die."
+        },
+        {
+          "character": "EMH",
+          "line": "They won't hurt you. No one will hurt you."
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "Eighteenth gradient. Trimetric fracture."
+        },
+        {
+          "character": "EMH",
+          "line": "Keep going."
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "We have to modify our deflector. We have to induce a paralateral rentrillic trajectory."
+        },
+        {
+          "character": "EMH",
+          "line": "How do we do that?"
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "I think I understand. It's making sense."
+        },
+        {
+          "character": "EMH",
+          "line": "Where are you going?"
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "I can make the adjustments myself. I have to get to the bridge. I don't know how much longer I can keep it in my mind."
+        }
+      ],
+      "location": "Sickbay"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TUVOK",
+          "line": "Commander."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "What happened?"
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "He's got a right uppercut almost knocked me out. Move over, Harry."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Hang on, Ensign."
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "They showed me how to get out."
+        },
+        {
+          "character": "EMH",
+          "line": "He's hallucinating."
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "Out of the way."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Tell us what to do."
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "I can't! It's too difficult to explain"
+        },
+        {
+          "character": "KIM",
+          "line": "I'm locking him out."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "No. Give up your post."
+        },
+        {
+          "character": "TUVOK",
+          "line": "He's recalibrating the deflector dish and routing it through the sensor array."
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "It must be altered."
+        },
+        {
+          "character": "PARIS",
+          "line": "Captain, the graviton shear is increasing."
+        },
+        {
+          "character": "TUVOK",
+          "line": "I'm reading microfractures on the hull."
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "Stay and we'll be destroyed. Activate the deflector. Maximum amplitude. Bring sensors online."
+        },
+        {
+          "character": "TUVOK",
+          "line": "Captain."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Do it."
+        },
+        {
+          "character": "KIM",
+          "line": "I don't know how, but the sensors have found us a course."
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "Maximum impulse, now!"
+        },
+        {
+          "character": "PARIS",
+          "line": "Captain, if that course is wrong, we could breach our hull."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Engage."
+        },
+        {
+          "character": "TUVOK",
+          "line": "We've re-entered normal space."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Mister Paris, resume a course to the Alpha Quadrant."
+        },
+        {
+          "character": "PARIS",
+          "line": "Aye, sir."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "JANEWAY",
+          "line": "When I said you should take the next day or two off, I thought you'd want to stay in your quarters with a good book."
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "Boxing helps me unwind."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Well in that case, report for duty first thing in the morning."
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "See you then. Computer, run Chakotay training program fifteen beta."
+        }
+      ],
+      "location": "Corridor"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "BOOTHBY",
+          "line": "Ah, come for a little more punishment?"
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "I thought I'd spar for a few rounds."
+        },
+        {
+          "character": "BOOTHBY",
+          "line": "After that last bout? Did you talk to the Doc?"
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "I've got a clean bill of health."
+        },
+        {
+          "character": "BOOTHBY",
+          "line": "That's good enough for me. Okay. I've been watching him fight. He falls in too much when he clinches, and he moves more to his right than he does to his left."
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "I'll double up on the left jabs and see what happens."
+        },
+        {
+          "character": "BOOTHBY",
+          "line": "You sure you're ready for this?"
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "I'm ready."
+        },
+        {
+          "character": "BOOTHBY",
+          "line": "Okay."
+        },
+        {
+          "character": "COMPUTER",
+          "line": "Begin round one."
+        }
+      ],
+      "location": "Holodeck - boxing program"
+    }
+  ],
+  "schedule": {
+    "episode": 19,
+    "number": 113,
+    "season": 5
+  },
+  "stardate": "Unknown",
+  "title": "The Fight"
+}

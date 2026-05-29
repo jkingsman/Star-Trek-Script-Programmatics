@@ -1,0 +1,1957 @@
+{
+  "airdate": 1003302000,
+  "scenes": [
+    {
+      "dialogue": [
+        {
+          "character": "ARCHER",
+          "line": "Archer to the Bridge."
+        },
+        {
+          "character": "REED",
+          "line": "Lieutenant Reed, sir.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "ARCHER",
+          "line": "What the hell's going on?"
+        }
+      ],
+      "location": "Archer's quarters"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "REED",
+          "line": "We are having a little trouble with the gravity plating on E deck. I hope it hasn't caused you"
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "REED",
+          "line": "Any inconvenience.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "ARCHER",
+          "line": "Oh, no, no, no, not at all. Any idea when you might get it back online?"
+        }
+      ],
+      "location": "Archer's quarters"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "REED",
+          "line": "Commander Tucker says it should be any minute now, sir."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "ARCHER",
+          "line": "Thank you."
+        }
+      ],
+      "location": "Archer's quarters"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "PHLOX",
+          "line": "Not a very adventurous breakfast."
+        },
+        {
+          "character": "T'POL",
+          "line": "Plomeek broth is a traditional morning meal on Vulcan."
+        },
+        {
+          "character": "PHLOX",
+          "line": "Ah, but you're not on Vulcan. You should try these blueberry pancakes. They're quite delicious."
+        },
+        {
+          "character": "T'POL",
+          "line": "I sampled human food on several occasions. It didn't agree with me."
+        },
+        {
+          "character": "PHLOX",
+          "line": "Give it some time. The Vulcan digestive tract is highly adaptable."
+        },
+        {
+          "character": "T'POL",
+          "line": "I prefer to eat the foods I'm accustomed to."
+        },
+        {
+          "character": "PHLOX",
+          "line": "There's an old saying. When in Fellebis, do as the Fellebians do."
+        },
+        {
+          "character": "T'POL",
+          "line": "It's difficult enough having to smell all this. Eating it is out of the question."
+        },
+        {
+          "character": "T'POL",
+          "line": "Water, carbonated."
+        },
+        {
+          "character": "PHLOX",
+          "line": "Now that's adventurous."
+        }
+      ],
+      "location": "Mess hall"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TUCKER",
+          "line": "Well, tell him to hurry up. If the relays up there get too cold, they're going to start cutting out on us. Engineering."
+        },
+        {
+          "character": "CREWMAN",
+          "line": "We've got a power fluctuation in the starboard nacelle, sir.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "TUCKER",
+          "line": "We'll get to it as soon as we can."
+        },
+        {
+          "character": "CREWMAN",
+          "line": "Aye. sir.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "ARCHER",
+          "line": "Any luck?"
+        },
+        {
+          "character": "TUCKER",
+          "line": "We know it's got something to do with the plasma exhaust. The flow's been restricted for some reason and it's screwing up half the systems on the ship. Tell Billy to purge the aft manifold."
+        },
+        {
+          "character": "DILLARD",
+          "line": "Sir."
+        },
+        {
+          "character": "ARCHER",
+          "line": "You think it might be a good idea to drop out of warp?"
+        },
+        {
+          "character": "TUCKER",
+          "line": "Give me a minute, sir. I think we can figure it out."
+        },
+        {
+          "character": "TUCKER",
+          "line": "Tucker to Bridge. Might be a good idea to drop out of warp."
+        }
+      ],
+      "location": "Engineering"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TRAVIS",
+          "line": "Going to impulse, sir."
+        },
+        {
+          "character": "T'POL",
+          "line": "Commander, I think I've found the problem."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "T'POL",
+          "line": "Something's distorting our wake pattern."
+        },
+        {
+          "character": "TUCKER",
+          "line": "You're right. The plasma exhaust shouldn't be flaring that close to the ship."
+        },
+        {
+          "character": "REED",
+          "line": "EM residue in the exhaust ports?"
+        },
+        {
+          "character": "TUCKER",
+          "line": "No, we checked. They're clean."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Malcolm, if we ignited the plasma exhaust, what kind of damage would it do to the nacelles?"
+        },
+        {
+          "character": "REED",
+          "line": "Sir?"
+        },
+        {
+          "character": "ARCHER",
+          "line": "How much damage?"
+        },
+        {
+          "character": "REED",
+          "line": "If we polarize the hull plating, it should be all right as long as we maintained at least half impulse."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Go to half impulse, Ensign."
+        },
+        {
+          "character": "TRAVIS",
+          "line": "Aye, sir."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Put up A4."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Record all aft sensors."
+        },
+        {
+          "character": "T'POL",
+          "line": "Hull plating."
+        },
+        {
+          "character": "REED",
+          "line": "Both nacelles are at maximum."
+        },
+        {
+          "character": "T'POL",
+          "line": "Stand by to ignite a charge at eighty meters due aft."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Fire. Play it back, slowly. Go back and freeze it at the flashpoint. Creep it forward a little. There."
+        },
+        {
+          "character": "TUCKER",
+          "line": "Looks like we've got ourselves a hitchhiker."
+        },
+        {
+          "character": "T'POL",
+          "line": "They must be using some sort of stealth technology."
+        },
+        {
+          "character": "HOSHI",
+          "line": "I wonder how long they've been there."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Long enough to throw half our systems out of whack. I'm sure they know we've detected them. Open hailing frequencies."
+        },
+        {
+          "character": "HOSHI",
+          "line": "Our ship-to-ship sensors are malfunctioning. I can only give you audio. Translator's active."
+        },
+        {
+          "character": "ARCHER",
+          "line": "This is Captain Jonathan Archer of the Starship Enterprise. I don't need to tell you where we are. Your presence is disrupting a number of our systems. Please back away to a distance of at least ten kilometers and respond."
+        },
+        {
+          "character": "TRENA'L",
+          "line": "harm us. your request. We ask you not to harm us. We are complying with your request. We ask you not to harm us.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "REED",
+          "line": "They're moving off, sir."
+        },
+        {
+          "character": "ARCHER",
+          "line": "We have no intention of harming you, but I wouldn't mind an explanation."
+        },
+        {
+          "character": "TRENA'L",
+          "line": "I apologize for any damage we've caused. Our engines are malfunctioning and we've been using your plasma exhaust to replenish our teraphasic coils. It's allowed us to share your warp field.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "T'POL",
+          "line": "Their warp reactor is offline."
+        },
+        {
+          "character": "ARCHER",
+          "line": "We can't help you unless we can see you, so why don't you diskonnect whatever stealth device you're using."
+        }
+      ],
+      "location": "Bridge, rear"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "PHLOX",
+          "line": "I'm giving you forty milligrams of mirazine. It should shorted the decompression process by half."
+        },
+        {
+          "character": "TUCKER",
+          "line": "That still leaves three hours. Can you recommend a good book?"
+        },
+        {
+          "character": "T'POL",
+          "line": "I'll be briefing you on their propulsion systems."
+        },
+        {
+          "character": "TUCKER",
+          "line": "Sure you don't want me coming back at night?"
+        },
+        {
+          "character": "ARCHER",
+          "line": "Three hours of decompression in each direction, makes more sense to stay until the job's done."
+        },
+        {
+          "character": "PHLOX",
+          "line": "I've sent them your dietary requirements."
+        },
+        {
+          "character": "T'POL",
+          "line": "They claim to have the ability to synthesize protein and carbohydrates, but there's no telling what it may taste like. Try to be diplomatic."
+        },
+        {
+          "character": "TUCKER",
+          "line": "Three days on an alien ship."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Remember to mind your manners."
+        }
+      ],
+      "location": "Sickbay"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TRAVIS",
+          "line": "We've got a seal."
+        },
+        {
+          "character": "TUCKER",
+          "line": "Just about ready."
+        },
+        {
+          "character": "TRAVIS",
+          "line": "It's too bad the ship-to-ship sensors are down. Would have been nice to get a look at them."
+        },
+        {
+          "character": "TUCKER",
+          "line": "I'll just think of it as a blind date. Tucker to Enterprise."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Archer.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "TUCKER",
+          "line": "Here I go, sir."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Keep your comm. channel open. We'll be right here.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "TRAVIS",
+          "line": "Here you go."
+        },
+        {
+          "character": "TUCKER",
+          "line": "Don't forget to come back for me."
+        },
+        {
+          "character": "TRAVIS",
+          "line": "I don't know. We are kind of busy. Have fun."
+        }
+      ],
+      "location": "Shuttlepod"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TUCKER",
+          "line": "Hello?"
+        },
+        {
+          "character": "TUCKER",
+          "line": "Hello?"
+        },
+        {
+          "character": "AH'LEN",
+          "line": "Try to maintain your normal rate of respiration.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "TUCKER",
+          "line": "This stuff's burning my lungs."
+        },
+        {
+          "character": "AH'LEN",
+          "line": "Maintain your normal rate of respiration. The diskomfort will subside.",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "Decompression chamber"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "T'POL",
+          "line": "Commander Tucker's calling again, sir. He's rather anxious.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "ARCHER",
+          "line": "Put him through."
+        },
+        {
+          "character": "TUCKER",
+          "line": "How long's it been, sir?",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "ARCHER",
+          "line": "About five minutes longer than the last time you asked."
+        }
+      ],
+      "location": "Ready room"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "ARCHER",
+          "line": "How's the breathing?",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "TUCKER",
+          "line": "A lot easier, but I prefer air I can't see."
+        }
+      ],
+      "location": "Decompression chamber"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "ARCHER",
+          "line": "They told us the air would clear up during the last half hour of decompression."
+        }
+      ],
+      "location": "Ready room"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TUCKER",
+          "line": "I feel like I've been in here for a week."
+        },
+        {
+          "character": "ARCHER",
+          "line": "You've only got forty five minutes to go, Trip.",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "Decompression chamber"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "ARCHER",
+          "line": "Be patient."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Hey. Good boy. There you go."
+        }
+      ],
+      "location": "Ready room"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TUCKER",
+          "line": "Blue one. Green three. Yellow two. Orange five. Yellow three. Red four. Green two. Whoa, whoa, that's too fast. I'm not a computer."
+        }
+      ],
+      "location": "Decompression chamber"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TRENA'L",
+          "line": "I hope the acclamation process wasn't too stressful."
+        },
+        {
+          "character": "TUCKER",
+          "line": "Blue three, yellow six, orange four."
+        },
+        {
+          "character": "TRENA'L",
+          "line": "The perceptual tests are the best way to determine whether you're ready for our environment."
+        },
+        {
+          "character": "AH'LEN",
+          "line": "We've prepared a meal for you."
+        },
+        {
+          "character": "TUCKER",
+          "line": "Not right now, thank you."
+        },
+        {
+          "character": "TRENA'L",
+          "line": "We strongly recommend that you get some rest."
+        },
+        {
+          "character": "TUCKER",
+          "line": "I think I'd like to take a look at that engine room of yours."
+        },
+        {
+          "character": "AH'LEN",
+          "line": "It's one deck above us."
+        }
+      ],
+      "location": "Xyrillian ship"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "AH'LEN",
+          "line": "These are the teraphasic coils. The wider ones have lost their cohesion."
+        },
+        {
+          "character": "TUCKER",
+          "line": "I'm sorry, you lost me. I'm having trouble concentrating with all this noise and light."
+        },
+        {
+          "character": "AH'LEN",
+          "line": "Are you certain you don't want to rest for a while?"
+        },
+        {
+          "character": "TUCKER",
+          "line": "I don't know what I'm certain about."
+        }
+      ],
+      "location": "Xyrillian Engineering"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "T'POL",
+          "line": "Mister Tucker again, sir.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "ARCHER",
+          "line": "Put him through. Yeah, Trip. How's it going?"
+        },
+        {
+          "character": "TUCKER",
+          "line": "Not good. I don't think I'm going to be much help over here. I'm having a little more trouble adjusting than I thought I would.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "ARCHER",
+          "line": "What's the problem?"
+        }
+      ],
+      "location": "Archer's quarters"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TUCKER",
+          "line": "I feel like I've got a fever. I'm having trouble focusing, breathing. I really think I need to get back, Captain."
+        }
+      ],
+      "location": "Xyrillian Engineering"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "ARCHER",
+          "line": "Stand by for a minute. T'Pol, put me through to Trena'l."
+        },
+        {
+          "character": "T'POL",
+          "line": "Stand by.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "TRENA'L",
+          "line": "Captain Archer?",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "ARCHER",
+          "line": "My man's not doing so well over there."
+        },
+        {
+          "character": "TRENA'L",
+          "line": "He'll be fine.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "ARCHER",
+          "line": "With all due respect, I've known Commander Tucker for eight years. He's tough as nails. If he says he's having problems, I've got to believe him."
+        },
+        {
+          "character": "TRENA'L",
+          "line": "When he came out of decompression he refused to rest. I strongly suggest he'd lie down for a while.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "ARCHER",
+          "line": "You really think that'll make a difference?"
+        },
+        {
+          "character": "TRENA'L",
+          "line": "We have a good deal of experience with alien visitors.",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "Archer's quarters"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "ARCHER",
+          "line": "I told Trena'l you'd try to get at least an hour of shut-eye. He says that should do the trick.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "TUCKER",
+          "line": "I just want out, sir. I'm not kidding. I can't take much more of this."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Trena'l says they've dealt with this before. Just one hour. If you're not feeling better, we'll bring you back.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "TUCKER",
+          "line": "It's not going to work, Captain."
+        }
+      ],
+      "location": "Xyrillian Engineering"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "ARCHER",
+          "line": "Take a nap, Trip. That's an order."
+        }
+      ],
+      "location": "Archer's quarters"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "ARCHER",
+          "line": "Archer out.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "AH'LEN",
+          "line": "We've prepared sleeping quarters for you. It's not far."
+        }
+      ],
+      "location": "Xyrillian Engineering"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "AH'LEN",
+          "line": "Your Captain sent the recording . He thought it might help you relax. Are you feeling better?"
+        },
+        {
+          "character": "TUCKER",
+          "line": "What's that?"
+        },
+        {
+          "character": "AH'LEN",
+          "line": "Our food. It grows all over the ship. Would you like some? It's very sweet."
+        },
+        {
+          "character": "TUCKER",
+          "line": "I think I'll pass."
+        },
+        {
+          "character": "AH'LEN",
+          "line": "This is the closest we could come to water."
+        },
+        {
+          "character": "AH'LEN",
+          "line": "Trust me."
+        },
+        {
+          "character": "AH'LEN",
+          "line": "Did that hurt?"
+        },
+        {
+          "character": "TUCKER",
+          "line": "Not really. It's kind of nice. Does that happen when you people touch each other?"
+        },
+        {
+          "character": "AH'LEN",
+          "line": "Something similar. Have you had enough?"
+        },
+        {
+          "character": "TUCKER",
+          "line": "A man needs a lot of fluids when he's under the weather."
+        },
+        {
+          "character": "AH'LEN",
+          "line": "If you're feeling well enough, we really should get back to the repairs."
+        },
+        {
+          "character": "TUCKER",
+          "line": "Could we take some of those with us?"
+        }
+      ],
+      "location": "Trip's temporary quarters"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "T'POL",
+          "line": "Are the injector cells aligned with the primary coil?"
+        },
+        {
+          "character": "TUCKER",
+          "line": "Aligned and locked. You're not going to believe this. They've got grass growing on the floor. Real grass. It's even green. Is Vulcan grass green?",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "T'POL",
+          "line": "Have you tested the ion matrix, Commander?"
+        },
+        {
+          "character": "TUCKER",
+          "line": "The grass releases some kind of vapor, helps them metabolize their food. Smells just like a freshly mowed lawn.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "T'POL",
+          "line": "The ion matrix, Commander."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TUCKER",
+          "line": "Oh, right. I've recharged the assembly. Is it up to point four yet?"
+        },
+        {
+          "character": "ALIEN",
+          "line": "Point four three."
+        },
+        {
+          "character": "TUCKER",
+          "line": "Keep pumping up the gradient. If we can get it up to point five the coils should come back online"
+        }
+      ],
+      "location": "Alien Engineering"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TUCKER",
+          "line": "All by themselves.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "ARCHER",
+          "line": "Sounds like Trip's feeling better."
+        },
+        {
+          "character": "TRAVIS",
+          "line": "Before you know it, he'll have that engine room running like a well-oiled machine."
+        },
+        {
+          "character": "TUCKER",
+          "line": "Tucker to Captain Archer.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "ARCHER",
+          "line": "Go ahead, Trip."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TUCKER",
+          "line": "We're nearly ready to bring the warp reactor online. Shouldn't take more than a couple of hours."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Just think, yesterday you would have done anything to get out of there.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "TUCKER",
+          "line": "Tucker out."
+        },
+        {
+          "character": "AH'LEN",
+          "line": "It will take a while for the coils to regenerate. Come with me. There's something I want you to see."
+        }
+      ],
+      "location": "Xyrillian Engineering"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "AH'LEN",
+          "line": "Watch this."
+        },
+        {
+          "character": "AH'LEN",
+          "line": "That's Thera. It's where I come from."
+        },
+        {
+          "character": "TUCKER",
+          "line": "The depth perception is incredible. What is it, a 3-D simulator of some kind?"
+        },
+        {
+          "character": "AH'LEN",
+          "line": "It's holographic."
+        },
+        {
+          "character": "TUCKER",
+          "line": "Not like any hologram I've ever seen."
+        },
+        {
+          "character": "AH'LEN",
+          "line": "It seems real, doesn't it."
+        },
+        {
+          "character": "TUCKER",
+          "line": "How do you?"
+        },
+        {
+          "character": "AH'LEN",
+          "line": "Resequenced photons. Come with me."
+        },
+        {
+          "character": "TUCKER",
+          "line": "The perspective's changing."
+        },
+        {
+          "character": "AH'LEN",
+          "line": "We could walk all the way to the city and you'd never know we're still in this room."
+        },
+        {
+          "character": "AH'LEN",
+          "line": "Sit down."
+        },
+        {
+          "character": "TUCKER",
+          "line": "We're still in the same room and this isn't a boat."
+        },
+        {
+          "character": "AH'LEN",
+          "line": "It's a boat. It's just resequenced"
+        },
+        {
+          "character": "TUCKER",
+          "line": "Resequenced photons."
+        },
+        {
+          "character": "AH'LEN",
+          "line": "Exactly."
+        },
+        {
+          "character": "TUCKER",
+          "line": "If we had one of these on Enterprise, I'd never ask for shore leave."
+        },
+        {
+          "character": "AH'LEN",
+          "line": "you don't have any dermal plating. How do you detect other people's moods?"
+        },
+        {
+          "character": "TUCKER",
+          "line": "We don't. Well, actually we do, but we do it through observing behavior, getting to know someone."
+        },
+        {
+          "character": "AH'LEN",
+          "line": "The follicles on your face. If I'm not mistaken, they've grown. Do they have a purpose?"
+        },
+        {
+          "character": "TUCKER",
+          "line": "Not that I know of. Normally we shave them off with something called a razor, but I haven't had the chance since I've been here."
+        },
+        {
+          "character": "AH'LEN",
+          "line": "Do you mind?"
+        },
+        {
+          "character": "TUCKER",
+          "line": "Go ahead."
+        },
+        {
+          "character": "AH'LEN",
+          "line": "Does that hurt?"
+        },
+        {
+          "character": "TUCKER",
+          "line": "Not in the least."
+        },
+        {
+          "character": "TUCKER",
+          "line": "More water?"
+        },
+        {
+          "character": "AH'LEN",
+          "line": "No, this is a game we play. Watch."
+        },
+        {
+          "character": "AH'LEN",
+          "line": "Go ahead."
+        },
+        {
+          "character": "TUCKER",
+          "line": "Are there any rules to this game?"
+        },
+        {
+          "character": "AH'LEN",
+          "line": "It takes four hands to work."
+        },
+        {
+          "character": "AH'LEN",
+          "line": "Your favorite food is catfish."
+        },
+        {
+          "character": "TUCKER",
+          "line": "How the hell did you know that?"
+        },
+        {
+          "character": "AH'LEN",
+          "line": "What's mine."
+        },
+        {
+          "character": "TUCKER",
+          "line": "Your what, favorite food?"
+        },
+        {
+          "character": "AH'LEN",
+          "line": "Yes. Concentrate. What's my favorite food."
+        },
+        {
+          "character": "TUCKER",
+          "line": "Dutara root. How'd I know that?"
+        },
+        {
+          "character": "AH'LEN",
+          "line": "I wasn't certain the granules would work with your species. Captain Archer saved your life once, about four years ago."
+        },
+        {
+          "character": "TUCKER",
+          "line": "This is one hell of a game. You find me attractive."
+        },
+        {
+          "character": "AH'LEN",
+          "line": "You like having people find you attractive, don't you?"
+        },
+        {
+          "character": "TUCKER",
+          "line": "Sometimes."
+        },
+        {
+          "character": "ALIEN",
+          "line": "Reactor room to Ah'len. The coils are coming back online.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "AH'LEN",
+          "line": "Understood. You'd better stand up."
+        }
+      ],
+      "location": "Xyrillian Holodeck"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TRAVIS",
+          "line": "Decompression any easier coming back?"
+        },
+        {
+          "character": "TUCKER",
+          "line": "Three hours is three hours. You can't imagine what it was like over there, Travis. Food growing on the walls, teraphasic warp coils, boxes full of pebbles that make you telepathic."
+        },
+        {
+          "character": "TRAVIS",
+          "line": "What were the Xyrillians like?"
+        },
+        {
+          "character": "TUCKER",
+          "line": "A little shorter than us, weird scales on their faces, but otherwise pretty much like you and me. It sure was something. Reminded me why I signed on. But it is good to be home."
+        }
+      ],
+      "location": "Shuttlepod"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TRENA'L",
+          "line": "I hope your mission hasn't been overly delayed.",
+          "modifier": "screen"
+        },
+        {
+          "character": "ARCHER",
+          "line": "Getting a chance to meet other species is our mission."
+        },
+        {
+          "character": "TUCKER",
+          "line": "I see you've got the visual back online."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Hoshi. Trena'l wanted to thank you again."
+        },
+        {
+          "character": "TRENA'L",
+          "line": "[on viewscreen]: I realize how difficult it must have been, adapting to our environment."
+        },
+        {
+          "character": "TUCKER",
+          "line": "It was worth every minute. As long as those coils stay charged, you shouldn't have a problem maintaining a stable warp field. Thanks for taking care of me when I wasn't feeling so hot."
+        },
+        {
+          "character": "AH'LEN",
+          "line": "It was worth every minute. Good luck to you.",
+          "modifier": "screen"
+        },
+        {
+          "character": "ARCHER",
+          "line": "Nice work, Commander."
+        },
+        {
+          "character": "TUCKER",
+          "line": "I appreciate the opportunity, Commander."
+        },
+        {
+          "character": "T'POL",
+          "line": "I for one won't miss the malfunctions their proximity was causing."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Return to our previous heading, Travis."
+        },
+        {
+          "character": "TRAVIS",
+          "line": "Aye, sir."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "REED",
+          "line": "Didn't they feed you over there?"
+        },
+        {
+          "character": "TUCKER",
+          "line": "You should've come with me, Malcolm."
+        },
+        {
+          "character": "REED",
+          "line": "I heard about the holographic recreation."
+        },
+        {
+          "character": "TUCKER",
+          "line": "It wasn't like any visual simulator I've ever tried. It was more like actually being there. You could smell the ocean, feel the salt air on your skin."
+        },
+        {
+          "character": "REED",
+          "line": "If we had one of those on board, I can only imagine what it would be used for."
+        },
+        {
+          "character": "TUCKER",
+          "line": "I don't know if they can recreate people with it, but it sure did a hell of a job on landscapes."
+        },
+        {
+          "character": "REED",
+          "line": "Make any friends?"
+        },
+        {
+          "character": "TUCKER",
+          "line": "Ah'len, one of their engineers. She's the one who showed me the holographic chamber."
+        },
+        {
+          "character": "REED",
+          "line": "Is she the one you thanked for taking care of you?"
+        },
+        {
+          "character": "TUCKER",
+          "line": "Yeah."
+        },
+        {
+          "character": "REED",
+          "line": "Interesting scales."
+        },
+        {
+          "character": "TUCKER",
+          "line": "She did have a certain sensuality to her."
+        },
+        {
+          "character": "REED",
+          "line": "So, did you get a look at their weapons?"
+        },
+        {
+          "character": "TUCKER",
+          "line": "I don't even know if they had any. Have you tried these scrambled eggs? Tastes just like the real thing today."
+        },
+        {
+          "character": "REED",
+          "line": "Maybe you were allergic to something over there."
+        },
+        {
+          "character": "TUCKER",
+          "line": "Well, I cleared bioscan."
+        },
+        {
+          "character": "REED",
+          "line": "Nevertheless, you'd better have Doctor Phlox take a look at it."
+        }
+      ],
+      "location": "Mess hall"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TUCKER",
+          "line": "As far as I know, I've never been allergic to anything."
+        },
+        {
+          "character": "PHLOX",
+          "line": "I don't believe you're having an allergic reaction. Tell me, did your visit to the Xyrillian ship involve any romance?"
+        },
+        {
+          "character": "TUCKER",
+          "line": "What?"
+        },
+        {
+          "character": "PHLOX",
+          "line": "Were you intimate with anyone?"
+        },
+        {
+          "character": "TUCKER",
+          "line": "Doc, I was over there to repair a warp reactor. What are you talking about?"
+        },
+        {
+          "character": "PHLOX",
+          "line": "It seems you did a little more than repair work."
+        },
+        {
+          "character": "TUCKER",
+          "line": "Meaning?"
+        },
+        {
+          "character": "PHLOX",
+          "line": "This is a nipple."
+        },
+        {
+          "character": "TUCKER",
+          "line": "I beg your pardon?"
+        },
+        {
+          "character": "PHLOX",
+          "line": "Ah, the blastocyst is located between the sixth and seventh intercostals."
+        },
+        {
+          "character": "TUCKER",
+          "line": "What the hell are you talking about?"
+        },
+        {
+          "character": "PHLOX",
+          "line": "I'm not quite sure if congratulations are in order, Commander, but you're pregnant."
+        },
+        {
+          "character": "PHLOX",
+          "line": "Here, do you see that cell cluster? That is the embryo. I assume you'll be happy to know that it's not technically your child."
+        },
+        {
+          "character": "TUCKER",
+          "line": "What do you mean?"
+        },
+        {
+          "character": "PHLOX",
+          "line": "When reproducing, the Xyrillians only utilize the genetic material of the mother. The males simply serve as hosts."
+        },
+        {
+          "character": "TUCKER",
+          "line": "That's comforting, but how the hell did I get knocked up?"
+        },
+        {
+          "character": "PHLOX",
+          "line": "We don't have any data on their mating procedures, but I wouldn't think it would be that difficult for you to recollect a sexual encounter."
+        },
+        {
+          "character": "T'POL",
+          "line": "Three days. You were only there for three days and you couldn't restrain yourself."
+        },
+        {
+          "character": "TUCKER",
+          "line": "I'm telling you, Captain, I was a complete gentleman the entire time."
+        },
+        {
+          "character": "T'POL",
+          "line": "I imagine that's a question of how you would define gentleman."
+        },
+        {
+          "character": "TUCKER",
+          "line": "The only female I had any contact with was Ah'len, their engineer. Other than repairing the reactor, all she and I did together was go into that holographic chamber they've got. She showed me some home movies, simulations of their planet, but I didn't lay a hand on her. There's got to be some way to get this thing out of me without hurting it. Can't you create a surrogate chamber or something?"
+        },
+        {
+          "character": "PHLOX",
+          "line": "The embryo has integrated with your pericardium. I wouldn't be comfortable extracting it without more information on the gestation process."
+        },
+        {
+          "character": "T'POL",
+          "line": "This engineer wanted you to see her planet?"
+        },
+        {
+          "character": "TUCKER",
+          "line": "So?"
+        },
+        {
+          "character": "T'POL",
+          "line": "Perhaps the next step would have been to meet her holographic parents. If I'm not mistaken, on some planets that's a precursor to marriage."
+        },
+        {
+          "character": "TUCKER",
+          "line": "We took a ride in a row boat. I swear, Captain, nothing happened."
+        },
+        {
+          "character": "PHLOX",
+          "line": "There had to be a somewhat lengthy physical contact to transfer this much genetic material."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Trip."
+        },
+        {
+          "character": "TUCKER",
+          "line": "I've been in Starfleet for twelve years. Do you think I'd jeopardize my career by messing around with some alien engineer on a three day mission? I considered myself a diplomat from the minute I set foot in that vessel. Well, there was that box of pebbles."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Pebbles?"
+        },
+        {
+          "character": "TUCKER",
+          "line": "Yeah, she had it on the boat. But it was no bid deal. We just stuck our hands into these granules for a few minutes. It's a game they play, let's you read each other's minds. They weren't even real, they were holographic just like everything else in the room."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Doctor?"
+        },
+        {
+          "character": "PHLOX",
+          "line": "Without a sample of these telepathic granules it would be impossible to make a determination, but they could have served as the transferral medium."
+        },
+        {
+          "character": "T'POL",
+          "line": "One of the first things a diplomat learns is not to stick his fingers where they don't belong."
+        },
+        {
+          "character": "TUCKER",
+          "line": "Captain?"
+        },
+        {
+          "character": "ARCHER",
+          "line": "If we're going to safely remove this life form from Commander Tucker, we'll have to find the Xyrillians. Why don't you and Malcolm see what you can do about locating their ship."
+        },
+        {
+          "character": "T'POL",
+          "line": "Yes, sir."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Is Trip well enough to return to his duties?"
+        },
+        {
+          "character": "TUCKER",
+          "line": "What, are you kidding? I'm fine."
+        },
+        {
+          "character": "PHLOX",
+          "line": "You'll probably feel a bit nauseated in the mornings, so get sufficient rest and exercise and see me at least once a day. That nipple may not be the only surprise your body has in store for you."
+        },
+        {
+          "character": "TUCKER",
+          "line": "You think we could keep this between the four of us, at least for the time being?"
+        },
+        {
+          "character": "ARCHER",
+          "line": "You got it."
+        }
+      ],
+      "location": "Sickbay"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TUCKER",
+          "line": "Dillard."
+        },
+        {
+          "character": "DILLARD",
+          "line": "Sir?"
+        },
+        {
+          "character": "TUCKER",
+          "line": "Look at this lift."
+        },
+        {
+          "character": "DILLARD",
+          "line": "Sir?"
+        },
+        {
+          "character": "TUCKER",
+          "line": "It's an accident waiting to happen. This safety bar's a meter off the floor. What use would it be for a small person?"
+        },
+        {
+          "character": "DILLARD",
+          "line": "A small person?"
+        },
+        {
+          "character": "TUCKER",
+          "line": "A short alien, a child. This thing's a deathtrap."
+        },
+        {
+          "character": "TUCKER",
+          "line": "Look at this handrail. Put your hands here while this is going up or down, it'll take your fingers right off."
+        },
+        {
+          "character": "DILLARD",
+          "line": "Why would someone put their hands there, sir?"
+        },
+        {
+          "character": "TUCKER",
+          "line": "Never mind."
+        }
+      ],
+      "location": "Engineering"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TUCKER",
+          "line": "Are you certain you made the correct sensor modifications?"
+        },
+        {
+          "character": "REED",
+          "line": "Yes, absolutely certain. Their last trajectory?"
+        },
+        {
+          "character": "T'POL",
+          "line": "We've altered our course to match."
+        },
+        {
+          "character": "TUCKER",
+          "line": "How do we know they haven't changed their heading?"
+        },
+        {
+          "character": "T'POL",
+          "line": "We don't, but we've compensated to detect their stealth telemetry. We should be able to locate them."
+        },
+        {
+          "character": "REED",
+          "line": "It may take a while. Why exactly are we trying to find that ship?"
+        },
+        {
+          "character": "T'POL",
+          "line": "Yes. I thought you provided all the services they required."
+        },
+        {
+          "character": "TUCKER",
+          "line": "If you'll excuse me, I'm not feeling very well."
+        },
+        {
+          "character": "T'POL",
+          "line": "Perhaps a little lunch might help. I hear Chef has prepared Rigelian sausage. Being vegetarian I can't speak from experience, but I'm told it's quite succulent."
+        },
+        {
+          "character": "TUCKER",
+          "line": "I think I'm just going to go lie down for a while."
+        },
+        {
+          "character": "REED",
+          "line": "Commander, if we tune the UV sensors to the omicron band, we should be able to isolate their plasma trail a good deal faster. Do you think you could spare a minute just to help me recalibrate them?"
+        },
+        {
+          "character": "TUCKER",
+          "line": "I'm afraid this isn't a very good time. Captain's starlog, supplemental. We've spent eight days looking for the Xyrillian ship, but so far we've had no luck."
+        }
+      ],
+      "location": "deleted scene - Bridge, rear"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TUCKER",
+          "line": "Sorry I'm late."
+        },
+        {
+          "character": "ARCHER",
+          "line": "No problem. How you feeling?"
+        },
+        {
+          "character": "TUCKER",
+          "line": "I thought we all promised to keep this under wraps."
+        },
+        {
+          "character": "ARCHER",
+          "line": "I haven't said a thing. Doctor?"
+        },
+        {
+          "character": "PHLOX",
+          "line": "Not a word."
+        },
+        {
+          "character": "TUCKER",
+          "line": "I knew it. She probably let it slip the minute she left Sickbay."
+        },
+        {
+          "character": "PHLOX",
+          "line": "But Sub-Commander T'Pol promised to keep your pregnancy a secret."
+        },
+        {
+          "character": "TUCKER",
+          "line": "Where I'm from, Vulcans aren't known for keeping promises."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Well, what makes you think she's told anyone?"
+        },
+        {
+          "character": "TUCKER",
+          "line": "All you have to do is see the way they whisper, talk behind my back. You know what happened this morning? Ensign Hart pulled my chair out for me. I'm telling you, it was T'Pol and you can be sure it was intentional. What's that?"
+        },
+        {
+          "character": "ARCHER",
+          "line": "Chicken tetrazzini."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Did you cut yourself?"
+        },
+        {
+          "character": "TUCKER",
+          "line": "I wish. I don't want to ruin you appetites, but take a look at this."
+        },
+        {
+          "character": "TUCKER",
+          "line": "Just how many of these am I going to grow? And while we're on the subject, are they going to go away again afterward?"
+        },
+        {
+          "character": "PHLOX",
+          "line": "One would think. Then again, I have no experience with this species."
+        },
+        {
+          "character": "TUCKER",
+          "line": "Great."
+        },
+        {
+          "character": "ARCHER",
+          "line": "You know, it's been over a week, Trip. We have to start considering the possibility that we're not going to find the Xyrillians."
+        },
+        {
+          "character": "TUCKER",
+          "line": "What's that supposed to mean? Are you saying I'm going to deliver this baby?"
+        },
+        {
+          "character": "PHLOX",
+          "line": "I believe he's saying a good deal more than that. Once the child is born, it may well rely on you in some way to care for it."
+        },
+        {
+          "character": "TUCKER",
+          "line": "I'm the Chief Engineer. I spent years earning that position. I never had any intention of becoming a working mother."
+        },
+        {
+          "character": "ARCHER",
+          "line": "You know, the Doctor was saying that the gestation period will only last another five weeks, six at the most."
+        },
+        {
+          "character": "PHLOX",
+          "line": "You should expect to begin experiencing some unusual symptoms. Hormonal changes mostly, mood swings, heightened emotions."
+        },
+        {
+          "character": "ARCHER",
+          "line": "I suggest you stick with the civilian clothes. Seems to help hide the bulge."
+        },
+        {
+          "character": "TUCKER",
+          "line": "How much bigger is this thing going to get? I'm already the laughing stock of the ship."
+        },
+        {
+          "character": "TUCKER",
+          "line": "I'd love some more of this."
+        },
+        {
+          "character": "CREWMAN",
+          "line": "Yes, sir."
+        },
+        {
+          "character": "ARCHER",
+          "line": "I'd like you to start seeing the Doctor every eight hours. As your delivery date gets closer, he should be able to start figuring out what your postnatal responsibilities might be."
+        },
+        {
+          "character": "TUCKER",
+          "line": "Postnatal responsibilities?"
+        },
+        {
+          "character": "PHLOX",
+          "line": "You may very well be putting those nipples to work before you know it."
+        },
+        {
+          "character": "ARCHER",
+          "line": "There's a bright side to all of this."
+        },
+        {
+          "character": "TUCKER",
+          "line": "Yeah? What's that."
+        },
+        {
+          "character": "ARCHER",
+          "line": "As far as we know, this is the first inter-species pregnancy involving a human."
+        }
+      ],
+      "location": "Captain's mess"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "REED",
+          "line": "Got something."
+        },
+        {
+          "character": "TRAVIS",
+          "line": "Looks like their signature."
+        },
+        {
+          "character": "T'POL",
+          "line": "Coordinates oh seven eight mark six, three million kilometers. Change our heading to intercept. Bridge to Archer."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Go ahead.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "T'POL",
+          "line": "We may have found the Xyrillian ship, sir."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TUCKER",
+          "line": "Thank you."
+        },
+        {
+          "character": "ARCHER",
+          "line": "On our way."
+        }
+      ],
+      "location": "Captain's mess"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "ARCHER",
+          "line": "What have you got?"
+        },
+        {
+          "character": "T'POL",
+          "line": "We're approaching the coordinates. I've analyzed the stealth telemetry, I believe it's them."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Drop down to impulse. Hoshi, try to get an image."
+        },
+        {
+          "character": "TUCKER",
+          "line": "Doesn't look very stealthy to me."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Go tighter."
+        },
+        {
+          "character": "REED",
+          "line": "If the starship profiles the Vulcans gave us are correct"
+        },
+        {
+          "character": "T'POL",
+          "line": "They're correct, Lieutenant. That's a Klingon battle cruiser."
+        },
+        {
+          "character": "TUCKER",
+          "line": "Where the hell are the Xyrillians?"
+        },
+        {
+          "character": "T'POL",
+          "line": "It appears your repairs didn't last very long. If I'm correct, they're hiding in the Klingon's plasma wake."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Hoshi?"
+        },
+        {
+          "character": "HOSHI",
+          "line": "The translation program should be in pretty good shape, sir."
+        },
+        {
+          "character": "REED",
+          "line": "Sir, with all due respect, do we really think this is a wise idea?"
+        },
+        {
+          "character": "ARCHER",
+          "line": "If we're going to speak to the Xyrillians, we can't do it without the Klingons knowing about it. Open a channel. This is Captain Archer of the starship Enterprise. We respectfully would like to ask for your assistance with a little problem we're having."
+        },
+        {
+          "character": "REED",
+          "line": "Sir, they're charging weapons."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Polarize the hull plating."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Grab hold of something."
+        },
+        {
+          "character": "REED",
+          "line": "And another one."
+        },
+        {
+          "character": "TUCKER",
+          "line": "Why are they attacking us?"
+        },
+        {
+          "character": "T'POL",
+          "line": "They're not. If they wanted to destroy Enterprise they would have done it."
+        },
+        {
+          "character": "ARCHER",
+          "line": "So I guess that's their version of a warning shot across our bows."
+        },
+        {
+          "character": "REED",
+          "line": "I don't recommend being the recipient of another warning like that, sir."
+        },
+        {
+          "character": "TRAVIS",
+          "line": "Should I lay in a new course, Captain?"
+        },
+        {
+          "character": "ARCHER",
+          "line": "No, stay where you are. Hail them again."
+        },
+        {
+          "character": "TUCKER",
+          "line": "Sir, look at their starboard nacelle. The power's fluctuating just like ours did when the Xyrillians were riding in our wake."
+        },
+        {
+          "character": "HOSHI",
+          "line": "They're responding."
+        },
+        {
+          "character": "VOROK",
+          "line": "What gives you the right to approach a Klingon warship?",
+          "modifier": "screen"
+        },
+        {
+          "character": "ARCHER",
+          "line": "Please accept our apology, but I need to ask you a question."
+        },
+        {
+          "character": "VOROK",
+          "line": "And what would that be?",
+          "modifier": "screen"
+        },
+        {
+          "character": "ARCHER",
+          "line": "Have you been experiencing any unusual malfunctions? Problems with your gravity plating, propulsion, environmental controls?"
+        },
+        {
+          "character": "VOROK",
+          "line": "You've been monitoring our systems. For how long?",
+          "modifier": "screen"
+        },
+        {
+          "character": "ARCHER",
+          "line": "We haven't, I promise you. The same things happened to us a few days ago. Your problems are being caused by a small stealth vessel that's been riding in your wake. They're using your plasma exhaust to fuel their warp coils."
+        },
+        {
+          "character": "VOROK",
+          "line": "Find this vessel.",
+          "modifier": "screen"
+        },
+        {
+          "character": "ARCHER",
+          "line": "Wait a minute, wait a minute. They're harmless. We need them, alive. Just give me a chance to explain."
+        },
+        {
+          "character": "VOROK",
+          "line": "Find them!",
+          "modifier": "screen"
+        },
+        {
+          "character": "KLINGON",
+          "line": "There are thirty six aboard.",
+          "modifier": "screen"
+        },
+        {
+          "character": "VOROK",
+          "line": "Bring their Captain to me and execute the others.",
+          "modifier": "screen"
+        },
+        {
+          "character": "ARCHER",
+          "line": "Didn't you hear what I said? I need them alive."
+        },
+        {
+          "character": "VOROK",
+          "line": "What you need is to turn your puny ship around and leave. These aliens violated our security and disrupted our systems. Both are considered acts of war against the Empire.",
+          "modifier": "screen"
+        },
+        {
+          "character": "ARCHER",
+          "line": "I assure you that any damage they've done was unintentional. They're simply trying to get home."
+        },
+        {
+          "character": "VOROK",
+          "line": "They won't get home, but I'm more than willing to hasten their journey to Sto-Vo-Kor.",
+          "modifier": "screen"
+        },
+        {
+          "character": "ARCHER",
+          "line": "Sto-Vo?"
+        },
+        {
+          "character": "HOSHI",
+          "line": "The afterlife."
+        },
+        {
+          "character": "ARCHER",
+          "line": "You really don't want to hurt these people. They're actually very kind. They just had some bad luck with their engines. When we confronted them, they complied with all our requests."
+        },
+        {
+          "character": "VOROK",
+          "line": "You're wasting my time.",
+          "modifier": "screen"
+        },
+        {
+          "character": "T'POL",
+          "line": "Less than one month ago, Captain Archer stood in the High Council Chamber in Kronos. The Chancellor himself called him a man of honor, a brother. Enterprise is the ship that found Klaang and returned him to the Empire. Without Klaang, your houses would be at war with each other. Jonathan Archer is the man who carried out that rescue. You are in his debt. You would be demonstrating both honor and wisdom to grant his request."
+        },
+        {
+          "character": "TUCKER",
+          "line": "I'm the one who repaired their warp reactor, or at least I thought I did. I spent three days on their ship. They have some amazing technology. If you don't kill them, I'm sure they'd share it with you, teach you how to use it."
+        },
+        {
+          "character": "KLINGON",
+          "line": "What kind of technology?",
+          "modifier": "screen"
+        },
+        {
+          "character": "TUCKER",
+          "line": "Well for one, they've got some incredible holography. I don't know how advanced Klingon holograms are, but these are like nothing I ever saw before. Press a few buttons and you'll be standing on a hillside overlooking Kronos. It's unbelievable. Couldn't hurt to take a look, unless the decompression cycle frightens you."
+        },
+        {
+          "character": "VOROK",
+          "line": "I am frightened by nothing, PetaQ.",
+          "modifier": "screen"
+        },
+        {
+          "character": "ARCHER",
+          "line": "If you agree to enter their vessel, I'd appreciate it if you took my Chief Engineer with you."
+        },
+        {
+          "character": "VOROK",
+          "line": "He talks too much. I'll bring a security team.",
+          "modifier": "screen"
+        },
+        {
+          "character": "ARCHER",
+          "line": "He was there for three days. They trust him. It'll make things a lot easier."
+        },
+        {
+          "character": "VOROK",
+          "line": "If their technology amuses me, I may spare their lives. I don't need your engineer to help me make that decision.",
+          "modifier": "screen"
+        },
+        {
+          "character": "ARCHER",
+          "line": "There's another reason. Commander Tucker has some unfinished business with the Xyrillians."
+        },
+        {
+          "character": "VOROK",
+          "line": "I am not interested in your engineer's business.",
+          "modifier": "screen"
+        },
+        {
+          "character": "ARCHER",
+          "line": "There's a pregnancy involved."
+        },
+        {
+          "character": "VOROK",
+          "line": "I thought you said you were there to fix their warp reactor, not to impregnate one of their females. This should be a lesson to you. Forget it happened.",
+          "modifier": "screen"
+        },
+        {
+          "character": "TUCKER",
+          "line": "I'm afraid that's not going to be so easy."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Show him."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TUCKER",
+          "line": "Captain Vorok has agreed to consider releasing your ship in exchange for one or two of your holographic simulators. It would be a good idea to cooperate."
+        },
+        {
+          "character": "VOROK",
+          "line": "This is a topographical survey of our capital."
+        },
+        {
+          "character": "TRENA'L",
+          "line": "I'd be pleased to give you a demonstration."
+        },
+        {
+          "character": "AH'LEN",
+          "line": "The reactor worked fine for six days then went offline again. How did you find us?"
+        },
+        {
+          "character": "TUCKER",
+          "line": "It wasn't easy, but we were very motivated."
+        },
+        {
+          "character": "AH'LEN",
+          "line": "I don't understand."
+        },
+        {
+          "character": "AH'LEN",
+          "line": "I had no idea this could happen with another species. If I'd known."
+        },
+        {
+          "character": "TUCKER",
+          "line": "No need to apologize, but I would be real appreciative if you could get this out of me, assuming it's safe."
+        },
+        {
+          "character": "AH'LEN",
+          "line": "It's still early enough to transfer the embryo to another host. She looks very healthy."
+        },
+        {
+          "character": "TUCKER",
+          "line": "It's a girl, huh?"
+        }
+      ],
+      "location": "Xyrillian ship"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "VOROK",
+          "line": "You can see my house from here. Can this technology be adapted to our power matrix?"
+        },
+        {
+          "character": "TRENA'L",
+          "line": "I'm sure we can make the appropriate modifications."
+        }
+      ],
+      "location": "Xyrillian holodeck"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "VOROK",
+          "line": "As soon as the installlation is complete, the Xyrillians will be free to go.",
+          "modifier": "screen"
+        },
+        {
+          "character": "ARCHER",
+          "line": "I appreciate your co-operation. I hope the next time we meet, we can be of some help to you."
+        },
+        {
+          "character": "VOROK",
+          "line": "Listen to me very carefully. Our debt is repaid. We have no interest in meeting you again, and if we do, I promise, you'll regret it.",
+          "modifier": "screen"
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TUCKER",
+          "line": "The only thing worse than spending three hours in a decompression chamber with a bunch of Klingons is doing it twice in one day. I smelled things in there I hope I never smell again."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Trena'l told me that at full impulse, they can probably get home in less than a month."
+        },
+        {
+          "character": "TUCKER",
+          "line": "No more hitch-hiking?"
+        },
+        {
+          "character": "ARCHER",
+          "line": "That business about the Klingon Chancellor calling me a brother, was that true?"
+        },
+        {
+          "character": "T'POL",
+          "line": "Klingons are known to exaggerate. I saw nothing wrong with doing the same."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Your appetite seems to be back to normal."
+        },
+        {
+          "character": "TUCKER",
+          "line": "Just eating for one again."
+        },
+        {
+          "character": "T'POL",
+          "line": "I've run a check through the Starfleet database. You might be pleased to know that this is the first recorded incident of a human male becoming pregnant."
+        },
+        {
+          "character": "TUCKER",
+          "line": "Just how I always wanted to get into the history books."
+        }
+      ],
+      "location": "Captain's mess"
+    }
+  ],
+  "schedule": {
+    "episode": 5,
+    "number": 5,
+    "season": 1
+  },
+  "stardate": "Unknown",
+  "title": "Unexpected"
+}

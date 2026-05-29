@@ -1,0 +1,1603 @@
+{
+  "airdate": 1045641600,
+  "scenes": [
+    {
+      "dialogue": [
+        {
+          "character": "ARCHER",
+          "line": "Biosigns?"
+        },
+        {
+          "character": "T'POL",
+          "line": "None that I can detect, but its hull seems to be scattering our sensors."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Any idea what happened?"
+        },
+        {
+          "character": "REED",
+          "line": "I'm not reading any weapons signatures. Possibly some sort of accident."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Bring it into Launch bay two."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "REED",
+          "line": "There's no windows. I'm not sure whether this end's the bow or the stern."
+        },
+        {
+          "character": "T'POL",
+          "line": "Captain. This might be a hatch."
+        },
+        {
+          "character": "REED",
+          "line": "If it is, it's been fused shut. With your permission, sir?"
+        },
+        {
+          "character": "T'POL",
+          "line": "He's human."
+        }
+      ],
+      "location": "Launch bay two"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "PHLOX",
+          "line": "This was a human male. A microcellular scan should tell us his age at the time of death. Apparently, you're not the first humans out this far."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Whoever this is, he's rewritten our history books. Can you get a DNA sample?"
+        },
+        {
+          "character": "PHLOX",
+          "line": "The tissue damage is extensive, but I should be able to isolate a few fragments."
+        },
+        {
+          "character": "ARCHER",
+          "line": "If he's a member of Starfleet, his genetic profile is probably in our database. Run a comparison as soon as you can."
+        },
+        {
+          "character": "PHLOX",
+          "line": "Absolutely."
+        },
+        {
+          "character": "T'POL",
+          "line": "There aren't any ships or inhabited systems for several light years."
+        },
+        {
+          "character": "ARCHER",
+          "line": "I wonder if this could be Zephram Cochrane. They say he was piloting a one-man vessel when he disappeared."
+        },
+        {
+          "character": "T'POL",
+          "line": "How could he have traveled this far?"
+        },
+        {
+          "character": "ARCHER",
+          "line": "There were a lot of rumors after he was lost. One of them said he was testing some kind of experimental warp ship. Any markings on the hull or control panels?"
+        },
+        {
+          "character": "T'POL",
+          "line": "We haven't found any."
+        }
+      ],
+      "location": "Sickbay"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "REED",
+          "line": "The hull seems to absorb EM radiation. Without all this damage, it never would have shown up on our sensors."
+        },
+        {
+          "character": "TUCKER",
+          "line": "Some kind of stealth ship. So what do you think, Travis? Could this pilot have been a cargo hauler?"
+        },
+        {
+          "character": "TRAVIS",
+          "line": "We're more than thirty light years from the nearest trade route. I don't see how he could have made it out this far."
+        },
+        {
+          "character": "REED",
+          "line": "Maybe he got a ride from someone."
+        },
+        {
+          "character": "TUCKER",
+          "line": "That's got to be a world record for hitchhiking. I still can't find any plasma exhaust ports. Not even a thruster quad."
+        },
+        {
+          "character": "TRAVIS",
+          "line": "There's nothing here that looks like a power source."
+        },
+        {
+          "character": "TUCKER",
+          "line": "How did this thing make it into deep space without an engine?"
+        },
+        {
+          "character": "REED",
+          "line": "Could be an escape pod."
+        },
+        {
+          "character": "TUCKER",
+          "line": "Even an escape pod would need some kind of propulsion system."
+        }
+      ],
+      "location": "Launch bay two"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "ARCHER",
+          "line": "Any new mission you haven't told us about?"
+        },
+        {
+          "character": "FORREST",
+          "line": "I wish there was. It's possible the ship you found was launched from Vega Colony, but they're a long way behind you. The Earth Cargo Authority may have more information.",
+          "modifier": "screen"
+        },
+        {
+          "character": "ARCHER",
+          "line": "Phlox has sent a request to Doctor Cochrane's family. They're transmitting his genetic profile."
+        },
+        {
+          "character": "FORREST",
+          "line": "A hundred light years from Earth. You might have solved the greatest missing person case of the century.",
+          "modifier": "screen"
+        },
+        {
+          "character": "ARCHER",
+          "line": "If we haven't, we've diskovered an even bigger mystery."
+        }
+      ],
+      "location": "Ready room"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "REED",
+          "line": "Commander. (They've uncovered a round thing with thick wires leading off it in 4 directions.)"
+        },
+        {
+          "character": "REED",
+          "line": "Registers as some kind of bio-matter."
+        },
+        {
+          "character": "TUCKER",
+          "line": "Organic circuitry?"
+        },
+        {
+          "character": "REED",
+          "line": "Maybe we should get Phlox to come down and take a look."
+        },
+        {
+          "character": "TUCKER",
+          "line": "Not a bad idea."
+        },
+        {
+          "character": "TUCKER",
+          "line": "What's this?"
+        },
+        {
+          "character": "TUCKER",
+          "line": "Malcolm?"
+        },
+        {
+          "character": "REED",
+          "line": "I see it."
+        },
+        {
+          "character": "TUCKER",
+          "line": "Good. Means I'm not hallucinating. How can a ship be bigger on the inside than the outside?"
+        },
+        {
+          "character": "REED",
+          "line": "It could be a hologram."
+        },
+        {
+          "character": "TUCKER",
+          "line": "Hand me that hyperspanner."
+        },
+        {
+          "character": "REED",
+          "line": "You're not going down there?"
+        },
+        {
+          "character": "TUCKER",
+          "line": "Got to get my spanner back."
+        },
+        {
+          "character": "REED",
+          "line": "We should call the Bridge first. Let them know"
+        },
+        {
+          "character": "TUCKER",
+          "line": "Say again, Malcolm?"
+        },
+        {
+          "character": "REED",
+          "line": "This gives space exploration a whole new meaning."
+        },
+        {
+          "character": "TUCKER",
+          "line": "I've read a few papers on spatial geometry. I never heard a theory that would explain this. The Captain'll never believe us. He's going to have to see this for himself."
+        },
+        {
+          "character": "TUCKER",
+          "line": "What do you think, a warp reactor?"
+        },
+        {
+          "character": "REED",
+          "line": "You're the engineer."
+        },
+        {
+          "character": "TUCKER",
+          "line": "Looks like a breach, overload of some kind."
+        },
+        {
+          "character": "REED",
+          "line": "I'm picking up an energy signature. It's very faint."
+        }
+      ],
+      "location": "Launch bay two"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TRAVIS",
+          "line": "Sir, a vessel's dropped out of warp. They're on an intercept course."
+        },
+        {
+          "character": "T'POL",
+          "line": "It's Suliban."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Let's see it."
+        },
+        {
+          "character": "T'POL",
+          "line": "Minimal weapons. I don't believe it's a combat ship."
+        },
+        {
+          "character": "HOSHI",
+          "line": "We're being hailed."
+        },
+        {
+          "character": "SULIBAN",
+          "line": "You have something that belongs to us.",
+          "modifier": "screen"
+        },
+        {
+          "character": "ARCHER",
+          "line": "I don't believe I've had the pleasure"
+        },
+        {
+          "character": "SULIBAN",
+          "line": "We have a salvage claim on the vessel in your launch bay. One of our cell ships diskovered it three days ago. We were sent to retrieve it.",
+          "modifier": "screen"
+        },
+        {
+          "character": "ARCHER",
+          "line": "That ship's an Earth vessel. The pilot's human."
+        },
+        {
+          "character": "SULIBAN",
+          "line": "I'm not interested in the corpse. Decompress your launch bay and release the vessel.",
+          "modifier": "screen"
+        },
+        {
+          "character": "ARCHER",
+          "line": "I'm curious. What's your interest in that ship? There's not much left."
+        },
+        {
+          "character": "SULIBAN",
+          "line": "The vessel. Now.",
+          "modifier": "screen"
+        },
+        {
+          "character": "T'POL",
+          "line": "They're charging weapons."
+        },
+        {
+          "character": "ARCHER",
+          "line": "You might want to contact your superiors. Ask for a man named Silik. He'll tell you I don't respond well to threats."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TUCKER",
+          "line": "This could be a release pin. Let's get it to Engineering."
+        }
+      ],
+      "location": "Inside the 'Tardis'"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "T'POL",
+          "line": "Forward plating is holding."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Bring us about, Travis. Power the phase-cannons. See what you can do about their weapons."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TUCKER",
+          "line": "Tucker to the Bridge. The comm.'s down."
+        },
+        {
+          "character": "REED",
+          "line": "Commander!"
+        }
+      ],
+      "location": "Launch bay two"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "HOSHI",
+          "line": "Someone's trying to open Launch bay two."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Lock them out."
+        },
+        {
+          "character": "HOSHI",
+          "line": "I can't."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Archer to Trip. Send a security team down there. Return fire."
+        },
+        {
+          "character": "T'POL",
+          "line": "Their weapons have been disabled."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Target their engines, and bring the grappler on line."
+        },
+        {
+          "character": "T'POL",
+          "line": "Sir?"
+        },
+        {
+          "character": "ARCHER",
+          "line": "They wanted that ship pretty badly. I'd like to know why."
+        },
+        {
+          "character": "TRAVIS",
+          "line": "They're moving off."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Stay with them."
+        },
+        {
+          "character": "TRAVIS",
+          "line": "I've lost them, sir. Captain's Starlog, supplemental. We've contacted the Vulcan ship Tal'Kir. They've agreed to meet us in three days to take the craft back to Earth. Hopefully, we won't have another visit from the Suliban before we reach the rendezvous point."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TUCKER",
+          "line": "It was heavily shielded. Whatever this thing is, it must be pretty important."
+        },
+        {
+          "character": "ARCHER",
+          "line": "What's your guess?"
+        },
+        {
+          "character": "TUCKER",
+          "line": "Might be the black box."
+        },
+        {
+          "character": "T'POL",
+          "line": "It could it tell us what happened, maybe even who built the vessel."
+        },
+        {
+          "character": "TUCKER",
+          "line": "That's assuming we can get it working. It seems to use the same organic circuitry as the rest of the ship. Captain, I got to take you down into that chamber. You're not going to believe your eyes."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Bigger on the inside?"
+        },
+        {
+          "character": "PHLOX",
+          "line": "Sickbay to Captain Archer.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "ARCHER",
+          "line": "Archer."
+        },
+        {
+          "character": "PHLOX",
+          "line": "I need to see you immediately.",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "Engineering"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "PHLOX",
+          "line": "I managed to find only a few undamaged cells, but they were enough to complete a genetic analysis."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Is there a match in the Starfleet Database?"
+        },
+        {
+          "character": "PHLOX",
+          "line": "No, but I did diskover that our guest is no ordinary human. I found an unusual deviation in this nucleotide sequence. At first I thought I was looking at some kind of mutation, but there was something familiar about the chromosome structure, so I widened my search to include the interspecies database. This nucleotide sequence is Vulcan."
+        },
+        {
+          "character": "ARCHER",
+          "line": "How did a human end up with Vulcan DNA?"
+        },
+        {
+          "character": "PHLOX",
+          "line": "The likeliest explanation is that he had at least one Vulcan ancestor further back than a great-grandparent."
+        },
+        {
+          "character": "ARCHER",
+          "line": "That's not possible. We haven't known the Vulcans long enough."
+        },
+        {
+          "character": "PHLOX",
+          "line": "I also found genetic material belonging to several other species. This sequence is Terrelian. There's another I can't identify. I believe this individual is the result of several generations of interspecies breeding."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Thank you, Doctor. T'Pol. {Daniel's quarters]"
+        },
+        {
+          "character": "T'POL",
+          "line": "A database from the future?"
+        },
+        {
+          "character": "ARCHER",
+          "line": "Our time-traveling friend Daniels left it in his quarters."
+        },
+        {
+          "character": "T'POL",
+          "line": "I'm not certain Daniels would approve of this."
+        },
+        {
+          "character": "ARCHER",
+          "line": "We'll keep it to ourselves."
+        },
+        {
+          "character": "T'POL",
+          "line": "A Vulcan cruiser. I don't recognize the configuration."
+        },
+        {
+          "character": "ARCHER",
+          "line": "That's because it hasn't been built yet."
+        },
+        {
+          "character": "T'POL",
+          "line": "Few Vulcans have ever chosen to mate with another species."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Worried about contaminating your genome with a little human DNA?"
+        },
+        {
+          "character": "T'POL",
+          "line": "There are significant biological differences between the species. It's unlikely we could reproduce. Humans and Vulcans."
+        },
+        {
+          "character": "ARCHER",
+          "line": "That could be it."
+        },
+        {
+          "character": "T'POL",
+          "line": "The dorsal section is the wrong shape."
+        },
+        {
+          "character": "ARCHER",
+          "line": "If a human and a Vulcan did have a child, I wonder if he'd have pointed ears. There. I think that's it. Look at the commission date. That's almost nine hundred years from now. Daniels talked about historians from the future. People who traveled back to study the past. That could be what this pilot was doing."
+        },
+        {
+          "character": "T'POL",
+          "line": "This says it's powered by a temporal displacement drive."
+        },
+        {
+          "character": "ARCHER",
+          "line": "If the Suliban get their hands on this, they'll take it apart, maybe learn how the engines work. That could change the course of the Temporal Cold War."
+        },
+        {
+          "character": "T'POL",
+          "line": "Assuming the vessel is from the future, why haven't they retrieved it?"
+        },
+        {
+          "character": "ARCHER",
+          "line": "Archer."
+        },
+        {
+          "character": "TRAVIS",
+          "line": "Sir, there's an alien vessel's approaching at high warp.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "ARCHER",
+          "line": "Suliban?"
+        },
+        {
+          "character": "TRAVIS",
+          "line": "No, sir. We can't identify them.",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "Sickbay"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TRAVIS",
+          "line": "Twenty thousand kilometers and closing."
+        },
+        {
+          "character": "ARCHER",
+          "line": "T'Pol?"
+        },
+        {
+          "character": "T'POL",
+          "line": "The vessel's Tholian. They're extremely xenophobic. The High Command has had limited contact with them. Captain, it's unusual for Tholians to travel this far from their system."
+        },
+        {
+          "character": "REED",
+          "line": "I'm getting unusual thermal readings. It's awfully warm inside that ship, more than two hundred degrees."
+        },
+        {
+          "character": "T'POL",
+          "line": "They're believe to be a non-humanoid species."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Open a channel. This is Captain Archer of the Starship"
+        },
+        {
+          "character": "THOLIAN",
+          "line": "Jonathan Archer, please establish communication.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "ARCHER",
+          "line": "Is there something we can do for you?"
+        },
+        {
+          "character": "THOLIAN",
+          "line": "We were sent to retrieve the vessel.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "ARCHER",
+          "line": "I'd like to know how you heard about that ship."
+        },
+        {
+          "character": "THOLIAN",
+          "line": "It is dangerous to you. Temporal radiation."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Thanks for the warning, but we can't give it to you."
+        },
+        {
+          "character": "T'POL",
+          "line": "They've locked on to us with a tractor beam."
+        },
+        {
+          "character": "TRAVIS",
+          "line": "We're losing speed."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Hull plating. Arm the aft torpedoes."
+        },
+        {
+          "character": "REED",
+          "line": "That beam's interfering with our targeting scanners."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Release us, or I'll destroy the ship in our launch bay. Do you hear me?"
+        },
+        {
+          "character": "ARCHER",
+          "line": "What did he say?"
+        },
+        {
+          "character": "HOSHI",
+          "line": "I don't know, but I don't think he was paying you a compliment."
+        },
+        {
+          "character": "ARCHER",
+          "line": "I wonder if there's anyone else who thinks they have a claim on that ship."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "PHLOX",
+          "line": "May I join you?"
+        },
+        {
+          "character": "T'POL",
+          "line": "Please."
+        },
+        {
+          "character": "PHLOX",
+          "line": "I found another nucleotide sequence in the pilot's genome. It appears to be Rigelian. That corpse is full of surprises. I didn't realize how late it was until my stomach reminded me it was time to eat. You seem to be engrossed in your work as well."
+        },
+        {
+          "character": "T'POL",
+          "line": "The Captain asked me to perform a metallurgical analysis of the vessel's hull."
+        },
+        {
+          "character": "PHLOX",
+          "line": "Anything noteworthy?"
+        },
+        {
+          "character": "T'POL",
+          "line": "I've diskovered several unusual alloys. One of them is in a semi-fluidic state."
+        },
+        {
+          "character": "PHLOX",
+          "line": "More mysteries."
+        },
+        {
+          "character": "T'POL",
+          "line": "To say the least."
+        },
+        {
+          "character": "PHLOX",
+          "line": "I understand Captain Archer believes that the vessel traveled here from the future."
+        },
+        {
+          "character": "T'POL",
+          "line": "That's his theory."
+        },
+        {
+          "character": "PHLOX",
+          "line": "Genetic anomalies, unexplainable alloys, the evidence seems to be mounting."
+        },
+        {
+          "character": "T'POL",
+          "line": "Perhaps."
+        },
+        {
+          "character": "PHLOX",
+          "line": "The Vulcan Science Directorate. They've always been rather reluctant to embrace unorthodox ideas. After they review our findings, I have a feeling they might reconsider their opinion of time travel."
+        },
+        {
+          "character": "T'POL",
+          "line": "It's not an opinion. It's simple logic."
+        },
+        {
+          "character": "PHLOX",
+          "line": "There was a time when Denobulans believed they were the only intelligent species in the galaxy. Needless to say, it was quite a surprise when the B'Saari made First Contact. Many refused to accept the truth even with the evidence standing right in front of them. It took some time, and it wasn't easy, but eventually we were forced to reevaluate our beliefs."
+        },
+        {
+          "character": "T'POL",
+          "line": "Are you saying you believe time travel is possible?"
+        },
+        {
+          "character": "PHLOX",
+          "line": "Surprises, Sub-Commander. I believe in embracing surprises."
+        },
+        {
+          "character": "T'POL",
+          "line": "I prefer to embrace logic. If you'll excuse me, Doctor."
+        },
+        {
+          "character": "PHLOX",
+          "line": "Good night."
+        }
+      ],
+      "location": "Mess hall"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TUCKER",
+          "line": "All right, let's start reinitializing the power grid."
+        },
+        {
+          "character": "REED",
+          "line": "Assuming that is the power grid. It boggles the mind, if you think about it."
+        },
+        {
+          "character": "TUCKER",
+          "line": "What does?"
+        },
+        {
+          "character": "REED",
+          "line": "That ship could be from the thirty first century. When I was young, I always wanted to build a time machine, see the future."
+        },
+        {
+          "character": "TUCKER",
+          "line": "You're probably the kind of person that jumps to the end of a book before you read it."
+        },
+        {
+          "character": "REED",
+          "line": "Don't tell me you've never wondered what it would be like. How our mission will turn out."
+        },
+        {
+          "character": "TUCKER",
+          "line": "Wondering about the future and knowing it are two different things."
+        },
+        {
+          "character": "REED",
+          "line": "If Daniels came here and offered you a chance to go to the thirty first century, you wouldn't take it?"
+        },
+        {
+          "character": "TUCKER",
+          "line": "Some things are better left a mystery."
+        },
+        {
+          "character": "REED",
+          "line": "And you call yourself an explorer."
+        },
+        {
+          "character": "TUCKER",
+          "line": "Where's the fun in exploring if you know how it all turns out? Hand me that micro-caliper. Suppose you could look into some future book and find out the name of the woman you're going to marry. Would you want to know it?"
+        },
+        {
+          "character": "REED",
+          "line": "Absolutely. Think of all the awkward first dates I could avoid."
+        },
+        {
+          "character": "TUCKER",
+          "line": "Fine. So one day you meet Jane Doe. You go out a few times, and you pop the question. She says I do, and the two you live happily ever after."
+        },
+        {
+          "character": "REED",
+          "line": "Sounds perfect."
+        },
+        {
+          "character": "TUCKER",
+          "line": "Now, did you marry her for love, or because some book told you to?"
+        },
+        {
+          "character": "REED",
+          "line": "If we're happily ever after, what difference does it make?"
+        },
+        {
+          "character": "TUCKER",
+          "line": "Well, we've got power. Now we've got to figure out how to tap into these organic circuits."
+        },
+        {
+          "character": "REED",
+          "line": "They're similar to the ones in the cockpit."
+        },
+        {
+          "character": "TUCKER",
+          "line": "We might be able to salvage some of them, build an interface."
+        }
+      ],
+      "location": "Engineering"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TUCKER",
+          "line": "Now if I had a chance to see the past, I'd jump at it. I always wanted to meet a stegosaurus."
+        },
+        {
+          "character": "REED",
+          "line": "He'd probably make a quick meal of you."
+        },
+        {
+          "character": "TUCKER",
+          "line": "The stegosaurus was an herbivore."
+        },
+        {
+          "character": "REED",
+          "line": "If I could travel back in time, I know exactly what year I'd pick. 1588."
+        },
+        {
+          "character": "TUCKER",
+          "line": "What happened in 1588?"
+        },
+        {
+          "character": "REED",
+          "line": "England defeated the Spanish Armada."
+        },
+        {
+          "character": "TUCKER",
+          "line": "I'm sure some named Reed had a lot to do with that."
+        },
+        {
+          "character": "TUCKER",
+          "line": "Now if I had a chance to see the past, I'd jump at it. I always wanted to meet a stegosaurus."
+        },
+        {
+          "character": "REED",
+          "line": "He'd probably make a quick meal of you."
+        },
+        {
+          "character": "TUCKER",
+          "line": "The stegosaurus was an herbivore."
+        },
+        {
+          "character": "REED",
+          "line": "It seems like we were just in here. If I could travel back, I know exactly what year I'd pick."
+        },
+        {
+          "character": "BOTH",
+          "line": "1588."
+        },
+        {
+          "character": "TUCKER",
+          "line": "How'd I know you were going to say that?"
+        },
+        {
+          "character": "REED",
+          "line": "I think we're spending far too much time together."
+        },
+        {
+          "character": "TUCKER",
+          "line": "Now, if I had a chance to see the past, I'd jump at it."
+        },
+        {
+          "character": "REED",
+          "line": "I always wanted to meet a stegosaurus."
+        },
+        {
+          "character": "TUCKER",
+          "line": "He'd probably make a quick meal of you."
+        },
+        {
+          "character": "REED",
+          "line": "The stegosaurus was a herbivore."
+        }
+      ],
+      "location": "Launch bay two"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TUCKER",
+          "line": "It was the weirdest thing. When we were standing next to the ship, it felt like we were having the same conversation over and over again."
+        },
+        {
+          "character": "PHLOX",
+          "line": "I can't find anything wrong with either of you."
+        },
+        {
+          "character": "REED",
+          "line": "We didn't imagine what happened."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "T'POL",
+          "line": "Captain, the craft is emitting some type of high-energy particles."
+        },
+        {
+          "character": "ARCHER",
+          "line": "This may be the temporal radiation the Tholians warned us about."
+        },
+        {
+          "character": "REED",
+          "line": "We've spent a fair amount of time around that ship."
+        },
+        {
+          "character": "PHLOX",
+          "line": "The particle density's quite low. It's unlikely to have any lasting effects."
+        },
+        {
+          "character": "TUCKER",
+          "line": "How do you explain what happened?"
+        },
+        {
+          "character": "T'POL",
+          "line": "The radiation could have affected your perception of time."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Or maybe they really were reliving the same moment. Seal off Launch bay two and evacuate the surrounding sections. I don't want to take any chances. How are you coming with the black box?"
+        },
+        {
+          "character": "TUCKER",
+          "line": "The power's online, but we still can't access the data."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Let me know as soon as you find anything. Dismissed."
+        },
+        {
+          "character": "T'POL",
+          "line": "Can I speak with you?"
+        }
+      ],
+      "location": "Situation room"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "T'POL",
+          "line": "The radiation could spread to other sections, affect more systems."
+        },
+        {
+          "character": "ARCHER",
+          "line": "We'll keep an eye on it. The Vulcans are only a few hours away."
+        },
+        {
+          "character": "T'POL",
+          "line": "I'm not certain we'll survive that long. We've attracted the attention of two hostile species. It's logical to assume they're searching for us."
+        },
+        {
+          "character": "ARCHER",
+          "line": "I'm pretty sure we can steer clear of them."
+        },
+        {
+          "character": "T'POL",
+          "line": "Perhaps you should destroy the vessel."
+        },
+        {
+          "character": "ARCHER",
+          "line": "I'm not going to do that. I'm tired of these factions interfering with our century. It's time we took a more active interest in this war, gathered some intelligence ourselves."
+        },
+        {
+          "character": "T'POL",
+          "line": "Assuming for the moment the Temporal Cold War exists, I believe we shouldn't get involved."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Like it or not, we've been involved since we left Spacedock. Daniel's hinted that there were other factions in this conflict. Maybe the Tholians are working for one of them."
+        },
+        {
+          "character": "T'POL",
+          "line": "Your curiosity is placing Enterprise in unnecessary danger."
+        },
+        {
+          "character": "ARCHER",
+          "line": "This is the first chance we've had to get some answers. I'm not going to pass it up. The Vulcans can get that ship back to Earth in a few weeks. Starfleet'll take it from there."
+        },
+        {
+          "character": "T'POL",
+          "line": "Captain."
+        },
+        {
+          "character": "ARCHER",
+          "line": "I told you. I've made my decision."
+        },
+        {
+          "character": "T'POL",
+          "line": "If the Suliban return, they may be cloaked. I recommend we go to Tactical Alert."
+        }
+      ],
+      "location": "Ready room"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "ARCHER",
+          "line": "What do you have?"
+        },
+        {
+          "character": "TUCKER",
+          "line": "It's what we don't have. This isn't a black box. We thought it was a data storage matrix, but after we got the power running it started generating a subspace signature. I think it's a micro-transmitter, some kind of emergency beacon."
+        },
+        {
+          "character": "T'POL",
+          "line": "Bridge to Captain Archer. Several Suliban vessels are approaching.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "ARCHER",
+          "line": "On my way."
+        },
+        {
+          "character": "T'POL",
+          "line": "Acknowledged.",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "Engineering"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "T'POL",
+          "line": "The ships will be within weapons range in twenty seconds."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Go to maximum warp."
+        },
+        {
+          "character": "T'POL",
+          "line": "They're matching our speed."
+        },
+        {
+          "character": "ARCHER",
+          "line": "How long to the rendezvous point?"
+        },
+        {
+          "character": "T'POL",
+          "line": "Less than three minutes."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Contact the Tal'Kir. Let them know we're bringing company."
+        },
+        {
+          "character": "HOSHI",
+          "line": "No response. We're being hailed by the Suliban."
+        },
+        {
+          "character": "ARCHER",
+          "line": "I see you brought some friends with you."
+        },
+        {
+          "character": "SULIBAN",
+          "line": "Drop out of warp and prepare to be boarded.",
+          "modifier": "screen"
+        },
+        {
+          "character": "ARCHER",
+          "line": "Or what? You're not going to risk any more damage to that ship."
+        },
+        {
+          "character": "REED",
+          "line": "They're charging weapons."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Take a look at your long-range sensors. There's a Vulcan combat cruiser a few million kilometers from here. Unless you want to upset them, I suggest you turn around."
+        },
+        {
+          "character": "SULIBAN",
+          "line": "The Vulcans won't risk their ship for an Earth vessel.",
+          "modifier": "screen"
+        },
+        {
+          "character": "ARCHER",
+          "line": "Aft cannon, return fire."
+        },
+        {
+          "character": "REED",
+          "line": "We're losing ventral plating."
+        },
+        {
+          "character": "ARCHER",
+          "line": "The Vulcans?"
+        },
+        {
+          "character": "T'POL",
+          "line": "Six hundred thousand kilometers."
+        },
+        {
+          "character": "REED",
+          "line": "Direct hit to the launch bay doors. They're trying to blast them open."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Hold your course and speed."
+        },
+        {
+          "character": "T'POL",
+          "line": "Two hundred thousand kilometers."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Take us out of warp."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Biosigns?"
+        },
+        {
+          "character": "T'POL",
+          "line": "The crew's alive. The vessel is disabled."
+        },
+        {
+          "character": "HOSHI",
+          "line": "Their comm. system's down."
+        },
+        {
+          "character": "TRAVIS",
+          "line": "Captain."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Take us back to warp."
+        },
+        {
+          "character": "TRAVIS",
+          "line": "Engines are down."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Weapons?"
+        },
+        {
+          "character": "REED",
+          "line": "They're offline, too. The hull plating's depolarizing."
+        },
+        {
+          "character": "T'POL",
+          "line": "The cell ships have dropped out of warp."
+        },
+        {
+          "character": "REED",
+          "line": "I never thought I'd be glad to see the Suliban."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Trip, we could use warp engines"
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "ARCHER",
+          "line": "Right about now.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "TUCKER",
+          "line": "The antimatter injectors are fused. I'll need a few hours to replace them."
+        },
+        {
+          "character": "ARCHER",
+          "line": "How about weapons?",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "TUCKER",
+          "line": "Every power relay on the ship's been scrambled."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Then forget everything else. Get that beacon working.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "TUCKER",
+          "line": "Sir?"
+        }
+      ],
+      "location": "Engineering"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "ARCHER",
+          "line": "Whoever built that ship might be able to send help."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TUCKER",
+          "line": "Aye, Captain."
+        }
+      ],
+      "location": "Engineering"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "T'POL",
+          "line": "Even if you're correct, it's unlikely help will arrive in time."
+        },
+        {
+          "character": "ARCHER",
+          "line": "How long would it take to remove one of the torpedo warheads, arm it manually?"
+        },
+        {
+          "character": "REED",
+          "line": "Four minutes. Less if I had some help. I recommend moving the warhead as little as possible once we remove it."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Then we'll bring the torpedo to the launch bay, work on it there. You have the bridge."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "ARCHER",
+          "line": "I'm going to hold you to that four minutes."
+        },
+        {
+          "character": "REED",
+          "line": "It was only an estimate, sir."
+        },
+        {
+          "character": "ARCHER",
+          "line": "They don't make this easy, do they?"
+        },
+        {
+          "character": "REED",
+          "line": "I'm going to release the couplings. You'll need to diskonnect the power conduits. The blue and red ones first. Turn the release counterclockwise until you feel it detach."
+        }
+      ],
+      "location": "Launch bay two"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "CREWMAN",
+          "line": "Commander."
+        },
+        {
+          "character": "TUCKER",
+          "line": "I need that power module."
+        },
+        {
+          "character": "CREWMAN",
+          "line": "Yes, sir."
+        },
+        {
+          "character": "TUCKER",
+          "line": "All right, hand me a micro-caliper."
+        }
+      ],
+      "location": "Engineering"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "T'POL",
+          "line": "Bridge to Captain Archer."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "ARCHER",
+          "line": "Go ahead."
+        },
+        {
+          "character": "T'POL",
+          "line": "The Suliban have lost more than half of their ships.",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "Launch bay two"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "T'POL",
+          "line": "You don't have much time."
+        },
+        {
+          "character": "ARCHER",
+          "line": "We're working as fast as we can.",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "ARCHER",
+          "line": "Stand by."
+        },
+        {
+          "character": "REED",
+          "line": "Sir, if you'll hold it by the locking brace."
+        },
+        {
+          "character": "ARCHER",
+          "line": "I'm going to hold you to that four minutes."
+        },
+        {
+          "character": "REED",
+          "line": "It was only an estimate, sir. It's happening again. We've had this conversation before."
+        },
+        {
+          "character": "ARCHER",
+          "line": "You're right. How far do you think we got last time?"
+        },
+        {
+          "character": "REED",
+          "line": "I'm not certain."
+        },
+        {
+          "character": "ARCHER",
+          "line": "I think we may have removed the warhead."
+        },
+        {
+          "character": "REED",
+          "line": "If time's not repeating outside the launch bay, the Tholians could be close."
+        },
+        {
+          "character": "ARCHER",
+          "line": "We'd better hurry. The red and blue conduits, right?"
+        }
+      ],
+      "location": "Launch bay two"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TRAVIS",
+          "line": "The Cell-Ships. They've been destroyed."
+        },
+        {
+          "character": "T'POL",
+          "line": "How many?"
+        },
+        {
+          "character": "TRAVIS",
+          "line": "All of them. The Tholians are on an intercept course."
+        },
+        {
+          "character": "HOSHI",
+          "line": "They're hailing us."
+        },
+        {
+          "character": "THOLIAN",
+          "line": "Give us the vessel.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "T'POL",
+          "line": "We're prepared to surrender it to you, but our launch bay doors took heavy damage. We're going to need more time. I have a repair team working on it, but they estimate it will take"
+        },
+        {
+          "character": "TRAVIS",
+          "line": "Two of their ships are approaching the saucer section. Eighty meters. forty."
+        },
+        {
+          "character": "HOSHI",
+          "line": "They've locked on to both docking ports."
+        },
+        {
+          "character": "T'POL",
+          "line": "Seal the hatches and send security teams."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "ARCHER",
+          "line": "Get to the control room. I'll take it from here."
+        },
+        {
+          "character": "REED",
+          "line": "Aye, Captain."
+        },
+        {
+          "character": "ARCHER",
+          "line": "I'm going to hold you to that four minutes."
+        },
+        {
+          "character": "REED",
+          "line": "It was only an estimate, sir."
+        },
+        {
+          "character": "ARCHER",
+          "line": "How many times do you think we've done this?"
+        },
+        {
+          "character": "REED",
+          "line": "At least twice, maybe more."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Let's hope we've got it down by now."
+        }
+      ],
+      "location": "Launch bay two"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "HOSHI",
+          "line": "They're cutting through the doors."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "ARCHER",
+          "line": "Control room."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Let's get those doors open."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Now."
+        },
+        {
+          "character": "REED",
+          "line": "I'd recommend putting more distance between us and that ship."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Now!"
+        }
+      ],
+      "location": "Launch bay two"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "T'POL",
+          "line": "T'Pol to Captain Archer."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "T'POL",
+          "line": "They've neutralized the warhead.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "ARCHER",
+          "line": "On our way."
+        }
+      ],
+      "location": "Launch bay two control room"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TRAVIS",
+          "line": "Sir, it's gone."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Gone?"
+        },
+        {
+          "character": "T'POL",
+          "line": "It dematerialized, and it's not aboard the Tholian ships."
+        },
+        {
+          "character": "HOSHI",
+          "line": "They're disengaging."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Why didn't they fire on us?"
+        },
+        {
+          "character": "REED",
+          "line": "Good question."
+        },
+        {
+          "character": "T'POL",
+          "line": "They may have only wanted the vessel."
+        },
+        {
+          "character": "ARCHER",
+          "line": "The Vulcans?"
+        },
+        {
+          "character": "T'POL",
+          "line": "Their warp drive is damaged, but life support is stable."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Let's see if we can give them a hand. Prep a shuttlepod. Have Doctor Phlox meet us in Launch bay one."
+        },
+        {
+          "character": "HOSHI",
+          "line": "Aye, sir. Captain's Starlog, supplemental. A Vulcan transport is en route to tow the Tal'Kir. Fortunately, there were no casualties. Our long range scanners show no sign of Tholians or Suliban in our vicinity."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TUCKER",
+          "line": "I wish we'd had more time to explore that ship. Who knows how many other rooms were down there? Looks like they sent the whole kit and caboodle back to the thirty first century."
+        },
+        {
+          "character": "T'POL",
+          "line": "There's no evidence to support that."
+        },
+        {
+          "character": "TUCKER",
+          "line": "Well, there's no evidence to contradict it, either. What I don't understand is how quickly everything disappeared. That beacon was online for less than a minute."
+        },
+        {
+          "character": "ARCHER",
+          "line": "You're forgetting that time is irrelevant to these people."
+        },
+        {
+          "character": "TUCKER",
+          "line": "Irrelevant?"
+        },
+        {
+          "character": "ARCHER",
+          "line": "If that vessel was from the future, whoever sent it had plenty of time to locate the signal and then travel back to any point in time to retrieve it."
+        },
+        {
+          "character": "TUCKER",
+          "line": "Unfortunately, time isn't irrelevant in my engine room. I've got repairs to finish. See you later. Sub-Commander."
+        },
+        {
+          "character": "ARCHER",
+          "line": "I'm going to contact the High Command, apologize for the trouble we caused them."
+        },
+        {
+          "character": "T'POL",
+          "line": "As the captain of the Tal'Kir pointed out, a ship can be replaced."
+        },
+        {
+          "character": "ARCHER",
+          "line": "I also need to thank them for helping us out."
+        },
+        {
+          "character": "T'POL",
+          "line": "I'm sure the gesture would be appreciated. The High Command has asked me to prepare a report on this incident, with your permission."
+        },
+        {
+          "character": "ARCHER",
+          "line": "By all means. I wonder if they'll believe that humans and Vulcans will be swapping chromosomes one day?"
+        },
+        {
+          "character": "T'POL",
+          "line": "They're more likely to believe in time travel."
+        }
+      ],
+      "location": "Captain's mess"
+    }
+  ],
+  "schedule": {
+    "episode": 16,
+    "number": 42,
+    "season": 2
+  },
+  "stardate": "Unknown",
+  "title": "Future Tense"
+}

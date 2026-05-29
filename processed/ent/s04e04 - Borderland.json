@@ -1,0 +1,1573 @@
+{
+  "airdate": 1099033200,
+  "scenes": [
+    {
+      "dialogue": [
+        {
+          "character": "OFFICER",
+          "line": "A transport shuttle, no armaments."
+        },
+        {
+          "character": "SOLDIER",
+          "line": "Their engines are down. Life support failing."
+        },
+        {
+          "character": "CAPTAIN",
+          "line": "Crew?"
+        },
+        {
+          "character": "SOLDIER",
+          "line": "Two biosigns, human."
+        },
+        {
+          "character": "CAPTAIN",
+          "line": "Tractor beam. Send a squad to the docking port."
+        }
+      ],
+      "location": "Klingon Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "SOLDIER",
+          "line": "Move! Walk, human!"
+        }
+      ],
+      "location": "Klingon Corridor"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "CAPTAIN",
+          "line": "Contact the High Council. Inform them of the prisoners. Request instructions."
+        },
+        {
+          "character": "OFFICER",
+          "line": "Commander, disruptor fire near the brig."
+        },
+        {
+          "character": "CAPTAIN",
+          "line": "QI'yaH!"
+        }
+      ],
+      "location": "Klingon Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "VOICE",
+          "line": "You have a visitor.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "SOONG",
+          "line": "I'm busy."
+        },
+        {
+          "character": "VOICE",
+          "line": "Arms.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "SOONG",
+          "line": "Jonathan Archer. What brings you here? They're naming the prison after you?"
+        },
+        {
+          "character": "ARCHER",
+          "line": "I need to ask you some questions."
+        },
+        {
+          "character": "SOONG",
+          "line": "I'm kind of in the middle of something."
+        },
+        {
+          "character": "ARCHER",
+          "line": "It won't take long."
+        },
+        {
+          "character": "SOONG",
+          "line": "Well. I suppose it's not every day one gets to speak to the man who saved the planet. Please. I apologize for the clutter. I'm not allowed traditional recording devices."
+        },
+        {
+          "character": "ARCHER",
+          "line": "You programd a PADD to unlock every security door in the building."
+        },
+        {
+          "character": "SOONG",
+          "line": "I was particularly proud of that. I made it all the way to Sausalito. On the rare occasion I get stuck on a problem, I find a vigorous escape attempt helps to clear the head. Go ahead. They're DNA sequences. That one is for a modification of the human T-cell. It would render Sharat Syndrome a thing of the past. That one increases the visual spectrum by five percent. Of course, none of this will ever be tested. They clear out my room every few months. I'm told it all gets vaporized."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Why invest so much time and energy on things no one will ever use?"
+        },
+        {
+          "character": "SOONG",
+          "line": "How can a supposedly intelligent species reject technology that would enhance ability, relieve suffering?"
+        },
+        {
+          "character": "ARCHER",
+          "line": "Genetic engineering has caused a lot of suffering."
+        },
+        {
+          "character": "SOONG",
+          "line": "So did splitting the atom, yet the first ships to colonize the solar system were nuclear-powered. But you're not here to diskuss that."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Someone attacked a Klingon Bird of Prey. The entire crew was massacred. The ship is missing."
+        },
+        {
+          "character": "SOONG",
+          "line": "I read the reports. I understand the Klingons are quite annoyed. Looks like you might've saved Earth for nothing."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Whoever's responsible jettisoned the Klingon crew into space. DNA was recovered from the bodies."
+        },
+        {
+          "character": "SOONG",
+          "line": "Let me guess. Human?"
+        },
+        {
+          "character": "ARCHER",
+          "line": "Not quite."
+        },
+        {
+          "character": "SOONG",
+          "line": "I see."
+        },
+        {
+          "character": "ARCHER",
+          "line": "They were Augments. Their genetically-enhanced DNA matched embryos stolen from a medical facility over twenty years ago. Stolen by you."
+        }
+      ],
+      "location": "Starfleet HQ - Brig"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "ARCHER",
+          "line": "Soong used to work at Cold Station 12, a top secret medical research station."
+        },
+        {
+          "character": "REED",
+          "line": "Isn't that where Starfleet keeps a stockpile of infectious diseases?"
+        },
+        {
+          "character": "ARCHER",
+          "line": "Along with genetically-engineered embryos left over from the Eugenics Wars. It's been kept from the public for obvious reasons."
+        },
+        {
+          "character": "TRAVIS",
+          "line": "I remember Soong's trial. He wouldn't say what he did with the embryos he stole."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Now he now claims that he took them to a planet in the Trialus System and raised them. They were around ten years old when he was captured, a decade ago."
+        },
+        {
+          "character": "TUCKER",
+          "line": "So there could be a bunch of Augments from the Eugenics Wars running around loose."
+        },
+        {
+          "character": "TRAVIS",
+          "line": "Not a pretty thought."
+        },
+        {
+          "character": "REED",
+          "line": "What would they want with a Klingon Bird of Prey?"
+        },
+        {
+          "character": "ARCHER",
+          "line": "We don't know. Neither does Soong. At least he claims he doesn't. But he does think he can convince them to surrender without a fight."
+        },
+        {
+          "character": "REED",
+          "line": "You're bringing him along."
+        },
+        {
+          "character": "ARCHER",
+          "line": "There's also the fact that he spent time in the Borderland."
+        },
+        {
+          "character": "HOSHI",
+          "line": "The Borderland?"
+        },
+        {
+          "character": "REED",
+          "line": "The area where the Klingon ship was attacked."
+        },
+        {
+          "character": "T'POL",
+          "line": "It's a volatile region between the Klingon Empire and the Orion Syndicate. It attracts the most dangerous elements from both."
+        },
+        {
+          "character": "HOSHI",
+          "line": "Sorry I asked."
+        },
+        {
+          "character": "ARCHER",
+          "line": "The Klingons have threatened to retaliate with everything they've got. We're the fastest ship and the most experienced crew. We have to find the Augments and bring them back. It's the only way to avert a war. We launch in six hours."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "PERSIS",
+          "line": "We've mastered their engine controls."
+        },
+        {
+          "character": "MALIK",
+          "line": "Wing-mounted disruptor cannons, photon torpedo launchers. This ship's an arsenal."
+        },
+        {
+          "character": "PERSIS",
+          "line": "We're finally free."
+        },
+        {
+          "character": "RAAKIN",
+          "line": "A fine ship."
+        },
+        {
+          "character": "MALIK",
+          "line": "I thought you'd be pleased."
+        },
+        {
+          "character": "RAAKIN",
+          "line": "I didn't sanction this attack. If you'd failed, they would've come after all of us."
+        },
+        {
+          "character": "MALIK",
+          "line": "I didn't fail."
+        },
+        {
+          "character": "RAAKIN",
+          "line": "Their government knows what we did. They have ships hunting for us right now."
+        },
+        {
+          "character": "MALIK",
+          "line": "They won't find us. It was time for us to leave this godforsaken planet."
+        },
+        {
+          "character": "RAAKIN",
+          "line": "That was my decision, not yours! You've forgotten who I am? Have you?!"
+        },
+        {
+          "character": "MALIK",
+          "line": "No, Raakin."
+        },
+        {
+          "character": "RAAKIN",
+          "line": "Say it."
+        },
+        {
+          "character": "MALIK",
+          "line": "You are our leader."
+        },
+        {
+          "character": "RAAKIN",
+          "line": "Don't ever make me ask you again. Notify me when the rest of our supplies are onboard. We're leaving orbit."
+        }
+      ],
+      "location": "Klingon Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "SOONG",
+          "line": "Permission to come aboard, sir?"
+        },
+        {
+          "character": "ARCHER",
+          "line": "This is my Science Officer, T'Pol."
+        },
+        {
+          "character": "SOONG",
+          "line": "No need for an introduction. I admire your people very much. We share a similar view of humanity."
+        },
+        {
+          "character": "T'POL",
+          "line": "What view is that?"
+        },
+        {
+          "character": "SOONG",
+          "line": "That it could stand some improvement."
+        },
+        {
+          "character": "T'POL",
+          "line": "I believe that's true of most species, if not all."
+        },
+        {
+          "character": "ARCHER",
+          "line": "My Tactical Officer, Lieutenant Reed."
+        },
+        {
+          "character": "REED",
+          "line": "Doctor."
+        },
+        {
+          "character": "SOONG",
+          "line": "I've heard of you, but I don't recognize your face. You're not getting your fair share of publicity."
+        },
+        {
+          "character": "REED",
+          "line": "I think I've had all I can stand."
+        },
+        {
+          "character": "ARCHER",
+          "line": "We've prepared some quarters. You'll be under guard at all times. If you should decide you need to clear your head."
+        },
+        {
+          "character": "SOONG",
+          "line": "We're on a starship soon to be at high warp. Where exactly would I go?"
+        },
+        {
+          "character": "ARCHER",
+          "line": "It's this way."
+        },
+        {
+          "character": "SOONG",
+          "line": "If I could examine the DNA samples the Klingons recovered, I could tell you something about the current state of the Augments."
+        },
+        {
+          "character": "ARCHER",
+          "line": "I'll have the information sent to your quarters."
+        },
+        {
+          "character": "SOONG",
+          "line": "A laboratory would be preferable, your Sickbay. Doctor Phlox's reputation rivals my own, before I was imprisoned, of course. I'd enjoy trading notes with him."
+        },
+        {
+          "character": "ARCHER",
+          "line": "I'll consider it."
+        }
+      ],
+      "location": "Docking port"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TUCKER",
+          "line": "So, how was the honeymoon?"
+        },
+        {
+          "character": "T'POL",
+          "line": "Honeymoon?"
+        },
+        {
+          "character": "TUCKER",
+          "line": "You were on Vulcan another two weeks after I left. I figured"
+        },
+        {
+          "character": "TUCKER",
+          "line": "It comes with everything but its own protein resequencer. For that, I'll need another day."
+        },
+        {
+          "character": "ARCHER",
+          "line": "I like it."
+        },
+        {
+          "character": "TUCKER",
+          "line": "We don't have time to go over all the details. Just try not to hit that button."
+        },
+        {
+          "character": "HOSHI",
+          "line": "We're cleared for launch."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Here we are again."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Wouldn't have it any other way. Travis."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "ARCHER",
+          "line": "I just received an intelligence report. A Klingon warship was spotted near Proxima colony. Admiral Forrest thinks they could be conducting reconnaissance for a future strike. I wanted to keep you up to date."
+        },
+        {
+          "character": "T'POL",
+          "line": "My government is trying to work out a diplomatic solution. There's still a chance they'll be successful."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Small chance. One other thing."
+        },
+        {
+          "character": "ARCHER",
+          "line": "It's your first official day of duty, Commander T'Pol. A present. It's from the early twentieth century. Should help keep you pointed in the right direction."
+        },
+        {
+          "character": "ARCHER",
+          "line": "I'm glad you're with us."
+        },
+        {
+          "character": "T'POL",
+          "line": "Thank you, Captain. Captain's Starlog, May 17, 2154. We've crossed into the Borderland, three light years from where the Klingons were attacked. Still no sign of their ship."
+        }
+      ],
+      "location": "Ready room"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "SOONG",
+          "line": "Malik. He was the rebellious one. Reminded me of myself when I was his age. I came to think of them as my own children."
+        },
+        {
+          "character": "PHLOX",
+          "line": "It must've been difficult for you to leave them behind."
+        },
+        {
+          "character": "SOONG",
+          "line": "I knew they'd survive."
+        },
+        {
+          "character": "PHLOX",
+          "line": "This is extremely sophisticated work for twentieth century Earth."
+        },
+        {
+          "character": "SOONG",
+          "line": "Well, I made some modifications of my own."
+        },
+        {
+          "character": "PHLOX",
+          "line": "Really? What kind of modifications?"
+        },
+        {
+          "character": "SOONG",
+          "line": "I prefer to let my work speak for itself."
+        },
+        {
+          "character": "PHLOX",
+          "line": "I think it already has."
+        },
+        {
+          "character": "SOONG",
+          "line": "I didn't realize you shared humanity's reactionary attitude toward this field of medicine."
+        },
+        {
+          "character": "PHLOX",
+          "line": "On the contrary, we've used genetic engineering on Denobula for over two centuries, to generally positive effect."
+        },
+        {
+          "character": "SOONG",
+          "line": "But you don't approve of what I've done."
+        },
+        {
+          "character": "PHLOX",
+          "line": "You tried to redesign your species. The first time that was attempted on Earth, the result was thirty million deaths."
+        },
+        {
+          "character": "SOONG",
+          "line": "We can't let past mistakes hold us back."
+        },
+        {
+          "character": "PHLOX",
+          "line": "It's your responsibility as a scientist to learn from past mistakes."
+        },
+        {
+          "character": "SOONG",
+          "line": "Well, what makes you think I haven't?"
+        },
+        {
+          "character": "PHLOX",
+          "line": "I can read."
+        }
+      ],
+      "location": "Sickbay"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "REED",
+          "line": "Two vessels are coming up behind us."
+        },
+        {
+          "character": "T'POL",
+          "line": "Orion Interceptors."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Interesting way of saying hello. Hoshi?"
+        },
+        {
+          "character": "HOSHI",
+          "line": "No response."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TUCKER",
+          "line": "We're getting hammered down here!"
+        }
+      ],
+      "location": "Engineering"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "ARCHER",
+          "line": "Keep firing."
+        },
+        {
+          "character": "T'POL",
+          "line": "I'm picking up an energy surge from one of the interceptors."
+        },
+        {
+          "character": "ARCHER",
+          "line": "A weapon?"
+        },
+        {
+          "character": "T'POL",
+          "line": "No."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TUCKER",
+          "line": "Tucker to the Bridge. Two of my people just disappeared."
+        }
+      ],
+      "location": "Engineering"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "REED",
+          "line": "The interceptors have jumped to warp. They're gone."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "ARCHER",
+          "line": "They took nine people, including T'Pol."
+        },
+        {
+          "character": "SOONG",
+          "line": "There never used to be Orions in this area. They must've expanded their range of operations. It's a shame. I really liked your Science Officer."
+        },
+        {
+          "character": "ARCHER",
+          "line": "How do I get them back?"
+        },
+        {
+          "character": "SOONG",
+          "line": "It's not going to be easy."
+        },
+        {
+          "character": "ARCHER",
+          "line": "That's not what I asked you."
+        },
+        {
+          "character": "SOONG",
+          "line": "They've most likely been taken to a processing station. The nearest one's on Verex Three."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Archer to Bridge."
+        },
+        {
+          "character": "REED",
+          "line": "Reed.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "ARCHER",
+          "line": "Set a course for Verex Three, best possible speed."
+        },
+        {
+          "character": "REED",
+          "line": "Yes, sir.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "ARCHER",
+          "line": "What'll happen to them there?"
+        },
+        {
+          "character": "SOONG",
+          "line": "They'll be ushered into their new profession, as slaves. These stations are heavily guarded. Only legitimate traders are permitted to enter."
+        },
+        {
+          "character": "ARCHER",
+          "line": "I have the feeling you've found your way in."
+        },
+        {
+          "character": "SOONG",
+          "line": "I had to establish a relationship with the Orions. They helped me acquire certain goods and equipment I needed to survive. I can get you inside, but I can't get your people out."
+        },
+        {
+          "character": "ARCHER",
+          "line": "One step at a time."
+        }
+      ],
+      "location": "Soong's quarters"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "MALIK",
+          "line": "Raakin is taking us to another system where we can live out our lives in peace. But I'm sure he's already told you that."
+        },
+        {
+          "character": "PERSIS",
+          "line": "He doesn't tell me everything."
+        },
+        {
+          "character": "MALIK",
+          "line": "This isn't what our father would've wanted. He didn't raise us to run away and hide."
+        },
+        {
+          "character": "PERSIS",
+          "line": "Well, what do you propose?"
+        },
+        {
+          "character": "MALIK",
+          "line": "You could try to convince Raakin to reconsider."
+        },
+        {
+          "character": "PERSIS",
+          "line": "He only wants one thing from me, and it isn't advice."
+        },
+        {
+          "character": "MALIK",
+          "line": "It doesn't suit you."
+        },
+        {
+          "character": "PERSIS",
+          "line": "What?"
+        },
+        {
+          "character": "MALIK",
+          "line": "Playing the victim. You chose Raakin. You wanted the strongest for yourself."
+        },
+        {
+          "character": "PERSIS",
+          "line": "I still do. What is it you want? {he grabs her, and kisses her, then she pushes him up against a bulkhead)"
+        },
+        {
+          "character": "PERSIS",
+          "line": "There's plenty of time for that."
+        }
+      ],
+      "location": "Klingon ship - corridor"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "SLAVER",
+          "line": "You are now the property of the Orion Syndicate. Break the rules, and you will suffer. Follow the rules, and you will suffer less. Take her."
+        },
+        {
+          "character": "T'POL",
+          "line": "Ensign."
+        },
+        {
+          "character": "PIERCE",
+          "line": "Commander!"
+        },
+        {
+          "character": "T'POL",
+          "line": "Are you all right?"
+        },
+        {
+          "character": "PIERCE",
+          "line": "This thing, it hurts."
+        },
+        {
+          "character": "T'POL",
+          "line": "Don't touch it. Have you seen anyone else from the ship?"
+        },
+        {
+          "character": "PIERCE",
+          "line": "Just you. Where are we?"
+        },
+        {
+          "character": "T'POL",
+          "line": "An Orion slave market."
+        },
+        {
+          "character": "PIERCE",
+          "line": "Slave market?"
+        },
+        {
+          "character": "T'POL",
+          "line": "The Orions traffic in forced labor. We're being processed for auction."
+        },
+        {
+          "character": "PIERCE",
+          "line": "This can't be happening. They're going to come for us, right? The ship?"
+        },
+        {
+          "character": "T'POL",
+          "line": "Ensign."
+        },
+        {
+          "character": "PIERCE",
+          "line": "The Captain's going to get us out of here!"
+        },
+        {
+          "character": "T'POL",
+          "line": "Ensign. I don't know your name."
+        },
+        {
+          "character": "PIERCE",
+          "line": "Pierce. Jeffrey Pierce. I just signed on."
+        },
+        {
+          "character": "T'POL",
+          "line": "Jeffrey, Enterprise will come. It may take some time. We should try to stay together until they get here."
+        }
+      ],
+      "location": "Orion Slave Market"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "ALIEN",
+          "line": "Transmit your identification code.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "REED",
+          "line": "Soong hasn't used this code in years."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Give it time."
+        },
+        {
+          "character": "ALIEN",
+          "line": "You're cleared to proceed.",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "ARCHER",
+          "line": "Phlox. Transponder. It has a range of ten kilometers."
+        },
+        {
+          "character": "TUCKER",
+          "line": "You wander off more than a step or two, we bring you right back here."
+        },
+        {
+          "character": "SOONG",
+          "line": "You don't like me, do you, Commander Tucker?"
+        },
+        {
+          "character": "TUCKER",
+          "line": "No, I don't."
+        },
+        {
+          "character": "SOONG",
+          "line": "You probably blame me for what's happened to your Vulcan friend."
+        },
+        {
+          "character": "ARCHER",
+          "line": "That's enough."
+        },
+        {
+          "character": "SOONG",
+          "line": "Your crew could use a sense of humor."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Make the engines a priority. When it's time to leave, I have a feeling we're going to need all the speed we can get."
+        }
+      ],
+      "location": "Transporter alcove"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "PIERCE",
+          "line": "I've read every transcript of every mission. I thought I was prepared, that I knew what to expect. Boy, was I wrong."
+        },
+        {
+          "character": "T'POL",
+          "line": "If you wish, I can teach you how to minimize your anxiety."
+        },
+        {
+          "character": "PIERCE",
+          "line": "Yeah, I'd like that. I'd like that a lot."
+        },
+        {
+          "character": "PIERCE",
+          "line": "Leave her alone!"
+        },
+        {
+          "character": "T'POL",
+          "line": "Ensign, don't!"
+        },
+        {
+          "character": "SLAVER",
+          "line": "You're doing well."
+        },
+        {
+          "character": "SLAVER",
+          "line": "Three million six! Not even my last wife sold for that much."
+        },
+        {
+          "character": "ORION",
+          "line": "Stand up. Bring that woman."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Over here."
+        },
+        {
+          "character": "SOONG",
+          "line": "At least we know four of your people are still here. Doesn't seem to be much demand for humans."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Those devices on their necks."
+        },
+        {
+          "character": "SOONG",
+          "line": "Neurolytic restraints. Ingenious, really. They induce convulsive seizures in disobedient slaves. If a slave attempts to leave the premises."
+        },
+        {
+          "character": "ARCHER",
+          "line": "So if we try to beam them out?"
+        },
+        {
+          "character": "SOONG",
+          "line": "Wouldn't recommend it, not if you want them alive."
+        },
+        {
+          "character": "ARCHER",
+          "line": "They sell their own people?"
+        },
+        {
+          "character": "SOONG",
+          "line": "Only the women. Orion females are known for their extreme appetites, their innate skills."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Come on."
+        },
+        {
+          "character": "ARCHER",
+          "line": "T'Pol. You all right?"
+        },
+        {
+          "character": "T'POL",
+          "line": "How many were taken?"
+        },
+        {
+          "character": "ARCHER",
+          "line": "Nine. We've located five, so far. We're working on a way to try and"
+        },
+        {
+          "character": "ORION",
+          "line": "She's sold. Buyers are over there."
+        },
+        {
+          "character": "SOONG",
+          "line": "We made a wrong turn. Thank you so much, though. Thank you for your help. Really, thank you. Let's go."
+        }
+      ],
+      "location": "Orion Slave Market"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "RAAKIN",
+          "line": "He argues with every command I give, defies me in front of the others."
+        },
+        {
+          "character": "PERSIS",
+          "line": "Some of them agree with what he did, taking this ship."
+        },
+        {
+          "character": "RAAKIN",
+          "line": "They've forgotten how we've stayed alive all these years. My resolve was what kept us from starving to death on that rock."
+        },
+        {
+          "character": "PERSIS",
+          "line": "They believe it's Malik who liberated us from that rock."
+        },
+        {
+          "character": "RAAKIN",
+          "line": "You agree with them."
+        },
+        {
+          "character": "PERSIS",
+          "line": "How can you say that?"
+        },
+        {
+          "character": "RAAKIN",
+          "line": "I hear it in your voice."
+        }
+      ],
+      "location": "Klingon ship"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "PERSIS",
+          "line": "Malik's doing more than arguing with your commands. He's plotting against you. He wants to take your place."
+        },
+        {
+          "character": "RAAKIN",
+          "line": "How do you know that?"
+        },
+        {
+          "character": "PERSIS",
+          "line": "He told me. Malik's always wanted me. I knew he was planning something, so I let him think I wanted him as well. He said that you're weak, that you're making all of us weak, that you're betraying Father's principles, that if Father were here, he'd choose Malik to lead us."
+        },
+        {
+          "character": "RAAKIN",
+          "line": "I will betray Father's principles. I'm going to kill my own brother."
+        }
+      ],
+      "location": "Raakin's quarters"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "SLAVER",
+          "line": "If you don't sell as a slave, I will sell you as food."
+        },
+        {
+          "character": "SLAVER",
+          "line": "Oh, that's barely enough to cover the expense of processing you."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Archer to Enterprise."
+        },
+        {
+          "character": "TUCKER",
+          "line": "Tucker here.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "ARCHER",
+          "line": "We've located everyone, including T'Pol. I'm going to need six kilos of tritanium cobalt."
+        },
+        {
+          "character": "SOONG",
+          "line": "Nine."
+        }
+      ],
+      "location": "Orion Slave Market"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "ARCHER",
+          "line": "Make that nine.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "TUCKER",
+          "line": "That's half our supply."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "ARCHER",
+          "line": "I'll explain later. Just get it ready."
+        },
+        {
+          "character": "TUCKER",
+          "line": "Yes, sir.",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "Orion Slave Market"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "ARCHER",
+          "line": "They normally remove the restraint after a sale. We used the extra tritanium to bribe one of the guards to deactivate it but leave it on him."
+        },
+        {
+          "character": "TUCKER",
+          "line": "Why can't we just buy the rest of our people?"
+        },
+        {
+          "character": "ARCHER",
+          "line": "T'Pol's already been sold. We don't have time to try and buy them all."
+        },
+        {
+          "character": "PHLOX",
+          "line": "We're almost there. Try to hold still."
+        },
+        {
+          "character": "TUCKER",
+          "line": "What kind of people are these?"
+        },
+        {
+          "character": "SOONG",
+          "line": "I'd say they're not unlike some of your ancestors, judging from your accent."
+        },
+        {
+          "character": "TUCKER",
+          "line": "Well, if I remember my history, these Augments you love so much had plenty of slaves."
+        },
+        {
+          "character": "SOONG",
+          "line": "They were more like subjects."
+        },
+        {
+          "character": "TUCKER",
+          "line": "Oh. They were just treated like slaves."
+        },
+        {
+          "character": "ARCHER",
+          "line": "T'Pol could be shipped out any second. Work fast."
+        }
+      ],
+      "location": "Sickbay"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "PERSIS",
+          "line": "I told him everything. He thinks you're planning an attack against him."
+        },
+        {
+          "character": "MALIK",
+          "line": "Is he going to move against me?"
+        },
+        {
+          "character": "RAAKIN",
+          "line": "See for yourself. Is this the move you expected?"
+        },
+        {
+          "character": "RAAKIN",
+          "line": "It's between us. I saved your life once when we were children, pulled you from the river when you fell in."
+        },
+        {
+          "character": "MALIK",
+          "line": "I remember."
+        },
+        {
+          "character": "RAAKIN",
+          "line": "Now, ten years later, you're plotting against me."
+        },
+        {
+          "character": "MALIK",
+          "line": "I'm the strongest and the smartest."
+        },
+        {
+          "character": "RAAKIN",
+          "line": "Doesn't look that way from here. You would never have trapped me like this."
+        },
+        {
+          "character": "MALIK",
+          "line": "But I have."
+        },
+        {
+          "character": "PERSIS",
+          "line": "I'm sorry, Raakin."
+        },
+        {
+          "character": "MALIK",
+          "line": "It's between us."
+        },
+        {
+          "character": "RAAKIN",
+          "line": "Saul, Jaya, listen to me."
+        },
+        {
+          "character": "MALIK",
+          "line": "They only listen to me now. There was a time when I looked up to you, when I called you my brother."
+        },
+        {
+          "character": "RAAKIN",
+          "line": "I am your brother."
+        },
+        {
+          "character": "MALIK",
+          "line": "When you rejected our father's wishes, you stopped being one of us, and when that happened, you ceased to exist."
+        },
+        {
+          "character": "MALIK",
+          "line": "Which makes this an act of mercy. Get rid of him."
+        },
+        {
+          "character": "MALIK",
+          "line": "Don't. Not for him."
+        }
+      ],
+      "location": "Klingon ship"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TUCKER",
+          "line": "We're sending the code now.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "ARCHER",
+          "line": "Got it."
+        },
+        {
+          "character": "SLAVER",
+          "line": "Outside. Outside!"
+        },
+        {
+          "character": "PRISONER",
+          "line": "The restraints are off!"
+        },
+        {
+          "character": "SLAVER",
+          "line": "Slaves are loose! Slaves are loose!"
+        },
+        {
+          "character": "ARCHER",
+          "line": "Trip, start beaming them, five at a time."
+        },
+        {
+          "character": "SOONG",
+          "line": "Sorry, Captain. I hope you find your people. Thanks for the ride."
+        },
+        {
+          "character": "SLAVER",
+          "line": "You've got spirit. I might just keep you for myself."
+        },
+        {
+          "character": "T'POL",
+          "line": "I'm not for sale."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Trip, have you got everyone?"
+        }
+      ],
+      "location": "Orion Slave Market"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TUCKER",
+          "line": "You and Soong are the only ones left."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Soong got away.",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "ARCHER",
+          "line": "Locate him and beam him up."
+        }
+      ],
+      "location": "Orion Slave Market"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TUCKER",
+          "line": "Soong's transponder signal, it's dead."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "ARCHER",
+          "line": "Can you scan for his biosign?"
+        }
+      ],
+      "location": "Orion Slave Market"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TUCKER",
+          "line": "We're trying, but there's too many people down there."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "ALIEN",
+          "line": "Help me. Don't let them take me."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Trip, two to beam up."
+        }
+      ],
+      "location": "Orion Slave Market"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "ARCHER",
+          "line": "You knew exactly where the Orions were operating. You knew they'd abduct members of my crew. Maybe you were even hoping they'd get you."
+        },
+        {
+          "character": "SOONG",
+          "line": "There was an outside chance."
+        },
+        {
+          "character": "ARCHER",
+          "line": "You were determined to escape, no matter who got hurt."
+        },
+        {
+          "character": "SOONG",
+          "line": "No one was injured."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Nine of my people were nearly sold into slavery. Two of them may have permanent physical damage because of the restraints."
+        },
+        {
+          "character": "SOONG",
+          "line": "I didn't take this action lightly."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Is that supposed to justify what you did?"
+        },
+        {
+          "character": "SOONG",
+          "line": "I'm simply saying it wasn't easy for me to place you and your crew in jeopardy. I respect you, Captain."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Then tell me how to find the Augments. You know where they're going."
+        },
+        {
+          "character": "SOONG",
+          "line": "They didn't steal a Klingon ship to go sightseeing."
+        },
+        {
+          "character": "ARCHER",
+          "line": "They're dangerous."
+        },
+        {
+          "character": "SOONG",
+          "line": "They're the future. They're stronger, smarter, free from sickness, with life spans twice as long as our own. You, more than anyone, should appreciate what this means."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Why me?"
+        },
+        {
+          "character": "SOONG",
+          "line": "Your father suffered from Clarke's Disease. His final years were marked with extreme pain."
+        },
+        {
+          "character": "ARCHER",
+          "line": "My father has nothing to do with this."
+        },
+        {
+          "character": "SOONG",
+          "line": "He didn't need to suffer. Genetic engineering could've cured him. Those who want to suppress my Augments are the same ones who condemned your father to death. Turn the ship around, Captain. Go home. Leave them alone."
+        },
+        {
+          "character": "ARCHER",
+          "line": "I'm going to find them, Doctor, whether you help me or not."
+        }
+      ],
+      "location": "Brig"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TUCKER",
+          "line": "You're supposed to be resting."
+        },
+        {
+          "character": "T'POL",
+          "line": "Doctor Phlox says I can resume my duties this afternoon."
+        },
+        {
+          "character": "TUCKER",
+          "line": "I'm glad they got that thing off with no problem."
+        },
+        {
+          "character": "T'POL",
+          "line": "There's a slight ringing in my left ear, but it should dissipate over time."
+        },
+        {
+          "character": "TUCKER",
+          "line": "Good. Well, I'll let you get back to that."
+        },
+        {
+          "character": "T'POL",
+          "line": "Vulcans don't have honeymoons. After the ceremony, I went to Mount Seleya to meditate alone."
+        },
+        {
+          "character": "TUCKER",
+          "line": "It's none of my business, anyway."
+        }
+      ],
+      "location": "Sickbay"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "REED",
+          "line": "Orion Interceptors, two of them. Coming up fast."
+        },
+        {
+          "character": "HOSHI",
+          "line": "They're hailing us."
+        },
+        {
+          "character": "ARCHER",
+          "line": "This is Captain Archer of the Starship"
+        },
+        {
+          "character": "SLAVER",
+          "line": "You've stolen our property!",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "ARCHER",
+          "line": "They were members of my crew. You kidnapped them."
+        },
+        {
+          "character": "SLAVER",
+          "line": "Disengage your warp drive, and deactivate your weapons.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "ARCHER",
+          "line": "That isn't going to happen. Malcolm."
+        },
+        {
+          "character": "REED",
+          "line": "They're targeting our nacelles."
+        },
+        {
+          "character": "TRAVIS",
+          "line": "We're dropping out of warp."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Torpedoes."
+        },
+        {
+          "character": "TRAVIS",
+          "line": "There's another ship."
+        },
+        {
+          "character": "REED",
+          "line": "The second Orion is veering off. They're retreating."
+        },
+        {
+          "character": "HOSHI",
+          "line": "The Klingons are requesting to dock."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "MALIK",
+          "line": "I know he's on this ship. We received his signal."
+        },
+        {
+          "character": "ARCHER",
+          "line": "When he tried to escape, I saw him access a console."
+        },
+        {
+          "character": "MALIK",
+          "line": "You were expecting us. Where is he?"
+        },
+        {
+          "character": "ARCHER",
+          "line": "In the Brig."
+        },
+        {
+          "character": "MALIK",
+          "line": "In a prison cell? I want to speak with him."
+        },
+        {
+          "character": "ARCHER",
+          "line": "I can't allow that."
+        },
+        {
+          "character": "MALIK",
+          "line": "We saved your ship."
+        },
+        {
+          "character": "ARCHER",
+          "line": "My ship wouldn't have been in danger if we hadn't come looking for you."
+        },
+        {
+          "character": "MALIK",
+          "line": "What is it you want with us?"
+        },
+        {
+          "character": "ARCHER",
+          "line": "My orders are to take you back to Earth."
+        },
+        {
+          "character": "MALIK",
+          "line": "Earth considers my father a criminal. Why? Because he brought us to life. You want to take us back to a world that opposes our very existence."
+        },
+        {
+          "character": "ARCHER",
+          "line": "You attacked a Klingon vessel. They're threatening war."
+        },
+        {
+          "character": "MALIK",
+          "line": "That's not our problem. We don't care what happens to you. Humanity is no longer relevant. To quote one of your philosophers, Nietzsche, mankind is something to be surpassed."
+        },
+        {
+          "character": "ARCHER",
+          "line": "You think he was talking about you?"
+        },
+        {
+          "character": "MALIK",
+          "line": "I'm about to attack you."
+        },
+        {
+          "character": "MALIK",
+          "line": "You see? Even with a warning, you're not fast enough."
+        },
+        {
+          "character": "REED",
+          "line": "Let him go. We have five times your strength, double your intelligence."
+        },
+        {
+          "character": "REED",
+          "line": "Let him go."
+        },
+        {
+          "character": "MALIK",
+          "line": "I'll tear out his throat. Lower your weapons. Now."
+        },
+        {
+          "character": "MALIK",
+          "line": "Persis."
+        }
+      ],
+      "location": "Ready room"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "PERSIS",
+          "line": "I've broken their security code. We're ready."
+        }
+      ],
+      "location": "Klingon ship"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "MALIK",
+          "line": "I'll kill him."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "PERSIS",
+          "line": "Persis."
+        },
+        {
+          "character": "SOONG",
+          "line": "Persis? I can't believe it."
+        }
+      ],
+      "location": "Brig"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "PERSIS",
+          "line": "Father, here's Malik."
+        },
+        {
+          "character": "SOONG",
+          "line": "Malik."
+        },
+        {
+          "character": "SOONG",
+          "line": "I knew we'd see each other again. I'm proud of you. Of all of you."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Soong, listen to me."
+        },
+        {
+          "character": "SOONG",
+          "line": "There's nothing to say, Captain."
+        },
+        {
+          "character": "MALIK",
+          "line": "What should we do with them?"
+        },
+        {
+          "character": "SOONG",
+          "line": "Let them go."
+        },
+        {
+          "character": "MALIK",
+          "line": "But they'll just come after us."
+        },
+        {
+          "character": "SOONG",
+          "line": "Their ship's disabled. By the time it's repaired, we'll be far away. It's been a pleasure, Captain. Take my advice. Go home and start learning how to speak Klingon."
+        }
+      ],
+      "location": "by the Airlock"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "SOONG",
+          "line": "There were times back on Earth when I doubted myself, my work. But seeing you all, I know that everything I've fought for was worth it. We're going to build a new world. But we can't begin that task just yet. Thousands of your brothers and sisters are waiting to be born. Let's go get them. To Be Continued"
+        }
+      ],
+      "location": "Klingon Bridge"
+    }
+  ],
+  "schedule": {
+    "episode": 4,
+    "number": 80,
+    "season": 4
+  },
+  "stardate": "Unknown",
+  "title": "Borderland"
+}

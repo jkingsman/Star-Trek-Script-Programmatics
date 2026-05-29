@@ -1,0 +1,1686 @@
+{
+  "airdate": 1052895600,
+  "scenes": [
+    {
+      "dialogue": [
+        {
+          "character": "T'POL",
+          "line": "It could be a phantom reading, background radiation."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Even your scientists have confirmed the existence of dark matter."
+        },
+        {
+          "character": "T'POL",
+          "line": "But never in such dense concentration."
+        },
+        {
+          "character": "ARCHER",
+          "line": "That's the point. If it really is a dark matter nebula, we'd be the first to directly observe one."
+        },
+        {
+          "character": "T'POL",
+          "line": "Even with modified sensors there wouldn't be much to see."
+        },
+        {
+          "character": "ARCHER",
+          "line": "I've heard of Vulcan experiments where they were able to excite dark matter by bombarding it with metrion particles."
+        },
+        {
+          "character": "T'POL",
+          "line": "Those tests involved very small quantities. This structure is nearly ten million kilometers in diameter."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Could you rig some kind of spatial charges? Something that would spread the metrion particles over a wider area?"
+        },
+        {
+          "character": "TUCKER",
+          "line": "If I can, it should put on a hell of a show."
+        },
+        {
+          "character": "HOSHI",
+          "line": "Sorry to interrupt, Captain. It's Admiral Forrest."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Get to work on these charges."
+        },
+        {
+          "character": "TUCKER",
+          "line": "Aye, Captain."
+        }
+      ],
+      "location": "Situation room"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "ARCHER",
+          "line": "This is good timing, Admiral. We just picked up some very interesting sensor readings."
+        },
+        {
+          "character": "FORREST",
+          "line": "I'm afraid I've got some bad news, Jon. It's AG. He was back on Mount McKinley. There was an accident. He was killed. I'm sorry.",
+          "modifier": "screen"
+        }
+      ],
+      "location": "Ready room"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TUCKER",
+          "line": "You've got six spatial charges. I rigged them myself."
+        },
+        {
+          "character": "ARCHER",
+          "line": "What are their ranges?"
+        },
+        {
+          "character": "TUCKER",
+          "line": "If there's any dark matter within five hundred kilometers, you'll know it."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Thanks."
+        },
+        {
+          "character": "TUCKER",
+          "line": "You sure you don't want some company?"
+        },
+        {
+          "character": "ARCHER",
+          "line": "If this nebula exists, we don't know what effect it could have on the shuttlepod."
+        },
+        {
+          "character": "TUCKER",
+          "line": "All the more reason to bring your engineer along."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Not this time, Trip."
+        },
+        {
+          "character": "TUCKER",
+          "line": "I still can't believe it."
+        },
+        {
+          "character": "ARCHER",
+          "line": "All the close calls he had flying warp trials, and he gets killed climbing Mount McKinley."
+        }
+      ],
+      "location": "Launch bay"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "T'POL",
+          "line": "I've brought some sensor enhancements."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Thanks."
+        },
+        {
+          "character": "T'POL",
+          "line": "We'll find them useful in mapping the nebula, if it's there."
+        },
+        {
+          "character": "ARCHER",
+          "line": "We?"
+        },
+        {
+          "character": "T'POL",
+          "line": "This is a scientific mission. It's only logical to bring your Science Officer."
+        },
+        {
+          "character": "ARCHER",
+          "line": "I'd prefer to handle this myself."
+        },
+        {
+          "character": "T'POL",
+          "line": "Commander Tucker obviously didn't remind you that Starfleet regulations prohibit the Captain from leaving the ship unaccompanied."
+        },
+        {
+          "character": "T'POL",
+          "line": "We should reach the edge of the phenomenon in two hours, forty six minutes. I can pass the time by meditating, but if you'd prefer to talk?"
+        },
+        {
+          "character": "ARCHER",
+          "line": "Go ahead and meditate."
+        },
+        {
+          "character": "T'POL",
+          "line": "Would you like to join me? You seem quite unsettled since your call from Admiral Forrest."
+        },
+        {
+          "character": "ARCHER",
+          "line": "I'm fine."
+        },
+        {
+          "character": "T'POL",
+          "line": "Commander Tucker was reluctant to diskuss it as well, though he did mention an old colleague had died."
+        },
+        {
+          "character": "ARCHER",
+          "line": "A Starfleet Captain. A. G. Robinson. I wouldn't be out here if it weren't for him."
+        },
+        {
+          "character": "T'POL",
+          "line": "I'm somewhat familiar with Starfleet history. I've never heard of a Captain Robinson."
+        },
+        {
+          "character": "ARCHER",
+          "line": "I'm sure there's a paragraph about him in the Vulcan data base. We were in the NX test program, trying to break the warp two barrier. There was just a few of us. Gardner, Duvall, AG and me. We all wanted the first flight"
+        }
+      ],
+      "location": "Shuttlepod"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "FORREST",
+          "line": "Come in."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Sorry I'm late, Commodore. I came straight from the test bay."
+        },
+        {
+          "character": "FORREST",
+          "line": "At ease, Commander. I heard your got the warp reactor up to ninety percent today."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Ninety two. Sir, you didn't call me here to ask about an engine test. We all know the assignment's about to be handed out. I'm guessing this is either really good news or"
+        },
+        {
+          "character": "FORREST",
+          "line": "I'm going with Commander Robinson."
+        },
+        {
+          "character": "ARCHER",
+          "line": "AG's a fine pilot."
+        },
+        {
+          "character": "FORREST",
+          "line": "It wasn't an easy decision. You'll be backup."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Sounds good. You know I spent more time in the simulator than anyone. If I can do anything to help AG prepare for"
+        },
+        {
+          "character": "FORREST",
+          "line": "Jon. It's your father's engine. I know how important this was to you."
+        },
+        {
+          "character": "ARCHER",
+          "line": "The most important thing to me is that we succeed. Is there anything else?"
+        },
+        {
+          "character": "FORREST",
+          "line": "No, Commander. Dismissed."
+        }
+      ],
+      "location": "Memory - Starfleet Command, Forrest's office"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "ARCHER",
+          "line": "Thanks, Ruby."
+        },
+        {
+          "character": "RUBY",
+          "line": "You all right?"
+        },
+        {
+          "character": "ARCHER",
+          "line": "Sure, why?"
+        },
+        {
+          "character": "RUBY",
+          "line": "The last time you had this much to drink was the day Caroline moved to New Berlin. My guess is Forrest gave out the assignment today."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Sherlock Holmes has nothing on you."
+        },
+        {
+          "character": "RUBY",
+          "line": "They'll need a pilot for the next flight."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Do you remember what Buzz Aldrin said when he stepped on the moon?"
+        },
+        {
+          "character": "RUBY",
+          "line": "No."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Nobody does, because Armstrong went first."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Congratulations."
+        },
+        {
+          "character": "ROBINSON",
+          "line": "You mean that?"
+        },
+        {
+          "character": "ARCHER",
+          "line": "Of course not. I'm waiting for Forrest to realize what a horrible mistake he made. Until then, let me buy you a drink."
+        },
+        {
+          "character": "ROBINSON",
+          "line": "No, I'll buy you one. Consolation prize. Two more, Leo."
+        },
+        {
+          "character": "LEO",
+          "line": "Here you go."
+        },
+        {
+          "character": "ARCHER",
+          "line": "To Commander A. G. Robinson. We all worked hard to get this flight, but in the end the best pilot won. Just ask him. AG."
+        },
+        {
+          "character": "ALL",
+          "line": "AG."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Take it easy Commander, you're due in the simulator at oh seven hundred. First flight's in two weeks."
+        },
+        {
+          "character": "ROBINSON",
+          "line": "You know why you didn't get this assignment?"
+        },
+        {
+          "character": "ARCHER",
+          "line": "I bet you're going to tell me."
+        },
+        {
+          "character": "ROBINSON",
+          "line": "You tried too hard. You did everything by the book. You burned the midnight oil in that simulator, eighteen, twenty hour days. You shut everything and everyone out of your life just so you could be the first."
+        },
+        {
+          "character": "ARCHER",
+          "line": "And?"
+        },
+        {
+          "character": "ROBINSON",
+          "line": "You still don't understand. Starfleet doesn't just want a great pilot. They want a great captain."
+        }
+      ],
+      "location": "602\nClub"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "T'POL",
+          "line": "You said Captain Robinson was a close friend."
+        },
+        {
+          "character": "ARCHER",
+          "line": "That's right."
+        },
+        {
+          "character": "T'POL",
+          "line": "From what you've told me, your relationship seemed adversarial."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Only one of us was going to get to fly that ship. Nothing wrong with a little healthy competition."
+        },
+        {
+          "character": "T'POL",
+          "line": "He did have a point. It does take more than piloting ability to command a starship."
+        },
+        {
+          "character": "ARCHER",
+          "line": "I agree."
+        },
+        {
+          "character": "T'POL",
+          "line": "Fortunately, you seem to have developed the necessary skills."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Was that a compliment?"
+        },
+        {
+          "character": "T'POL",
+          "line": "An observation. I assume Captain Robinson's flight was successful?"
+        },
+        {
+          "character": "ARCHER",
+          "line": "Not exactly. He was lucky to come out of it in one piece."
+        }
+      ],
+      "location": "Shuttlepod"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "ROBINSON",
+          "line": "NX control. I thought we built a warp ship so we could go to warp.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "ARCHER",
+          "line": "Maintain your orbit. We're trying to run down a problem with the stabilization protocols."
+        },
+        {
+          "character": "ROBINSON",
+          "line": "I saw Italy go by again. If this is going to take much longer, maybe you can send up some food.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "ARCHER",
+          "line": "What can I get you?"
+        }
+      ],
+      "location": "Memory - NX Control room"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "ROBINSON",
+          "line": "How about some of those deep fried mushrooms from the 602?"
+        }
+      ],
+      "location": "NX\nAlpha"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "ARCHER",
+          "line": "I'll send Ruby up to take your order."
+        },
+        {
+          "character": "FLIGHT",
+          "line": "We are clear on the stabilization protocols. Restart countdown at thirty seconds."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Good news AG. I just got word from the powers that be that you're good to go."
+        }
+      ],
+      "location": "NX\nControl room"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "ROBINSON",
+          "line": "Acknowledged. WSP is nominal. APU's are good."
+        }
+      ],
+      "location": "NX\nAlpha"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "ARCHER",
+          "line": "Warp field initialisation in twenty seconds."
+        }
+      ],
+      "location": "NX\nControl room"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "ROBINSON",
+          "line": "I'm breaking orbit. At least the thrusters work. I did get a little variance on the RCS."
+        }
+      ],
+      "location": "NX\nAlpha"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "ARCHER",
+          "line": "We noticed that here. Do you want to bring her back to the garage?"
+        }
+      ],
+      "location": "NX\nControl room"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "ROBINSON",
+          "line": "Not on your life."
+        }
+      ],
+      "location": "NX\nAlpha"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "FLIGHT",
+          "line": "We've got an stable warp field."
+        },
+        {
+          "character": "ARCHER",
+          "line": "NX control to NX Alpha. You have my permission to go to warp."
+        }
+      ],
+      "location": "NX\nControl room"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "ROBINSON",
+          "line": "See you in a few light years."
+        }
+      ],
+      "location": "NX\nAlpha"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "ARCHER",
+          "line": "Warp one. One point five. That little bump you just felt was warp two. Congratulations. Now let's see if you can get it up to two point one."
+        }
+      ],
+      "location": "NX\nControl room"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "ROBINSON",
+          "line": "She's getting a little shaky."
+        }
+      ],
+      "location": "NX\nAlpha"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "ROBINSON",
+          "line": "Are you sure you've got that stabilization problem ironed out?",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "FLIGHT",
+          "line": "Field integrity's down to twenty percent."
+        },
+        {
+          "character": "VULCAN",
+          "line": "The warp field won't hold."
+        },
+        {
+          "character": "ARCHER",
+          "line": "AG, we're getting some pretty unusual telemetry down here. We need you to go sublight until we get this sorted out."
+        }
+      ],
+      "location": "NX\nControl room"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "ARCHER",
+          "line": "Did you hear me?",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "ROBINSON",
+          "line": "I'm at two point one. I think I can get more out of her."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Negative. Abort!",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "NX\nAlpha"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "ARCHER",
+          "line": "Warp two point one five."
+        },
+        {
+          "character": "FORREST",
+          "line": "This is Forrest. Drop to impulse, that's an order!"
+        },
+        {
+          "character": "ARCHER",
+          "line": "Two point two."
+        }
+      ],
+      "location": "NX\nControl room"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "ROBINSON",
+          "line": "The field's collapsing!"
+        },
+        {
+          "character": "ARCHER",
+          "line": "AG, you've got to get out of there.",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "NX\nAlpha"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "FLIGHT",
+          "line": "We've lost telemetry."
+        },
+        {
+          "character": "ARCHER",
+          "line": "NX Control to NX Alpha, come in. AG, can you hear me?"
+        }
+      ],
+      "location": "NX\nControl room"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "T'POL",
+          "line": "Particle density is increasing."
+        },
+        {
+          "character": "ARCHER",
+          "line": "We should be entering the nebula."
+        },
+        {
+          "character": "T'POL",
+          "line": "The readings could be misleading."
+        },
+        {
+          "character": "ARCHER",
+          "line": "As Doctor Phlox would say, optimism."
+        },
+        {
+          "character": "T'POL",
+          "line": "Optimism doesn't alter the law of physics."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Time to put Trip's charges to the test. Three seconds."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Anything?"
+        },
+        {
+          "character": "ARCHER",
+          "line": "We need to move deeper into the nebula, if it exists."
+        },
+        {
+          "character": "T'POL",
+          "line": "What happened?"
+        },
+        {
+          "character": "ARCHER",
+          "line": "The field emissions on the charges could have been too low, or maybe we're just on a wild goose chase."
+        },
+        {
+          "character": "T'POL",
+          "line": "I was referring to Captain Robinson. His test flight."
+        },
+        {
+          "character": "ARCHER",
+          "line": "He made the record books for being the first person to deploy an escape pod at warp, but he lost one of two NX prototypes. Nearly derailed the entire program."
+        }
+      ],
+      "location": "Shuttlepod"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "ARCHER",
+          "line": "Are you all right?"
+        },
+        {
+          "character": "ROBINSON",
+          "line": "A little shaky. Trust me, you don't want to pass through the warp barrier in one of those. Should make a nice addition to the Starfleet Museum."
+        },
+        {
+          "character": "FORREST",
+          "line": "What went wrong?"
+        },
+        {
+          "character": "ROBINSON",
+          "line": "I'm not sure, sir. The closer I got to two point two, the more trouble I had keeping the field stable."
+        },
+        {
+          "character": "ARCHER",
+          "line": "You where ordered to abort."
+        },
+        {
+          "character": "ROBINSON",
+          "line": "The abort call was premature. We had some instability on the previous tests, but it always settled down."
+        },
+        {
+          "character": "VULCAN",
+          "line": "Your engine design is obviously unsound."
+        },
+        {
+          "character": "TUCKER",
+          "line": "There's nothing wrong with that engine."
+        },
+        {
+          "character": "FORREST",
+          "line": "You have something to add, Lieutenant?"
+        },
+        {
+          "character": "TUCKER",
+          "line": "Tucker, sir. I'm on Captain Jefferies' Engineering team. We've never pumped this much antimatter through the injectors before. It's going to take us a little time to get the intermix right."
+        },
+        {
+          "character": "VULCAN",
+          "line": "That's precisely the point. Your program is moving too quickly."
+        },
+        {
+          "character": "TUCKER",
+          "line": "Just because it took you a hundred years to crack warp two doesn't mean it'll take us that long."
+        },
+        {
+          "character": "FORREST",
+          "line": "Lieutenant!"
+        },
+        {
+          "character": "TUCKER",
+          "line": "Sorry, sir."
+        },
+        {
+          "character": "ARCHER",
+          "line": "He's right. This is a new engine. It's bound to have a few bugs to work out."
+        },
+        {
+          "character": "VULCAN",
+          "line": "Those bugs just scattered your ship across five thousand kilometers of space, and nearly killed your pilot."
+        },
+        {
+          "character": "ROBINSON",
+          "line": "We're not going to get anywhere without taking some risks."
+        },
+        {
+          "character": "FORREST",
+          "line": "I know where you stand on this, Commander."
+        },
+        {
+          "character": "ARCHER",
+          "line": "We've got a lot of data to analyze before we know what happened. We should be grateful we only lost the ship."
+        }
+      ],
+      "location": "Memory - NX Hanger"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TUCKER",
+          "line": "Cyrus."
+        },
+        {
+          "character": "RUBY",
+          "line": "Cyrus."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Who's Cyrus?"
+        },
+        {
+          "character": "TUCKER",
+          "line": "It was my great grandfather's name."
+        },
+        {
+          "character": "RUBY",
+          "line": "Keep trying, Tucker."
+        },
+        {
+          "character": "TUCKER",
+          "line": "Chester. How about Rosalie if it's a girl? Come on, give me a hint."
+        },
+        {
+          "character": "TUCKER",
+          "line": "She's had names for her kids picked out since she was ten. Says she'll marry the first man to guess them."
+        },
+        {
+          "character": "ARCHER",
+          "line": "What's your name, Lieutenant?"
+        },
+        {
+          "character": "TUCKER",
+          "line": "Charles Tucker, sir, but everyone calls me Trip."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Trip?"
+        },
+        {
+          "character": "TUCKER",
+          "line": "My dad's Charles Tucker, and so was his dad. That makes me the third, so triple. Trip."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Thanks with your help today with our Vulcan friends, Trip. My father would have appreciated it."
+        },
+        {
+          "character": "TUCKER",
+          "line": "I don't get it. It's like they want us to fail."
+        },
+        {
+          "character": "FORREST",
+          "line": "I gave up trying to figure out the Vulcans a long time ago."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Commodore."
+        },
+        {
+          "character": "FORREST",
+          "line": "At ease. May I?"
+        },
+        {
+          "character": "ARCHER",
+          "line": "Of course."
+        },
+        {
+          "character": "TUCKER",
+          "line": "Can I buy you a drink, sir?"
+        },
+        {
+          "character": "FORREST",
+          "line": "It's the least you can do after that outburst today."
+        },
+        {
+          "character": "TUCKER",
+          "line": "I'm sorry, sir, I didn't mean to"
+        },
+        {
+          "character": "FORREST",
+          "line": "I'll have a beer, Mister Tucker."
+        },
+        {
+          "character": "FORREST",
+          "line": "It's been a while since I've been in here. I see it hasn't changed much."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Is there something on your mind, Sir?"
+        },
+        {
+          "character": "FORREST",
+          "line": "I came here to tell you at the urging of the Vulcan Advisory Council, that Starfleet Command has decided to put the NX program on hold."
+        },
+        {
+          "character": "ARCHER",
+          "line": "For how long?"
+        },
+        {
+          "character": "FORREST",
+          "line": "Indefinitely."
+        },
+        {
+          "character": "RUBY",
+          "line": "Gentlemen?"
+        },
+        {
+          "character": "TUCKER",
+          "line": "One beer."
+        },
+        {
+          "character": "ARCHER",
+          "line": "What do you mean, indefinitely?"
+        },
+        {
+          "character": "FORREST",
+          "line": "They want to go back to the drawing board, Jon. Develop a new engine from scratch."
+        },
+        {
+          "character": "ARCHER",
+          "line": "We have an engine that works now. If we start over, it'll be decades before we get into deep space."
+        },
+        {
+          "character": "FORREST",
+          "line": "Starfleet's made its decision."
+        },
+        {
+          "character": "TUCKER",
+          "line": "Permission to speak freely, sir? It's your father's engine. His life's work. You can't let them do this."
+        },
+        {
+          "character": "ROBINSON",
+          "line": "Bourbon, straight up."
+        },
+        {
+          "character": "ARCHER",
+          "line": "I suppose you heard."
+        },
+        {
+          "character": "ROBINSON",
+          "line": "This is really going to throw a wrench in my career plans."
+        },
+        {
+          "character": "ROBINSON",
+          "line": "Thanks."
+        },
+        {
+          "character": "RUBY",
+          "line": "Last call. Anything else?"
+        },
+        {
+          "character": "ROBINSON",
+          "line": "I'll have another."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Where have you been all day?"
+        },
+        {
+          "character": "ROBINSON",
+          "line": "Debriefing. After the flight surgeons were done with me I got hauled in front of the Starfleet senior staff and the Vulcans."
+        },
+        {
+          "character": "TUCKER",
+          "line": "What'd you tell them?"
+        },
+        {
+          "character": "ROBINSON",
+          "line": "What do you think? The subspace field destabilized at warp two point two. Primary flight controls failed, resulting in the loss of the vehicle."
+        },
+        {
+          "character": "TUCKER",
+          "line": "Aren't you forgetting something?"
+        },
+        {
+          "character": "ROBINSON",
+          "line": "What?"
+        },
+        {
+          "character": "TUCKER",
+          "line": "The possibility of pilot error."
+        },
+        {
+          "character": "ROBINSON",
+          "line": "I'm not interested in your opinion, Lieutenant."
+        },
+        {
+          "character": "ARCHER",
+          "line": "You should be. The Vulcans have been leaning on Starfleet for years to rein in this program. You walked in there today, ruled out pilot error, and told them just what they wanted to hear. Our engine doesn't work."
+        },
+        {
+          "character": "ROBINSON",
+          "line": "Sorry to be the bearer of bad news, Archer, but it doesn't work."
+        },
+        {
+          "character": "TUCKER",
+          "line": "The engine's sound. We just need more time to balance the intermix."
+        },
+        {
+          "character": "ROBINSON",
+          "line": "We need more than time."
+        },
+        {
+          "character": "ARCHER",
+          "line": "I agree. We need a pilot who listens to orders. If you aborted, we'd still have a ship and probably another chance."
+        },
+        {
+          "character": "ROBINSON",
+          "line": "Another chance to what, get killed?"
+        },
+        {
+          "character": "ARCHER",
+          "line": "At the first sign of trouble, you should've throttled down."
+        },
+        {
+          "character": "ROBINSON",
+          "line": "It wouldn't have made a damn bit of difference."
+        },
+        {
+          "character": "ARCHER",
+          "line": "I guess we'll never find out."
+        },
+        {
+          "character": "ROBINSON",
+          "line": "You weren't in that cockpit."
+        },
+        {
+          "character": "ARCHER",
+          "line": "There's nothing wrong with that ship!"
+        },
+        {
+          "character": "ROBINSON",
+          "line": "There's plenty wrong. You just refuse to see it."
+        },
+        {
+          "character": "ARCHER",
+          "line": "What the hell's that supposed to mean?"
+        },
+        {
+          "character": "ROBINSON",
+          "line": "Every time there's a problem with this project, you blame it on pilot error or gravitational anomalies, or some technical malfunction. Well, you're going to have to face the truth this time, because there's nothing left to point an finger at. Your father designed a lousy engine."
+        },
+        {
+          "character": "RUBY",
+          "line": "That's enough! Do something!"
+        },
+        {
+          "character": "TUCKER",
+          "line": "Come on, come on, break it up."
+        },
+        {
+          "character": "TUCKER",
+          "line": "Break it up!"
+        },
+        {
+          "character": "RUBY",
+          "line": "Do you think this is going to get either of you any closer to warp five?"
+        }
+      ],
+      "location": "602\nclub"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "T'POL",
+          "line": "The fight was interrupted?"
+        },
+        {
+          "character": "ARCHER",
+          "line": "Not before I got two bruised ribs and a cracked molar."
+        },
+        {
+          "character": "T'POL",
+          "line": "I suppose we'll never know. Who would have won."
+        },
+        {
+          "character": "T'POL",
+          "line": "Main power is fluctuating."
+        },
+        {
+          "character": "ARCHER",
+          "line": "It's all right. Auxiliary's kicking in."
+        },
+        {
+          "character": "T'POL",
+          "line": "There was a surge in the EPS grid."
+        },
+        {
+          "character": "ARCHER",
+          "line": "We must be getting close. Trip said the dark matter might affect the shuttle's systems. He'll be happy to hear he was right."
+        },
+        {
+          "character": "T'POL",
+          "line": "It was probably nothing more than a simple malfunction."
+        },
+        {
+          "character": "ARCHER",
+          "line": "I don't think so. Our pre-launch checks were all fine. Something else caused that surge."
+        },
+        {
+          "character": "T'POL",
+          "line": "I'm not detecting any dark matter."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Have a little faith, T'Pol."
+        },
+        {
+          "character": "T'POL",
+          "line": "Even if you're right, it may be dangerous to proceed. Another surge could disable life support."
+        },
+        {
+          "character": "ARCHER",
+          "line": "One thing I learned from AG. You're never going to get anywhere without taking risks."
+        },
+        {
+          "character": "T'POL",
+          "line": "You obviously admired this man."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Quite a bit."
+        },
+        {
+          "character": "T'POL",
+          "line": "And yet he cracked your molar."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Humans can have funny ways of forming friendships."
+        },
+        {
+          "character": "T'POL",
+          "line": "To say the least."
+        },
+        {
+          "character": "ARCHER",
+          "line": "He would have loved it out here. Too bad he never got the chance. God knows he earned it."
+        },
+        {
+          "character": "T'POL",
+          "line": "I thought you said he was responsible for nearly ending the program."
+        },
+        {
+          "character": "ARCHER",
+          "line": "He was also responsible for getting it back on course, with a little help from me and Trip."
+        }
+      ],
+      "location": "Shuttlepod"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "ARCHER",
+          "line": "I see you're not losing any time."
+        },
+        {
+          "character": "ROBINSON",
+          "line": "We're done flying. No use hanging around. Here you go."
+        },
+        {
+          "character": "ARCHER",
+          "line": "I'm not clearing out just yet."
+        },
+        {
+          "character": "ROBINSON",
+          "line": "Suit yourself."
+        },
+        {
+          "character": "ARCHER",
+          "line": "I've been thinking about what you were saying last night about my father's engine."
+        },
+        {
+          "character": "ROBINSON",
+          "line": "Look, I was out of line."
+        },
+        {
+          "character": "ARCHER",
+          "line": "You were right. I wanted to see this thing fly so badly, it kept me from being objective."
+        },
+        {
+          "character": "ROBINSON",
+          "line": "That's good of you to admit, but it doesn't really matter now."
+        },
+        {
+          "character": "ARCHER",
+          "line": "It may. I got my hands on the telemetry from your flight. It looks like Tucker was right about the intermix, but I think we can compensate for it."
+        },
+        {
+          "character": "ROBINSON",
+          "line": "You heard Forrest. The program is on hold indefinitely."
+        },
+        {
+          "character": "ARCHER",
+          "line": "We can take this to Starfleet, make a case to get off the ground again."
+        },
+        {
+          "character": "ROBINSON",
+          "line": "What about the Vulcans? They'll look at your data and say we need to run computer simulations for another ten years to prove that you're right."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Commodore Forrest will back us up."
+        },
+        {
+          "character": "ROBINSON",
+          "line": "Forrest answers to Starfleet Command. It's out of his hands."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Even if his two senior pilots insist that this ship can fly? If the three of us go in there together, we might be able to change their minds. You just went faster than any human being ever has and now your going to walk away? Let them put the ship in mothballs when we're so close to breaking warp three? You're always talking about taking risks. What have we got to lose?"
+        },
+        {
+          "character": "ROBINSON",
+          "line": "If you want to convince the Vulcans, you'll have to do a lot better than showing them a bunch of antimatter calculations."
+        },
+        {
+          "character": "ARCHER",
+          "line": "I'm open to suggestions."
+        },
+        {
+          "character": "ROBINSON",
+          "line": "We only lost one ship. Still have one left."
+        },
+        {
+          "character": "ARCHER",
+          "line": "They'll never give us clearance."
+        },
+        {
+          "character": "ROBINSON",
+          "line": "Can you think of a better way to prove it'll fly? You want to talk about taking risks? You're a great pilot, maybe as good as me, but you're never going to get out into deep space by playing it safe. When the first warp five starship is built, it's Captain won't be able to call home every time he needs to make a decision. He won't be able to turn to the Vulcans, unless he decides to take one with him."
+        }
+      ],
+      "location": "Memory - NX Locker room"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "ARCHER",
+          "line": "We should be twenty thousand kilometers inside the nebula. Let's load up two more charges."
+        },
+        {
+          "character": "T'POL",
+          "line": "The history of your early warp flights is well-documented, but I've never read anything about two Starfleet pilots stealing the warp three prototype."
+        },
+        {
+          "character": "ARCHER",
+          "line": "It wasn't the kind of thing Starfleet Command wanted to advertise. Don't you believe me?"
+        },
+        {
+          "character": "T'POL",
+          "line": "I have no doubt it happened, though I find it difficult to believe you had to be convinced to participate."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Well, you didn't know me then. I was a little more by-the-book."
+        },
+        {
+          "character": "T'POL",
+          "line": "The particle density has nearly doubled. Shall we try again? Perhaps we should head back."
+        },
+        {
+          "character": "ARCHER",
+          "line": "We still have two more charges. Let's keep looking."
+        },
+        {
+          "character": "T'POL",
+          "line": "Was your test flight successful?"
+        },
+        {
+          "character": "ARCHER",
+          "line": "Promise you won't put this into the Vulcan database?"
+        }
+      ],
+      "location": "Shuttlepod"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "ARCHER",
+          "line": "We decided on a night launch.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "TUCKER",
+          "line": "I've routed the intermix controls to the engineering station. If it becomes unstable, you'll be able to adjust it manually."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Thanks."
+        },
+        {
+          "character": "TUCKER",
+          "line": "If I came along, I could monitor the antimatter flow."
+        },
+        {
+          "character": "ARCHER",
+          "line": "I'll keep an eye on it."
+        },
+        {
+          "character": "TUCKER",
+          "line": "You're going to have your hands full."
+        },
+        {
+          "character": "ARCHER",
+          "line": "We need you down here. Don't worry, you'll get out there someday. If I had my own ship I'd sign you up in a second."
+        },
+        {
+          "character": "TUCKER",
+          "line": "I'm going to hold you to it."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Thanks, Trip."
+        }
+      ],
+      "location": "Memory - NX Hangar, night"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "ARCHER",
+          "line": "No response from the auxiliary APU's."
+        },
+        {
+          "character": "ROBINSON",
+          "line": "That's because they haven't been installled yet."
+        },
+        {
+          "character": "ARCHER",
+          "line": "How's it coming, Trip?"
+        },
+        {
+          "character": "TUCKER",
+          "line": "I've disabled",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "NX\nBeta"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TUCKER",
+          "line": "The tracking sensors but I'll need a minute to divert the telemetry."
+        },
+        {
+          "character": "ARCHER",
+          "line": "How long?",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "TUCKER",
+          "line": "Don't wait for me. I'll be ready by the time you break orbit."
+        }
+      ],
+      "location": "NX\nHangar"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "ARCHER",
+          "line": "Acknowledged."
+        },
+        {
+          "character": "ROBINSON",
+          "line": "Not to late to call this off, head over to the 602 for a beer."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Not on your life."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Anyone noticed we're gone yet?"
+        },
+        {
+          "character": "TUCKER",
+          "line": "No, as far as they know the doors are closed and the lights are out.",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "NX\nBeta"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TUCKER",
+          "line": "But New Berlin should be picking you up in about six minutes."
+        }
+      ],
+      "location": "NX\nHangar"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "ROBINSON",
+          "line": "By the time they figure out what's going on, we'll be half way to Jupiter."
+        }
+      ],
+      "location": "NX\nBeta"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "FORREST",
+          "line": "Come in. You're working late."
+        },
+        {
+          "character": "FLIGHT",
+          "line": "We just got a call. New Berlin's detected the NX Beta."
+        },
+        {
+          "character": "FORREST",
+          "line": "What?"
+        },
+        {
+          "character": "FLIGHT",
+          "line": "Internal sensors show it's still in the hangar."
+        },
+        {
+          "character": "FORREST",
+          "line": "Has anyone bothered to look?"
+        }
+      ],
+      "location": "Forrest's office"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "ARCHER",
+          "line": "Warp field is stable."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Something wrong?"
+        },
+        {
+          "character": "ROBINSON",
+          "line": "Why don't you take it?"
+        },
+        {
+          "character": "ARCHER",
+          "line": "What?"
+        },
+        {
+          "character": "ROBINSON",
+          "line": "I had the last flight. You're due up."
+        },
+        {
+          "character": "ROBINSON",
+          "line": "Besides, you could use the practice. I hope you and Tucker were right about that intermix."
+        },
+        {
+          "character": "ARCHER",
+          "line": "We're about to find out."
+        },
+        {
+          "character": "FORREST",
+          "line": "This is Forrest.",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "NX\nBeta"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "FORREST",
+          "line": "What the hell is going on?"
+        },
+        {
+          "character": "ARCHER",
+          "line": "Just running an engine test, sir.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "FORREST",
+          "line": "Archer? Turn around right now, and I'll do what I can"
+        }
+      ],
+      "location": "NX\nControl room"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "FORREST",
+          "line": "To keep you out of prison. If you"
+        }
+      ],
+      "location": "NX\nBeta"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "FORREST",
+          "line": "Archer!"
+        },
+        {
+          "character": "FORREST",
+          "line": "Perfect."
+        }
+      ],
+      "location": "NX\nControl room"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "ROBINSON",
+          "line": "That's warp two."
+        }
+      ],
+      "location": "NX\nBeta"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TUCKER",
+          "line": "Here we go again. I'm reading fluctuations in the intermix."
+        },
+        {
+          "character": "ARCHER",
+          "line": "We see it.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "TUCKER",
+          "line": "Your warp field's destabilizing."
+        }
+      ],
+      "location": "NX\nHangar"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "ARCHER",
+          "line": "Warp two point one five. You'd better get that intermix locked down because I'm not backing off till I break your record. Got it?"
+        },
+        {
+          "character": "ROBINSON",
+          "line": "Almost."
+        }
+      ],
+      "location": "NX\nBeta"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "SECURITY",
+          "line": "Come with us, Lieutenant."
+        },
+        {
+          "character": "TUCKER",
+          "line": "NX Beta, do you read?"
+        }
+      ],
+      "location": "NX\nHangar"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "ARCHER",
+          "line": "NX Beta to Commodore Forrest. You might want to check your sensors. You'll see that we're holding steady at two point five.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "FORREST",
+          "line": "Congratulations. Now get the hell back here."
+        }
+      ],
+      "location": "NX\nControl room"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "FORREST",
+          "line": "Not only was it in violation of a direct order, it was utterly reckless, irresponsible and maybe even criminal."
+        },
+        {
+          "character": "ROBINSON",
+          "line": "Sir."
+        },
+        {
+          "character": "FORREST",
+          "line": "I'm not done, Commander! You are both suspended from duty pending an inquiry, and by the time Starfleet Command gets through with you, you're going to wish that you had never come back. You're supposed to represent the best that Starfleet has to offer. Keeping this program on track is hard enough without our own officers undermining it. What did you think that this stunt of yours would accomplish? That just because you didn't get yourselves killed that we'd ignore that data we've collected, the testing we've done, the recommendations of the Vulcan Advisory Council?"
+        },
+        {
+          "character": "ROBINSON",
+          "line": "If we follow all their recommendations, we'll never make it into deep space."
+        },
+        {
+          "character": "VULCAN",
+          "line": "No one is suggesting that your warp program be dismantled, only that Starfleet proceed with more restraint."
+        },
+        {
+          "character": "ROBINSON",
+          "line": "Get Lieutenant Tucker in here. Ask any engineer on the project. They'll tell you this ship can fly. Archer and I just proved it. We're ready to go. Now."
+        },
+        {
+          "character": "VULCAN",
+          "line": "That's not you decision to make."
+        },
+        {
+          "character": "ARCHER",
+          "line": "With all due respect, its not your's either. You're right, sir. We were reckless. We knew there'd be consequences. We knew we'd probably be thrown out of Starfleet."
+        },
+        {
+          "character": "FORREST",
+          "line": "You may have been right."
+        },
+        {
+          "character": "ARCHER",
+          "line": "AG and I may never fly again, but its a small sacrifice to make if it keeps this project going. We didn't build this engine to make test runs around Jupiter. We built it to explore. If my father were alive today, he'd be standing here asking, what the hell are we waiting for?"
+        }
+      ],
+      "location": "Forrest's office"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "T'POL",
+          "line": "You obviously weren't dismissed from Starfleet. They must have found your argument convincing."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Convincing enough. We managed to avoid a court martial, but they grounded us for three months."
+        },
+        {
+          "character": "T'POL",
+          "line": "Still, the NX program continued."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Eventually. The Vulcans had us run every simulation they could think of for over a year before they finally admitted the engine would probably work. Eight months after that, Duvall broke warp three in the NX Delta. Five years later we laid the keel for Enterprise. You know the rest."
+        },
+        {
+          "character": "T'POL",
+          "line": "The particle density has increased again."
+        },
+        {
+          "character": "ARCHER",
+          "line": "I'd hate to see those last two charges go to waste. Anything on sensors?"
+        },
+        {
+          "character": "T'POL",
+          "line": "It appears so. Fascinating. This data will certainly cause a debate at the Science Directorate."
+        },
+        {
+          "character": "ARCHER",
+          "line": "T'Pol, come up and look at this a minute."
+        },
+        {
+          "character": "T'POL",
+          "line": "I have to monitor the quantum field."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Let the sensors do it. That's why AG and I worked so hard to get out here."
+        },
+        {
+          "character": "T'POL",
+          "line": "Captain Robinson clearly wanted to command Enterprise as much as you did."
+        },
+        {
+          "character": "ARCHER",
+          "line": "He wasn't alone, but by the end AG and I were the only two candidates left. They made the final selection six months before we launched. Maybe I just got lucky."
+        }
+      ],
+      "location": "Shuttlepod"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "ARCHER",
+          "line": "Thanks."
+        },
+        {
+          "character": "RUBY",
+          "line": "Congratulations, Captain."
+        },
+        {
+          "character": "ROBINSON",
+          "line": "To Jonathan Archer, first skipper of the Starship Enterprise, and one lucky s.o.b."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Luck had nothing to do with it."
+        },
+        {
+          "character": "ROBINSON",
+          "line": "It couldn't have been talent. I'm just waiting for Forrest to realize what a horrible mistake he made. Still, they could have done a lot worst. Anyway, I'd rather wait for the NX02. Let you make all the mistakes so I'll have an easier time of it."
+        },
+        {
+          "character": "ARCHER",
+          "line": "To the first skipper of the NX02."
+        },
+        {
+          "character": "ROBINSON",
+          "line": "Got to go. I'm catching a shuttle to Alice Springs at oh six hundred. More survival training. Night, Ruby. Good luck, Jon. Hey, I'll see you out there."
+        }
+      ],
+      "location": "Memory - 602 Club"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "T'POL",
+          "line": "Captain. We should start back if we're going to make our rendezvous."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Right."
+        }
+      ],
+      "location": "Shuttlepod"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TUCKER",
+          "line": "Welcome back. How'd it go?"
+        },
+        {
+          "character": "T'POL",
+          "line": "Your charges were effective."
+        },
+        {
+          "character": "TUCKER",
+          "line": "Was it a good show?"
+        },
+        {
+          "character": "ARCHER",
+          "line": "You should've been there."
+        },
+        {
+          "character": "TUCKER",
+          "line": "I'll remember to ask you next time."
+        },
+        {
+          "character": "T'POL",
+          "line": "I believe there's a human custom that says when you diskover something of merit, you earn the right to name it."
+        },
+        {
+          "character": "ARCHER",
+          "line": "What would you suggest? The T'Pol - Archer nebula?"
+        },
+        {
+          "character": "T'POL",
+          "line": "I was thinking the Robinson nebula would be more appropriate."
+        }
+      ],
+      "location": "Launch Bay"
+    }
+  ],
+  "schedule": {
+    "episode": 24,
+    "number": 50,
+    "season": 2
+  },
+  "stardate": "Unknown",
+  "title": "First Flight"
+}

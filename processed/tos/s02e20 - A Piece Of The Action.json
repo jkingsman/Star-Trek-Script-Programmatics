@@ -1,0 +1,2192 @@
+{
+  "airdate": -62179200,
+  "scenes": [
+    {
+      "dialogue": [
+        {
+          "character": "CHEKOV",
+          "line": "Approaching Sigma Iotia Two, Captain."
+        },
+        {
+          "character": "KIRK",
+          "line": "Standard orbit, Mister Chekov."
+        },
+        {
+          "character": "UHURA",
+          "line": "Captain, I have received vocal contact from an official station. They relayed us to a man named Oxmyx. His title is Boss."
+        },
+        {
+          "character": "KIRK",
+          "line": "Boss? All right, Lieutenant, put him on. Oxmyx. This is Captain James T. Kirk of the starship Enterprise, representing the Federation of Planets."
+        },
+        {
+          "character": "OXMYX",
+          "line": "Hello, Captain. You're from the same outfit as the Horizon?",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "KIRK",
+          "line": "Yes. Unfortunately, the Horizon was lost with all hands shortly after leaving your planet. We only received her radio report last month."
+        },
+        {
+          "character": "OXMYX",
+          "line": "Last month? What are you talking about? The Horizon left here a hundred years ago.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "KIRK",
+          "line": "Difficult to explain. We received a report a hundred years late because it was sent by conventional radio. Your system is on the outer reaches of the galaxy. They didn't have subspace communication in those days."
+        },
+        {
+          "character": "OXMYX",
+          "line": "Toward the edge of what?",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "KIRK",
+          "line": "I'll explain it in more detail when I see him. The ship won't land, but we'll transport several people down. Well, that's a little difficult for you to understand, too. I'll explain it in more detail when I see you. Where will be convenient?"
+        },
+        {
+          "character": "OXMYX",
+          "line": "Well, there's an intersection just at the end of the block, near a yellow fire plug. Think you can find it?",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "KIRK",
+          "line": "Scotty, do you have the co-ordinates?"
+        },
+        {
+          "character": "SCOTT",
+          "line": "Located, sir. KIRK; Good. Mister Oxmyx, we have your intersection located. Will five minutes be all right?"
+        },
+        {
+          "character": "OXMYX",
+          "line": "Fine. Fine. I'll have a reception committee there to meet you.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "KIRK",
+          "line": "Good. I'll be looking forward to it. Kirk out. Scotty, you have the conn."
+        },
+        {
+          "character": "KIRK",
+          "line": "Spock, McCoy, we're beaming down. Standard equipment."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "KIRK",
+          "line": "The Horizon's contact came before the Non-Interference Directive went into effect."
+        },
+        {
+          "character": "MCCOY",
+          "line": "They must have interfered with the normal evolution of the planet."
+        },
+        {
+          "character": "SPOCK",
+          "line": "It will be interesting to see the results of the contamination."
+        },
+        {
+          "character": "KIRK",
+          "line": "We don't know there is contamination. The evidence is only circumstantial."
+        },
+        {
+          "character": "MCCOY",
+          "line": "What was the state of the Iotian culture before the Horizon came?"
+        },
+        {
+          "character": "KIRK",
+          "line": "The beginnings of industrialisation."
+        }
+      ],
+      "location": "Turbolift"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "SPOCK",
+          "line": "Horizon reports indicate the Iotians are extremely intelligent and somewhat imitative."
+        },
+        {
+          "character": "MCCOY",
+          "line": "So we're going down to recontaminate them."
+        },
+        {
+          "character": "SPOCK",
+          "line": "The damage has been done, Doctor. We are here to repair it."
+        },
+        {
+          "character": "KIRK",
+          "line": "Let's not argue about it. Let's go study it. Energize."
+        }
+      ],
+      "location": "Transporter room"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "SPOCK",
+          "line": "Fascinating."
+        },
+        {
+          "character": "MCCOY",
+          "line": "This is like coming home."
+        },
+        {
+          "character": "KIRK",
+          "line": "Home was never like this. I've seen pictures of the old days that look like this."
+        },
+        {
+          "character": "SPOCK",
+          "line": "Interesting, Captain. Passers-by are carrying, I believe, firearms."
+        },
+        {
+          "character": "KALO",
+          "line": "Okay, you three, let's see you petrify."
+        },
+        {
+          "character": "SPOCK",
+          "line": "Sir, would you mind explaining that statement, please?"
+        },
+        {
+          "character": "KALO",
+          "line": "I want to see you turn to stone. Put your hands over your head, or you ain't going to have no head to put your hands over."
+        },
+        {
+          "character": "KALO",
+          "line": "What's this?"
+        },
+        {
+          "character": "KIRK",
+          "line": "That's a weapon. Be careful with that."
+        },
+        {
+          "character": "KALO",
+          "line": "A heater, huh? Hey, the boss will love that."
+        },
+        {
+          "character": "KIRK",
+          "line": "Look, we were asked to come down here by Mister Oxmyx. He said"
+        },
+        {
+          "character": "KALO",
+          "line": "I know what he said, bud. He said some of the boys would meet you. Okay, we're meeting you."
+        },
+        {
+          "character": "MCCOY",
+          "line": "Well, those firearms are not necessary."
+        },
+        {
+          "character": "KALO",
+          "line": "You trying to make trouble?"
+        },
+        {
+          "character": "MCCOY",
+          "line": "Who, me?"
+        },
+        {
+          "character": "KALO",
+          "line": "Don't give me those baby blue eyes."
+        },
+        {
+          "character": "MCCOY",
+          "line": "What?"
+        },
+        {
+          "character": "KALO",
+          "line": "I don't go for that innocent routine."
+        },
+        {
+          "character": "SPOCK",
+          "line": "Sir, does everyone here carry firearms?"
+        },
+        {
+          "character": "KALO",
+          "line": "I never heard such stupid questions in my life."
+        },
+        {
+          "character": "MCCOY",
+          "line": "Well, since this Oxmyx asked us down here, don't you think we should see him?"
+        },
+        {
+          "character": "KALO",
+          "line": "All right. Get moving. Down the street."
+        },
+        {
+          "character": "KALO",
+          "line": "Krako's getting more gall all the time ."
+        },
+        {
+          "character": "KIRK",
+          "line": "Is this how you greet all your guests?"
+        },
+        {
+          "character": "KALO",
+          "line": "It happens, pal."
+        },
+        {
+          "character": "MCCOY",
+          "line": "That man's dead back there."
+        },
+        {
+          "character": "KALO",
+          "line": "Yeah? We ain't playing for peanuts. What's the matter, you guys never saw a hit before?"
+        },
+        {
+          "character": "SPOCK",
+          "line": "Sir, there are several questions I would like to ask."
+        },
+        {
+          "character": "KALO",
+          "line": "Ask the boss. I don't know nothing. Get moving."
+        },
+        {
+          "character": "MCCOY",
+          "line": "This is the contamination you're looking for, Jim."
+        },
+        {
+          "character": "KIRK",
+          "line": "Yes, but the Horizon crew wasn't composed of cold-blooded killers. They didn't report this culture in this state, either. What happened?"
+        },
+        {
+          "character": "WOMAN",
+          "line": "Hey, Kalo. Hey, when's the boss going to do something about the crummy street lights around here, eh? A girl ain't safe."
+        },
+        {
+          "character": "WOMAN 2",
+          "line": "And how about the laundry pickup? We ain't had a truck by in three weeks."
+        },
+        {
+          "character": "KALO",
+          "line": "Write him a letter."
+        },
+        {
+          "character": "WOMAN 2",
+          "line": "I did. He sent it back with postage due."
+        },
+        {
+          "character": "WOMAN",
+          "line": "Listen, we pay our percentages. We're entitled to a little service for our money."
+        },
+        {
+          "character": "KALO",
+          "line": "Get lost, will ya? Some people got nothing to do but complain."
+        },
+        {
+          "character": "KIRK",
+          "line": "Is this the way your citizens do business, their right of petition?"
+        },
+        {
+          "character": "KALO",
+          "line": "They pay their percentages and the boss takes care of them."
+        }
+      ],
+      "location": "Street"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "OXMYX",
+          "line": "Hit that button. Yeah?"
+        },
+        {
+          "character": "KALO",
+          "line": "Got them, Boss. No sweat.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "OXMYX",
+          "line": "All right. Bring them in. Which one of you is the captain?"
+        },
+        {
+          "character": "KIRK",
+          "line": "Depends."
+        },
+        {
+          "character": "OXMYX",
+          "line": "Make yourself a drink, Captain. It's good stuff. I distilll it myself."
+        },
+        {
+          "character": "KIRK",
+          "line": "No, thank you. You're Mister Oxmyx."
+        },
+        {
+          "character": "OXMYX",
+          "line": "That's me, pal."
+        },
+        {
+          "character": "KIRK",
+          "line": "This is my first officer, Mister Spock, Doctor McCoy."
+        },
+        {
+          "character": "OXMYX",
+          "line": "Doctor, huh? Put that chopper down, Kalo. These guys are our guests. Pick up a cue, Captain. Go ahead. You can't be too careful around here these days."
+        },
+        {
+          "character": "MCCOY",
+          "line": "Yes. Judging from what we've seen so far, I agree."
+        },
+        {
+          "character": "KIRK",
+          "line": "They call you The Boss, Mister Oxmyx. The boss of what?"
+        },
+        {
+          "character": "OXMYX",
+          "line": "The boss of my territory. I got the biggest in the world. You know, there's one thing wrong with having the biggest. There's always some punk trying to cut you out. That's why you can't be too careful."
+        },
+        {
+          "character": "KIRK",
+          "line": "You're the government here?"
+        },
+        {
+          "character": "OXMYX",
+          "line": "What government? Look, I told you. I got the territory and I run it. That's all."
+        },
+        {
+          "character": "KIRK",
+          "line": "But there are other bosses, other territories?"
+        },
+        {
+          "character": "OXMYX",
+          "line": "Yeah, sure. Maybe a dozen or so, not counting the small fry, but then they get burned anyway soon as I get around to it."
+        },
+        {
+          "character": "SPOCK",
+          "line": "Does that include, if I may ask, a gentleman called Krako?"
+        },
+        {
+          "character": "OXMYX",
+          "line": "How do you know about Krako?"
+        },
+        {
+          "character": "KALO",
+          "line": "He hit us, Boss."
+        },
+        {
+          "character": "OXMYX",
+          "line": "Okay. You hit him back, you hear? Hard."
+        },
+        {
+          "character": "KALO",
+          "line": "I'll take care of it."
+        },
+        {
+          "character": "SPOCK",
+          "line": "Captain? Gangsters. Chicago. Mobs. Published in 1992. Where'd you get this?"
+        },
+        {
+          "character": "OXMYX",
+          "line": "Hey, wait a minute. That's the Book."
+        },
+        {
+          "character": "KIRK",
+          "line": "I know it's a book."
+        },
+        {
+          "character": "OXMYX",
+          "line": "The Book. They left it, the other ship. The Horizon."
+        },
+        {
+          "character": "SPOCK",
+          "line": "This is the contamination, Captain. Astonishing. An entire culture based on this."
+        },
+        {
+          "character": "MCCOY",
+          "line": "You said they were imitative, and the book"
+        },
+        {
+          "character": "OXMYX",
+          "line": "I don't want any more cracks about the Book."
+        },
+        {
+          "character": "KIRK",
+          "line": "Did they leave any other books?"
+        },
+        {
+          "character": "OXMYX",
+          "line": "Sure. Some text books on how to make radio sets and stuff like that, but, look, I brought you here so you could help me, not for you to ask me questions. After that, I'll answer anything you want to know."
+        },
+        {
+          "character": "KIRK",
+          "line": "What is it you want?"
+        },
+        {
+          "character": "OXMYX",
+          "line": "Well, I was thinking. You Feds must have made a lot of improvements since that other ship came here. You probably got all kinds of fancy heaters up there. So here's the deal. You give me all the heaters I need. Enough tools so I can knock off those punks all at once. Then I'll take over, and all you'll have to do is deal with me."
+        },
+        {
+          "character": "KIRK",
+          "line": "Now let me get this straight. You want us to supply you with arms and assistance so you can carry out an aggression against your neighbors?"
+        },
+        {
+          "character": "OXMYX",
+          "line": "What aggression? I got to make hits. I want you to help me hit them. That's all."
+        },
+        {
+          "character": "SPOCK",
+          "line": "Fascinating, but quite impossible."
+        },
+        {
+          "character": "KIRK",
+          "line": "Mister Oxmyx, my orders are quite explicit. Under no circum"
+        },
+        {
+          "character": "OXMYX",
+          "line": "I ain't interested in your orders. From now on, you're gonna take orders from me. I'm gonna give you just eight hours to give me the things I want. If I don't have those tools by then, I'm gonna call up your ship and have them pick you up in a box. Is that understood, pal?"
+        },
+        {
+          "character": "KALO",
+          "line": "Hey, Boss, this here's a heater, and I don't know what this is."
+        },
+        {
+          "character": "OXMYX",
+          "line": "Let's see how this thing works."
+        },
+        {
+          "character": "KIRK",
+          "line": "Don't do that. You could knock out the side of the building."
+        },
+        {
+          "character": "OXMYX",
+          "line": "That good, huh? All you have to do is give me about a hundred of these fancy heaters and we'll have no more trouble."
+        },
+        {
+          "character": "KIRK",
+          "line": "Out of the question."
+        },
+        {
+          "character": "OXMYX",
+          "line": "Captain Kirk, I usually get what I want. What's this thing? All right. Burn him."
+        },
+        {
+          "character": "KIRK",
+          "line": "Hold it. It's a communication device."
+        },
+        {
+          "character": "OXMYX",
+          "line": "How does it work?"
+        },
+        {
+          "character": "KIRK",
+          "line": "It's locked onto my ship's systems."
+        },
+        {
+          "character": "OXMYX",
+          "line": "Kalo, take them to the warehouse and put them in a bag. Keep a sharp eye on them, you hear."
+        },
+        {
+          "character": "KALO",
+          "line": "In the bag, Boss. Come on."
+        },
+        {
+          "character": "OXMYX",
+          "line": "Hey, you. In the ship up there."
+        }
+      ],
+      "location": "Oxmyx's office"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "OXMYX",
+          "line": "Hey, you in the ship.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "SCOTT",
+          "line": "Scott here. Who's this?"
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "OXMYX",
+          "line": "This is Bela Oxmyx. I got your captain and his friends down here. You want to see them alive"
+        }
+      ],
+      "location": "Oxmyx's office"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "OXMYX",
+          "line": "Again you'll send me down a hundred of these fancy heaters you've got, and some troops to show me how to use them.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "SCOTT",
+          "line": "Am I to understand that you're holding the captain and his party?"
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "OXMYX",
+          "line": "You heard right, pal. I'm going to give you just eight hours to get me the goods I want, or I put the hit on your friends."
+        }
+      ],
+      "location": "Oxmyx's office"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "OXMYX",
+          "line": "You understand?",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "SCOTT",
+          "line": "I don't know. Lieutenant Hadley, check the language banks and find out what a heater is."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "MCCOY",
+          "line": "One book on the gangs of Chicago did all this. It's amazing."
+        },
+        {
+          "character": "SPOCK",
+          "line": "They evidently seized upon that one book as the blueprint for an entire society."
+        },
+        {
+          "character": "MCCOY",
+          "line": "It's the Bible."
+        },
+        {
+          "character": "KIRK",
+          "line": "In old Chicago, conventional government almost broke down. The gangs nearly took over."
+        },
+        {
+          "character": "MCCOY",
+          "line": "Yeah, well, Oxmyx is the worst gangster of all."
+        },
+        {
+          "character": "SPOCK",
+          "line": "We may quarrel with Mister Oxmyx' methods, but his goal is essentially the correct one. This society must become united or it will degenerate into total anarchy."
+        },
+        {
+          "character": "KIRK",
+          "line": "If this society broke down as the result of the Horizon's influence, then the Federation's responsible, and we've got to do something to straighten this mess out. Spock, if you could get to the sociological computer, do you think you could find a solution?"
+        },
+        {
+          "character": "SPOCK",
+          "line": "Unfortunately, I do not have access to my computers, nor are these gentlemen likely to permit it."
+        },
+        {
+          "character": "KIRK",
+          "line": "Well, I've got an idea about that. Gentlemen. Gentlemen. This, card game is a kid's game."
+        },
+        {
+          "character": "KALO",
+          "line": "You think so, huh?"
+        },
+        {
+          "character": "KIRK",
+          "line": "Oh, yes, yes. I wouldn't waste my time."
+        },
+        {
+          "character": "KALO",
+          "line": "Who's asking you?"
+        },
+        {
+          "character": "KIRK",
+          "line": "On Beta Antares Four, they play a real game. It's a man's game, but of course it's probably a little beyond you. It requires intelligence."
+        },
+        {
+          "character": "KALO",
+          "line": "Listen, Kirk, I can play anything you can figure out. Take the cards, big man. Show us how it's played."
+        },
+        {
+          "character": "SPOCK",
+          "line": "I'm familiar with the culture on Beta Antares. There aren't games"
+        },
+        {
+          "character": "KIRK",
+          "line": "Spock. Spock. Of course, the cards on Beta Antares Four are different, but not too different. The name of the game is called fizzbin."
+        },
+        {
+          "character": "KALO",
+          "line": "Fizzbin?"
+        },
+        {
+          "character": "KIRK",
+          "line": "Fizzbin. It's not too difficult. Each player gets six cards, except for the player on the dealer's right, who gets seven."
+        },
+        {
+          "character": "KALO",
+          "line": "On the right."
+        },
+        {
+          "character": "KIRK",
+          "line": "Yes. The second card is turned up, except on Tuesdays."
+        },
+        {
+          "character": "KALO",
+          "line": "On Tuesday."
+        },
+        {
+          "character": "KIRK",
+          "line": "Oh, look what you got, two jacks. You got a half fizzbin already."
+        },
+        {
+          "character": "KALO",
+          "line": "I need another jack."
+        },
+        {
+          "character": "KIRK",
+          "line": "No, no. If you got another jack, why, you'd have a sralk."
+        },
+        {
+          "character": "KALO",
+          "line": "A sralk?"
+        },
+        {
+          "character": "KIRK",
+          "line": "Yes. You'd be disqualified. You need a king and a deuce, except at night of course, when you'd need a queen and a four."
+        },
+        {
+          "character": "KALO",
+          "line": "Except at night."
+        },
+        {
+          "character": "KIRK",
+          "line": "Right. Oh, look at that. You've got another jack. How lucky you are! How wonderful for you. If you didn't get another jack, if you'd gotten a king, why then you'd get another card, except when it's dark, you'd give it back."
+        },
+        {
+          "character": "KALO",
+          "line": "If it were dark on Tuesday."
+        },
+        {
+          "character": "KIRK",
+          "line": "Yes, but what you're after is a royal fizzbin, but the odds in getting a royal fizzbin are astron. Spock, what are the odds in getting a royal fizzbin?"
+        },
+        {
+          "character": "SPOCK",
+          "line": "I have never computed them, Captain."
+        },
+        {
+          "character": "KIRK",
+          "line": "Well, they're astronomical, believe me. Now, for the last card. We'll call it a kronk. You got that?"
+        },
+        {
+          "character": "KALO",
+          "line": "What?"
+        },
+        {
+          "character": "KALO",
+          "line": "I'll get it."
+        },
+        {
+          "character": "KIRK",
+          "line": "Spock, find the radio station. Uhura's monitoring the broadcasts. Cut in and have yourselves beamed up to the ship."
+        },
+        {
+          "character": "SPOCK",
+          "line": "Surely, you're coming, Captain."
+        },
+        {
+          "character": "KIRK",
+          "line": "I will, but I'm bringing Bela Oxmyx with me."
+        },
+        {
+          "character": "MCCOY",
+          "line": "Jim, you can't"
+        },
+        {
+          "character": "KIRK",
+          "line": "Bones, this mess is our responsibility. You have your orders. Let's go."
+        }
+      ],
+      "location": "Warehouse"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "ZABO",
+          "line": "Hold it! Okay, pally, we're going for a ride."
+        },
+        {
+          "character": "KIRK",
+          "line": "If you don't mind, I'd rather walk."
+        },
+        {
+          "character": "ZABO",
+          "line": "Listen, pally, this could either be a taxi or a hearse. You know what I mean?"
+        },
+        {
+          "character": "KIRK",
+          "line": "I'm beginning to get the idea."
+        }
+      ],
+      "location": "Alleyway"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "MCCOY",
+          "line": "You do that very well. Now, how are you with primitive radio equipment?"
+        },
+        {
+          "character": "SPOCK",
+          "line": "Very simple. Amplitude modulation transmission. I simply adjust the frequency, throw this switch, and the Enterprise should answer."
+        },
+        {
+          "character": "VOICE",
+          "line": "That was the Jailbreakers with their latest recording on Request Time, brought to you by Bang-Bang, the makers of the sweetest little automatic in the world",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "SPOCK",
+          "line": "Fascinating."
+        },
+        {
+          "character": "MCCOY",
+          "line": "And very simple."
+        },
+        {
+          "character": "SPOCK",
+          "line": "Let me see. Enterprise, this is Mister Spock."
+        },
+        {
+          "character": "UHURA",
+          "line": "Lieutenant Uhura here, Mister Spock.",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "Radio station"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "UHURA",
+          "line": "Mister Spock, what are you doing on this frequency?"
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "SPOCK",
+          "line": "A very long and complicated story, Lieutenant. Notify the transporter room, Two to beam up, these co-ordinates."
+        }
+      ],
+      "location": "Radio station"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "KRAKO",
+          "line": "So you're the Fed, huh? Well, well, well, well, well."
+        },
+        {
+          "character": "KIRK",
+          "line": "And you?"
+        },
+        {
+          "character": "KRAKO",
+          "line": "Krako. JoJo Krako. I'm the head of the whole Southside Territory. Hey, glad to see you."
+        },
+        {
+          "character": "KIRK",
+          "line": "Would you mind telling me how you even know who I am?"
+        },
+        {
+          "character": "KRAKO",
+          "line": "Sit down, Kirk. I've got all of Bela's communications bugged. He can't make a date with a broad unless I know about it. Well, I guess you want to know why I brought you here."
+        },
+        {
+          "character": "KIRK",
+          "line": "You want to make a deal."
+        },
+        {
+          "character": "KRAKO",
+          "line": "Hey, I like that. That is sharp. That's sharp, eh, Zabo?"
+        },
+        {
+          "character": "ZABO",
+          "line": "Sharp, Boss."
+        },
+        {
+          "character": "KRAKO",
+          "line": "That's right, a deal. I want you to help me."
+        },
+        {
+          "character": "KIRK",
+          "line": "Let me guess. You want, you'll want heaters, and then you'll want troops to teach them how to use them. And then you'll attack the other bosses and take over the whole planet. Then we'll sit down and talk, right?"
+        },
+        {
+          "character": "KRAKO",
+          "line": "Wrong! I know Bela. He didn't offer you beans. Now, me, I'm a reasonable man. You give me what I want and I'll cut you in for, say, a third. Skimmed right off the top. Well, what do you think?"
+        },
+        {
+          "character": "KIRK",
+          "line": "I got a better idea. This planet has to be united. You know that. Bela knows that. Let's sit down. You, me, Bela. Diskuss this whole matter, contact the other bosses, and talk about it like reasonable men."
+        },
+        {
+          "character": "KRAKO",
+          "line": "You watch it, Kirk. The Book tells us how to handle things. You make hits. Somebody argues, you lean on 'em. What do you think, we're stupid or something?"
+        },
+        {
+          "character": "KIRK",
+          "line": "No, I don't think you're stupid. I just think your behavior is arrested."
+        },
+        {
+          "character": "KRAKO",
+          "line": "I haven't been arrested in my whole life! Listen, pally, I know how to get what I want. You want to live, don't you, Kirk? You bet you do. But after I get through with you, you're liable to be sorry unless you come across. Hold him here. Tell Cirl the Knife to sharpen up his blade. I just might have a job for him. Unless you come across with the heaters."
+        },
+        {
+          "character": "KIRK",
+          "line": "I'm sorry, Krako. No deal."
+        },
+        {
+          "character": "KRAKO",
+          "line": "That's too bad. Put him on ice!"
+        }
+      ],
+      "location": "Krako's office"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "MCCOY",
+          "line": "Well?"
+        },
+        {
+          "character": "SPOCK",
+          "line": "Futile, Doctor. No specifics. There is no record of such a culture based on a moral inversion."
+        },
+        {
+          "character": "MCCOY",
+          "line": "You mean you're giving up?"
+        },
+        {
+          "character": "SPOCK",
+          "line": "No, Doctor. I'm merely saying the computers can offer us no logical, rational, factual way out of our current dilemma."
+        },
+        {
+          "character": "UHURA",
+          "line": "Mister Spock, Mister Oxmyx is making contact from the surface."
+        },
+        {
+          "character": "SPOCK",
+          "line": "On audio, Lieutenant. Mister Oxmyx, this is Mister Spock."
+        },
+        {
+          "character": "OXMYX",
+          "line": "Huh? Hey, how'd you get back up there?",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "SPOCK",
+          "line": "Irrelevant, since we are here."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "OXMYX",
+          "line": "Oh, yeah. I tell you, you'd better come on back down."
+        }
+      ],
+      "location": "Oxmyx's office"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "OXMYX",
+          "line": "Krako's put the bag on your captain.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "SPOCK",
+          "line": "Why would he put a bag on our captain?"
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "OXMYX",
+          "line": "Kidnapped him, you dope."
+        }
+      ],
+      "location": "Oxmyx's office"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "OXMYX",
+          "line": "He'll scrag him, too.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "SPOCK",
+          "line": "If I understand you correctly, that would seem to be a problem."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "OXMYX",
+          "line": "Look, you guys got something I want. I can help you get your captain back."
+        }
+      ],
+      "location": "Oxmyx's office"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "OXMYX",
+          "line": "Then we can talk about the deal I want.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "SPOCK",
+          "line": "I'm afraid I find it difficult to trust you, Mister Oxmyx."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "OXMYX",
+          "line": "What's to trust? Business is business. We'll call a truce. You come on down."
+        }
+      ],
+      "location": "Oxmyx's office"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "OXMYX",
+          "line": "My boys'll spring Kirk, and then we'll talk about giving me a hand.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "SPOCK",
+          "line": "You'll show no further hostility?"
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "OXMYX",
+          "line": "I'm a businessman, pally. What do ya say?"
+        }
+      ],
+      "location": "Oxmyx's office"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "SPOCK",
+          "line": "Since we must have our captain back, I accept."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "SPOCK",
+          "line": "We shall arrive in your office within ten minutes. Spock out.",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "Oxmyx's office"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "MCCOY",
+          "line": "You mean you're going to trust him?"
+        },
+        {
+          "character": "SPOCK",
+          "line": "If we are to save the captain without blatant, forceful interference on this planet, Doctor, we must have the assistance of someone indigenous. We are therefore forced to trust Mister Oxmyx."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "KIRK",
+          "line": "Help me! Help! Help me!"
+        }
+      ],
+      "location": "Small office"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "SPOCK",
+          "line": "Mister Scott, though we hope to avoid interference, I suggest you set one of our phaser banks on a strong stun position."
+        },
+        {
+          "character": "SCOTT",
+          "line": "Aye, sir."
+        },
+        {
+          "character": "MCCOY",
+          "line": "Now you're beginning to make sense."
+        },
+        {
+          "character": "SPOCK",
+          "line": "I trust we shall not have to use them, but it is best to be prepared. Energize."
+        }
+      ],
+      "location": "Transporter room"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "OXMYX",
+          "line": "You know what to do."
+        },
+        {
+          "character": "KALO",
+          "line": "Don't worry, Boss. They can't do nothing till they're through sparkling."
+        },
+        {
+          "character": "OXMYX",
+          "line": "Just the same, you be careful. They'll have heaters on them. Now you watch this. Ship's log. Mister Spock reporting. Incredible as it seems, Doctor McCoy and I are once again prisoners of the chief criminal boss of a society patterned after old Earth gangsters."
+        },
+        {
+          "character": "OXMYX",
+          "line": "Pick up many more of these, I won't need your co-operation."
+        },
+        {
+          "character": "SPOCK",
+          "line": "Mister Oxmyx, I understood we had an arrangement, a truce."
+        },
+        {
+          "character": "OXMYX",
+          "line": "I was hoping you'd think that, dummy."
+        },
+        {
+          "character": "MCCOY",
+          "line": "We're trying to help you, Oxmyx."
+        },
+        {
+          "character": "OXMYX",
+          "line": "Nobody helps nobody but himself."
+        },
+        {
+          "character": "SPOCK",
+          "line": "Sir, you are employing a double negative."
+        },
+        {
+          "character": "OXMYX",
+          "line": "Huh?"
+        },
+        {
+          "character": "SPOCK",
+          "line": "I fail to see why you do not understand us. You yourself have stated the need for unity of authority on this planet. We agree."
+        },
+        {
+          "character": "OXMYX",
+          "line": "Yeah, but I got to be the unity."
+        },
+        {
+          "character": "SPOCK",
+          "line": "Co-operation, sir, would inevitably result"
+        },
+        {
+          "character": "OXMYX",
+          "line": "The most co-operative man in this world is a dead man. And if you don't keep your mouth shut, you're going to be co-operatin'."
+        },
+        {
+          "character": "KIRK",
+          "line": "Drop the guns. Drop 'em. Move down there."
+        },
+        {
+          "character": "OXMYX",
+          "line": "Hey, Captain, you got away from Krako. You know, that ain't easy."
+        },
+        {
+          "character": "KIRK",
+          "line": "I thought you were supposed to report to the ship, Mister Spock."
+        },
+        {
+          "character": "SPOCK",
+          "line": "We did, Captain. The situation required our return."
+        },
+        {
+          "character": "KIRK",
+          "line": "It may be just as well. Did you find out anything from the computer?"
+        },
+        {
+          "character": "SPOCK",
+          "line": "Nothing useful. Logic and practical information do not seem to apply here."
+        },
+        {
+          "character": "MCCOY",
+          "line": "You admit that?"
+        },
+        {
+          "character": "SPOCK",
+          "line": "To deny the facts would be illogical, Doctor."
+        },
+        {
+          "character": "KIRK",
+          "line": "Then you don't mind if I play a hunch?"
+        },
+        {
+          "character": "SPOCK",
+          "line": "I'm not sanguine about hunches, Captain, but I have no practical alternative."
+        },
+        {
+          "character": "MCCOY",
+          "line": "What are we going to do now, Jim?"
+        },
+        {
+          "character": "KIRK",
+          "line": "Well, now that we have Bela, I'm going to put the bag on Krako. Listen, you. Say, that's nice material."
+        },
+        {
+          "character": "MAN",
+          "line": "It ought to be. It cost a bundle. KIRK; Get out of 'em."
+        },
+        {
+          "character": "MAN",
+          "line": "Hey!"
+        },
+        {
+          "character": "KIRK",
+          "line": "I said."
+        },
+        {
+          "character": "KALO",
+          "line": "Now just a minute."
+        },
+        {
+          "character": "KIRK",
+          "line": "You too! Get out of the clothes. Nobody's going to put the bag on me any more."
+        }
+      ],
+      "location": "Oxmyx's office"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "KIRK",
+          "line": "Wheels, Mister Spock."
+        },
+        {
+          "character": "SPOCK",
+          "line": "A fliwer, Captain."
+        },
+        {
+          "character": "KIRK",
+          "line": "Key in the ignition. Turn the ignition on. And nothing happens. Where's the starter? There's the starter. Yes!"
+        },
+        {
+          "character": "SPOCK",
+          "line": "Interesting."
+        },
+        {
+          "character": "KIRK",
+          "line": "Oops! Gears."
+        },
+        {
+          "character": "SPOCK",
+          "line": "Yes. Oh. I believe they had a device known as a clutch. Clutch, Captain. Perhaps one of those pedals on the floor."
+        },
+        {
+          "character": "KIRK",
+          "line": "I kind of like this. I'm going to get one myself."
+        },
+        {
+          "character": "SPOCK",
+          "line": "Captain, you are an excellent starship commander, but as a taxi driver you leave much to be desired."
+        },
+        {
+          "character": "KIRK",
+          "line": "It was that bad?"
+        },
+        {
+          "character": "KIRK",
+          "line": "Now, that could be a bit of a problem. If they were inside, where they couldn't be seen, we could stun them with our phasers, but not out here."
+        },
+        {
+          "character": "SPOCK",
+          "line": "If we can get close enough to them, we should be able to render them harmless with reasonable rapidity."
+        },
+        {
+          "character": "KIRK",
+          "line": "They don't look like the trusting type."
+        },
+        {
+          "character": "BOY",
+          "line": "It's a hit, ain't it?"
+        },
+        {
+          "character": "SPOCK",
+          "line": "I beg your pardon?"
+        },
+        {
+          "character": "BOY",
+          "line": "You're going to hit somebody. Can I watch?"
+        },
+        {
+          "character": "KIRK",
+          "line": "Young man, run along and play."
+        },
+        {
+          "character": "BOY",
+          "line": "Where'd you get them ears?"
+        },
+        {
+          "character": "SPOCK",
+          "line": "Young man"
+        },
+        {
+          "character": "BOY",
+          "line": "You going to hit Krako out here? You open up and you'll be scragged from every window in the street. I can fix it for ya."
+        },
+        {
+          "character": "SPOCK",
+          "line": "Young man, this is likely to be quite hazardous."
+        },
+        {
+          "character": "KIRK",
+          "line": "Hold on, Spock. Out of the mouths of babes"
+        },
+        {
+          "character": "BOY",
+          "line": "Who you callin' a babe?"
+        },
+        {
+          "character": "KIRK",
+          "line": "I'm calling you a babe."
+        },
+        {
+          "character": "BOY",
+          "line": "You calling me a babe?"
+        },
+        {
+          "character": "KIRK",
+          "line": "Yeah I'm calling you a babe, but there's nothing personal in it. Sit down. You know a way we can get close to them?"
+        },
+        {
+          "character": "BOY",
+          "line": "Sure."
+        },
+        {
+          "character": "KIRK",
+          "line": "How?"
+        },
+        {
+          "character": "BOY",
+          "line": "What's in it for me?"
+        },
+        {
+          "character": "KIRK",
+          "line": "What do you want?"
+        },
+        {
+          "character": "BOY",
+          "line": "A piece of the action."
+        },
+        {
+          "character": "SPOCK",
+          "line": "You do not even know what the action is going to be."
+        },
+        {
+          "character": "BOY",
+          "line": "I figure it's got to be a thick percentage or you wouldn't be trying to hit Krako."
+        },
+        {
+          "character": "SPOCK",
+          "line": "Logical."
+        },
+        {
+          "character": "KIRK",
+          "line": "All right, young man. We'll guarantee you a piece of the action if we can pull this thing off."
+        },
+        {
+          "character": "BOY",
+          "line": "Is that a contract?"
+        },
+        {
+          "character": "KIRK",
+          "line": "Done. What do we do?"
+        },
+        {
+          "character": "BOY",
+          "line": "You'll know what to do."
+        },
+        {
+          "character": "BOY",
+          "line": "And that! And how do you like that? Think you can gang up on me, huh? What are you, chicken?"
+        },
+        {
+          "character": "BOY",
+          "line": "Come on, why don't you gang up on me? I'll cut off your head and throw it in your face! Take that, and that, and falls over) Daddy, Daddy, I hurt myself!"
+        },
+        {
+          "character": "KIRK",
+          "line": "That's it. Let's go."
+        },
+        {
+          "character": "GUARD",
+          "line": "What's the matter? Did you hurt yourself, kid?"
+        },
+        {
+          "character": "BOY",
+          "line": "I want my daddy!"
+        },
+        {
+          "character": "GUARD",
+          "line": "Cute kid, ain't he?"
+        },
+        {
+          "character": "BOY",
+          "line": "Daddy! I want my daddy!"
+        },
+        {
+          "character": "KIRK",
+          "line": "Sonny!"
+        },
+        {
+          "character": "BOY",
+          "line": "I want my daddy."
+        },
+        {
+          "character": "KIRK",
+          "line": "Sonny! Wait a moment. What have they done? What have they done to you? What have you done?"
+        },
+        {
+          "character": "KIRK",
+          "line": "A piece of the action."
+        }
+      ],
+      "location": "Street"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "KIRK",
+          "line": "No one can see. Put your phaser on stun."
+        },
+        {
+          "character": "KRAKO",
+          "line": "Well, ain't this nice? I was wondering how I was going to get you back, and here you deliver yourself! Who's your friend with the ears, Kirk?"
+        },
+        {
+          "character": "KIRK",
+          "line": "I think you've got it reversed, Mister Krako."
+        },
+        {
+          "character": "KRAKO",
+          "line": "I ain't, pally. Put down your heaters."
+        },
+        {
+          "character": "SPOCK",
+          "line": "Captain, I believe that perhaps it would be wise to do as he says. I just heard the sound of"
+        },
+        {
+          "character": "KIRK",
+          "line": "The sound of a machine gun bolt being pulled back."
+        },
+        {
+          "character": "KIRK",
+          "line": "Mister Krako, I don't, er"
+        },
+        {
+          "character": "KRAKO",
+          "line": "So this is the fancy heater, huh? How does it work?"
+        },
+        {
+          "character": "KIRK",
+          "line": "I'm trying to tell you, Mister Krako, that this is bigger than you, Oxmyx or anyone."
+        },
+        {
+          "character": "KRAKO",
+          "line": "The only thing I want you to tell me is how it works."
+        },
+        {
+          "character": "KIRK",
+          "line": "Can you trust all your men?"
+        },
+        {
+          "character": "KRAKO",
+          "line": "Of course I can!"
+        },
+        {
+          "character": "KIRK",
+          "line": "Well, one of these can make a man a pretty big boss, you know."
+        },
+        {
+          "character": "KRAKO",
+          "line": "I either trust 'em, or they're dead. Let's go in here and talk about it."
+        }
+      ],
+      "location": "Krako's HQ"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "KRAKO",
+          "line": "Now we got no busy little eyes to worry about. How does this thing work?"
+        },
+        {
+          "character": "KIRK",
+          "line": "All right, Krako, we don't have time to show you how to play with toys!"
+        },
+        {
+          "character": "KRAKO",
+          "line": "Toys?"
+        },
+        {
+          "character": "KIRK",
+          "line": "What do you think we're here for, to get a cut of your deal? Forget it. That's peanuts to an outfit like the Federation. Right?"
+        },
+        {
+          "character": "SPOCK",
+          "line": "Unquestionably."
+        },
+        {
+          "character": "KIRK",
+          "line": "Right?"
+        },
+        {
+          "character": "SPOCK",
+          "line": "Right."
+        },
+        {
+          "character": "KIRK",
+          "line": "Now look, Krako, we're taking over the whole ball of wax. You co-operate with us and maybe we'll cut you in for a piece of the action."
+        },
+        {
+          "character": "SPOCK",
+          "line": "A miniscule. A very small piece."
+        },
+        {
+          "character": "KRAKO",
+          "line": "How much is that?"
+        },
+        {
+          "character": "KIRK",
+          "line": "That's, er. We'll figure it out later."
+        },
+        {
+          "character": "KRAKO",
+          "line": "I thought you guys had laws. No interference."
+        },
+        {
+          "character": "KIRK",
+          "line": "Who's interfering? We're taking over. Check?"
+        },
+        {
+          "character": "SPOCK",
+          "line": "Right."
+        },
+        {
+          "character": "KIRK",
+          "line": "The planet is being taken over by the Federation, but we don't want to come in here and use our muscle, you know what I mean? That ain't subtle. So what we do is we help one guy take over the planet. He pulls the strings, and then we pull his. Hey, you, sit down."
+        },
+        {
+          "character": "KRAKO",
+          "line": "What's your cut?"
+        },
+        {
+          "character": "KIRK",
+          "line": "What do you care as long as you're being cut in? Course, there's always Bela Oxmyx."
+        },
+        {
+          "character": "KRAKO",
+          "line": "All right, it's a deal. Call your ship. Bring down your boys and whatever else you need."
+        },
+        {
+          "character": "KIRK",
+          "line": "Kirk to Enterprise."
+        },
+        {
+          "character": "SCOTT",
+          "line": "Enterprise. Scott here.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "KIRK",
+          "line": "All right, Scotty. We made a deal with Krako."
+        }
+      ],
+      "location": "Krako's office"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "SCOTT",
+          "line": "We did, sir?"
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "KIRK",
+          "line": "Yeah. We're ready to make the hit. We're taking over the whole planet as soon as you get ready."
+        }
+      ],
+      "location": "Krako's office"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "SCOTT",
+          "line": "Do you think that's wise, sir?"
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "KIRK",
+          "line": "Sure. We can trust Krako, but we don't have any choice. You know what I mean? He's standing about twelve feet in front of me, all ready to be our pal."
+        }
+      ],
+      "location": "Krako's office"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "KIRK",
+          "line": "Of course, Scotty, I'd like to show him the ship, just to show him that we're, er, we're on the level. But you know how it is.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "SCOTT",
+          "line": "Aye. I know indeed."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "KIRK",
+          "line": "Scotty, we'll need phasers to equip every one of Krako's men. We'll need advisors and troops to back him up on the hit. You got all that, Scotty?"
+        },
+        {
+          "character": "SCOTT",
+          "line": "Aye, Captain.",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "Krako's office"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "SCOTT",
+          "line": "Captain. We're preparing everything. It'll be ready when you give the word."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "KIRK",
+          "line": "You may begin, Mister Scott."
+        },
+        {
+          "character": "SCOTT",
+          "line": "Acknowledged, Captain.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "KRAKO",
+          "line": "You mean you're going to start sending down your boys now?"
+        },
+        {
+          "character": "KIRK",
+          "line": "Not exactly."
+        },
+        {
+          "character": "KIRK",
+          "line": "Right?"
+        },
+        {
+          "character": "SPOCK",
+          "line": "Check."
+        }
+      ],
+      "location": "Krako's office"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "KRAKO",
+          "line": "How the hell'd I get here? What? What happened? You. You must be that Scott fellow Kirk was talking to. I want to know what happened."
+        },
+        {
+          "character": "SCOTT",
+          "line": "It looks like we put the bag on you, doesn't it."
+        },
+        {
+          "character": "KRAKO",
+          "line": "I got rights."
+        },
+        {
+          "character": "SCOTT",
+          "line": "You've got nothing. You mind your place, mister, or you'll be wearing concrete galoshes."
+        },
+        {
+          "character": "KRAKO",
+          "line": "You mean cement overshoes?"
+        },
+        {
+          "character": "SCOTT",
+          "line": "Er. Aye."
+        }
+      ],
+      "location": "Transporter room"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "SPOCK",
+          "line": "Must we?"
+        },
+        {
+          "character": "KIRK",
+          "line": "It's faster than walking."
+        },
+        {
+          "character": "SPOCK",
+          "line": "But not as safe."
+        },
+        {
+          "character": "KIRK",
+          "line": "Are you afraid of cars?"
+        },
+        {
+          "character": "SPOCK",
+          "line": "Not at all, Captain. It's your driving that alarms me."
+        },
+        {
+          "character": "KIRK",
+          "line": "Spock, I've got the hang of it. Now go on."
+        }
+      ],
+      "location": "Street"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "ZABO",
+          "line": "Oh, not again. Hey, wake up. You all right? Hey, you guys. Come in here. The Feds snatched Krako. I never seen anything like it. They're going to move in unless we stop 'em now."
+        },
+        {
+          "character": "GUARD",
+          "line": "Yeah? How?"
+        },
+        {
+          "character": "ZABO",
+          "line": "Well, Bela's mixed up in this somehow. I've got a sneaking hunch they're going to high-tail it back to his territory. You know what we're going to do? We're going to hit his place."
+        }
+      ],
+      "location": "Krako's office"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "MCCOY",
+          "line": "Where are they?"
+        },
+        {
+          "character": "OXMYX",
+          "line": "Knowing Krako, he'll probably send them back on a blotter."
+        },
+        {
+          "character": "KIRK",
+          "line": "Wrong again, Oxmyx."
+        },
+        {
+          "character": "MCCOY",
+          "line": "Jim."
+        },
+        {
+          "character": "KIRK",
+          "line": "Knock it off, Sawbones. I want to talk to this creep. Now listen, I'm getting tired of playing pattycake with you penny-ante operators."
+        },
+        {
+          "character": "OXMYX",
+          "line": "What do you mean, penny-ante operator?"
+        },
+        {
+          "character": "KIRK",
+          "line": "You're a penny-ante operator. Sit down. All right, Spocko, cover him. Now listen, sweetheart. The Federation's moving in, taking over. You play ball, we'll cut you in. You don't, you're out. All the way out. You know what I mean?"
+        },
+        {
+          "character": "OXMYX",
+          "line": "Yeah, sure. Why didn't you say so in the first place? All you had to do was explain it to me."
+        },
+        {
+          "character": "KIRK",
+          "line": "Kirk to Enterprise."
+        }
+      ],
+      "location": "Oxmyx's office"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "SCOTT",
+          "line": "Enterprise. Scott here, sir."
+        }
+      ],
+      "location": "Transporter room"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "KIRK",
+          "line": "You got Krako on ice?"
+        },
+        {
+          "character": "SCOTT",
+          "line": "Aye, he's here. Mad enough",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "Oxmyx's office"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "SCOTT",
+          "line": "To chew neutronium, but behaving himself."
+        },
+        {
+          "character": "KIRK",
+          "line": "Okay, baby. Cool him till I flag you.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "SCOTT",
+          "line": "Flag me?"
+        }
+      ],
+      "location": "Transporter room"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "KIRK",
+          "line": "Keep him until I send for him. We're going to make some old-style phone calls from this locale. So you locate the man on the other end of the blower and give him a ride to this flop."
+        },
+        {
+          "character": "SCOTT",
+          "line": "What?",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "KIRK",
+          "line": "Find the man at the other end of the phone"
+        }
+      ],
+      "location": "Oxmyx's office"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "KIRK",
+          "line": "And transport him to these co-ordinates.",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "Transporter room"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "KIRK",
+          "line": "Can do, sweetheart?"
+        }
+      ],
+      "location": "Oxmyx's office"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "SCOTT",
+          "line": "Can do, Captain."
+        }
+      ],
+      "location": "Transporter room"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "SCOTT",
+          "line": "Standing by.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "KIRK",
+          "line": "Now you. Get on the blower and call the other bosses."
+        },
+        {
+          "character": "OXMYX",
+          "line": "I sure don't know what you think you're talking about."
+        },
+        {
+          "character": "KIRK",
+          "line": "Get with it. I'm giving the orders here."
+        },
+        {
+          "character": "OXMYX",
+          "line": "Hello. Hello?"
+        },
+        {
+          "character": "KIRK",
+          "line": "Scotty?"
+        },
+        {
+          "character": "SCOTT",
+          "line": "Scott here.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "OXMYX",
+          "line": "Guess who?"
+        },
+        {
+          "character": "KIRK",
+          "line": "Lock in and energize."
+        },
+        {
+          "character": "OXMYX",
+          "line": "Yeah, you bet your life I've got a lot of nerve. What are you going to do about it?"
+        },
+        {
+          "character": "TEPO",
+          "line": "Coming over with my boys and we Mother."
+        },
+        {
+          "character": "OXMYX",
+          "line": "Hey, Captain, that ain't bad."
+        },
+        {
+          "character": "KIRK",
+          "line": "Yeah."
+        },
+        {
+          "character": "SPOCK",
+          "line": "I would advise you to keep dialing, Oxmyx."
+        }
+      ],
+      "location": "Oxmyx's office"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "ZABO",
+          "line": "All right. You know what to do. We hit Bela's place and nobody comes out alive. All right. Let's go."
+        }
+      ],
+      "location": "Krako's office"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "KIRK",
+          "line": "All right! All right! All right! All right! Now the Federation's taking over whether you like it or not. You people, you've been running this planet like a piecework factory. From now on, it's going to be under one roof. You're going to run it like a business. That means you're going to make a profit."
+        },
+        {
+          "character": "TEPO",
+          "line": "And what's your percentage?"
+        },
+        {
+          "character": "KIRK",
+          "line": "I'm cutting the Federation in for forty percent. You got any objections?"
+        },
+        {
+          "character": "TEPO",
+          "line": "Yeah! I hear a lot of talk, but all I see here is you and a couple of your boys. I don't see no Federation."
+        },
+        {
+          "character": "KRAKO",
+          "line": "Listen. They got a ship. I know. I was there."
+        },
+        {
+          "character": "OXMYX",
+          "line": "Wait a minute. Wait a minute. Tepo's got a point. All we ever seen is them."
+        },
+        {
+          "character": "TEPO",
+          "line": "What, a couple of boys?"
+        },
+        {
+          "character": "KRAKO",
+          "line": "I'm not going to believe my eyes."
+        },
+        {
+          "character": "KIRK",
+          "line": "Hang on a minute. Hang on a minute. Quiet! Just a moment!"
+        },
+        {
+          "character": "KRAKO",
+          "line": "Let me say something. I only saw three guys in that ship. Maybe there ain't no more."
+        },
+        {
+          "character": "KIRK",
+          "line": "There are over four hundred guys there."
+        },
+        {
+          "character": "KRAKO",
+          "line": "That's your story, buster."
+        },
+        {
+          "character": "KRAKO",
+          "line": "Hey, it's my boys. They're making a hit at this place."
+        },
+        {
+          "character": "OXMYX",
+          "line": "My boys will put you down."
+        },
+        {
+          "character": "KRAKO",
+          "line": "Want to bet? Keep moving. One move out of you two, I'll drill them. Give me the hardware."
+        },
+        {
+          "character": "OXMYX",
+          "line": "Hey, that's great, Krako. Now we got hostages again. We can make a deal with the Feds up there."
+        },
+        {
+          "character": "KRAKO",
+          "line": "Are you kidding? This one's all mine. From now on, nobody's going no place. I'm going to be the big boss in this here territory."
+        },
+        {
+          "character": "KIRK",
+          "line": "Now, wait a minute. Wait a minute. Get that heater down. Don't you want to take a look at what you're going to fight?"
+        },
+        {
+          "character": "KRAKO",
+          "line": "I already seen it. You're nothing, Fed."
+        },
+        {
+          "character": "KIRK",
+          "line": "All right, but at least let me call my ship one last time and say goodbye."
+        },
+        {
+          "character": "KRAKO",
+          "line": "Well, all right. Go ahead. Don't get smart."
+        },
+        {
+          "character": "KIRK",
+          "line": "Hello, Scotty. This is Kirk."
+        }
+      ],
+      "location": "Oxmyx's office"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "SCOTT",
+          "line": "Enterprise. Scott here, sir."
+        },
+        {
+          "character": "KIRK",
+          "line": "Scotty, put the ship's phasers on stun. Fire a burst in a one-block radius around these co-ordinates.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "SCOTT",
+          "line": "Right away, sir. Scott out."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "KRAKO",
+          "line": "Gee, that's some trick."
+        },
+        {
+          "character": "OXMYX",
+          "line": "Hey, did you see that?"
+        },
+        {
+          "character": "KIRK",
+          "line": "They're not dead, just knocked out for a while. But they might just as well have been that way if we wanted them to."
+        },
+        {
+          "character": "OXMYX",
+          "line": "Okay, okay, Kirk, so we get the message. Now, what was this syndicate deal you were talking about?"
+        },
+        {
+          "character": "TEPO",
+          "line": "He was talking about a percentage."
+        },
+        {
+          "character": "KIRK",
+          "line": "I was talking about both."
+        },
+        {
+          "character": "OXMYX",
+          "line": "Okay. A syndicate makes sense to me. I'm a peaceful man at heart, but I'm sick and tired of all these hits. I hit Krako, Krako hits Tepo, Tepo hits me. There's too many bosses. We can't get anything done. I was thinking if there was just one, maybe somebody like you, as the top boss, then we can get things done."
+        },
+        {
+          "character": "KIRK",
+          "line": "Hey, Bela, no, no, no. The Federation can't get connected with a small-time operation like this. No, I was thinking, Bela, you would be the top boss. Krako, you'd be his lieutenant. The rest of you, I don't want any trouble from the rest of you because you'll have to answer to the Federation. We'll be back every year to collect our cut."
+        },
+        {
+          "character": "TEPO",
+          "line": "Look, you figure maybe forty percent's enough?"
+        },
+        {
+          "character": "KIRK",
+          "line": "Yeah, I think forty percent's sufficient."
+        },
+        {
+          "character": "OXMYX",
+          "line": "It's reasonable. It sounds reasonable. That sound reasonable to you?"
+        },
+        {
+          "character": "KIRK",
+          "line": "It's reasonable, Mister Oxmyx. Let's break out some of your drinking stuff and celebrate the syndicate."
+        }
+      ],
+      "location": "Oxmyx's office"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "KIRK",
+          "line": "Gentlemen, you two have been brooding ever since we returned to the ship."
+        },
+        {
+          "character": "SPOCK",
+          "line": "Brooding, Captain?"
+        },
+        {
+          "character": "KIRK",
+          "line": "Brooding, Mister Spock. A somber, emotional state. Now, do you wish to continue it or are you going to diskuss it?"
+        },
+        {
+          "character": "SPOCK",
+          "line": "Captain, I'm neither brooding nor somber. But I do have reservations about your solution to the problem of the Iotians."
+        },
+        {
+          "character": "KIRK",
+          "line": "Ah, yes. I understand that. You don't think it's logical to leave a criminal organization in charge."
+        },
+        {
+          "character": "SPOCK",
+          "line": "Highly irregular, to say the least, Captain. I'm also curious as to how you propose to explain to Starfleet Command that a starship will be sent each year to collect our cut."
+        },
+        {
+          "character": "KIRK",
+          "line": "Yes, that's a very good question, Mister Spock. I propose our cut be put into the planetary treasury and used to guide the Iotians into a more ethical system. Despite themselves, they'll be forced to accept conventional responsibilities. Isn't that logical? All right, Bones, in the language of the planet, what's your beef?"
+        },
+        {
+          "character": "MCCOY",
+          "line": "I don't know how serious this is, Jim, and I don't quite know how to tell you"
+        },
+        {
+          "character": "KIRK",
+          "line": "Go ahead."
+        },
+        {
+          "character": "MCCOY",
+          "line": "But in all the confusion I"
+        },
+        {
+          "character": "KIRK",
+          "line": "Tell me."
+        },
+        {
+          "character": "MCCOY",
+          "line": "I think I left it in Bela's office."
+        },
+        {
+          "character": "KIRK",
+          "line": "You left it?"
+        },
+        {
+          "character": "MCCOY",
+          "line": "Somewhere. I'm not certain."
+        },
+        {
+          "character": "KIRK",
+          "line": "You're not certain of what?"
+        },
+        {
+          "character": "MCCOY",
+          "line": "I left my communicator."
+        },
+        {
+          "character": "KIRK",
+          "line": "In Bela's office?"
+        },
+        {
+          "character": "SPOCK",
+          "line": "Captain. If the Iotians, who are very bright and imitative people, should take that communicator apart"
+        },
+        {
+          "character": "KIRK",
+          "line": "They will, they will. And they'll find out how the transtator works."
+        },
+        {
+          "character": "SPOCK",
+          "line": "The transtator is the basis for every important piece of equipment that we have."
+        },
+        {
+          "character": "KIRK",
+          "line": "Everything."
+        },
+        {
+          "character": "MCCOY",
+          "line": "You really think it's that serious?"
+        },
+        {
+          "character": "KIRK",
+          "line": "Serious? Serious, Bones? It upsets the whole percentage."
+        },
+        {
+          "character": "MCCOY",
+          "line": "How do you mean?"
+        },
+        {
+          "character": "KIRK",
+          "line": "Well, in a few years, the Iotians may demand a piece of our action."
+        }
+      ],
+      "location": "Bridge"
+    }
+  ],
+  "schedule": {
+    "episode": 20,
+    "number": 49,
+    "season": 2
+  },
+  "stardate": "4598.0",
+  "title": "A Piece Of The Action"
+}

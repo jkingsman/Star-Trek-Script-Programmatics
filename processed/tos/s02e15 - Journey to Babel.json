@@ -1,0 +1,1837 @@
+{
+  "airdate": -67017600,
+  "scenes": [
+    {
+      "dialogue": [
+        {
+          "character": "MCCOY",
+          "line": "Dress uniforms, spit and polish. I don't know how much longer I'm going to be able to stand this. I feel like my neck's in a sling."
+        },
+        {
+          "character": "KIRK",
+          "line": "The Vulcans are the last delegates we have to pick up. As soon as we get them aboard, we'll be able to relax."
+        }
+      ],
+      "location": "Kirk's quarters"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "MCCOY",
+          "line": "Sure. A formal reception tonight, a hundred and fourteen delegates aboard for two weeks, thirty two of them ambassadors, half of them mad at the other half, and the whole lot touchier than a raw antimatter pile over this Coridan question."
+        },
+        {
+          "character": "KIRK",
+          "line": "Kirk here."
+        },
+        {
+          "character": "CHEKOV",
+          "line": "Shuttlecraft approaching with Ambassador Sarek's party. Estimate arrival one minute.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "KIRK",
+          "line": "Bring them aboard, Mister Chekov."
+        },
+        {
+          "character": "CHEKOV",
+          "line": "Standby to recover shuttlecraft. Honor guard to the hangar deck.",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "Corridor"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "VOICE",
+          "line": "Clear hangar deck. Clear hangar deck. Depressurizing. Recovering shuttlecraft. Hangar deck pressurizing.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "MCCOY",
+          "line": "How does that Vulcan salute go?"
+        },
+        {
+          "character": "MCCOY",
+          "line": "That hurts worse than the uniform."
+        },
+        {
+          "character": "KIRK",
+          "line": "Captain James Kirk."
+        },
+        {
+          "character": "SAREK",
+          "line": "Captain."
+        },
+        {
+          "character": "KIRK",
+          "line": "My First Officer, Commander Spock."
+        },
+        {
+          "character": "SPOCK",
+          "line": "Vulcan honors us with your presence. We come to serve."
+        },
+        {
+          "character": "SAREK",
+          "line": "Your service honors us, Captain."
+        },
+        {
+          "character": "KIRK",
+          "line": "Thank you. Chief Medical Officer Doctor McCoy."
+        },
+        {
+          "character": "MCCOY",
+          "line": "Ambassador."
+        },
+        {
+          "character": "SAREK",
+          "line": "Doctor. My aides and she who is my wife."
+        },
+        {
+          "character": "AMANDA",
+          "line": "Captain Kirk."
+        },
+        {
+          "character": "KIRK",
+          "line": "Our pleasure, madam. As soon as you're settled I'll arrange a tour of the ship. Mister Spock will conduct you."
+        },
+        {
+          "character": "SAREK",
+          "line": "I'd prefer another guide, Captain."
+        },
+        {
+          "character": "KIRK",
+          "line": "As you wish, Ambassador. Mister Spock, we'll leave orbit in two hours. Would you care to beam down and visit your parents?"
+        },
+        {
+          "character": "SPOCK",
+          "line": "Captain, Ambassador Sarek and his wife are my parents."
+        },
+        {
+          "character": "KIRK",
+          "line": "Captain's log, Stardate 3842.3. We have departed Vulcan for the neutral planetoid code-named Babel. Since it is in our sector, the Enterprise has been assigned to transport ambassadors of Federation planets to this vitally important council. The issues of the council are politically complex, the passengers explosive.",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "Hangar deck"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "KIRK",
+          "line": "This is the engineering section. There are a number of emergency back-up systems for the main controls. Over here are a number of control computers."
+        },
+        {
+          "character": "AMANDA",
+          "line": "After all these years among humans, you still haven't learned to smile."
+        },
+        {
+          "character": "SPOCK",
+          "line": "Humans smile with so little provocation."
+        },
+        {
+          "character": "AMANDA",
+          "line": "And you haven't come to see us in four years, either."
+        },
+        {
+          "character": "SPOCK",
+          "line": "The situation between my father and myself has not changed."
+        },
+        {
+          "character": "SAREK",
+          "line": "My wife, attend."
+        },
+        {
+          "character": "KIRK",
+          "line": "Mister Spock. A moment, if you please."
+        },
+        {
+          "character": "SPOCK",
+          "line": "Yes, Captain?"
+        },
+        {
+          "character": "KIRK",
+          "line": "Explain the computer components."
+        },
+        {
+          "character": "SAREK",
+          "line": "I gave Spock his first instruction in computers, Captain. He chose to devote his knowledge to Starfleet instead of the Vulcan Science Academy."
+        },
+        {
+          "character": "SPOCK",
+          "line": "If you will excuse me, Captain."
+        },
+        {
+          "character": "KIRK",
+          "line": "I'm sorry, Ambassador. I did not mean to offend. I thought that"
+        },
+        {
+          "character": "SAREK",
+          "line": "Offense is a human emotion. I'm returning to my quarters. Continue, my wife."
+        },
+        {
+          "character": "KIRK",
+          "line": "Mrs. Sarek, I just don't understand."
+        },
+        {
+          "character": "AMANDA",
+          "line": "Amanda. I'm afraid you couldn't pronounce the Vulcan name."
+        },
+        {
+          "character": "KIRK",
+          "line": "Can you?"
+        },
+        {
+          "character": "AMANDA",
+          "line": "After a fashion, and after many years of practice. Shall we continue the tour? My husband did request it."
+        },
+        {
+          "character": "KIRK",
+          "line": "It sounded more like a command."
+        },
+        {
+          "character": "AMANDA",
+          "line": "Of course. He's a Vulcan. I'm his wife."
+        },
+        {
+          "character": "KIRK",
+          "line": "And Spock is his son."
+        },
+        {
+          "character": "AMANDA",
+          "line": "You don't understand the Vulcan way, Captain. It's logical. It's a better way than ours. But it's not easy. It has kept Spock and Sarek from speaking as father and son for eighteen years."
+        },
+        {
+          "character": "KIRK",
+          "line": "Spock is my best officer, and my friend."
+        },
+        {
+          "character": "AMANDA",
+          "line": "I'm glad he has such a friend. It hasn't been easy on Spock. Neither human nor Vulcan. At home nowhere except Starfleet."
+        },
+        {
+          "character": "KIRK",
+          "line": "I take it that Spock disagreed with his father on a choice of career."
+        },
+        {
+          "character": "AMANDA",
+          "line": "My husband has nothing against Starfleet. But Vulcans believe that peace should not depend on force."
+        },
+        {
+          "character": "KIRK",
+          "line": "Starfleet force is used only as a last resort. We're an instrument of civilisation. And it's a better opportunity for a scientist to study the universe than he can get at the Vulcan Science Academy."
+        },
+        {
+          "character": "AMANDA",
+          "line": "Perhaps. But Sarek wanted Spock to follow his teachings, as Sarek followed the teachings of his own father."
+        },
+        {
+          "character": "KIRK",
+          "line": "They are both stubborn."
+        },
+        {
+          "character": "AMANDA",
+          "line": "A human trait, Captain?"
+        },
+        {
+          "character": "UHURA",
+          "line": "Bridge to Captain Kirk.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "KIRK",
+          "line": "Excuse me. Kirk here."
+        },
+        {
+          "character": "UHURA",
+          "line": "Captain, I've picked up some sort of signal. Just a few symbols. Nothing intelligible.",
+          "modifier": "screen"
+        },
+        {
+          "character": "KIRK",
+          "line": "Source?"
+        },
+        {
+          "character": "UHURA",
+          "line": "That's what bothers me, sir. Impossible to locate. There wasn't enough of it. Sensors show nothing in the area, but it was a strong signal, as though it was very close.",
+          "modifier": "screen"
+        },
+        {
+          "character": "KIRK",
+          "line": "Go to alert status four. Begin long-range scanning. Kirk out."
+        },
+        {
+          "character": "KIRK",
+          "line": "Captain's log, Stardate 3842.4. The interplanetary conference will consider the petition of the Coridan planets to be admitted to the Federation. The Coridan system has been claimed by some of the races now aboard our ship as delegates, races who have strong personal reasons for keeping Coridan out of the Federation. The most pressing problem aboard the Enterprise is to make sure open warfare doesn't break out among the delegates before the conference begins.",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "Engineering"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "MCCOY",
+          "line": "Mister Ambassador, I understand you had retired before this conference was called. Forgive my curiosity, but as a doctor, I'm interested in Vulcan physiology. Isn't it unusual for a Vulcan to retire at your age? After all, you're only a hundred and two."
+        },
+        {
+          "character": "SAREK",
+          "line": "One hundred two point four three seven precisely, Doctor, measured in your years. I had other concerns."
+        },
+        {
+          "character": "KIRK",
+          "line": "Ambassador."
+        },
+        {
+          "character": "GAV",
+          "line": "Sarek of Vulcan, do you vote to admit Coridan to the Federation?"
+        },
+        {
+          "character": "SAREK",
+          "line": "The vote will not be taken here, Ambassador Gav. My government's instructions will be heard in the council chambers on Babel."
+        },
+        {
+          "character": "GAV",
+          "line": "No! You! How do you vote, Sarek of Vulcan?"
+        },
+        {
+          "character": "SHRAS",
+          "line": "Why must you know, Tellarite?"
+        },
+        {
+          "character": "GAV",
+          "line": "In council, his vote carries others. I will know where he stands and why."
+        },
+        {
+          "character": "SAREK",
+          "line": "Tellarites do not argue for reasons. They simply argue."
+        },
+        {
+          "character": "GAV",
+          "line": "No. You"
+        },
+        {
+          "character": "KIRK",
+          "line": "Gentlemen. Ambassador Sarek is quite correct when he points out this is not the council chamber of Babel. I'm fully aware that the admission of Coridan is a highly debatable issue, but you won't solve it here."
+        },
+        {
+          "character": "SAREK",
+          "line": "You are correct, Captain. Quite logical."
+        },
+        {
+          "character": "SHRAS",
+          "line": "My apologies, Captain."
+        },
+        {
+          "character": "GAV",
+          "line": "You will excuse me."
+        },
+        {
+          "character": "SHRAS",
+          "line": "Have you met Gav before, Ambassador?"
+        },
+        {
+          "character": "SAREK",
+          "line": "We debated during my last council session. Ambassador."
+        },
+        {
+          "character": "AMANDA",
+          "line": "Ambassador Gav lost."
+        },
+        {
+          "character": "MCCOY",
+          "line": "Spock, I've always suspected that you were a little more human than you let on. Mrs. Sarek, I know about the rigorous training of the Vulcan youth, but tell me, did he ever run and play like the human children, even in secret?"
+        },
+        {
+          "character": "AMANDA",
+          "line": "Well, he, he did have a pet sehlat he was very fond of."
+        },
+        {
+          "character": "MCCOY",
+          "line": "Sehlat?"
+        },
+        {
+          "character": "AMANDA",
+          "line": "It's sort of a fat teddy bear."
+        },
+        {
+          "character": "MCCOY",
+          "line": "A teddy bear?"
+        },
+        {
+          "character": "SAREK",
+          "line": "Excuse me, Doctor. It has been a rather long day for my wife. Captain."
+        },
+        {
+          "character": "KIRK",
+          "line": "Ambassador."
+        },
+        {
+          "character": "MCCOY",
+          "line": "A teddy bear."
+        },
+        {
+          "character": "SPOCK",
+          "line": "Not precisely, Doctor. On Vulcan, the teddy bears are alive, and they have six-inch fangs."
+        },
+        {
+          "character": "CHEKOV",
+          "line": "Bridge to Captain Kirk.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "KIRK",
+          "line": "Kirk here."
+        },
+        {
+          "character": "CHEKOV",
+          "line": "Captain, sensors are registering an unidentified vessel pacing us.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "KIRK",
+          "line": "On my way. All duty personnel on Yellow Alert. Don't alarm the passengers. Kirk out."
+        }
+      ],
+      "location": "Lounge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "KIRK",
+          "line": "Report."
+        },
+        {
+          "character": "CHEKOV",
+          "line": "A small ship, Captain. It's been there five minutes, remaining outside phaser range at extreme limit of sensors."
+        },
+        {
+          "character": "KIRK",
+          "line": "Identification, Spock?"
+        },
+        {
+          "character": "SPOCK",
+          "line": "Sensors indicate the size of a scout ship, but the configuration is unfamiliar. Most unusual."
+        },
+        {
+          "character": "KIRK",
+          "line": "Does she answer a hail?"
+        },
+        {
+          "character": "UHURA",
+          "line": "I've tried all frequencies and hooked in the universal translator. No response, sir. KIRK; Maintain translator broadcast. Check records for authorized ships."
+        },
+        {
+          "character": "SPOCK",
+          "line": "Starfleet records no authorized vessel in this quadrant except ours."
+        },
+        {
+          "character": "KIRK",
+          "line": "Care to guess what she is?"
+        },
+        {
+          "character": "SPOCK",
+          "line": "Guess, Captain? I shall need more data for my estimate."
+        },
+        {
+          "character": "KIRK",
+          "line": "Mister Chekov, plot course to intercept that vessel. I want to see what she looks like close up."
+        },
+        {
+          "character": "CHEKOV",
+          "line": "Aye, sir."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "SAREK",
+          "line": "You embarrassed Spock this evening. Not even a mother may do that. He is a Vulcan."
+        },
+        {
+          "character": "AMANDA",
+          "line": "He's also human."
+        },
+        {
+          "character": "SAREK",
+          "line": "He's a Starfleet officer."
+        },
+        {
+          "character": "AMANDA",
+          "line": "I thought you didn't approve of Starfleet."
+        },
+        {
+          "character": "SAREK",
+          "line": "It is not a question of approval. The fact exists. He is in Starfleet. He must command respect if he is to function."
+        },
+        {
+          "character": "AMANDA",
+          "line": "Sarek, you're proud of him, aren't you? You're showing almost human pride in your son."
+        },
+        {
+          "character": "SAREK",
+          "line": "It does not require pride to ask that Spock be given the respect which is his due. Not as my son, but as Spock. Do you understand?"
+        },
+        {
+          "character": "AMANDA",
+          "line": "Not really, but it doesn't matter. I love you anyway. I know. It isn't logical."
+        }
+      ],
+      "location": "Sarek's quarters"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "SPOCK",
+          "line": "Vessel changing course, heading toward us at high warp speed."
+        },
+        {
+          "character": "KIRK",
+          "line": "Ready main phasers."
+        },
+        {
+          "character": "CHEKOV",
+          "line": "Phasers armed and ready, sir."
+        },
+        {
+          "character": "SPOCK",
+          "line": "Interesting. They were traveling at approximately warp ten."
+        },
+        {
+          "character": "KIRK",
+          "line": "Back on original course, Mister Chekov. Report on intruder's movements."
+        },
+        {
+          "character": "UHURA",
+          "line": "Captain, Starfleet acknowledges report on our situation and confirms no authorized Federation vessel in this quadrant."
+        },
+        {
+          "character": "CHEKOV",
+          "line": "Back on original heading, Captain. The intruder changed course immediately after we did. It's paralleling us again."
+        },
+        {
+          "character": "KIRK",
+          "line": "Well, we have a shadow. Faster, more maneuverable and unidentified. Mister Spock, full analysis of sensor readings. I want to know who that intruder is."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "GAV",
+          "line": "Vulcan, I would speak to you."
+        },
+        {
+          "character": "SAREK",
+          "line": "It does seem unavoidable."
+        },
+        {
+          "character": "GAV",
+          "line": "How do you vote on the Coridan admission?"
+        },
+        {
+          "character": "SAREK",
+          "line": "You seem unwilling to wait for the council meeting, Ambassador. No matter. We favor admission."
+        },
+        {
+          "character": "GAV",
+          "line": "You favor? Why?"
+        },
+        {
+          "character": "SAREK",
+          "line": "Under Federation law, Coridan can be protected and its wealth administered for the benefit of its people."
+        },
+        {
+          "character": "GAV",
+          "line": "That's well for you. Vulcan has no mining interest."
+        },
+        {
+          "character": "SAREK",
+          "line": "Coridan has nearly unlimited wealth of dilithium crystals, but it is under-populated and unprotected. This invites illegal mining operations."
+        },
+        {
+          "character": "GAV",
+          "line": "Illegal? You accuse us?"
+        },
+        {
+          "character": "SAREK",
+          "line": "Some of your ships have been carrying Coridan dilithium crystals."
+        },
+        {
+          "character": "GAV",
+          "line": "You call us thieves?"
+        },
+        {
+          "character": "KIRK",
+          "line": "Gentlemen. Gentlemen. Whatever arguments you have between yourselves is your business. My business is running the ship. As long as I command, there will be order."
+        },
+        {
+          "character": "SAREK",
+          "line": "Of course, Captain."
+        },
+        {
+          "character": "GAV",
+          "line": "Understood. There will be payment for your slander, Sarek."
+        },
+        {
+          "character": "SAREK",
+          "line": "Threats are illogical. And payment is usually expensive."
+        }
+      ],
+      "location": "Lounge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "JOSEPH",
+          "line": "Security to Captain Kirk."
+        }
+      ],
+      "location": "Corridor"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "KIRK",
+          "line": "Kirk here."
+        },
+        {
+          "character": "JOSEPH",
+          "line": "Lieutenant Joseph, sir. I'm on deck eleven, section A3. I've just found one of the Tellarites murdered. I think it's the ambassador himself, sir.",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "Kirk's quarters"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "KIRK",
+          "line": "How was he killed?"
+        },
+        {
+          "character": "MCCOY",
+          "line": "His neck was broken. By an expert."
+        },
+        {
+          "character": "KIRK",
+          "line": "Explain."
+        },
+        {
+          "character": "MCCOY",
+          "line": "Well, from the nature and location of the break, I'd say the killer knew exactly where to apply pressure to snap the neck instantly."
+        },
+        {
+          "character": "KIRK",
+          "line": "Who aboard would have that knowledge?"
+        },
+        {
+          "character": "SPOCK",
+          "line": "Vulcans. On Vulcan, the method is called tal-shaya. It was considered a merciful form of execution in ancient times."
+        },
+        {
+          "character": "KIRK",
+          "line": "Spock. A short time ago, I broke up an argument between Gav and your father."
+        },
+        {
+          "character": "SPOCK",
+          "line": "Indeed, Captain? Interesting."
+        },
+        {
+          "character": "MCCOY",
+          "line": "Interesting? Spock, do you realize that makes your father the most likely suspect?"
+        },
+        {
+          "character": "SPOCK",
+          "line": "Vulcans do not approve of violence."
+        },
+        {
+          "character": "KIRK",
+          "line": "You're saying he couldn't have done it?"
+        },
+        {
+          "character": "SPOCK",
+          "line": "No, Captain. I'm merely saying it would be illogical to kill without reason."
+        },
+        {
+          "character": "KIRK",
+          "line": "But if he had a reason, could he have done it?"
+        },
+        {
+          "character": "SPOCK",
+          "line": "If there were a reason, my father is quite capable of killing. Logically and efficiently."
+        }
+      ],
+      "location": "Corridor"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "KIRK",
+          "line": "Mrs. Sarek, I'm sorry to disturb you. I must speak to your husband."
+        },
+        {
+          "character": "AMANDA",
+          "line": "He's been gone for some time. It's his habit to meditate in private before retiring. What's wrong? Spock?"
+        },
+        {
+          "character": "SAREK",
+          "line": "You want something of me, Captain?"
+        },
+        {
+          "character": "KIRK",
+          "line": "Ambassador, the Tellarite. Gav has been murdered."
+        },
+        {
+          "character": "MCCOY",
+          "line": "His neck was broken, Mister Ambassador, by what Spock describes as tal-shaya."
+        },
+        {
+          "character": "SAREK",
+          "line": "Indeed? Interesting."
+        },
+        {
+          "character": "KIRK",
+          "line": "Yes. Ambassador, where were you during the past hour?"
+        },
+        {
+          "character": "AMANDA",
+          "line": "Captain, you're not accusing him?"
+        },
+        {
+          "character": "SPOCK",
+          "line": "Mother. If only on circumstantial evidence, he is a logical suspect."
+        },
+        {
+          "character": "SAREK",
+          "line": "I quite agree."
+        },
+        {
+          "character": "KIRK",
+          "line": "Then where were you during the hour?"
+        },
+        {
+          "character": "SAREK",
+          "line": "In private meditation, Captain. Spock will tell you that such meditation is a personal experience, not to be diskussed. especially not with Earthmen."
+        },
+        {
+          "character": "KIRK",
+          "line": "That's a very convenient excuse, Ambassador."
+        },
+        {
+          "character": "AMANDA",
+          "line": "Sarek. Sarek. What's wrong?"
+        },
+        {
+          "character": "MCCOY",
+          "line": "It's difficult to say with Vulcan physiology, but I believe it's something to do with his cardiovascular system."
+        },
+        {
+          "character": "KIRK",
+          "line": "Can you help him?"
+        },
+        {
+          "character": "MCCOY",
+          "line": "I don't know that yet either."
+        }
+      ],
+      "location": "Sarek's quarters"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "KIRK",
+          "line": "Spock?"
+        },
+        {
+          "character": "SPOCK",
+          "line": "Yes, Captain. I get sensor readings of tri-tritanium from the alien ship's hull."
+        },
+        {
+          "character": "KIRK",
+          "line": "I'm sorry about your father."
+        },
+        {
+          "character": "SPOCK",
+          "line": "Yes, it could adversely affect our mission."
+        },
+        {
+          "character": "KIRK",
+          "line": "Aren't you worried about him?"
+        },
+        {
+          "character": "SPOCK",
+          "line": "Worry is a human emotion, Captain. I accept what has happened. The ship's hull seems to have a high density level or is cloaked against sensor probes. It is manned, but sensors cannot make out specifics."
+        },
+        {
+          "character": "KIRK",
+          "line": "I see. Well, the Romulans have nothing like it. Certainly not the Federation or the neutral planets. What about the Klingons?"
+        },
+        {
+          "character": "SPOCK",
+          "line": "I think it unlikely it is one of theirs."
+        },
+        {
+          "character": "KIRK",
+          "line": "Who, then?"
+        },
+        {
+          "character": "UHURA",
+          "line": "Captain? I picked up the last part of a transmission. Just like that other one. I put the recorder and the directional locator on it immediately."
+        },
+        {
+          "character": "KIRK",
+          "line": "Mister Chekov, directional locator indicates source bearing twenty seven, mark eight."
+        },
+        {
+          "character": "CHEKOV",
+          "line": "It's the intruder ship, sir."
+        },
+        {
+          "character": "KIRK",
+          "line": "Switch recorder to Mister Spock's station for decode, Lieutenant."
+        },
+        {
+          "character": "UHURA",
+          "line": "Sir, the directional locator indicates reception point somewhere within the body of this ship."
+        },
+        {
+          "character": "KIRK",
+          "line": "A personal receiver? Somebody on board is in contact with that vessel?"
+        },
+        {
+          "character": "SPOCK",
+          "line": "Possibly, Captain. But I cannot decode this transmission."
+        },
+        {
+          "character": "KIRK",
+          "line": "Why not?"
+        },
+        {
+          "character": "SPOCK",
+          "line": "It is in no known code. There's no detectable pattern. No standard references apply."
+        },
+        {
+          "character": "KIRK",
+          "line": "Are any conclusions possible from the information?"
+        },
+        {
+          "character": "SPOCK",
+          "line": "Only negative. It fits none of our computer records, and it is alien."
+        },
+        {
+          "character": "KIRK",
+          "line": "Murder? Someone out there playing tag? Lieutenant, you've got your sensor locator on a wide beam. You've established a receiver on board this vessel. Tighten your field to the interior of the ship."
+        },
+        {
+          "character": "UHURA",
+          "line": "Yes, sir."
+        },
+        {
+          "character": "KIRK",
+          "line": "If that alien vessel starts transmitting again, I want to know who on board the Enterprise is receiving."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "KIRK",
+          "line": "Bones, how is he?"
+        },
+        {
+          "character": "MCCOY",
+          "line": "As far as I can tell from instrument readings, our prime suspect has a malfunction in one of the heart valve. It's similar to a heart attack in a human. But with Vulcan physiology, it's impossible to tell without an operation. Mrs. Sarek, has he had any previous attacks?"
+        },
+        {
+          "character": "AMANDA",
+          "line": "No."
+        },
+        {
+          "character": "SAREK",
+          "line": "Yes. There were three others. My physician prescribed Benjisidrine for the condition."
+        },
+        {
+          "character": "AMANDA",
+          "line": "Why didn't you tell me?"
+        },
+        {
+          "character": "SAREK",
+          "line": "There was nothing you could have done."
+        },
+        {
+          "character": "KIRK",
+          "line": "Ambassador, when did you have these attacks?"
+        },
+        {
+          "character": "SAREK",
+          "line": "Two before we left Vulcan, the third a few hours ago. I was on the observation deck. When the Tellarite was murdered, I was quite incapacitated."
+        },
+        {
+          "character": "KIRK",
+          "line": "There were no witnesses?"
+        },
+        {
+          "character": "SAREK",
+          "line": "None."
+        },
+        {
+          "character": "SPOCK",
+          "line": "Doctor, do you propose surgery for the heart defect?"
+        },
+        {
+          "character": "MCCOY",
+          "line": "I'm not sure. It's tough enough on a human. On a Vulcan, an ordinary operation's out of the question."
+        },
+        {
+          "character": "KIRK",
+          "line": "Why?"
+        },
+        {
+          "character": "SAREK",
+          "line": "Because of the construction of the Vulcan heart."
+        },
+        {
+          "character": "SPOCK",
+          "line": "I suggest that a cryogenic open-heart procedure would be the logical approach."
+        },
+        {
+          "character": "SAREK",
+          "line": "Yes, unquestionably."
+        },
+        {
+          "character": "KIRK",
+          "line": "Bones, what about it?"
+        },
+        {
+          "character": "MCCOY",
+          "line": "Well, I'm glad somebody's asking me something around here. Well, the procedure they're diskussing would require tremendous amounts of blood for the patient."
+        },
+        {
+          "character": "CHAPEL",
+          "line": "Doctor?"
+        },
+        {
+          "character": "MCCOY",
+          "line": "Yes."
+        },
+        {
+          "character": "CHAPEL",
+          "line": "I've checked the blood bank. There isn't enough Vulcan blood and plasma to even begin such an operation of this type."
+        },
+        {
+          "character": "KIRK",
+          "line": "There are other Vulcans aboard."
+        },
+        {
+          "character": "SAREK",
+          "line": "My blood type is T-negative. Somewhat rare, even for a Vulcan."
+        },
+        {
+          "character": "MCCOY",
+          "line": "Yes, I'd say that's rare."
+        },
+        {
+          "character": "SPOCK",
+          "line": "My blood is T-negative, Doctor."
+        },
+        {
+          "character": "CHAPEL",
+          "line": "We've run a number of blood tests on Mister Spock. It isn't true Vulcan blood either. It has human blood elements in it."
+        },
+        {
+          "character": "SPOCK",
+          "line": "It should be possible to filter out the human factors."
+        },
+        {
+          "character": "MCCOY",
+          "line": "Even you couldn't give that much blood, Spock. It would kill you."
+        },
+        {
+          "character": "KIRK",
+          "line": "Bones."
+        },
+        {
+          "character": "MCCOY",
+          "line": "Mrs. Sarek, you must understand the chances are extremely small to find a way to produce sufficient T-negative blood."
+        },
+        {
+          "character": "SPOCK",
+          "line": "Indeed. I would estimate the odds"
+        },
+        {
+          "character": "AMANDA",
+          "line": "Please don't."
+        }
+      ],
+      "location": "Sickbay"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "SPOCK",
+          "line": "Doctor."
+        },
+        {
+          "character": "MCCOY",
+          "line": "I see it, Spock, but that was a Rigelian."
+        },
+        {
+          "character": "SPOCK",
+          "line": "Rigelian physiology is very similar to Vulcan."
+        },
+        {
+          "character": "MCCOY",
+          "line": "Similar is not good enough. It's still experimental."
+        },
+        {
+          "character": "SPOCK",
+          "line": "But it does look promising."
+        },
+        {
+          "character": "MCCOY",
+          "line": "Spock, we would need such great amounts of blood that, even if the drug worked on the Vulcans as well as a Rigelian, which I'm doubtful, it would still drain Sarek to a critical level."
+        },
+        {
+          "character": "SPOCK",
+          "line": "I consider the safety factor low, but acceptable."
+        },
+        {
+          "character": "MCCOY",
+          "line": "Plus the fact I've never operated on a Vulcan before. Oh, I've studied the anatomical types. I know where all the organs are. But that's a lot different from actual surgical experience. So if I don't kill him with the operation, the drug probably will."
+        },
+        {
+          "character": "AMANDA",
+          "line": "What drug, Doctor? My husband is asleep. What drug?"
+        },
+        {
+          "character": "MCCOY",
+          "line": "A chemical stimulant to speed up reproduction and replacement of blood in the body. It's only experimental."
+        },
+        {
+          "character": "SPOCK",
+          "line": "It has been used successfully on test subjects on Rigel Five."
+        },
+        {
+          "character": "MCCOY",
+          "line": "It places a tremendous strain on the spleen and the liver. In Sarek's condition, the stimulant would kill him."
+        },
+        {
+          "character": "SPOCK",
+          "line": "Miss Chapel? I underwent a physical examination last week. Would you pull those records, please?"
+        },
+        {
+          "character": "CHAPEL",
+          "line": "Already pulled. You're perfectly healthy, Mister Spock."
+        },
+        {
+          "character": "MCCOY",
+          "line": "What has that got"
+        },
+        {
+          "character": "AMANDA",
+          "line": "You're going to use it on yourself. A transfusion from you to your father."
+        },
+        {
+          "character": "SPOCK",
+          "line": "It would seem the only answer."
+        },
+        {
+          "character": "MCCOY",
+          "line": "It could damage you internally. It could kill you. I'm sorry, Spock. I can't sanction it."
+        },
+        {
+          "character": "AMANDA",
+          "line": "And I refuse to permit it. I won't risk both of you."
+        },
+        {
+          "character": "SPOCK",
+          "line": "Then you automatically condemn Sarek to death. And you, Doctor, have no logical alternative either. If you do not operate, Sarek will die. You now have the means to perform the operation. I am volunteering myself as the blood donor. I'll be at my station until you require me."
+        }
+      ],
+      "location": "McCoy's office"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "KIRK",
+          "line": "Bridge. Spock."
+        }
+      ],
+      "location": "Corridor"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "SPOCK",
+          "line": "Spock here."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "KIRK",
+          "line": "I'm on deck five, near my quarters. I've been attacked by an Andorian. Security. Security team."
+        },
+        {
+          "character": "SPOCK",
+          "line": "Captain? Captain? Captain?",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "KIRK",
+          "line": "Captain's log, stardate 3843.4. First Officer Spock in temporary command. The captain has been critically wounded by one of the delegates to the Babel conference. The ship is on alert status. We are still being followed by the intruder vessel.",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "Corridor"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "MCCOY",
+          "line": "It's a bad wound. Punctured left lung. A centimeter or so lower, it'd have gone through the heart."
+        },
+        {
+          "character": "SPOCK",
+          "line": "I'll be in the brig questioning the Andorian prisoner."
+        },
+        {
+          "character": "CHAPEL",
+          "line": "Doctor, the K2 factor is dropping."
+        },
+        {
+          "character": "MCCOY",
+          "line": "Spock, your father is much worse. There's no longer a choice. I have to operate immediately. We can begin as soon as you're prepared."
+        },
+        {
+          "character": "SPOCK",
+          "line": "No, Doctor."
+        },
+        {
+          "character": "MCCOY",
+          "line": "What?"
+        },
+        {
+          "character": "SPOCK",
+          "line": "My first responsibility is to the ship. Our passengers' safety is by Starfleet order of first importance. We are being followed by an alien, possibly hostile, vessel. I cannot relinquish command under these circumstances."
+        },
+        {
+          "character": "MCCOY",
+          "line": "You can turn command over to Scotty."
+        },
+        {
+          "character": "SPOCK",
+          "line": "On what grounds, Doctor? Command requirements do not recognize personal privilege. I'll be in the brig interrogating the Andorian."
+        }
+      ],
+      "location": "Sickbay"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "SHRAS",
+          "line": "He is Thelev, a minor member of my staff. I know nothing of him except that he has served adequately."
+        },
+        {
+          "character": "SPOCK",
+          "line": "He has been subjected to questioning under verifier scan and truth drug. He reveals nothing. I suggest his mind has been so conditioned as part of a preconceived plan."
+        },
+        {
+          "character": "SHRAS",
+          "line": "My people are a violent race, but we've no quarrel with Captain Kirk."
+        },
+        {
+          "character": "SPOCK",
+          "line": "Apparently Thelev did."
+        },
+        {
+          "character": "SHRAS",
+          "line": "You suggest a plot. How could it profit us to harm the captain?"
+        },
+        {
+          "character": "SPOCK",
+          "line": "I do not know. There is no logic in Thelev's attack upon the captain. There is no logic in Gav's murder."
+        },
+        {
+          "character": "SHRAS",
+          "line": "Perhaps you should forget logic and devote yourself to motivations of passion or gain. Those are reasons for murder."
+        }
+      ],
+      "location": "Brig"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "SPOCK",
+          "line": "Come in."
+        },
+        {
+          "character": "AMANDA",
+          "line": "Spock, you must turn command over to somebody else."
+        },
+        {
+          "character": "SPOCK",
+          "line": "Mother, when I was commissioned, I took an oath to carry out responsibilities which were clearly and exactly specified."
+        },
+        {
+          "character": "AMANDA",
+          "line": "Any competent officer can command this ship. Only you can give your father the blood transfusions that he needs to live."
+        },
+        {
+          "character": "SPOCK",
+          "line": "Any competent officer can command this ship under normal circumstances. The circumstances are not normal. We're carrying over one hundred valuable Federation passengers. We're being pursued by an alien ship. We're subject to possible attack. There has been murder and attempted murder on board. I cannot dismiss my duties."
+        },
+        {
+          "character": "AMANDA",
+          "line": "Duty? Your duty is to your father."
+        },
+        {
+          "character": "SPOCK",
+          "line": "I know, but this must take precedence. If I could give the transfusion without loss of time or efficiency, I would. Sarek understands my reason."
+        },
+        {
+          "character": "AMANDA",
+          "line": "Well, I don't. It's not human. That's not a dirty word. You're human, too. Let that part of you come through. Your father's dying."
+        },
+        {
+          "character": "SPOCK",
+          "line": "Mother, how can you have lived on Vulcan so long, married a Vulcan, raised a son on Vulcan, without understanding what it means to be a Vulcan?"
+        },
+        {
+          "character": "AMANDA",
+          "line": "If this is what it means, I don't want to know."
+        },
+        {
+          "character": "SPOCK",
+          "line": "It means to adopt a philosophy, a way of life, which is logical and beneficial. We cannot disregard that philosophy merely for personal gain, no matter how important that gain might be."
+        },
+        {
+          "character": "AMANDA",
+          "line": "Nothing is as important as your father's life."
+        },
+        {
+          "character": "SPOCK",
+          "line": "Can you imagine what my father would say if I were to agree, if I were to give up command of this vessel, jeopardize hundreds of lives, risk interplanetary war, all for the life of one person?"
+        },
+        {
+          "character": "AMANDA",
+          "line": "When you were five years old and came home stiff-lipped, anguished, because the other boys tormented you saying that you weren't really Vulcan. I watched you, knowing that inside that the human part of you was crying and I cried, too. There must be some part of me in you, some part that I still can reach. If being Vulcan is more important to you, then you'll stand there speaking rules and regulations from Starfleet and Vulcan philosophy, and let your father die. And I'll hate you for the rest of my life."
+        },
+        {
+          "character": "SPOCK",
+          "line": "Mother"
+        },
+        {
+          "character": "AMANDA",
+          "line": "Oh, go to him. Now. Please."
+        },
+        {
+          "character": "SPOCK",
+          "line": "I cannot."
+        }
+      ],
+      "location": "Spock's quarters"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "CHAPEL",
+          "line": "Doctor McCoy?"
+        },
+        {
+          "character": "KIRK",
+          "line": "I'd like to get my hands on the guy with the sledgehammer."
+        },
+        {
+          "character": "CHAPEL",
+          "line": "The one who hit you?"
+        },
+        {
+          "character": "KIRK",
+          "line": "No, the one inside my head. How long have I"
+        },
+        {
+          "character": "MCCOY",
+          "line": "Now let that be a lesson to you. Just lie there and be happy you're still alive."
+        },
+        {
+          "character": "KIRK",
+          "line": "How's Sarek?"
+        },
+        {
+          "character": "MCCOY",
+          "line": "Not good. If I could only operate."
+        },
+        {
+          "character": "KIRK",
+          "line": "What's stopping you? I thought you were all ready."
+        },
+        {
+          "character": "MCCOY",
+          "line": "I was. When you became injured, Spock assumed command. He's going to stay there until you're back on your feet, even if it costs Sarek his life. Regulations."
+        },
+        {
+          "character": "KIRK",
+          "line": "I can't damn him for his loyalty, for doing his duty, but I'm not going to let him commit patricide."
+        },
+        {
+          "character": "MCCOY",
+          "line": "Jim, if you stand, you could start to bleed again."
+        },
+        {
+          "character": "KIRK",
+          "line": "Bones, Sarek will die without that operation, and you can't operate without transfusions from Spock. I'll convince Spock I'm all right and order him to report here. As soon as he leaves the bridge, I'll turn command over to Scotty and report to my quarters. Will that fill your prescription?"
+        }
+      ],
+      "location": "Sickbay"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "SPOCK",
+          "line": "Captain?"
+        },
+        {
+          "character": "KIRK",
+          "line": "I'll take over, Mister Spock. You report to Sickbay with Doctor McCoy."
+        },
+        {
+          "character": "SPOCK",
+          "line": "Captain, are you quite all right?"
+        },
+        {
+          "character": "MCCOY",
+          "line": "I've certified him physically fit, Mister Spock. Now since I have an operation to perform and both of us are required"
+        },
+        {
+          "character": "KIRK",
+          "line": "Get out, Spock. Chekov, what's the status of the intruder?"
+        },
+        {
+          "character": "CHEKOV",
+          "line": "No change, sir. Maintaining its distance."
+        },
+        {
+          "character": "KIRK",
+          "line": "Any further transmissions, Lieutenant?"
+        },
+        {
+          "character": "UHURA",
+          "line": "None, sir."
+        },
+        {
+          "character": "KIRK",
+          "line": "Call Mister Scott to the bridge."
+        },
+        {
+          "character": "CHEKOV",
+          "line": "Captain, the alien vessel is moving closer."
+        },
+        {
+          "character": "KIRK",
+          "line": "Belay that order. I'll stay here."
+        },
+        {
+          "character": "UHURA",
+          "line": "Captain, I'm picking up the alien signal again, but it's coming from inside the Enterprise."
+        },
+        {
+          "character": "KIRK",
+          "line": "Specific origin?"
+        },
+        {
+          "character": "UHURA",
+          "line": "From the brig, sir."
+        },
+        {
+          "character": "KIRK",
+          "line": "Security? Security to the brig. Search the prisoner immediately."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "MCCOY",
+          "line": "Readings, Nurse."
+        },
+        {
+          "character": "CHAPEL",
+          "line": "Mister Spock's blood reproduction rate is up over two hundred percent. Sarek's heartbeat has risen to three hundred and twenty four. Blood pressure ninety over forty, dropping."
+        },
+        {
+          "character": "MCCOY",
+          "line": "I wish I knew whether that was good or bad. Initiate sterile field."
+        },
+        {
+          "character": "CHAPEL",
+          "line": "Mister Spock."
+        },
+        {
+          "character": "MCCOY",
+          "line": "Where do you think you're going?"
+        },
+        {
+          "character": "SPOCK",
+          "line": "I must see the captain."
+        },
+        {
+          "character": "MCCOY",
+          "line": "My patients don't walk out in the middle of an operation."
+        },
+        {
+          "character": "SPOCK",
+          "line": "The alien ship. I've just realized that if their power utilization curve is not the norm, it should be possible to identify them this way. Very important."
+        },
+        {
+          "character": "MCCOY",
+          "line": "So is your father's life."
+        }
+      ],
+      "location": "Sickbay"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "KIRK",
+          "line": "Kirk here."
+        },
+        {
+          "character": "JOSEPH",
+          "line": "Security here. We had to stun the Andorian. He had some sort of transceiver. It was hidden in his antenna.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "CHEKOV",
+          "line": "Captain, the alien ship has changed course and speed. Moving directly toward us at warp eight."
+        },
+        {
+          "character": "KIRK",
+          "line": "Bring the prisoner to the bridge. Deflectors on. Red Alert. Phasers stand by to fire on my order."
+        },
+        {
+          "character": "CHEKOV",
+          "line": "Aye, sir. Shields on. Phasers manned and ready, sir."
+        },
+        {
+          "character": "KIRK",
+          "line": "Chekov, take over Spock's scanners."
+        },
+        {
+          "character": "CHEKOV",
+          "line": "Aye, sir."
+        },
+        {
+          "character": "KIRK",
+          "line": "Target, Mister Chekov."
+        },
+        {
+          "character": "CHEKOV",
+          "line": "Moving away. Turning now. He's coming around again."
+        },
+        {
+          "character": "KIRK",
+          "line": "Fire as he passes, Ensign."
+        },
+        {
+          "character": "CHEKOV",
+          "line": "A clean miss, sir."
+        },
+        {
+          "character": "KIRK",
+          "line": "Report on his weaponry, Mister Chekov."
+        },
+        {
+          "character": "CHEKOV",
+          "line": "Sensors record standard phasers, sir."
+        },
+        {
+          "character": "KIRK",
+          "line": "Standard phasers. Good. They may have more speed, but they're not giants."
+        },
+        {
+          "character": "UHURA",
+          "line": "Captain, the intercoms are jammed. All the ambassadors are asking what's going on."
+        },
+        {
+          "character": "KIRK",
+          "line": "Tell them to take a good guess, but clear that board, Lieutenant."
+        },
+        {
+          "character": "UHURA",
+          "line": "Aye, sir."
+        },
+        {
+          "character": "CHEKOV",
+          "line": "He's coming around again."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "MCCOY",
+          "line": "One more like that, and I'm going to lose both these men."
+        }
+      ],
+      "location": "Sickbay"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "CHEKOV",
+          "line": "Fire control locked into the computers, Captain."
+        },
+        {
+          "character": "KIRK",
+          "line": "On my order, fire photon torpedoes two, four and six. Widest possible scatter."
+        },
+        {
+          "character": "CHEKOV",
+          "line": "Aye, sir."
+        },
+        {
+          "character": "KIRK",
+          "line": "Fire."
+        },
+        {
+          "character": "CHEKOV",
+          "line": "Full spread missed, sir. They're moving too fast for us."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "CHAPEL",
+          "line": "Doctor, his heart's stopped."
+        },
+        {
+          "character": "MCCOY",
+          "line": "Cardio-stimulate."
+        },
+        {
+          "character": "CHAPEL",
+          "line": "The systems are off."
+        },
+        {
+          "character": "MCCOY",
+          "line": "Then get me that old portable cardio-stimulator."
+        },
+        {
+          "character": "MCCOY",
+          "line": "Call engineering and have sickbay systems put on priority."
+        }
+      ],
+      "location": "Sickbay"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "CHEKOV",
+          "line": "Number four shield has buckled, sir."
+        },
+        {
+          "character": "KIRK",
+          "line": "Auxiliary power."
+        },
+        {
+          "character": "CHEKOV",
+          "line": "Switching over. Shields firming up. Number four is still weak, sir. If they hit us there again, it'll go altogether."
+        },
+        {
+          "character": "KIRK",
+          "line": "Your friends out there are good. They'll have to destroy this ship to win."
+        },
+        {
+          "character": "THELEV",
+          "line": "That was intended from the beginning, Captain."
+        },
+        {
+          "character": "KIRK",
+          "line": "You're not Andorian. Who are you?"
+        },
+        {
+          "character": "UHURA",
+          "line": "Damage reports coming in, Captain. Every deck."
+        },
+        {
+          "character": "KIRK",
+          "line": "Damage control procedures, all decks. That ship out there has phasers. At least our weapons are alike."
+        },
+        {
+          "character": "CHEKOV",
+          "line": "Number two shield is gone."
+        },
+        {
+          "character": "KIRK",
+          "line": "Engineering, this is the Captain. Cut power on port side except for phaser banks. At my signal, cut starboard power. Kirk out. Who are you?"
+        },
+        {
+          "character": "THELEV",
+          "line": "Find your own answers, Captain. You haven't long to live."
+        },
+        {
+          "character": "KIRK",
+          "line": "You're a spy, surgically altered to pass as an Andorian. Planted in the ambassador's party to use terror and murder to disrupt us and prepare for this attack."
+        },
+        {
+          "character": "THELEV",
+          "line": "Speculation, Captain."
+        },
+        {
+          "character": "KIRK",
+          "line": "Engineering, cut power on starboard side. Maintain until further orders. Chekov."
+        },
+        {
+          "character": "THELEV",
+          "line": "What are you doing?"
+        },
+        {
+          "character": "KIRK",
+          "line": "You speculate."
+        },
+        {
+          "character": "CHEKOV",
+          "line": "We're starting to drift, sir. Shall I hold her on course?"
+        },
+        {
+          "character": "KIRK",
+          "line": "No. Stand by your phasers, Mister Chekov."
+        },
+        {
+          "character": "CHEKOV",
+          "line": "Aye, sir. Phasers standing by. He's just hovering out there, sir."
+        },
+        {
+          "character": "KIRK",
+          "line": "Looking us over. We're dead as far as he knows."
+        },
+        {
+          "character": "THELEV",
+          "line": "You're baiting him. You're trying to lure him in."
+        },
+        {
+          "character": "CHEKOV",
+          "line": "Here he comes. Range decreasing. Speed dropping close to sublight."
+        },
+        {
+          "character": "KIRK",
+          "line": "Hold your fire, Mister Chekov."
+        },
+        {
+          "character": "CHEKOV",
+          "line": "Phasers locked on target. Range closing. Seventy five thousand kilometers."
+        },
+        {
+          "character": "KIRK",
+          "line": "Fire."
+        },
+        {
+          "character": "CHEKOV",
+          "line": "Got him!"
+        },
+        {
+          "character": "KIRK",
+          "line": "Secure from general quarters. Lieutenant, open the hailing frequency. If they wish to surrender"
+        },
+        {
+          "character": "THELEV",
+          "line": "They could not surrender, Captain. They had orders to self-destruct."
+        },
+        {
+          "character": "KIRK",
+          "line": "Lieutenant, relay to Starfleet command. Tell them we have a prisoner."
+        },
+        {
+          "character": "UHURA",
+          "line": "Aye, sir."
+        },
+        {
+          "character": "THELEV",
+          "line": "Only temporarily, Captain. You see, I had orders to self-destruct, too. Slow poison. Quite painless, actually, but there's no known antidote. I anticipate another ten minutes of life."
+        },
+        {
+          "character": "KIRK",
+          "line": "Take him to Sickbay."
+        },
+        {
+          "character": "THELEV",
+          "line": "I seem to have miscalculated."
+        },
+        {
+          "character": "KIRK",
+          "line": "So did they. Mister Chekov, take over."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "KIRK",
+          "line": "Bones?"
+        },
+        {
+          "character": "MCCOY",
+          "line": "Are you quite through shaking the ship around?"
+        },
+        {
+          "character": "KIRK",
+          "line": "Spock, Sarek how are they?"
+        },
+        {
+          "character": "MCCOY",
+          "line": "I don't mind telling you, you sure make it difficult for a surgeon trying"
+        },
+        {
+          "character": "KIRK",
+          "line": "Bones!"
+        },
+        {
+          "character": "AMANDA",
+          "line": "Captain, come in."
+        },
+        {
+          "character": "MCCOY",
+          "line": "That pig-headed Vulcan stamina. I couldn't have pulled them through without it."
+        },
+        {
+          "character": "KIRK",
+          "line": "Some doctors have all the luck."
+        },
+        {
+          "character": "SPOCK",
+          "line": "Captain, I believe you'll find the alien"
+        },
+        {
+          "character": "KIRK",
+          "line": "We damaged their ship. They destroyed themselves to avoid capture. Bones, Thelev's body will be brought to your lab. I want an autopsy performed as soon as possible."
+        },
+        {
+          "character": "SPOCK",
+          "line": "I think you'll find he's an Orion, Doctor."
+        },
+        {
+          "character": "MCCOY",
+          "line": "Orion?"
+        },
+        {
+          "character": "SPOCK",
+          "line": "Intelligence reports that Orion smugglers have been raiding the Coridan system."
+        },
+        {
+          "character": "KIRK",
+          "line": "But what would they gain by an attack on Starfleet?"
+        },
+        {
+          "character": "SAREK",
+          "line": "Mutual suspicion and interplanetary war."
+        },
+        {
+          "character": "KIRK",
+          "line": "Yes, of course. With Orion carefully neutral, they'd clean up supplying dilithium to both sides and continue to raid Coridan."
+        },
+        {
+          "character": "SPOCK",
+          "line": "The thing that confused me was the power utilization curve. It made them seem more powerful than a starship or anything known to us. That ship was constructed for a suicide mission. Since they never intended to return to their home base, they could use one hundred percent power on their attacks. The thing I don't understand is why I didn't think of it earlier."
+        },
+        {
+          "character": "KIRK",
+          "line": "You might have had something else on your mind."
+        },
+        {
+          "character": "SPOCK",
+          "line": "That hardly seems likely."
+        },
+        {
+          "character": "KIRK",
+          "line": "No, but thank you anyway."
+        },
+        {
+          "character": "AMANDA",
+          "line": "And you, Sarek. Would you also say thank you to your son?"
+        },
+        {
+          "character": "SAREK",
+          "line": "I don't understand."
+        },
+        {
+          "character": "AMANDA",
+          "line": "For saving your life."
+        },
+        {
+          "character": "SAREK",
+          "line": "Spock acted in the only logical manner open to him. One does not thank logic, Amanda."
+        },
+        {
+          "character": "AMANDA",
+          "line": "Logic, logic! I'm sick to death of logic. Do you want to know how I feel about your logic?"
+        },
+        {
+          "character": "SPOCK",
+          "line": "Emotional, isn't she?"
+        },
+        {
+          "character": "SAREK",
+          "line": "She has always been that way."
+        },
+        {
+          "character": "SPOCK",
+          "line": "Indeed? Why did you marry her?"
+        },
+        {
+          "character": "SAREK",
+          "line": "At the time, it seemed the logical thing to do."
+        },
+        {
+          "character": "KIRK",
+          "line": "Bones. No, no, I'm all right"
+        },
+        {
+          "character": "MCCOY",
+          "line": "If you keep arguing with your kindly family doctor, you're going to spend your next ten days right here. If you co-operate, you'll be out in two."
+        },
+        {
+          "character": "SPOCK",
+          "line": "Doctor, I'll return to my station now."
+        },
+        {
+          "character": "MCCOY",
+          "line": "You are at your station, Mister Spock."
+        },
+        {
+          "character": "KIRK",
+          "line": "Doctor McCoy, I believe you're enjoying all this."
+        },
+        {
+          "character": "SPOCK",
+          "line": "Indeed, Captain. I've never seen him look so happy."
+        },
+        {
+          "character": "MCCOY",
+          "line": "Shut up. Shh. Shh! Well, what do you know? I finally got the last word."
+        }
+      ],
+      "location": "Sickbay"
+    }
+  ],
+  "schedule": {
+    "episode": 15,
+    "number": 44,
+    "season": 2
+  },
+  "stardate": "3842.3",
+  "title": "Journey to Babel"
+}

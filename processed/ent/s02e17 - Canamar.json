@@ -1,0 +1,1486 @@
+{
+  "airdate": 1046246400,
+  "scenes": [
+    {
+      "dialogue": [
+        {
+          "character": "HOSHI",
+          "line": "Enterprise to Shuttlepod One. Enterprise to Shuttlepod One. Captain Archer",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "Shuttlepod"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "HOSHI",
+          "line": "Please respond. Enterprise to Shuttlepod One. Captain Archer, please respond."
+        },
+        {
+          "character": "T'POL",
+          "line": "Lieutenant?"
+        },
+        {
+          "character": "REED",
+          "line": "They took some weapons fire. Main power's offline. Gravity plating, life support."
+        },
+        {
+          "character": "T'POL",
+          "line": "Biosigns?"
+        },
+        {
+          "character": "REED",
+          "line": "None. [Situation room]"
+        },
+        {
+          "character": "ARCHER",
+          "line": "Captain's Starlog, supplemental. Trip and I have left Keto-Enol, where we had a successful first contact with the Enolians. We also found time to squeeze in a little R + R.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "HOSHI",
+          "line": "There's only one more log entry after that. Something about a pan zan match."
+        },
+        {
+          "character": "REED",
+          "line": "Pan zan?"
+        },
+        {
+          "character": "HOSHI",
+          "line": "It's a sporting event. The Captain said it was the closest thing to water polo he's seen since we left Earth."
+        },
+        {
+          "character": "T'POL",
+          "line": "Sensor logs?"
+        },
+        {
+          "character": "REED",
+          "line": "Too badly damaged to be much help."
+        },
+        {
+          "character": "PHLOX",
+          "line": "If I may, I've been running a forensic analysis. There are traces of human blood on the deck and bulkheads, both the Captain's and Commander Tucker's. Lieutenant Reed believes they were abducted."
+        },
+        {
+          "character": "REED",
+          "line": "If they were, they didn't go without a fight."
+        },
+        {
+          "character": "T'POL",
+          "line": "Set a course for Keto-Enol."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "GUARD",
+          "line": "I'll be right back. (He gets a rifle from a locker, then heads back into the main passenger area of the ship, where the prisoners are being held under guard, in shackles.)"
+        }
+      ],
+      "location": "Prison transport - Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TUCKER",
+          "line": "Captain."
+        },
+        {
+          "character": "ARCHER",
+          "line": "You in charge here? If you're not, I need to speak to your superior officer."
+        },
+        {
+          "character": "TUCKER",
+          "line": "Captain?"
+        },
+        {
+          "character": "ARCHER",
+          "line": "I'm okay."
+        },
+        {
+          "character": "KURODA",
+          "line": "I'd stay quiet if I were you. The guards don't like questions."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Do you know where they're taking us? I heard something about Canamar. I assume that's where we're going."
+        },
+        {
+          "character": "ZOUMAS",
+          "line": "It's a penal colony."
+        },
+        {
+          "character": "TUCKER",
+          "line": "Is this how your justice system works? Ship people off to prison without a trial?"
+        },
+        {
+          "character": "ZOUMAS",
+          "line": "There's a processing station in orbit. You'll be tried, sentenced, and sent down to the surface."
+        },
+        {
+          "character": "TUCKER",
+          "line": "What if you're not guilty?"
+        },
+        {
+          "character": "ZOUMAS",
+          "line": "We're all guilty as far as they're concerned. Why did they take you?"
+        },
+        {
+          "character": "ARCHER",
+          "line": "They think we're smugglers."
+        },
+        {
+          "character": "ZOUMAS",
+          "line": "I wouldn't want to be accused of smuggling. They'll probably make an example of you."
+        }
+      ],
+      "location": "Prison transport"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "T'POL",
+          "line": "We're on an exploratory mission. We believe our Captain and Chief Engineer were abducted after visiting your planet."
+        },
+        {
+          "character": "ENOLIAN",
+          "line": "Abducted by whom?",
+          "modifier": "screen"
+        },
+        {
+          "character": "T'POL",
+          "line": "We don't know."
+        },
+        {
+          "character": "ENOLIAN",
+          "line": "We're the busiest trading outpost in this system. We get thousands of visitors every day. Unfortunately, that attracts just as many thieves and smugglers. As you might imagine, my officers are kept quite busy. I wish I could help you.",
+          "modifier": "screen"
+        },
+        {
+          "character": "T'POL",
+          "line": "Let us send you their descriptions. Perhaps you could find out if any of your officers have seen them."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TUCKER",
+          "line": "Anything else on the menu?"
+        },
+        {
+          "character": "NAUSICAAN",
+          "line": "If you don't like it, give it to me."
+        },
+        {
+          "character": "TUCKER",
+          "line": "I like it just fine."
+        },
+        {
+          "character": "NAUSICAAN",
+          "line": "Give it to me."
+        },
+        {
+          "character": "TUCKER",
+          "line": "Eat your own."
+        },
+        {
+          "character": "NAUSICAAN",
+          "line": "You don't listen too well."
+        },
+        {
+          "character": "TUCKER",
+          "line": "Then why don't you save yourself the trouble and stop talking to me?"
+        },
+        {
+          "character": "TUCKER",
+          "line": "Thanks."
+        },
+        {
+          "character": "ZOUMAS",
+          "line": "You should be careful with the Nausicaans. Nasty tempers."
+        },
+        {
+          "character": "TUCKER",
+          "line": "Thanks for the advice."
+        },
+        {
+          "character": "ZOUMAS",
+          "line": "What were you smuggling? Latinum, Enolian spice wine?"
+        },
+        {
+          "character": "TUCKER",
+          "line": "We're not smugglers. I'm the Chief Engineer of a starship. He's my Captain."
+        },
+        {
+          "character": "ZOUMAS",
+          "line": "Captain of a starship? Interesting. I should have tried that when they took me. It might have helped. Captain Zoumas."
+        }
+      ],
+      "location": "Prison transport"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "ENOLIAN",
+          "line": "A patrol ship intercepted their shuttle as it was leaving orbit."
+        },
+        {
+          "character": "T'POL",
+          "line": "Where are they?"
+        },
+        {
+          "character": "ENOLIAN",
+          "line": "On board one of our transports. They were carrying what appeared to be contraband, so they were taken into custody."
+        },
+        {
+          "character": "REED",
+          "line": "Are your patrols in the habit of arresting innocent people?"
+        },
+        {
+          "character": "ENOLIAN",
+          "line": "Smuggling is rampant in this system. My men have orders to board unfamiliar vessels. Mistakes can be made."
+        },
+        {
+          "character": "REED",
+          "line": "You certainly made one this time."
+        },
+        {
+          "character": "ENOLIAN",
+          "line": "I've contacted the transport. They're expecting you. These are the co-ordinates."
+        },
+        {
+          "character": "T'POL",
+          "line": "I trust you'll accompany us to ensure there are no further mistakes."
+        }
+      ],
+      "location": "Situation room"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TUCKER",
+          "line": "What if Enterprise doesn't find the shuttlepod?"
+        },
+        {
+          "character": "ARCHER",
+          "line": "Hopefully, there'll be a judge or someone on that processing station we can talk to."
+        },
+        {
+          "character": "TUCKER",
+          "line": "And if not?"
+        },
+        {
+          "character": "ARCHER",
+          "line": "You might want to make friends with that Nausicaan."
+        },
+        {
+          "character": "GUARD",
+          "line": "Are you Archer? You're being released. A ship's coming to retrieve you."
+        },
+        {
+          "character": "PRISONER",
+          "line": "Released? Why?"
+        },
+        {
+          "character": "TUCKER",
+          "line": "We're not criminals."
+        },
+        {
+          "character": "NAUSICAAN",
+          "line": "How much did they pay you to let them go?"
+        },
+        {
+          "character": "GUARD",
+          "line": "Quiet."
+        },
+        {
+          "character": "NAUSICAAN",
+          "line": "I'm innocent, too. I'll pay you."
+        },
+        {
+          "character": "GUARD",
+          "line": "I said, quiet."
+        },
+        {
+          "character": "NAUSICAAN",
+          "line": "We're all innocent! How much?!"
+        },
+        {
+          "character": "GUARD",
+          "line": "That's enough! Keep still! All of you. (The freed prisoner knocks him out and the other guard out then uses the guard's device to release the Nausicaan, who starts kicking the downed Enolian before throwing his weapon to Kuroda.)"
+        },
+        {
+          "character": "KURODA",
+          "line": "Keep still, all of you, if you want to get out of here. (An alarm sounds as they try to get into the Bridge. One officer there gets a weapon, goes into the prisoner's area and is promptly shot, then the Nausicaan forces his way through the doors to beat up the pilot. The defeated Enolians are put in shackles with the rest of the prisoners.)"
+        },
+        {
+          "character": "KURODA",
+          "line": "I told you we needed the pilot."
+        },
+        {
+          "character": "NAUSICAAN",
+          "line": "He's alive."
+        },
+        {
+          "character": "KURODA",
+          "line": "Does he look like he's in any condition to fly this ship?"
+        },
+        {
+          "character": "NAUSICAAN",
+          "line": "He tried to get a weapon."
+        },
+        {
+          "character": "KURODA",
+          "line": "Just watch them!"
+        },
+        {
+          "character": "PRISONER",
+          "line": "What about the rest of us?"
+        },
+        {
+          "character": "KURODA",
+          "line": "You'll be released soon enough."
+        },
+        {
+          "character": "PRISONER",
+          "line": "When? Where are we going?"
+        },
+        {
+          "character": "KURODA",
+          "line": "Be patient. You'll find out."
+        },
+        {
+          "character": "ZOUMAS",
+          "line": "I'm sure we're all grateful for your courageous effort, but we've been in these restraints for three days. Couldn't you"
+        },
+        {
+          "character": "KURODA",
+          "line": "Quiet! I'll see if I can access navigation."
+        },
+        {
+          "character": "ARCHER",
+          "line": "You ever fly a warp ship before? It's harder than you think."
+        },
+        {
+          "character": "TUCKER",
+          "line": "He's right."
+        },
+        {
+          "character": "ARCHER",
+          "line": "You hit the wrong control, you could overload the plasma manifolds or shut down the antimatter containment field. We'd all end up a cloud of ionized gas."
+        },
+        {
+          "character": "KURODA",
+          "line": "You're a pilot?"
+        },
+        {
+          "character": "ARCHER",
+          "line": "A damn good one. I'm a smuggler, remember?"
+        },
+        {
+          "character": "KURODA",
+          "line": "Come with me."
+        },
+        {
+          "character": "ARCHER",
+          "line": "My partner's an engineer. I could use his help."
+        },
+        {
+          "character": "KURODA",
+          "line": "Just you."
+        }
+      ],
+      "location": "Prison transport"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "KURODA",
+          "line": "I thought you were a pilot."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Every ship's different. Give me some time."
+        },
+        {
+          "character": "ARCHER",
+          "line": "These look like landing thrusters, attitude control, warp stabilizers."
+        },
+        {
+          "character": "KURODA",
+          "line": "Navigation?"
+        },
+        {
+          "character": "ARCHER",
+          "line": "Navigation."
+        },
+        {
+          "character": "KURODA",
+          "line": "There's a binary system four light years from here."
+        },
+        {
+          "character": "ARCHER",
+          "line": "This one?"
+        },
+        {
+          "character": "KURODA",
+          "line": "Set a course."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Which planet?"
+        },
+        {
+          "character": "KURODA",
+          "line": "I'll tell you that when we get there."
+        },
+        {
+          "character": "ARCHER",
+          "line": "We're not going to get very far in a stolen"
+        },
+        {
+          "character": "KURODA",
+          "line": "Just get me to that system."
+        }
+      ],
+      "location": "Prison transport Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "GUARD",
+          "line": "You know what happens if he dies. If you get him medical attention, it'll work in your favor. I'll tell the magistrate you showed compassion."
+        }
+      ],
+      "location": "Prison transport"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "KURODA",
+          "line": "The guard said you were going to be released. Why?"
+        },
+        {
+          "character": "ARCHER",
+          "line": "Because we're innocent. I have friends who wanted to keep doing business with me. They made a few diskreet payments and now I'm innocent. I would have been off this ship by now if you hadn't staged your little revolt. I hope you've thought this through."
+        },
+        {
+          "character": "KURODA",
+          "line": "Every detail."
+        },
+        {
+          "character": "ARCHER",
+          "line": "I'm curious. How'd you get out of those restraints? You couldn't have a lock pick, the guards would have found it."
+        },
+        {
+          "character": "KURODA",
+          "line": "Would they? Subdermal implants. They depolarize triburnium alloys."
+        },
+        {
+          "character": "ARCHER",
+          "line": "How did you know you were going to need them?"
+        },
+        {
+          "character": "KURODA",
+          "line": "I served seven years on Canamar before I escaped. I don't intend to go back. So, I left prepared."
+        },
+        {
+          "character": "ARCHER",
+          "line": "I don't know what you have in mind, but I'm involved now. I don't want to go to Canamar any more than you do. If we run into trouble, my partner could help."
+        },
+        {
+          "character": "KURODA",
+          "line": "What is that?"
+        },
+        {
+          "character": "ARCHER",
+          "line": "Subspace transceiver."
+        },
+        {
+          "character": "KURODA",
+          "line": "I hope you're not trying to send a message."
+        },
+        {
+          "character": "ARCHER",
+          "line": "I'm taking it offline. It leaves a subspace signature. Even when it's not transmitting, someone could track us."
+        },
+        {
+          "character": "KURODA",
+          "line": "Now it's offline."
+        }
+      ],
+      "location": "Prison transport Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "HOSHI",
+          "line": "I'm picking up an automated distress signal."
+        },
+        {
+          "character": "ENOLIAN",
+          "line": "That's one of our frequencies."
+        },
+        {
+          "character": "T'POL",
+          "line": "Your transport vessel?"
+        },
+        {
+          "character": "ENOLIAN",
+          "line": "We have hundreds of ships. I don't know the signatures for every one."
+        },
+        {
+          "character": "HOSHI",
+          "line": "The signal originated near our rendezvous coordinates, but they've stopped transmitting."
+        },
+        {
+          "character": "T'POL",
+          "line": "Try hailing them."
+        },
+        {
+          "character": "HOSHI",
+          "line": "No response."
+        },
+        {
+          "character": "T'POL",
+          "line": "Increase our speed to warp four point two."
+        },
+        {
+          "character": "ENOLIAN",
+          "line": "We're still several hours away but we have patrol ships in that area."
+        },
+        {
+          "character": "T'POL",
+          "line": "Contact them."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "ZOUMAS",
+          "line": "Have you ever tried Tojal?"
+        },
+        {
+          "character": "TUCKER",
+          "line": "What?"
+        },
+        {
+          "character": "ZOUMAS",
+          "line": "There's nothing like it, but you have to eat it before it cools, otherwise it'll congeal."
+        },
+        {
+          "character": "TUCKER",
+          "line": "Sounds terrific."
+        },
+        {
+          "character": "ZOUMAS",
+          "line": "It's the first thing I'm going to have when we're off this ship. Where do you think they're taking us?"
+        },
+        {
+          "character": "TUCKER",
+          "line": "Ask him."
+        },
+        {
+          "character": "ZOUMAS",
+          "line": "I'll just wait and see. The Enolians won't stop looking for us. We'll be fugitives. I was thinking of having my face reconfigured. There's a surgeon on Burala Prime who can do it. He could help you as well."
+        },
+        {
+          "character": "TUCKER",
+          "line": "I'll take my chances with my own face."
+        },
+        {
+          "character": "ZOUMAS",
+          "line": "Have you ever been to Burala Prime?"
+        },
+        {
+          "character": "TUCKER",
+          "line": "Can't say I have."
+        },
+        {
+          "character": "ZOUMAS",
+          "line": "If you ever go, avoid the polar islands. The people are friendly, but the cold is unbearable. Nothing but ice and glaciers. I was stranded there for three months when some colleagues of mine decided to leave without me."
+        },
+        {
+          "character": "TUCKER",
+          "line": "Imagine that."
+        },
+        {
+          "character": "ZOUMAS",
+          "line": "The day I got lost, that was the worst. Fourteen hours. It took me fourteen hours to find my way back to the outpost. I lost three toes to frostbite. I've walked with a slight limp ever since, not that you'd notice. I'm going to get that surgeon to do some work on my foot as well. Maybe he can replace the missing toes."
+        },
+        {
+          "character": "TUCKER",
+          "line": "Excuse me. Can I change seats?"
+        }
+      ],
+      "location": "Prison transport"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "KURODA",
+          "line": "I'm surprised we haven't crossed paths before."
+        },
+        {
+          "character": "ARCHER",
+          "line": "We're new to this region. We used to work mostly in the Sol system."
+        },
+        {
+          "character": "KURODA",
+          "line": "Sol?"
+        },
+        {
+          "character": "ARCHER",
+          "line": "That's our sun. Our homeworld is called Earth."
+        },
+        {
+          "character": "KURODA",
+          "line": "What is it?"
+        },
+        {
+          "character": "ARCHER",
+          "line": "Two vessels approaching from aft."
+        },
+        {
+          "character": "KURODA",
+          "line": "Let me see them."
+        },
+        {
+          "character": "KURODA",
+          "line": "Enolian patrol ships."
+        },
+        {
+          "character": "ARCHER",
+          "line": "They've found us."
+        },
+        {
+          "character": "KURODA",
+          "line": "More quickly than I expected. When you were taking the transceiver offline, you didn't activate it accidentally?"
+        },
+        {
+          "character": "ARCHER",
+          "line": "You think I sent a distress call? I told you we should have gotten rid of this ship. It's too easy to track. They're charging weapons."
+        },
+        {
+          "character": "KURODA",
+          "line": "Do the same."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Those are heavily armed patrol ships. We're only a transport."
+        },
+        {
+          "character": "KURODA",
+          "line": "We have weapons. use them."
+        },
+        {
+          "character": "ARCHER",
+          "line": "We're outgunned. I'd rather take my chances on Canamar."
+        },
+        {
+          "character": "KURODA",
+          "line": "And I'd rather not. Now charge the weapons."
+        },
+        {
+          "character": "ARCHER",
+          "line": "They're targeting our engines."
+        },
+        {
+          "character": "KURODA",
+          "line": "Return fire!"
+        },
+        {
+          "character": "ARCHER",
+          "line": "No."
+        },
+        {
+          "character": "KURODA",
+          "line": "I'm warning you."
+        },
+        {
+          "character": "ARCHER",
+          "line": "We don't have the firepower. If we attack those ships, they'll destroy us. I think I can get us out of this, but I'll need Tucker's help."
+        }
+      ],
+      "location": "Prison transport Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "ZOUMAS",
+          "line": "What's happening?"
+        },
+        {
+          "character": "GUARD",
+          "line": "If those are patrol ships, you're going to be recaptured."
+        },
+        {
+          "character": "ZOUMAS",
+          "line": "Shouldn't we be getting to the escape pods?"
+        },
+        {
+          "character": "NAUSICAAN",
+          "line": "The next person who speaks goes out the airlock. He needs to concentrate."
+        }
+      ],
+      "location": "Prison transport"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "ARCHER",
+          "line": "Trip, what's your status? TUCKER [OC}: Almost there."
+        }
+      ],
+      "location": "Prison transport Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "ZOUMAS",
+          "line": "Let us go! I don't want to die tied up like an animal!"
+        },
+        {
+          "character": "TUCKER",
+          "line": "Ready when you are."
+        }
+      ],
+      "location": "Prison transport"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "KURODA",
+          "line": "Cease fire, cease fire. We surrender."
+        },
+        {
+          "character": "ENOLIAN 2",
+          "line": "Pressurize your docking port and prepare to be boarded, or our next shot will breach your hull.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "KURODA",
+          "line": "Acknowledged."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Now."
+        }
+      ],
+      "location": "Prison transport Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TUCKER",
+          "line": "The plasma vents are open. (A cloud of purple engulfs the two ships, then Archer fires their feeble phase cannon into it. The explosion doesn't blow the ships up.)"
+        }
+      ],
+      "location": "Prison transport"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "ARCHER",
+          "line": "They've taken damage. Propulsion is down on both ships."
+        },
+        {
+          "character": "KURODA",
+          "line": "Lock weapons."
+        },
+        {
+          "character": "ARCHER",
+          "line": "We should get out of here while we can."
+        },
+        {
+          "character": "KURODA",
+          "line": "Target their warp reactors."
+        },
+        {
+          "character": "ARCHER",
+          "line": "There's no need."
+        },
+        {
+          "character": "KURODA",
+          "line": "As soon as they repair the damage they'll come after us again."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Do you think the Enolians are just going to give up if we destroy two of their ships? All I'm wanted for is smuggling. I don't need to add murder charges to it. Let me get us out of here."
+        },
+        {
+          "character": "KURODA",
+          "line": "All right."
+        }
+      ],
+      "location": "Prison transport Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TUCKER",
+          "line": "Is this really necessary? I just saved your skin and you still don't trust me. Do you know how much power flows through those plasma conduits?"
+        },
+        {
+          "character": "ZOUMAS",
+          "line": "How much?"
+        },
+        {
+          "character": "TUCKER",
+          "line": "A lot. I could have been electrocuted. The least you could do is say thanks."
+        },
+        {
+          "character": "NAUSICAAN",
+          "line": "Thanks."
+        },
+        {
+          "character": "ZOUMAS",
+          "line": "That was nice. It reminds me of the time I was on"
+        },
+        {
+          "character": "TUCKER",
+          "line": "Shut up!"
+        }
+      ],
+      "location": "Prison transport"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "ENOLIAN",
+          "line": "Both our ships were disabled before the transport escaped. My superiors don't want our patrols taking any more chances. They've issued orders to destroy the prison transport."
+        },
+        {
+          "character": "T'POL",
+          "line": "Are your superiors aware that there are two innocent humans aboard?"
+        },
+        {
+          "character": "ENOLIAN",
+          "line": "They're more concerned with the man who planned this escape. They were able to match his voice-print to a prisoner named Kuroda Lor-ehn. He was responsible for many crimes, some of them brutal. They're determined to stop him."
+        },
+        {
+          "character": "REED",
+          "line": "And we're determined to get our people back."
+        },
+        {
+          "character": "ENOLIAN",
+          "line": "Then I suggest you find them before our patrols do."
+        }
+      ],
+      "location": "Situation room"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "KURODA",
+          "line": "That was a clever trick, igniting the plasma."
+        },
+        {
+          "character": "ARCHER",
+          "line": "I used it once before, outrunning a customs vessel near Coridan."
+        },
+        {
+          "character": "KURODA",
+          "line": "You obviously ran out of clever tricks, otherwise you wouldn't be here. What happened?"
+        },
+        {
+          "character": "ARCHER",
+          "line": "Every ship leaving Keto-Enol was being boarded and searched. To get through the checkpoint, I said I was a starship captain and Tucker was my engineer. I made quite a point about how I was on a peaceful mission of exploration."
+        },
+        {
+          "character": "KURODA",
+          "line": "They didn't believe you?"
+        },
+        {
+          "character": "ARCHER",
+          "line": "What do you think? They turned our shuttle inside out, found my cargo, and we wound up here."
+        },
+        {
+          "character": "KURODA",
+          "line": "My good fortune. You should consider coming with us. Your partner, too."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Doing what?"
+        },
+        {
+          "character": "KURODA",
+          "line": "I have some business I wasn't able to finish before I was arrested. It could be profitable."
+        },
+        {
+          "character": "ARCHER",
+          "line": "I'm a smuggler. I'm not good at much else."
+        },
+        {
+          "character": "KURODA",
+          "line": "Trust me, you'll be very interested when you find out what I have in mind."
+        },
+        {
+          "character": "ARCHER",
+          "line": "It's not as if I have a lot of options right now. Before we're going to work together, I'd like to know where we're headed."
+        },
+        {
+          "character": "KURODA",
+          "line": "The fourth planet. There's a trading outpost called Tamaal."
+        },
+        {
+          "character": "ARCHER",
+          "line": "And then?"
+        },
+        {
+          "character": "KURODA",
+          "line": "A ship's going to meet us there. This transport draws too much attention."
+        }
+      ],
+      "location": "Prison transport Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "ZOUMAS",
+          "line": "Once you get past the texture, they really don't taste that bad. The fun part is keeping them in your mouth. They jump around until you crunch down on them."
+        },
+        {
+          "character": "TUCKER",
+          "line": "Enough."
+        },
+        {
+          "character": "ZOUMAS",
+          "line": "Is something wrong?"
+        },
+        {
+          "character": "TUCKER",
+          "line": "No. I love hearing how delicious Melvaran mud fleas are or about the time you spent two hours with an Orion slave girl or the miracles doctors can perform these days, getting rid of Fluvian fungus!"
+        },
+        {
+          "character": "ZOUMAS",
+          "line": "Well, what makes you think I want to hear your stories?"
+        },
+        {
+          "character": "TUCKER",
+          "line": "I haven't told you any. You won't let me get a word in edgewise. I can't even put my fingers in my ears. Ten minutes, that's all I'm asking. Just ten minutes of silence."
+        },
+        {
+          "character": "ZOUMAS",
+          "line": "I didn't realize I was being so annoying. We seemed to be getting along so well. I just thought it might be nice to have a pleasant conversation before I spend the next ten years in a penal colony."
+        },
+        {
+          "character": "TUCKER",
+          "line": "Look, I'm sorry I snapped at you, but this isn't exactly the best place to socialize."
+        }
+      ],
+      "location": "Prison transport"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "ARCHER",
+          "line": "This thruster assembly took a lot of damage. We should have Tucker take a look at it."
+        },
+        {
+          "character": "KURODA",
+          "line": "Don't bother."
+        },
+        {
+          "character": "ARCHER",
+          "line": "You're not the one who has to fly this thing."
+        },
+        {
+          "character": "KURODA",
+          "line": "It won't be flying much longer. I'm not hungry."
+        },
+        {
+          "character": "NAUSICAAN",
+          "line": "You haven't eaten for two days."
+        },
+        {
+          "character": "KURODA",
+          "line": "I can wait."
+        },
+        {
+          "character": "NAUSICAAN",
+          "line": "Don't be a fool."
+        },
+        {
+          "character": "KURODA",
+          "line": "I said I'm not hungry."
+        },
+        {
+          "character": "KURODA",
+          "line": "Prison rations!"
+        },
+        {
+          "character": "ARCHER",
+          "line": "It's better than nothing."
+        },
+        {
+          "character": "KURODA",
+          "line": "You've obviously never spent time on a penal colony. I was fourteen when I first tasted those rations. I've had enough for one lifetime."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Sounds like you started your career early."
+        },
+        {
+          "character": "KURODA",
+          "line": "I was young, but I was no criminal."
+        },
+        {
+          "character": "ARCHER",
+          "line": "No?"
+        },
+        {
+          "character": "KURODA",
+          "line": "My father and I were working at a transport yard on Keto-Enol. A supervisor accused me of stealing a brace of latinum. I had nothing to do with it, but they couldn't find anyone else to blame. I was sentenced to five years at Duronom."
+        },
+        {
+          "character": "ARCHER",
+          "line": "That sounds pretty severe."
+        },
+        {
+          "character": "KURODA",
+          "line": "Enolian Guards are known for their severity. Haven't you seen that by now? I learned far more in prison than my father could have ever taught me. After I was released, I chose to put my new skills to use. I suppose I should be grateful. If it wasn't for the Enolian Guard, my life would have been quite dull."
+        }
+      ],
+      "location": "Prison transport Engineering"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "ARCHER",
+          "line": "Welcome to Tamaal. Where are your friends?"
+        },
+        {
+          "character": "KURODA",
+          "line": "They'll be here."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Do you have landing coordinates?"
+        },
+        {
+          "character": "KURODA",
+          "line": "We're not landing. They're going to dock with us."
+        },
+        {
+          "character": "ARCHER",
+          "line": "What about the others? Are you going to let them go to prison?"
+        },
+        {
+          "character": "KURODA",
+          "line": "No. Before we leave, you're going to set this ship on a decaying orbit."
+        },
+        {
+          "character": "ARCHER",
+          "line": "It'll be incinerated."
+        },
+        {
+          "character": "KURODA",
+          "line": "As far as anyone will be able to tell, we crashed trying to land."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Why kill all these people? Just leave them."
+        },
+        {
+          "character": "KURODA",
+          "line": "No one will be looking for us if they think we're dead. If you don't like it, you can always go back to your seat. I may not know how to fly this ship, but I'm sure I can figure out how to crash it."
+        }
+      ],
+      "location": "Prison transport Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TRAVIS",
+          "line": "The transport's dropped out of warp. It's entered a binary system. Looks like they're heading for the fourth planet."
+        },
+        {
+          "character": "ENOLIAN",
+          "line": "Tamaal. It's a large trading outpost with over two million inhabitants."
+        },
+        {
+          "character": "REED",
+          "line": "A good place to get lost in the crowd."
+        },
+        {
+          "character": "T'POL",
+          "line": "Drop to impulse. Take us into the system. Any human biosigns?"
+        },
+        {
+          "character": "REED",
+          "line": "Two. It's them. I recommend we use the transporter once we're in range."
+        },
+        {
+          "character": "ENOLIAN",
+          "line": "You're forgetting that's a prison ship. It's heavily shielded."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "NAUSICAAN",
+          "line": "Where you going?"
+        },
+        {
+          "character": "ARCHER",
+          "line": "The docking hatch was damaged by the patrol ships. Kuroda wants Tucker to see if he can repair it."
+        },
+        {
+          "character": "TUCKER",
+          "line": "Nice of you to visit."
+        },
+        {
+          "character": "PRISONER",
+          "line": "Who are we docking with?"
+        },
+        {
+          "character": "ARCHER",
+          "line": "Your guess is as good as mine."
+        },
+        {
+          "character": "ARCHER",
+          "line": "He's taking us off on a shuttle. Then he plans to crash the ship."
+        },
+        {
+          "character": "TUCKER",
+          "line": "I hope you've got something else in mind."
+        },
+        {
+          "character": "ARCHER",
+          "line": "We can't wait for Enterprise. We've got to try to take control. Think you can handle him?"
+        },
+        {
+          "character": "TUCKER",
+          "line": "Yeah, piece of cake."
+        }
+      ],
+      "location": "Prison transport"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TRAVIS",
+          "line": "There's a small vessel dropping out of warp."
+        },
+        {
+          "character": "T'POL",
+          "line": "Patrol ship?"
+        },
+        {
+          "character": "REED",
+          "line": "I don't think so. Four biosigns. They're all Enolian."
+        },
+        {
+          "character": "ENOLIAN",
+          "line": "It's not one of our ships."
+        },
+        {
+          "character": "T'POL",
+          "line": "Magnify. Where's it heading?"
+        },
+        {
+          "character": "TRAVIS",
+          "line": "The fourth planet."
+        },
+        {
+          "character": "HOSHI",
+          "line": "They're trying to hail the prison transport. They're not getting a response."
+        },
+        {
+          "character": "T'POL",
+          "line": "They may have come to rescue Kuroda. How heavily armed is it?"
+        },
+        {
+          "character": "REED",
+          "line": "Fore and aft particle cannons. Nothing we can't handle."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "KURODA",
+          "line": "My friends will be here soon. Lay in a descent course."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Their ship might be big enough to hold everyone here. Why don't we take them along?"
+        },
+        {
+          "character": "KURODA",
+          "line": "We have already diskussed this!"
+        },
+        {
+          "character": "ARCHER",
+          "line": "Trip."
+        }
+      ],
+      "location": "Prison transport Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "ARCHER",
+          "line": "How's that docking port coming?",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "TUCKER",
+          "line": "I need a minute. It's a big job."
+        }
+      ],
+      "location": "Prison transport docking port"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "ARCHER",
+          "line": "Do your best."
+        }
+      ],
+      "location": "Prison transport Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TUCKER",
+          "line": "Listen, I know we kind of got off on the wrong foot. No hard feelings. But now that we're friends, I could use a hand."
+        },
+        {
+          "character": "NAUSICAAN",
+          "line": "You're the engineer."
+        },
+        {
+          "character": "TUCKER",
+          "line": "True. But I'm having trouble getting the intake valve open. I guess I don't have the muscle for it. Unless I'm mistaken, Kuroda wants this hatch repaired. (The Nausicaan puts down the rifle in front of him and reaches into the open bulkhead.)"
+        },
+        {
+          "character": "TUCKER",
+          "line": "That one. If you could turn it counter-clockwise. Yeah, a little more. It's got to go at least ninety degrees. That's it. You almost got it."
+        },
+        {
+          "character": "PRISONER",
+          "line": "What are you doing?"
+        },
+        {
+          "character": "ZOUMAS",
+          "line": "They said they were going to let us go!"
+        },
+        {
+          "character": "TUCKER",
+          "line": "They lied. They're planning to kill you. All of you."
+        },
+        {
+          "character": "PRISONER",
+          "line": "How do you know that?"
+        },
+        {
+          "character": "ZOUMAS",
+          "line": "You're going to get us sent to Canamar."
+        },
+        {
+          "character": "TUCKER",
+          "line": "Keep it down."
+        }
+      ],
+      "location": "Prison transport docking port"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "KURODA",
+          "line": "Stay here."
+        }
+      ],
+      "location": "Prison transport Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "ZOUMAS",
+          "line": "Watch out!"
+        }
+      ],
+      "location": "Prison transport"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "ARCHER",
+          "line": "Do you know how to repair that docking hatch? It's not easy. We're in a decaying orbit. Shoot me and you'll die with the others."
+        },
+        {
+          "character": "KURODA",
+          "line": "Get to work."
+        },
+        {
+          "character": "ARCHER",
+          "line": "You don't have to kill these people."
+        },
+        {
+          "character": "KURODA",
+          "line": "Move!"
+        }
+      ],
+      "location": "Prison transport Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "ZOUMAS",
+          "line": "You should thank me."
+        },
+        {
+          "character": "TUCKER",
+          "line": "What? Where's Archer?"
+        },
+        {
+          "character": "ZOUMAS",
+          "line": "He's with them, repairing the docking hatch. They said there's a shuttle coming for us. I'm sorry I had to intervene, but you didn't give me much choice. You're lucky they didn't kill you. Kuroda was furious, but everything's fine now. They're going to set us free. You're welcome."
+        },
+        {
+          "character": "ARCHER",
+          "line": "They've docked. (He goes to the hatch and opens it, and a fire-fight starts between Kuroda and - Reed and his security team. Archer is given a phase pistol. The prisoners try to makes themselves as small as possible. Finally Archer gets Kuroda as he tries to open the door to the Bridge. Travis checks on a fallen crewman.)"
+        },
+        {
+          "character": "ARCHER",
+          "line": "I see my message got through."
+        },
+        {
+          "character": "REED",
+          "line": "Loud and clear, sir."
+        },
+        {
+          "character": "TUCKER",
+          "line": "Captain, would you mind?"
+        },
+        {
+          "character": "ZOUMAS",
+          "line": "Who are these people?"
+        },
+        {
+          "character": "ARCHER",
+          "line": "This will open the restraints."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Get everyone on that shuttle. (Archer goes to the Bridge as the ship enters the atmosphere. The prisoners virtually stampede for the docking hatch, and the guard carries his companion. We see Kuroda move his head.)"
+        }
+      ],
+      "location": "Prison transport"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TUCKER",
+          "line": "Anything I can do?"
+        },
+        {
+          "character": "ARCHER",
+          "line": "Not unless you have a spare thruster assembly. Is everyone off?"
+        },
+        {
+          "character": "TUCKER",
+          "line": "Just about."
+        },
+        {
+          "character": "ARCHER",
+          "line": "I'll be right there."
+        }
+      ],
+      "location": "Prison transport Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "REED",
+          "line": "Captain, Travis says he can't maintain the docking seal much longer."
+        },
+        {
+          "character": "ARCHER",
+          "line": "He won't have to. Let's go. (Reed and Trip haul the Nausicaan out by his feet, and Archer picks up Kuroda, who knocks him over. They fight, then Kuroda closes the docking hatch.)"
+        },
+        {
+          "character": "KURODA",
+          "line": "We need to break orbit."
+        },
+        {
+          "character": "ARCHER",
+          "line": "It's too late. We've lost thrusters."
+        },
+        {
+          "character": "KURODA",
+          "line": "You're lying!"
+        },
+        {
+          "character": "ARCHER",
+          "line": "We've got to get out! (They fight again, and Archer tries to open the hatch. The docking seal is flexing as the joined ships buck about in the atmosphere. During the fight, Kuroda takes another shackle from the wall, so Archer uses the device to give him a zap. He gets the hatch open, Reed comes in as Kuroda heads for the Bridge.)"
+        },
+        {
+          "character": "ARCHER",
+          "line": "Kuroda. It's over."
+        },
+        {
+          "character": "KURODA",
+          "line": "I won't go back!"
+        },
+        {
+          "character": "REED",
+          "line": "It's now or never, sir! (Kuroda shuts himself in the Bridge. Reed drags Archer onto the shuttle which then disengages and escapes back to Enterprise. Then Kuroda diskovers that Archer was telling the truth, and braces himself for a fiery death.)"
+        }
+      ],
+      "location": "Prison transport"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "ARCHER",
+          "line": "We've got some men in there who could use your help."
+        },
+        {
+          "character": "PHLOX",
+          "line": "And you?"
+        },
+        {
+          "character": "ARCHER",
+          "line": "I'll be fine."
+        },
+        {
+          "character": "ENOLIAN",
+          "line": "On behalf of the Enolian government, I'd like to extend our apologies for this inconvenience. My superiors will want"
+        },
+        {
+          "character": "ARCHER",
+          "line": "Trip."
+        },
+        {
+          "character": "ENOLIAN",
+          "line": "Er, Captain? Captain, my superiors will want a report on"
+        },
+        {
+          "character": "ARCHER",
+          "line": "I'll give you one right now. Kuroda's dead, the other eleven prisoners are under guard. As you're aware, my Engineer and I were falsely arrested. We almost wound up in Canamar. Makes me wonder how many others don't belong there. You wanted a report? You've got one."
+        }
+      ],
+      "location": "Enterprise docking port and corridor"
+    }
+  ],
+  "schedule": {
+    "episode": 17,
+    "number": 43,
+    "season": 2
+  },
+  "stardate": "Unknown",
+  "title": "Canamar"
+}

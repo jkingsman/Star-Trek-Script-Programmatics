@@ -1,0 +1,1450 @@
+{
+  "airdate": 1074067200,
+  "scenes": [
+    {
+      "dialogue": [
+        {
+          "character": "TUCKER",
+          "line": "It's identical to the other two. Even the smallest features are exactly the same."
+        },
+        {
+          "character": "TRAVIS",
+          "line": "Like they came off an assembly line."
+        },
+        {
+          "character": "TUCKER",
+          "line": "I'd like to see the factory that made these. Well, that's the last sensor sweep. Should give T'Pol plenty to chew on for a while."
+        },
+        {
+          "character": "TRAVIS",
+          "line": "Power fluctuations."
+        },
+        {
+          "character": "TUCKER",
+          "line": "I think we're getting the hang of this."
+        },
+        {
+          "character": "TRAVIS",
+          "line": "We're coming up on the outer edge of the cloaking barrier."
+        }
+      ],
+      "location": "Shuttlepod"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "YARRICK",
+          "line": "They're emerging, heading back to their ship."
+        },
+        {
+          "character": "D'JAMAT",
+          "line": "Visual."
+        },
+        {
+          "character": "D'JAMAT",
+          "line": "I want to know what kind of armaments they're carrying. We may have found what we're looking for."
+        }
+      ],
+      "location": "Alien ship"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "T'POL",
+          "line": "This new data should help us map the anomalies more accurately. I should also be able to calculate the exact number of Spheres in the Expanse."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Any new theories on their purpose?"
+        },
+        {
+          "character": "T'POL",
+          "line": "Not yet."
+        },
+        {
+          "character": "REED",
+          "line": "Bridge to Captain Archer.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "ARCHER",
+          "line": "Archer here."
+        },
+        {
+          "character": "REED",
+          "line": "We've picked up a vessel approaching at impulse. They're transmitting a distress signal.",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "Command center"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "REED",
+          "line": "They're trapped in a cluster of anomalies. They've taken engine damage."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Let's see them."
+        },
+        {
+          "character": "T'POL",
+          "line": "Twenty three biosigns."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Hail them. This is Captain Jonathan Archer of the starship Enterprise. Can we assist you?"
+        },
+        {
+          "character": "D'JAMAT",
+          "line": "Enterprise, we've suffered heavy damage. Our engines are inoperative, our life support system is failing. Please assist us.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "ARCHER",
+          "line": "What kind of weapons do they have?"
+        },
+        {
+          "character": "REED",
+          "line": "Minimal."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Can you get us through the anomalies?"
+        },
+        {
+          "character": "T'POL",
+          "line": "I believe I can plot a safe course."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Full impulse."
+        },
+        {
+          "character": "REED",
+          "line": "Their life support system's failed."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Take full security precautions. Make sure none of them are armed."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "PHLOX",
+          "line": "You'll be fine. Next case please."
+        },
+        {
+          "character": "MAN",
+          "line": "Thank you, Doctor."
+        },
+        {
+          "character": "ARCHER",
+          "line": "How are they?"
+        },
+        {
+          "character": "PHLOX",
+          "line": "I'm unable to perform detailed bioscans."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Why?"
+        },
+        {
+          "character": "PHLOX",
+          "line": "They have an aversion to any kind of invasive medical care, for religious reasons. However, I have managed to ascertain that aside from some minor injuries and one slight case of malnutrition, they appear to be fine."
+        },
+        {
+          "character": "ARCHER",
+          "line": "They're no strangers to anomalies. That looks like an old scar."
+        },
+        {
+          "character": "PHLOX",
+          "line": "I found similar injuries on four others. Apparently they've been in the vicinity of the sphere for several months."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Which one's the Captain?"
+        },
+        {
+          "character": "PHLOX",
+          "line": "He prefers the term Pri'Nam, a religious designation."
+        },
+        {
+          "character": "ARCHER",
+          "line": "I'm Captain Archer. Welcome aboard."
+        },
+        {
+          "character": "D'JAMAT",
+          "line": "My name is D'Jamat. I can't express how grateful we are. You saved our lives."
+        },
+        {
+          "character": "ARCHER",
+          "line": "I understand you've been in this region for quite some time."
+        },
+        {
+          "character": "D'JAMAT",
+          "line": "Yes, we're on a pilgrimage to the twelfth Sphere. It's taken us a year to make the journey."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Your ship's in pretty rough shape. My engineer's taking a look at it."
+        },
+        {
+          "character": "D'JAMAT",
+          "line": "It's an old vessel, but sturdy. Unfortunately we are better at prayer than we are at space travel."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Maybe there's some information about the Spheres we can share. If you're feeling up to it, I'd like you to have dinner with me and my Science Officer tonight."
+        },
+        {
+          "character": "D'JAMAT",
+          "line": "I'd be honored to accept your hospitality, Captain."
+        }
+      ],
+      "location": "Sickbay"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "D'JAMAT",
+          "line": "Our home world is called Triannon. It's six point three light years from here in the Maradas star cluster. Have you heard of it?"
+        },
+        {
+          "character": "ARCHER",
+          "line": "Doesn't ring a bell. We're new to the Expanse."
+        },
+        {
+          "character": "D'JAMAT",
+          "line": "The Expanse? You mean the Chosen Realm."
+        },
+        {
+          "character": "ARCHER",
+          "line": "I think we're talking about the same thing. We're here to learn everything about a species you may have run into, the Xindi?"
+        },
+        {
+          "character": "D'JAMAT",
+          "line": "I'm not familiar with them. We place very little emphasis on meeting other lifeforms. Space travel for us is merely a means to bring us closer to the Spheres."
+        },
+        {
+          "character": "T'POL",
+          "line": "You've studied them for some time?"
+        },
+        {
+          "character": "D'JAMAT",
+          "line": "We're not here to study the Spheres, we're here to venerate them. We believe that it is through prayer and meditation that the Makers become manifest."
+        },
+        {
+          "character": "ARCHER",
+          "line": "The Makers?"
+        },
+        {
+          "character": "D'JAMAT",
+          "line": "The creators of the Spheres. I've felt their presence here."
+        },
+        {
+          "character": "T'POL",
+          "line": "You're referring to spatial anomalies."
+        },
+        {
+          "character": "D'JAMAT",
+          "line": "The Maker's Breath. It reshapes reality, allows ordinary men a glimpse of the divine."
+        },
+        {
+          "character": "T'POL",
+          "line": "That Breath nearly destroyed your ship."
+        },
+        {
+          "character": "D'JAMAT",
+          "line": "Well, we became careless. It's easy to do when you're in the presence of a Sphere."
+        },
+        {
+          "character": "ARCHER",
+          "line": "They're certainly impressive. We've found three of them so far."
+        },
+        {
+          "character": "D'JAMAT",
+          "line": "You're fortunate to have such a fast ship. I regret that I'll die having seen only one of the many thousands of Spheres."
+        },
+        {
+          "character": "T'POL",
+          "line": "Actually, we've determined that there are fifty nine Spheres in the Expanse."
+        },
+        {
+          "character": "D'JAMAT",
+          "line": "I think your estimates are a bit low."
+        },
+        {
+          "character": "T'POL",
+          "line": "That's doubtful."
+        },
+        {
+          "character": "D'JAMAT",
+          "line": "With the Makers there is no doubt."
+        },
+        {
+          "character": "T'POL",
+          "line": "Doubt is the basis of all scientific progress."
+        },
+        {
+          "character": "D'JAMAT",
+          "line": "Scientific progress has led many people astray."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Perhaps this is a subject we should diskuss some other time?"
+        },
+        {
+          "character": "D'JAMAT",
+          "line": "I agree, Captain."
+        },
+        {
+          "character": "ARCHER",
+          "line": "You'll be glad to know my engineer believes that he can repair the damage to your vessel. He thinks it shouldn't take more than a couple of days."
+        },
+        {
+          "character": "D'JAMAT",
+          "line": "That is good news. I certainly hope that we'll have the opportunity to repay your kindness."
+        }
+      ],
+      "location": "Captain's mess"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "PHLOX",
+          "line": "May I help you?"
+        },
+        {
+          "character": "INDAVA",
+          "line": "I'd like to speak with you."
+        },
+        {
+          "character": "PHLOX",
+          "line": "What is it? Are you feeling ill?"
+        },
+        {
+          "character": "INDAVA",
+          "line": "I wanted to ask you about a certain procedure. I'm sorry, it's very difficult for me to talk about."
+        },
+        {
+          "character": "PHLOX",
+          "line": "Why don't you have a seat? I was about to make some Janaran tea. Would you like some?"
+        },
+        {
+          "character": "INDAVA",
+          "line": "Yes, thank you."
+        }
+      ],
+      "location": "Sickbay"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "D'JAMAT",
+          "line": "Is everyone in place?"
+        },
+        {
+          "character": "YARRICK",
+          "line": "Yes. They're just waiting for your signal."
+        },
+        {
+          "character": "D'JAMAT",
+          "line": "You sound hesitant."
+        },
+        {
+          "character": "YARRICK",
+          "line": "I'm sorry Pri'Nam, but are you certain this is the right thing to do?"
+        },
+        {
+          "character": "D'JAMAT",
+          "line": "Do you think this ship just came to us by coincidence? This encounter was clearly ordained by the Makers."
+        },
+        {
+          "character": "YARRICK",
+          "line": "But these people risked their lives to save us."
+        },
+        {
+          "character": "D'JAMAT",
+          "line": "They desecrated a Sphere. What we are about to do is not just for our salvation, but for theirs as well. I know it can be difficult. We've been away from home for a long time, but we have been given the means to end the bloodshed for once and for all. Don't lose your faith now, Yarrick."
+        },
+        {
+          "character": "YARRICK",
+          "line": "Never, Pri'Nam."
+        }
+      ],
+      "location": "Mess hall"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "ARCHER",
+          "line": "They believe that god-like beings they call the Makers created the Spheres a thousand years ago."
+        },
+        {
+          "character": "T'POL",
+          "line": "We have determined that the Spheres are nearly a thousand years old."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Well. they also believe that the Makers are using the Spheres to reshape the Expanse, creating a paradise for when they return."
+        },
+        {
+          "character": "T'POL",
+          "line": "Mythology often has a basis in fact."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Come in."
+        },
+        {
+          "character": "D'JAMAT",
+          "line": "Am I disturbing you?"
+        },
+        {
+          "character": "ARCHER",
+          "line": "Not at all."
+        },
+        {
+          "character": "T'POL",
+          "line": "Excuse me."
+        },
+        {
+          "character": "D'JAMAT",
+          "line": "I said before that I hoped to be able to repay your kindness."
+        },
+        {
+          "character": "ARCHER",
+          "line": "That isn't necessary."
+        },
+        {
+          "character": "D'JAMAT",
+          "line": "It's already underway. Captain Archer, you, your crew, this vessel, are all about to embark on a glorious mission. At this moment a number of my people have taken positions around your vessel. Their bodies have been equipped with powerful organic explosives. With a single command I can order any one of them to sacrifice their lives."
+        }
+      ],
+      "location": "Ready room"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "MAN",
+          "line": "Cala detash. Shika venus tikel. Shika venus tikel. Shika venus tikel."
+        }
+      ],
+      "location": "Corridor"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "REED",
+          "line": "There's been an explosion on C deck. We've got a hull breach."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Seal off the area. Get security teams"
+        },
+        {
+          "character": "D'JAMAT",
+          "line": "Stop. Two of my men are positioned next to your warp reactor. Unless you turn this ship over to me, I'll destroy it."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "PHLOX",
+          "line": "He has severe burns! The other two are suffering from the effects of rapid decompression. They need immediate medical attention."
+        },
+        {
+          "character": "YARRICK",
+          "line": "My orders are to escort everyone to their quarters."
+        },
+        {
+          "character": "PHLOX",
+          "line": "I will not leave without treating these people."
+        },
+        {
+          "character": "YARRICK",
+          "line": "Watch him."
+        }
+      ],
+      "location": "Sickbay"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "ARCHER",
+          "line": "They say they'll destroy Enterprise. I have to believe them."
+        },
+        {
+          "character": "TUCKER",
+          "line": "I can't believe you're going along with this."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Remember what's at stake, why we're out here. Right now we don't have a choice. Don't take any action against them. Is that clear?"
+        },
+        {
+          "character": "TUCKER",
+          "line": "Aye, Captain."
+        },
+        {
+          "character": "ARCHER",
+          "line": "This isn't over."
+        },
+        {
+          "character": "TUCKER",
+          "line": "Make yourself at home."
+        }
+      ],
+      "location": "Engineering"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "D'JAMAT",
+          "line": "You made the right decision. I promise you your people won't be harmed."
+        },
+        {
+          "character": "ARCHER",
+          "line": "You just murdered one of my people."
+        },
+        {
+          "character": "D'JAMAT",
+          "line": "I had to erase any doubts you might have had about our resolve."
+        },
+        {
+          "character": "ARCHER",
+          "line": "What do you want with my ship?"
+        },
+        {
+          "character": "D'JAMAT",
+          "line": "When I'm satisfied the situation is secure, I'll answer your questions. I also lost a crewman in that explosion, Captain. I'll say a prayer for them both."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Save your breath."
+        }
+      ],
+      "location": "Archer's quarters"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "D'JAMAT",
+          "line": "Were you given the coordinates for Triannon? Set a course. Your highest warp factor. Prepare to fire two of your torpedoes. Target my ship's reactor. You heard me. Release the docking clamps."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "YARRICK",
+          "line": "A strike here will cut off their supply route."
+        },
+        {
+          "character": "D'JAMAT",
+          "line": "No, I don't want a victory by attrition. We're going to assault their positions directly."
+        },
+        {
+          "character": "T'POL",
+          "line": "If you use Enterprise to attack your enemies you may prevail, but your war will not end. Vulcan was once torn by violent conflict. Numerous factions with opposing doctrines on logic. Each decisive victory drove the defeated faction underground until they could regroup and fight again. The cycle perpetuated itself for centuries. Only when we embraced non-violence did we achieve peace."
+        },
+        {
+          "character": "D'JAMAT",
+          "line": "We also plan to embrace non-violence. As soon as the heretics are eliminated."
+        },
+        {
+          "character": "T'POL",
+          "line": "That's illogical. It's not possible to eradicate everyone who disagrees with you."
+        },
+        {
+          "character": "D'JAMAT",
+          "line": "With the help of the Makers, all things are possible."
+        }
+      ],
+      "location": "Deleted scene - Situation room"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "D'JAMAT",
+          "line": "I promised you an explanation. I owe you that."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Where are you taking this ship?"
+        },
+        {
+          "character": "D'JAMAT",
+          "line": "To my homeworld. We'll be there in three days. For the last century, a violent group of heretics have tried to undermine our way of life. With your ship I can deliver a final, decisive attack. I can end this conflict forever."
+        },
+        {
+          "character": "ARCHER",
+          "line": "A war. That was the glorious mission you were talking about?"
+        },
+        {
+          "character": "D'JAMAT",
+          "line": "I'm trying to save my people."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Why do I have the feeling these heretics would say the same thing."
+        },
+        {
+          "character": "D'JAMAT",
+          "line": "They might very well, but it doesn't change what they are. Enemies of the truth."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Your truth."
+        },
+        {
+          "character": "D'JAMAT",
+          "line": "There's only one."
+        },
+        {
+          "character": "ARCHER",
+          "line": "How many people do you intend to kill with my ship?"
+        },
+        {
+          "character": "D'JAMAT",
+          "line": "Your species is obsessed with numbers. A characteristic of your misguided belief that the secrets of the universe can be revealed through science. This may sound barbaric to you, but it doesn't matter how many heretics die. When the Makers return, only the faithful will survive. Non-believers will be swept away. Not only Triannons, but every race within the Chosen Realm."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Doctrines like that make it real easy to wipe out everyone who doesn't agree with you."
+        },
+        {
+          "character": "D'JAMAT",
+          "line": "You're wrong. It's not easy. If it were, I wouldn't be dreading what I have to do next. I've been reviewing your records. You've committed terrible acts of desecration. Not only have you flown within the cloaking barrier of three Spheres, you've landed on one and entered another. For crimes of this magnitude my faith obligates me to destroy your ship and put your crew to death. However, I cannot ignore the fact that you put yourselves at risk to save us, and that I like you, Captain. I believe you're an honorable man, so I am going against what my faith dictates. I'm going to temper the punishment. As Commander of this ship you may choose one member of your crew to give up their life."
+        },
+        {
+          "character": "ARCHER",
+          "line": "You're out of your mind."
+        },
+        {
+          "character": "D'JAMAT",
+          "line": "If you won't choose, I'll choose for you. I take no pleasure in this, Captain, believe me."
+        },
+        {
+          "character": "ARCHER",
+          "line": "I need time to think about this."
+        },
+        {
+          "character": "D'JAMAT",
+          "line": "You have six hours. I urge you to use this time to search within yourself, and put these lies out of your mind. All of this data that you've collected must be erased from existence."
+        },
+        {
+          "character": "D'JAMAT",
+          "line": "Six hours, Captain."
+        }
+      ],
+      "location": "Command center"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "YARRICK",
+          "line": "An update on the repairs to your ship. D'Jamat felt you should be kept appraised."
+        },
+        {
+          "character": "ARCHER",
+          "line": "That's very considerate of him. Wait a minute. Your name's Yarrick, isn't it?"
+        },
+        {
+          "character": "YARRICK",
+          "line": "It is."
+        },
+        {
+          "character": "ARCHER",
+          "line": "I understand your wife paid a visit to Sickbay. She had a long talk with my doctor. She's pregnant."
+        },
+        {
+          "character": "YARRICK",
+          "line": "Yes."
+        },
+        {
+          "character": "ARCHER",
+          "line": "I guess you also know she wants to end the pregnancy."
+        },
+        {
+          "character": "YARRICK",
+          "line": "That's between her and me."
+        },
+        {
+          "character": "ARCHER",
+          "line": "My doctor got the impression that she doesn't exactly agree with D'Jamat's interpretation of your faith. As a matter of fact, Phlox said she's grown to hate everything about it."
+        },
+        {
+          "character": "YARRICK",
+          "line": "That's not true."
+        },
+        {
+          "character": "ARCHER",
+          "line": "He also got the impression that you're not happy with the way things are going either."
+        },
+        {
+          "character": "YARRICK",
+          "line": "D'Jamat is my spiritual leader. I will follow him to my death."
+        },
+        {
+          "character": "ARCHER",
+          "line": "From what I've seen, I'm pretty sure you're going to have that opportunity."
+        }
+      ],
+      "location": "Archer's quarters"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "YARRICK",
+          "line": "You went to the doctor. You've put us at risk. He told his Captain."
+        },
+        {
+          "character": "INDAVA",
+          "line": "Does D'Jamat know?"
+        },
+        {
+          "character": "YARRICK",
+          "line": "I don't think so. Did you have the procedure?"
+        },
+        {
+          "character": "INDAVA",
+          "line": "No, the doctor said he needed time to review our physiology. He's under guard now. It's too late."
+        },
+        {
+          "character": "YARRICK",
+          "line": "It's just as well."
+        },
+        {
+          "character": "INDAVA",
+          "line": "Have you changed your mind?"
+        },
+        {
+          "character": "YARRICK",
+          "line": "I'm not certain it's the right thing to do."
+        },
+        {
+          "character": "INDAVA",
+          "line": "I won't watch my son or daughter fight in D'Jamat's war."
+        },
+        {
+          "character": "YARRICK",
+          "line": "We have the ship now. We'll end the war once and for all."
+        },
+        {
+          "character": "INDAVA",
+          "line": "You don't believe that any more than I do."
+        }
+      ],
+      "location": "Corridor"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "D'JAMAT",
+          "line": "Enter. Ah, I'm glad you've come. I was just looking at your Captain's Logs. I had no idea we were such kindred spirits."
+        },
+        {
+          "character": "ARCHER",
+          "line": "What makes you think that."
+        },
+        {
+          "character": "D'JAMAT",
+          "line": "I know why you're here, in the Expanse. It turns out we're both fighting to save our people."
+        },
+        {
+          "character": "ARCHER",
+          "line": "I'm trying to stop my world from being destroyed. You're trying to wipe out everyone who doesn't share your beliefs."
+        },
+        {
+          "character": "D'JAMAT",
+          "line": "Our situations aren't as different as you think."
+        },
+        {
+          "character": "ARCHER",
+          "line": "I draw the line at murdering innocent people."
+        },
+        {
+          "character": "D'JAMAT",
+          "line": "And not torture? In your log there is an incident with a prisoner. An interrogation that made use of an airlock."
+        },
+        {
+          "character": "ARCHER",
+          "line": "I needed information critical to my mission. He wasn't hurt."
+        },
+        {
+          "character": "D'JAMAT",
+          "line": "I sympathize with you, Captain. I've had to make hard choices as well. When I was young, I fought with the Holy Regiments. I was commanding a mission. We'd infiltrated a village known to be a heretic stronghold. We were instructed to stay concealed and relay intelligence about enemy movements, but one of the villagers diskovered us. It was a small boy, no more than six years old. We knew if we let him go he would alert the village, and if we tried to hold him he might give us away. There was only one action to take, so I took it."
+        },
+        {
+          "character": "ARCHER",
+          "line": "You're proud of that."
+        },
+        {
+          "character": "D'JAMAT",
+          "line": "In the service of the Makers, all actions are blessed ones."
+        },
+        {
+          "character": "ARCHER",
+          "line": "There are no Makers. At least, not how you perceive them. The Spheres are machines built for a reason you and I don't understand."
+        },
+        {
+          "character": "D'JAMAT",
+          "line": "I was once like you, but then I felt the Breath. I prayed for you, Captain. I had hoped that the Makers would open your eyes to the truth, but it seems that they've turned away. You had a choice to make."
+        },
+        {
+          "character": "ARCHER",
+          "line": "I've made it."
+        },
+        {
+          "character": "D'JAMAT",
+          "line": "And which crew member have you selected?"
+        },
+        {
+          "character": "ARCHER",
+          "line": "I've chosen myself. You wanted to kill someone, kill me."
+        },
+        {
+          "character": "D'JAMAT",
+          "line": "I urge you to reconsider."
+        },
+        {
+          "character": "ARCHER",
+          "line": "I won't make someone else pay for something that happened under my command."
+        },
+        {
+          "character": "D'JAMAT",
+          "line": "But what about your mission? When I'm through with your ship, your crew will need their Captain."
+        },
+        {
+          "character": "ARCHER",
+          "line": "T'Pol's a fine commander."
+        },
+        {
+          "character": "D'JAMAT",
+          "line": "We are more alike than you think, Captain. I would make the same choice. I respect your decision."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Then maybe you'll grant a request."
+        },
+        {
+          "character": "D'JAMAT",
+          "line": "What is it."
+        },
+        {
+          "character": "ARCHER",
+          "line": "My people have certain customs regarding death. There's a device on board. We use it to dispose of hazardous materials but, on rare occasions, when the situation arises, we've also used it for executions. It's considered humane."
+        },
+        {
+          "character": "D'JAMAT",
+          "line": "Where is this device?"
+        }
+      ],
+      "location": "Ready room"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "ARCHER",
+          "line": "The molecules have been disassembled. Quick and painless."
+        },
+        {
+          "character": "D'JAMAT",
+          "line": "I can't chance your mind?"
+        },
+        {
+          "character": "ARCHER",
+          "line": "No more than I can change yours."
+        },
+        {
+          "character": "D'JAMAT",
+          "line": "Very well. Proceed."
+        },
+        {
+          "character": "T'POL",
+          "line": "Captain."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Ask Phlox to keep an eye on Porthos. Take care of Enterprise."
+        },
+        {
+          "character": "ARCHER",
+          "line": "This won't end here."
+        },
+        {
+          "character": "D'JAMAT",
+          "line": "You have my sympathies. You should inform your crew. They deserve to know."
+        }
+      ],
+      "location": "Transporter alcove"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "D'JAMAT",
+          "line": "You've been quiet."
+        },
+        {
+          "character": "YARRICK",
+          "line": "I'm just thinking about what's ahead, Pri'Nam."
+        },
+        {
+          "character": "D'JAMAT",
+          "line": "I know you too well. Tell me what's wrong."
+        },
+        {
+          "character": "YARRICK",
+          "line": "We've just begun this mission and already three people are dead."
+        },
+        {
+          "character": "D'JAMAT",
+          "line": "And that bothers you."
+        },
+        {
+          "character": "YARRICK",
+          "line": "Shouldn't it? These people are not our enemy."
+        },
+        {
+          "character": "D'JAMAT",
+          "line": "They are non-believers. That makes them our enemy."
+        },
+        {
+          "character": "YARRICK",
+          "line": "Why?"
+        },
+        {
+          "character": "D'JAMAT",
+          "line": "Do you believe the Makers speak through me?"
+        },
+        {
+          "character": "YARRICK",
+          "line": "Yes."
+        },
+        {
+          "character": "D'JAMAT",
+          "line": "Then when you question me, you question the Makers, and there's a word for that. Heresy. Yarrick, when you begin to sympathize with the enemy you risk becoming the enemy."
+        }
+      ],
+      "location": "Command center"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "ARCHER",
+          "line": "Don't feed him cheese. Can you talk?",
+          "modifier": "screen"
+        },
+        {
+          "character": "PHLOX",
+          "line": "Go ahead.",
+          "modifier": "screen"
+        },
+        {
+          "character": "ARCHER",
+          "line": "Can you neutralize the organic explosives?",
+          "modifier": "screen"
+        },
+        {
+          "character": "PHLOX",
+          "line": "Need Triannon internal scans.",
+          "modifier": "screen"
+        },
+        {
+          "character": "PHLOX",
+          "line": "Can I help you?"
+        }
+      ],
+      "location": "Sickbay"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "ARCHER",
+          "line": "I know, medical scans are against your beliefs. I don't think the Makers will mind."
+        }
+      ],
+      "location": "Jefferies tube"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "D'JAMAT",
+          "line": "Enter."
+        },
+        {
+          "character": "JAREB",
+          "line": "Lyaal's missing. He's not at his station."
+        },
+        {
+          "character": "D'JAMAT",
+          "line": "Lyaal. Lyaal. We'll use the ship's internal sensors to find him."
+        }
+      ],
+      "location": "Ready room"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "D'JAMAT",
+          "line": "I need to locate one of my men."
+        },
+        {
+          "character": "TRAVIS",
+          "line": "We're dropping out of warp."
+        },
+        {
+          "character": "T'POL",
+          "line": "Main power is being disrupted."
+        },
+        {
+          "character": "D'JAMAT",
+          "line": "From where?"
+        },
+        {
+          "character": "T'POL",
+          "line": "I can't identify the location."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TUCKER",
+          "line": "I'm telling you, I didn't do anything. Ask your flunky over here. He's been looking over my shoulder the whole time."
+        },
+        {
+          "character": "NALBIS",
+          "line": "It's true. He never left my sight."
+        },
+        {
+          "character": "D'JAMAT",
+          "line": "This did not happen by accident."
+        },
+        {
+          "character": "NALBIS",
+          "line": "Pri'Nam, there's something wrong with the EPS manifolds on deck D, section J15."
+        },
+        {
+          "character": "D'JAMAT",
+          "line": "Yarrick, go with him."
+        }
+      ],
+      "location": "Engineering"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "NALBIS",
+          "line": "It's on the left."
+        },
+        {
+          "character": "ARCHER",
+          "line": "You past it."
+        },
+        {
+          "character": "ARCHER",
+          "line": "You don't want to do that."
+        },
+        {
+          "character": "YARRICK",
+          "line": "You can't win. They'll destroy the ship."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Not if you help me."
+        },
+        {
+          "character": "YARRICK",
+          "line": "No."
+        },
+        {
+          "character": "ARCHER",
+          "line": "You know this is wrong. Everything he'd doing, we can put a stop to it. All of it."
+        },
+        {
+          "character": "YARRICK",
+          "line": "I won't betray my faith."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Your faith betrayed you. Is this really what the Makers want? To kill people by the thousands in their name? Is that the faith you were raised in?"
+        },
+        {
+          "character": "YARRICK",
+          "line": "No."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Then do what's right. If you don't help me, you'll be condemning your wife and child to death, because that's how this is going to end. As long as people like D'Jamat dictate what's true and what isn't, all you'll ever have is war."
+        }
+      ],
+      "location": "Corridor"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "D'JAMAT",
+          "line": "Have you located Lyaal?"
+        },
+        {
+          "character": "JAREB",
+          "line": "Internal sensors aren't functioning. Systems are down all over the ship."
+        },
+        {
+          "character": "D'JAMAT",
+          "line": "What is it?"
+        },
+        {
+          "character": "TRAVIS",
+          "line": "There's a convoy of ships approaching."
+        },
+        {
+          "character": "D'JAMAT",
+          "line": "Let me see them."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "ARCHER",
+          "line": "These people you're fighting. What makes them heretics?"
+        },
+        {
+          "character": "YARRICK",
+          "line": "We believe the Makers created the Chosen Realm in nine days. They believe it took ten."
+        },
+        {
+          "character": "ARCHER",
+          "line": "For that, you've been at war for over a century? Found it."
+        },
+        {
+          "character": "YARRICK",
+          "line": "What is it?"
+        },
+        {
+          "character": "ARCHER",
+          "line": "The environmental controls need to be re-routed to Sickbay. That can only be done from the Bridge. I'm going to show you how to do it."
+        },
+        {
+          "character": "YARRICK",
+          "line": "Why?"
+        },
+        {
+          "character": "ARCHER",
+          "line": "Doctor Phlox has synthesized an airborne agent. It neutralizes one of the enzymes used in the organic explosives, renders it inert."
+        }
+      ],
+      "location": "Jefferies tube"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "T'POL",
+          "line": "They're hailing us."
+        },
+        {
+          "character": "D'JAMAT",
+          "line": "Surrender now."
+        },
+        {
+          "character": "CERIS",
+          "line": "I have four ships.",
+          "modifier": "screen"
+        },
+        {
+          "character": "D'JAMAT",
+          "line": "If you had ten ships you wouldn't survive against this vessel. Run your scans. You'll see that I'm telling the truth. Surrender and you'll be treated fairly."
+        },
+        {
+          "character": "CERIS",
+          "line": "You consider us heretics. We know what you do to them, D'Jamat.",
+          "modifier": "screen"
+        },
+        {
+          "character": "D'JAMAT",
+          "line": "Target the lead vessel. Do what I say."
+        },
+        {
+          "character": "T'POL",
+          "line": "No."
+        },
+        {
+          "character": "D'JAMAT",
+          "line": "Prepare to fire torpedoes."
+        },
+        {
+          "character": "JAREB",
+          "line": "One of the ships has lost engines."
+        },
+        {
+          "character": "D'JAMAT",
+          "line": "Target their main reactor."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "PHLOX",
+          "line": "Don't worry, it's harmless unless it's agitated."
+        }
+      ],
+      "location": "Sickbay"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "REED",
+          "line": "Captain."
+        },
+        {
+          "character": "ARCHER",
+          "line": "We have to get to the Armory. We're retaking the ship. We need the MACOs."
+        }
+      ],
+      "location": "Reed's quarters"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "YARRICK",
+          "line": "Pri'Nam."
+        },
+        {
+          "character": "D'JAMAT",
+          "line": "It's begun. What's the status of the engines?"
+        },
+        {
+          "character": "YARRICK",
+          "line": "We've located the problem. It's under repair. The warp reactor should be functioning in a few hours."
+        },
+        {
+          "character": "JAREB",
+          "line": "They're retreating."
+        },
+        {
+          "character": "D'JAMAT",
+          "line": "Stay with them."
+        },
+        {
+          "character": "D'JAMAT",
+          "line": "Do what I say! Bring us within firing distance. Prepare to lock weapons."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "PHLOX",
+          "line": "Careful, there's no antidote for the venom."
+        },
+        {
+          "character": "PHLOX",
+          "line": "There'll be an extra helping of snow beetles for you tonight, young lady."
+        }
+      ],
+      "location": "Sickbay"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "JAREB",
+          "line": "Their engines are at maximum. We're still gaining."
+        },
+        {
+          "character": "D'JAMAT",
+          "line": "Good. We'll eliminate them one by one."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TRIANNON",
+          "line": "Hold your fire."
+        },
+        {
+          "character": "REED",
+          "line": "Don't move."
+        }
+      ],
+      "location": "Armory"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "JAREB",
+          "line": "They're coming into range."
+        },
+        {
+          "character": "D'JAMAT",
+          "line": "Lock weapons."
+        },
+        {
+          "character": "YARRICK",
+          "line": "They're sending a transmission. They want to surrender."
+        },
+        {
+          "character": "D'JAMAT",
+          "line": "Continue firing."
+        },
+        {
+          "character": "JAREB",
+          "line": "Weapons aren't functioning."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Archer to the Bridge. We've rerouted command functions to Engineering. I've taken weapons offline.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "D'JAMAT",
+          "line": "Find him."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "ARCHER",
+          "line": "We've also neutralized your organic explosives."
+        },
+        {
+          "character": "D'JAMAT",
+          "line": "You're lying.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "ARCHER",
+          "line": "Go ahead, try to blow yourself up."
+        }
+      ],
+      "location": "Engineering"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "ARCHER",
+          "line": "I'll wait.",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "ARCHER",
+          "line": "Stand down before anyone else gets hurt."
+        }
+      ],
+      "location": "Engineering"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "D'JAMAT",
+          "line": "You know I won't do that."
+        },
+        {
+          "character": "JAREB",
+          "line": "Pri'Nam! They're coming about."
+        },
+        {
+          "character": "D'JAMAT",
+          "line": "They're firing again, Captain. I suggest you bring your weapons back online. Are you willing to sacrifice the lives of your crew?"
+        },
+        {
+          "character": "REED",
+          "line": "Captain, it's Reed. We have the Bridge. This'd be a lot easier if I had weapons back."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Stand by.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "ARCHER",
+          "line": "Hail them."
+        },
+        {
+          "character": "ARCHER",
+          "line": "This is Captain Archer. D'Jamat is no longer in control of this vessel. Please respond. We've retaken the ship. I'm in command again."
+        },
+        {
+          "character": "CERIS",
+          "line": "Why should I believe you?",
+          "modifier": "screen"
+        },
+        {
+          "character": "ARCHER",
+          "line": "I'm powering down my weapons. See for yourself."
+        },
+        {
+          "character": "T'POL",
+          "line": "They're moving off."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "ARCHER",
+          "line": "We just entered orbit around Triannon. Let's go."
+        },
+        {
+          "character": "D'JAMAT",
+          "line": "You've done a terrible thing, Captain. You've interfered with something that was ordained. After centuries of fighting, I was going to bring an end to the war. We would have had peace."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Peace? One of my crewmen is dead, six others are wounded, my ship is damaged."
+        },
+        {
+          "character": "D'JAMAT",
+          "line": "None of that is important. All that matters is the sacred truth."
+        },
+        {
+          "character": "ARCHER",
+          "line": "You want truth? I'll show you some truth."
+        }
+      ],
+      "location": "Brig"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "ARCHER",
+          "line": "From what we've been able to learn, this happened eight months ago. Both sides have been decimated. There are no major cities left. Millions are dead. Your faith was going to bring peace? Here it is."
+        }
+      ],
+      "location": "Triannon"
+    }
+  ],
+  "schedule": {
+    "episode": 12,
+    "number": 64,
+    "season": 3
+  },
+  "stardate": "Unknown",
+  "title": "Chosen Realm"
+}

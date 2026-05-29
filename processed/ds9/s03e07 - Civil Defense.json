@@ -1,0 +1,1764 @@
+{
+  "airdate": 784195200,
+  "scenes": [
+    {
+      "dialogue": [
+        {
+          "character": "O'BRIEN",
+          "line": "How's it going, Jake?"
+        },
+        {
+          "character": "JAKE",
+          "line": "Fine. I've deleted half the Cardassian files from the computer. I can't believe how many subroutines it took just to run this ore processor."
+        },
+        {
+          "character": "O'BRIEN",
+          "line": "Well, it used to be a pretty large operation. When the Cardassians were in charge, I understand they processed twenty thousand tons a day."
+        },
+        {
+          "character": "JAKE",
+          "line": "That's a lot of ore."
+        },
+        {
+          "character": "O'BRIEN",
+          "line": "It must've been hell in here. I heard stories that the temperature reached fifty five degrees Celsius."
+        },
+        {
+          "character": "JAKE",
+          "line": "How could the Bajoran workers survive that?"
+        },
+        {
+          "character": "O'BRIEN",
+          "line": "A lot of them didn't. When you've deleted all those files, I'll show you how to download the new operating system."
+        },
+        {
+          "character": "JAKE",
+          "line": "You really think we can convert this place into a deuterium refinery?"
+        },
+        {
+          "character": "O'BRIEN",
+          "line": "Absolutely. It'll take us three, maybe four weeks at the most."
+        },
+        {
+          "character": "SISKO",
+          "line": "I hope you're planning on eating during the next three to four weeks."
+        },
+        {
+          "character": "O'BRIEN",
+          "line": "Commander. I guess I lost track of the time."
+        },
+        {
+          "character": "JAKE",
+          "line": "We're almost finished, Dad. Chief, I'm having a problem deleting one of these files."
+        },
+        {
+          "character": "O'BRIEN",
+          "line": "Have you tried reformatting the data cluster?"
+        },
+        {
+          "character": "JAKE",
+          "line": "Yeah, but the file's still here"
+        },
+        {
+          "character": "O'BRIEN",
+          "line": "Let me see. That's odd."
+        },
+        {
+          "character": "SISKO",
+          "line": "What's that, Chief?"
+        },
+        {
+          "character": "O'BRIEN",
+          "line": "Well, the file has no name. No indication what it is. I'd better set it aside for now. I can transfer it to the central database in Ops and analyze it in the morning."
+        },
+        {
+          "character": "O'BRIEN",
+          "line": "Wait a minute."
+        },
+        {
+          "character": "COMPUTER",
+          "line": "Unauthorized computer entry detected in Ore Processing unit five. Enter access code."
+        },
+        {
+          "character": "COMPUTER",
+          "line": "Incorrect code. You have five seconds to enter correct access code."
+        },
+        {
+          "character": "JAKE",
+          "line": "Or what?"
+        },
+        {
+          "character": "O'BRIEN",
+          "line": "I don't know. I'd better stop it."
+        },
+        {
+          "character": "COMPUTER",
+          "line": "Warning."
+        }
+      ],
+      "location": "Ore Processing unit"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "COMPUTER",
+          "line": "Worker revolt in progress in Ore Processing unit five. Security countermeasures initiated."
+        },
+        {
+          "character": "KIRA",
+          "line": "What the hell?"
+        }
+      ],
+      "location": "Ops"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "DUKAT",
+          "line": "Bajoran workers, your attention please. Your attempt to seize control of this facility is going to fail. You are valuable workers and we wish you no harm. However if you do not return control of this unit to your Cardassian supervisors, we will be forced to take action. You have eight minutes to make your decision.",
+          "modifier": "screen"
+        },
+        {
+          "character": "O'BRIEN",
+          "line": "The computer's engaged the magnetic seal. I can't override it."
+        },
+        {
+          "character": "KIRA",
+          "line": "Ops to Sisko.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "SISKO",
+          "line": "Go ahead."
+        },
+        {
+          "character": "KIRA",
+          "line": "Commander, what is going on down there?",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "Ore Processing unit"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "KIRA",
+          "line": "We just got a recorded message from Gul Dukat regarding some worker revolt in the ore processing facility."
+        },
+        {
+          "character": "SISKO",
+          "line": "We saw the same message.",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "Ops"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "SISKO",
+          "line": "It seems we've tripped some kind of automated security program the Cardassians left. We're locked in."
+        },
+        {
+          "character": "KIRA",
+          "line": "We'll beam you out of there.",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "Ore Processing unit"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "COMPUTER",
+          "line": "Enter access code."
+        },
+        {
+          "character": "DAX",
+          "line": "What?"
+        },
+        {
+          "character": "BASHIR",
+          "line": "If this security program thinks there's been some kind of worker revolt, then it must think this station is still under Cardassian rule, so it's probably waiting for us to enter an emergency code."
+        },
+        {
+          "character": "KIRA",
+          "line": "One that the Cardassians never bothered to give us when they left."
+        },
+        {
+          "character": "ODO",
+          "line": "Odo to Ops.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "KIRA",
+          "line": "Kira here."
+        }
+      ],
+      "location": "Ops"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "ODO",
+          "line": "My Cardassian access codes are still valid. I'm attempting to override the security program but it's going to take some time. I'm not sure my clearance level is high enough."
+        },
+        {
+          "character": "KIRA",
+          "line": "Well, keep at it. We'll try to do the same thing from up here.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "ODO",
+          "line": "Acknowledged."
+        },
+        {
+          "character": "QUARK",
+          "line": "Odo, do you mind telling me what this is all about? That message from Dukat is making my customers nervous, and when they're nervous they're not"
+        },
+        {
+          "character": "ODO",
+          "line": "Not now, Quark. I'm busy."
+        },
+        {
+          "character": "QUARK",
+          "line": "Well, is there anything I can do to help?"
+        },
+        {
+          "character": "ODO",
+          "line": "Not unless you have a level nine Cardassian security clearance."
+        },
+        {
+          "character": "QUARK",
+          "line": "Let's see. I think I have everything from levels one through seven."
+        },
+        {
+          "character": "ODO",
+          "line": "I only have levels one through six."
+        },
+        {
+          "character": "QUARK",
+          "line": "Well, if you'd like a level seven, I'm sure we could make some kind of arrangement."
+        },
+        {
+          "character": "ODO",
+          "line": "Leave me alone, Quark."
+        },
+        {
+          "character": "QUARK",
+          "line": "Oh, no. There's something very wrong going on and this is the safest place on the whole station. I think I'll stay right here."
+        }
+      ],
+      "location": "Security office"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "O'BRIEN",
+          "line": "Any luck?"
+        },
+        {
+          "character": "SISKO",
+          "line": "Nothing. It's probably magnetically sealed like the door. We'd need a phaser to blast it open."
+        },
+        {
+          "character": "O'BRIEN",
+          "line": "Well, there's no way I can disable the program from here."
+        },
+        {
+          "character": "DUKAT",
+          "line": "Bajoran workers, your time is running out. But it's not too late. You can still surrender and save your lives.",
+          "modifier": "screen"
+        },
+        {
+          "character": "SISKO",
+          "line": "Computer. This is the leader of the Bajoran workers. We surrender."
+        },
+        {
+          "character": "DUKAT",
+          "line": "I'm glad to see you've come to your senses. Stay where you are. When Cardassian security arrives, they will place you into custody but you will not be harmed. You have my word.",
+          "modifier": "screen"
+        },
+        {
+          "character": "O'BRIEN",
+          "line": "Whatever that's worth."
+        },
+        {
+          "character": "JAKE",
+          "line": "Now what?"
+        },
+        {
+          "character": "SISKO",
+          "line": "Well, it sounds like the program is going to wait for Cardassian security to enter the all-clear protocol. That'll give us a few minutes, anyway. What's in here?"
+        },
+        {
+          "character": "O'BRIEN",
+          "line": "Nothing at the moment. Processed uridium used to flow down that pipe to a secondary refining facility on level thirty three and be purified."
+        },
+        {
+          "character": "JAKE",
+          "line": "It's not locked."
+        },
+        {
+          "character": "SISKO",
+          "line": "Since that pipe was filled with molten uridium, there wasn't any need for security measures."
+        },
+        {
+          "character": "O'BRIEN",
+          "line": "It's too narrow for anyone to escape through."
+        },
+        {
+          "character": "JAKE",
+          "line": "I can get in there."
+        },
+        {
+          "character": "SISKO",
+          "line": "Chief, if he can crawl up this pipe into the machine, cab he can get to the ore chute and open that hatch from inside?"
+        },
+        {
+          "character": "DUKAT",
+          "line": "Bajoran workers, you have not surrendered to Cardassian security. If you do not do so in the next three minutes, I will be forced to release neurocine gas into the ore processing facility.",
+          "modifier": "screen"
+        },
+        {
+          "character": "JAKE",
+          "line": "I can do it."
+        },
+        {
+          "character": "DUKAT",
+          "line": "Bajoran workers, you have two minutes left to give yourselves up to your Cardassian overseers and save your lives.",
+          "modifier": "screen"
+        },
+        {
+          "character": "SISKO",
+          "line": "Can you hear me, Jake?"
+        },
+        {
+          "character": "JAKE",
+          "line": "Loud and clear, but I can't see a thing.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "O'BRIEN",
+          "line": "There should be a large circular opening to your right."
+        },
+        {
+          "character": "JAKE",
+          "line": "Okay, let me see if I can find it.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "DUKAT",
+          "line": "Even if you were to escape this station",
+          "modifier": "screen"
+        },
+        {
+          "character": "JAKE",
+          "line": "Ow!",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "SISKO",
+          "line": "Jake-o, are you all right?"
+        },
+        {
+          "character": "JAKE",
+          "line": "Yeah, I just banged my head on something.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "DUKAT",
+          "line": "Back to Bajor? I can tell you",
+          "modifier": "screen"
+        },
+        {
+          "character": "JAKE",
+          "line": "Wait a second, there's a junction here. It feels like it goes off in two directions. Which way do I go?",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "DUKAT",
+          "line": "The guls in charge.",
+          "modifier": "screen"
+        },
+        {
+          "character": "SISKO",
+          "line": "Follow this sound, Jake."
+        },
+        {
+          "character": "JAKE",
+          "line": "Do it again, Dad. Got it. I'm in the chute.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "O'BRIEN",
+          "line": "There should be a small access port in one of the walls."
+        },
+        {
+          "character": "JAKE",
+          "line": "Found it.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "O'BRIEN",
+          "line": "Open the port and feel around inside for a handle. It should be shaped like a stirrup."
+        },
+        {
+          "character": "SISKO",
+          "line": "You know, I never knew how much this man's voice annoyed me."
+        },
+        {
+          "character": "JAKE",
+          "line": "I can reach, but I can't get hold of it.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "O'BRIEN",
+          "line": "You have to pull the handle down, Jake. It's the release for the hatch."
+        },
+        {
+          "character": "JAKE",
+          "line": "I'm trying, I can't",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "SISKO",
+          "line": "Don't tense up, relax. Now just take a deep breath and try again."
+        },
+        {
+          "character": "DUKAT",
+          "line": "I'm sorry, but your time has run out. I was hoping you would be reasonable. Rest assured that your deaths will serve as an example to prevent similar incidents in the future.",
+          "modifier": "screen"
+        },
+        {
+          "character": "JAKE",
+          "line": "I got it.",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "Ore Processing unit"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "KIRA",
+          "line": "Dax."
+        },
+        {
+          "character": "DAX",
+          "line": "Maybe if we bypass the primary command pathway and cross-connect the backup with the ODN."
+        },
+        {
+          "character": "COMPUTER",
+          "line": "Warning. Workers have escaped from Ore Processing unit five. Initiating stationwide counterinsurgency program."
+        },
+        {
+          "character": "BASHIR",
+          "line": "Now what?"
+        },
+        {
+          "character": "DUKAT",
+          "line": "Attention, Bajoran workers. I will not allow this rebellion to succeed. If you do not surrender immediately, I will be forced to kill every Bajoran on this station.",
+          "modifier": "screen"
+        }
+      ],
+      "location": "Ops"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "JAKE",
+          "line": "Wait a second, I found something."
+        },
+        {
+          "character": "SISKO",
+          "line": "What is it?",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "JAKE",
+          "line": "I don't know. Some kind of room. It sure is dirty. Doesn't smell too good either."
+        },
+        {
+          "character": "SISKO",
+          "line": "Looks like some kind of loading bay."
+        },
+        {
+          "character": "O'BRIEN",
+          "line": "You're right. This is where the uridium ore was separated from the rock. Then it would be dumped down that chute to the processing facility."
+        },
+        {
+          "character": "SISKO",
+          "line": "Locked. Chief, is there another way out of here?"
+        },
+        {
+          "character": "O'BRIEN",
+          "line": "Just back down that chute. You know where that leads to."
+        },
+        {
+          "character": "SISKO",
+          "line": "Sisko to Ops. Sisko to Security. Try yours."
+        },
+        {
+          "character": "O'BRIEN",
+          "line": "O'Brien to Ops."
+        },
+        {
+          "character": "JAKE",
+          "line": "Jake Sisko to anyone who can hear me."
+        },
+        {
+          "character": "O'BRIEN",
+          "line": "Something must be interfering with the signal."
+        },
+        {
+          "character": "JAKE",
+          "line": "What do we do now?"
+        }
+      ],
+      "location": "Ore loading bay"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "DAX",
+          "line": "It's no good. We're completely cut off from the rest of the station."
+        },
+        {
+          "character": "BASHIR",
+          "line": "There must be some kind of general dampening field in place. It must be disrupting communications."
+        },
+        {
+          "character": "KIRA",
+          "line": "All right. It's time for a less subtle approach."
+        },
+        {
+          "character": "KIRA",
+          "line": "Doctor."
+        },
+        {
+          "character": "BASHIR",
+          "line": "The Cardassians don't miss a trick, do they?"
+        },
+        {
+          "character": "DAX",
+          "line": "The ironic thing is that field is probably there to protect Ops from the hoards of rebelling Bajorans."
+        },
+        {
+          "character": "KIRA",
+          "line": "Well we've got to find a way of disabling the security program or a lot of people are going to be killed."
+        },
+        {
+          "character": "DAX",
+          "line": "If we can regain control of the main computer, we may be able to wipe the security program from its memory. Now, if I can reroute the APT relay through the secondary buffer, I might get an independent terminal working."
+        },
+        {
+          "character": "BASHIR",
+          "line": "You know, I've been here nearly three years and I was just finally starting to think of this place as home."
+        },
+        {
+          "character": "KIRA",
+          "line": "Your home was built by Cardassians, Doctor. Don't ever forget that."
+        },
+        {
+          "character": "BASHIR",
+          "line": "No, there's not much chance of that, is there."
+        }
+      ],
+      "location": "Ops"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "QUARK",
+          "line": "What do you mean, we're trapped?"
+        },
+        {
+          "character": "ODO",
+          "line": "I mean we're trapped. I wouldn't be surprised if the entire station is locked down."
+        },
+        {
+          "character": "QUARK",
+          "line": "But you're a shape-shifter. Excuse me, a changeling. So change into something and get us out of here."
+        },
+        {
+          "character": "ODO",
+          "line": "This forcefield isn't just protecting the door, it goes through the bulkheads, the ceiling, the deck. There's nowhere for me to go."
+        },
+        {
+          "character": "QUARK",
+          "line": "You're telling me I'm stuck here with you?"
+        },
+        {
+          "character": "ODO",
+          "line": "No, I'm stuck here with you. Believe me, a far worse fate. And stay away from my computer."
+        }
+      ],
+      "location": "Security office"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "SISKO",
+          "line": "Again. Okay, hold on."
+        },
+        {
+          "character": "JAKE",
+          "line": "Anything?"
+        },
+        {
+          "character": "O'BRIEN",
+          "line": "Not even a dent."
+        },
+        {
+          "character": "SISKO",
+          "line": "There has to be something else we can do. What about all this ore? As I understand it, uridium's very unstable."
+        },
+        {
+          "character": "O'BRIEN",
+          "line": "That's true, but in it's raw form you'd need a strong electrical charge to detonate it."
+        },
+        {
+          "character": "SISKO",
+          "line": "Can we use that?"
+        },
+        {
+          "character": "O'BRIEN",
+          "line": "If I had some tools, I might be able to get in there and yank out some electrical cable."
+        },
+        {
+          "character": "SISKO",
+          "line": "Tools."
+        }
+      ],
+      "location": "Ore loading bay"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "KIRA",
+          "line": "How's it coming?"
+        },
+        {
+          "character": "DAX",
+          "line": "Almost done."
+        },
+        {
+          "character": "BASHIR",
+          "line": "Jadzia!"
+        },
+        {
+          "character": "BASHIR",
+          "line": "Get me a medkit. Easy, Jadzia. I have to take a look."
+        },
+        {
+          "character": "DAX",
+          "line": "I was reaching toward the ODN conduit and a small forcefield went off and it caught my hands."
+        },
+        {
+          "character": "BASHIR",
+          "line": "They're second degree burns but I don't think there's any neural damage. This should relieve the pain."
+        },
+        {
+          "character": "COMPUTER",
+          "line": "Warning, security in the Operations Center has been compromised. Initiating counterinsurgency program level two."
+        },
+        {
+          "character": "DUKAT",
+          "line": "Attention, Bajoran workers. Your failure to surrender is forcing me to take stronger measures. In five minutes, we will begin pumping neurocine gas into the habitat ring. Think of your families as you consider your course of action. All Cardassian personnel should evacuate the area immediately.",
+          "modifier": "screen"
+        },
+        {
+          "character": "KIRA",
+          "line": "Habitat ring. There have to be hundreds of people trapped in their quarters out there."
+        },
+        {
+          "character": "GARAK",
+          "line": "I believe that's the point, Major. Computer, access code Garak one three five nine."
+        },
+        {
+          "character": "GARAK",
+          "line": "Ironic isn't it? The only place in the galaxy that still recognizes my access code is a Bajoran space station."
+        },
+        {
+          "character": "KIRA",
+          "line": "If you can get past the forcefields, you've got to get out to the habitat ring and start evacuating those people before"
+        },
+        {
+          "character": "GARAK",
+          "line": "I'd like nothing better than to help my loyal customers, but it's not that simple. My access code enables me to move about the station, but unfortunately, as you've just seen, the forcefields reappear the moment I pass through a doorway."
+        },
+        {
+          "character": "BASHIR",
+          "line": "Have you tried using your code to shut down the security program?"
+        },
+        {
+          "character": "GARAK",
+          "line": "Several times, but for some reason I can't begin to fathom, Gul Dukat chose not to trust me with his top level security codes during the occupation."
+        },
+        {
+          "character": "BASHIR",
+          "line": "Garak, do you know a way we can stop this neurocine gas?"
+        },
+        {
+          "character": "GARAK",
+          "line": "The only way to do that is to destroy the life support system."
+        },
+        {
+          "character": "KIRA",
+          "line": "What are you trying to do, Garak? Get us all killed?"
+        },
+        {
+          "character": "BASHIR",
+          "line": "No, wait a minute. He's right. The neurocine gas is released through the life support system. Destroy it and we save everyone in the habitat ring."
+        },
+        {
+          "character": "DAX",
+          "line": "For twelve hours. And then everyone on the station will suffocate when we run out of oxygen."
+        },
+        {
+          "character": "BASHIR",
+          "line": "Well, that gives us twelve hours to regain control of this station."
+        },
+        {
+          "character": "GARAK",
+          "line": "Believe me, Major, it's the only way to save those people. I believe life support is controlled from over there."
+        },
+        {
+          "character": "KIRA",
+          "line": "Get down."
+        },
+        {
+          "character": "COMPUTER",
+          "line": "Warning. Counterinsurgency program level two has been interrupted. Initiating counterinsurgency program level three."
+        },
+        {
+          "character": "DUKAT",
+          "line": "My fellow Cardassians I regret to inform you that Bajoran workers have gained control of this station.",
+          "modifier": "screen"
+        }
+      ],
+      "location": "Ops"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "DUKAT",
+          "line": "In all likelihood, I am dead or otherwise incapacitated",
+          "modifier": "screen"
+        }
+      ],
+      "location": "Ore loading bay"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "DUKAT",
+          "line": "But rest assured, this station will not be allowed to remain in Bajoran hands. However, it is my duty to inform you",
+          "modifier": "screen"
+        }
+      ],
+      "location": "Security office"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "DUKAT",
+          "line": "That if you do not regain control within two hours, the station will be destroyed.",
+          "modifier": "screen"
+        },
+        {
+          "character": "COMPUTER",
+          "line": "Self-destruct sequence initiated."
+        }
+      ],
+      "location": "Ops"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "QUARK",
+          "line": "Come on. Come on!"
+        },
+        {
+          "character": "ODO",
+          "line": "Give me that before you hurt yourself. I checked the entire security complex. There's no way out."
+        },
+        {
+          "character": "QUARK",
+          "line": "I should've listened to my father. He always warned me this was going to happen."
+        },
+        {
+          "character": "ODO",
+          "line": "What? That you'd spend your final hours in jail? I could've told you that."
+        },
+        {
+          "character": "QUARK",
+          "line": "No. He warned me never to leave home. He said there were plenty of business opportunities right outside my door. But no, I had to follow the seventy fifth Rule of Acquisition. Home is where the heart is but the stars are made of latinum. A lifetime of scheming and plotting, wheeling and dealing, and what has it got me? One measly little bar. My uncle Frin owns thirty and my cousin Gaila"
+        },
+        {
+          "character": "ODO",
+          "line": "I know. He owns a moon."
+        },
+        {
+          "character": "QUARK",
+          "line": "I told you that?"
+        },
+        {
+          "character": "ODO",
+          "line": "Many times."
+        },
+        {
+          "character": "QUARK",
+          "line": "It's a small moon, but it's enough to live on."
+        },
+        {
+          "character": "ODO",
+          "line": "Oh, come on, Quark, you've done all right for yourself."
+        },
+        {
+          "character": "QUARK",
+          "line": "Oh, what do you know?"
+        },
+        {
+          "character": "ODO",
+          "line": "Quark, I've met a lot of Ferengis in my time and the truth is, although some of them may have been more wealthy, I've never met one more devious."
+        },
+        {
+          "character": "QUARK",
+          "line": "Really?"
+        },
+        {
+          "character": "ODO",
+          "line": "Would I lie?"
+        },
+        {
+          "character": "QUARK",
+          "line": "I guess not. Thank you, Odo. That means a lot to me. Now, can I have the phaser back?"
+        },
+        {
+          "character": "ODO",
+          "line": "No."
+        }
+      ],
+      "location": "Security office"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "BASHIR",
+          "line": "How do your hands feel?"
+        },
+        {
+          "character": "DAX",
+          "line": "A little better"
+        },
+        {
+          "character": "BASHIR",
+          "line": "Good. I wish I could have done more, but I won't be able to repair the damaged tissue until we can get you to the Infirmary."
+        },
+        {
+          "character": "KIRA",
+          "line": "Any luck?"
+        },
+        {
+          "character": "GARAK",
+          "line": "Plenty, Major. Unfortunately, all of it bad. My personal code can activate any terminal on the station. However, that's the extent of my access. All I can do is just look around. I can tell you exactly what's going on, but I can't do anything about it. As far as I can see, the only person who can disable the security program is Gul Dukat."
+        },
+        {
+          "character": "DAX",
+          "line": "Maybe there's a way to fool the computer into thinking that you are Gul Dukat. You could try rewriting your code to match his."
+        },
+        {
+          "character": "GARAK",
+          "line": "Even if I could, it wouldn't do any good. If I were to input his code, the computer would scan my DNA pattern to determine if I really were Dukat."
+        },
+        {
+          "character": "DAX",
+          "line": "But what if we disabled the sensors in Ops so that the computer couldn't scan you?"
+        },
+        {
+          "character": "GARAK",
+          "line": "What a creative idea. It certainly is worth a try."
+        },
+        {
+          "character": "BASHIR",
+          "line": "The question is, can we diskonnect the sensors without getting anyone else hurt."
+        },
+        {
+          "character": "KIRA",
+          "line": "We're just going to have to take that chance."
+        },
+        {
+          "character": "DAX",
+          "line": "We could switch the sensor input from the primary scanners to the backup scanners. The computer shouldn't see that as a threat, but it'll blind the system for a few seconds while we make the changeover."
+        },
+        {
+          "character": "GARAK",
+          "line": "If it works, a few seconds are all I'll need."
+        },
+        {
+          "character": "DAX",
+          "line": "Major, I'm going to need a hand."
+        },
+        {
+          "character": "GARAK",
+          "line": "Tell me, Doctor, what is it exactly about this situation that's making you smile?"
+        },
+        {
+          "character": "BASHIR",
+          "line": "You, Garak. Just wondering how many other tailors can rewrite Cardassian security protocols?"
+        },
+        {
+          "character": "GARAK",
+          "line": "I wouldn't even venture a guess. Which reminds me, those pants you wanted altered are ready to be picked up. Oh, this is a problem."
+        },
+        {
+          "character": "BASHIR",
+          "line": "What's wrong?"
+        },
+        {
+          "character": "GARAK",
+          "line": "I always suspected that Dukat was a little paranoid. He's left a rather large number of interrogative subroutines imbedded in his access code."
+        },
+        {
+          "character": "BASHIR",
+          "line": "Meaning what?"
+        },
+        {
+          "character": "GARAK",
+          "line": "Meaning the computer is constantly challenging to prove I am who I say I am. Lieutenant, how much long before you can disable those sensors?"
+        },
+        {
+          "character": "DAX",
+          "line": "At least another ten minutes."
+        },
+        {
+          "character": "GARAK",
+          "line": "I'm not sure we have that much time. In fact, I'm sure we don't."
+        },
+        {
+          "character": "COMPUTER",
+          "line": "Warning. Unauthorized use of command code. Initiating counterinsurgency program level four. (The replicator builds a weapon and starts firing energy beams. A red-shouldered extra is vaporised.)"
+        }
+      ],
+      "location": "Ops"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "SISKO",
+          "line": "On three. One, two, three."
+        },
+        {
+          "character": "JAKE",
+          "line": "You did it."
+        },
+        {
+          "character": "O'BRIEN",
+          "line": "Okay we have the power cable. Now we need to pack the uridium around the door."
+        }
+      ],
+      "location": "Ore loading bay"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "KIRA",
+          "line": "My phaser's on the Ops table. Can anyone get to it?"
+        },
+        {
+          "character": "BASHIR",
+          "line": "The answer, Major, is no."
+        },
+        {
+          "character": "KIRA",
+          "line": "Well, we can't stay here and do nothing."
+        },
+        {
+          "character": "GARAK",
+          "line": "I respectfully disagree, Major. Nothing is about all we can do."
+        },
+        {
+          "character": "DUKAT",
+          "line": "Let me guess. Someone tried to duplicate my access code."
+        },
+        {
+          "character": "KIRA",
+          "line": "Dukat, what the hell are you doing here?"
+        },
+        {
+          "character": "DUKAT",
+          "line": "A short time ago, I had a very strange experience. There I was, patrolling the Demilitarized zone, when I received a distress signal from me. Or at least a recording of me. It seems the Bajoran workers were rioting on Terok Nor. I must admit, it piqued my curiosity. I see the auto-destruct program has begun. Well, well, well. You are in trouble. Where's Commander Sisko? I trust he wasn't vaporized while asking for one of those raktajinos he's so fond of."
+        },
+        {
+          "character": "DAX",
+          "line": "No. Last we heard, he was trapped in the ore processing unit."
+        },
+        {
+          "character": "DUKAT",
+          "line": "Hmm. I wish him well."
+        },
+        {
+          "character": "BASHIR",
+          "line": "Well, can you help us or not?"
+        },
+        {
+          "character": "DUKAT",
+          "line": "Oh, most certainly. All I have to do is enter my command code and shut the program."
+        },
+        {
+          "character": "KIRA",
+          "line": "Then do it!"
+        },
+        {
+          "character": "DUKAT",
+          "line": "All in good time, Major Kira. All in good time. But first, there are a few things we should diskuss. Red leaf tea, please."
+        },
+        {
+          "character": "DUKAT",
+          "line": "Doctor."
+        },
+        {
+          "character": "KIRA",
+          "line": "What do you want, Dukat?"
+        },
+        {
+          "character": "DUKAT",
+          "line": "You'll find I don't react well to that tone of voice, Major. Garak, groveling in a corner. That alone makes my trip worthwhile."
+        },
+        {
+          "character": "BASHIR",
+          "line": "Garak!"
+        },
+        {
+          "character": "GARAK",
+          "line": "Easy, Doctor. It would appear that the computer is only targeting non-Cardassians."
+        },
+        {
+          "character": "DUKAT",
+          "line": "If you had been on the station when I designed this program, I would have made an exception in your case."
+        },
+        {
+          "character": "GARAK",
+          "line": "Well, you've always been shortsighted. It's held you back over the years. As I recall, your father had the same flaw."
+        },
+        {
+          "character": "DUKAT",
+          "line": "My father's only flaw was trusting you."
+        },
+        {
+          "character": "GARAK",
+          "line": "Funny, at his trial your father said his biggest flaw was that his ambition outweighed his patriotism."
+        },
+        {
+          "character": "KIRA",
+          "line": "Maybe you two could settle this at another time!"
+        },
+        {
+          "character": "DUKAT",
+          "line": "You're right, Major. Oh, believe me, Garak, that time is coming. Major, why don't you join me in the Commander's office where we can talk in private. Oh. I forgot. The replicator. Well, it's the least I can do."
+        },
+        {
+          "character": "DUKAT",
+          "line": "You can all rise now. You're safe, for the moment. Major."
+        }
+      ],
+      "location": "Ops"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "DUKAT",
+          "line": "I know time is of the essence, Major, so I'll be brief. I think it is time to re-establish a permanent Cardassian presence aboard this station. Nothing too elaborate, mind you. A garrison would suffice. I can deploy troops from my ship immediately. And in return, I'll solve your current dilemma."
+        },
+        {
+          "character": "KIRA",
+          "line": "You know I'm never going to agree to that."
+        },
+        {
+          "character": "DUKAT",
+          "line": "I'm not sure you have much of a choice, do you?"
+        },
+        {
+          "character": "KIRA",
+          "line": "Dukat, you and I both know neither Bajor nor the Federation will ever honor an agreement negotiated under a death threat."
+        },
+        {
+          "character": "DUKAT",
+          "line": "I don't expect them to be happy about it, but once my troops are in place I think you'll find it very difficult to get them to leave."
+        },
+        {
+          "character": "KIRA",
+          "line": "Well let me put this another way. I will destroy this station before I ever give it back to the Cardassians."
+        },
+        {
+          "character": "DUKAT",
+          "line": "Yes, I'm sure you would. But would you allow two thousand people aboard this station to die simply because you don't like us? Well, there's no need to decide just yet. We still have a little time left. Thirty minutes, in fact. Why don't I return to my ship so that you'll have time to think about it."
+        }
+      ],
+      "location": "Commander's office"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "DUKAT",
+          "line": "I'll be back in say, twenty five minutes. Dukat. One to transport. Energize. Energize."
+        },
+        {
+          "character": "KELL",
+          "line": "Dukat, if you are seeing this recording, it means you tried to abandon your post while the station's self-destruct sequence was engaged. That will not be permitted.",
+          "modifier": "screen"
+        },
+        {
+          "character": "DUKAT",
+          "line": "This is outrageous."
+        },
+        {
+          "character": "KELL",
+          "line": "You have lost control of Terok Nor, disgracing yourself and Cardassia. Your attempt to escape is no doubt a final act of cowardice. All fail-safes have been eliminated. Your personal access codes have been rescinded. The destruct sequence can no longer be halted. All you can do now is contemplate the depth of your disgrace and try to die like a Cardassian.",
+          "modifier": "screen"
+        },
+        {
+          "character": "DUKAT",
+          "line": "Computer, abort the self-destruct sequence. This is a priority one override. Clearance level nine. Authorisation Dukat five one one six green."
+        },
+        {
+          "character": "COMPUTER",
+          "line": "Request denied. All authorisation codes are void. Time to self-destruct, twenty-five minutes."
+        },
+        {
+          "character": "GARAK",
+          "line": "Even your own computer program turns against you. I always knew your shortsightedness would be your downfall."
+        },
+        {
+          "character": "DUKAT",
+          "line": "I don't see you coming up with any ideas, tailor."
+        },
+        {
+          "character": "KIRA",
+          "line": "Look, if you two are finished with the insults, we could use some help here. Now, what can you tell us about the self-destruct sequence?"
+        },
+        {
+          "character": "DUKAT",
+          "line": "It's very simple. When the countdown is completed, the computer will order the main fusion reactor to disengage the reaction stabilizers, causing it to overload, destroying the station."
+        },
+        {
+          "character": "DAX",
+          "line": "What about the reactor? Is there any way to shut it down?"
+        },
+        {
+          "character": "DUKAT",
+          "line": "It may be possible to manually disengage the laser fusion initiator, but in order to do that we have to be in the reactor room."
+        },
+        {
+          "character": "DAX",
+          "line": "Not necessarily. We can disengage the initiator from one of the control junctions on level thirty four."
+        },
+        {
+          "character": "BASHIR",
+          "line": "But now that the computer's wiped out the access codes, not even a Cardassian can get out of this room."
+        },
+        {
+          "character": "KIRA",
+          "line": "Well then, maybe we should concentrate on trying to eliminate the forcefield protecting the door."
+        },
+        {
+          "character": "DAX",
+          "line": "We don't have time to eliminate every forcefield between here and level thirty four. What we need to do is find a way to deactivate all the forcefields on the station at the same time."
+        }
+      ],
+      "location": "Ops"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "O'BRIEN",
+          "line": "Okay, that should do it. If we use much more we run the risk of bringing the whole room down around our ears."
+        },
+        {
+          "character": "SISKO",
+          "line": "All right, we'd better take cover."
+        },
+        {
+          "character": "O'BRIEN",
+          "line": "Would you like to do the honors, sir?"
+        },
+        {
+          "character": "SISKO",
+          "line": "Keep your heads down."
+        },
+        {
+          "character": "JAKE",
+          "line": "It worked!"
+        }
+      ],
+      "location": "Ore loading bay"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "DUKAT",
+          "line": "I set up this program, and I assure you, Major, I will find a way to defeat it. There's no dilemma that cannot be solved by a diskiplined, Cardassian mind."
+        },
+        {
+          "character": "GARAK",
+          "line": "It's not going to work, you know."
+        },
+        {
+          "character": "DUKAT",
+          "line": "What are you babbling about now?"
+        },
+        {
+          "character": "GARAK",
+          "line": "I'm talking about Major Kira"
+        },
+        {
+          "character": "KIRA",
+          "line": "What about her?"
+        },
+        {
+          "character": "GARAK",
+          "line": "She's much too busy trying to save this station to be impressed with your incessant posturing."
+        },
+        {
+          "character": "DUKAT",
+          "line": "Garak!"
+        },
+        {
+          "character": "GARAK",
+          "line": "And even if she weren't, she has much better taste than to be attracted to you. And you, a married man"
+        },
+        {
+          "character": "DUKAT",
+          "line": "I should've had you executed years ago."
+        },
+        {
+          "character": "GARAK",
+          "line": "You tried, remember?"
+        },
+        {
+          "character": "BASHIR",
+          "line": "Garak, this isn't helping."
+        },
+        {
+          "character": "DAX",
+          "line": "Wait a minute. What about the power supply grid? If we could overload the grid, we might be able to cause a power surge and short out all the forcefields on the station."
+        },
+        {
+          "character": "KIRA",
+          "line": "It might even be enough to eliminate the dampening field that's been keeping us from using our communicators."
+        },
+        {
+          "character": "DUKAT",
+          "line": "Tell me something, Major. The Cardassian neutralization emitters that were under here. I assume you deactivated them when you control of the station?"
+        },
+        {
+          "character": "KIRA",
+          "line": "That's right. We prefer our containment fields to be non-lethal."
+        },
+        {
+          "character": "DUKAT",
+          "line": "But are the emitters still in place?"
+        },
+        {
+          "character": "KIRA",
+          "line": "As far as I know."
+        },
+        {
+          "character": "DUKAT",
+          "line": "Excellent. That means they have not been affected by the counterinsurgency program. That means we still have control of them."
+        },
+        {
+          "character": "DAX",
+          "line": "Then if we can get the emitters back online, we can use them to overload the power grid."
+        },
+        {
+          "character": "DUKAT",
+          "line": "Exactly."
+        },
+        {
+          "character": "KIRA",
+          "line": "Do you think it'll be enough to eliminate the forcefields?"
+        },
+        {
+          "character": "DAX",
+          "line": "Unfortunately, we'll lose the turbolifts and the transporters, but they aren't much use to us right now anyway."
+        },
+        {
+          "character": "KIRA",
+          "line": "Let's give it a try."
+        }
+      ],
+      "location": "Ops"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "SISKO",
+          "line": "Anything?"
+        },
+        {
+          "character": "O'BRIEN",
+          "line": "I only got a couple hundred meters and I was stopped by a forcefield. How about you?"
+        },
+        {
+          "character": "JAKE",
+          "line": "We didn't even get that far."
+        },
+        {
+          "character": "O'BRIEN",
+          "line": "There's got to be some way up to Ops."
+        },
+        {
+          "character": "SISKO",
+          "line": "The turbolift shaft. We can climb it all the way to Ops. Let's see if we can get these doors open."
+        }
+      ],
+      "location": "Corridor"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "KIRA",
+          "line": "Dukat, we're running out of time."
+        },
+        {
+          "character": "DUKAT",
+          "line": "I'm almost done. I've got the emitters wired into the control panel. Now all I have to do is reattach them to the power grid like so. All right, I'm ready."
+        },
+        {
+          "character": "DAX",
+          "line": "Brace yourselves."
+        },
+        {
+          "character": "KIRA",
+          "line": "Kira to Sisko."
+        }
+      ],
+      "location": "Ops"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "SISKO",
+          "line": "Go ahead Major."
+        },
+        {
+          "character": "KIRA",
+          "line": "Commander, am I glad to hear you. What's you location?",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "SISKO",
+          "line": "Level twenty nine section D. What's your status in Ops?"
+        },
+        {
+          "character": "KIRA",
+          "line": "We've got about ten minutes before the main reactor core",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "Corridor"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "KIRA",
+          "line": "Overloads and destroys the station. The only way to stop it is to disengage"
+        }
+      ],
+      "location": "Ops"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "KIRA",
+          "line": "The laser fusion initiator at one of the control junctions on level thirty four.",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "Corridor"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "KIRA",
+          "line": "But the turbolifts and transporters are offline."
+        }
+      ],
+      "location": "Ops"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "O'BRIEN",
+          "line": "They'll never get there in time."
+        },
+        {
+          "character": "SISKO",
+          "line": "But we might. Major, Mister O'Brien and I will handle the reactor. You begin evacuating the station."
+        }
+      ],
+      "location": "Corridor"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "SISKO",
+          "line": "Get as many people as you can to the Defiant and the runabouts.",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "Ops"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "KIRA",
+          "line": "Understood. Good luck.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "SISKO",
+          "line": "Jake, I want you to head for runabout pad C."
+        },
+        {
+          "character": "JAKE",
+          "line": "It's too far. I'll never make it."
+        },
+        {
+          "character": "SISKO",
+          "line": "Listen to me, Jake."
+        },
+        {
+          "character": "JAKE",
+          "line": "I'm going with you."
+        },
+        {
+          "character": "SISKO",
+          "line": "All right. Let's go."
+        }
+      ],
+      "location": "Corridor"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "COMPUTER",
+          "line": "Warning. Main fusion reactors will overload in seven minutes."
+        },
+        {
+          "character": "QUARK",
+          "line": "Tell me something I don't already know."
+        },
+        {
+          "character": "KIRA",
+          "line": "Kira to Odo.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "ODO",
+          "line": "Go ahead, Major."
+        },
+        {
+          "character": "KIRA",
+          "line": "We're beginning evacuation procedures. The forcefields have been deactivated and all the doors on the station should be operable.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "ODO",
+          "line": "All except one. It seems the forcefield around my office are still in operation."
+        },
+        {
+          "character": "KIRA",
+          "line": "I'll send a work team down immediately.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "COMPUTER",
+          "line": "Warning, main fusion reactors will overload in six minutes."
+        },
+        {
+          "character": "QUARK",
+          "line": "Are you telling me we're the only ones still locked in?"
+        },
+        {
+          "character": "ODO",
+          "line": "This forcefield must be on a separate system from the others."
+        },
+        {
+          "character": "QUARK",
+          "line": "But why go to so much trouble to keep people out of the Security office?"
+        },
+        {
+          "character": "ODO",
+          "line": "It's not to keep people out, it's to keep me in. I suppose during the occupation the Cardassians considered their security chief a security risk."
+        },
+        {
+          "character": "QUARK",
+          "line": "And I know why."
+        },
+        {
+          "character": "ODO",
+          "line": "Oh, do you?"
+        },
+        {
+          "character": "QUARK",
+          "line": "It's because they knew you were an honorable man. The kind of person who would do the right thing regardless of the circumstances. And now your integrity is going to get us both killed. I hope you're happy."
+        }
+      ],
+      "location": "Security office"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "COMPUTER",
+          "line": "Warning. Main fusion reactors will overload in five minutes."
+        },
+        {
+          "character": "SISKO",
+          "line": "Chief, did you ever finish those upgrades on the deflector shields?"
+        },
+        {
+          "character": "O'BRIEN",
+          "line": "Yeah, why?"
+        },
+        {
+          "character": "SISKO",
+          "line": "We may not have time to disengage the fusion initiator. What if we directed the explosion into the shields?"
+        },
+        {
+          "character": "O'BRIEN",
+          "line": "That's not a bad idea. The shields are the only thing on the station that can absorb that much energy."
+        },
+        {
+          "character": "O'BRIEN",
+          "line": "That power surge we felt must've blown out one of the plasma conduits. The corridor's completely blocked for the next fifty meters."
+        },
+        {
+          "character": "JAKE",
+          "line": "Can't we get around it?"
+        },
+        {
+          "character": "SISKO",
+          "line": "We don't have time."
+        },
+        {
+          "character": "O'BRIEN",
+          "line": "There might be a way. There's a maintenance conduit adjacent to this corridor. If it's not blocked, we might be able to get around the debris and get to the reactor control junction. Give me a hand."
+        },
+        {
+          "character": "O'BRIEN",
+          "line": "I can feel heat through the door."
+        },
+        {
+          "character": "SISKO",
+          "line": "What's wrong?"
+        },
+        {
+          "character": "O'BRIEN",
+          "line": "See for yourself."
+        },
+        {
+          "character": "COMPUTER",
+          "line": "Warning. Main fusion reactors will overload in three minutes."
+        },
+        {
+          "character": "SISKO",
+          "line": "I want you to wait here."
+        },
+        {
+          "character": "JAKE",
+          "line": "But"
+        },
+        {
+          "character": "SISKO",
+          "line": "I mean it this time."
+        },
+        {
+          "character": "SISKO",
+          "line": "I'll go first. Follow five meters behind me. If one of us runs into trouble in here"
+        },
+        {
+          "character": "O'BRIEN",
+          "line": "I know, I know. The other one keeps on going."
+        }
+      ],
+      "location": "Corridor"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "SISKO",
+          "line": "O'Brien!"
+        }
+      ],
+      "location": "Conduit"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "COMPUTER",
+          "line": "Warning. Main fusion reactors will overload in ninety seconds."
+        },
+        {
+          "character": "SISKO",
+          "line": "Sisko to O'Brien."
+        }
+      ],
+      "location": "Reactor control junction"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "SISKO",
+          "line": "Chief, can you hear me?",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "Conduit"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "SISKO",
+          "line": "Chief, answer me.",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "Corridor"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "COMPUTER",
+          "line": "Warning. Main fusion reactors will overload in sixty seconds."
+        }
+      ],
+      "location": "Reactor control junction"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "COMPUTER",
+          "line": "Warning. Main fusion reactors will overload in thirty seconds."
+        }
+      ],
+      "location": "Reactor control junction"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "O'BRIEN",
+          "line": "Jake, I thought your father told you to stay out of there."
+        },
+        {
+          "character": "JAKE",
+          "line": "If you don't tell him, I won't."
+        }
+      ],
+      "location": "Corridor"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "COMPUTER",
+          "line": "Warning. Main fusion reactor overload."
+        },
+        {
+          "character": "O'BRIEN",
+          "line": "O'Brien to Sisko.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "SISKO",
+          "line": "Chief, you're all right?"
+        }
+      ],
+      "location": "Reactor control junction"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "O'BRIEN",
+          "line": "Yeah, looks like we all are."
+        }
+      ],
+      "location": "Corridor"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "ODO",
+          "line": "It's about time. All right, Quark. You can leave now."
+        },
+        {
+          "character": "QUARK",
+          "line": "A self-important con artist who's nowhere near as clever as he thinks he is. That's your official security evaluation of me?"
+        },
+        {
+          "character": "ODO",
+          "line": "Quark, I told you to stay away from the computer."
+        }
+      ],
+      "location": "Security office"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "QUARK",
+          "line": "Two hours ago you told me I was the most devious Ferengi you ever met."
+        },
+        {
+          "character": "ODO",
+          "line": "I thought we were going to die. I was trying to be nice."
+        },
+        {
+          "character": "QUARK",
+          "line": "Name one Ferengi who's more devious than I am."
+        },
+        {
+          "character": "ODO",
+          "line": "The Grand Nagus."
+        },
+        {
+          "character": "QUARK",
+          "line": "All right, name another."
+        },
+        {
+          "character": "ODO",
+          "line": "DaiMon Tye."
+        },
+        {
+          "character": "QUARK",
+          "line": "One you personally know."
+        },
+        {
+          "character": "ODO",
+          "line": "Your brother, Rom."
+        },
+        {
+          "character": "QUARK",
+          "line": "My brother?"
+        },
+        {
+          "character": "ODO",
+          "line": "Your uncle Frin, your cousin Gaila."
+        },
+        {
+          "character": "QUARK",
+          "line": "Gaila? The one with the moon?"
+        }
+      ],
+      "location": "Promenade"
+    }
+  ],
+  "schedule": {
+    "episode": 7,
+    "number": 53,
+    "season": 3
+  },
+  "stardate": "Unknown",
+  "title": "Civil Defense"
+}

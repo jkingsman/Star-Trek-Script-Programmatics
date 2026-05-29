@@ -1,0 +1,2228 @@
+{
+  "airdate": 1049270400,
+  "scenes": [
+    {
+      "dialogue": [
+        {
+          "character": "REED",
+          "line": "Sensors can't identify its hull composition. There doesn't even seem to be a warp signature."
+        },
+        {
+          "character": "T'POL",
+          "line": "It's approaching at warp six."
+        },
+        {
+          "character": "ARCHER",
+          "line": "How big is it?"
+        },
+        {
+          "character": "REED",
+          "line": "It's big, more than five hundred meters across."
+        },
+        {
+          "character": "HOSHI",
+          "line": "We're in visual range."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Put it up."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Look familiar?"
+        },
+        {
+          "character": "T'POL",
+          "line": "It's not in the Vulcan database."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Try hailing them."
+        },
+        {
+          "character": "HOSHI",
+          "line": "No response, sir. I'm not even detecting a transceiver on board."
+        },
+        {
+          "character": "TRAVIS",
+          "line": "They're gaining on us, sir."
+        },
+        {
+          "character": "REED",
+          "line": "What the hell is that?"
+        },
+        {
+          "character": "ARCHER",
+          "line": "Tactical alert."
+        },
+        {
+          "character": "REED",
+          "line": "Weapons aren't charging, sir. They're offline. Phase cannons, torpedoes."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TUCKER",
+          "line": "Tucker to the Bridge!"
+        },
+        {
+          "character": "ARCHER",
+          "line": "Go ahead.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "TUCKER",
+          "line": "What's going on, Captain? The engines just went down."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Warp or impulse?",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "TUCKER",
+          "line": "Both."
+        }
+      ],
+      "location": "Engineering"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "ARCHER",
+          "line": "Hold on, Trip. Have they dropped out of warp?"
+        },
+        {
+          "character": "T'POL",
+          "line": "There's no way to tell. Our sensors can't penetrate their hull."
+        },
+        {
+          "character": "ARCHER",
+          "line": "What about our life support?"
+        },
+        {
+          "character": "T'POL",
+          "line": "Fully operational."
+        },
+        {
+          "character": "ARCHER",
+          "line": "That's one piece of good news. Any biosigns out there?"
+        },
+        {
+          "character": "T'POL",
+          "line": "None that I can detect."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Rotate the dorsal camera."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Hold it there. Tilt up about thirty degrees. Get closer."
+        },
+        {
+          "character": "T'POL",
+          "line": "The vapor doesn't contain any elements our sensors can identify."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Any atmosphere?"
+        },
+        {
+          "character": "T'POL",
+          "line": "Mostly helium, trace amounts of xenon."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Prep a shuttlepod. Trip, meet me and Malcolm in Launch bay one."
+        },
+        {
+          "character": "TUCKER",
+          "line": "Aye, sir.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "ARCHER",
+          "line": "You're in charge. Keep a channel open."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "REED",
+          "line": "Captain, look at this."
+        },
+        {
+          "character": "REED",
+          "line": "The atmosphere's changing. Seventy six percent nitrogen, twenty one percent oxygen."
+        },
+        {
+          "character": "TUCKER",
+          "line": "Somebody seems to know what we like to breathe."
+        },
+        {
+          "character": "ARCHER",
+          "line": "What's the temperature?"
+        },
+        {
+          "character": "REED",
+          "line": "Eighteen degrees."
+        },
+        {
+          "character": "TUCKER",
+          "line": "Florida in November."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Let's see what we can find."
+        },
+        {
+          "character": "TUCKER",
+          "line": "Look at that."
+        },
+        {
+          "character": "REED",
+          "line": "I'm not reading anything. It's like they're not there."
+        },
+        {
+          "character": "TUCKER",
+          "line": "They sure look there to me."
+        },
+        {
+          "character": "REED",
+          "line": "If there aren't any life-forms here, then who modified the atmosphere?"
+        },
+        {
+          "character": "ARCHER",
+          "line": "I doubt it's a coincidence."
+        },
+        {
+          "character": "TUCKER",
+          "line": "Captain."
+        },
+        {
+          "character": "ARCHER",
+          "line": "We may not be detecting any bio-signs, but those things sure look alive to me."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Are you okay? Trip?"
+        },
+        {
+          "character": "TUCKER",
+          "line": "What the hell happened?"
+        },
+        {
+          "character": "ARCHER",
+          "line": "That's what I was about to ask you."
+        },
+        {
+          "character": "TUCKER",
+          "line": "I think I was up on the ceiling with those things. I was looking down at the three of us, but not with my eyes. I can't explain it."
+        },
+        {
+          "character": "ARCHER",
+          "line": "We should get him back to the ship."
+        },
+        {
+          "character": "TUCKER",
+          "line": "I was in Tarpon Springs, too, swimming with Lisa. She was afraid it was getting too dark."
+        },
+        {
+          "character": "REED",
+          "line": "It sounds like you were dreaming, Commander."
+        },
+        {
+          "character": "TUCKER",
+          "line": "I know the difference between a dream and something really happening."
+        },
+        {
+          "character": "ARCHER",
+          "line": "We're a hundred and fifty light years from Earth, Trip."
+        },
+        {
+          "character": "TUCKER",
+          "line": "I'm telling you, I was there."
+        }
+      ],
+      "location": "Alien spaceship"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "PHLOX",
+          "line": "I'm not detecting any parasites or lifeforms or wisps of smoke. He seems in perfect working order."
+        },
+        {
+          "character": "ARCHER",
+          "line": "He said he had some kind of out-of-body experience."
+        },
+        {
+          "character": "TUCKER",
+          "line": "I don't forget Florida, Captain. I don't care how far away it is. I was there."
+        },
+        {
+          "character": "PHLOX",
+          "line": "It's a very common hallucination, returning to a familiar place."
+        },
+        {
+          "character": "TUCKER",
+          "line": "What happened to the comm.? You three talking about me?"
+        },
+        {
+          "character": "PHLOX",
+          "line": "You're clear, Commander. Free to go."
+        },
+        {
+          "character": "TUCKER",
+          "line": "Thanks, Doc."
+        }
+      ],
+      "location": "Sickbay"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "ARCHER",
+          "line": "You sure you're all right?"
+        },
+        {
+          "character": "TUCKER",
+          "line": "I'm fine. I can't believe how amazing it was."
+        },
+        {
+          "character": "ARCHER",
+          "line": "I'd prefer to keep you in Sickbay for a few days, but I can't afford to. I need you to get those engines back online."
+        },
+        {
+          "character": "TUCKER",
+          "line": "I'll see what I can do."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Let me know if you take another trip to Tarpon Beach."
+        },
+        {
+          "character": "TUCKER",
+          "line": "Tarpon Springs. I'll keep you posted."
+        },
+        {
+          "character": "ARCHER",
+          "line": "I want those weapons back online, too."
+        },
+        {
+          "character": "REED",
+          "line": "I'll see what I can do."
+        }
+      ],
+      "location": "Locker room"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "ARCHER",
+          "line": "Come in."
+        },
+        {
+          "character": "ARCHER",
+          "line": "It's like we're in the belly of the beast."
+        },
+        {
+          "character": "T'POL",
+          "line": "We have no reason to believe their motives are hostile."
+        },
+        {
+          "character": "ARCHER",
+          "line": "They're holding my ship hostage."
+        },
+        {
+          "character": "T'POL",
+          "line": "We don't know that."
+        },
+        {
+          "character": "ARCHER",
+          "line": "We don't? Look out there. Do you see any stars? Our engines are offline, our weapons. Seems kind of hostile to me."
+        },
+        {
+          "character": "T'POL",
+          "line": "I suppose it depends on how you look at it."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Is there something you wanted to see me about?"
+        },
+        {
+          "character": "T'POL",
+          "line": "Ensign Sato is trying to communicate with the life forms."
+        },
+        {
+          "character": "ARCHER",
+          "line": "And?"
+        },
+        {
+          "character": "T'POL",
+          "line": "Nothing yet. I've spoken to a number of officers. They say the crew is concerned, but remaining calm."
+        },
+        {
+          "character": "ARCHER",
+          "line": "I've got to get them out of here."
+        }
+      ],
+      "location": "Ready room"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "ROSTOV",
+          "line": "I tried re-initializing the plasma flow, but the power grid isn't charging. Commander? Are you all right, sir? Can I get you something?"
+        },
+        {
+          "character": "TUCKER",
+          "line": "I'm fine. Goodbye, sir."
+        },
+        {
+          "character": "ROSTOV",
+          "line": "Rostov to Captain Archer."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Go ahead.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "ROSTOV",
+          "line": "I'm sorry to bother you, sir, but I think there might be something wrong with Commander Tucker."
+        }
+      ],
+      "location": "Engineering"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "ARCHER",
+          "line": "What do you mean, wrong?"
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "ROSTOV",
+          "line": "He was confused, and seemed to think I was his superior officer."
+        }
+      ],
+      "location": "Engineering"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "ARCHER",
+          "line": "I'll be right down."
+        },
+        {
+          "character": "ROSTOV",
+          "line": "He's not here, sir. He left Engineering.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "ARCHER",
+          "line": "Did he say where he was going?"
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "ROSTOV",
+          "line": "No, sir."
+        }
+      ],
+      "location": "Engineering"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "ROSTOV",
+          "line": "I'm afraid not, Captain.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "ARCHER",
+          "line": "Archer to Commander Tucker. Find him."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "ARCHER",
+          "line": "Commander."
+        },
+        {
+          "character": "TUCKER",
+          "line": "Commander Charles Tucker III."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Hungry?"
+        },
+        {
+          "character": "TUCKER",
+          "line": "Yes. It's all very good. Have you ever tried this?"
+        },
+        {
+          "character": "ARCHER",
+          "line": "It's called bread. You've never eaten it before?"
+        },
+        {
+          "character": "TUCKER",
+          "line": "I've never eaten anything before."
+        },
+        {
+          "character": "T'POL",
+          "line": "Where's Commander Tucker?"
+        },
+        {
+          "character": "TUCKER",
+          "line": "I'm here. Charles Tucker III."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Where's the man who used to be Charles Tucker?"
+        },
+        {
+          "character": "TUCKER",
+          "line": "He's exploring another realm. My realm. But he'll be back."
+        },
+        {
+          "character": "ARCHER",
+          "line": "I want him back now."
+        },
+        {
+          "character": "TUCKER",
+          "line": "Please trust me. He's experiencing things he never thought he could."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Where is he?"
+        },
+        {
+          "character": "TUCKER",
+          "line": "It's not a question of where. He's no longer corporeal. But he will be again, I assure you."
+        },
+        {
+          "character": "REED",
+          "line": "When we were outside, we saw a wisp of vapor penetrate him. Did you have anything to do with that?"
+        },
+        {
+          "character": "TUCKER",
+          "line": "Wisp. Interesting word. Wisp. Wisp. Yes, I suppose you could call us that. Wisp."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Where do you come from?"
+        },
+        {
+          "character": "TUCKER",
+          "line": "We live in subspace. We travel through it. We're explorers, like you."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Why did you take Commander Tucker?"
+        },
+        {
+          "character": "TUCKER",
+          "line": "It's been a long time since we've encountered corporeal beings. After we performed the first crossing with your commander, we realized we were compatible. You're very interesting. Trapped in bodies that need maintenance. You have gender. You require mates to reproduce. You eat food. We were like you once, but we evolved. Now we can learn how our ancestors lived."
+        },
+        {
+          "character": "ARCHER",
+          "line": "I want my crewman, and I want my ship released."
+        },
+        {
+          "character": "REED",
+          "line": "Captain."
+        },
+        {
+          "character": "TUCKER",
+          "line": "Your crewman will be returned. You claim to be an explorer, Captain. Open your mind to new possibilities."
+        },
+        {
+          "character": "ARCHER",
+          "line": "What about Tucker?"
+        },
+        {
+          "character": "TUCKER",
+          "line": "I've enjoyed my time with you."
+        },
+        {
+          "character": "REED",
+          "line": "Sir."
+        },
+        {
+          "character": "TUCKER",
+          "line": "Wow."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Wow what?"
+        },
+        {
+          "character": "TUCKER",
+          "line": "I was riding right alongside Hopalong Cassidy chasing some bad guys. Then I was with Lisa again, except this time we were snow sailing in New Zealand. Then I was eight years old, maybe nine, picking up leaves with my dad. But it wasn't a dream, Captain. It was as real as I'm sitting here. They told me you can try it. Anyone on the crew."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Who told you?"
+        },
+        {
+          "character": "TUCKER",
+          "line": "They did. The ones I was with."
+        },
+        {
+          "character": "ARCHER",
+          "line": "I thought you were with Hopalong Cassidy and your girlfriend."
+        },
+        {
+          "character": "TUCKER",
+          "line": "I was, but it's hard to explain. You should try it. You'll understand what I'm talking about. You all should try it."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Take him to Sickbay."
+        },
+        {
+          "character": "TUCKER",
+          "line": "Captain, I'm fine."
+        },
+        {
+          "character": "ARCHER",
+          "line": "We'll let the Doctor decide how fine you are."
+        },
+        {
+          "character": "REED",
+          "line": "Commander."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Something smells funny."
+        },
+        {
+          "character": "T'POL",
+          "line": "They've released the ship and Commander Tucker. They've done everything you've asked. Have you considered they may have been telling the truth when they said they were just curious about us?"
+        }
+      ],
+      "location": "Mess hall"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "ARCHER",
+          "line": "Captain's Starlog, supplemental. Now that the Doctor's given Trip a clean bill of health, my primary concern is to get Enterprise out of here. But Trip tells me it'll be awhile before he can get the engines online. From what we can tell, these life forms have no mass. Non-corporeal beings. that's got to be a first for Starfleet. T'Pol thinks they just want to get to know us. Maybe she's right. Maybe I don't trust them because they're so different. I'd hate to think that was the case. Computer, pause. Come in."
+        },
+        {
+          "character": "PHLOX",
+          "line": "I hope I'm not disturbing you."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Everything all right?"
+        },
+        {
+          "character": "PHLOX",
+          "line": "I'm not certain. One of those beings appeared in Sickbay a few minutes ago. It entered me right here."
+        },
+        {
+          "character": "PHLOX",
+          "line": "But my physiology must not have been compatible. It left almost immediately."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Are you sure you're all right?"
+        },
+        {
+          "character": "PHLOX",
+          "line": "I'm fine. But it was disturbing. The lifeform was trying very hard to reach me."
+        }
+      ],
+      "location": "Ready room"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "CREWWOMAN",
+          "line": "I'm going to B deck."
+        },
+        {
+          "character": "REED",
+          "line": "B deck is fine. Are you a female?"
+        },
+        {
+          "character": "CREWWOMAN",
+          "line": "Sir?"
+        },
+        {
+          "character": "REED",
+          "line": "Your gender. You are a female, correct?"
+        },
+        {
+          "character": "CREWWOMAN",
+          "line": "Last time I checked."
+        },
+        {
+          "character": "REED",
+          "line": "I am a male."
+        },
+        {
+          "character": "CREWWOMAN",
+          "line": "I'm aware of that, Lieutenant."
+        },
+        {
+          "character": "REED",
+          "line": "There seem to be a number of anatomical differences."
+        },
+        {
+          "character": "CREWWOMAN",
+          "line": "Sir."
+        }
+      ],
+      "location": "Turbolift"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "T'POL",
+          "line": "Come in."
+        },
+        {
+          "character": "REED",
+          "line": "Sub-Commander."
+        },
+        {
+          "character": "T'POL",
+          "line": "Is there something I can do for you?"
+        },
+        {
+          "character": "REED",
+          "line": "You are very beautiful. Are you aware that you are the most attractive woman on board this ship?"
+        },
+        {
+          "character": "T'POL",
+          "line": "Do you think it's appropriate for you to be here at this hour?"
+        },
+        {
+          "character": "REED",
+          "line": "Would you mind taking off your clothing? I'd like to learn more about your anatomy."
+        },
+        {
+          "character": "T'POL",
+          "line": "Have you been drinking?"
+        },
+        {
+          "character": "REED",
+          "line": "If we are to engage in mating, it would be easier if you disrobed."
+        },
+        {
+          "character": "T'POL",
+          "line": "T'Pol to Captain Archer."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Go ahead.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "T'POL",
+          "line": "Would you please come to my quarters with a security team."
+        },
+        {
+          "character": "ARCHER",
+          "line": "We're on our way.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "REED",
+          "line": "Are you afraid of me? You shouldn't be."
+        },
+        {
+          "character": "T'POL",
+          "line": "I'm capable of defending myself."
+        },
+        {
+          "character": "REED",
+          "line": "What is it like being a female? Is it much different?"
+        },
+        {
+          "character": "T'POL",
+          "line": "I wouldn't know."
+        },
+        {
+          "character": "REED",
+          "line": "If you'd allow the crossing, you'd find out."
+        },
+        {
+          "character": "T'POL",
+          "line": "I don't understand."
+        },
+        {
+          "character": "REED",
+          "line": "If you came to us, you could experience what it's like to be male. Wouldn't that be helpful to you?"
+        },
+        {
+          "character": "T'POL",
+          "line": "I've never thought about it."
+        },
+        {
+          "character": "REED",
+          "line": "You should. We're capable of letting you experience anything you wish for. It would be a shame not to take advantage of that."
+        },
+        {
+          "character": "T'POL",
+          "line": "This isn't Lieutenant Reed."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Enough! Humans don't like doing things without their consent. When are you planning to return Malcolm Reed?"
+        },
+        {
+          "character": "REED",
+          "line": "That depends."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Oh, does it? Let's see how much you enjoy experiencing the human condition locked in Reed's quarters."
+        }
+      ],
+      "location": "T'Pol's quarters"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TUCKER",
+          "line": "Tucker."
+        },
+        {
+          "character": "ARCHER",
+          "line": "They've got Malcolm. I need the ship",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "Engineering"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "ARCHER",
+          "line": "Ready to go on my command."
+        },
+        {
+          "character": "TUCKER",
+          "line": "They're going to give him back, aren't they?",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "ARCHER",
+          "line": "We'll see."
+        }
+      ],
+      "location": "Corridor"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TUCKER",
+          "line": "What did you do with the, er?"
+        }
+      ],
+      "location": "Engineering"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "ARCHER",
+          "line": "A security detail locked him in Malcolm's quarters. Get it down, Trip."
+        }
+      ],
+      "location": "Corridor"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TUCKER",
+          "line": "Right away, sir. You heard him. Let's try to prime the deuterium pumps and fire up the injectors. Tucker to Ensign Cook."
+        },
+        {
+          "character": "COOK",
+          "line": "Yes, sir.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "TUCKER",
+          "line": "I need you and two other engineers down here right away."
+        },
+        {
+          "character": "COOK",
+          "line": "I'll see who I can find.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "ROSTOV",
+          "line": "Commander!",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "TUCKER",
+          "line": "Quickly please. Tucker out. Something wrong?"
+        },
+        {
+          "character": "TUCKER",
+          "line": "Run into a problem?"
+        },
+        {
+          "character": "ROSTOV",
+          "line": "Problem? No, everything's fine."
+        },
+        {
+          "character": "TUCKER",
+          "line": "Did you have any luck priming the pumps?"
+        },
+        {
+          "character": "ROSTOV",
+          "line": "I have no idea how to do that. This engine is very complex."
+        },
+        {
+          "character": "TUCKER",
+          "line": "Stay here. I'll be right back. Tucker to the Captain."
+        }
+      ],
+      "location": "Engineering"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "ARCHER",
+          "line": "Go ahead, Trip."
+        },
+        {
+          "character": "TUCKER",
+          "line": "It's Rostov, sir. I think you need to get Malcolm.",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "Turbolift"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TUCKER",
+          "line": "I mean, whoever's running Security, down here right away."
+        }
+      ],
+      "location": "Engineering"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "ARCHER",
+          "line": "Hoshi, get a security team to Engineering. Have them put Crewman Rostov in his quarters."
+        },
+        {
+          "character": "HOSHI",
+          "line": "Aye, sir. Captain, we've been getting reports from all over the ship. Some of the crew are acting very strange."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Then we're going to need more than one security team. Find out who's acting strange and have them confined to their quarters."
+        },
+        {
+          "character": "TRAVIS",
+          "line": "How do we know the security officers are okay?"
+        },
+        {
+          "character": "ARCHER",
+          "line": "For the moment, we're going to have to hope they are. Start working on a way to figure out who's themselves and who's not. Maybe Phlox can help you."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "COOK",
+          "line": "Commander."
+        },
+        {
+          "character": "TUCKER",
+          "line": "Run into a problem?"
+        },
+        {
+          "character": "COOK",
+          "line": "No, sir. Just ready to calibrate the dilithium matrix."
+        },
+        {
+          "character": "TUCKER",
+          "line": "Great. Wait till I give you the signal."
+        }
+      ],
+      "location": "Engineering"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "HOSHI",
+          "line": "We polarized the hull plating as soon as we detected that ship. Obviously it didn't do any good. What's keeping them from taking all of us?"
+        },
+        {
+          "character": "ARCHER",
+          "line": "Archer."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TUCKER",
+          "line": "You've got impulse engines back, Captain."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Thanks, Trip.",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "Engineering"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "ARCHER",
+          "line": "Hold our position."
+        },
+        {
+          "character": "HOSHI",
+          "line": "I thought you said we needed to get out of here."
+        },
+        {
+          "character": "ARCHER",
+          "line": "They've got Malcolm, and God knows how many others. Until we find a way to get them back, we're not going anywhere."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "ARCHER",
+          "line": "What's the big secret?"
+        },
+        {
+          "character": "T'POL",
+          "line": "We thought it best not to diskuss this over the comm. We don't know who's been taken."
+        },
+        {
+          "character": "ARCHER",
+          "line": "What have you got?"
+        },
+        {
+          "character": "PHLOX",
+          "line": "It was simpler than I thought. Elevated acetylcholine levels in the autonomic nervous"
+        },
+        {
+          "character": "ARCHER",
+          "line": "Doctor, whatever you've got, we need to put it to work."
+        },
+        {
+          "character": "PHLOX",
+          "line": "The Sub-Commander programd the medical computer. It's modifying this hand-scanner as we speak."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Get to work as soon as you're ready."
+        }
+      ],
+      "location": "Sickbay"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TUCKER",
+          "line": "Tucker to Ensign Mayweather.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "TRAVIS",
+          "line": "Go ahead, sir."
+        },
+        {
+          "character": "TUCKER",
+          "line": "I'm a little short-handed, Travis.",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TUCKER",
+          "line": "Think I could get you to go back to the starboard nacelle and re-polarize the warp coils?"
+        }
+      ],
+      "location": "Engineering"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TRAVIS",
+          "line": "No problem, sir."
+        },
+        {
+          "character": "TUCKER",
+          "line": "Call me when you get to the catwalk.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "TRAVIS",
+          "line": "I'm on my way."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "T'POL",
+          "line": "There are two here."
+        },
+        {
+          "character": "PHLOX",
+          "line": "Ensign Cole and Crewman Rossi."
+        }
+      ],
+      "location": "Mess hall"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TRAVIS",
+          "line": "Mayweather to the Bridge."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Go ahead.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "TRAVIS",
+          "line": "One of those things just followed me up the starboard strut, but when I got into the catwalk it didn't come through. There must be something keeping it from getting in here."
+        }
+      ],
+      "location": "Catwalk"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "ARCHER",
+          "line": "Then you'd better stay where you are."
+        },
+        {
+          "character": "TRAVIS",
+          "line": "Aye, sir.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "ARCHER",
+          "line": "Archer to Commander Tucker."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TUCKER",
+          "line": "Yes, Captain?"
+        },
+        {
+          "character": "ARCHER",
+          "line": "Is there some kind of shielding",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "Engineering"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "ARCHER",
+          "line": "In the nacelles that might keep these aliens from getting in?"
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TUCKER",
+          "line": "The catwalk's reinforced with osmium alloy, but it's hard to say if that would do it."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Travis thinks it will.",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "Engineering"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "ARCHER",
+          "line": "I need you to stop whatever you're doing and transfer all command functions"
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "ARCHER",
+          "line": "To the starboard catwalk. We're going to have to get everybody in there.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "TUCKER",
+          "line": "I'm on it."
+        }
+      ],
+      "location": "Engineering"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "ARCHER",
+          "line": "I want you and T'Pol to get the crew up there as quickly as you can. Hoshi."
+        },
+        {
+          "character": "HOSHI",
+          "line": "It would be best if they stayed where they were."
+        },
+        {
+          "character": "ARCHER",
+          "line": "What?"
+        },
+        {
+          "character": "HOSHI",
+          "line": "We're offering them a great opportunity. They may never get another chance to experience existence as we do."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Security to the Bridge. You're taking over my crew. Why?"
+        },
+        {
+          "character": "HOSHI",
+          "line": "I understand how you may be frightened by all this. Losing your substance, existing as perceptive energy, but you'll be grateful once you've made the crossing, I promise you."
+        },
+        {
+          "character": "ARCHER",
+          "line": "We're kind of fond of our substance. We're not very anxious to give it up."
+        },
+        {
+          "character": "HOSHI",
+          "line": "Those who've preceded you are safe and happy. They'll understand."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Are you doing this for our benefit or for yours?"
+        },
+        {
+          "character": "ARCHER",
+          "line": "Escort Ensign Sato to her quarters."
+        },
+        {
+          "character": "HOSHI",
+          "line": "You'll understand."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "ARCHER",
+          "line": "How many?"
+        },
+        {
+          "character": "T'POL",
+          "line": "Fifty eight, including us."
+        },
+        {
+          "character": "ARCHER",
+          "line": "And outside?"
+        },
+        {
+          "character": "T'POL",
+          "line": "Twenty four locked in their quarters, and Doctor Phlox."
+        },
+        {
+          "character": "ARCHER",
+          "line": "You okay, Travis?"
+        },
+        {
+          "character": "TRAVIS",
+          "line": "I'm fine, sir. Thank you."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Trip?"
+        },
+        {
+          "character": "TRAVIS",
+          "line": "I saw him down near the Command Compartment."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Thanks."
+        },
+        {
+          "character": "T'POL",
+          "line": "We need to learn more about these life forms."
+        },
+        {
+          "character": "ARCHER",
+          "line": "What we need is to get our people back."
+        },
+        {
+          "character": "T'POL",
+          "line": "It's illogical to believe we can do that without learning more about the aliens' intentions."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Do you have something in mind?"
+        },
+        {
+          "character": "T'POL",
+          "line": "I'd like your permission to leave the catwalk."
+        },
+        {
+          "character": "ARCHER",
+          "line": "You wouldn't have a chance. One of those things would take you before you got back to the saucer section."
+        },
+        {
+          "character": "T'POL",
+          "line": "Not necessarily. If a lifeform attempts to exchange its consciousness with mine, I believe I can prevent it."
+        },
+        {
+          "character": "ARCHER",
+          "line": "What makes you think that?"
+        },
+        {
+          "character": "T'POL",
+          "line": "No offense, Captain, but the Vulcan mind is far more diskiplined that yours. It can resist temptations, emotions, and I believe, invasions by these lifeforms."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Even if you're right, what would you accomplish?"
+        },
+        {
+          "character": "T'POL",
+          "line": "If an alien attempts this transfer, there may be a brief period when our minds are conjoined. It's possible I can ascertain their motives."
+        },
+        {
+          "character": "ARCHER",
+          "line": "It's too dangerous. I won't let you do it."
+        },
+        {
+          "character": "T'POL",
+          "line": "There's no other choice."
+        },
+        {
+          "character": "ARCHER",
+          "line": "And if you're wrong?"
+        },
+        {
+          "character": "T'POL",
+          "line": "It's a risk I'm willing to take."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Well, I'm not. They've already taken twenty four people. I'm not going to give them another one."
+        },
+        {
+          "character": "T'POL",
+          "line": "You told me you trust my judgment. Trust it now, unless you have another suggestion."
+        }
+      ],
+      "location": "Catwalk"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "PHLOX",
+          "line": "Sickbay."
+        },
+        {
+          "character": "HOSHI",
+          "line": "There's been an accident.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "PHLOX",
+          "line": "Hoshi?"
+        },
+        {
+          "character": "HOSHI",
+          "line": "Hoshi Sato's been injured. I don't know how to repair the damage to her body.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "PHLOX",
+          "line": "What happened?"
+        },
+        {
+          "character": "HOSHI",
+          "line": "Her leg is fractured. She's in considerable pain. She needs assistance.",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "Sickbay"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "PHLOX",
+          "line": "I'm armed. If you're near the door, step away."
+        },
+        {
+          "character": "HOSHI",
+          "line": "She's on the floor. She can't move.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "PHLOX",
+          "line": "There's nothing the matter with you."
+        },
+        {
+          "character": "HOSHI",
+          "line": "I need to find the rest of your crew. Where are they?"
+        },
+        {
+          "character": "PHLOX",
+          "line": "I'm glad I brought you along."
+        }
+      ],
+      "location": "Hoshi's quarters"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "PHLOX",
+          "line": "Doctor Phlox."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Is everything going all right, Doc?",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "PHLOX",
+          "line": "More or less."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Good. T'Pol and I are going to need your help.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "PHLOX",
+          "line": "Sub-Commander? T'Pol?"
+        },
+        {
+          "character": "PHLOX",
+          "line": "Have you succeeded?"
+        },
+        {
+          "character": "PHLOX",
+          "line": "Phlox to Captain Archer."
+        }
+      ],
+      "location": "Corridor"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "ARCHER",
+          "line": "Did you find her?"
+        },
+        {
+          "character": "PHLOX",
+          "line": "I'm with her now. She's not acting like the others",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "Catwalk"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "PHLOX",
+          "line": "But she's certainly not herself."
+        }
+      ],
+      "location": "Corridor"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "ARCHER",
+          "line": "Doesn't sound like that's the outcome she expected."
+        },
+        {
+          "character": "PHLOX",
+          "line": "Her neural pathways are hyperstimulated.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "ARCHER",
+          "line": "Damn it. You'd better take her to her quarters."
+        },
+        {
+          "character": "PHLOX",
+          "line": "Yes, Captain.",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "Catwalk"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "PHLOX",
+          "line": "Come with me. Everything will be all right."
+        },
+        {
+          "character": "PHLOX",
+          "line": "I'm afraid I have to insist. I promise you"
+        },
+        {
+          "character": "PHLOX",
+          "line": "T'Pol! What is my name? Sub-Commander!"
+        },
+        {
+          "character": "T'POL",
+          "line": "They're lying to us."
+        },
+        {
+          "character": "PHLOX",
+          "line": "My name."
+        },
+        {
+          "character": "T'POL",
+          "line": "We don't have time for this, Phlox. I have to get to the Captain."
+        }
+      ],
+      "location": "Corridor"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "T'POL",
+          "line": "Their ship is deteriorating, and they have no way to repair it. They can't survive in space."
+        },
+        {
+          "character": "ARCHER",
+          "line": "So they are doing this to save themselves."
+        },
+        {
+          "character": "T'POL",
+          "line": "Eighty two of them are. One for every crewman on Enterprise."
+        },
+        {
+          "character": "TRAVIS",
+          "line": "How many of them are there?"
+        },
+        {
+          "character": "T'POL",
+          "line": "Hundreds. The rest will try to find another vessel of corporeal beings. Where's Commander Tucker?"
+        },
+        {
+          "character": "TRAVIS",
+          "line": "I'm not sure."
+        },
+        {
+          "character": "T'POL",
+          "line": "Please find him."
+        },
+        {
+          "character": "T'POL",
+          "line": "If the Commander can find a way to shield Enterprise, we can leave the catwalk and go to warp."
+        },
+        {
+          "character": "ARCHER",
+          "line": "And lose a third of the crew?"
+        },
+        {
+          "character": "T'POL",
+          "line": "Two thirds will survive."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Unacceptable. We're going to find a way to get them back."
+        },
+        {
+          "character": "T'POL",
+          "line": "That may be difficult."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Can they survive in a host that's dead?"
+        },
+        {
+          "character": "T'POL",
+          "line": "It would be no different than being exposed to space. They'd die."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Archer to Phlox."
+        },
+        {
+          "character": "PHLOX",
+          "line": "Yes, Captain.",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "Catwalk command area"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TRAVIS",
+          "line": "Are you doing all right?"
+        },
+        {
+          "character": "CREWMAN",
+          "line": "We're okay."
+        },
+        {
+          "character": "CREWMAN 2",
+          "line": "How long do you think we'll be in here, Ensign?"
+        },
+        {
+          "character": "TRAVIS",
+          "line": "I'm sure the Captain will get us out as soon as he can. Has anyone seen Commander Tucker?"
+        },
+        {
+          "character": "CREWMAN",
+          "line": "No, sir."
+        },
+        {
+          "character": "CREWMAN 2",
+          "line": "Not for a while. I think he was down there."
+        },
+        {
+          "character": "TRAVIS",
+          "line": "Thanks."
+        }
+      ],
+      "location": "Catwalk"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "PHLOX",
+          "line": "We'll have to purge the carbon dioxide within twenty seconds of respiratory failure."
+        }
+      ],
+      "location": "Locker room"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "ARCHER",
+          "line": "That'll give you enough time to resuscitate them?"
+        },
+        {
+          "character": "PHLOX",
+          "line": "Oh, yes.",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "Catwalk command area"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "PHLOX",
+          "line": "It's enough time. Don't forget to close off the ventilation to the starboard nacelle."
+        }
+      ],
+      "location": "Locker room"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "PHLOX",
+          "line": "We wouldn't want the gas to affect you and the others.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "ARCHER",
+          "line": "Understood."
+        },
+        {
+          "character": "TRAVIS",
+          "line": "Sorry, Captain, I can't find Commander Tucker."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Has anyone opened either of the ventral hatches?"
+        },
+        {
+          "character": "T'POL",
+          "line": "Not since we sealed them."
+        },
+        {
+          "character": "ARCHER",
+          "line": "You must've missed him."
+        },
+        {
+          "character": "TRAVIS",
+          "line": "I'll look again."
+        }
+      ],
+      "location": "Catwalk command area"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "PHLOX",
+          "line": "Four, five, six, seven."
+        },
+        {
+          "character": "ARCHER",
+          "line": "All right. Does it have an ID tag?",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "PHLOX",
+          "line": "Junction four one alpha. Atmospheric"
+        }
+      ],
+      "location": "Atmosphere control"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "PHLOX",
+          "line": "Recycling manifold.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "ARCHER",
+          "line": "Good. Do you see the releases on either side?"
+        },
+        {
+          "character": "PHLOX",
+          "line": "Yes. There are four of them.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "PHLOX",
+          "line": "Two blue.",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "Catwalk command area"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "PHLOX",
+          "line": "Two silver."
+        }
+      ],
+      "location": "Atmosphere control"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "ARCHER",
+          "line": "Open them. The silver ones first."
+        }
+      ],
+      "location": "Catwalk command area"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "PHLOX",
+          "line": "Done."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Now pull the panel off."
+        },
+        {
+          "character": "PHLOX",
+          "line": "What should I do with it?"
+        }
+      ],
+      "location": "Atmosphere control"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "ARCHER",
+          "line": "Whatever you want."
+        }
+      ],
+      "location": "Catwalk command area"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "ARCHER",
+          "line": "Lay it down on the floor.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "PHLOX",
+          "line": "Very well."
+        },
+        {
+          "character": "PHLOX",
+          "line": "Right where you said it was, Captain."
+        }
+      ],
+      "location": "Atmosphere control"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "ARCHER",
+          "line": "Find the control panel."
+        }
+      ],
+      "location": "Catwalk command area"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "PHLOX",
+          "line": "It's right here. It has six green lights."
+        }
+      ],
+      "location": "Atmosphere control"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "ARCHER",
+          "line": "Each of them should have a switch next to it."
+        },
+        {
+          "character": "PHLOX",
+          "line": "About five centimeters to the left.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "ARCHER",
+          "line": "Now, before we can release the gas into central ventilation, you're going to have to reroute the transfer lines to the carbon dioxide tanks."
+        }
+      ],
+      "location": "Catwalk command area"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "PHLOX",
+          "line": "And how do I go about doing that?"
+        }
+      ],
+      "location": "Atmosphere control"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "T'POL",
+          "line": "Those six switches control the feed. You're going to have to recalibrate them in sequence for CO2."
+        }
+      ],
+      "location": "Catwalk command area"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "T'POL",
+          "line": "I'll guide you through it.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "TRAVIS",
+          "line": "Commander, I've been looking all over for you! Are you all right, sir?"
+        },
+        {
+          "character": "TUCKER",
+          "line": "I'm fine."
+        },
+        {
+          "character": "TRAVIS",
+          "line": "The Captain asked me to find you. He needs you in the Command Compartment. Commander!"
+        },
+        {
+          "character": "TRAVIS",
+          "line": "You can't go out there, sir. It's not safe!"
+        },
+        {
+          "character": "TRAVIS",
+          "line": "What are you doing?"
+        }
+      ],
+      "location": "Atmosphere control"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "PHLOX",
+          "line": "I've reached the access tube, Captain."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Good. Now pull off the panel.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "PHLOX",
+          "line": "It's not coming off."
+        }
+      ],
+      "location": "Corridor"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "ARCHER",
+          "line": "It'll come off. You just need to use a little muscle."
+        }
+      ],
+      "location": "Catwalk command area"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "PHLOX",
+          "line": "I've used every muscle I've got. it won't budge."
+        }
+      ],
+      "location": "Corridor"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "ARCHER",
+          "line": "Try using your foot"
+        }
+      ],
+      "location": "Catwalk command area"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "ARCHER",
+          "line": "For leverage.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "PHLOX",
+          "line": "Good suggestion."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Okay.",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "Corridor"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "ARCHER",
+          "line": "Now, the next part's a piece of cake."
+        },
+        {
+          "character": "TRAVIS",
+          "line": "We've got a problem, Captain."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Stand by, Doc. What happened?"
+        },
+        {
+          "character": "TRAVIS",
+          "line": "Commander Tucker. He just went out the forward hatch."
+        },
+        {
+          "character": "ARCHER",
+          "line": "What?"
+        },
+        {
+          "character": "TRAVIS",
+          "line": "I tried to stop him, sir. He didn't look like himself. I think one of those things got inside him."
+        },
+        {
+          "character": "T'POL",
+          "line": "If he knows what we're doing."
+        },
+        {
+          "character": "ARCHER",
+          "line": "We're going to have to speed things up, Doc. Trip's been taken. He left the catwalk a few minutes ago."
+        }
+      ],
+      "location": "Catwalk command area"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "ARCHER",
+          "line": "If he tries to let his buddies out of their quarters we don't have any guards down there to stop him.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "PHLOX",
+          "line": "Tell me what to do."
+        }
+      ],
+      "location": "Corridor"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "ARCHER",
+          "line": "You'll have to purge the osmotic filters."
+        }
+      ],
+      "location": "Catwalk command area"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "ARCHER",
+          "line": "The valves are right behind the control circuit. You're going to have to get two fingers through the upper holes in the support plate.",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "Corridor"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "ARCHER",
+          "line": "Normally, that wouldn't be a problem, but wearing those gloves"
+        }
+      ],
+      "location": "Catwalk command area"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "ARCHER",
+          "line": "Could make it difficult.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "PHLOX",
+          "line": "Back home, I'm known for my fine motor skills. I doubt a pair of EV gloves"
+        }
+      ],
+      "location": "Corridor"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "PHLOX",
+          "line": "Will deter me.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "T'POL",
+          "line": "There are two solenoids behind the openings. When you tap them simultaneously, the plate should retract."
+        }
+      ],
+      "location": "Catwalk command area"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "PHLOX",
+          "line": "Did you say there were two?"
+        }
+      ],
+      "location": "Corridor"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "ARCHER",
+          "line": "About three centimeters apart."
+        }
+      ],
+      "location": "Catwalk command area"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "PHLOX",
+          "line": "Got it."
+        },
+        {
+          "character": "ARCHER",
+          "line": "You should be looking at two rotary valves and a lever.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "PHLOX",
+          "line": "I see them."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Open both valves all the way, then turn the lever to the three o'clock position. That should do it.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "T'POL",
+          "line": "The nine o'clock position will vent the gas when we're finished."
+        },
+        {
+          "character": "PHLOX",
+          "line": "Phlox to Captain Archer."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Go ahead.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "PHLOX",
+          "line": "Mission accomplished."
+        }
+      ],
+      "location": "Corridor"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "PHLOX",
+          "line": "I'm monitoring Commander Tucker.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "ARCHER",
+          "line": "Good job."
+        }
+      ],
+      "location": "Catwalk command area"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "PHLOX",
+          "line": "It's left Commander Tucker."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Vent the gas.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "PHLOX",
+          "line": "In a moment, Captain. I need to be certain the CO2 levels are consistent throughout the ship, that all the lifeforms are gone."
+        }
+      ],
+      "location": "Corridor"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "ARCHER",
+          "line": "Ready, Travis?"
+        },
+        {
+          "character": "TRAVIS",
+          "line": "Yes, sir."
+        }
+      ],
+      "location": "Catwalk command area"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "PHLOX",
+          "line": "It's done."
+        }
+      ],
+      "location": "Corridor"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "ARCHER",
+          "line": "Full impulse."
+        },
+        {
+          "character": "T'POL",
+          "line": "They're in pursuit."
+        },
+        {
+          "character": "T'POL",
+          "line": "Stand by. Now."
+        }
+      ],
+      "location": "Catwalk command area"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TUCKER",
+          "line": "What's going on, Doc?"
+        },
+        {
+          "character": "PHLOX",
+          "line": "Just breathe deeply. You'll be fine."
+        },
+        {
+          "character": "TUCKER",
+          "line": "I was just at a barbecue."
+        },
+        {
+          "character": "PHLOX",
+          "line": "In through the nose, out through the mouth."
+        },
+        {
+          "character": "TUCKER",
+          "line": "I've never seen so many ribs."
+        },
+        {
+          "character": "PHLOX",
+          "line": "Follow me, Commander. We have a lot of doors to unlock."
+        }
+      ],
+      "location": "Corridor"
+    }
+  ],
+  "schedule": {
+    "episode": 18,
+    "number": 44,
+    "season": 2
+  },
+  "stardate": "Unknown",
+  "title": "The Crossing"
+}

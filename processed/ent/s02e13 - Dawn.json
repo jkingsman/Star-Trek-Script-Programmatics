@@ -1,0 +1,966 @@
+{
+  "airdate": 1042012800,
+  "scenes": [
+    {
+      "dialogue": [
+        {
+          "character": "TUCKER",
+          "line": "Chief Engineers log, supplemental. This turned out to be the perfect spot to test the autopilot upgrades. The gas giant has dozens of moons. It's like a gravitational jigsaw puzzle. Watch out, Travis. These modifications are working so well, pretty soon we won't need pilots anymore."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Archer to Shuttlepod one.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "TUCKER",
+          "line": "Captain?"
+        },
+        {
+          "character": "ARCHER",
+          "line": "Looks like you're about to have some company, Trip. Sensors are picking up a small",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "TUCKER",
+          "line": "Say again, Captain. I'm picking up a lot of interference. ARCHER [OC] There's a small vessel approaching your position."
+        },
+        {
+          "character": "TUCKER",
+          "line": "This is Commander Charles Tucker."
+        },
+        {
+          "character": "TUCKER",
+          "line": "Tucker to Enterprise. Mayday. I'm losing power. Mayday! If you can hear me, I'm making an emergency landing, thrusters only. I take it back, Travis. I could use a flesh and blood pilot right about now."
+        }
+      ],
+      "location": "Shuttlepod"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "HOSHI",
+          "line": "Enterprise to Shuttlepod One. Commander Tucker, do you read me?"
+        },
+        {
+          "character": "TRAVIS",
+          "line": "Malcolm?"
+        },
+        {
+          "character": "REED",
+          "line": "I detected weapons fire and then both ships just disappeared."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Last known position?"
+        },
+        {
+          "character": "REED",
+          "line": "Approximately fifty thousand kilometers, bearing zero zero three mark two seven, I think. I can't be more specific. It's the damned interference."
+        },
+        {
+          "character": "T'POL",
+          "line": "Many of these moons have atmospheres that contain selenium isotopes. That's most likely what's affecting our sensors."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Trip's a good pilot. If he was near one of those moons he most likely set down on it. How many are there?"
+        },
+        {
+          "character": "T'POL",
+          "line": "Sixty two."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Then we'd better start looking. Travis."
+        },
+        {
+          "character": "TRAVIS",
+          "line": "Yes, sir."
+        },
+        {
+          "character": "ARCHER",
+          "line": "We'll scan every moon, even if we have to do it with binoculars. Keep hailing him."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TUCKER",
+          "line": "Chief Engineer's Log, supplemental. For the record, I was attacked by a small craft. I don't know what I did to provoke him. Something in this moon's atmosphere neutralized my engines. I was forced to make an emergency landing. Looks like I took some damage on impact. Main power's still offline. I don't think I'll be flying out of here. First things first. I'll try and get the transceiver working, contact the Enterprise."
+        }
+      ],
+      "location": "Shuttlepod"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TUCKER",
+          "line": "Damn it."
+        },
+        {
+          "character": "TUCKER",
+          "line": "Son of a bitch stole my transceiver."
+        }
+      ],
+      "location": "Moon"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "ARCHER",
+          "line": "Who are they?"
+        },
+        {
+          "character": "T'POL",
+          "line": "An Arkonian military vessel."
+        },
+        {
+          "character": "ARCHER",
+          "line": "You've dealt with them?"
+        },
+        {
+          "character": "T'POL",
+          "line": "No, but I'm aware of their reputation. If we're in their territory, we should proceed with extreme caution."
+        },
+        {
+          "character": "HOSHI",
+          "line": "They're hailing us."
+        },
+        {
+          "character": "ZSHAAR",
+          "line": "You are on an unauthorized course. Leave immediately.",
+          "modifier": "screen"
+        },
+        {
+          "character": "ARCHER",
+          "line": "And you are?"
+        },
+        {
+          "character": "ZSHAAR",
+          "line": "Captain Khata'n Zshaar. I have orders to destroy any vessel that violates our territory.",
+          "modifier": "screen"
+        },
+        {
+          "character": "ARCHER",
+          "line": "I'm Captain Jonathan Archer of the Starship Enterprise. We weren't aware that this system was claimed by anyone."
+        },
+        {
+          "character": "ZSHAAR",
+          "line": "Why is there a Vulcan on your bridge?",
+          "modifier": "screen"
+        },
+        {
+          "character": "ARCHER",
+          "line": "Sub-Commander T-Pol is my Science Officer."
+        },
+        {
+          "character": "ZSHAAR",
+          "line": "Turn your ship around.",
+          "modifier": "screen"
+        },
+        {
+          "character": "ARCHER",
+          "line": "A member of my crew is missing. We believe he exchanged weapons fire with a small vessel. Was it one of yours?"
+        },
+        {
+          "character": "ZSHAAR",
+          "line": "We sent a patrol ship to intercept your shuttle. We have also lost contact.",
+          "modifier": "screen"
+        },
+        {
+          "character": "ARCHER",
+          "line": "Then maybe we can look for them together. Once we've recovered our crewman we'll be more than happy to leave."
+        },
+        {
+          "character": "ZSHAAR",
+          "line": "If your shuttle did encounter my patrol ship, your crewman is already dead.",
+          "modifier": "screen"
+        },
+        {
+          "character": "ARCHER",
+          "line": "Either way, we're not going anywhere until we know what happened. Now it seems to me we have a similar problem. Two missing people and sixty two moons. It'll go a lot faster if we use both our ships to co-ordinate the search. The sooner we get started, the sooner we'll be out of your territory."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TUCKER",
+          "line": "It's him. I recognize his shuttlecraft. He seems about as bad off as I am. Whatever knocked out my engines probably did the same to his. If I'd brought a Universal Translator along, I'd be able to explain to this guy that I'm just trying to get out of here like he is. One piece of good news. It's starting to warm up a little. Dawn is coming."
+        }
+      ],
+      "location": "Shuttlepod"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TUCKER",
+          "line": "I'm coming out now. Please don't fire. I want to talk. I'm unarmed.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "TUCKER",
+          "line": "We need to talk. You have something that belongs to me. I want it back. If you understand anything that I'm saying to you, I want you to listen very, very closely. Mary had a little lamb. Its fleece was white as snow.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "TUCKER",
+          "line": "And everywhere that Mary went, the lamb was sure to go.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "TUCKER",
+          "line": "Now, maybe we can introduce ourselves."
+        },
+        {
+          "character": "TUCKER",
+          "line": "Nice to meet you, too. Now, I don't want to hurt you. I just want my transceiver back."
+        },
+        {
+          "character": "TUCKER",
+          "line": "I'm no good until I've had my coffee."
+        },
+        {
+          "character": "TUCKER",
+          "line": "You wouldn't have a Universal Translator on you?"
+        },
+        {
+          "character": "TUCKER",
+          "line": "I don't understand a word you're saying!"
+        },
+        {
+          "character": "TUCKER",
+          "line": "I can't make it work. It's broken. You know, broken. I was trying to make repairs when you stole it."
+        },
+        {
+          "character": "TUCKER",
+          "line": "What?"
+        },
+        {
+          "character": "ZHO'KAAN",
+          "line": "Kushka roatta."
+        },
+        {
+          "character": "TUCKER",
+          "line": "You want me to fix your transceiver."
+        },
+        {
+          "character": "TUCKER",
+          "line": "Is that a yes or a no?"
+        },
+        {
+          "character": "ZHO'KAAN",
+          "line": "Kushka."
+        },
+        {
+          "character": "TUCKER",
+          "line": "Kushka to you, too."
+        },
+        {
+          "character": "TUCKER",
+          "line": "You kill me and I can't fix anything. You're going to have to untie me. I need my hands."
+        },
+        {
+          "character": "TUCKER",
+          "line": "I try anything, I'm a dead man. I get the message."
+        }
+      ],
+      "location": "Alien campfire"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "ARCHER",
+          "line": "Any progress?"
+        },
+        {
+          "character": "T'POL",
+          "line": "We've searched five of the moons. No sign of Commander Tucker or the Arkonian ship."
+        },
+        {
+          "character": "ARCHER",
+          "line": "And the Arkonians?"
+        },
+        {
+          "character": "T'POL",
+          "line": "It appears they've made no progress either. They're continuing to search the moons they agreed to."
+        },
+        {
+          "character": "ARCHER",
+          "line": "This is their territory. They could have called for more ships to help search."
+        },
+        {
+          "character": "T'POL",
+          "line": "I'm afraid they don't trust us. Primarily because I'm a Vulcan."
+        },
+        {
+          "character": "ARCHER",
+          "line": "What's the bad blood?"
+        },
+        {
+          "character": "T'POL",
+          "line": "We made First Contact nearly a hundred years ago, not long after the Arkonians developed warp drive. But from the beginning, our relations were difficult. Your people accepted Vulcan guidance, opened diplomatic and cultural exchanges. The Arkonians were suspicious and deceitful. Eventually, the High Command withdrew its contingent."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Well, maybe we'll have better luck with them."
+        },
+        {
+          "character": "T'POL",
+          "line": "It doesn't appear promising."
+        },
+        {
+          "character": "ARCHER",
+          "line": "They agreed to work with us."
+        },
+        {
+          "character": "T'POL",
+          "line": "For now. I'd advise you to remain cautious. Arkonians are unpredictable. They're prone to hostility."
+        },
+        {
+          "character": "T'POL",
+          "line": "I'll keep that in mind. Let me know when we reach the next moon."
+        }
+      ],
+      "location": "Ready room"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TUCKER",
+          "line": "Damn it."
+        },
+        {
+          "character": "ZHO'KAAN",
+          "line": "Damn."
+        },
+        {
+          "character": "TUCKER",
+          "line": "Well, looks like we've made some headway in our First Contact between humans and whatever you are. Unfortunately, your first word is something you wouldn't want to use in polite company."
+        },
+        {
+          "character": "ZHO'KAAN",
+          "line": "Damn it."
+        },
+        {
+          "character": "TUCKER",
+          "line": "No. I'm Trip. Trip."
+        },
+        {
+          "character": "ZHO'KAAN",
+          "line": "Trip. Zho'Kaan."
+        },
+        {
+          "character": "TUCKER",
+          "line": "Zho'Kaan. Great. Now that we've been properly introduced, how about some water, Zho'Kaan? It's getting kind of hot. Thirsty. You know. Drink. Water."
+        },
+        {
+          "character": "ZHO'KAAN",
+          "line": "Trip."
+        },
+        {
+          "character": "TUCKER",
+          "line": "Thanks."
+        },
+        {
+          "character": "TUCKER",
+          "line": "What the hell is that?"
+        },
+        {
+          "character": "TUCKER",
+          "line": "Sorry. I have water in my shuttle. Water. Something I can drink."
+        },
+        {
+          "character": "TUCKER",
+          "line": "There's a medkit in my shuttlepod."
+        },
+        {
+          "character": "TUCKER",
+          "line": "What the hell are you doing? Are you crazy?"
+        },
+        {
+          "character": "TUCKER",
+          "line": "That was quite a trick."
+        },
+        {
+          "character": "ZHO'KAAN",
+          "line": "Drat. Drat komacha."
+        },
+        {
+          "character": "TUCKER",
+          "line": "All right, all right. I can't fix this thing. It's a lost cause. Maybe if you vomit on it, it'll fix itself. Come over here. I want you to see this. Here. Come here. It's like talking to Porthos. See this? I tried bypassing the induction coil, but it didn't work. See? In here."
+        },
+        {
+          "character": "TUCKER",
+          "line": "I can't fix this. I need to get back to my ship. My ship. Now, pick 'em up. Pick them up!"
+        },
+        {
+          "character": "TUCKER",
+          "line": "Same to you. Now, let's get going."
+        }
+      ],
+      "location": "Alien's campfire"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "ARCHER",
+          "line": "What have you got?"
+        },
+        {
+          "character": "T'POL",
+          "line": "See for yourself."
+        },
+        {
+          "character": "ARCHER",
+          "line": "I'll need a little help here."
+        },
+        {
+          "character": "T'POL",
+          "line": "It's a thermo-kinetic analysis of e moons. Each of them undergoes extreme temperature variations during their orbits."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Go on."
+        },
+        {
+          "character": "T'POL",
+          "line": "At night, it can drop to five or even ten degrees below zero."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Doesn't sound so bad."
+        },
+        {
+          "character": "T'POL",
+          "line": "During the day, the temperature can rise to as high as one hundred and seventy degrees."
+        },
+        {
+          "character": "ARCHER",
+          "line": "We'd better hope that Trip landed on the night side."
+        },
+        {
+          "character": "T'POL",
+          "line": "And that we find him before the sun rises."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TUCKER",
+          "line": "Don't give me that look. You started this."
+        },
+        {
+          "character": "TUCKER",
+          "line": "You want some food? Food."
+        },
+        {
+          "character": "ZHO'KAAN",
+          "line": "Nohkto."
+        },
+        {
+          "character": "TUCKER",
+          "line": "Nohkto. I couldn't agree more."
+        },
+        {
+          "character": "TUCKER",
+          "line": "You want food from your ship? V'dhoze, that means food?"
+        },
+        {
+          "character": "ZHO'KAAN",
+          "line": "V'dhoze."
+        },
+        {
+          "character": "TUCKER",
+          "line": "V'dhoze, ship."
+        },
+        {
+          "character": "ZHO'KAAN",
+          "line": "Ship."
+        },
+        {
+          "character": "TUCKER",
+          "line": "Yeah. Sorry, but breakfast is going to have to wait. I've figured out a way to get us out of here. I got a pretty good look at your comm. configuration back there. I think I can cannibalize the power supply from your transceiver and use it to get mine working. Maybe get a message off."
+        },
+        {
+          "character": "TUCKER",
+          "line": "Got it. Almost there. I think this is going to work."
+        },
+        {
+          "character": "ZHO'KAAN",
+          "line": "Nohkto."
+        },
+        {
+          "character": "TUCKER",
+          "line": "No, not nohkto. Good."
+        },
+        {
+          "character": "ZHO'KAAN",
+          "line": "Good."
+        },
+        {
+          "character": "TUCKER",
+          "line": "That's right. We're getting out of here. Once we get back to Enterprise and we can finally understand each other, the first words out of your mouth had better be thank you."
+        },
+        {
+          "character": "TUCKER",
+          "line": "You think that's funny?"
+        },
+        {
+          "character": "TUCKER",
+          "line": "You going to laugh now? Tucker to Enterprise. Enterprise, do you read me? Come on, Hoshi. Tucker to Enterprise. This terrain, it's all volcanic. Igneous rock is heavy in diamagnetic minerals. It's interfering with the transmission. I think I know what we need to do. The transceiver, the tsunsana. It's bad down here. Nohkto. But if we take it to higher ground we could avoid some of the interference. I'm going to need help. You and me, together."
+        },
+        {
+          "character": "TUCKER",
+          "line": "See? I'm not going to hurt you, and you are not going to hurt me. We'll work together."
+        },
+        {
+          "character": "TUCKER",
+          "line": "Before we start, we'll get some food from your ship. Your v'dhoze."
+        },
+        {
+          "character": "TUCKER",
+          "line": "Easy."
+        },
+        {
+          "character": "TUCKER",
+          "line": "Is that the best you can do?"
+        },
+        {
+          "character": "TUCKER",
+          "line": "We can fight some more if you want, or we can try to get the hell out of here. What's it going to be?"
+        },
+        {
+          "character": "TUCKER",
+          "line": "Come on."
+        }
+      ],
+      "location": "Trip's campfire"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "HOSHI",
+          "line": "Captain, I'm picking up a transmission."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Trip?"
+        },
+        {
+          "character": "HOSHI",
+          "line": "I can't tell yet. I'm trying to get a lock."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TUCKER",
+          "line": "Respond. Mayday. Enterprise. Anybody. Please respond.",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "Deleted scene"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "ZSHAAR",
+          "line": "We never received a call."
+        },
+        {
+          "character": "ARCHER",
+          "line": "It was transmitted on a Starfleet frequency."
+        },
+        {
+          "character": "ZSHAAR",
+          "line": "You told me these moons are dangerous. So why haven't you rescued your pilot?"
+        },
+        {
+          "character": "ARCHER",
+          "line": "That's why I asked you here. The message was in a Starfleet frequency, but we think the carrier wave was generated by your technology. We weren't able to respond. If we can't isolate the wave we won't be able to rescue either of them. My science officer believes she can recalibrate your scanners to isolate our frequencies. Then you can pinpoint their location."
+        },
+        {
+          "character": "ZSHAAR",
+          "line": "If I allowed a Vulcan access to an Arkonian ship, I'd be executed."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Then send your science officer over here. T'Pol can show him what to do. It seems my engineer and your pilot have found a way to work together."
+        }
+      ],
+      "location": "Ready room"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TUCKER",
+          "line": "Chief Engineer's log, supplemental. It's been two hours since we started signaling the Enterprise. No response yet. The sun's not even up yet and it's already hotter than hell. My sparring partner doesn't look too good. I can't be sure, but I don't think his species can sweat. For the record, I have learned one thing about him. His name's Zho'Kaan. Anything you want to say to the folks back home?"
+        },
+        {
+          "character": "ZHO'KAAN",
+          "line": "Nohkto."
+        },
+        {
+          "character": "TUCKER",
+          "line": "That means bad. You'd be proud of me, Hoshi. I've picked up about a dozen words in his language. A couple of them are real tongue-twisters."
+        },
+        {
+          "character": "TUCKER",
+          "line": "Hey. Zho'Kaan. I though I lost you there."
+        },
+        {
+          "character": "ZHO'KAAN",
+          "line": "Tsunsana. Enterprise krnat?"
+        },
+        {
+          "character": "TUCKER",
+          "line": "No. No Enterprise."
+        },
+        {
+          "character": "ZHO'KAAN",
+          "line": "Damn it."
+        },
+        {
+          "character": "TUCKER",
+          "line": "Don't worry. I'll get Phlox to cook up a new batch for you once we're aboard Enterprise. He's great with that kind of thing. Stay with me, Zho'Kaan. Gan tak. Don't die on me now, understand? All right."
+        },
+        {
+          "character": "HOSHI",
+          "line": "Enterprise.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "TUCKER",
+          "line": "See? I told you. Hoshi, is that you?"
+        }
+      ],
+      "location": "Cliff face"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TUCKER",
+          "line": "Do you read me?",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "ARCHER",
+          "line": "We read you, Trip."
+        },
+        {
+          "character": "TUCKER",
+          "line": "You're just in time, Captain. It's starting to get a little hot down here.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "ARCHER",
+          "line": "We're getting a lock on your position now."
+        },
+        {
+          "character": "TUCKER",
+          "line": "Don't send a shuttlepod.",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TUCKER",
+          "line": "There's something in this atmosphere that'll affect the engines."
+        },
+        {
+          "character": "ARCHER",
+          "line": "it's selenium isotopes, but we don't think it will interfere with the transporter.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "TUCKER",
+          "line": "I'm not alone, Captain."
+        },
+        {
+          "character": "ARCHER",
+          "line": "We know. The Arkonians helped us find you. How are you and their pilot getting along?",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "TUCKER",
+          "line": "Uh, just like old friends. I'm a little worried, though. He's gotten very dehydrated."
+        }
+      ],
+      "location": "Moon"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "ARCHER",
+          "line": "Stand by, Trip. Prepare the transporter."
+        },
+        {
+          "character": "PHLOX",
+          "line": "I wouldn't do that, Captain."
+        },
+        {
+          "character": "ARCHER",
+          "line": "What's the problem?"
+        },
+        {
+          "character": "PHLOX",
+          "line": "I've been analyzing the Arkonians' physiology. Their endocrine system is extremely sensitive to temperature fluctuations. If that pilot is suffering from dehydration, it's no doubt causing an acute cellular breakdown."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Meaning?"
+        },
+        {
+          "character": "PHLOX",
+          "line": "Transporting him will most likely be fatal."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "ARCHER",
+          "line": "Archer to Commander Tucker.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "TUCKER",
+          "line": "I'm still here, Captain."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Trip, we can bring you aboard but we can't transport the Arkonian. Doctor Phlox says it will kill him. We'll try to find a way to get him back to his ship.",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "Cliff face"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "ARCHER",
+          "line": "But in the meantime, I'm getting you out of there."
+        },
+        {
+          "character": "TUCKER",
+          "line": "No way, Captain. I'm not leaving him here.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "T'POL",
+          "line": "The surface temperature is rising quickly, Commander. I estimate it will reach one hundred thirty degrees within the next hour."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Let's get you home."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "ARCHER",
+          "line": "Then we'll worry about your friend.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "TUCKER",
+          "line": "I'm sorry, sir, but I can't do that."
+        }
+      ],
+      "location": "Cliff face"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TUCKER",
+          "line": "Maybe there's another way.",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TUCKER",
+          "line": "We know our pods can't make it, but I got a good look at the circuitry inside the Arkonian shuttle. One of theirs could be modified."
+        }
+      ],
+      "location": "Cliff face"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "ARCHER",
+          "line": "How?"
+        },
+        {
+          "character": "TUCKER",
+          "line": "If they take a look at their intake manifolds",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TUCKER",
+          "line": "I think they could realign them to filter out the isotopes."
+        }
+      ],
+      "location": "Cliff face"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "ARCHER",
+          "line": "We'll talk to them, but I won't let you stay down there much longer."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TUCKER",
+          "line": "Understood."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Archer out.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "TUCKER",
+          "line": "Tucker to Enterprise. Enterprise, respond. Some of these relays have fused. Must be the heat. Hey. Gan tak."
+        },
+        {
+          "character": "TUCKER",
+          "line": "I don't suppose the Captain'll trust me to go out on my own for a while. I wouldn't be surprised if he knocked me down to steward. Your orange juice, sir. Jam or marmalade, sir? But I tell you I wouldn't trade my time on Enterprise. Not for anything. I've seen things I could never imagine back home. I saw the Great Plume of Agosoria and I saw the ringed moons of Matalas Prime. And I stood on an asteroid crater twice as high as Everest, and went diving in the ice caves of Etheenia. Rode in a Suliban cell ship. Spent the night, I spent the night with a princess. Oh, and I even got pregnant once. Now there's a story. I'm sure you have stories, too. That's why we chose this life, right? See things we've never seen before. Hell of a ride, though. Hell of a ride."
+        },
+        {
+          "character": "TUCKER",
+          "line": "Zho'Kaan. V'dhoze."
+        }
+      ],
+      "location": "Cliff face"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "ARCHER",
+          "line": "Come in."
+        },
+        {
+          "character": "ARCHER",
+          "line": "I just got a report from my doctor. Your pilot's responding well. He'll be ready to go home in a few hours."
+        },
+        {
+          "character": "ZSHAAR",
+          "line": "And your crewman?"
+        },
+        {
+          "character": "ARCHER",
+          "line": "He's tired and a bit sunburned, but he's doing fine."
+        },
+        {
+          "character": "ZSHAAR",
+          "line": "If I diskover that my pilot fired on your shuttle without provocation, he'll be diskiplined."
+        },
+        {
+          "character": "ARCHER",
+          "line": "It was a misunderstanding. I hope we can avoid them in the future."
+        },
+        {
+          "character": "ZSHAAR",
+          "line": "I expect you to leave this system immediately, as agreed."
+        },
+        {
+          "character": "ARCHER",
+          "line": "I guess we won't be adding the Arkonians to our list of friends."
+        },
+        {
+          "character": "T'POL",
+          "line": "The encounter was less volatile than I expected. You managed to establish better relations in a single day than the Vulcans have in a century."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Let's hope it stays that way."
+        }
+      ],
+      "location": "Ready room"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TUCKER",
+          "line": "How's he doing?"
+        },
+        {
+          "character": "PHLOX",
+          "line": "Why don't you ask him yourself? The Universal Translator is online."
+        },
+        {
+          "character": "TUCKER",
+          "line": "They told me another ten minutes of sunshine, and we'd have been cooked."
+        },
+        {
+          "character": "ZHO'KAAN",
+          "line": "Tarattaash."
+        },
+        {
+          "character": "TUCKER",
+          "line": "I thought you said the UT was working."
+        },
+        {
+          "character": "ZHO'KAAN",
+          "line": "I believe you promised me some Tarattaash."
+        },
+        {
+          "character": "TUCKER",
+          "line": "You mean the brown stuff you were drinking? Won't take a minute. Anything else while I'm at it? Our chef is making something called chicken Marsala tonight."
+        },
+        {
+          "character": "ZHO'KAAN",
+          "line": "Tarat"
+        },
+        {
+          "character": "TUCKER",
+          "line": "Tarattaash. Got you."
+        },
+        {
+          "character": "ZHO'KAAN",
+          "line": "Trip. When I fired at your vessel. I'm grateful I didn't destroy it."
+        },
+        {
+          "character": "TUCKER",
+          "line": "That makes two of us."
+        }
+      ],
+      "location": "Sickbay"
+    }
+  ],
+  "schedule": {
+    "episode": 13,
+    "number": 39,
+    "season": 2
+  },
+  "stardate": "Unknown",
+  "title": "Dawn"
+}

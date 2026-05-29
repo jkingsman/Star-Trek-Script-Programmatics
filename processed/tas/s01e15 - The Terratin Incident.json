@@ -1,0 +1,1029 @@
+{
+  "airdate": 122371200,
+  "scenes": [
+    {
+      "dialogue": [
+        {
+          "character": "KIRK",
+          "line": "Captain's log, stardate 5577.3. We are approaching the remains of the burnt out supernova Arachna. Requested update survey will begin with measurements of its radiation and volume expansion.",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "unknown"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "SPOCK",
+          "line": "Arachna is entering its cycle of strongest emissions, Captain."
+        },
+        {
+          "character": "KIRK",
+          "line": "Uhura, inform Starbase Twenty Three we have arrived at the gas cloud and are starting to map."
+        },
+        {
+          "character": "UHURA",
+          "line": "Captain, I'm getting some interference on subspace extreme upper registers. If it's a signal, I don't recognize it."
+        },
+        {
+          "character": "KIRK",
+          "line": "Source?"
+        },
+        {
+          "character": "UHURA",
+          "line": "The star Cepheus. From its single satellite. That area's never produced radio transmissions before."
+        },
+        {
+          "character": "KIRK",
+          "line": "Put it on the speaker."
+        },
+        {
+          "character": "SPOCK",
+          "line": "Signals appear random. Perhaps some are beyond our reception capability."
+        },
+        {
+          "character": "KIRK",
+          "line": "Could be a natural radio source newly energized by"
+        },
+        {
+          "character": "SPOCK",
+          "line": "Correction. One isolated word pattern detected. If you accept intersat code as still operative."
+        },
+        {
+          "character": "UHURA",
+          "line": "Intersat? That's been out of use for two centuries."
+        },
+        {
+          "character": "SPOCK",
+          "line": "The code word is t-e-r-r-a-t-i-n."
+        },
+        {
+          "character": "UHURA",
+          "line": "It's stopped now, sir. No response at all to our signal."
+        },
+        {
+          "character": "SPOCK",
+          "line": "Computers show no immediate information on the word terratin."
+        },
+        {
+          "character": "KIRK",
+          "line": "Was the word totally random, Mister Spock?"
+        },
+        {
+          "character": "SPOCK",
+          "line": "No, sir. It was repeated twice in the transmission."
+        },
+        {
+          "character": "KIRK",
+          "line": "Mister Sulu, lay in a course for Cepheus."
+        },
+        {
+          "character": "SULU",
+          "line": "Aye, sir."
+        },
+        {
+          "character": "MCCOY",
+          "line": "Jim, you don't mean you're going to abandon the mapping mission to check out some meaningless signal?"
+        },
+        {
+          "character": "KIRK",
+          "line": "Meaningless at the moment, Bones, but it was sent twice. Odds against that occurring in a totally random transmission are too high to ignore. There may be some intelligence trying to contact us. Mister Spock, continue research on the word terratin."
+        },
+        {
+          "character": "SPOCK",
+          "line": "Yes, sir."
+        },
+        {
+          "character": "MCCOY",
+          "line": "It's a waste of time if you ask me."
+        },
+        {
+          "character": "SPOCK",
+          "line": "Only data is from early exploration. Planet is listed as Class M, core molten, mantle and crust entirely crystalline."
+        },
+        {
+          "character": "KIRK",
+          "line": "But nothing in the computer banks about surface eruptions. There's our likely radio source, simply crystalline projections of recent volcanic activity."
+        },
+        {
+          "character": "KIRK",
+          "line": "Set for a single elliptic orbit."
+        },
+        {
+          "character": "SULU",
+          "line": "Aye, sir. Entering orbit now."
+        },
+        {
+          "character": "SPOCK",
+          "line": "I register a disturbance, Captain. As if an impulse just passed through the ship."
+        },
+        {
+          "character": "KIRK",
+          "line": "Type and source?"
+        },
+        {
+          "character": "SPOCK",
+          "line": "Unidentified. It's extremely faint and diffused. Captain, I suggest we delay orbit until it can be analyzed for nature and effect."
+        },
+        {
+          "character": "KIRK",
+          "line": "Bridge reports."
+        },
+        {
+          "character": "SULU",
+          "line": "All instruments functioning, ship's condition normal, all area status lights are green."
+        },
+        {
+          "character": "AREX",
+          "line": "Sensors detect nothing abnormal, sir."
+        },
+        {
+          "character": "KIRK",
+          "line": "Bridge to Engineering. Scotty, how are your engines?"
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "SCOTT",
+          "line": "Purring like happy kittens, Captain."
+        }
+      ],
+      "location": "Engineering"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "KIRK",
+          "line": "Bridge to Sickbay. Bones, we've just recorded an unidentified impulse. Any effect on sensitive lab animals?"
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "MCCOY",
+          "line": "Nothing, Jim. The gossamer mice show no signs of shock."
+        },
+        {
+          "character": "CHAPEL",
+          "line": "Our halo fish is bright as ever, Doctor. Now, this species loses all color at the least environmental change."
+        },
+        {
+          "character": "KIRK",
+          "line": "Very well.",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "Medical lab"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "KIRK",
+          "line": "Well, Spock, your x-waves seem harmless enough. Make your analysis while we proceed into orbit. Commence your sensor sweep, Mister Arex."
+        },
+        {
+          "character": "AREX",
+          "line": "Sensors show crystalline surface heavily fractured by lava flows. Ash and smoke suspended in oxygen-nitrogen atmos"
+        },
+        {
+          "character": "AREX",
+          "line": "My eyes!"
+        },
+        {
+          "character": "KIRK",
+          "line": "Anyone hurt here?"
+        },
+        {
+          "character": "VARIOUS",
+          "line": "No, sir."
+        },
+        {
+          "character": "KIRK",
+          "line": "Lieutenant Arex?"
+        },
+        {
+          "character": "AREX",
+          "line": "No injury, sir."
+        },
+        {
+          "character": "UHURA",
+          "line": "Damage reports, all ship areas, damage reports."
+        },
+        {
+          "character": "SULU",
+          "line": "All instruments functioning normally. Maintaining orbit. But strictly on impulse power, sir."
+        },
+        {
+          "character": "SPOCK",
+          "line": "Wave bombardment reduced, but continuing. Deflector shields ineffective."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "MCCOY",
+          "line": "No casualties reported, Jim."
+        }
+      ],
+      "location": "Sickbay"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "MCCOY",
+          "line": "What happened?",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "KIRK",
+          "line": "Don't know yet."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "SCOTT",
+          "line": "Engineering. No casualties, Captain, but trouble aplenty with the engines. Every dilithium crystal connection's smashed in the warp engine circuitry. We're trying to bypass them now."
+        }
+      ],
+      "location": "Engineering"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "KIRK",
+          "line": "What about main circuits?"
+        },
+        {
+          "character": "SCOTT",
+          "line": "Well, you have to see it to believe it, sir. Those big crystals in there have come apart. Each of them unpeeling like the rind of an orange."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "KIRK",
+          "line": "Analysis, Spock."
+        },
+        {
+          "character": "SCOTT",
+          "line": "Our only hope now is rewiring impulse. But there are a thousand broken connections."
+        },
+        {
+          "character": "SPOCK",
+          "line": "Captain, this is quite unprecedented. Notice the fracturing is spiro-form, similar to long chain molecules."
+        },
+        {
+          "character": "KIRK",
+          "line": "But dilithium molecules are the hardest, most rigid"
+        },
+        {
+          "character": "GABLER",
+          "line": "Mister Scott! More trouble with the circuit work."
+        },
+        {
+          "character": "SCOTT",
+          "line": "What now, Gabler?"
+        },
+        {
+          "character": "GABLER",
+          "line": "All the tools, sir. They're too big for us to handle."
+        },
+        {
+          "character": "SCOTT",
+          "line": "You sound like you're blathering, man. Wait, I'm coming."
+        },
+        {
+          "character": "KIRK",
+          "line": "Spock, are you slumping?"
+        },
+        {
+          "character": "SPOCK",
+          "line": "I have never slumped in my life, Captain, but I was about to ask you the same"
+        },
+        {
+          "character": "BRIEL",
+          "line": "Security! Anyone, please! Mess Officer Briel requesting help in the Main Dining Room. Tables, chairs, silverware, everything seems to have enlarged. Women losing rings, hairpins. Some are near panic.",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "Engineering"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "UHURA",
+          "line": "Captain, the most incredible thing is happening."
+        },
+        {
+          "character": "KIRK",
+          "line": "We know. The whole ship has apparently expanded."
+        },
+        {
+          "character": "SPOCK",
+          "line": "An equally good possibility is that ship's personnel have contracted, and may be continuing to shrink."
+        },
+        {
+          "character": "KIRK",
+          "line": "Take us out of orbit, Mister Sulu. Shut down all unnecessary systems. Get every ounce of impulse power. We've got to get away from this planet."
+        },
+        {
+          "character": "KIRK",
+          "line": "Captain's log, stardate 5577.5. Our limited power attempt to escape the planet's gravity has failed. Undefined wave bombardment continues, resulting in a contraction of our bodies, or an expansion of the ship, by a factor of point three.",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "UHURA",
+          "line": "No reply to our mayday, Captain. I don't believe we have enough power to transmit to Starbase Twenty Three."
+        },
+        {
+          "character": "KIRK",
+          "line": "Very well. Spock, what have you learned about the wave bombarding us?"
+        },
+        {
+          "character": "SPOCK",
+          "line": "Only that it is complex beyond anything in my experience."
+        },
+        {
+          "character": "SCOTT",
+          "line": "Engineering to Captain Kirk.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "KIRK",
+          "line": "Kirk here. How are they holding out, Scotty?"
+        },
+        {
+          "character": "SCOTT",
+          "line": "We've replaced all the damaged parts we can. With all that's draining them, the well will soon enough run dry, sir.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "KIRK",
+          "line": "Thank you, Scotty. Kirk out. Uhura, reduce mayday signals. One per ten minute cycle. Cut down sensor sweeps, Mister Arex."
+        },
+        {
+          "character": "AREX",
+          "line": "Visual sweeps are already impossible, sir. My eyes no longer fit the opticals."
+        },
+        {
+          "character": "UHURA",
+          "line": "And I can't reach the dial I turned five minutes ago."
+        },
+        {
+          "character": "KIRK",
+          "line": "Kirk to Sickbay."
+        },
+        {
+          "character": "MCCOY",
+          "line": "Sickbay. McCoy here.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "KIRK",
+          "line": "Bones, I need some answers. What's happening to us?"
+        },
+        {
+          "character": "MCCOY",
+          "line": "Come down tot the lab, Jim. I may have something for you now.",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "MCCOY",
+          "line": "There's the test tissue, Jim, compared with the stable infrared."
+        },
+        {
+          "character": "KIRK",
+          "line": "Then Spock's theory is right. We're contracting."
+        },
+        {
+          "character": "MCCOY",
+          "line": "That's why our weight remains the same, same number of atoms. The effect is just reducing the space between the molecules. It's something I've never seen before."
+        },
+        {
+          "character": "SPOCK",
+          "line": "Agreed. And it is accelerating."
+        },
+        {
+          "character": "KIRK",
+          "line": "How long can it keep on?"
+        },
+        {
+          "character": "SPOCK",
+          "line": "Ad infinitum, perhaps, considering distance between atoms is relatively as great as between stars."
+        },
+        {
+          "character": "CHAPEL",
+          "line": "Doctor McCoy, the animals! They're getting too small for the cage mesh. All the gossamers are out. And look how tiny they've gotten. They're just like halo fish. It's tadpole-sized now."
+        },
+        {
+          "character": "SPOCK",
+          "line": "Miss Chapel, what is the composition of this decoration?"
+        },
+        {
+          "character": "CHAPEL",
+          "line": "It was made for me by the titanium smiths of Libra, but it was an arm bracelet. More like a necklace now."
+        },
+        {
+          "character": "SPOCK",
+          "line": "Yet the uniform on which you wear it fits as well as ever. Uniform made of algae-based xenylon, I believe."
+        },
+        {
+          "character": "MCCOY",
+          "line": "Aren't all our uniforms xenylon?"
+        },
+        {
+          "character": "KIRK",
+          "line": "Yes, and they've all been shrinking proportionately with us."
+        },
+        {
+          "character": "SPOCK",
+          "line": "This coral decoration for the aquarium is also shrinking. yet the meteoritic rock in there is unchanged."
+        },
+        {
+          "character": "MCCOY",
+          "line": "That means only organic matter is affected. But how?"
+        },
+        {
+          "character": "SPOCK",
+          "line": "The wave tends to wind tight such spiral molecules as dilithium. There is one other molecular structure"
+        },
+        {
+          "character": "KIRK",
+          "line": "Of course, the double helix of DNA, nucleus of every cell in our bodies. What happens when DNA is compacted completely?"
+        },
+        {
+          "character": "MCCOY",
+          "line": "The strands wouldn't break, Jim, they'd just quit winding."
+        },
+        {
+          "character": "KIRK",
+          "line": "Then we can calculate the limits to our shrinkage."
+        }
+      ],
+      "location": "Medical lab"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "SPOCK",
+          "line": "It's possible. I'll feed the data into the computer banks."
+        },
+        {
+          "character": "KIRK",
+          "line": "Something else we'd better determine first. How long can we expect to maintain control of our ship?"
+        },
+        {
+          "character": "SPOCK",
+          "line": "The computer will project the point at which systems' switches and buttons will be beyond our ability to operate."
+        },
+        {
+          "character": "KIRK",
+          "line": "Captain's log, stardate 5577.7. We will lose effective control of this vessel at the point when we've become approximately one centimeter tall. At the present rate, we will reach this less-than-fingernail length in thirty two minutes.",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "KIRK",
+          "line": "Spock, how small will we ultimately shrink?"
+        },
+        {
+          "character": "SPOCK",
+          "line": "No information on that as yet, sir. I do have one read-out on full spiroid wave analysis. That will take approximately eight years."
+        },
+        {
+          "character": "KIRK",
+          "line": "Bypass that analysis. We've got twenty nine minutes before we're too small to operate ship controls. Everyone continue to jury-rig miniature control mechanisms. There's nothing more we can do."
+        },
+        {
+          "character": "SULU",
+          "line": "But there is, Captain. Request permission to direct phaser fire at the planet. Just let me set for ten seconds, sir."
+        },
+        {
+          "character": "KIRK",
+          "line": "Aiming at what, Mister Sulu? So far all source studies have shown the waves come from an area as large as one sixth the planet's surface. Phaser fire will only waste power."
+        },
+        {
+          "character": "SULU",
+          "line": "What good will it do to wait like this? Just one burst sir, one single"
+        },
+        {
+          "character": "KIRK",
+          "line": "Sulu! I think his leg's broken. We'll need a splint."
+        },
+        {
+          "character": "KIRK",
+          "line": "Let's get him to Sickbay. Every one back to stations."
+        },
+        {
+          "character": "KIRK",
+          "line": "The electric eye. We've grown too small to make it work."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "MCCOY",
+          "line": "What happened?"
+        },
+        {
+          "character": "KIRK",
+          "line": "He fell from the console top."
+        },
+        {
+          "character": "MCCOY",
+          "line": "More and more fall injuries coming. Compound fracture."
+        },
+        {
+          "character": "CHAPEL",
+          "line": "Oh, if only we could use our bone-knitting laser. Doctor McCoy. That microscope laser, the one designed to heal the middle ear, wouldn't it work here?"
+        },
+        {
+          "character": "MCCOY",
+          "line": "It's certainly worth a try."
+        },
+        {
+          "character": "CHAPEL",
+          "line": "It's in the lab shelf supplies. I'll get it."
+        }
+      ],
+      "location": "Sickbay"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "CHAPEL",
+          "line": "Help! Help! Help! Help! Help! Help! Help!"
+        },
+        {
+          "character": "CHAPEL",
+          "line": "Help! Help! Help! Help! Help!"
+        },
+        {
+          "character": "KIRK",
+          "line": "No more climbing heights for you, Nurse. Got that clear?"
+        },
+        {
+          "character": "CHAPEL",
+          "line": "Yes, Captain. But I've also got the miniature laser."
+        }
+      ],
+      "location": "Medical lab"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "KIRK",
+          "line": "How is it, Sulu?"
+        },
+        {
+          "character": "SULU",
+          "line": "I can feel it knitting, sir."
+        },
+        {
+          "character": "SPOCK",
+          "line": "Results on DNA reduction limits have come through, Captain."
+        },
+        {
+          "character": "KIRK",
+          "line": "What are they?"
+        },
+        {
+          "character": "SPOCK",
+          "line": "Factor of thirty two point nine."
+        },
+        {
+          "character": "KIRK",
+          "line": "In other words, we're going down to one sixteenth of an inch high."
+        },
+        {
+          "character": "SPOCK",
+          "line": "Yes, Captain. Well past the operative point of Enterprise controls."
+        },
+        {
+          "character": "KIRK",
+          "line": "Can you calculate the geographic center of the wave emissions from the planet's surface?"
+        },
+        {
+          "character": "SPOCK",
+          "line": "Easily, Captain. May I ask the purpose?"
+        },
+        {
+          "character": "KIRK",
+          "line": "It's as good a place as any to beam down."
+        },
+        {
+          "character": "KIRK",
+          "line": "Kirk to Engineering. Scotty, can you hear me?"
+        },
+        {
+          "character": "SCOTT",
+          "line": "Barely, sir.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "KIRK",
+          "line": "Get a crew down to transporter room three. We have twenty minutes left while we can still operate transporter controls."
+        },
+        {
+          "character": "SCOTT",
+          "line": "How many beaming down, Captain?",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "KIRK",
+          "line": "One, Scotty. Myself."
+        },
+        {
+          "character": "KIRK",
+          "line": "Captain's log, supplemental. There is one last measure we can take to try and stop the bombardment of the lethal spiroid wave. There must be some intelligence behind it. I'm going to attempt direct communication by beaming down to the planet's surface. We have no reason to expect success, but our height is little more than two inches and even this action will be beyond us in fifteen minutes time.",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "Sickbay"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "SPOCK",
+          "line": "This is the best I could do in rigging so small a communicator, sir."
+        },
+        {
+          "character": "KIRK",
+          "line": "Thanks, Spock."
+        },
+        {
+          "character": "SPOCK",
+          "line": "It's range cannot be guaranteed. How will we pinpoint you for return in case it fails?"
+        },
+        {
+          "character": "KIRK",
+          "line": "Scotty, set automatic return for me. If there's anything to be found down there, ten minutes should do it."
+        },
+        {
+          "character": "SCOTT",
+          "line": "Aye, sir. Timer being set."
+        },
+        {
+          "character": "SPOCK",
+          "line": "Captain, the transporter retains a memory of the body's molecular structure. Will it apply as well to your present height?"
+        },
+        {
+          "character": "KIRK",
+          "line": "We'll know that in ten minutes. After that, it won't matter anymore. Prepare to energize."
+        },
+        {
+          "character": "SPOCK",
+          "line": "Good luck, sir."
+        },
+        {
+          "character": "KIRK",
+          "line": "Energize!"
+        },
+        {
+          "character": "SCOTT",
+          "line": "All right then. Heave, lads. Heave!"
+        }
+      ],
+      "location": "Transporter room"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "KIRK",
+          "line": "Kirk to Enterprise. I think we have an answer to the height problem. The transporter beam apparently returns our molecules to normal spacing. Kirk to Enterprise, do you read me?"
+        },
+        {
+          "character": "SPOCK",
+          "line": "We read you, Captain. Wave bombardment has just ceased.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "KIRK",
+          "line": "I think I see"
+        }
+      ],
+      "location": "Planet surface"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "KIRK",
+          "line": "Scotty? Spock?"
+        }
+      ],
+      "location": "Transporter room"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "KIRK",
+          "line": "Scotty, is it you?"
+        },
+        {
+          "character": "SCOTT",
+          "line": "Aye, Captain. For the love of heaven, be careful where you step."
+        },
+        {
+          "character": "KIRK",
+          "line": "Is everyone safe?"
+        },
+        {
+          "character": "SCOTT",
+          "line": "Captain, you'll deafen us for sure!"
+        },
+        {
+          "character": "KIRK",
+          "line": "Everyone accounted for?"
+        },
+        {
+          "character": "SCOTT",
+          "line": "All but the Bridge crew, sir! They were trying to man their posts here when all of a sudden they were beamed away. Every living one of them!"
+        },
+        {
+          "character": "KIRK",
+          "line": "All personnel, away from helm area. Go to the far bulkhead."
+        },
+        {
+          "character": "KIRK",
+          "line": "Message to the inhabitants of the city on the planet below. I hope you can receive this frequency and understand my words. Your survival depends on it. All this ship's armament is locked on the co-ordinates of your city. A demonstration, in case you doubt."
+        },
+        {
+          "character": "KIRK",
+          "line": "You have one minute to restore my Bridge crew unharmed, or you will undergo full barrage."
+        },
+        {
+          "character": "MENDANT",
+          "line": "In the name of the Terratin people, I forbid you to destroy us, Captain Kirk.",
+          "modifier": "screen"
+        },
+        {
+          "character": "KIRK",
+          "line": "You forbid me after what you've done to my people?"
+        },
+        {
+          "character": "MENDANT",
+          "line": "I am Mendant of all this city, equal in command to yourself. We are people of pride, Captain, equal to your own. We neither suffer insult nor give apology for actions. But I give them now, for damage done your starship. Be assured, this land contains much dilithium to replace that you lost.",
+          "modifier": "screen"
+        },
+        {
+          "character": "KIRK",
+          "line": "Where are my officers?"
+        },
+        {
+          "character": "MENDANT",
+          "line": "I request you to understand. We tried to tell you our plight as you passed, that our adopted planet is dying. But our great antenna was buried. We had no choice but to use our invasion defense to reach you.",
+          "modifier": "screen"
+        },
+        {
+          "character": "KIRK",
+          "line": "You still haven't answered my question. Either you tell me what's happened to my people AREX [on viewscreen: Here we are, Captain."
+        },
+        {
+          "character": "SULU",
+          "line": "We're down here in the Capitol building of the Terratins, sir. They beamed us down with their transporters. See for yourself.",
+          "modifier": "screen"
+        },
+        {
+          "character": "KIRK",
+          "line": "Spock, who are the Terratins? Where'd they come from?"
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "SPOCK",
+          "line": "Descendants of an early lost colony, which is why they retain some knowledge of starship methods such as transporter mechanisms. These Earth colonists named and numbered this planet Terra Ten."
+        }
+      ],
+      "location": "Capitol"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "SPOCK",
+          "line": "Hence the present corruption of their name.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "KIRK",
+          "line": "There've been no Earth colonists a sixteenth of an inch tall."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "SPOCK",
+          "line": "Exactly why they were lost, Captain. Spirod epsilon waves are natural here, and shrank them to this size. It has become a genetic characteristic now."
+        }
+      ],
+      "location": "Capitol"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "MENDANT",
+          "line": "Our ancestors were too small ever to be found again, Captain Kirk. We had to build our own world, master our own ways, our own defense. We sought no outsiders, asked no help. Now you see, Captain Kirk. We are about to lose all. We had to force help from your ship.",
+          "modifier": "screen"
+        },
+        {
+          "character": "KIRK",
+          "line": "Your actions all but lost us our ship."
+        },
+        {
+          "character": "MENDANT",
+          "line": "I do not know how to beg. I can only request. Save as many of my people as you can.",
+          "modifier": "screen"
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "UHURA",
+          "line": "They had no other way to reach us except to make us their size. They didn't mean us harm, sir."
+        }
+      ],
+      "location": "Capitol"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "KIRK",
+          "line": "I can help no one under present conditions. All Bridge crew prepare to beam aboard. Each of you carry as much dilithium as you can find."
+        },
+        {
+          "character": "MENDANT",
+          "line": "The Captain orders dilithium. Bring the largest crystals in the city.",
+          "modifier": "screen"
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "KIRK",
+          "line": "Bridge crew, prepare to beam up."
+        }
+      ],
+      "location": "Transporter room"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "SPOCK",
+          "line": "Energize, Captain."
+        }
+      ],
+      "location": "Capitol"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "UHURA",
+          "line": "Nice to be back aboard, sir, and fitting the room again."
+        },
+        {
+          "character": "KIRK",
+          "line": "All crew personnel report to Transporter rooms immediately. Prepare to beam down to planet surface."
+        },
+        {
+          "character": "SPOCK",
+          "line": "The Terratins are making available all possible dilithium. The crystals are small, but I believe they will provide enough power until we can obtain larger pieces."
+        },
+        {
+          "character": "KIRK",
+          "line": "Sulu, take over the transporter here. Spock."
+        }
+      ],
+      "location": "Transporter room"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "MENDANT",
+          "line": "Inform your captain. Great earth cracks will soon swallow all. He must tell us. Shall we prepare to be rescued or to die?"
+        }
+      ],
+      "location": "Capitol"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "KIRK",
+          "line": "How's the helm, Sulu?"
+        },
+        {
+          "character": "SULU",
+          "line": "Responsive, sir."
+        },
+        {
+          "character": "UHURA",
+          "line": "Subspace radio now operational, sir. Starbase Twenty Three is reading."
+        },
+        {
+          "character": "SCOTT",
+          "line": "Last of the crew beamed up, sir. Dilithium supplies are fully restored."
+        },
+        {
+          "character": "KIRK",
+          "line": "Mister Arex, prepare for immediate departure from this area."
+        },
+        {
+          "character": "SPOCK",
+          "line": "Captain, what about the people on the planet?"
+        },
+        {
+          "character": "KIRK",
+          "line": "Mister Sulu, direct forward phasers at the Terratin city. Set for pinpoint fire pattern."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "KIRK",
+          "line": "Spock, the macroscope. Mendant, we welcome your people aboard the Enterprise."
+        },
+        {
+          "character": "MENDANT",
+          "line": "Captain Kirk, we welcome your eye upon our city.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "KIRK",
+          "line": "We're now headed for your new home. The planet Verdanis, ten days distant."
+        },
+        {
+          "character": "MENDANT",
+          "line": "Is it beautiful, as we were told?",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "KIRK",
+          "line": "Very beautiful, much like Earth."
+        },
+        {
+          "character": "MENDANT",
+          "line": "People of the Enterprise, we have no way to pay the debt we owe. But this at least comes from a meeting of all our numbers. We name you honorary Terratins now, and for all time to come.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "SPOCK",
+          "line": "We came rather close to making it more than honorary."
+        },
+        {
+          "character": "KIRK",
+          "line": "Yes, I'd say just about a sixteenth of an inch close."
+        },
+        {
+          "character": "KIRK",
+          "line": "Captain's log, supplemental. The Lilliputian city is to be taken to Verdanis and relocated on a fertile and well-watered plain. Then we'll be able to call the Terratin incident closed.",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "Transporter room"
+    }
+  ],
+  "schedule": {
+    "episode": 15,
+    "number": 15,
+    "season": 1
+  },
+  "stardate": "5577.3",
+  "title": "The Terratin Incident"
+}

@@ -1,0 +1,1583 @@
+{
+  "airdate": 1082530800,
+  "scenes": [
+    {
+      "dialogue": [
+        {
+          "character": "ARCHER",
+          "line": "Previously on Enterprise",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "T'POL",
+          "line": "This is going to happen to me. It's already started. I can feel my control slipping away!"
+        },
+        {
+          "character": "ARCHER",
+          "line": "We're talking about a one-way trip.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "ARCHER",
+          "line": "[OC] I'll be flying the mission. I won't order anyone else to die."
+        },
+        {
+          "character": "ARCHER",
+          "line": "You know about the Spheres. They were constructed by trans-dimensional beings. Their purpose is to reconfigure the Expanse to make it habitable for their species. That's what destroys the Xindi, not humanity.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "REPTILIAN",
+          "line": "We know exactly where your ship is."
+        }
+      ],
+      "location": "unknown"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "REED",
+          "line": "Another breach on C deck, E deck's depressurizing. We can't take much more of this."
+        },
+        {
+          "character": "REED",
+          "line": "They've ceased firing. They're moving off, back into the system."
+        },
+        {
+          "character": "T'POL",
+          "line": "Ensign, get us out of here."
+        },
+        {
+          "character": "TRAVIS",
+          "line": "Thrusters are down. I don't think we're going anywhere."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "REPTILIAN",
+          "line": "You had no right to recall my ships."
+        },
+        {
+          "character": "DEGRA",
+          "line": "And you had no authorisation to launch an attack."
+        },
+        {
+          "character": "REPTILIAN",
+          "line": "The humans should have been destroyed the moment they were detected."
+        },
+        {
+          "character": "HUMANOID",
+          "line": "The Council doesn't agree."
+        },
+        {
+          "character": "REPTILIAN",
+          "line": "You're permitting an enemy vessel to remain in orbit near a military installlation!"
+        },
+        {
+          "character": "DEGRA",
+          "line": "Their ship is critically damaged. They no longer pose a threat."
+        },
+        {
+          "character": "REPTILIAN",
+          "line": "Thanks to an attack that you opposed. At the very least, we should board their vessel and take them prisoner."
+        },
+        {
+          "character": "ARBOREAL",
+          "line": "It is being considered."
+        },
+        {
+          "character": "HUMANOID",
+          "line": "On the subject of prisoners, the Council wants Archer for further interrogation."
+        },
+        {
+          "character": "REPTILIAN",
+          "line": "We're not finished with him."
+        },
+        {
+          "character": "DEGRA",
+          "line": "You've questioned him long enough."
+        },
+        {
+          "character": "REPTILIAN",
+          "line": "He hasn't provided us with the necessary information."
+        },
+        {
+          "character": "HUMANOID",
+          "line": "Perhaps the Council will have more success. You're ordered to release him immediately."
+        },
+        {
+          "character": "REPTILIAN",
+          "line": "Very well."
+        },
+        {
+          "character": "DEGRA",
+          "line": "We've arranged for his transport."
+        },
+        {
+          "character": "REPTILIAN",
+          "line": "We can deliver him."
+        },
+        {
+          "character": "DEGRA",
+          "line": "He's already been severely beaten under your care."
+        },
+        {
+          "character": "REPTILIAN",
+          "line": "He is the commander of an enemy vessel."
+        },
+        {
+          "character": "HUMANOID",
+          "line": "We need Archer in good condition."
+        },
+        {
+          "character": "DEGRA",
+          "line": "If he can't answer questions, we can't interrogate him."
+        },
+        {
+          "character": "REPTILIAN",
+          "line": "He will not be harmed any further. You have my assurances."
+        },
+        {
+          "character": "DEGRA",
+          "line": "That isn't good enough."
+        },
+        {
+          "character": "REPTILIAN",
+          "line": "Meaning?"
+        },
+        {
+          "character": "DEGRA",
+          "line": "It wouldn't be the first of your assurances that fell short."
+        },
+        {
+          "character": "ARBOREAL",
+          "line": "The Council has agreed that the aquatics will transport the prisoner. They've sent a ship. Get him ready."
+        }
+      ],
+      "location": "Degra's ship"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "REED",
+          "line": "The comm. system's still down. We don't have a complete casualty list yet. So far the news isn't good. Five people are confirmed dead, a dozen wounded. Most of the hull breaches have been contained with emergency bulkheads."
+        },
+        {
+          "character": "T'POL",
+          "line": "What about Cargo Bay two?"
+        },
+        {
+          "character": "REED",
+          "line": "I don't know. There's no way to get to it. A large portion of E deck is still decompressed."
+        },
+        {
+          "character": "T'POL",
+          "line": "Weapons?"
+        },
+        {
+          "character": "REED",
+          "line": "The aft torpedo launcher's working, but that's about it. I really don't know what's holding us together, but let's hope it doesn't give out."
+        }
+      ],
+      "location": "Corridor"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "T'POL",
+          "line": "Commander."
+        },
+        {
+          "character": "TUCKER",
+          "line": "The primary warp coil's fried. It has to be rebuilt from scratch."
+        },
+        {
+          "character": "T'POL",
+          "line": "How long?"
+        },
+        {
+          "character": "TUCKER",
+          "line": "A couple of weeks, if we had the parts. We don't. As it stands now, warp drive's out of the question."
+        },
+        {
+          "character": "T'POL",
+          "line": "Impulse?"
+        },
+        {
+          "character": "TUCKER",
+          "line": "I'll have to inspect the hull around the exhaust manifolds, see the damage first-hand."
+        },
+        {
+          "character": "T'POL",
+          "line": "Make it a priority."
+        },
+        {
+          "character": "TUCKER",
+          "line": "We've had a lot of injuries down here. It could speed things up if you assign me some extra help."
+        },
+        {
+          "character": "TUCKER",
+          "line": "Engineering isn't the safest place to be right now."
+        },
+        {
+          "character": "REED",
+          "line": "Indeed. We've already lost one Captain today."
+        }
+      ],
+      "location": "Engineering"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "ARCHER",
+          "line": "Where are you taking me?"
+        }
+      ],
+      "location": "Aquatic's ship"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "REED",
+          "line": "Emergency power's back online. We'll have phase cannons in about an hour."
+        },
+        {
+          "character": "T'POL",
+          "line": "I'd like you to begin repairs on E deck."
+        },
+        {
+          "character": "REED",
+          "line": "I'll have to pull people from other areas."
+        },
+        {
+          "character": "T'POL",
+          "line": "There are engineering components in Cargo Bay two. They're crucial to Commander Tucker's repairs."
+        },
+        {
+          "character": "REED",
+          "line": "Aye."
+        },
+        {
+          "character": "TRAVIS",
+          "line": "There's a vessel approaching."
+        },
+        {
+          "character": "REED",
+          "line": "It's Xindi."
+        },
+        {
+          "character": "T'POL",
+          "line": "Aft torpedoes."
+        },
+        {
+          "character": "REED",
+          "line": "Targeting."
+        },
+        {
+          "character": "T'POL",
+          "line": "The viewscreen?"
+        },
+        {
+          "character": "TRAVIS",
+          "line": "Still offline."
+        },
+        {
+          "character": "REED",
+          "line": "It appears to be a one-man vessel. No armaments."
+        },
+        {
+          "character": "T'POL",
+          "line": "Biosigns?"
+        },
+        {
+          "character": "REED",
+          "line": "One."
+        },
+        {
+          "character": "T'POL",
+          "line": "Bring it in."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "REED",
+          "line": "Here."
+        }
+      ],
+      "location": "Launch bay"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "PHLOX",
+          "line": "No internal injuries. Numerous contusions consistent with blunt trauma."
+        },
+        {
+          "character": "ARCHER",
+          "line": "How many have we lost?"
+        },
+        {
+          "character": "PHLOX",
+          "line": "Fourteen. Three are unaccounted for."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Don't waste time on me."
+        },
+        {
+          "character": "PHLOX",
+          "line": "It's good to see you again, Captain."
+        },
+        {
+          "character": "T'POL",
+          "line": "Damage report. We'll have impulse power in six hours."
+        },
+        {
+          "character": "T'POL",
+          "line": "Aft torpedo launchers and one forward phase cannon are online."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Have Hoshi and Travis start analyzing that pod."
+        },
+        {
+          "character": "T'POL",
+          "line": "Its configuration suggests it's aquatic."
+        },
+        {
+          "character": "ARCHER",
+          "line": "I was aboard one of their ships. That's the last thing I remember."
+        },
+        {
+          "character": "T'POL",
+          "line": "Do you have any idea why they released you?"
+        },
+        {
+          "character": "ARCHER",
+          "line": "I think I may have gotten through to one of them. Degra."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Thanks. Are you all right?"
+        },
+        {
+          "character": "T'POL",
+          "line": "I'm fine. I should help Lieutenant Reed with his repairs."
+        }
+      ],
+      "location": "Sickbay"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "REED",
+          "line": "They went to a lot of trouble to let you go. Do you really think they'll attack us again?"
+        },
+        {
+          "character": "ARCHER",
+          "line": "They're not exactly unified. The reptilians came after us on their own. They might decide to finish what they started."
+        },
+        {
+          "character": "REED",
+          "line": "We've run out of moons to hide behind, but there is a cometary dust cloud not too far off."
+        },
+        {
+          "character": "ARCHER",
+          "line": "T'Pol?"
+        },
+        {
+          "character": "T'POL",
+          "line": "The diamagnetic field should shield us from long range scans."
+        },
+        {
+          "character": "ARCHER",
+          "line": "How far away is it?"
+        },
+        {
+          "character": "CREWMAN",
+          "line": "Engineering to the Bridge. We just picked up a surge in the EPS grid on A deck.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "ARCHER",
+          "line": "Thanks for the warning. How far?"
+        },
+        {
+          "character": "REED",
+          "line": "At present speed, about three days."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Set a course."
+        },
+        {
+          "character": "TRAVIS",
+          "line": "Aye sir."
+        },
+        {
+          "character": "TUCKER",
+          "line": "Instead of hiding, shouldn't we be looking for the weapon?"
+        },
+        {
+          "character": "T'POL",
+          "line": "Our sensors are still offline."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Let's focus on getting ourselves operational. We can't mount a search with a ship coming down on our heads."
+        }
+      ],
+      "location": "Situation room"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "HOSHI",
+          "line": "I thought Insectoid was tough."
+        },
+        {
+          "character": "TRAVIS",
+          "line": "Almost sounds like music."
+        },
+        {
+          "character": "HOSHI",
+          "line": "My mother always wanted me to take piano lessons. I should have listened to her."
+        },
+        {
+          "character": "TRAVIS",
+          "line": "It's never too late. You can start when we get home. We're getting home."
+        }
+      ],
+      "location": "Launch bay"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TUCKER",
+          "line": "What makes you think we can trust this guy?"
+        },
+        {
+          "character": "ARCHER",
+          "line": "Who?"
+        },
+        {
+          "character": "TUCKER",
+          "line": "Degra. He seems like the last person who'd come around to our side. I mean, he designed the weapon."
+        },
+        {
+          "character": "ARCHER",
+          "line": "He may not be on our side, but I get the feeling he's starting to question his."
+        },
+        {
+          "character": "TUCKER",
+          "line": "Well, let's hope you're right. I think we're ready to fire this up. Maybe not."
+        },
+        {
+          "character": "T'POL",
+          "line": "Bridge to Captain Archer.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "ARCHER",
+          "line": "Go ahead."
+        },
+        {
+          "character": "T'POL",
+          "line": "There's an unidentified vessel approaching. They're asking for our assistance.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "ARCHER",
+          "line": "Any details?"
+        },
+        {
+          "character": "T'POL",
+          "line": "Just that they've taken heavy damage.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "TUCKER",
+          "line": "Join the club."
+        },
+        {
+          "character": "ARCHER",
+          "line": "How long till they get here?"
+        },
+        {
+          "character": "T'POL",
+          "line": "Twelve minutes.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "ARCHER",
+          "line": "Set a rendezvous course. Maybe we can help each other."
+        }
+      ],
+      "location": "Engineering"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "REED",
+          "line": "They have minimal weapons, all powered down."
+        },
+        {
+          "character": "T'POL",
+          "line": "I'm detecting numerous spatial anomalies in the area."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Can you get us through them?"
+        },
+        {
+          "character": "T'POL",
+          "line": "I believe so."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Hail them. This is Captain Archer. We're responding to your distress call."
+        },
+        {
+          "character": "ILLYRIAN",
+          "line": "Thank you for coming, but be aware. This region contains dangerous spatial distortions.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "ARCHER",
+          "line": "We've run into them before."
+        },
+        {
+          "character": "ILLYRIAN",
+          "line": "They've damaged our engines and life support. We would appreciate whatever assistance you can give us.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "ARCHER",
+          "line": "We'll see what we can do."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "ARCHER",
+          "line": "What brings you to this system?"
+        },
+        {
+          "character": "ILLYRIAN",
+          "line": "Curiosity. We're studying the red giant. It's the first one we've had the opportunity to explore. We weren't prepared for these spatial anomalies as you call them. Seems you weren't either."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Actually, this is all the result of combat."
+        },
+        {
+          "character": "ILLYRIAN",
+          "line": "Combat?"
+        },
+        {
+          "character": "ARCHER",
+          "line": "Have you heard of a species called the Xindi?"
+        },
+        {
+          "character": "ILLYRIAN",
+          "line": "No. We're new to this region of space."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Let's talk about your ship. We know a way to insulate against the anomalies. There's a substance called trellium-D."
+        },
+        {
+          "character": "ILLYRIAN",
+          "line": "I've heard of it. It's extremely rare."
+        },
+        {
+          "character": "ARCHER",
+          "line": "I have sixty kilos sitting in my cargo bay."
+        },
+        {
+          "character": "ILLYRIAN",
+          "line": "Perhaps we can work out some sort of trade."
+        },
+        {
+          "character": "ARCHER",
+          "line": "That's what I had in mind."
+        },
+        {
+          "character": "ILLYRIAN",
+          "line": "Given the condition of my vessel, I don't know what we can offer you."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Our warp engine is badly damaged."
+        },
+        {
+          "character": "ILLYRIAN",
+          "line": "We could probably spare a few plasma injectors, maybe some antimatter."
+        },
+        {
+          "character": "ARCHER",
+          "line": "I was thinking more along the lines of a warp coil."
+        },
+        {
+          "character": "ILLYRIAN",
+          "line": "I'm afraid that's one thing we can't spare."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Maybe we can make it worth your while. We have certain technology that you'd probably find useful."
+        },
+        {
+          "character": "ILLYRIAN",
+          "line": "Without a warp coil, the journey back to our system would take three years. We're not equipped for a voyage of that length."
+        },
+        {
+          "character": "ARCHER",
+          "line": "The Xindi have already wiped out seven million of my people. Now they're building a weapon to destroy our entire world. I have to stop them. Without warp drive, I won't succeed."
+        },
+        {
+          "character": "ILLYRIAN",
+          "line": "I sympathize, Captain. I will help you in any other way, but I won't jeopardize the lives of my crew. I'm sorry."
+        }
+      ],
+      "location": "Corridor"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TRAVIS",
+          "line": "The escape pod can maneuver underwater. Aside from that, nothing out of the ordinary."
+        },
+        {
+          "character": "HOSHI",
+          "line": "I've gone through the databanks. Just your standard navigational operational files, but I did find one document. An engineer asking his supervisors for additional parts. Here's a translation."
+        },
+        {
+          "character": "ARCHER",
+          "line": "The names of these supervisors. Piral, Jaina, Trenia."
+        },
+        {
+          "character": "HOSHI",
+          "line": "The names of Degra's children."
+        }
+      ],
+      "location": "Shuttle bay"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "T'POL",
+          "line": "I diskovered a set of coordinates embedded in the document."
+        },
+        {
+          "character": "ARCHER",
+          "line": "It's not a star system."
+        },
+        {
+          "character": "T'POL",
+          "line": "There was another embedded number. A stardate, three days from now."
+        },
+        {
+          "character": "ARCHER",
+          "line": "How far away are the coordinates?"
+        },
+        {
+          "character": "T'POL",
+          "line": "Four light years. We'll need at least warp three to make it in time. It's unlikely that Degra will wait beyond three days."
+        }
+      ],
+      "location": "Command center"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "PHLOX",
+          "line": "He's all yours. He was the perfect house guest, as usual. You'll be happy to know that I diskharged Ensign Ansara this morning, and Corporal O'Malley will be returning to duty this afternoon. Captain?"
+        },
+        {
+          "character": "ARCHER",
+          "line": "It's hard to imagine that we'll ever get this ship back to the way it was."
+        },
+        {
+          "character": "PHLOX",
+          "line": "It's a simple matter of repairs. Well, perhaps not that simple. Somehow, I don't think it's the damage to Enterprise that's troubling you."
+        },
+        {
+          "character": "ARCHER",
+          "line": "How long have you been a doctor?"
+        },
+        {
+          "character": "PHLOX",
+          "line": "Nearly forty years."
+        },
+        {
+          "character": "ARCHER",
+          "line": "And in all that time, did you ever do anything you thought was unethical?"
+        },
+        {
+          "character": "PHLOX",
+          "line": "Twice. Why?"
+        },
+        {
+          "character": "ARCHER",
+          "line": "I'm about to step over a line, a line I thought I would never cross. And given the nature of our mission, it probably won't be the last."
+        },
+        {
+          "character": "PHLOX",
+          "line": "Probably not. May I ask what you're planning to do?"
+        },
+        {
+          "character": "ARCHER",
+          "line": "There could be more casualties."
+        },
+        {
+          "character": "PHLOX",
+          "line": "I'll be ready."
+        }
+      ],
+      "location": "Archer's quarters"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "ARCHER",
+          "line": "Put together an armed boarding party."
+        },
+        {
+          "character": "REED",
+          "line": "Who are we boarding, sir?"
+        },
+        {
+          "character": "ARCHER",
+          "line": "The alien ship we docked with."
+        },
+        {
+          "character": "REED",
+          "line": "I don't understand."
+        },
+        {
+          "character": "ARCHER",
+          "line": "We need their warp coil. They won't give it to us, so we're going to have to take it."
+        },
+        {
+          "character": "REED",
+          "line": "Captain."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Get your men together!"
+        }
+      ],
+      "location": "Armory"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "BUILDER",
+          "line": "Where are the other members of the Council?"
+        },
+        {
+          "character": "HUMANOID",
+          "line": "We didn't want them here."
+        },
+        {
+          "character": "BUILDER",
+          "line": "Why?"
+        },
+        {
+          "character": "ARBOREAL",
+          "line": "We've learned something about the reptilians that concerns us."
+        },
+        {
+          "character": "BUILDER",
+          "line": "There's distrust amongst you."
+        },
+        {
+          "character": "ARBOREAL",
+          "line": "You can help alleviate it."
+        },
+        {
+          "character": "BUILDER",
+          "line": "Continue."
+        },
+        {
+          "character": "DEGRA",
+          "line": "We were told the reptilians attempted to build a bioweapon."
+        },
+        {
+          "character": "BUILDER",
+          "line": "Who told you this?"
+        },
+        {
+          "character": "HUMANOID",
+          "line": "We've also learned that they were building this bioweapon in the past, on Earth."
+        },
+        {
+          "character": "DEGRA",
+          "line": "As far as we're aware, reptilians don't possess the technology for time travel."
+        },
+        {
+          "character": "BUILDER",
+          "line": "You want to know if they had my help."
+        },
+        {
+          "character": "DEGRA",
+          "line": "Did they?"
+        },
+        {
+          "character": "BUILDER",
+          "line": "Yes. After you prohibited them from constructing the bioweapon, the reptilians and the insectoids were prepared to withdraw from the Council. I assisted them so the Council would remain unified."
+        },
+        {
+          "character": "DEGRA",
+          "line": "You helped them to circumvent our authority."
+        },
+        {
+          "character": "BUILDER",
+          "line": "I protected your authority by keeping the Council intact."
+        },
+        {
+          "character": "DEGRA",
+          "line": "What happened to the bioweapon?"
+        },
+        {
+          "character": "BUILDER",
+          "line": "It was never completed, and the three reptilians were never found."
+        },
+        {
+          "character": "ARBOREAL",
+          "line": "You can't locate them."
+        },
+        {
+          "character": "BUILDER",
+          "line": "There are limits to what we can do in your realm."
+        },
+        {
+          "character": "DEGRA",
+          "line": "It seems you can do more than we thought. Is it true your species built the Spheres?"
+        },
+        {
+          "character": "BUILDER",
+          "line": "What makes you think you can subject me to this interrogation? If it weren't for my assistance, your species would be facing destruction."
+        },
+        {
+          "character": "ARBOREAL",
+          "line": "We're grateful for the help that you've given us."
+        },
+        {
+          "character": "BUILDER",
+          "line": "Then prove it. Focus on the task at hand. The weapon is nearly complete. If you permit yourselves to become distracted, you'll fail to destroy your real enemy. The enemy of all Xindi. Don't summon me again unless every member of the Council is present. I won't help fuel your internal bickering."
+        },
+        {
+          "character": "HUMANOID",
+          "line": "You don't believe her."
+        },
+        {
+          "character": "DEGRA",
+          "line": "Do you?"
+        },
+        {
+          "character": "HUMANOID",
+          "line": "Why should we take Archer's word over hers?"
+        },
+        {
+          "character": "DEGRA",
+          "line": "Because Archer offered something she hasn't. Proof."
+        }
+      ],
+      "location": "Xindi Council Chamber"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "REED",
+          "line": "Under normal circumstances they'd be no match for us, but we've sustained a lot more damage than they have. This could be risky."
+        },
+        {
+          "character": "TUCKER",
+          "line": "One lucky shot to our starboard nacelle"
+        },
+        {
+          "character": "ARCHER",
+          "line": "Let's make sure they don't get any lucky shots."
+        },
+        {
+          "character": "TRAVIS",
+          "line": "Why don't we just transport their warp coil to Enterprise?"
+        },
+        {
+          "character": "TUCKER",
+          "line": "It's tied into their injector system. If we use the transporter, we'd destroy their engines. I've got to get in there, decouple it by hand."
+        },
+        {
+          "character": "REED",
+          "line": "How long?"
+        },
+        {
+          "character": "TUCKER",
+          "line": "Ten minutes, give or take. Can't tell for sure until I see it."
+        },
+        {
+          "character": "REED",
+          "line": "If they fight back, ten minutes could be a very long time."
+        },
+        {
+          "character": "T'POL",
+          "line": "Perhaps we should reconsider negotiation."
+        },
+        {
+          "character": "ARCHER",
+          "line": "We can't risk tipping them off. We have to take them by surprise. That'll reduce the losses on both sides. We'll disable their ship as quickly as we can, beam over, extract the warp coil and get out, hopefully without any casualties. Set a course."
+        },
+        {
+          "character": "T'POL",
+          "line": "Can I have a word with you?"
+        },
+        {
+          "character": "ARCHER",
+          "line": "Not right now."
+        }
+      ],
+      "location": "Situation room"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "ARCHER",
+          "line": "If I had another option, I'd take it."
+        },
+        {
+          "character": "T'POL",
+          "line": "We are no different than the marauders who attacked us when we entered the Expanse."
+        },
+        {
+          "character": "ARCHER",
+          "line": "We're a lot different."
+        },
+        {
+          "character": "T'POL",
+          "line": "By stealing their warp coil we could be condemning them to death."
+        },
+        {
+          "character": "ARCHER",
+          "line": "We're going to leave them a supply of trellium, along with some extra food. I'm not saying it'll be easy for them, but they'll stand a decent chance of making it home."
+        },
+        {
+          "character": "T'POL",
+          "line": "You're forgetting that we're in a dangerous region of space. Our assault could cripple their ability to defend themselves."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Not if we do it right."
+        },
+        {
+          "character": "T'POL",
+          "line": "And what if something goes wrong?"
+        },
+        {
+          "character": "ARCHER",
+          "line": "We can debate this all day. I've made my decision."
+        },
+        {
+          "character": "T'POL",
+          "line": "We can't save humanity without holding on to what makes us human. Those were your words to me."
+        },
+        {
+          "character": "ARCHER",
+          "line": "I'm no happier doing this than you are, but we're not going to make a habit of it."
+        },
+        {
+          "character": "T'POL",
+          "line": "Once you rationalize the first mis-step, it's easy to fall into a pattern of behavior."
+        },
+        {
+          "character": "ARCHER",
+          "line": "I'm not rationalizing anything. I know full well what I'm doing."
+        },
+        {
+          "character": "T'POL",
+          "line": "I can't justify this course of action."
+        },
+        {
+          "character": "ARCHER",
+          "line": "We don't have a choice."
+        },
+        {
+          "character": "T'POL",
+          "line": "I won't let you do it!"
+        },
+        {
+          "character": "ARCHER",
+          "line": "We've had our share of disagreements, but you've never taken it out on my desk before."
+        },
+        {
+          "character": "T'POL",
+          "line": "I apologize."
+        },
+        {
+          "character": "ARCHER",
+          "line": "What's happening to you?"
+        },
+        {
+          "character": "T'POL",
+          "line": "It's been a difficult few days. I haven't had the time to meditate."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Maybe you should find the time."
+        },
+        {
+          "character": "T'POL",
+          "line": "I didn't mean what I said."
+        },
+        {
+          "character": "ARCHER",
+          "line": "I'm glad to hear it. I'll be leading the boarding party. There's no margin for error. If we don't do this right, people are going to die. We need you on the Bridge."
+        },
+        {
+          "character": "T'POL",
+          "line": "Understood."
+        }
+      ],
+      "location": "Ready room"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "T'POL",
+          "line": "Doctor."
+        },
+        {
+          "character": "PHLOX",
+          "line": "Yes, this will just take a moment."
+        },
+        {
+          "character": "PHLOX",
+          "line": "What is it?"
+        },
+        {
+          "character": "PHLOX",
+          "line": "There's a good deal of residual trellium in your bloodstream. How long have you been doing this?"
+        },
+        {
+          "character": "T'POL",
+          "line": "Three months."
+        },
+        {
+          "character": "PHLOX",
+          "line": "I need to know precisely what has been happening."
+        },
+        {
+          "character": "T'POL",
+          "line": "When I was exposed to trellium aboard the Seleya, it affected me in a way that I wasn't prepared for."
+        },
+        {
+          "character": "PHLOX",
+          "line": "As I recall, you were homicidal and paranoid."
+        },
+        {
+          "character": "T'POL",
+          "line": "The initial effects were overwhelming, but as they began to wear off I diskovered I was able to access certain emotions. I wanted more. I began to experiment by ingesting small amounts of trellium. I devised a way to inject it into my bloodstream."
+        },
+        {
+          "character": "PHLOX",
+          "line": "You must have known it was dangerous. Trellium exposure is deadly to Vulcans. It eats away at the neural pathways."
+        },
+        {
+          "character": "T'POL",
+          "line": "I thought, in small amounts, it would be safe. At first, I was able to control the new emotions. My interactions with the crew improved."
+        },
+        {
+          "character": "PHLOX",
+          "line": "Commander Tucker, for example. When did you realize you were becoming addicted?"
+        },
+        {
+          "character": "T'POL",
+          "line": "Two days ago. The damage to E deck made it impossible to access the cargo bay. I began experiencing agitation, anxiety, withdrawal symptoms."
+        },
+        {
+          "character": "PHLOX",
+          "line": "You're not experiencing them now."
+        },
+        {
+          "character": "T'POL",
+          "line": "I was able to retrieve the trellium. I was almost killed in the process."
+        },
+        {
+          "character": "PHLOX",
+          "line": "This will help stabilize your synaptic pathways, but the withdrawal symptoms will return in a few days. It's going to take time. It won't be easy."
+        },
+        {
+          "character": "T'POL",
+          "line": "I understand."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Archer to T'Pol.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "T'POL",
+          "line": "Go ahead."
+        },
+        {
+          "character": "ARCHER",
+          "line": "We're approaching the vessel. Report to the Bridge.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "T'POL",
+          "line": "I'm on my way."
+        },
+        {
+          "character": "PHLOX",
+          "line": "You should remain here for observation."
+        },
+        {
+          "character": "T'POL",
+          "line": "The Captain needs me. I have to go."
+        },
+        {
+          "character": "PHLOX",
+          "line": "I expect you to report back here at the first sign of trouble."
+        },
+        {
+          "character": "T'POL",
+          "line": "Are you going to diskuss this with the Captain?"
+        },
+        {
+          "character": "PHLOX",
+          "line": "This is between you and your doctor."
+        }
+      ],
+      "location": "Sickbay"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "T'POL",
+          "line": "Good luck."
+        },
+        {
+          "character": "ARCHER",
+          "line": "You have the Bridge."
+        },
+        {
+          "character": "T'POL",
+          "line": "Stand by weapons."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "ILLYRIAN",
+          "line": "Run another test. If it doesn't hold, we'll have to bypass the entire assembly. What is it?"
+        },
+        {
+          "character": "CREW",
+          "line": "Sir, there's a vessel approaching. It's the Earth ship.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "ILLYRIAN",
+          "line": "Have you contacted them?"
+        },
+        {
+          "character": "CREW",
+          "line": "They're not responding.",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "Illyrian Engineering"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "HOSHI",
+          "line": "They're still hailing us."
+        },
+        {
+          "character": "TRAVIS",
+          "line": "Two hundred kilometers."
+        },
+        {
+          "character": "T'POL",
+          "line": "Target their propulsion systems."
+        },
+        {
+          "character": "REED",
+          "line": "Aye."
+        },
+        {
+          "character": "T'POL",
+          "line": "Fire."
+        },
+        {
+          "character": "REED",
+          "line": "Their warp drive's offline. They're charging weapons."
+        },
+        {
+          "character": "T'POL",
+          "line": "Bridge to transporter."
+        },
+        {
+          "character": "REED",
+          "line": "They're firing."
+        },
+        {
+          "character": "T'POL",
+          "line": "Energize."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TUCKER",
+          "line": "That's the access port."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Stun grenade. Go!"
+        }
+      ],
+      "location": "Illyrian Engineering"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "REED",
+          "line": "Their weapons are at fifty percent."
+        },
+        {
+          "character": "HOSHI",
+          "line": "We have another hull breach, on E deck."
+        },
+        {
+          "character": "TRAVIS",
+          "line": "Our port thrusters are offline."
+        },
+        {
+          "character": "REED",
+          "line": "We have to take out their weapons!"
+        },
+        {
+          "character": "T'POL",
+          "line": "We can't leave them defenseless."
+        },
+        {
+          "character": "REED",
+          "line": "If we want to get through this in one piece, we may have no choice."
+        },
+        {
+          "character": "T'POL",
+          "line": "The Captain's orders."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "MACO",
+          "line": "Clear."
+        }
+      ],
+      "location": "Illyrian warp assembly"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "ARCHER",
+          "line": "Cover. Archer."
+        },
+        {
+          "character": "TUCKER",
+          "line": "Captain.",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "Illyrian Engineering"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TUCKER",
+          "line": "We've hit a little snag."
+        }
+      ],
+      "location": "Illyrian warp assembly"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "REED",
+          "line": "They're targeting our starboard nacelle."
+        },
+        {
+          "character": "T'POL",
+          "line": "Evasive maneuvers. T'Pol to the Captain."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "ARCHER",
+          "line": "Go ahead."
+        }
+      ],
+      "location": "Illyrian Engineering"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "T'POL",
+          "line": "We're taking heavy damage."
+        },
+        {
+          "character": "ARCHER",
+          "line": "There's a forcefield around the warp coil.",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "ARCHER",
+          "line": "Trip's trying to disable it."
+        }
+      ],
+      "location": "Illyrian Engineering"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TUCKER",
+          "line": "Try it now."
+        }
+      ],
+      "location": "Illyrian warp assembly"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "ARCHER",
+          "line": "Archer to Enterprise."
+        },
+        {
+          "character": "T'POL",
+          "line": "Go ahead.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "ARCHER",
+          "line": "Parson's been hit. Lock onto her comm. signal and"
+        }
+      ],
+      "location": "Illyrian Engineering"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "ARCHER",
+          "line": "beam her out of here.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "T'POL",
+          "line": "Lieutenant."
+        },
+        {
+          "character": "REED",
+          "line": "We're venting atmosphere on C deck. T'Pol!"
+        },
+        {
+          "character": "T'POL",
+          "line": "Adjust phase cannons to a narrow confinement beam. Target this power juncture."
+        },
+        {
+          "character": "REED",
+          "line": "Got it."
+        },
+        {
+          "character": "T'POL",
+          "line": "Fire!"
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TUCKER",
+          "line": "Right there."
+        }
+      ],
+      "location": "Illyrian warp assembly"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "ARCHER",
+          "line": "Archer."
+        }
+      ],
+      "location": "Illyrian Engineering"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "T'POL",
+          "line": "Commander Tucker's aboard. We have it."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "ARCHER",
+          "line": "Stand by to beam us out. Fall back."
+        },
+        {
+          "character": "ILLYRIAN",
+          "line": "What you can't have, you take by force?"
+        },
+        {
+          "character": "ARCHER",
+          "line": "We've beamed three containers of trellium into your cargo hold as compensation. There's also food and supplies."
+        },
+        {
+          "character": "ILLYRIAN",
+          "line": "You're stranding us three years from home. Why are you doing this?"
+        },
+        {
+          "character": "ARCHER",
+          "line": "Because I have no choice. Energize."
+        }
+      ],
+      "location": "Illyrian Engineering"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "T'POL",
+          "line": "I'm not sure why I asked you to come see me."
+        },
+        {
+          "character": "PHLOX",
+          "line": "Perhaps you just needed some company."
+        },
+        {
+          "character": "T'POL",
+          "line": "Perhaps."
+        },
+        {
+          "character": "PHLOX",
+          "line": "How do you feel?"
+        },
+        {
+          "character": "T'POL",
+          "line": "I thought that without the trellium I would no longer have difficulty suppressing my emotions, but that's not true."
+        },
+        {
+          "character": "PHLOX",
+          "line": "It's not surprising that there are residual effects. They're probably temporary."
+        },
+        {
+          "character": "T'POL",
+          "line": "And if they're not?"
+        },
+        {
+          "character": "PHLOX",
+          "line": "Then you'll learn to cope with them."
+        },
+        {
+          "character": "T'POL",
+          "line": "I'm not certain I'll be able to. I'm"
+        },
+        {
+          "character": "PHLOX",
+          "line": "Afraid?"
+        },
+        {
+          "character": "T'POL",
+          "line": "Vulcans don't experience fear."
+        },
+        {
+          "character": "PHLOX",
+          "line": "You sought these emotions. Don't expect them to vanish overnight. Patience."
+        }
+      ],
+      "location": "T'Pol's quarters"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TUCKER",
+          "line": "A few tweaks and it fit right in."
+        },
+        {
+          "character": "ARCHER",
+          "line": "What's our top speed."
+        },
+        {
+          "character": "TUCKER",
+          "line": "Three point two. That should get us to the rendezvous point with time to spare."
+        },
+        {
+          "character": "TUCKER",
+          "line": "You did the right thing."
+        },
+        {
+          "character": "ARCHER",
+          "line": "It seems the longer we're out here, the more I have to keep saying that to myself."
+        },
+        {
+          "character": "TUCKER",
+          "line": "Those people'll be okay. They'll get home."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Captain to the Bridge."
+        },
+        {
+          "character": "REED",
+          "line": "Go ahead.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "ARCHER",
+          "line": "Prepare to go to maximum warp."
+        },
+        {
+          "character": "REED",
+          "line": "Aye sir.",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "Engineering"
+    }
+  ],
+  "schedule": {
+    "episode": 19,
+    "number": 71,
+    "season": 3
+  },
+  "stardate": "Unknown",
+  "title": "Damage"
+}

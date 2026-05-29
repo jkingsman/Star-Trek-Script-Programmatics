@@ -1,0 +1,787 @@
+{
+  "airdate": 150188400,
+  "scenes": [
+    {
+      "dialogue": [
+        {
+          "character": "KIRK",
+          "line": "Captain's log, stardate 6063.4. The Enterprise is tracing the origin of a mysterious alien space probe. It approached the Federation home worlds, made a scan of Earth's system and then signaled outward into space. Before it could be intercepted, the probe self-destructed. We are following a trail of disrupted matter left by the probe's highly advanced propulsion system. Thus far, the trail has not intercepted any inhabited star systems.",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "unknown"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "KIRK",
+          "line": "Status report, Mister Spock."
+        },
+        {
+          "character": "SPOCK",
+          "line": "The trail is becoming fainter, Captain. I recommend we reduce speed to accommodate our sensors."
+        },
+        {
+          "character": "KIRK",
+          "line": "Reduce speed to warp factor two, Mister Walking Bear."
+        },
+        {
+          "character": "BEAR",
+          "line": "Aye, sir. Warp factor two."
+        },
+        {
+          "character": "AREX",
+          "line": "Captain, sensors indicate a vessel at extreme range."
+        },
+        {
+          "character": "KIRK",
+          "line": "Course projection, Mister Arex."
+        },
+        {
+          "character": "AREX",
+          "line": "It's coming in on the same course as the probe, sir. Heading toward us, warp three."
+        },
+        {
+          "character": "SPOCK",
+          "line": "No readings yet, Captain. Possibly a second probe."
+        },
+        {
+          "character": "KIRK",
+          "line": "Hmm. Or it could be the sender. Lieutenant Uhura, all stations to Yellow Alert. Standard hailing on all frequencies. Identification, Mister Spock?"
+        },
+        {
+          "character": "SPOCK",
+          "line": "None as yet, sir. But sensors now indicate it is twice our size. Vessel appears extremely unorthodox in design. And Starfleet lists no other authorized vessels in this quadrant."
+        },
+        {
+          "character": "KIRK",
+          "line": "Reduce to warp one, Mister Walking Bear."
+        },
+        {
+          "character": "BEAR",
+          "line": "Warp one, sir."
+        },
+        {
+          "character": "KIRK",
+          "line": "Lieutenant Arex, activate main screen, extreme magnification."
+        },
+        {
+          "character": "KIRK",
+          "line": "Any contact, Lieutenant Uhura?"
+        },
+        {
+          "character": "UHURA",
+          "line": "No response, sir."
+        },
+        {
+          "character": "KIRK",
+          "line": "Maintain hailing."
+        },
+        {
+          "character": "SPOCK",
+          "line": "Approaching ship has an immense energy field surrounding it. Fascinating. Readings indicate the vessel is composed entirely of crystalline ceramic. I would almost say"
+        },
+        {
+          "character": "BEAR",
+          "line": "Captain, we're losing speed. The helm doesn't answer. We're going sublight."
+        },
+        {
+          "character": "KIRK",
+          "line": "Bridge to Engineering. Mister Scott, why are we losing speed?"
+        },
+        {
+          "character": "SCOTT",
+          "line": "Scott here, Captain. All our engines are still at full thrust, but it's just like we're ramming into a wall of clay. I don't know if the ship can take the strain.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "KIRK",
+          "line": "All engines stop."
+        },
+        {
+          "character": "BEAR",
+          "line": "All engines stopped, sir."
+        },
+        {
+          "character": "KIRK",
+          "line": "Give me a damage report as soon as possible, Scotty."
+        },
+        {
+          "character": "SCOTT",
+          "line": "I'm still checking, but it's minimal so far, sir. No structural damage or overheating. I think we were lucky.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "KIRK",
+          "line": "Bridge to Sickbay. Casualty report."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "MCCOY",
+          "line": "McCoy here. No serious injuries. What the devil's going on?"
+        }
+      ],
+      "location": "McCoy's office"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "KIRK",
+          "line": "Later, Bones."
+        },
+        {
+          "character": "SPOCK",
+          "line": "We have been encased in a globular force field, Captain. The source is the approaching vessel."
+        },
+        {
+          "character": "BEAR",
+          "line": "But we hit at warp one. We should have been smashed."
+        },
+        {
+          "character": "SPOCK",
+          "line": "It is a force globe, but one that is flexible enough to absorb any force. I cannot explain it. Clearly we cannot escape by simply fleeing. Sensors indicate we at now being probed."
+        },
+        {
+          "character": "BEAR",
+          "line": "Captain, there it is."
+        },
+        {
+          "character": "AREX",
+          "line": "Other vessel is slowing."
+        },
+        {
+          "character": "KIRK",
+          "line": "Walking Bear, full power, all shields. Reverse engines and get us away from that beam."
+        },
+        {
+          "character": "SPOCK",
+          "line": "Evasive action will not be effective, Captain. The force globe limits our maneuvering."
+        },
+        {
+          "character": "KIRK",
+          "line": "Lock main phasers on that ship and open fire."
+        },
+        {
+          "character": "KIRK",
+          "line": "Spock, status on other ship."
+        },
+        {
+          "character": "SPOCK",
+          "line": "Still approaching, Captain. Going sublight. It continues to probe us. Its surrounding energy pattern is now shifting."
+        },
+        {
+          "character": "KIRK",
+          "line": "Have you ever seen anything like that, Spock?"
+        },
+        {
+          "character": "BEAR",
+          "line": "I recognize it. Kukulkan."
+        },
+        {
+          "character": "UHURA",
+          "line": "Oh!"
+        },
+        {
+          "character": "KIRK",
+          "line": "Mister Walking Bear, how"
+        },
+        {
+          "character": "KUKULKAN",
+          "line": "I was angered because I believed you had forgotten me. But one in your midst knows my name. You will be given one chance to succeed where your ancestors failed. Fail me again and all of your kind shall perish.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "KIRK",
+          "line": "Mister Walking Bear, how do you know who's aboard that ship?"
+        },
+        {
+          "character": "BEAR",
+          "line": "I am a Comanche, Captain. I've studied the histories of many ancient Earth peoples, especially my own. That ship out there bears a strong resemblance to a god in Mayan and Aztec legends, Kukulkan."
+        },
+        {
+          "character": "SPOCK",
+          "line": "Captain, library computer confirms that Ensign Walking Bear is correct. The Mayas had a legend of a winged serpent god who came from the skies, bringing knowledge. Such legends were not uncommon among Earth's peoples, Captain."
+        },
+        {
+          "character": "KIRK",
+          "line": "Then we could be dealing with the basis of all those legends. A space traveler who visited Earth in primitive times."
+        },
+        {
+          "character": "SPOCK",
+          "line": "Entirely possible."
+        },
+        {
+          "character": "KIRK",
+          "line": "But why would Kukulkan want to destroy us?"
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "MCCOY",
+          "line": "You don't deserve it, Yeoman, but you're getting a few day's bed rest."
+        }
+      ],
+      "location": "Sickbay"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "KIRK",
+          "line": "Mister Walking Bear, what do the legends say about"
+        },
+        {
+          "character": "KIRK",
+          "line": "Walking Bear."
+        },
+        {
+          "character": "UHURA",
+          "line": "Captain, Security reports that Mister Scott and Doctor McCoy have also disappeared."
+        },
+        {
+          "character": "KIRK",
+          "line": "What's he doing to my crew?"
+        },
+        {
+          "character": "SPOCK",
+          "line": "Captain."
+        },
+        {
+          "character": "KIRK",
+          "line": "Captain's log, stardate 6063.5. First Officer Spock in temporary command. The Enterprise is the captive of an alien life form calling itself Kukulkan. Captain Kirk and three other officers have vanished. They most likely were transported by Kukulkan to his ship.",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "KIRK",
+          "line": "We must be somewhere inside that other ship."
+        },
+        {
+          "character": "SCOTT",
+          "line": "And us without a single phaser or communicator."
+        },
+        {
+          "character": "MCCOY",
+          "line": "At least I've got my medical kit, for all the good it is."
+        },
+        {
+          "character": "KIRK",
+          "line": "Mister Walking Bear, do the legends say what happened to Kukulkan?"
+        },
+        {
+          "character": "BEAR",
+          "line": "No, sir. Only that he left and promised one day to return."
+        },
+        {
+          "character": "KIRK",
+          "line": "Then that space probe that approached Earth must have been his. Listen."
+        },
+        {
+          "character": "MCCOY",
+          "line": "We're being observed, watched."
+        },
+        {
+          "character": "KIRK",
+          "line": "Is there any way Spock could get through to us?"
+        },
+        {
+          "character": "SCOTT",
+          "line": "I don't think so, sir. Our sensors couldn't penetrate this ship."
+        },
+        {
+          "character": "KUKULKAN",
+          "line": "Now I will show you the seeds that I have sown before. Learn from them. Find their purpose if you can. Only then will I appear before you.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "SCOTT",
+          "line": "I've never seen anything so beautiful."
+        },
+        {
+          "character": "MCCOY",
+          "line": "Where did it come from?"
+        },
+        {
+          "character": "KIRK",
+          "line": "Let's find out."
+        }
+      ],
+      "location": "Somewhere"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "UHURA",
+          "line": "Mister Spock, shouldn't we be trying to find out what became of the Captain and the others?"
+        },
+        {
+          "character": "SPOCK",
+          "line": "Lieutenant Uhura, you are supposed to be monitoring the alien vessel. Our first priority is to free the Enterprise and ourselves. Return to your duties."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "KIRK",
+          "line": "They look like the obelisks built by the ancient Egyptians."
+        },
+        {
+          "character": "BEAR",
+          "line": "With one difference, sir. Look at these carvings. That's not Egyptian. This gateway. I can't pin down what culture it represents."
+        },
+        {
+          "character": "KIRK",
+          "line": "But it's still a clue. This city is one gigantic riddle. Keep alert."
+        },
+        {
+          "character": "MCCOY",
+          "line": "Now that we're here, what do we do?"
+        },
+        {
+          "character": "KIRK",
+          "line": "Opinion, Mister Walking Bear."
+        },
+        {
+          "character": "BEAR",
+          "line": "Before he left, Kukulkan gave the Mayas a remarkably accurate calendar. He told them to build a city according to its cycles. On the date the city was finished, Kukulkan was supposed to return. The Mayas built their city and waited. Kukulkan never appeared."
+        },
+        {
+          "character": "KIRK",
+          "line": "Kukulkan must have visited several ancient peoples on Earth. But each one used only parts of his knowledge to build their cultures."
+        },
+        {
+          "character": "MCCOY",
+          "line": "Does that mean they all tried to build something like this?"
+        },
+        {
+          "character": "BEAR",
+          "line": "Yes, sir. But they all failed."
+        },
+        {
+          "character": "KIRK",
+          "line": "If no one on Earth built this city exactly right, then that's why Kukulkan never came back. The entire city is our key."
+        },
+        {
+          "character": "BEAR",
+          "line": "Kukulkan said he would appear only when we learned its purpose."
+        },
+        {
+          "character": "KIRK",
+          "line": "Then there has to be some sort of signaling device here."
+        },
+        {
+          "character": "BEAR",
+          "line": "That's odd. I've never seen a combination like this before."
+        },
+        {
+          "character": "KIRK",
+          "line": "That pyramid seems to be the center of everything. I'm going up there. The rest of you spread out and circle it."
+        },
+        {
+          "character": "BEAR",
+          "line": "Look, sir. Another tower. And there's another tower down there. There must be one at all four corners."
+        }
+      ],
+      "location": "City"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "KIRK",
+          "line": "What's this?"
+        }
+      ],
+      "location": "Top of Temple"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "SCOTT",
+          "line": "Looks like there's a seam here. I think the head can be turned. Come on, lad. Give me a hand."
+        }
+      ],
+      "location": "Tower"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "KIRK",
+          "line": "The sun. That's it. Scotty, turn the head all the way around and aim it up here."
+        }
+      ],
+      "location": "Top of Temple"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "SCOTT",
+          "line": "Aye, sir."
+        }
+      ],
+      "location": "Tower"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "KIRK",
+          "line": "Turn the other heads this way! Bones, the serpent heads! Turn them to face the pyramid! I'm coming down."
+        }
+      ],
+      "location": "Top of Temple"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "BEAR",
+          "line": "This is the last one, sir."
+        }
+      ],
+      "location": "Tower"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "KIRK",
+          "line": "The whole things is an energy amplification system. This is Kukulkan's signaling device."
+        },
+        {
+          "character": "KUKULKAN",
+          "line": "After scores of centuries, my design has been fulfillled. Behold me as I am.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "KUKULKAN",
+          "line": "Behold Kukulkan! Where are your weapons of destruction? Use them on me if you dare."
+        },
+        {
+          "character": "KIRK",
+          "line": "We have no weapons. And if we did, we would use them only with reason."
+        },
+        {
+          "character": "KUKULKAN",
+          "line": "Where is your hate? You hate me, do you not? Why do you not speak to me of your hate?"
+        },
+        {
+          "character": "KIRK",
+          "line": "But we don't hate you."
+        },
+        {
+          "character": "KUKULKAN",
+          "line": "You fired your weapons at me."
+        },
+        {
+          "character": "KIRK",
+          "line": "We used them in self-defense. You fired on us."
+        },
+        {
+          "character": "KUKULKAN",
+          "line": "I am your master. I may do with you as I will."
+        },
+        {
+          "character": "MCCOY",
+          "line": "Do you think we belong to you?"
+        },
+        {
+          "character": "KIRK",
+          "line": "Bones, Scotty, quiet."
+        },
+        {
+          "character": "KUKULKAN",
+          "line": "It is as I thought. You have forgotten me and strayed from the path I set for you."
+        },
+        {
+          "character": "KIRK",
+          "line": "You say that we forgot you. How can you expect us to regard you as a deity if we don't remember you?"
+        },
+        {
+          "character": "KUKULKAN",
+          "line": "If you do not know me, then it is my task to teach you."
+        }
+      ],
+      "location": "City"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "MCCOY",
+          "line": "Just once, I wish he'd let us use the stairs."
+        },
+        {
+          "character": "SCOTT",
+          "line": "What the devil is this place?"
+        },
+        {
+          "character": "MCCOY",
+          "line": "It looks like some kind of zoo. I don't recognize a lot of these species, Jim."
+        },
+        {
+          "character": "KUKULKAN",
+          "line": "Please feel free to examine any of my specimens."
+        },
+        {
+          "character": "SCOTT",
+          "line": "I could never be proud of putting wee beasties in cages."
+        },
+        {
+          "character": "KUKULKAN",
+          "line": "But all of these lead a peaceful life, one that is safe and contented."
+        },
+        {
+          "character": "MCCOY",
+          "line": "Contented? Cramped in these tiny cages?"
+        },
+        {
+          "character": "KUKULKAN",
+          "line": "What you cannot see is that each of them, mentally, is in its own natural environment. They eat, breathe and live in worlds created by my machinery, worlds only they can see. They do not know they are in cages."
+        },
+        {
+          "character": "BEAR",
+          "line": "Then that city we were in wasn't really there."
+        },
+        {
+          "character": "KIRK",
+          "line": "Even so, I would hardly call your city our natural environment."
+        },
+        {
+          "character": "KUKULKAN",
+          "line": "It was meant to be. That city and all else I taught to you ancestors. But they became evil."
+        },
+        {
+          "character": "KIRK",
+          "line": "But no one being, not even you, has the right to interfere with other cultures."
+        },
+        {
+          "character": "KUKULKAN",
+          "line": "I have been alone all my life. Destruction fell on my race before your kind had diskovered fire. Creatures like these have been my only companions. I have seen you on many worlds. Savage, war-like, filled with self-hate, destroying yourselves in the end. At last I decided to help. As an experiment, I visited your Earth and tried to teach peaceful ways. I left, intending to return when I was summoned, but you never sent for me. Finally, I sent a probe. And what did I find? Warriors."
+        },
+        {
+          "character": "BEAR",
+          "line": "But we work only to create peace."
+        },
+        {
+          "character": "KUKULKAN",
+          "line": "Nothing you have done so far makes me believe that is true. My creatures here have little intelligence. They alone live peacefully in the worlds I have to give. Even this creature, one of the fiercest and most untamable ever created, lives in peace in the world that I create for him."
+        },
+        {
+          "character": "MCCOY",
+          "line": "Good heavens. This is a Capellan power-cat. No one's ever been able to keep one alive."
+        },
+        {
+          "character": "KIRK",
+          "line": "Why, Bones?"
+        },
+        {
+          "character": "MCCOY",
+          "line": "They hate captivity. You try to put more than one hand on them and they throw off a charge of two thousand volts. How did you ever capture it?"
+        },
+        {
+          "character": "KUKULKAN",
+          "line": "It was an infant and easily controlled, as you were when I visited Earth. You still are children to me, to be led and shown how to live."
+        },
+        {
+          "character": "KIRK",
+          "line": "But if children are made totally dependent on their teachers, they will never be anything but children."
+        },
+        {
+          "character": "KUKULKAN",
+          "line": "Enough! This is useless. Despite what I have shown you, you still cling to your disobedient ways. My dream is ending and all of you are to blame."
+        }
+      ],
+      "location": "Laboratory"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "SPOCK",
+          "line": "Of course. The elasticity of the force field can respond in only one direction at a time. All hands to battle stations. Full impulse power, helmsman. Tractor beam on, full power. Warp engines on standby. Mister Arex, prepare to compensate for warp catapult effect. When we break free, we will be thrown approximately five point six nine eight light years."
+        },
+        {
+          "character": "AREX",
+          "line": "Compensation factors laid in, sir. But how are you going to break free?"
+        },
+        {
+          "character": "SPOCK",
+          "line": "The force globe is flexible in only one direction per unit of time. We shall both push and pull on it simultaneously. It should become rigid enough for a burst of warp power to shatter it."
+        },
+        {
+          "character": "AREX",
+          "line": "Force field contact in three seconds, sir."
+        },
+        {
+          "character": "SPOCK",
+          "line": "Full warp power on my order. Now."
+        },
+        {
+          "character": "SPOCK",
+          "line": "Reverse engines and come about. Lay in spiral evasive course for Kukulkan's ship."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "KUKULKAN",
+          "line": "Something is wrong. Escaped? But how? I will smash it this time."
+        },
+        {
+          "character": "MCCOY",
+          "line": "Jim, the Enterprise broke free."
+        },
+        {
+          "character": "KIRK",
+          "line": "Then we've got to distract him and give Spock some time. Bones, what would happen if we pulled the cables on some of these cages."
+        },
+        {
+          "character": "MCCOY",
+          "line": "Most of the animals would just lay there. Jim, the Capellan power-cat!"
+        },
+        {
+          "character": "KIRK",
+          "line": "Come on, Bones."
+        },
+        {
+          "character": "KUKULKAN",
+          "line": "No! Stop!"
+        },
+        {
+          "character": "KUKULKAN",
+          "line": "Irrational savages. See what you have done."
+        },
+        {
+          "character": "KIRK",
+          "line": "Kukulkan, can't you control one of your own creatures?"
+        },
+        {
+          "character": "KUKULKAN",
+          "line": "I cannot. Your ship has disabled my central power source."
+        },
+        {
+          "character": "MCCOY",
+          "line": "Jim, if that's true, we're all in trouble. Jim, do something."
+        },
+        {
+          "character": "KIRK",
+          "line": "Quick, your hypo. Full tranquilizer setting."
+        },
+        {
+          "character": "MCCOY",
+          "line": "Did you inject that beast or yourself?"
+        },
+        {
+          "character": "KIRK",
+          "line": "I'm fine, Bones. The cat's last power jolt clipped me."
+        },
+        {
+          "character": "BEAR",
+          "line": "It's just like a big kitten."
+        },
+        {
+          "character": "SCOTT",
+          "line": "What's this? My, aren't you the friendly little darling."
+        },
+        {
+          "character": "KIRK",
+          "line": "Kukulkan, I think we've earned the right to be heard."
+        },
+        {
+          "character": "KUKULKAN",
+          "line": "You continue to take advantage of me, but I agree. Speak."
+        },
+        {
+          "character": "KIRK",
+          "line": "You think of us as being small creatures like this one. Are we really that inferior to you?"
+        },
+        {
+          "character": "KUKULKAN",
+          "line": "No. But the violence of your kind surpasses even that of the power-cat."
+        },
+        {
+          "character": "MCCOY",
+          "line": "We'd be fools if we didn't know that. But we also have been using our minds and trying to learn to live in peace."
+        },
+        {
+          "character": "KIRK",
+          "line": "Because we have minds, we can't be what you wanted us to be. If we fail or succeed, it has to be our own doing. Intelligent life is too precious a thing to be led by the nose."
+        },
+        {
+          "character": "KUKULKAN",
+          "line": "But you are my children. I hoped I could teach you, help you."
+        },
+        {
+          "character": "KIRK",
+          "line": "You did, long ago, when it was needed most. Our people were children then. Kukulkan, we've grown up now. We don't need you anymore."
+        },
+        {
+          "character": "KUKULKAN",
+          "line": "I will let you go your own way. I have already done what I can."
+        }
+      ],
+      "location": "Laboratory"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "SPOCK",
+          "line": "Interesting, Captain. The creature was the Mayan god from the ancient legends."
+        },
+        {
+          "character": "KIRK",
+          "line": "And the Toltec's Quetzalcoatl, the Chinese dragon and all the rest. But not quite a god. Just an old, lonely being who wanted to help others."
+        },
+        {
+          "character": "MCCOY",
+          "line": "Spock, I wouldn't suppose that Vulcan has legends like those?"
+        },
+        {
+          "character": "SPOCK",
+          "line": "Not legends, Doctor. Fact. Vulcan was visited by alien beings. They left much wiser."
+        },
+        {
+          "character": "AREX",
+          "line": "The other ship is getting underway, sir. Heading away from Earth."
+        },
+        {
+          "character": "KIRK",
+          "line": "It's sad. Think what we could have done with his knowledge. But the price was just too high."
+        },
+        {
+          "character": "MCCOY",
+          "line": "I think I know how he felt, Jim. There's a line from Shakespeare."
+        },
+        {
+          "character": "KIRK",
+          "line": "Yes, Bones, I remember it. How sharper than a serpent's tooth it is to have a thankless child."
+        },
+        {
+          "character": "SPOCK",
+          "line": "Indeed, Captain."
+        },
+        {
+          "character": "KIRK",
+          "line": "Lay in a course for Starbase Twenty One. All ahead, warp two."
+        }
+      ],
+      "location": "Bridge"
+    }
+  ],
+  "schedule": {
+    "episode": 6,
+    "number": 22,
+    "season": 2
+  },
+  "stardate": "6063.4",
+  "title": "How Sharper Than A Serpent's Tooth"
+}

@@ -1,0 +1,1795 @@
+{
+  "airdate": 1084950000,
+  "scenes": [
+    {
+      "dialogue": [
+        {
+          "character": "T'POL",
+          "line": "Previously on Enterprise",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "DEGRA",
+          "line": "How to you plan to get inside?",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "ARCHER",
+          "line": "We're pretty sure we've found a way in. I'm sending a crew in a shuttlepod."
+        },
+        {
+          "character": "T'POL",
+          "line": "The Spheres are controlled by a network of artificial intelligence. This section houses the redundant memory core. It should contain a significant amount of information."
+        },
+        {
+          "character": "ARCHER",
+          "line": "We're hoping that'll include data on the Sphere Builders. ([Inside the Sphere, MACO Hawkins is grabbed and killed by the Sphere defense mechanism.)"
+        },
+        {
+          "character": "REED",
+          "line": "Hawkins!"
+        },
+        {
+          "character": "DEGRA",
+          "line": "I'll be at your side no matter what happens. DOLIM [Xindi Council Chamber: We've taken control of the weapon. We're going to launch it.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "DEGRA",
+          "line": "Wait!",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "DOLIM",
+          "line": "We have an image of your ship firing.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "DEGRA",
+          "line": "They left me no choice."
+        },
+        {
+          "character": "DOLIM",
+          "line": "You've left me no choice. The crew of that ship are the last Xindi you'll ever betray."
+        },
+        {
+          "character": "HUMANOID",
+          "line": "The weapon cannot be launched without three of the codes.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "DOLIM",
+          "line": "Do you really believe we haven't considered that?"
+        },
+        {
+          "character": "ARCHER",
+          "line": "Hoshi!",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "unknown"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "HOSHI",
+          "line": "Why am I here? What do you want?"
+        },
+        {
+          "character": "DOLIM",
+          "line": "We were impressed with your linguistic abilities. Aquatic is difficult to master. I've heard it spoken my entire life but still, it doesn't come easily to me."
+        },
+        {
+          "character": "HOSHI",
+          "line": "Maybe you should have applied yourself more."
+        },
+        {
+          "character": "DOLIM",
+          "line": "We have some encoded data we need translated."
+        },
+        {
+          "character": "HOSHI",
+          "line": "I'm not a cryptologist."
+        },
+        {
+          "character": "DOLIM",
+          "line": "I have confidence in your abilities."
+        },
+        {
+          "character": "HOSHI",
+          "line": "That's very flattering, but you'll have to manage on your own."
+        },
+        {
+          "character": "DOLIM",
+          "line": "If you refuse, we'll have no further use for you. Get her ready for the procedure."
+        },
+        {
+          "character": "LIEUTENANT",
+          "line": "She's surprisingly strong-willed for a primate."
+        },
+        {
+          "character": "DOLIM",
+          "line": "We'll see how defiant she is after our surgeons have finished with her. We'll have the launch codes soon enough."
+        }
+      ],
+      "location": "Reptilian Interrogation room"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "T'POL",
+          "line": "We need to access the data from this. Meet me in the Command center in half an hour. I'll assist you."
+        },
+        {
+          "character": "TRAVIS",
+          "line": "What have we missed?"
+        },
+        {
+          "character": "TUCKER",
+          "line": "The Teptilians took the weapon."
+        },
+        {
+          "character": "TRAVIS",
+          "line": "Have they launched it?"
+        },
+        {
+          "character": "TUCKER",
+          "line": "We don't know. The Captain's on his way to the surface, he wants to figure out our next move. And they took Hoshi. She's gone."
+        },
+        {
+          "character": "TRAVIS",
+          "line": "Who?"
+        },
+        {
+          "character": "TUCKER",
+          "line": "Reptilians, Insectoids, we don't know. They transported her off the Bridge."
+        },
+        {
+          "character": "HAYES",
+          "line": "Where's Corporal Hawkins?"
+        },
+        {
+          "character": "REED",
+          "line": "The Sphere had an automated defense mechanism. He was killed. I'm sorry, Major."
+        },
+        {
+          "character": "HAYES",
+          "line": "I'm sure you did everything you could. I'd appreciate a full report."
+        }
+      ],
+      "location": "Launch bay"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "ARCHER",
+          "line": "Where are they?"
+        },
+        {
+          "character": "HUMANOID",
+          "line": "We're trying to determine their location. It's difficult to track them inside a vortex."
+        },
+        {
+          "character": "ARCHER",
+          "line": "For all you know they could be heading to Earth."
+        },
+        {
+          "character": "JANNAR",
+          "line": "They can't deploy the weapon. Not yet."
+        },
+        {
+          "character": "HUMANOID",
+          "line": "Each of the five species has a set of commands to initiate the arming sequence. Three of them are needed to activate the weapon."
+        },
+        {
+          "character": "JANNAR",
+          "line": "They only have two. We obviously don't intent to give them ours."
+        },
+        {
+          "character": "ARCHER",
+          "line": "What about the Aquatics?"
+        },
+        {
+          "character": "HUMANOID",
+          "line": "Their actions aren't easy to predict, but so far they seem determined not to take sides."
+        },
+        {
+          "character": "JANNAR",
+          "line": "It's more likely the Reptilians and Insectoids will attempt to bypass the command codes themselves."
+        },
+        {
+          "character": "HUMANOID",
+          "line": "And that will take time."
+        },
+        {
+          "character": "ARCHER",
+          "line": "They've abducted my Communications Officer. Up until now I didn't know why."
+        },
+        {
+          "character": "JANNAR",
+          "line": "You believe they'll use her to decrypt the arming sequence?"
+        },
+        {
+          "character": "ARCHER",
+          "line": "She'll never co-operate."
+        },
+        {
+          "character": "HUMANOID",
+          "line": "She may not have a choice."
+        }
+      ],
+      "location": "Degra's quarters"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "T'POL",
+          "line": "This could be a command subroutine."
+        },
+        {
+          "character": "TUCKER",
+          "line": "And it could be a letter to Santa Claus. I wouldn't mind having Hoshi here right now."
+        },
+        {
+          "character": "T'POL",
+          "line": "We'll have to make do without her."
+        },
+        {
+          "character": "TUCKER",
+          "line": "I just hope she's okay."
+        },
+        {
+          "character": "T'POL",
+          "line": "We're here to analyze this data, not speculate on Ensign Sato's fate."
+        },
+        {
+          "character": "TUCKER",
+          "line": "You okay?"
+        },
+        {
+          "character": "T'POL",
+          "line": "I'm fond of Hoshi as well, but we can't allow her situation to become a distraction."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Any luck?"
+        },
+        {
+          "character": "T'POL",
+          "line": "There's a great deal of data to analyze, but we've made some progress. We know the Spheres are connected by a subspace energy grid, but four of them appear to be integral to that connection."
+        },
+        {
+          "character": "TUCKER",
+          "line": "Closest one's here. We've designated it Sphere Forty One."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Integral how?"
+        },
+        {
+          "character": "T'POL",
+          "line": "I believe they act as control Spheres, allowing the network to operate in concert."
+        },
+        {
+          "character": "ARCHER",
+          "line": "If we can damage one of them, would it disrupt the entire grid?"
+        },
+        {
+          "character": "TUCKER",
+          "line": "Maybe. It also might have no effect. We just don't have enough information yet."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Keep at it."
+        },
+        {
+          "character": "TUCKER",
+          "line": "Aye, sir."
+        }
+      ],
+      "location": "Command center"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "DOLIM",
+          "line": "Co-operate and this won't be necessary. Wait. After the injection, the parasites will invade your neocortex. Once they begin reconfiguring your synaptic pathways you'll me much more compliant. Before your primate brain is too badly damaged to understand, I want to thank you for helping us destroy your world."
+        }
+      ],
+      "location": "Reptilian cell"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "JANNAR",
+          "line": "If they'd stayed in the vortex, we wouldn't have found them."
+        },
+        {
+          "character": "HUMANOID",
+          "line": "They're less than four light years from here."
+        },
+        {
+          "character": "REED",
+          "line": "Why have they stopped? They could have been half way to Earth by now."
+        },
+        {
+          "character": "HUMANOID",
+          "line": "They're attempting to arm the weapon. The propulsion system has to be offline to do it."
+        },
+        {
+          "character": "ARCHER",
+          "line": "How quickly can we get there?"
+        },
+        {
+          "character": "JANNAR",
+          "line": "That wouldn't be wise. They've been joined by at least a dozen vessels."
+        },
+        {
+          "character": "ARCHER",
+          "line": "You have nearly as many ships."
+        },
+        {
+          "character": "HUMANOID",
+          "line": "You may have noticed that Reptilians and Insectoids are more belligerent than we are. Their ships are armed accordingly."
+        },
+        {
+          "character": "JANNAR",
+          "line": "We're no match for them."
+        },
+        {
+          "character": "REED",
+          "line": "We've been out-gunned before, sir. We did not come all this way to give up without a fight."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Would the Aquatics be a match for them?"
+        },
+        {
+          "character": "HUMANOID",
+          "line": "Their ships are extremely powerful, but they've seen your evidence. They're not convinced."
+        },
+        {
+          "character": "ARCHER",
+          "line": "That was before the reptilians murdered Degra and stole the weapon. We're looking at civil war. Can they afford to sit back and do nothing? Let me talk to them."
+        }
+      ],
+      "location": "Situation room"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "HUMANOID",
+          "line": "Now isn't the time to dissolve the Council."
+        },
+        {
+          "character": "HUMANOID",
+          "line": "So we should leave our fate in the hands of the Reptilians and the Insectoids?"
+        },
+        {
+          "character": "HUMANOID",
+          "line": "I disagree. The evidence the humans provided can't be ignored."
+        },
+        {
+          "character": "ARCHER",
+          "line": "I didn't quite catch that last part."
+        },
+        {
+          "character": "HUMANOID",
+          "line": "They have agreed to meet with us, but don't expect much, Captain."
+        }
+      ],
+      "location": "Degra's ship"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "ARCHER",
+          "line": "How long do they plan to keep us waiting."
+        },
+        {
+          "character": "HUMANOID",
+          "line": "You have to deal with the Aquatics on their terms."
+        },
+        {
+          "character": "JANNAR",
+          "line": "They're extremely deliberate in everything they do."
+        },
+        {
+          "character": "ARCHER",
+          "line": "You all right?"
+        },
+        {
+          "character": "JANNAR",
+          "line": "My species doesn't like the water."
+        },
+        {
+          "character": "HUMANOID",
+          "line": "They're here."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Thank you for seeing me. I'm afraid my Communications Officer was abducted by the Reptilians."
+        },
+        {
+          "character": "AQUATIC",
+          "line": "That is regrettable, but her presence is no longer necessary. We've had time to study your language."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Then I'll get to the point. We need your help."
+        },
+        {
+          "character": "AQUATIC 2",
+          "line": "We made our position clear. The evidence is intriguing but far from conclusive."
+        },
+        {
+          "character": "AQUATIC",
+          "line": "We require more time to evaluate it."
+        },
+        {
+          "character": "ARCHER",
+          "line": "And if my world gets torn to rubble in the meantime?"
+        },
+        {
+          "character": "AQUATIC",
+          "line": "The Reptilians and the Insectoids cannot deploy the weapon on their own."
+        },
+        {
+          "character": "HUMANOID",
+          "line": "That may not be true."
+        },
+        {
+          "character": "ARCHER",
+          "line": "I believe they took my officer to help them decipher a third launch code. After all your deliberations, you may find a decision's been made without you."
+        },
+        {
+          "character": "AQUATIC2",
+          "line": "This changes nothing."
+        },
+        {
+          "character": "AQUATIC",
+          "line": "Just because the Reptilians choose to act rashly does not mean we will do the same."
+        },
+        {
+          "character": "ARCHER",
+          "line": "So you'd rather sit back and do nothing"
+        },
+        {
+          "character": "JANNAR",
+          "line": "Captain."
+        },
+        {
+          "character": "ARCHER",
+          "line": "While they condemn all five of your species to extinction."
+        },
+        {
+          "character": "AQUATIC2",
+          "line": "You may return to your ship. You'll be informed of our decision."
+        },
+        {
+          "character": "ARCHER",
+          "line": "One last question. Have these Guardians told you where you'll establish your new home world? The ones humans are destined to destroy? Is it here, in the Expanse? In case you haven't noticed, the Spheres are turning it into a transdimensional wasteland. None of you will be able to survive."
+        },
+        {
+          "character": "ARCHER",
+          "line": "You say the Guardians have helped you. Have they ever tried to disable the Spheres? Because we've found a way."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Help me save my people and I can help you save yours."
+        }
+      ],
+      "location": "Aquatic ship"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "DOLIM",
+          "line": "Report."
+        },
+        {
+          "character": "LIEUTENANT",
+          "line": "She's penetrated the first layer of encryption. Nothing further."
+        },
+        {
+          "character": "DOLIM",
+          "line": "You understand what we want you to do?"
+        },
+        {
+          "character": "HOSHI",
+          "line": "I'm to bypass the Aquatic encryption protocols."
+        },
+        {
+          "character": "DOLIM",
+          "line": "And you realize we need this done quickly."
+        },
+        {
+          "character": "HOSHI",
+          "line": "I'm not familiar with these cyphers. I'm trying."
+        },
+        {
+          "character": "DOLIM",
+          "line": "Are you?"
+        },
+        {
+          "character": "DOLIM",
+          "line": "She's more resistant than I imagined. Prepare her for another procedure."
+        },
+        {
+          "character": "DOLIM",
+          "line": "You would sacrifice yourself to stop us. Don't worry. You won't have to live with your guilt for long."
+        },
+        {
+          "character": "LIEUTENANT",
+          "line": "Commander. I can't access the arming matrix. She's added a layer of encryption!"
+        },
+        {
+          "character": "DOLIM",
+          "line": "You were ordered to watch her."
+        }
+      ],
+      "location": "Weapon control area"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "T'POL",
+          "line": "A deflector pulse might disrupt the subspace links."
+        },
+        {
+          "character": "TUCKER",
+          "line": "It wouldn't generate enough power."
+        },
+        {
+          "character": "T'POL",
+          "line": "We could tie the impulse reactors directly into the array."
+        },
+        {
+          "character": "TUCKER",
+          "line": "Sure, if you want to rupture every EPS conduit on the ship."
+        },
+        {
+          "character": "T'POL",
+          "line": "The Captain told the aquatics we could disable these Spheres."
+        },
+        {
+          "character": "TUCKER",
+          "line": "And I'm trying not to make a liar out of him."
+        },
+        {
+          "character": "T'POL",
+          "line": "Really."
+        },
+        {
+          "character": "TUCKER",
+          "line": "What do you mean by that?"
+        },
+        {
+          "character": "T'POL",
+          "line": "You've dismissed all of my proposals."
+        },
+        {
+          "character": "TUCKER",
+          "line": "When you come up with one that doesn't involve blowing ourselves up, I'll be a little more enthusiastic."
+        },
+        {
+          "character": "T'POL",
+          "line": "Or you might surprise me with an idea of your own."
+        },
+        {
+          "character": "TUCKER",
+          "line": "Maybe you haven't had time to meditate, I don't know, but whatever's going on with you lately, I've had about enough. I'll work on this in Engineering. Call me if you have any more brilliant ideas."
+        },
+        {
+          "character": "T'POL",
+          "line": "Commander, Trip! Everything that's happened recently has caused me to become slightly emotional."
+        },
+        {
+          "character": "TUCKER",
+          "line": "I've noticed."
+        },
+        {
+          "character": "T'POL",
+          "line": "I apologize."
+        },
+        {
+          "character": "TUCKER",
+          "line": "Forget about it."
+        },
+        {
+          "character": "T'POL",
+          "line": "I wish I could. It may take some time before I regain my control. It will be difficult to do, especially on my own."
+        },
+        {
+          "character": "TUCKER",
+          "line": "This hasn't been easy for any of us."
+        },
+        {
+          "character": "TUCKER",
+          "line": "You know how much I appreciate what you did for me. When this is all over, if you want to talk, I'm all ears. Why don't we take another crack at this."
+        }
+      ],
+      "location": "Command center"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "DOLIM",
+          "line": "The Council has disbanded. The weapon is under our control."
+        },
+        {
+          "character": "BUILDER",
+          "line": "Excellent. Deploy it immediately."
+        },
+        {
+          "character": "DOLIM",
+          "line": "As soon as we decrypt the third launch code. We've encountered some difficulties."
+        },
+        {
+          "character": "BUILDER",
+          "line": "The longer you delay, the more likely the time lines will shift against you."
+        },
+        {
+          "character": "DOLIM",
+          "line": "Then perhaps you can provide more of your valuable assistance. Help us get the code."
+        },
+        {
+          "character": "BUILDER",
+          "line": "That's not possible."
+        },
+        {
+          "character": "DOLIM",
+          "line": "It should be a simple matter to peer into the past, extract the necessary data."
+        },
+        {
+          "character": "BUILDER",
+          "line": "We only detect large fluctuations in the timescape. The fine details are obscured."
+        },
+        {
+          "character": "DOLIM",
+          "line": "Really? You've seen more than enough detail to learn how to meddle in our affairs, to turn the Xindi species against each other."
+        },
+        {
+          "character": "BUILDER",
+          "line": "Everything we've done has been to protect the Xindi."
+        },
+        {
+          "character": "DOLIM",
+          "line": "Then finish what you've started, if it's within your power."
+        },
+        {
+          "character": "BUILDER",
+          "line": "The time lines are in constant flux. Many of them favor the Primates and the Arboreals. Some even favor the humans. Unless that's the outcome you desire I suggest you find a way to launch the weapon."
+        }
+      ],
+      "location": "Reptilian Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "T'POL",
+          "line": "This appears to be some kind of interspatial manifold on the surface of Sphere Forty One."
+        },
+        {
+          "character": "ARCHER",
+          "line": "What they use to connect the Spheres."
+        },
+        {
+          "character": "TUCKER",
+          "line": "That's what we're thinking. T'Pol's figured out a way to target it with a deflector pulse."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Well done."
+        },
+        {
+          "character": "TUCKER",
+          "line": "We haven't exactly got all the details worked out yet."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Then you'd better keep at it. If the aquatics decide to help us they might want to hear those details."
+        },
+        {
+          "character": "TUCKER",
+          "line": "Captain. I hope you didn't make them any promises."
+        },
+        {
+          "character": "T'POL",
+          "line": "We'll keep working."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Please do."
+        }
+      ],
+      "location": "Command center"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "ARCHER",
+          "line": "Any word?"
+        },
+        {
+          "character": "HUMANOID",
+          "line": "It's only been three hours. The Council once needed to resolve a simple logistical matter. It took the Aquatics six days to agree to attend the meeting."
+        },
+        {
+          "character": "ARCHER",
+          "line": "I'm surprised you were ever able to get anything done."
+        },
+        {
+          "character": "HUMANOID",
+          "line": "On the contrary. Their prudence was usually the only thing that kept the Council from dissolving into chaos. That's why Degra had them build the weapon. He didn't want the reptilians and insectoids to have too much control."
+        },
+        {
+          "character": "ARCHER",
+          "line": "That's actually something I wanted to diskuss with you. If we're successful, and we destroy the weapon"
+        },
+        {
+          "character": "HUMANOID",
+          "line": "What's to prevent us from building another one? I knew Degra for many years. He could be difficult, uncompromising. We argued often. For instance, when he insisted that we meet with you. But when Degra spoke only a fool would ignore him. He believed there was a future between your people and ours. When this is over, I intend to see if he was right."
+        },
+        {
+          "character": "REED",
+          "line": "Captain Archer, please report to the Bridge.",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "Docking hatch corridor"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "ARCHER",
+          "line": "Report."
+        },
+        {
+          "character": "REED",
+          "line": "Six vessels approaching, sir. All aquatic."
+        },
+        {
+          "character": "HUMANOID",
+          "line": "That was remarkably fast."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Open a channel to the lead ship."
+        },
+        {
+          "character": "AQUATIC2",
+          "line": "We've considered your proposal.",
+          "modifier": "screen"
+        },
+        {
+          "character": "ARCHER",
+          "line": "And?"
+        },
+        {
+          "character": "AQUATIC",
+          "line": "We will help you intercept the weapon.",
+          "modifier": "screen"
+        },
+        {
+          "character": "ARCHER",
+          "line": "Thank you."
+        },
+        {
+          "character": "AQUATIC",
+          "line": "We expect you to honor our agreement.",
+          "modifier": "screen"
+        },
+        {
+          "character": "AQUATIC2",
+          "line": "You will attempt to disable the Spheres.",
+          "modifier": "screen"
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "BUILDER",
+          "line": "How do these developments affect the time line?"
+        },
+        {
+          "character": "PRESAGE",
+          "line": "It's difficult to say. They continue to fluctuate. However, most now indicate the humans will prevail."
+        },
+        {
+          "character": "BUILDER 2",
+          "line": "Then the time has come for us to intervene."
+        }
+      ],
+      "location": "Trans-dimensional space"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "DOLIM",
+          "line": "Is there another problem?"
+        },
+        {
+          "character": "LIEUTENANT",
+          "line": "Quite the opposite."
+        },
+        {
+          "character": "DOLIM",
+          "line": "The third launch code."
+        },
+        {
+          "character": "LIEUTENANT",
+          "line": "We have complete access."
+        },
+        {
+          "character": "DOLIM",
+          "line": "It appears the primate was useful after all. Take her back to her cell. Initiate the pre-arming protocols. Inform me when the weapon is ready for launch. Captain's starlog, February 13th, 2154. We're preparing to enter a Xindi vortex, thanks to some help from the aquatics. If everything goes as planned, we'll intercept the weapon in less than two hours. Enterprise may be coming apart at the seams, but I can't say the same for the crew. After nearly eight months in the Expanse they're ready to do what they came to do. No matter what it takes, no matter what the cost."
+        }
+      ],
+      "location": "Weapon control area"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "REED",
+          "line": "Have you assembled your boarding party?"
+        },
+        {
+          "character": "HAYES",
+          "line": "Ready to deploy on your command."
+        },
+        {
+          "character": "REED",
+          "line": "I wish I was leading it myself."
+        },
+        {
+          "character": "HAYES",
+          "line": "Your place is on the Bridge, sir."
+        },
+        {
+          "character": "REED",
+          "line": "No offense, Major. It's just that Ensign Sato is a friend. Here's my report on Corporal Hawkins."
+        },
+        {
+          "character": "HAYES",
+          "line": "Thank you. Would you like to go over my rescue plan?"
+        },
+        {
+          "character": "REED",
+          "line": "First, I'd like to know if we have a problem."
+        },
+        {
+          "character": "HAYES",
+          "line": "Sir?"
+        },
+        {
+          "character": "REED",
+          "line": "If you blame me for the Corporal's death."
+        },
+        {
+          "character": "HAYES",
+          "line": "Permission to speak freely? I've never liked putting my people under someone else's command. You're senior Tactical Officer, but they're my team. I can't help but think that if I'd been there things might have turned out differently."
+        },
+        {
+          "character": "REED",
+          "line": "I did everything I could. Things happened very fast."
+        },
+        {
+          "character": "HAYES",
+          "line": "I understand."
+        },
+        {
+          "character": "REED",
+          "line": "I'm not finished. Hawkins may well have been a MACO, but he was my responsibility out there."
+        },
+        {
+          "character": "HAYES",
+          "line": "When we first came aboard Enterprise, we definitely felt like outsiders."
+        },
+        {
+          "character": "REED",
+          "line": "If I contributed to that, I apologize."
+        },
+        {
+          "character": "HAYES",
+          "line": "My point is, none of us feel that way anymore. We're all part of the same crew, no matter which uniform we wear. Don't worry about Ensign Sato. We'll bring her home."
+        }
+      ],
+      "location": "Armory"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TUCKER",
+          "line": "I'd almost forgotten what Chef can do with a steak. I hope the crew forgives me for not patching up the Galley sooner."
+        },
+        {
+          "character": "T'POL",
+          "line": "I've heard no complaints, except from Chef of course."
+        },
+        {
+          "character": "TUCKER",
+          "line": "When this is all over, I plan on having a little chat with the Starfleet Quartermaster about what they put in those ration packs."
+        },
+        {
+          "character": "ARCHER",
+          "line": "When this is all over, I won't be complaining about the food. I'll just be happy to get back to our original mission."
+        },
+        {
+          "character": "TUCKER",
+          "line": "Hope you plan on swinging by Earth first. I told the Engineering team I'd buy them a few rounds at the 602 club. You're both invited, of course."
+        },
+        {
+          "character": "ARCHER",
+          "line": "I wouldn't miss it."
+        },
+        {
+          "character": "TUCKER",
+          "line": "What about you?"
+        },
+        {
+          "character": "T'POL",
+          "line": "You may buy me a drink if you wish."
+        },
+        {
+          "character": "TUCKER",
+          "line": "I meant, what are your plans for the future? It's been a long time since you've been to Vulcan."
+        },
+        {
+          "character": "ARCHER",
+          "line": "The High Command would be lucky to get you back."
+        },
+        {
+          "character": "T'POL",
+          "line": "There are some colleagues I'd enjoy seeing again, but I've considered formalizing my service with Starfleet."
+        },
+        {
+          "character": "ARCHER",
+          "line": "I may be able to pull some strings, get you out of basic training."
+        },
+        {
+          "character": "TUCKER",
+          "line": "Can you imagine the look of Soval's face when he sees her in a Starfleet uniform? Please let me be there."
+        },
+        {
+          "character": "T'POL",
+          "line": "I said I was considering it."
+        },
+        {
+          "character": "REED",
+          "line": "Bridge to the Captain.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "ARCHER",
+          "line": "Go ahead."
+        },
+        {
+          "character": "REED",
+          "line": "We're approaching the co-ordinates.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "ARCHER",
+          "line": "Tactical Alert. I'm on my way."
+        }
+      ],
+      "location": "Captain's Mess"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "LIEUTENANT",
+          "line": "Activate the reactor."
+        },
+        {
+          "character": "TECHNICIAN",
+          "line": "Yes, Lieutenant."
+        },
+        {
+          "character": "LIEUTENANT",
+          "line": "Commander Dolim,"
+        }
+      ],
+      "location": "Weapon control area"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "LIEUTENANT",
+          "line": "The final arming sequence has begun.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "DOLIM",
+          "line": "Excellent. Inform me when you are ready. I'll be in my thermal chamber."
+        },
+        {
+          "character": "DOLIM",
+          "line": "What is it?"
+        },
+        {
+          "character": "SOLDIER",
+          "line": "A vortex is opening."
+        },
+        {
+          "character": "DOLIM",
+          "line": "Where?"
+        },
+        {
+          "character": "SOLDIER",
+          "line": "Bearing two seven nine, range four thousand kilometers. Were you expecting reinforcements?"
+        },
+        {
+          "character": "DOLIM",
+          "line": "No."
+        },
+        {
+          "character": "SOLDIER",
+          "line": "Arboreals."
+        },
+        {
+          "character": "DOLIM",
+          "line": "Send a patrol to intercept them."
+        },
+        {
+          "character": "SOLDIER",
+          "line": "More vortexes are opening. Fourteen, eighteen ships. Aquatics. Six ships approaching the weapon."
+        },
+        {
+          "character": "DOLIM",
+          "line": "Target them. Have Commander Kolo's squadron maintain position."
+        }
+      ],
+      "location": "Reptilian Brig"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "REED",
+          "line": "They're moving to intercept, but they're keeping a substantial force around the weapon."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Feel like taking them on?"
+        },
+        {
+          "character": "REED",
+          "line": "Give me the word, sir."
+        },
+        {
+          "character": "ARCHER",
+          "line": "This is Captain Archer. Cut us loose."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "SOLDIER",
+          "line": "Sir. The humans."
+        }
+      ],
+      "location": "Reptilian Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "ARCHER",
+          "line": "Steady, Travis."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "JANNAR",
+          "line": "They're breaking off."
+        },
+        {
+          "character": "HUMANOID",
+          "line": "Have all ships concentrate their fire on the weapon."
+        }
+      ],
+      "location": "Degra's ship"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "REED",
+          "line": "We're in range."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Fire."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TECHNICIAN",
+          "line": "They're targeting the primary generators."
+        },
+        {
+          "character": "LIEUTENANT",
+          "line": "Continue the arming sequence."
+        }
+      ],
+      "location": "Weapon Control area"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "REED",
+          "line": "Minor damage to the starboard nacelle. We're still in the fight."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Bring us around for another pass."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "DOLIM",
+          "line": "Target the Earth vessel."
+        },
+        {
+          "character": "SOLDIER",
+          "line": "We can't, sir. The Aquatics are protecting them."
+        }
+      ],
+      "location": "Reptilian Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "T'POL",
+          "line": "Captain, I've located Ensign Sato. She's on board one of the Reptilian vessels."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Can you get a transporter lock?"
+        },
+        {
+          "character": "T'POL",
+          "line": "She's somewhere on the first three decks. I can't pinpoint her exact location."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Send Major Hayes and his team."
+        },
+        {
+          "character": "REED",
+          "line": "Aye, sir."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "SOLDIER",
+          "line": "We've lost eight vessels. We've only disabled two of theirs. We're no match for the Aquatics."
+        },
+        {
+          "character": "DOLIM",
+          "line": "Lieutenant."
+        }
+      ],
+      "location": "Reptilian Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "DOLIM",
+          "line": "We must deploy the weapon now.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "LIEUTENANT",
+          "line": "We need another five minutes."
+        }
+      ],
+      "location": "Weapon Control area"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "DOLIM",
+          "line": "In another five minutes it will be destroyed"
+        }
+      ],
+      "location": "Reptilian Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "DOLIM",
+          "line": "And you along with it.",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "Weapon Control area"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "HAYES",
+          "line": "Ensign. Ensign! Hayes to Enterprise. Enterprise, respond. We should get back to the beam-in point."
+        }
+      ],
+      "location": "Hoshi's cell"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "PRIMARY",
+          "line": "The Reptilians are under attack."
+        },
+        {
+          "character": "BUILDER",
+          "line": "If we don't act, the weapon will be destroyed."
+        },
+        {
+          "character": "PRESAGE",
+          "line": "The timelines now indicate that is the likely outcome."
+        },
+        {
+          "character": "BUILDER 2",
+          "line": "Proceed."
+        }
+      ],
+      "location": "Trans-dimensional space"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "T'POL",
+          "line": "Captain, there's a massive anomaly forming near the weapon. Two more."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Keep us clear of them, Travis."
+        },
+        {
+          "character": "TRAVIS",
+          "line": "We'll have to pull back."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Do what you can, but keep us in firing range."
+        },
+        {
+          "character": "TRAVIS",
+          "line": "Aye, sir."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "HUMANOID",
+          "line": "Captain Archer."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Go ahead.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "HUMANOID",
+          "line": "The anomalies are creating a barrier between us and the weapon."
+        }
+      ],
+      "location": "Degra's ship"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "HUMANOID",
+          "line": "We can't get through.",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "HAYES",
+          "line": "Hayes to Enterprise."
+        }
+      ],
+      "location": "Reptilian ship"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "ARCHER",
+          "line": "Go ahead."
+        },
+        {
+          "character": "HAYES",
+          "line": "We've got Sato.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "ARCHER",
+          "line": "Archer to Tucker. Lock onto Major Hayes."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TUCKER",
+          "line": "I wish I could, sir. The last anomaly knocked the transporter offline. Tell them to stand by."
+        }
+      ],
+      "location": "Transporter alcove"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "ARCHER",
+          "line": "Archer to Hayes. We've got a malfunction. Can you hold your position?"
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "HAYES",
+          "line": "Affirmative."
+        }
+      ],
+      "location": "Reptilian ship"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "SOLDIER",
+          "line": "The intruders are trapped on level seven."
+        },
+        {
+          "character": "DOLIM",
+          "line": "And the anomalies?"
+        },
+        {
+          "character": "SOLDIER",
+          "line": "They've disabled three of the Aquatic ships."
+        },
+        {
+          "character": "DOLIM",
+          "line": "The Guardians will not let us fail."
+        }
+      ],
+      "location": "Reptilian Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TUCKER",
+          "line": "Tucker to Hayes."
+        },
+        {
+          "character": "HAYES",
+          "line": "Go ahead.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "TUCKER",
+          "line": "I'm ready to get you out, but I can only transport two"
+        }
+      ],
+      "location": "Transporter alcove"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TUCKER",
+          "line": "At a time. I'm going to have to reset the buffer.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "HAYES",
+          "line": "Take her. Lock on Kelly and Sato."
+        },
+        {
+          "character": "TUCKER",
+          "line": "Ready for two more.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "HAYES",
+          "line": "You two are next."
+        },
+        {
+          "character": "HAYES",
+          "line": "I could use a change of scenery."
+        },
+        {
+          "character": "TUCKER",
+          "line": "Stand by, Major.",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "Reptilian ship"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "LIEUTENANT",
+          "line": "Commander Dolim."
+        },
+        {
+          "character": "DOLIM",
+          "line": "What's your status?",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "LIEUTENANT",
+          "line": "We've completed the arming sequence."
+        }
+      ],
+      "location": "Weapon Control area"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "T'POL",
+          "line": "Captain. The power readings from the weapon are increasing."
+        },
+        {
+          "character": "REED",
+          "line": "They're preparing to launch."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Get us close, Travis."
+        },
+        {
+          "character": "TRAVIS",
+          "line": "What about the anomalies?"
+        },
+        {
+          "character": "ARCHER",
+          "line": "I said, take us in."
+        },
+        {
+          "character": "TRAVIS",
+          "line": "Aye, sir."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "LIEUTENANT",
+          "line": "Ready to launch on your order, Commander."
+        }
+      ],
+      "location": "Weapon Control area"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "DOLIM",
+          "line": "Open a vortex. Set a course for Earth."
+        }
+      ],
+      "location": "Reptilian Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "REED",
+          "line": "They're gone."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "REED",
+          "line": "Doctor?"
+        },
+        {
+          "character": "HAYES",
+          "line": "I told him I was ready for duty."
+        },
+        {
+          "character": "REED",
+          "line": "I'm afraid he's a bit of a mother hen."
+        },
+        {
+          "character": "HAYES",
+          "line": "How's Ensign Sato?"
+        },
+        {
+          "character": "PHLOX",
+          "line": "Her biosigns are stable."
+        },
+        {
+          "character": "REED",
+          "line": "Thank you for bringing her home."
+        },
+        {
+          "character": "HAYES",
+          "line": "All in a days work. Use McKenzie."
+        },
+        {
+          "character": "REED",
+          "line": "What?"
+        },
+        {
+          "character": "HAYES",
+          "line": "She knows the team. Rely on her."
+        },
+        {
+          "character": "REED",
+          "line": "No more of that talk. That's an order."
+        },
+        {
+          "character": "PHLOX",
+          "line": "Cardio-stimulator. Step away, please."
+        },
+        {
+          "character": "PHLOX",
+          "line": "Increase by point two joules."
+        }
+      ],
+      "location": "Sickbay"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "ARCHER",
+          "line": "How long before it reaches Earth?"
+        },
+        {
+          "character": "JANNAR",
+          "line": "Ten hours."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Could an aquatic ship reach it in time?"
+        },
+        {
+          "character": "HUMANOID",
+          "line": "Doubtful. They have powerful weapons but their speed is limited."
+        },
+        {
+          "character": "JANNAR",
+          "line": "Degra's ship is considerably faster."
+        },
+        {
+          "character": "TUCKER",
+          "line": "What are we waiting for?"
+        },
+        {
+          "character": "HUMANOID",
+          "line": "The ship isn't well-armed. It would be useless against the weapon."
+        },
+        {
+          "character": "ARCHER",
+          "line": "We might be able to get a team on board, disable it from the inside."
+        },
+        {
+          "character": "JANNAR",
+          "line": "The Reptilians will have soldiers stationed aboard the weapon."
+        },
+        {
+          "character": "ARCHER",
+          "line": "We'll deal with them when we get there."
+        },
+        {
+          "character": "HUMANOID",
+          "line": "Captain, the Aquatics joined us only because you promised to neutralize the Spheres. They expect you to fulfill that promise."
+        },
+        {
+          "character": "JANNAR",
+          "line": "The future of our people is at stake, as well."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Are you ready?"
+        },
+        {
+          "character": "T'POL",
+          "line": "I believe so. We have a plan to disable Sphere Forty One."
+        },
+        {
+          "character": "TUCKER",
+          "line": "If we're right, it should disrupt the entire network."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Then as soon as we undock, set a course for Sphere Forty One."
+        }
+      ],
+      "location": "Situation room"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "REED",
+          "line": "At ease. I've just come from Sickbay, where the Doctor assures me that Sergeant Kemper and Ensign Sato will make full recoveries. Unfortunately, Major Hayes' injuries were more severe. He didn't survive. I'm sorry. We've got less than ten hours before this weapon reaches Earth. The Captain wants to take a team aboard to destroy it. I don't imagine the reptilians will make this easy for us, but that's why you're here. That's why Major Hayes picked each one of you for this mission. Because he knew you'd get the job done. I need three volunteers. Woods, Ramira, Forbes. Assemble your gear. Meet me at the starboard airlock in ten minutes."
+        }
+      ],
+      "location": "Armory"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "ARCHER",
+          "line": "How is she?"
+        },
+        {
+          "character": "PHLOX",
+          "line": "Stable. The Xindi parasites were no match for my osmotic eel."
+        },
+        {
+          "character": "ARCHER",
+          "line": "I need to talk to her."
+        },
+        {
+          "character": "PHLOX",
+          "line": "She's undergone a severe neural trauma."
+        },
+        {
+          "character": "ARCHER",
+          "line": "She's been inside the weapon. I have to know what she saw."
+        },
+        {
+          "character": "PHLOX",
+          "line": "It should be safe to revive her in two hours. No less."
+        },
+        {
+          "character": "ARCHER",
+          "line": "All right. Have her taken aboard Degra's ship right away."
+        },
+        {
+          "character": "PHLOX",
+          "line": "She's in no condition to be moved!"
+        },
+        {
+          "character": "ARCHER",
+          "line": "I don't have any choice, Doctor."
+        },
+        {
+          "character": "PHLOX",
+          "line": "You could kill her."
+        },
+        {
+          "character": "ARCHER",
+          "line": "I want her on that ship in twenty minutes."
+        },
+        {
+          "character": "PHLOX",
+          "line": "She'll need another cortical treatment. At least let me come with you."
+        },
+        {
+          "character": "ARCHER",
+          "line": "There's a medical bay aboard Degra's ship. Show Lieutenant Reed how to do it."
+        },
+        {
+          "character": "PHLOX",
+          "line": "He's not a doctor."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Phlox, you're needed here."
+        }
+      ],
+      "location": "Sickbay"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "SOLDIER",
+          "line": "The Insectoids."
+        },
+        {
+          "character": "INSECTOID",
+          "line": "The anomalies worked to our advantage.",
+          "modifier": "screen"
+        },
+        {
+          "character": "DOLIM",
+          "line": "We were fortunate."
+        },
+        {
+          "character": "INSECTOID",
+          "line": "It was more than good fortune. The human claims the Guardians control the Spheres.",
+          "modifier": "screen"
+        },
+        {
+          "character": "DOLIM",
+          "line": "He also started a civil war between our species."
+        },
+        {
+          "character": "INSECTOID",
+          "line": "The human didn't kill Degra. You did.",
+          "modifier": "screen"
+        },
+        {
+          "character": "DOLIM",
+          "line": "Degra was a traitor."
+        },
+        {
+          "character": "INSECTOID",
+          "line": "I'm no longer certain of that.",
+          "modifier": "screen"
+        },
+        {
+          "character": "DOLIM",
+          "line": "Then it's a good thing we already have your launch codes."
+        },
+        {
+          "character": "DOLIM",
+          "line": "Lock weapons on their ship."
+        },
+        {
+          "character": "SOLDIER",
+          "line": "Sir?"
+        },
+        {
+          "character": "DOLIM",
+          "line": "I won't risk any more interference. Fire."
+        }
+      ],
+      "location": "Reptilian Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TUCKER",
+          "line": "Malcolm. Hang on. Bring me back a piece of that weapon. A souvenir."
+        },
+        {
+          "character": "REED",
+          "line": "With pleasure. All set, sir."
+        },
+        {
+          "character": "ARCHER",
+          "line": "When we're finished, we'll meet you at the rendezvous coordinates."
+        },
+        {
+          "character": "TUCKER",
+          "line": "We'll be there. Captain, good luck."
+        },
+        {
+          "character": "ARCHER",
+          "line": "I expect you to keep him in line."
+        },
+        {
+          "character": "T'POL",
+          "line": "I'll do my best."
+        }
+      ],
+      "location": "Airlock"
+    }
+  ],
+  "schedule": {
+    "episode": 23,
+    "number": 75,
+    "season": 3
+  },
+  "stardate": "Unknown",
+  "title": "Countdown"
+}

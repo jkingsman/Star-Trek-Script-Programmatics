@@ -1,0 +1,1550 @@
+{
+  "airdate": 1063782000,
+  "scenes": [
+    {
+      "dialogue": [
+        {
+          "character": "ARCHER",
+          "line": "Come here."
+        },
+        {
+          "character": "ARCHER",
+          "line": "What's the problem?"
+        }
+      ],
+      "location": "Ready room"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "CREWMAN",
+          "line": "Commander?"
+        },
+        {
+          "character": "TUCKER",
+          "line": "This can't be right. Did you run a diagnostic?"
+        },
+        {
+          "character": "CREWMAN",
+          "line": "Twice."
+        },
+        {
+          "character": "TUCKER",
+          "line": "Let's check those relays."
+        }
+      ],
+      "location": "Engineering"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "T'POL",
+          "line": "Captain to the Bridge.",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "Ready room"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "T'POL",
+          "line": "We're getting reports of anomalies from all over the ship."
+        },
+        {
+          "character": "TRAVIS",
+          "line": "The warp field's fluctuating."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "ARCHER",
+          "line": "Bridge to Engineering. Report.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "TUCKER",
+          "line": "I don't get it, Captain. Half the plasma relays have reversed polarity."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Shut down the reactor.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "TUCKER",
+          "line": "I'm trying, but it's not cooperating."
+        }
+      ],
+      "location": "Engineering"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TRAVIS",
+          "line": "We're losing main power."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TUCKER",
+          "line": "Now."
+        }
+      ],
+      "location": "Engineering"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "REED",
+          "line": "I've restored emergency power, but of our primary systems are still offline, including weapons."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Trip, what's your status?"
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TUCKER",
+          "line": "We've got a hell of a mess down here, Captain. It's going to be a while before I can even figure out what just happened."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Keep me posted.",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "Engineering"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TRAVIS",
+          "line": "Sir, I'm picking up a vessel eight million kilometers off port."
+        },
+        {
+          "character": "ARCHER",
+          "line": "What's their heading?"
+        },
+        {
+          "character": "TRAVIS",
+          "line": "Looks like they're holding position, or they could be adrift."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Hail them."
+        },
+        {
+          "character": "HOSHI",
+          "line": "Our transceiver's offline."
+        },
+        {
+          "character": "ARCHER",
+          "line": "What's our best speed?"
+        },
+        {
+          "character": "TRAVIS",
+          "line": "One quarter impulse."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Set a course."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Biosigns?"
+        },
+        {
+          "character": "T'POL",
+          "line": "None, and there's no atmosphere aboard. Artificial gravity's down as well."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Any sign of what happened to them?"
+        },
+        {
+          "character": "REED",
+          "line": "No, sir."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "ARCHER",
+          "line": "Have you spent much time in gravity boots, Corporal?"
+        },
+        {
+          "character": "MCKENZIE",
+          "line": "I did a six week tour on Jupiter Station. The grav-plating went down a few times."
+        },
+        {
+          "character": "KEMPER",
+          "line": "Only in simulation, sir."
+        },
+        {
+          "character": "HAWKINS",
+          "line": "Same here, Captain."
+        },
+        {
+          "character": "ARCHER",
+          "line": "This is an alien ship we're boarding. We could run into magnetic variances. Watch your step."
+        },
+        {
+          "character": "ALL",
+          "line": "Yes, sir."
+        },
+        {
+          "character": "ARCHER",
+          "line": "We're looking for anything that could tell us what happened to them."
+        },
+        {
+          "character": "REED",
+          "line": "And don't forget, just because sensors didn't pick up any biosigns doesn't mean you won't encounter anyone."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Set weapons to stun."
+        },
+        {
+          "character": "MCKENZIE",
+          "line": "Aye sir."
+        }
+      ],
+      "location": "Locker room"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "REED",
+          "line": "Weapons fire."
+        },
+        {
+          "character": "KEMPER",
+          "line": "Captain? No external injuries."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Let's find the Bridge."
+        }
+      ],
+      "location": "Alien ship"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "ARCHER",
+          "line": "Try to access that station. Download what you can."
+        }
+      ],
+      "location": "Alien Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "ARCHER",
+          "line": "We counted seventeen bodies. Most of them died when their life support ran out. The others were killed by particle weapons. What's our status?"
+        },
+        {
+          "character": "T'POL",
+          "line": "Ensign Sato managed to bring the transceiver online, but other than that."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Archer to Mayweather."
+        },
+        {
+          "character": "TRAVIS",
+          "line": "Go ahead, Captain.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "ARCHER",
+          "line": "Resume our previous course, one quarter impulse."
+        },
+        {
+          "character": "TRAVIS",
+          "line": "Understood.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "T'POL",
+          "line": "It might be best to complete repairs before we head deeper into the Expanse. If we encounter any more anomalies"
+        },
+        {
+          "character": "ARCHER",
+          "line": "Those people have been dead for less than two days. Whoever attacked them could still be nearby. We'll have to make repairs on the move. Mister Reed recovered some data from their Bridge. See what you can make of it."
+        }
+      ],
+      "location": "Locker room"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TUCKER",
+          "line": "Let's try it again. Watch that intermix ratio."
+        },
+        {
+          "character": "TUCKER",
+          "line": "Looking good. Bring her up to forty percent."
+        },
+        {
+          "character": "TUCKER",
+          "line": "Shut it down. Shut it down!"
+        },
+        {
+          "character": "ARCHER",
+          "line": "How's it coming?"
+        },
+        {
+          "character": "TUCKER",
+          "line": "Could be better. Creating a stable warp field isn't easy when the laws of physics won't cooperate. The Cochrane Equation, it's not constant here. The problem's in the quantum variables. Every time I try to compensate, the spatial gradients get thrown out of whack. Either we get away from these anomalies or we're going to have to rewrite the book on warp theory, and I don't have to tell you how long it took Zefram Cochrane the first time around."
+        },
+        {
+          "character": "ARCHER",
+          "line": "What about tactical systems?"
+        },
+        {
+          "character": "TUCKER",
+          "line": "Weapons should be up and running within an hour or two."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Make them your priority."
+        },
+        {
+          "character": "TUCKER",
+          "line": "You worried about something?"
+        },
+        {
+          "character": "ARCHER",
+          "line": "Weapons, Trip. As quickly as you can."
+        },
+        {
+          "character": "TUCKER",
+          "line": "Now where's Isaac Newton when you need him."
+        }
+      ],
+      "location": "Engineering"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "ARCHER",
+          "line": "Distance?"
+        },
+        {
+          "character": "TRAVIS",
+          "line": "Three thousand meters and closing."
+        },
+        {
+          "character": "REED",
+          "line": "They're charging weapons."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Can you give me hull plating?"
+        },
+        {
+          "character": "REED",
+          "line": "I'm sorry, sir."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Hail them."
+        },
+        {
+          "character": "TRAVIS",
+          "line": "Two thousand meters."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "ARCHER",
+          "line": "Hold your fire. Are those warheads armed?"
+        },
+        {
+          "character": "REED",
+          "line": "Yeah."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Stun grenade."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Go! How many more?"
+        },
+        {
+          "character": "REED",
+          "line": "Two in Cargo Bay one, four more in Engineering."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Get down there and help Trip. Corporal."
+        },
+        {
+          "character": "REED",
+          "line": "Woods, you're with me."
+        }
+      ],
+      "location": "Armory"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "HOSHI",
+          "line": "They're trying to download our database."
+        },
+        {
+          "character": "T'POL",
+          "line": "Lock them out."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "PHLOX",
+          "line": "Increase his anaprovaline by fifty milligrams."
+        },
+        {
+          "character": "ARCHER",
+          "line": "How are they?"
+        },
+        {
+          "character": "PHLOX",
+          "line": "Stable. However, they've suffered extensive disruptor burns. I'd like to start them on regeneration therapy, but the Imaging Chamber was damaged in the attack. I'll need a repair team as soon as possible."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Understood."
+        },
+        {
+          "character": "PHLOX",
+          "line": "Crewman Fuller. I did everything I could."
+        },
+        {
+          "character": "ARCHER",
+          "line": "What about him?"
+        },
+        {
+          "character": "PHLOX",
+          "line": "A few internal injuries. I'll need to keep him under observation."
+        },
+        {
+          "character": "ARCHER",
+          "line": "You can observe him in the Brig. See to it."
+        },
+        {
+          "character": "KEMPER",
+          "line": "Aye sir."
+        },
+        {
+          "character": "PHLOX",
+          "line": "You might be interested to know that I recognize his species. He's Osaarian."
+        },
+        {
+          "character": "ARCHER",
+          "line": "He's not from the Expanse?"
+        },
+        {
+          "character": "PHLOX",
+          "line": "Not originally."
+        }
+      ],
+      "location": "Sickbay"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "ARCHER",
+          "line": "How bad is it?"
+        },
+        {
+          "character": "TUCKER",
+          "line": "They made off with three photonic torpedoes, a case of plasma rifles, two dozen stun grenades, Chef says they cleaned out half of the food stores, Cargo Bay two's been stripped to the bulkheads, but that's not the worst of it. They took every one of our antimatter storage pods. All we've got left is what's in the main reactor."
+        },
+        {
+          "character": "ARCHER",
+          "line": "How long will that last, a month?"
+        },
+        {
+          "character": "TUCKER",
+          "line": "Tops. After that we're out of gas."
+        }
+      ],
+      "location": "Corridor"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "ARCHER",
+          "line": "This is all you've got?"
+        },
+        {
+          "character": "T'POL",
+          "line": "High Command hasn't had much contact with the Osaarians. They have a large merchant fleet, but there's no record of piracy."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Any luck tracking their ship?"
+        },
+        {
+          "character": "T'POL",
+          "line": "Not yet. They've found a way to mask their ion trail."
+        },
+        {
+          "character": "ARCHER",
+          "line": "For a people with no history of piracy, they've gotten pretty good at it. Keep looking."
+        },
+        {
+          "character": "T'POL",
+          "line": "It appears they've adapted their weapons and engines to compensate for the anomalies. Pursuing them will be dangerous. We should consider other alternatives."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Such as what? Waiting for our antimatter to run dry?"
+        },
+        {
+          "character": "T'POL",
+          "line": "I'm only suggesting that we may be able to replenish our supplies elsewhere."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Keep looking."
+        }
+      ],
+      "location": "Ready room"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "ARCHER",
+          "line": "Open it."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Doctor Phlox said your injuries were minor. Please get up."
+        },
+        {
+          "character": "ORGOTH",
+          "line": "Why?"
+        },
+        {
+          "character": "ARCHER",
+          "line": "I have a dead crewman."
+        },
+        {
+          "character": "ORGOTH",
+          "line": "I didn't kill him."
+        },
+        {
+          "character": "ARCHER",
+          "line": "No, one of your friends did. But I don't have one of your friends, I have you, so get up and look at me. Thank you. You're going to help me find your ship, and after I've taken back what they stole from me, you and your colleagues are free to go."
+        },
+        {
+          "character": "ORGOTH",
+          "line": "If you went anywhere near that ship you'd have more than one dead crewman. I can't help you. Even if I could, my Captain wouldnn't be very interested in having me back, would he. Not after I told you where to find him."
+        },
+        {
+          "character": "ARCHER",
+          "line": "That's a risk you'll have to take, because the alternative is going to be a lot less pleasant."
+        },
+        {
+          "character": "ORGOTH",
+          "line": "I don't think you'd be very comfortable torturing another man. You and your crewmates are far too civilized for that. Too moral."
+        },
+        {
+          "character": "ARCHER",
+          "line": "I need what was stolen from me. There's too much at stake to let my morality get in the way."
+        },
+        {
+          "character": "ORGOTH",
+          "line": "You're obviously new to this Expanse. If you weren't, your ship's hull would be insulated with trellium-D. Do you have any idea what a spatial distortion can do to a ship that is not insulated with trellium-D? What it can do to the people inside that ship?"
+        },
+        {
+          "character": "ARCHER",
+          "line": "You masked your ion trail. How?"
+        },
+        {
+          "character": "ORGOTH",
+          "line": "Well, my Captain's a very clever man. He has to be. When you're forced to resort to desperate measures in order to survive, you have to be clever. You need to know how to hide."
+        },
+        {
+          "character": "ARCHER",
+          "line": "So you were forced into piracy."
+        },
+        {
+          "character": "ORGOTH",
+          "line": "When we entered this Expanse we were no different than you. Two merchant ships looking for trade routes. Then the first distortion hit us. We decided to return home, but the perimeter, the thermobaric clouds, let you in but they don't let you out. One of our ships was destroyed trying. After a few more encounters with the anomalies it wasn't long before we became predators. This section of the Expanse proved to be ideal for hunting. When a ship runs aground due to spatial distortions it becomes an easy target. Our Captain told us we wouldn't harm anyone, and we didn't. Not at first. It takes time to learn to kill without remorse. You're not prepared to kill, or torture. Not yet."
+        },
+        {
+          "character": "ARCHER",
+          "line": "I'm prepared to do whatever it takes to find your ship, and if that ends up causing me remorse, then it's something I'm willing to live with. Think about it."
+        }
+      ],
+      "location": "Brig"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "T'POL",
+          "line": "I've been studying the data recovered from the derelict. Apparently, they decided to look for the Osaarians as well. They found a way to modify their sensors to detect the ion trail. Their life support failed before they had a chance to start."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Did they leave a record of the modifications?"
+        },
+        {
+          "character": "T'POL",
+          "line": "I've already given it to Ensign Mayweather."
+        },
+        {
+          "character": "ARCHER",
+          "line": "What's our tactical situation."
+        },
+        {
+          "character": "T'POL",
+          "line": "Hull plating's back online. We should have phase cannons within the hour."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Torpedoes?"
+        },
+        {
+          "character": "T'POL",
+          "line": "Lieutenant Reed is still having difficulty modifying the guidance systems to compensate for the anomalies."
+        },
+        {
+          "character": "ARCHER",
+          "line": "I'll be in the Armory."
+        }
+      ],
+      "location": "Command center"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "REED",
+          "line": "Black tea, hot. You finished rewriting the physics books?"
+        },
+        {
+          "character": "TUCKER",
+          "line": "I don't think I'll be taking home a Nobel prize anytime soon."
+        },
+        {
+          "character": "REED",
+          "line": "A few hours rest might do you a world of good."
+        },
+        {
+          "character": "TUCKER",
+          "line": "No kidding."
+        },
+        {
+          "character": "REED",
+          "line": "You still can't sleep?"
+        },
+        {
+          "character": "TUCKER",
+          "line": "T'Pol's been trying to help, showing me how to stimulate my neural nodes. It's not what you think."
+        },
+        {
+          "character": "REED",
+          "line": "I wasn't thinking anything."
+        },
+        {
+          "character": "TUCKER",
+          "line": "How are the weapons coming?"
+        },
+        {
+          "character": "REED",
+          "line": "The Captain and I managed to bring the guidance systems online, but we're going to need more time for the aft launchers. Fuller knew those torpedo systems better than anyone. He won't be easy to replace. Considering all the hostile aliens we've met, I suppose it's fortunate we haven't lost more people."
+        },
+        {
+          "character": "TUCKER",
+          "line": "I doubt he'll be the last."
+        },
+        {
+          "character": "REED",
+          "line": "There's no reason to get cynical."
+        },
+        {
+          "character": "TUCKER",
+          "line": "Every species we run into seems to be gunning for us. We might as well paint a giant bulls-eye on the hull."
+        },
+        {
+          "character": "REED",
+          "line": "What do you suggest we do, turn around and go back to Earth?"
+        },
+        {
+          "character": "TUCKER",
+          "line": "All I'm saying is that this mission, whether it succeeds or not, is looking like a one-way ticket all the time. Captain's Starlog, supplemental. We've been tracking the Osaarians' ion trail for the past four hours. There's still no sign of them."
+        }
+      ],
+      "location": "Mess hall"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TRAVIS",
+          "line": "The trail ends about twenty thousand kilometers ahead."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Any sign of a ship?"
+        },
+        {
+          "character": "TRAVIS",
+          "line": "Nothing."
+        },
+        {
+          "character": "ARCHER",
+          "line": "T'Pol?"
+        },
+        {
+          "character": "T'POL",
+          "line": "Curious. The trail resumes after another seventy thousand kilometers."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Let's see it."
+        },
+        {
+          "character": "TRAVIS",
+          "line": "Shall I alter course?"
+        },
+        {
+          "character": "ARCHER",
+          "line": "Not yet. Why would there be such a large gap?"
+        },
+        {
+          "character": "T'POL",
+          "line": "Their ions may have been dispersed by stellar winds."
+        },
+        {
+          "character": "HOSHI",
+          "line": "There would still be some residual particles."
+        },
+        {
+          "character": "REED",
+          "line": "Captain, the particle decay rates don't match. This one is at least nine hours old, this one was left less than an hour ago."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Bring weapons online. Take us to where the first trail ends."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Travis?"
+        },
+        {
+          "character": "TRAVIS",
+          "line": "I'm not reading anything."
+        },
+        {
+          "character": "REED",
+          "line": "Power's fluctuating. Forward plating's down."
+        },
+        {
+          "character": "T'POL",
+          "line": "Microfractures are forming on the outer hull. We should come about."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Keep going."
+        },
+        {
+          "character": "ARCHER",
+          "line": "T'Pol."
+        },
+        {
+          "character": "T'POL",
+          "line": "It's approximately nineteen kilometers in diameter."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Ever seen anything like it?"
+        },
+        {
+          "character": "T'POL",
+          "line": "No. It's constructed entirely of a single alloy."
+        },
+        {
+          "character": "REED",
+          "line": "Who could build something that big?"
+        },
+        {
+          "character": "ARCHER",
+          "line": "Take us in closer."
+        },
+        {
+          "character": "REED",
+          "line": "That cloaking field is enormous. Whoever built this thing went to a great deal of trouble to conceal it."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Judging from those ion trails, the Osaarians spent over eight hours here. I want to find out why. Any luck scanning the interior?"
+        },
+        {
+          "character": "T'POL",
+          "line": "Our sensors are being deflected."
+        },
+        {
+          "character": "ARCHER",
+          "line": "See if you can find something that looks like a way in. Take us into orbit."
+        },
+        {
+          "character": "T'POL",
+          "line": "I'm detecting what appears to be a portal, twenty two degrees north of our current position."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Put it up."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Can you tell what the door's made of?"
+        },
+        {
+          "character": "T'POL",
+          "line": "Polyduranium. The same metal as the Osaarian's hull."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Can we fit through?"
+        },
+        {
+          "character": "TRAVIS",
+          "line": "Not with Enterprise."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Then get a pod ready."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "REED",
+          "line": "We've cycled through the standard frequencies."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Did you find the locking mechanism?"
+        },
+        {
+          "character": "REED",
+          "line": "On the lower right side."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Hold our position."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Try it now."
+        },
+        {
+          "character": "TRAVIS",
+          "line": "There's no indication of any ships, sir."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Archer to Enterprise."
+        },
+        {
+          "character": "T'POL",
+          "line": "Go ahead.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "ARCHER",
+          "line": "We're heading in."
+        },
+        {
+          "character": "T'POL",
+          "line": "Understood.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "TRAVIS",
+          "line": "There's enough energy running through here to power a dozen cities."
+        },
+        {
+          "character": "REED",
+          "line": "What's that down there?"
+        },
+        {
+          "character": "ARCHER",
+          "line": "Those modules have a breathable atmosphere."
+        },
+        {
+          "character": "REED",
+          "line": "Let's hope there's no one home."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Do you see that docking port, Ensign?"
+        },
+        {
+          "character": "TRAVIS",
+          "line": "Yes, sir."
+        }
+      ],
+      "location": "Shuttlepod"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "REED",
+          "line": "We're all clear, sir."
+        },
+        {
+          "character": "ARCHER",
+          "line": "They've been busy. We've a lot of modules to search. Fan out, keep open comm. links."
+        },
+        {
+          "character": "REED",
+          "line": "They're not going to run out of stem-bolts any time soon. This way. Starfleet ration packs."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Archer."
+        },
+        {
+          "character": "TRAVIS",
+          "line": "I've found something, Captain.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "ARCHER",
+          "line": "Travis?"
+        },
+        {
+          "character": "TRAVIS",
+          "line": "Over here, sir."
+        },
+        {
+          "character": "TRAVIS",
+          "line": "I'm pretty sure it's a cargo manifest."
+        },
+        {
+          "character": "ARCHER",
+          "line": "How's your Osaarian?"
+        },
+        {
+          "character": "TRAVIS",
+          "line": "Not very good, sir."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Download what you can. Get it to Hoshi. Tell T'Pol we're going to need another search team."
+        },
+        {
+          "character": "TRAVIS",
+          "line": "Aye, sir."
+        },
+        {
+          "character": "REED",
+          "line": "Check behind those canisters."
+        },
+        {
+          "character": "TRAVIS",
+          "line": "Look at this."
+        }
+      ],
+      "location": "Module"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "PHLOX",
+          "line": "Commander."
+        },
+        {
+          "character": "TUCKER",
+          "line": "I had a little accident, Doc. I was reinstallling the deuterium injectors. One of them must have had a little juice left in it."
+        },
+        {
+          "character": "PHLOX",
+          "line": "Second degree burn. Why don't you have a seat."
+        },
+        {
+          "character": "TUCKER",
+          "line": "I could have sworn that injector was depolarized. I guess I'm getting a little punchy."
+        },
+        {
+          "character": "PHLOX",
+          "line": "When's the last time you slept?"
+        },
+        {
+          "character": "TUCKER",
+          "line": "I got a full hour last night."
+        },
+        {
+          "character": "PHLOX",
+          "line": "I'm surprised the neuro-pressure isn't helping. T'Pol told me your first treatment went well."
+        },
+        {
+          "character": "TUCKER",
+          "line": "Well, we only had the one session. Haven't had a lot of free time lately."
+        },
+        {
+          "character": "PHLOX",
+          "line": "Are you certain that's the reason?"
+        },
+        {
+          "character": "TUCKER",
+          "line": "What do you mean?"
+        },
+        {
+          "character": "PHLOX",
+          "line": "Vulcan neuro-pressure requires a certain degree of intimacy. I can understand that it might make you uncomfortable."
+        },
+        {
+          "character": "TUCKER",
+          "line": "It doesn't make me uncomfortable. I just can't afford to spend an hour every night in T'Pol's quarters. Can you just give me another one of those injections? They put me out like a light."
+        },
+        {
+          "character": "PHLOX",
+          "line": "They're not meant to be taken for extended periods. There is another treatment that might be helpful."
+        },
+        {
+          "character": "TUCKER",
+          "line": "All right, what have you got?"
+        },
+        {
+          "character": "PHLOX",
+          "line": "Aldebaran mud leeches."
+        },
+        {
+          "character": "TUCKER",
+          "line": "What am I supposed to do with them?"
+        },
+        {
+          "character": "PHLOX",
+          "line": "Place one on your chest and one on your abdomen an hour before going to bed. Their secretions act as a natural sedative. Oh, please be careful to sleep on your back. If you roll over, you might anger them."
+        },
+        {
+          "character": "TUCKER",
+          "line": "Maybe an hour a night with T'Pol isn't so bad."
+        }
+      ],
+      "location": "Sickbay"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "T'POL",
+          "line": "The search teams have found nearly eighty percent of our antimatter. They're looking for the rest."
+        },
+        {
+          "character": "ARCHER",
+          "line": "It's probably running through the reactor of that Osaarian ship."
+        },
+        {
+          "character": "T'POL",
+          "line": "We've also recovered most of our weapons."
+        },
+        {
+          "character": "ARCHER",
+          "line": "How's Trip doing?"
+        },
+        {
+          "character": "T'POL",
+          "line": "He'll have warp drive online within the next thirty minutes."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Have the away teams speed it up. I want to go to warp as soon as they're back."
+        },
+        {
+          "character": "T'POL",
+          "line": "Quantum scans indicate it's nearly a thousand years old."
+        },
+        {
+          "character": "ARCHER",
+          "line": "What else?"
+        },
+        {
+          "character": "T'POL",
+          "line": "The structure contains seven fusion reactors. Each one is almost twelve kilometers long. Only three are still operational."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Any idea what they were designed for?"
+        },
+        {
+          "character": "T'POL",
+          "line": "The sphere's emitting massive amounts of gravimetric energy. It may have something to do with the spatial anomalies."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Take as many scans as you can."
+        },
+        {
+          "character": "HOSHI",
+          "line": "Bridge to Captain Archer.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "ARCHER",
+          "line": "Go ahead. HOSHI [OC] Sir, could you come to the Situation Room?"
+        }
+      ],
+      "location": "Ready room"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "HOSHI",
+          "line": "While I was translating the cargo manifest, something caught my eye. Look at these markings. I had to double-check, but I was pretty sure that I had seen this ideography before. This is a piece of the Xindi probe that crashed on Earth. At least three of the symbols are an exact match."
+        }
+      ],
+      "location": "Situation room"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "ARCHER",
+          "line": "Your ship attacked a Xindi vessel. I want to know everything you can tell me about them."
+        },
+        {
+          "character": "ORGOTH",
+          "line": "Xindi?"
+        },
+        {
+          "character": "ARCHER",
+          "line": "You heard me."
+        },
+        {
+          "character": "ORGOTH",
+          "line": "I don't remember a species with that name."
+        },
+        {
+          "character": "ARCHER",
+          "line": "You're lying. Your manifest said you took their ship less than two weeks ago."
+        },
+        {
+          "character": "ORGOTH",
+          "line": "What manifest?"
+        },
+        {
+          "character": "ARCHER",
+          "line": "Tell me what you know."
+        },
+        {
+          "character": "ORGOTH",
+          "line": "It was a small ship, they were no match for us."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Where are they now?"
+        },
+        {
+          "character": "ARCHER",
+          "line": "You destroyed them?"
+        },
+        {
+          "character": "ORGOTH",
+          "line": "They resisted. We had no choice."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Where did they come from?"
+        },
+        {
+          "character": "ORGOTH",
+          "line": "I have better things to do than familiarize myself with our victims."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Which species of Xindi were they? What did they look like?"
+        },
+        {
+          "character": "ORGOTH",
+          "line": "I don't remember."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Are you sure?"
+        },
+        {
+          "character": "ORGOTH",
+          "line": "Your threats aren't very convincing. I told you, you're too civilized."
+        },
+        {
+          "character": "ARCHER",
+          "line": "We'll see about that."
+        },
+        {
+          "character": "GUARD",
+          "line": "Sir!"
+        },
+        {
+          "character": "ARCHER",
+          "line": "As you were."
+        }
+      ],
+      "location": "Brig"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "ARCHER",
+          "line": "Ensign."
+        },
+        {
+          "character": "ORGOTH",
+          "line": "Are you taking me to your torture chamber?"
+        },
+        {
+          "character": "ARCHER",
+          "line": "Shut up."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Get in."
+        },
+        {
+          "character": "ARCHER",
+          "line": "The Xindi."
+        },
+        {
+          "character": "ORGOTH",
+          "line": "This tactic doesn't suit you, Captain."
+        },
+        {
+          "character": "ARCHER",
+          "line": "This airlock has a decompression rate of point five atmospheres per minute."
+        },
+        {
+          "character": "ARCHER",
+          "line": "You'd better start talking now, because in about forty seconds you won't be able to. The Xindi."
+        },
+        {
+          "character": "REED",
+          "line": "Captain?"
+        },
+        {
+          "character": "ARCHER",
+          "line": "Everything's under control, Lieutenant."
+        },
+        {
+          "character": "REED",
+          "line": "The airlock's decompressing, sir. He'll die."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Not for another twenty seconds he won't. The Xindi."
+        },
+        {
+          "character": "REED",
+          "line": "Sir."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Your memory getting any better? Say again?"
+        },
+        {
+          "character": "REED",
+          "line": "Captain!"
+        },
+        {
+          "character": "ARCHER",
+          "line": "Take him back to the Brig."
+        },
+        {
+          "character": "REED",
+          "line": "Let's go."
+        }
+      ],
+      "location": "Corridor"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "T'POL",
+          "line": "Was he cooperative?"
+        },
+        {
+          "character": "ARCHER",
+          "line": "Eventually. When they attacked the Xindi ship they took more than fuel and supplies. They downloaded their database. How close would we have to get to tap into their main computer?"
+        },
+        {
+          "character": "HOSHI",
+          "line": "Pretty close. Less than a kilometer, but we need to have the access codes."
+        },
+        {
+          "character": "ARCHER",
+          "line": "He gave them to me. Here."
+        },
+        {
+          "character": "T'POL",
+          "line": "They are heavily armed. Are you sure it's wise to engage them?"
+        },
+        {
+          "character": "ARCHER",
+          "line": "I want that database. Go to Tactical Alert. Tell Trip we're going to need all the power he can spare for weapons and hull plating."
+        },
+        {
+          "character": "TRAVIS",
+          "line": "Their ion trail's already started to decay. They're going to be hard to find."
+        },
+        {
+          "character": "ARCHER",
+          "line": "We're going to wait for them to find us, Travis."
+        }
+      ],
+      "location": "Situation room"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TRAVIS",
+          "line": "Something's passing through the cloaking field."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Move us into position. Stand by. Have they detected us?"
+        },
+        {
+          "character": "T'POL",
+          "line": "Not yet."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Open a channel."
+        },
+        {
+          "character": "HOSHI",
+          "line": "Go ahead."
+        },
+        {
+          "character": "ARCHER",
+          "line": "This is Captain Archer. Remember us? You probably noticed that our weapons are back online. You're outgunned, so stand down."
+        },
+        {
+          "character": "TRAVIS",
+          "line": "They're moving off."
+        },
+        {
+          "character": "ARCHER",
+          "line": "One kilometer, Travis. Get ready."
+        },
+        {
+          "character": "REED",
+          "line": "Hull plating's holding."
+        },
+        {
+          "character": "TRAVIS",
+          "line": "They're heading back into the cloaking field."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Stay with them."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Hoshi?"
+        },
+        {
+          "character": "HOSHI",
+          "line": "We're not close enough."
+        },
+        {
+          "character": "TRAVIS",
+          "line": "Stand by."
+        },
+        {
+          "character": "HOSHI",
+          "line": "Another fifty meters. I'm into the computer."
+        },
+        {
+          "character": "T'POL",
+          "line": "Anything?"
+        },
+        {
+          "character": "HOSHI",
+          "line": "I haven't found the Xindi database. I'm losing them."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Travis!"
+        },
+        {
+          "character": "T'POL",
+          "line": "Forward hull plating is offline."
+        },
+        {
+          "character": "HOSHI",
+          "line": "I've found it, Captain."
+        },
+        {
+          "character": "ARCHER",
+          "line": "How long do you need?"
+        },
+        {
+          "character": "HOSHI",
+          "line": "A few minutes."
+        },
+        {
+          "character": "T'POL",
+          "line": "Hull fracture on E deck, section fourteen. We're venting atmosphere."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Emergency bulkheads."
+        },
+        {
+          "character": "HOSHI",
+          "line": "They're getting too far away. I'm losing the comm. link again."
+        },
+        {
+          "character": "TRAVIS",
+          "line": "Our impulse drive's destabilizing. We've got to get out of the cloaking field, sir."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Head back to the sphere."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Where are they?"
+        },
+        {
+          "character": "TRAVIS",
+          "line": "Still inside the field."
+        },
+        {
+          "character": "ARCHER",
+          "line": "How much did you get?"
+        },
+        {
+          "character": "HOSHI",
+          "line": "About a third of it."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Take us closer to that portal. Let's see if we can lure them back in here. Use our forward phase cannon. Fire a single burst, minimum yield."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Travis?"
+        },
+        {
+          "character": "TRAVIS",
+          "line": "No sign of them."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Again."
+        },
+        {
+          "character": "TRAVIS",
+          "line": "That got their attention. They're coming through."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Stay within a kilometer. Return fire."
+        },
+        {
+          "character": "HOSHI",
+          "line": "I'm back in."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Can you take out their engines?"
+        },
+        {
+          "character": "REED",
+          "line": "Not without risking damage to their main computer."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Ensign."
+        },
+        {
+          "character": "HOSHI",
+          "line": "I've got eighty percent, eighty five."
+        },
+        {
+          "character": "T'POL",
+          "line": "Hull plating's offline. They're targeting our reactor."
+        },
+        {
+          "character": "HOSHI",
+          "line": "I've got ninety percent."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Good enough. Mister Reed."
+        },
+        {
+          "character": "REED",
+          "line": "Their engines are down."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Keep our weapons locked on them."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "ARCHER",
+          "line": "Your codes worked. Get him out of there."
+        },
+        {
+          "character": "ORGOTH",
+          "line": "Now that I've served my purpose you're taking me back to the airlock?"
+        },
+        {
+          "character": "ARCHER",
+          "line": "Escort him to the Launch bay. We're taking you back to the sphere."
+        },
+        {
+          "character": "ORGOTH",
+          "line": "So you have let your morality get in the way after all. Mercy is not a quality that will serve you well in the Expanse, Captain."
+        }
+      ],
+      "location": "Brig"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "ARCHER",
+          "line": "Computer, load the Xindi database."
+        }
+      ],
+      "location": "Command center"
+    }
+  ],
+  "schedule": {
+    "episode": 2,
+    "number": 54,
+    "season": 3
+  },
+  "stardate": "Unknown",
+  "title": "Anomaly"
+}

@@ -1,0 +1,1360 @@
+{
+  "airdate": -68835600,
+  "scenes": [
+    {
+      "dialogue": [
+        {
+          "character": "UHURA",
+          "line": "Still no response, sir."
+        },
+        {
+          "character": "KIRK",
+          "line": "No, keep it open. I don't like this. Nothing since the first check in. Scott and Sulu should've contacted us again a half an hour ago."
+        },
+        {
+          "character": "SPOCK",
+          "line": "They may have nothing to report. Our sensors indicate no life forms except our landing party."
+        },
+        {
+          "character": "KIRK",
+          "line": "Both those men are well aware of landing party procedure. They should've checked in with us by now."
+        },
+        {
+          "character": "UHURA",
+          "line": "Contact established, Captain."
+        },
+        {
+          "character": "JACKSON",
+          "line": "Jackson to Enterprise.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "KIRK",
+          "line": "Enterprise. Kirk here."
+        },
+        {
+          "character": "JACKSON",
+          "line": "One to beam up, Enterprise.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "KIRK",
+          "line": "One? Jackson, where are Scott and Sulu?"
+        },
+        {
+          "character": "JACKSON",
+          "line": "I'm ready to beam up, sir.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "KIRK",
+          "line": "Jackson!"
+        },
+        {
+          "character": "UHURA",
+          "line": "I'm sorry. I can't clear it, Captain."
+        },
+        {
+          "character": "KIRK",
+          "line": "Notify Transporter room to prepare to beam up one member of the landing party. Then have Doctor McCoy report to me in the Transporter room on the double."
+        },
+        {
+          "character": "UHURA",
+          "line": "Yes, sir."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "KYLE",
+          "line": "Ready, sir."
+        },
+        {
+          "character": "KIRK",
+          "line": "Energize."
+        },
+        {
+          "character": "MCCOY",
+          "line": "What's on, Jim?"
+        },
+        {
+          "character": "KIRK",
+          "line": "Trouble. Jackson, where are the others?"
+        },
+        {
+          "character": "MCCOY",
+          "line": "The man is dead."
+        },
+        {
+          "character": "KOROB",
+          "line": "Captain Kirk, can you hear me? There is a curse on your ship. Leave this place or you will all die. Captain's Log, stardate 3018.2. Crewman Jackson is dead and there are no apparent physical causes. Mister Scott and Mister Sulu are still out of touch on the planet below. Leaving Assistant Chief Engineer DeSalle in command of the Enterprise, I'm beaming down to the planet's surface to find my two missing crewmen and diskover what killed Jackson.",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "Transporter room"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "KIRK",
+          "line": "Odd. Our probe data didn't indicate fog."
+        },
+        {
+          "character": "SPOCK",
+          "line": "No cloud formations, no bodies of water, no changes in surface temperature. Under these conditions, fog is highly unlikely, Captain. According to our transporter co-ordinates this is the exact location from which Jackson was beamed up to the ship."
+        },
+        {
+          "character": "KIRK",
+          "line": "Readings, Mister Spock."
+        },
+        {
+          "character": "SPOCK",
+          "line": "No indications of. A moment, Captain. Picking up life form readings. Twenty four degrees mark seven. Range one thirty seven point one six meters. Multiple readings, Captain."
+        },
+        {
+          "character": "MCCOY",
+          "line": "Scott and Sulu?"
+        },
+        {
+          "character": "KIRK",
+          "line": "Kirk to Enterprise."
+        },
+        {
+          "character": "UHURA",
+          "line": "Enterprise. Lieutenant Uhura here.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "KIRK",
+          "line": "What are the ship's sensors reading now, Lieutenant?"
+        }
+      ],
+      "location": "Planet surface"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "DESALLE",
+          "line": "Report, Mister."
+        },
+        {
+          "character": "CHEKOV",
+          "line": "I am only picking up physical impulses from the three of them. As far as instruments can make out, there is nothing else down there that's alive."
+        },
+        {
+          "character": "DESALLE",
+          "line": "Relay, Lieutenant."
+        },
+        {
+          "character": "UHURA",
+          "line": "Captain, we are only registering on you. Captain? Captain Kirk?"
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "KIRK",
+          "line": "Lieutenant, can you hear me?"
+        },
+        {
+          "character": "MCCOY",
+          "line": "Whatever this stuff is, it's getting thicker. Suppose that has anything to do with the interference?"
+        },
+        {
+          "character": "KIRK",
+          "line": "I don't know. There has to be some explanation for the fact that the ship's sensors can't register anything but us, while we're picking up readings of multiple life forms. Are they still there, Spock?"
+        },
+        {
+          "character": "SPOCK",
+          "line": "No change, Captain."
+        },
+        {
+          "character": "KIRK",
+          "line": "Stand-by alert."
+        },
+        {
+          "character": "MCCOY",
+          "line": "Listen. Now, what do you think that"
+        },
+        {
+          "character": "KIRK",
+          "line": "Quiet."
+        },
+        {
+          "character": "WITCH 1",
+          "line": "Captain Kirk!"
+        },
+        {
+          "character": "WITCH 2",
+          "line": "Captain Kirk!"
+        },
+        {
+          "character": "WITCH 3",
+          "line": "Captain Kirk!"
+        },
+        {
+          "character": "KIRK",
+          "line": "Who are you?"
+        },
+        {
+          "character": "WITCH 1",
+          "line": "Go back!"
+        },
+        {
+          "character": "WITCH 2",
+          "line": "Go back!"
+        },
+        {
+          "character": "WITCH 3",
+          "line": "Go back! Remember the curse!"
+        },
+        {
+          "character": "WITCH 1",
+          "line": "Wind shall rise."
+        },
+        {
+          "character": "WITCH 2",
+          "line": "And fog descend."
+        },
+        {
+          "character": "WITCH 3",
+          "line": "So leave here, all, or meet your end."
+        },
+        {
+          "character": "KIRK",
+          "line": "Spock. Comment?"
+        },
+        {
+          "character": "SPOCK",
+          "line": "Very bad poetry, Captain."
+        },
+        {
+          "character": "KIRK",
+          "line": "A more useful comment, Mister Spock."
+        },
+        {
+          "character": "SPOCK",
+          "line": "What we've just seen is not real."
+        },
+        {
+          "character": "KIRK",
+          "line": "That's useful."
+        },
+        {
+          "character": "SPOCK",
+          "line": "However, on azimuth twenty four, at just over one hundred meters, there are definitely life forms. Erratic, confused, but definitely registering."
+        },
+        {
+          "character": "KIRK",
+          "line": "That's where we're going."
+        },
+        {
+          "character": "MCCOY",
+          "line": "That was a pretty real illusion, Mister Spock."
+        },
+        {
+          "character": "MCCOY",
+          "line": "Jim."
+        },
+        {
+          "character": "SPOCK",
+          "line": "This is the source of the life form readings, Captain. They're inside, somewhere."
+        },
+        {
+          "character": "KIRK",
+          "line": "Kirk to Enterprise. Enterprise, come in."
+        },
+        {
+          "character": "MCCOY",
+          "line": "Is this how we lost contact with the first landing party?"
+        },
+        {
+          "character": "KIRK",
+          "line": "What about it, Spock? Does this structure have anything to do with communicator interference?"
+        },
+        {
+          "character": "SPOCK",
+          "line": "I would say not, Captain. There's no indication of anything that would cause such interference."
+        },
+        {
+          "character": "KIRK",
+          "line": "And it doesn't pick up on our ship's sensors."
+        },
+        {
+          "character": "SPOCK",
+          "line": "Nor do our sensors register the life forms inside."
+        },
+        {
+          "character": "KIRK",
+          "line": "Could it be exerting a force field of some kind that cuts into our sensor scan."
+        },
+        {
+          "character": "MCCOY",
+          "line": "Then it would affect Spock's tricorder too, wouldn't it? KIRK; Would it? I wonder."
+        }
+      ],
+      "location": "Planet surface"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "MCCOY",
+          "line": "Three witches, what appears to be a castle and a black cat."
+        },
+        {
+          "character": "KIRK",
+          "line": "If we weren't missing two officers and a third one dead I'd say someone was playing an elaborate trick or treat on us."
+        },
+        {
+          "character": "SPOCK",
+          "line": "Trick or treat, Captain?"
+        },
+        {
+          "character": "KIRK",
+          "line": "Yes, Mister Spock. You'd be a natural. I'll explain it to you one day. Shall we have a look around?"
+        },
+        {
+          "character": "SPOCK",
+          "line": "That would seem to be in order."
+        },
+        {
+          "character": "KIRK",
+          "line": "Bones. Spock."
+        }
+      ],
+      "location": "Castle"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "CHEKOV",
+          "line": "They're gone, Mister DeSalle. The captain and the others simply stopped registering."
+        },
+        {
+          "character": "DESALLE",
+          "line": "Check for malfunctions."
+        },
+        {
+          "character": "CHEKOV",
+          "line": "I did, sir, as soon as it happened."
+        },
+        {
+          "character": "UHURA",
+          "line": "Mister DeSalle, that's exactly what happened to Mister Scott and his party. They, they just disappeared."
+        },
+        {
+          "character": "DESALLE",
+          "line": "Nobody just disappears. They may have encountered a magnetic field or some other obstruction. Mister Chekov, recalibrate your sensors. If you need help"
+        },
+        {
+          "character": "CHEKOV",
+          "line": "I can do it, sir. I'm not that green."
+        },
+        {
+          "character": "DESALLE",
+          "line": "Lieutenant Uhura, continue in your efforts to break through that static interference."
+        },
+        {
+          "character": "UHURA",
+          "line": "Aye, aye, sir."
+        },
+        {
+          "character": "DESALLE",
+          "line": "We know they're down there. I want them found."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "KIRK",
+          "line": "Straight ahead, Mister Spock?"
+        },
+        {
+          "character": "SPOCK",
+          "line": "The readings would so indicate."
+        },
+        {
+          "character": "MCCOY",
+          "line": "Dust, cobwebs. Halloween is right."
+        }
+      ],
+      "location": "Castle"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "KIRK",
+          "line": "Spock. Are you all right?"
+        },
+        {
+          "character": "SPOCK",
+          "line": "Yes. I am undamaged, Captain."
+        },
+        {
+          "character": "KIRK",
+          "line": "Bones? Doc?"
+        },
+        {
+          "character": "MCCOY",
+          "line": "You were saying something about trick or treat."
+        },
+        {
+          "character": "KIRK",
+          "line": "Dungeons, curses, skeletons and iron maidens. They're all Earth manifestations. Why?"
+        },
+        {
+          "character": "SPOCK",
+          "line": "I do not know, Captain, but these things do exist. They are real."
+        },
+        {
+          "character": "MCCOY",
+          "line": "Could this be an Earth parallel development of some sort?"
+        },
+        {
+          "character": "KIRK",
+          "line": "None of this parallels any human development. It's more like a human nightmare."
+        },
+        {
+          "character": "SPOCK",
+          "line": "As if someone knew what it was that terrifies man most on an instinctive level."
+        },
+        {
+          "character": "KIRK",
+          "line": "Ghost stories, ogres, demons. The whole"
+        },
+        {
+          "character": "KIRK",
+          "line": "Scotty, Sulu. Scotty. Put down the phaser. Scotty!"
+        },
+        {
+          "character": "MCCOY",
+          "line": "They appear to be drugged, Jim. Look at their eyes. Hardly blink at all."
+        },
+        {
+          "character": "SPOCK",
+          "line": "Neither did Jackson just before he collapsed."
+        },
+        {
+          "character": "KIRK",
+          "line": "These two are alive. Scotty, do you hear me? Sulu, do you know who I am? What's happened to you?"
+        },
+        {
+          "character": "MCCOY",
+          "line": "They're going to release us."
+        }
+      ],
+      "location": "Dungeon"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "KOROB",
+          "line": "Stop!"
+        },
+        {
+          "character": "KIRK",
+          "line": "Whoever you are, you've proven your skill at creating illusion. Now I want to know why and what you've done to my men."
+        },
+        {
+          "character": "KOROB",
+          "line": "Where did your race get this ridiculous predilection for resistance? You examine any object, you question everything. Is it not enough to accept what is?"
+        },
+        {
+          "character": "KIRK",
+          "line": "Not when one of my men is dead because of it and two others turned into mindless"
+        },
+        {
+          "character": "KOROB",
+          "line": "NO, not mindless. These two are merely controlled, Captain Kirk. Oh, yes, we know who you are. All of you. Don't we, my precious?"
+        },
+        {
+          "character": "KIRK",
+          "line": "Who are you? Why did you bring us here?"
+        },
+        {
+          "character": "KOROB",
+          "line": "My name is Korob. And as for bringing you here, it was you who quite contrarily insisted upon coming. You were warned to stay away."
+        },
+        {
+          "character": "KIRK",
+          "line": "Why? For what reason? Why all the mumbo-jumbo?"
+        },
+        {
+          "character": "KOROB",
+          "line": "Mumbo-jumbo? Oh! Oh, no, I assure you it was not that, Captain."
+        },
+        {
+          "character": "SPOCK",
+          "line": "Mapping expeditions have charted this solar system before. There never have been any life forms on Pyris Seven."
+        },
+        {
+          "character": "KOROB",
+          "line": "It is of no importance that we are not native to this planet. Oh! I'm told that I've been an inattentive host, gentlemen. You will join me for something to refresh yourselves."
+        },
+        {
+          "character": "MCCOY",
+          "line": "That cat."
+        },
+        {
+          "character": "KIRK",
+          "line": "That cat."
+        },
+        {
+          "character": "SPOCK",
+          "line": "There are ancient Earth legends about wizards and their familiars."
+        },
+        {
+          "character": "MCCOY",
+          "line": "Familiars?"
+        },
+        {
+          "character": "SPOCK",
+          "line": "Demons in animal forms sent by Satan to serve the wizard."
+        },
+        {
+          "character": "KIRK",
+          "line": "Superstition."
+        },
+        {
+          "character": "SPOCK",
+          "line": "I do not create the legend, Captain. I merely report it."
+        },
+        {
+          "character": "KOROB",
+          "line": "You are the different one, Mister Spock. You do not think like the others. There are no colors to your patterns of logic. There's only black and white. You see all this around you, yet you do not believe."
+        },
+        {
+          "character": "MCCOY",
+          "line": "He doesn't know about trick or treat."
+        },
+        {
+          "character": "KOROB",
+          "line": "I do not understand that reference, therefore it also is of no importance. Gentlemen, I can be most hospitable."
+        },
+        {
+          "character": "SPOCK",
+          "line": "Ingenious."
+        },
+        {
+          "character": "KOROB",
+          "line": "Do be seated."
+        },
+        {
+          "character": "MCCOY",
+          "line": "We're not hungry."
+        },
+        {
+          "character": "KOROB",
+          "line": "But I insist."
+        },
+        {
+          "character": "KIRK",
+          "line": "All right, Korob. What do you want from us?"
+        },
+        {
+          "character": "KOROB",
+          "line": "For the moment, merely that you eat and enjoy. Oh, Doctor, do try the wine. You'll find it excellent."
+        },
+        {
+          "character": "KIRK",
+          "line": "You'll find us most unco-operative unless you start explaining yourself."
+        },
+        {
+          "character": "KOROB",
+          "line": "Hopefully I can change that attitude."
+        },
+        {
+          "character": "MCCOY",
+          "line": "These look real."
+        },
+        {
+          "character": "KOROB",
+          "line": "They are, I assure you. Diamonds, rubies, emeralds, sapphires. All the crystalline forms that you cherish above all things. A fortune of them for each of you if you leave here without further inquiry."
+        },
+        {
+          "character": "KIRK",
+          "line": "We could manufacture a ton of these on our ship. They mean nothing to us."
+        },
+        {
+          "character": "KOROB",
+          "line": "Valueless? I don't understand. I read"
+        },
+        {
+          "character": "KIRK",
+          "line": "Whatever it is you read, you read it wrong. As for leaving, we'll leave when we're ready."
+        },
+        {
+          "character": "KOROB",
+          "line": "You are most unpredictable. Perhaps I have made a small mistake. Nevertheless, you have passed the tests."
+        },
+        {
+          "character": "MCCOY",
+          "line": "Tests?"
+        },
+        {
+          "character": "KOROB",
+          "line": "Yes. Our analysis of you may have been in some small way in error, but you were warned to stay away and yet you came to save your comrades. That proves loyalty. Your bravery was tested and you did not frighten. And despite my failure with these bright baubles, I perceive that you cannot be bribed. In many ways you are quite admirable. Quite right. Go at once, yes."
+        },
+        {
+          "character": "KOROB",
+          "line": "Gentlemen, my colleague. Sylvia."
+        },
+        {
+          "character": "SYLVIA",
+          "line": "Doctor McCoy, Mister Spock and Captain Kirk. You wanted to know what we did to your men. Actually it's a simple matter for us to probe the minds of creatures like yourself."
+        },
+        {
+          "character": "SPOCK",
+          "line": "Mind probing? Hypnosis?"
+        },
+        {
+          "character": "SYLVIA",
+          "line": "You like to think of yourselves as complex creatures, but you're flawed. One gains admittance to your minds through many levels. You have too many to keep track of yourselves. There are unguarded entrances to any human mind."
+        },
+        {
+          "character": "SPOCK",
+          "line": "Telepathy?"
+        },
+        {
+          "character": "SPOCK",
+          "line": "Not entirely, no. Telepathy doesn't imply control and I assure you that I have full control over your friends."
+        },
+        {
+          "character": "KIRK",
+          "line": "Don't move! Cover them. Now, I want the rest of our weapons and our equipment. I want some answers."
+        },
+        {
+          "character": "SYLVIA",
+          "line": "Put that weapon down! Captain, it seems so foolish of you to insist on demonstrations. In the mythology of your race this is called sympathetic magic. Jackson, the crew member who returned to the ship. You wondered what killed him. I made an image of him. In the essence of my thoughts the image was Jackson. And when I killed the image and knew that it was dead, he died."
+        },
+        {
+          "character": "KIRK",
+          "line": "You can't think a man to death."
+        },
+        {
+          "character": "SYLVIA",
+          "line": "Your communicator. Now, signal your ship."
+        },
+        {
+          "character": "KOROB",
+          "line": "Don't. Sylvia, don't."
+        },
+        {
+          "character": "KIRK",
+          "line": "Kirk to Enterprise. Come in. Come in."
+        }
+      ],
+      "location": "Drawing room"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "KIRK",
+          "line": "Enterprise. From Captain Kirk. Come in.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "UHURA",
+          "line": "Captain, are you all right? Where are you? Are the others all right, sir?"
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "KIRK",
+          "line": "Never mind about us. What's happening up there?"
+        }
+      ],
+      "location": "Drawing room"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "DESALLE",
+          "line": "The temperature, sir. It keeps rising. Reading, Mister."
+        },
+        {
+          "character": "CHEKOV",
+          "line": "It's up sixty degrees in the past thirty seconds. We're burning up, sir."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "KIRK",
+          "line": "DeSalle, channel bypass power into your heat dissipation units."
+        },
+        {
+          "character": "DESALLE",
+          "line": "We've already done it, Captain. It had no effect. We're cooking up here.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "KIRK",
+          "line": "All right. I'll handle it down here. Kirk out. You've won."
+        },
+        {
+          "character": "SYLVIA",
+          "line": "You can relax now, Captain. Your ship is safe."
+        }
+      ],
+      "location": "Drawing room"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "CHEKOV",
+          "line": "Temperature is almost back to normal, dropping down fast."
+        },
+        {
+          "character": "DESALLE",
+          "line": "Lieutenant, try to raise the captain again."
+        },
+        {
+          "character": "UHURA",
+          "line": "Enterprise to Captain Kirk. Come in, please. Enterprise to Captain Kirk. Acknowledge. We've lost him again, Mister DeSalle."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "KOROB",
+          "line": "Captain, you've seen something of our science. Now tell us about yours."
+        },
+        {
+          "character": "KIRK",
+          "line": "You seem to be singing a different tune. I'd rather know more about yours. You call it magic, you call it science. It seems unrelated to both of them."
+        },
+        {
+          "character": "KOROB",
+          "line": "What would you name it, Captain?"
+        },
+        {
+          "character": "KIRK",
+          "line": "I wouldn't attempt to name it, but you seem to do with your mind what we do with tools. You alter matter, move it about by telekinesis."
+        },
+        {
+          "character": "KOROB",
+          "line": "Yes, we can change the molecular structure"
+        },
+        {
+          "character": "SYLVIA",
+          "line": "Korob, you talk too much."
+        },
+        {
+          "character": "MCCOY",
+          "line": "You kept Scott and Sulu as catspaws to lure us down here. How'd you know we'd come?"
+        },
+        {
+          "character": "KOROB",
+          "line": "Oh, we didn't have to know. They knew."
+        },
+        {
+          "character": "SYLVIA",
+          "line": "Enough of this! You will tell us what we want to know."
+        },
+        {
+          "character": "KIRK",
+          "line": "It's too late for threats. You let me contact the ship. How long do you think it will it be before a search party arrives?"
+        },
+        {
+          "character": "KOROB",
+          "line": "Some time, Captain. Quite some time."
+        },
+        {
+          "character": "KOROB",
+          "line": "There will be no search party, Captain Kirk. An impenetrable force field around your ship, Captain. It will not hinder orbit, but your people are prisoners within it."
+        }
+      ],
+      "location": "Drawing room"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "CHEKOV",
+          "line": "It's some kind of a force field, sir, but not like any other I've ever heard of before. It's not coming from anywhere. It's simply all around us."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "SYLVIA",
+          "line": "I would advise you to co-operate, Captain. Forcible extraction of the information we wish from you is not complicated, but it is extremely painful and it has a certain draining effect."
+        },
+        {
+          "character": "KIRK",
+          "line": "We have nothing to diskuss."
+        },
+        {
+          "character": "KOROB",
+          "line": "Take them to their cell."
+        },
+        {
+          "character": "SYLVIA",
+          "line": "Wait. The doctor will stay. Your turn will be next, Captain. It makes little difference. Take them out of here."
+        }
+      ],
+      "location": "Drawing room"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "DESALLE",
+          "line": "Wave length analysis, Mister Chekov?"
+        },
+        {
+          "character": "CHEKOV",
+          "line": "It will not analyze, sir."
+        },
+        {
+          "character": "DESALLE",
+          "line": "All right, but it's there and it's real. If it's real, it can be affected. Engineering, stand by to divert all power systems to the outer hull. Prepare impulse engines for generation of maximum heat directed as ordered. Maybe we can't break it, but I'll bet you credits to navy beans we can put a dent in it."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "KIRK",
+          "line": "How long has it been?"
+        },
+        {
+          "character": "SPOCK",
+          "line": "Twenty two minutes, seventeen seconds."
+        },
+        {
+          "character": "KIRK",
+          "line": "Thanks. I wonder what they're doing to Doc."
+        },
+        {
+          "character": "SPOCK",
+          "line": "I'm sure we'll find out shortly. Jim, all of these things that we've seen. To an Earthman like yourself, they must seem quite familiar."
+        },
+        {
+          "character": "KIRK",
+          "line": "Familiar. Startling. Not rational."
+        },
+        {
+          "character": "SPOCK",
+          "line": "Precisely. I refer you to the psychological theory of the racial subconscious. The universal myths, symbols."
+        },
+        {
+          "character": "KIRK",
+          "line": "Ghosts, witches."
+        },
+        {
+          "character": "SPOCK",
+          "line": "And dungeons and castles and black cats. They all belong to the twilight world of consciousness."
+        },
+        {
+          "character": "KIRK",
+          "line": "They tried to tap our conscious mind."
+        },
+        {
+          "character": "SPOCK",
+          "line": "And they missed. They reached basically only the subconscious. Korob seemed puzzled by your reaction to the environment he'd provided."
+        },
+        {
+          "character": "KIRK",
+          "line": "He expected me to react as though it were all normal. Well, he admitted that they weren't native to this planet."
+        },
+        {
+          "character": "SPOCK",
+          "line": "And not to have a knowledge of our scientific methods is most unlikely for any life form we've met in this galaxy."
+        },
+        {
+          "character": "KIRK",
+          "line": "They refer to us as creatures, as though we were some species that they were unfamiliar with. If we're creatures, I wonder what they're really like."
+        },
+        {
+          "character": "SPOCK",
+          "line": "Evidently something totally alien in all respects."
+        },
+        {
+          "character": "KIRK",
+          "line": "Agreed. Totally alien. And I don't like hostile strangers showing such an acute interest in our galaxy, our world, Spock. Not at all like friendly visitors. We're going to have to stop them, cold. But at the moment"
+        },
+        {
+          "character": "SPOCK",
+          "line": "I, too, am at a loss at this time to suggest a course of action."
+        },
+        {
+          "character": "KIRK",
+          "line": "Oh, Bones. Doc."
+        }
+      ],
+      "location": "Dungeon"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "KOROB",
+          "line": "You forget what we were sent here for."
+        },
+        {
+          "character": "SYLVIA",
+          "line": "I forget nothing. I'm not a puppet, Korob, like you."
+        },
+        {
+          "character": "KOROB",
+          "line": "You're a traitor."
+        },
+        {
+          "character": "SYLVIA",
+          "line": "You are a fool. We have nothing like this and I like it. To touch, to feel to understand the idea of luxury I like it. And I don't intend to leave it."
+        },
+        {
+          "character": "KOROB",
+          "line": "We have a duty to the old ones."
+        },
+        {
+          "character": "SYLVIA",
+          "line": "What do they know of sensations? This is a new world."
+        },
+        {
+          "character": "KOROB",
+          "line": "You're cruel. You torture our specimens."
+        },
+        {
+          "character": "SYLVIA",
+          "line": "And that, too, is a new sensation. I find it stimulating."
+        },
+        {
+          "character": "KOROB",
+          "line": "You're wrong! You're diskarding everything we live by."
+        },
+        {
+          "character": "SYLVIA",
+          "line": "I live by my own decisions. You're a weak fool, Korob."
+        },
+        {
+          "character": "KOROB",
+          "line": "I have the power."
+        },
+        {
+          "character": "SYLVIA",
+          "line": "But you're afraid to use it. Don't threaten me. I can squash you and that would be an interesting sensation, yes. I find I like these new sensations. Don't try to push me."
+        },
+        {
+          "character": "SYLVIA",
+          "line": "Captain. It's time for our talk. Korob, leave us alone and take these men with you."
+        },
+        {
+          "character": "KOROB",
+          "line": "This is not ended, Sylvia."
+        },
+        {
+          "character": "SYLVIA",
+          "line": "But it may end soon, old man."
+        },
+        {
+          "character": "KIRK",
+          "line": "What now? You wave your magic wand and destroy my mind, too?"
+        },
+        {
+          "character": "SYLVIA",
+          "line": "There's no real damage to the mind, Captain, simply a drain of knowledge and will."
+        },
+        {
+          "character": "KIRK",
+          "line": "You don't call that damage?"
+        },
+        {
+          "character": "SYLVIA",
+          "line": "Why should I?"
+        },
+        {
+          "character": "KIRK",
+          "line": "You'd know if you had compassion. A woman should have compassion, but I forget you're not a woman."
+        },
+        {
+          "character": "SYLVIA",
+          "line": "But you're mistaken, Captain. I am a woman now. I come from a world without sensation as you and I now know it. It excites me. I want more."
+        },
+        {
+          "character": "KIRK",
+          "line": "You seem to need us. Why?"
+        },
+        {
+          "character": "SYLVIA",
+          "line": "Because you have knowledge which I lack. but were our abilities put together. Tell me about power, Captain. How does it feel?"
+        },
+        {
+          "character": "KIRK",
+          "line": "What about Korob?"
+        },
+        {
+          "character": "SYLVIA",
+          "line": "He is a fool. I'll do without him. But you? Why do I find you different? Why would it be so difficult to dispose of you?"
+        },
+        {
+          "character": "KIRK",
+          "line": "Why don't you simply probe my mind and get what you want?"
+        },
+        {
+          "character": "SYLVIA",
+          "line": "No, not that, not for you. What I want is a joining. My mind to yours willingly. Think of the secrets you could learn. Think of the power that would be yours. Anything you can imagine, I can give you."
+        },
+        {
+          "character": "KIRK",
+          "line": "You're very persuasive. What happens if I go along?"
+        },
+        {
+          "character": "SYLVIA",
+          "line": "Then everything would be ours together. I've never conceived of the idea of togetherness before. It excites me. You excite me. Why?"
+        },
+        {
+          "character": "KIRK",
+          "line": "For the same reasons you excite me. You're a very beautiful woman."
+        },
+        {
+          "character": "SYLVIA",
+          "line": "You find me beautiful? But I can be many women. You like what you see. or do you prefer me as I was?"
+        },
+        {
+          "character": "KIRK",
+          "line": "You have a knack for giving me difficult choices. You have nothing like that where you come from?"
+        },
+        {
+          "character": "SYLVIA",
+          "line": "Nothing."
+        },
+        {
+          "character": "KIRK",
+          "line": "Your people, when they come here"
+        },
+        {
+          "character": "SYLVIA",
+          "line": "They're like, like feathers in the wind without the transmuter."
+        },
+        {
+          "character": "KIRK",
+          "line": "Transmuter?"
+        },
+        {
+          "character": "SYLVIA",
+          "line": "The source. You will learn. I will teach you later. Later."
+        },
+        {
+          "character": "KIRK",
+          "line": "Then it's a device. You do use tools."
+        },
+        {
+          "character": "SYLVIA",
+          "line": "It gives only form. You're teaching me substance."
+        },
+        {
+          "character": "KIRK",
+          "line": "You haven't changed your mind? You won't return home?"
+        },
+        {
+          "character": "SYLVIA",
+          "line": "My home is here with you. A billion worlds of sensation to pick and choose."
+        },
+        {
+          "character": "SYLVIA",
+          "line": "You are using me. You hold me in your arms and there is no fire in your mind. You're trying to deceive me! It's here, like words on a page. You are using me."
+        },
+        {
+          "character": "KIRK",
+          "line": "And why not? You've been using me and my crew."
+        },
+        {
+          "character": "SYLVIA",
+          "line": "You will be swept away. You, your men, your ship, your worlds!"
+        }
+      ],
+      "location": "Drawing room"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "UHURA",
+          "line": "I don't see any change."
+        },
+        {
+          "character": "DESALLE",
+          "line": "It's there, Lieutenant."
+        },
+        {
+          "character": "CHEKOV",
+          "line": "It was that electrical field we set up, Mister DeSalle, that dent you wanted. It's not much, but it is a start."
+        },
+        {
+          "character": "DESALLE",
+          "line": "Keep it up, Mister Chekov. Channel the entire output of reactors one, two, and three into the relay stations. Whatever it is, it's starting to weaken."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "KOROB",
+          "line": "I've released the model of your ship from the crystal, although they would have freed themselves soon. It's difficult to control so many things in so little time. Here. You must go before she finds the weapon is missing."
+        },
+        {
+          "character": "KIRK",
+          "line": "I'm not leaving without my men."
+        },
+        {
+          "character": "KOROB",
+          "line": "They're not your men anymore. They belong to Sylvia. I can no longer control them or her. She's irrational. The strain of adopting to your form, the insatiable desire for sensation and experience. She's a great danger and it was not necessary. We could have entered your galaxy in peace."
+        },
+        {
+          "character": "SPOCK",
+          "line": "You came in a ship?"
+        },
+        {
+          "character": "KOROB",
+          "line": "We used the transmuter."
+        },
+        {
+          "character": "KIRK",
+          "line": "Transmuter. Yes, she mentioned that."
+        },
+        {
+          "character": "KOROB",
+          "line": "There's no time to explain now. She means to destroy us all. There might still be a chance. Quickly. Come."
+        }
+      ],
+      "location": "Dungeon"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "SPOCK",
+          "line": "Fascinating."
+        },
+        {
+          "character": "KIRK",
+          "line": "Why a cat?"
+        },
+        {
+          "character": "SPOCK",
+          "line": "Racial memories. The cat is the most ruthless, most terrifying of animals, as far back as the saber-toothed tiger."
+        },
+        {
+          "character": "KOROB",
+          "line": "I think I can stop her."
+        },
+        {
+          "character": "KIRK",
+          "line": "You'd better let us. It's out of energy. She must have drained it. We could have jumped Scott and Sulu at any time. We didn't know. No way out."
+        },
+        {
+          "character": "KOROB",
+          "line": "It's my problem. She's one of my kind. Come quickly."
+        }
+      ],
+      "location": "Castle"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "KIRK",
+          "line": "Do you think you can make it?"
+        },
+        {
+          "character": "SPOCK",
+          "line": "Ready when you are, Captain."
+        },
+        {
+          "character": "KIRK",
+          "line": "Get ready."
+        },
+        {
+          "character": "KOROB",
+          "line": "No! Get back. Get back. Get back! Get back!"
+        },
+        {
+          "character": "KIRK",
+          "line": "Korob, that door won't last."
+        },
+        {
+          "character": "KOROB",
+          "line": "Get back!"
+        },
+        {
+          "character": "KOROB",
+          "line": "Go. Go!"
+        },
+        {
+          "character": "SPOCK",
+          "line": "Quickly, Captain."
+        },
+        {
+          "character": "KIRK",
+          "line": "Korob seemed to think this was important. Said something about a transmuter."
+        },
+        {
+          "character": "SPOCK",
+          "line": "Captain, a bit more alacrity, if you please."
+        }
+      ],
+      "location": "Dungeon"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "SPOCK",
+          "line": "Captain."
+        },
+        {
+          "character": "KIRK",
+          "line": "Doc."
+        },
+        {
+          "character": "SPOCK",
+          "line": "Jim!"
+        },
+        {
+          "character": "KIRK",
+          "line": "Well, at least we found them."
+        },
+        {
+          "character": "SPOCK",
+          "line": "Fortuitous, Captain. And now that we have them all together? A most unpleasant situation, Captain. If only your phaser had some power."
+        },
+        {
+          "character": "KIRK",
+          "line": "Maybe we do. Sylvia, I have the transmuter. It's mine now."
+        },
+        {
+          "character": "SYLVIA",
+          "line": "You're very clever, Captain. More so than I'd imagined. Clever, resourceful and handsome."
+        },
+        {
+          "character": "SPOCK",
+          "line": "Don't let her touch the wand, Captain."
+        },
+        {
+          "character": "SPOCK",
+          "line": "Jim!"
+        }
+      ],
+      "location": "Castle"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "KIRK",
+          "line": "Don't you get tired of these games?"
+        },
+        {
+          "character": "SYLVIA",
+          "line": "I've never played games. Give it to me."
+        },
+        {
+          "character": "KIRK",
+          "line": "I wasn't sure before, but I am now. This is the source of your power, isn't it. The transmuter."
+        },
+        {
+          "character": "SYLVIA",
+          "line": "No, not the source. It's merely an amplifier. The mind is the source. Mine is simple, but yours has the key but you don't know how to use it."
+        },
+        {
+          "character": "KIRK",
+          "line": "I catch on quickly."
+        },
+        {
+          "character": "SYLVIA",
+          "line": "It is not too late, Captain James Kirk. Come with me. I'll teach you. You'll teach me."
+        },
+        {
+          "character": "KIRK",
+          "line": "Why? Because your people have nothing of your own? Is that why you need us?"
+        },
+        {
+          "character": "SYLVIA",
+          "line": "We need your dreams, your ambition. With them, I can build. Give me the transmuter."
+        },
+        {
+          "character": "KIRK",
+          "line": "No."
+        },
+        {
+          "character": "SYLVIA",
+          "line": "You fool. Don't you know what you're giving up? Everything that your species finds desirable. Look at me. I am a woman. I am all women."
+        },
+        {
+          "character": "KIRK",
+          "line": "I don't know what you are but you're not a woman. You've tortured my men and taken their minds from them. You ask for love and return pain instead."
+        },
+        {
+          "character": "SYLVIA",
+          "line": "Korob was wrong. I didn't destroy all your weapons. Give me the transmuter. Give it to me!"
+        }
+      ],
+      "location": "Drawing room"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "MCCOY",
+          "line": "What happened, Jim?"
+        },
+        {
+          "character": "KIRK",
+          "line": "That'll take some explaining, Bones."
+        },
+        {
+          "character": "SCOTT",
+          "line": "Everything's vanished."
+        },
+        {
+          "character": "KIRK",
+          "line": "Not everything."
+        },
+        {
+          "character": "KIRK",
+          "line": "Korob and Sylvia as they really are. Their forms were an illusion, just like the castle and everything else. Only the power pack gave them reality."
+        },
+        {
+          "character": "SPOCK",
+          "line": "Fascinating. A life form totally alien to our galaxy. If we could preserve and study this"
+        },
+        {
+          "character": "MCCOY",
+          "line": "Too late. All of this, just an illusion."
+        },
+        {
+          "character": "KIRK",
+          "line": "No illusion. Jackson is dead. Kirk to Enterprise. Come in."
+        },
+        {
+          "character": "UHURA",
+          "line": "Standing by, Captain.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "KIRK",
+          "line": "Five to beam up."
+        }
+      ],
+      "location": "Planet surface"
+    }
+  ],
+  "schedule": {
+    "episode": 1,
+    "number": 30,
+    "season": 2
+  },
+  "stardate": "3018.2",
+  "title": "Catspaw"
+}

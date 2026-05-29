@@ -1,0 +1,1594 @@
+{
+  "airdate": 1045036800,
+  "scenes": [
+    {
+      "dialogue": [
+        {
+          "character": "SHRAN",
+          "line": "Report."
+        },
+        {
+          "character": "TARAH",
+          "line": "The Imperial Guard will die at their posts, but"
+        },
+        {
+          "character": "SHRAN",
+          "line": "I know my men are willing to die. I want to hear their chances of surviving."
+        },
+        {
+          "character": "TARAH",
+          "line": "We're holding our positions for now, but the enemy has deployed new units here and here."
+        },
+        {
+          "character": "SHRAN",
+          "line": "They're looking for a weakness."
+        },
+        {
+          "character": "TARAH",
+          "line": "They may have found it. We've taken more casualties."
+        },
+        {
+          "character": "SHRAN",
+          "line": "I've received a communiqu\u00e9. The Vulcans want to diskuss terms for a cease fire."
+        },
+        {
+          "character": "TARAH",
+          "line": "Have you ever known a Vulcan who wouldn't lie to get what he wanted?"
+        },
+        {
+          "character": "SHRAN",
+          "line": "There is another option. Someone I've dealt with. A pinkskin. He's proven to be quite even-handed in dealing with Vulcans. His name is Archer."
+        }
+      ],
+      "location": "Shran's command post"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "ARCHER",
+          "line": "You're sure he wants me?"
+        },
+        {
+          "character": "FORREST",
+          "line": "Ambassador Soval said your presence is crucial to resolving the crisis.",
+          "modifier": "screen"
+        },
+        {
+          "character": "ARCHER",
+          "line": "What's this planet called again?"
+        },
+        {
+          "character": "FORREST",
+          "line": "The Vulcan name is Paan Mokar. The Andorians call it Weytahn. It's on the frontier between their systems. Both sides claim it belongs to them. They've nearly gone to war over it twice in the past century.",
+          "modifier": "screen"
+        },
+        {
+          "character": "ARCHER",
+          "line": "How do they expect me to help settle a conflict they haven't been able to resolve in a hundred years?"
+        },
+        {
+          "character": "FORREST",
+          "line": "Soval says you'll be fully briefed when you arrive. Jonathan, this is the first time the Vulcans have asked for our help. You're the closest thing we have to an ambassador out there. You know how important this could be.",
+          "modifier": "screen"
+        },
+        {
+          "character": "ARCHER",
+          "line": "We'll get there as fast as we can."
+        }
+      ],
+      "location": "Ready room"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TUCKER",
+          "line": "I don't like pushing the engines this hard. The injectors are running at a hundred and ten percent."
+        },
+        {
+          "character": "T'POL",
+          "line": "They're rated for one hundred and twenty."
+        },
+        {
+          "character": "TUCKER",
+          "line": "And my underwear is flame-retardant. That doesn't mean I'm going to light myself on fire to prove it."
+        },
+        {
+          "character": "ARCHER",
+          "line": "I think we'll make it in one piece, Trip. I've been reading about Paan Mokar in the Vulcan database. It doesn't say a lot. Class D, not much bigger than Earth's moon, claimed by the Vulcans in 2097."
+        },
+        {
+          "character": "TUCKER",
+          "line": "Class D? That's uninhabitable. Why are you fighting over it?"
+        },
+        {
+          "character": "T'POL",
+          "line": "When the Andorians first arrived a century ago, they began to terraform the planet. Once an atmosphere was developed, they established a settlement."
+        },
+        {
+          "character": "ARCHER",
+          "line": "If it was unclaimed at the time, why would there be a problem?"
+        },
+        {
+          "character": "T'POL",
+          "line": "Its sole value is its strategic location near Vulcan space."
+        },
+        {
+          "character": "ARCHER",
+          "line": "They were setting up a military base?"
+        },
+        {
+          "character": "T'POL",
+          "line": "It was the only logical conclusion."
+        },
+        {
+          "character": "TUCKER",
+          "line": "Was there any evidence?"
+        },
+        {
+          "character": "T'POL",
+          "line": "How much evidence would you need if the Klingons decided to set up a colony on Pluto?"
+        },
+        {
+          "character": "TUCKER",
+          "line": "That's not the same thing."
+        },
+        {
+          "character": "T'POL",
+          "line": "The Andorians refused to let the High Command inspect the colony. So, they annexed Paan Mokar to protect their territory."
+        },
+        {
+          "character": "ARCHER",
+          "line": "What happened to the Andorian colonists?"
+        },
+        {
+          "character": "T'POL",
+          "line": "They were removed."
+        },
+        {
+          "character": "TUCKER",
+          "line": "By force."
+        },
+        {
+          "character": "T'POL",
+          "line": "They left the High Command little choice. A surveillance satellite was put into orbit to monitor the agreement. The planet's been deserted for nearly a century."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Until now. Captain's Starlog, supplemental. In the three days it's taken us to reach Paan Mokar, the situation has grown considerably more tense."
+        }
+      ],
+      "location": "Captain's mess"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TUCKER",
+          "line": "Unbelievable. I damn near burn up the warp reactor getting here, and they make us wait."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Welcome aboard, Ambassador."
+        },
+        {
+          "character": "SOVAL",
+          "line": "Thank you, Captain. This is Sub-commander Muroc."
+        },
+        {
+          "character": "ARCHER",
+          "line": "T'Pol has been filling me in on the situation here, but I still have a lot of questions."
+        },
+        {
+          "character": "SOVAL",
+          "line": "If you don't mind, Captain, I have a question of my own. Why would an officer of the Andorian Imperial Guard personally request your involvement?"
+        },
+        {
+          "character": "ARCHER",
+          "line": "I don't understand. I was told you asked for me."
+        },
+        {
+          "character": "SOVAL",
+          "line": "I'm involved in extremely difficult and dangerous negotiations. I don't consider your presence here an asset."
+        },
+        {
+          "character": "ARCHER",
+          "line": "If that's how you feel, we'll gladly continue with our mission."
+        },
+        {
+          "character": "SOVAL",
+          "line": "Six days ago, an Andorian regimental commander named Shran landed a force on Paan Mokar and occupied the settlement."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Shran."
+        },
+        {
+          "character": "SOVAL",
+          "line": "Naturally, we attempted to enforce the Treaty of 2097."
+        },
+        {
+          "character": "TUCKER",
+          "line": "Naturally."
+        },
+        {
+          "character": "MUROC",
+          "line": "We've regained control of half the colony, but two dozen Vulcans have been wounded and three have been taken hostage."
+        },
+        {
+          "character": "SOVAL",
+          "line": "Shran has agreed to diskuss terms for their safe return, but only if you act as mediator. For some reason, he finds you trustworthy."
+        },
+        {
+          "character": "ARCHER",
+          "line": "You're asking for my help?"
+        },
+        {
+          "character": "SOVAL",
+          "line": "Yes, Captain, I'm asking for your help."
+        },
+        {
+          "character": "ARCHER",
+          "line": "I'll see what I can do."
+        },
+        {
+          "character": "SOVAL",
+          "line": "Forgive my candor, but that's hardly reassuring. The last time you dealt with the Andorians, a Vulcan intelligence site was compromised and a priceless monastery destroyed. Sub-commander Muroc will accompany you to represent our interests."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Obviously, I'm here at the request of the Andorians. Shran believes he can trust me. I don't intend to prove him wrong by going down there with a Vulcan officer in tow. If you insist I bring a Vulcan along, I'll take the one I know I can trust."
+        }
+      ],
+      "location": "Conference room"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "ARCHER",
+          "line": "You wanted to see me, Doc?"
+        },
+        {
+          "character": "PHLOX",
+          "line": "Yes. This planet is home to a rather pernicious mutagenic pathogen, and I'll need to bombard your immune system with analeptic radiation to protect you while you're on the surface."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Bombard."
+        },
+        {
+          "character": "PHLOX",
+          "line": "It's quite painless, I assure you."
+        },
+        {
+          "character": "ARCHER",
+          "line": "What about T'Pol?"
+        },
+        {
+          "character": "PHLOX",
+          "line": "Vulcan physiology isn't affected by the pathogen. Shall we? (Archer enters the Decon Chamber and Phlox stands at the window. A purple light comes on.)"
+        },
+        {
+          "character": "PHLOX",
+          "line": "This should only take a moment. If I may ask, how did your first meeting with the Vulcans go?"
+        },
+        {
+          "character": "ARCHER",
+          "line": "Warm and friendly as ever."
+        },
+        {
+          "character": "PHLOX",
+          "line": "Ironic. They weren't overly enthusiastic about you taking command of Enterprise in the first place, and now your presence is crucial to their interests."
+        },
+        {
+          "character": "ARCHER",
+          "line": "It's crucial to ours, too. Maybe we're not out here to just scan comets and meet new species. Maybe we're out here to prove that humanity is ready to join a much larger community. I intend to do that, whether the Vulcans like it or not."
+        },
+        {
+          "character": "PHLOX",
+          "line": "All finished."
+        },
+        {
+          "character": "PHLOX",
+          "line": "Captain, I served as a medic in the Denobulan infantry. If I learned anything from that experience, it's that battlefields are unpredictable places, even under a flag of truce. Be careful."
+        }
+      ],
+      "location": "Sickbay"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "ARCHER",
+          "line": "We've lost the navigational sensors, and the comm."
+        },
+        {
+          "character": "T'POL",
+          "line": "It's the Andorian jamming signal. I'm entering the landing coordinates they gave us."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Let's hope they're accurate."
+        },
+        {
+          "character": "T'POL",
+          "line": "Did you have a chance to read the Territorial Compromise?"
+        },
+        {
+          "character": "ARCHER",
+          "line": "I glanced at it."
+        },
+        {
+          "character": "T'POL",
+          "line": "The Compromise is at the heart of this dispute. It's worth your attention."
+        },
+        {
+          "character": "ARCHER",
+          "line": "It's twelve hundred pages long."
+        },
+        {
+          "character": "T'POL",
+          "line": "Did you glance at any of the other materials I sent to your quarters? V'Lar's treatise on negotiating tactics is the definitive text on the subject."
+        },
+        {
+          "character": "ARCHER",
+          "line": "I got all of it. V'Lar's treatise, the Revised Intersystem Agreement, the High Command briefing on the Border Incursions of 2112. I was up till two a.m."
+        },
+        {
+          "character": "T'POL",
+          "line": "Glancing."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Are you trying to tell me something? That maybe I'm not prepared for this?"
+        },
+        {
+          "character": "T'POL",
+          "line": "Ambassador Soval clearly believes you'll fail. I was hoping some advance preparation would help you prove him wrong."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Thanks, but I doubt I'm going to impress Shran by quoting Vulcan treaties."
+        },
+        {
+          "character": "T'POL",
+          "line": "I assume you have a strategy?"
+        },
+        {
+          "character": "ARCHER",
+          "line": "The first thing is to convince Shran that he can trust me."
+        },
+        {
+          "character": "T'POL",
+          "line": "And then?"
+        },
+        {
+          "character": "ARCHER",
+          "line": "We're just going to have to play it by ear."
+        }
+      ],
+      "location": "Shuttlepod"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "ARCHER",
+          "line": "Are you sure these are the coordinates?"
+        },
+        {
+          "character": "T'POL",
+          "line": "Yes."
+        },
+        {
+          "character": "TARAH",
+          "line": "Don't move, Vulcan."
+        },
+        {
+          "character": "T'POL",
+          "line": "Captain."
+        },
+        {
+          "character": "ARCHER",
+          "line": "We're not armed."
+        },
+        {
+          "character": "ARCHER",
+          "line": "I'm Captain Jonathan Archer. I'm here to see Commander Shran."
+        },
+        {
+          "character": "TARAH",
+          "line": "He's expecting you, without a Vulcan escort."
+        },
+        {
+          "character": "ARCHER",
+          "line": "I wasn't told to come alone. This is my Science Officer. She helped expose the Vulcan listening post at P'Jem. I thought Shran might enjoy seeing her again."
+        }
+      ],
+      "location": "Colony"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "ARCHER",
+          "line": "I imagined my first diplomatic mission would involve sitting around a big table, toasting with champagne, signing things with lots of pens."
+        },
+        {
+          "character": "SHRAN",
+          "line": "The pinkskin sense of humor. My apologies for the security precautions."
+        },
+        {
+          "character": "TARAH",
+          "line": "We can never be too vigilant when it comes to Vulcans."
+        },
+        {
+          "character": "ARCHER",
+          "line": "They say the same thing about you."
+        },
+        {
+          "character": "SHRAN",
+          "line": "I'm sure they do. We're aggressive, illogical."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Prove them wrong."
+        },
+        {
+          "character": "SHRAN",
+          "line": "That's why you're here, Captain. To help us do just that. I've dealt with the Vulcans twice before, where you were involved. Both times you handled the situation without prejudice."
+        },
+        {
+          "character": "ARCHER",
+          "line": "I hope I can help again, but the first thing I need is to see the hostages."
+        },
+        {
+          "character": "TARAH",
+          "line": "Hostages? Criminals take hostages. Kidnappers looking for a ransom take hostages. I assume you're referring to the enemy soldiers we captured."
+        },
+        {
+          "character": "ARCHER",
+          "line": "The Vulcans want to know they're all right."
+        },
+        {
+          "character": "SHRAN",
+          "line": "They haven't been harmed."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Are you all right?"
+        },
+        {
+          "character": "TARAH",
+          "line": "When they attacked us, two of my men were badly wounded."
+        },
+        {
+          "character": "TARAH",
+          "line": "They're lucky we didn't kill them."
+        },
+        {
+          "character": "T'POL",
+          "line": "You provoked this situation when you violated the Territorial Compromise."
+        },
+        {
+          "character": "TARAH",
+          "line": "Only a Vulcan could call a hundred years of oppression a compromise. You annexed a planet that belongs to us, herded our people into refugee camps."
+        },
+        {
+          "character": "T'POL",
+          "line": "After you set up a military outpost here."
+        },
+        {
+          "character": "SHRAN",
+          "line": "As you can see, Captain, even after a hundred years, this situation still evokes anger on both sides. We will release our prisoners on the following conditions. Immediate withdrawal of all Vulcan military forces, the so-called compromise is to be rescinded, and the Vulcans must concede irrevocable sovereignty of Weytahn to Andoria."
+        },
+        {
+          "character": "ARCHER",
+          "line": "You don't expect them to agree to all that."
+        },
+        {
+          "character": "TARAH",
+          "line": "I told you. He's a puppet of the Vulcans."
+        },
+        {
+          "character": "ARCHER",
+          "line": "For the record, the Vulcan High Command doesn't like me very much, and, frankly, the feeling is mutual. If all you need is someone to deliver your list of demands, find somebody else. I've got other things to do."
+        },
+        {
+          "character": "SHRAN",
+          "line": "The Vulcans always say they're ready to talk, but it amounts to nothing. Treaty negotiations that drag on for years. I want to speak to Soval. Somebody who can deal with the situation without having to check with his superiors."
+        },
+        {
+          "character": "ARCHER",
+          "line": "I'll see what I can do."
+        },
+        {
+          "character": "SHRAN",
+          "line": "Here. On my terms."
+        },
+        {
+          "character": "ARCHER",
+          "line": "That might be a little difficult."
+        },
+        {
+          "character": "TARAH",
+          "line": "This is pointless."
+        },
+        {
+          "character": "ARCHER",
+          "line": "But not impossible. The thing is, he's going to want something in return."
+        },
+        {
+          "character": "SHRAN",
+          "line": "Haven't they already taken enough?"
+        },
+        {
+          "character": "ARCHER",
+          "line": "I'm talking about a gesture, something to show you're serious. I came down here to see about the hostages. Why don't you let them go?"
+        },
+        {
+          "character": "TARAH",
+          "line": "And give away our only advantage?"
+        },
+        {
+          "character": "SHRAN",
+          "line": "No."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Release two of them, then. Keep the other one until after you've met with Soval."
+        },
+        {
+          "character": "SHRAN",
+          "line": "One, as a show of our good faith."
+        }
+      ],
+      "location": "Shran's command post"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "ARCHER",
+          "line": "You're being awfully quiet."
+        },
+        {
+          "character": "T'POL",
+          "line": "Is there something you'd like to diskuss?"
+        },
+        {
+          "character": "ARCHER",
+          "line": "You don't seem too happy with the way I handled things down there."
+        },
+        {
+          "character": "T'POL",
+          "line": "As Shran said, this is a provocative issue. However, I think you did well."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Thank you."
+        },
+        {
+          "character": "T'POL",
+          "line": "But my opinion often differs from the High Command's."
+        }
+      ],
+      "location": "Deleted scene - Shuttlepod"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "SOVAL",
+          "line": "Unacceptable."
+        },
+        {
+          "character": "ARCHER",
+          "line": "You got one of your men back."
+        },
+        {
+          "character": "SOVAL",
+          "line": "And in exchange, you'll deliver me into their hands? I'm sure the Andorians were impressed with your negotiating skills."
+        },
+        {
+          "character": "ARCHER",
+          "line": "They want to talk to you, not kidnap you."
+        },
+        {
+          "character": "SOVAL",
+          "line": "If I agree to a meeting, it's simply legitimizes their position."
+        },
+        {
+          "character": "ARCHER",
+          "line": "And if you don't, these negotiations end before they begin."
+        },
+        {
+          "character": "MUROC",
+          "line": "That may happen sooner than you realize. While you were on the surface, we detected three Andorian vessels approaching. They'll be here in less than five hours."
+        },
+        {
+          "character": "SOVAL",
+          "line": "They probably intend to re-supply their troops on the surface. We won't allow that."
+        },
+        {
+          "character": "T'POL",
+          "line": "Engaging an Andorian vessel could be construed as an act of war."
+        },
+        {
+          "character": "SOVAL",
+          "line": "That will be their decision."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Both sides are responsible for what happens here."
+        },
+        {
+          "character": "SOVAL",
+          "line": "You don't understand the complexities of this situation."
+        },
+        {
+          "character": "ARCHER",
+          "line": "With all due respect, Ambassador, why did you agree to let me go down there if you won't listen to my advice?"
+        },
+        {
+          "character": "SOVAL",
+          "line": "I didn't request your help, Captain, and I don't feel obliged to accept it."
+        },
+        {
+          "character": "ARCHER",
+          "line": "You claim the Andorians are inflexible. At least they're willing to sit down and talk. The ball's in your court now."
+        },
+        {
+          "character": "T'POL",
+          "line": "It's a human expression. It means the next move is yours."
+        }
+      ],
+      "location": "Conference room"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "MUROC",
+          "line": "This isn't wise. The colony hasn't been secured."
+        },
+        {
+          "character": "SOVAL",
+          "line": "Didn't you hear the Captain? The ball is in our court."
+        },
+        {
+          "character": "TUCKER",
+          "line": "I don't like this. With all the interference, you won't be able to contact the ship if something goes wrong."
+        },
+        {
+          "character": "ARCHER",
+          "line": "They're expecting us. We'll be fine."
+        },
+        {
+          "character": "TUCKER",
+          "line": "Those Andorian ships'll be here in four hours."
+        },
+        {
+          "character": "ARCHER",
+          "line": "I plan on being back long before then."
+        },
+        {
+          "character": "TUCKER",
+          "line": "T'Pol said that Territorial Compromise they were talking about took eight years to work out."
+        },
+        {
+          "character": "ARCHER",
+          "line": "I'll try to speed things up this time."
+        }
+      ],
+      "location": "Launch bay"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "SHRAN",
+          "line": "Bring them here as soon as they land, and treat the Vulcan with respect."
+        },
+        {
+          "character": "SOLDIER",
+          "line": "Yes, sir."
+        },
+        {
+          "character": "TARAH",
+          "line": "If I may speak."
+        },
+        {
+          "character": "SHRAN",
+          "line": "You don't have to. I know what you're going to say. We diskovered this planet. We made it livable. It belongs to us. Don't worry, it'll be ours again."
+        },
+        {
+          "character": "TARAH",
+          "line": "How? By talking? We've been trying that for a hundred years, and it's gotten us nowhere. They stall and lie and make promises they never intend to keep. We came here to fight. Why back down now?"
+        },
+        {
+          "character": "SHRAN",
+          "line": "I'm willing to give Archer another chance."
+        },
+        {
+          "character": "TARAH",
+          "line": "You put too much faith in these pinkskins. We don't know anything about them except that they're friends of the Vulcans."
+        },
+        {
+          "character": "SHRAN",
+          "line": "Not always. I've seen that for myself."
+        },
+        {
+          "character": "TARAH",
+          "line": "If we attack now, we can have the Vulcans on the defensive before our ships arrive."
+        },
+        {
+          "character": "SHRAN",
+          "line": "Your recommendation is noted."
+        },
+        {
+          "character": "TARAH",
+          "line": "Our troops are ready. There's no reason to wait."
+        },
+        {
+          "character": "SHRAN",
+          "line": "Enough. I value your opinion, Tarah, but that does not allow you to question my commands. Dismissed."
+        }
+      ],
+      "location": "Shran's command post"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "ARCHER",
+          "line": "They'll send some soldiers to meet us. I'm afraid they'll want to blindfold you. It's just a security precaution."
+        },
+        {
+          "character": "SOVAL",
+          "line": "Thank you for the reassurance. Now if you don't mind, I'll need a few moments of silence to prepare myself."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Of course."
+        },
+        {
+          "character": "ARCHER",
+          "line": "T'Pol?"
+        },
+        {
+          "character": "T'POL",
+          "line": "Weapons fire. I can't pinpoint the source."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Archer to Enterprise."
+        },
+        {
+          "character": "T'POL",
+          "line": "We're still within their jamming range."
+        },
+        {
+          "character": "SOVAL",
+          "line": "I suggest we cancel the negotiations and return to your ship."
+        },
+        {
+          "character": "ARCHER",
+          "line": "For once we're in full agreement."
+        },
+        {
+          "character": "T'POL",
+          "line": "Direct hit to our starboard engine. Main power is offline."
+        },
+        {
+          "character": "SOVAL",
+          "line": "Now you see who you're dealing with, Captain?"
+        },
+        {
+          "character": "ARCHER",
+          "line": "If you don't mind, Ambassador."
+        },
+        {
+          "character": "T'POL",
+          "line": "We're losing altitude. Two hundred meters."
+        },
+        {
+          "character": "ARCHER",
+          "line": "I'm going to bring us in on thrusters."
+        },
+        {
+          "character": "T'POL",
+          "line": "One hundred meters. Fifty. We need to reduce our speed."
+        },
+        {
+          "character": "ARCHER",
+          "line": "The ground is going to do that for us. Brace yourselves."
+        }
+      ],
+      "location": "Shuttlepod"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "ARCHER",
+          "line": "Any idea where we are?"
+        },
+        {
+          "character": "SOVAL",
+          "line": "The southeast quadrant, near the old spaceport. I told you I negotiated the last accord. I also served here."
+        },
+        {
+          "character": "T'POL",
+          "line": "You were with the occupation force?"
+        },
+        {
+          "character": "SOVAL",
+          "line": "As an intelligence officer, a long time ago. Our current deployment has a base of operations that way, about two and a half kilometers."
+        },
+        {
+          "character": "ARCHER",
+          "line": "I appreciate your help, Ambassador but we're looking for the Andorians."
+        },
+        {
+          "character": "SOVAL",
+          "line": "Circumstances have altered our plans."
+        },
+        {
+          "character": "ARCHER",
+          "line": "I gave my word to Shran. I intend to keep it."
+        },
+        {
+          "character": "SOVAL",
+          "line": "Shran just tried to kill us."
+        },
+        {
+          "character": "ARCHER",
+          "line": "We don't know that."
+        },
+        {
+          "character": "SOVAL",
+          "line": "I suppose you think our troops are responsible for this?"
+        },
+        {
+          "character": "ARCHER",
+          "line": "Sensors and communications are offline. There's weapons fire flying all over the place. We don't know what happened."
+        },
+        {
+          "character": "SOVAL",
+          "line": "Are you that naive? Shran is using you."
+        },
+        {
+          "character": "ARCHER",
+          "line": "This is a man who couldn't sleep because he thought he owed me something. I don't believe he asked me to come a dozen light years just so I could lead you into a trap. And right now it seems like the best thing to do is to get a cease-fire in place. The Andorians won't agree to that until they talk to you in person. I managed to keep us on course most of the way in. We can't be more than a kilometer from Shran's landing coordinates."
+        }
+      ],
+      "location": "Colony"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TUCKER",
+          "line": "How would you know? We can't pick up anything through the interference."
+        },
+        {
+          "character": "MUROC",
+          "line": "Our scanners are more sophisticated than yours. We detected weapons fire coming from the surface. Then your shuttle appeared to make an emergency landing somewhere in the colony.",
+          "modifier": "screen"
+        },
+        {
+          "character": "TUCKER",
+          "line": "Where?"
+        },
+        {
+          "character": "MUROC",
+          "line": "We haven't been able to pinpoint their landing site, but our units on the ground are already searching. The High Command instructed me to take steps to recover Ambassador Soval.",
+          "modifier": "screen"
+        },
+        {
+          "character": "REED",
+          "line": "And our officers?"
+        },
+        {
+          "character": "MUROC",
+          "line": "Of course.",
+          "modifier": "screen"
+        },
+        {
+          "character": "TUCKER",
+          "line": "We want to be involved in any rescue operation."
+        },
+        {
+          "character": "MUROC",
+          "line": "We have more experience in these matters.",
+          "modifier": "screen"
+        },
+        {
+          "character": "TUCKER",
+          "line": "I know. I once saw one of your commando units blast the hell out of a rebel compound during a rescue mission."
+        },
+        {
+          "character": "MUROC",
+          "line": "We won't allow this provocation to continue.",
+          "modifier": "screen"
+        },
+        {
+          "character": "TUCKER",
+          "line": "You don't even know where they are. Do you really think it's a good idea to go down there guns blazing?"
+        },
+        {
+          "character": "MUROC",
+          "line": "Our response will be appropriate. I'll keep you informed, Commander.",
+          "modifier": "screen"
+        },
+        {
+          "character": "TUCKER",
+          "line": "Any luck?"
+        },
+        {
+          "character": "HOSHI",
+          "line": "I'm trying, sir, but if the Vulcans can't find them."
+        },
+        {
+          "character": "TUCKER",
+          "line": "See what you can do."
+        },
+        {
+          "character": "HOSHI",
+          "line": "Yes, sir."
+        },
+        {
+          "character": "TUCKER",
+          "line": "How far away are those Andorian ships?"
+        },
+        {
+          "character": "TRAVIS",
+          "line": "Three hours at their present speed."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "SHRAN",
+          "line": "That shuttle was to be left alone. I gave specific orders."
+        },
+        {
+          "character": "TARAH",
+          "line": "And they were followed."
+        },
+        {
+          "character": "SHRAN",
+          "line": "Then who fired those shots? The Vulcans, I suppose, trying to kill their own Ambassador?"
+        },
+        {
+          "character": "TARAH",
+          "line": "Is that so unlikely? Some of my men saw weapons fire coming from their positions. It's Vulcan subterfuge, I'm sure of it. What better way for them to justify an invasion than to blame us for killing their envoy?"
+        },
+        {
+          "character": "SHRAN",
+          "line": "They are devious, but I doubt even they would go that far."
+        },
+        {
+          "character": "TARAH",
+          "line": "You act as if they have some moral code. They have no conscience, only their precious logic. They'll do anything to drive us off this planet. We should never have agreed to negotiate."
+        },
+        {
+          "character": "SHRAN",
+          "line": "You're not happy with the way I've handled this situation?"
+        },
+        {
+          "character": "TARAH",
+          "line": "Of course I am, sir."
+        },
+        {
+          "character": "SOLDIER",
+          "line": "The Sector Two Report, sir."
+        },
+        {
+          "character": "SHRAN",
+          "line": "Put our positions on alert. I want Soval and the pinkskin brought to me alive. If they're looking for an excuse to attack, we won't give it to them."
+        },
+        {
+          "character": "TARAH",
+          "line": "I'll see to it myself."
+        }
+      ],
+      "location": "Shran's command post"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "SOVAL",
+          "line": "Perhaps you were farther off course than you thought."
+        },
+        {
+          "character": "ARCHER",
+          "line": "You've been here before. I don't suppose you'd care to help?"
+        },
+        {
+          "character": "SOVAL",
+          "line": "It's been almost a hundred years."
+        },
+        {
+          "character": "ARCHER",
+          "line": "I thought Vulcans had exceptional memories."
+        },
+        {
+          "character": "SOVAL",
+          "line": "This is the old residential quarter. According to our latest intelligence, the Andorians control the settlement west of here."
+        },
+        {
+          "character": "ARCHER",
+          "line": "If we keep moving this way, we should be Down!"
+        },
+        {
+          "character": "SOVAL",
+          "line": "Not quite the warm welcome you expected, Captain?"
+        },
+        {
+          "character": "ARCHER",
+          "line": "They're not shooting at us."
+        },
+        {
+          "character": "T'POL",
+          "line": "The Vulcan units must be advancing their positions."
+        },
+        {
+          "character": "SOVAL",
+          "line": "We should try to make contact with them."
+        },
+        {
+          "character": "ARCHER",
+          "line": "I don't recommend sticking your neck out right now."
+        },
+        {
+          "character": "SOVAL",
+          "line": "What do you recommend? Wandering through these ruins until we find an Andorian soldier, and trust he's been informed not to shoot us on sight?"
+        },
+        {
+          "character": "ARCHER",
+          "line": "I'll take a look. Stay here."
+        },
+        {
+          "character": "T'POL",
+          "line": "Captain."
+        },
+        {
+          "character": "ARCHER",
+          "line": "That's an order. No offense, but my ears are less likely to draw fire than yours."
+        },
+        {
+          "character": "SOVAL",
+          "line": "What is their fixation with our ears?"
+        },
+        {
+          "character": "T'POL",
+          "line": "I believe they're envious."
+        },
+        {
+          "character": "SOVAL",
+          "line": "Do you realize you've picked up a slight human accent? You were one of the most promising members of my staff, T'Pol. If you'd stayed in San Francisco, you'd be the Assistant Counsel by now. You might even have a diplomatic posting of your own."
+        },
+        {
+          "character": "T'POL",
+          "line": "I am aware of that."
+        },
+        {
+          "character": "SOVAL",
+          "line": "Then why have you remained on Enterprise?"
+        },
+        {
+          "character": "T'POL",
+          "line": "We believed they needed our help when they first developed warp drive. That hasn't changed."
+        },
+        {
+          "character": "SOVAL",
+          "line": "Captain Archer's record is evidence of that, but there are others who can assist them."
+        },
+        {
+          "character": "T'POL",
+          "line": "I find the work gratifying."
+        },
+        {
+          "character": "SOVAL",
+          "line": "Gratification is an emotional indulgence. You disagreed with our recommendation that Archer's mission be canceled after the tragedy at Paraaga Two. Why?"
+        },
+        {
+          "character": "T'POL",
+          "line": "I was onboard Enterprise at the time. I felt my opinion would be welcomed."
+        },
+        {
+          "character": "SOVAL",
+          "line": "You believed you knew better than the High Command? That sounds a great deal like another emotion, arrogance. Perhaps it's time for you to consider another assignment."
+        },
+        {
+          "character": "T'POL",
+          "line": "Just because Captain Archer has earned my respect doesn't mean I have been contaminated by his emotions."
+        },
+        {
+          "character": "T'POL",
+          "line": "Did you make contact?"
+        },
+        {
+          "character": "ARCHER",
+          "line": "No. They're pulling back. Let's keep moving."
+        }
+      ],
+      "location": "Colony"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TARAH",
+          "line": "Empty."
+        },
+        {
+          "character": "SOLDIER",
+          "line": "They're probably trying to reach the Vulcans."
+        },
+        {
+          "character": "TARAH",
+          "line": "No. The pinkskin will want to keep his part of the bargain. They'll be looking for Shran."
+        }
+      ],
+      "location": "Shuttlepod"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "HOSHI",
+          "line": "Commander."
+        },
+        {
+          "character": "TUCKER",
+          "line": "You have something?"
+        },
+        {
+          "character": "HOSHI",
+          "line": "I can't be sure. You see this EM differential here?"
+        },
+        {
+          "character": "TUCKER",
+          "line": "That's the Captain?"
+        },
+        {
+          "character": "HOSHI",
+          "line": "It's definitely a biosign. I'm ninety percent sure it's human."
+        },
+        {
+          "character": "TUCKER",
+          "line": "At least we know he's alive. Where is he?"
+        },
+        {
+          "character": "HOSHI",
+          "line": "I need another hour."
+        },
+        {
+          "character": "TUCKER",
+          "line": "What's the status on those Andorian ships?"
+        },
+        {
+          "character": "TRAVIS",
+          "line": "They just dropped out of warp. They'll be here in thirteen minutes."
+        },
+        {
+          "character": "REED",
+          "line": "I think the Vulcans see them, too. They're breaking orbit. Probably giving themselves room to maneuver."
+        },
+        {
+          "character": "TUCKER",
+          "line": "Put the ship on Tactical Alert."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "ARCHER",
+          "line": "Get down! Go."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Over there."
+        },
+        {
+          "character": "T'POL",
+          "line": "Those are Andorian weapons."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Hold your fire!"
+        },
+        {
+          "character": "ARCHER",
+          "line": "How is he?"
+        },
+        {
+          "character": "T'POL",
+          "line": "It isn't life-threatening but he needs medical attention."
+        },
+        {
+          "character": "ARCHER",
+          "line": "We've brought the Vulcan ambassador to meet with Commander Shran!"
+        },
+        {
+          "character": "ARCHER",
+          "line": "It looks like two of them. One on top of that structure"
+        },
+        {
+          "character": "ARCHER",
+          "line": "And the other on the ground."
+        },
+        {
+          "character": "ARCHER",
+          "line": "If I can work my way around I might be able to come up from behind them."
+        },
+        {
+          "character": "SOVAL",
+          "line": "What do you expect me to do with this?"
+        },
+        {
+          "character": "ARCHER",
+          "line": "Make sure they don't see me."
+        },
+        {
+          "character": "SOVAL",
+          "line": "I haven't fired a weapon in fifty years."
+        },
+        {
+          "character": "ARCHER",
+          "line": "You don't have to hit anything, just keep them occupied. Really occupied or I'm not going to get very far."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Hey."
+        }
+      ],
+      "location": "Colony"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TUCKER",
+          "line": "Range."
+        },
+        {
+          "character": "TRAVIS",
+          "line": "Fifty thousand kilometers. They're still heading right for the Vulcan ships."
+        },
+        {
+          "character": "REED",
+          "line": "The Vulcans are charging weapons. The Andorians as well."
+        },
+        {
+          "character": "TUCKER",
+          "line": "Travis, lay in a new course. I want you to put us right between them."
+        },
+        {
+          "character": "TRAVIS",
+          "line": "Aye, sir."
+        },
+        {
+          "character": "REED",
+          "line": "If you don't mind me asking, what do you have in mind?"
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "ARCHER",
+          "line": "Drop your weapon. I've never fired one of these before."
+        },
+        {
+          "character": "ARCHER",
+          "line": "I'm not sure if it's set on stun."
+        },
+        {
+          "character": "ARCHER",
+          "line": "T'Pol, cease fire!"
+        },
+        {
+          "character": "TARAH",
+          "line": "It doesn't have a stun setting."
+        },
+        {
+          "character": "ARCHER",
+          "line": "You fired on my shuttle. You're trying to kill Soval, undermine everything that Shran is trying to do here. Why? Do you want a war with the Vulcans?"
+        },
+        {
+          "character": "TARAH",
+          "line": "All we want is a chance to fight for what's ours before cowards like Shran negotiate it away."
+        },
+        {
+          "character": "ARCHER",
+          "line": "You can take that up with him. Let's go."
+        }
+      ],
+      "location": "Colony"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "HOSHI",
+          "line": "We're being hailed by the Vulcans and the Andorians."
+        },
+        {
+          "character": "TUCKER",
+          "line": "Put 'em both on."
+        },
+        {
+          "character": "TUCKER",
+          "line": "This is Commander Tucker."
+        },
+        {
+          "character": "TELEV",
+          "line": "Captain Telev of the Imperial Guard.",
+          "modifier": "screen"
+        },
+        {
+          "character": "MUROC",
+          "line": "Commander, I strongly recommend you withdraw to a safe distance.",
+          "modifier": "screen"
+        },
+        {
+          "character": "TELEV",
+          "line": "I agree. We wouldn't want your vessel to be damaged by debris from the Vulcan ships.",
+          "modifier": "screen"
+        },
+        {
+          "character": "MUROC",
+          "line": "We will not allow the Andorians to land additional troops on Paan Mokar.",
+          "modifier": "screen"
+        },
+        {
+          "character": "TELEV",
+          "line": "It's called Weytahn and our personnel there have been attacked. We'll provide whatever support they need.",
+          "modifier": "screen"
+        },
+        {
+          "character": "MUROC",
+          "line": "Any vessel attempting to enter orbit will be fired upon.",
+          "modifier": "screen"
+        },
+        {
+          "character": "TUCKER",
+          "line": "That includes yours, Sub-commander."
+        },
+        {
+          "character": "TELEV",
+          "line": "We appreciate your support, Commander Tucker.",
+          "modifier": "screen"
+        },
+        {
+          "character": "TUCKER",
+          "line": "Don't. I'll open fire on any ship that makes an aggressive move. Phase-cannons?"
+        },
+        {
+          "character": "REED",
+          "line": "Locked and ready."
+        },
+        {
+          "character": "MUROC",
+          "line": "This is not a Starfleet matter.",
+          "modifier": "screen"
+        },
+        {
+          "character": "TUCKER",
+          "line": "As long as my Captain is stuck in the middle of your war zone, it is."
+        },
+        {
+          "character": "MUROC",
+          "line": "The Andorians have made it impossible for us to recover Captain Archer. By now, he's most likely a casualty.",
+          "modifier": "screen"
+        },
+        {
+          "character": "TUCKER",
+          "line": "Don't count him out so fast. We've managed to isolate his bio-signature. Now, why don't you both give him and Ambassador Soval a chance to do their jobs before we start a war up here?"
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TARAH",
+          "line": "He was ready to kill me. You saw for yourself. Apparently, these pinkskins aren't as honorable as you thought."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Are you all right? I suppose I shot the Ambassador to make my story more convincing."
+        },
+        {
+          "character": "SHRAN",
+          "line": "Why would my lieutenant, a loyal member of the Imperial Guard, lie to me?"
+        },
+        {
+          "character": "SOVAL",
+          "line": "Commander, it seems you're willing to resolve this situation through peaceful means. Do all your officers feel the same?"
+        },
+        {
+          "character": "T'POL",
+          "line": "Have you considered there might be Andorians who would want a war with Vulcan?"
+        },
+        {
+          "character": "TARAH",
+          "line": "How long have I served with you? Followed your orders when it could have meant my life?"
+        },
+        {
+          "character": "ARCHER",
+          "line": "She's not the only one who risked their life. I said I'd bring Soval to meet you and we damn near got killed getting him here. I came because you asked me. Because you thought I could be trusted. Check Soval's wound. Check our shuttle. You'll find Andorian weapons signatures."
+        },
+        {
+          "character": "SHRAN",
+          "line": "Is this true? Answer me!"
+        },
+        {
+          "character": "TARAH",
+          "line": "What did you expect me to do?"
+        },
+        {
+          "character": "SHRAN",
+          "line": "Follow my orders!"
+        },
+        {
+          "character": "TARAH",
+          "line": "Orders to do nothing while you betray us? It's not too late to redeem yourself, to make a stand."
+        },
+        {
+          "character": "SHRAN",
+          "line": "I intend to. Take her."
+        },
+        {
+          "character": "TARAH",
+          "line": "There are others who feel this way. You'll see."
+        },
+        {
+          "character": "SHRAN",
+          "line": "See to the Ambassador's wounds. We have a lot to diskuss."
+        }
+      ],
+      "location": "Colony"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "REED",
+          "line": "The Vulcan ships are breaking formation. They're heading for the planet."
+        },
+        {
+          "character": "TRAVIS",
+          "line": "The Andorians are following, sir."
+        },
+        {
+          "character": "TUCKER",
+          "line": "Arm the forward phase-cannons. See if you can target their weapons."
+        },
+        {
+          "character": "HOSHI",
+          "line": "We're being hailed from the surface. It's the Captain."
+        },
+        {
+          "character": "TUCKER",
+          "line": "Hold off, Malcolm. Put him through. Captain."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Nice to hear your voice, Trip.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "TUCKER",
+          "line": "What's going on down there? Are you okay?"
+        },
+        {
+          "character": "ARCHER",
+          "line": "T'Pol and I are fine. We're at the Andorian command post. Ambassador Soval's been injured, but Shran's medics are treating him.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "TUCKER",
+          "line": "Did you say Shran's medics?"
+        },
+        {
+          "character": "ARCHER",
+          "line": "He's just being a good host. The Andorians are allowing the Vulcan ships to move in and pick up their people.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "TUCKER",
+          "line": "Glad you let us know."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Did you run into any problems up there?",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "TUCKER",
+          "line": "Nothing we couldn't handle. I'll fill you in later."
+        },
+        {
+          "character": "ARCHER",
+          "line": "We had a pretty rough landing. We'll need a ride back to the ship.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "TUCKER",
+          "line": "I'll send Travis down in Shuttlepod Two."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Acknowledged. Archer out.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "TUCKER",
+          "line": "Put us back into orbit, Travis, and cancel the tactical alert. Captain's Starlog, supplemental. Ambassador Soval has begun talks with the Andorians. They've been difficult, but productive."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "SHRAN",
+          "line": "The Imperial Council will not be satisfied until Vulcan recognizes our claim to Weytahn."
+        },
+        {
+          "character": "ARCHER",
+          "line": "I believe someone once defined a compromise as a solution that neither side is happy with."
+        },
+        {
+          "character": "SHRAN",
+          "line": "In that case, these talks have been extremely successful."
+        },
+        {
+          "character": "SOVAL",
+          "line": "I consider any negotiation that averts war to be a success."
+        },
+        {
+          "character": "SHRAN",
+          "line": "Join me in a drink to celebrate our mutual dissatisfaction."
+        },
+        {
+          "character": "SOVAL",
+          "line": "Vulcans don't drink. But this occasion merits an exception."
+        },
+        {
+          "character": "SHRAN",
+          "line": "To the cease fire. It wouldn't have been possible without the help of our human friends."
+        },
+        {
+          "character": "SOVAL",
+          "line": "And to the successful continuation of these talks on Andoria."
+        },
+        {
+          "character": "SHRAN",
+          "line": "I trust there'll be more accomplished than just talk."
+        },
+        {
+          "character": "T'POL",
+          "line": "With your permission, I'll escort Ambassador Soval to the airlock."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Of course."
+        },
+        {
+          "character": "SOVAL",
+          "line": "Captain, your presence here has not been overly meddlesome."
+        },
+        {
+          "character": "SHRAN",
+          "line": "I think he likes you, pinkskin."
+        },
+        {
+          "character": "ARCHER",
+          "line": "I wouldn't go that far."
+        }
+      ],
+      "location": "Conference room"
+    }
+  ],
+  "schedule": {
+    "episode": 15,
+    "number": 41,
+    "season": 2
+  },
+  "stardate": "Unknown",
+  "title": "Cease Fire"
+}

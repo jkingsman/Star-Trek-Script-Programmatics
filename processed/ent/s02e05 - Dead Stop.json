@@ -1,0 +1,1421 @@
+{
+  "airdate": 1034146800,
+  "scenes": [
+    {
+      "dialogue": [
+        {
+          "character": "unknown",
+          "line": "Captain's Starlog, supplemental. It's been almost four days since the incident in the Romulan minefield. Repair teams have been working around the clock. Nerves are definitely frayed."
+        }
+      ],
+      "location": "unknown"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "ARCHER",
+          "line": "It's incredible we're still in one piece."
+        },
+        {
+          "character": "TUCKER",
+          "line": "If that mine had hit another meter to the left. We can't polarize the port bow plating until those breaches are sealed."
+        },
+        {
+          "character": "ARCHER",
+          "line": "What's your guess."
+        },
+        {
+          "character": "TUCKER",
+          "line": "Assuming we can find some tritanium alloy? Three or four months. And with this kind of damage the best I can give you is warp two, maybe two point one."
+        },
+        {
+          "character": "ARCHER",
+          "line": "In other words, we're a decade away from Jupiter Station. What about the transceiver array?"
+        },
+        {
+          "character": "TUCKER",
+          "line": "The subspace antenna's damaged. All we've got is short-range."
+        },
+        {
+          "character": "ARCHER",
+          "line": "We've answered enough calls for help over the past year. It's time someone returned the favor."
+        },
+        {
+          "character": "TUCKER",
+          "line": "You serious?"
+        },
+        {
+          "character": "ARCHER",
+          "line": "Archer to Ensign Sato."
+        },
+        {
+          "character": "HOSHI",
+          "line": "Go ahead, sir.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "ARCHER",
+          "line": "I want you to get started on a general distress call. Assistance required. Minor repairs. Don't go into too much detail."
+        },
+        {
+          "character": "HOSHI",
+          "line": "Understood, sir.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "ARCHER",
+          "line": "Archer out."
+        }
+      ],
+      "location": "Inspection pod"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "REED",
+          "line": "You're killing me!"
+        },
+        {
+          "character": "PHLOX",
+          "line": "Push, Lieutenant. Two more seconds. And rest."
+        },
+        {
+          "character": "REED",
+          "line": "It can't be ethical to cause a patient this much pain."
+        },
+        {
+          "character": "PHLOX",
+          "line": "It's unethical to harm a patient. I can inflict as much pain as I like. A positive attitude is vital to the healing process. The more you complain, the longer your recovery is likely to take."
+        },
+        {
+          "character": "REED",
+          "line": "When will I be able to return to duty?"
+        },
+        {
+          "character": "PHLOX",
+          "line": "Another week, possibly two."
+        },
+        {
+          "character": "REED",
+          "line": "Two weeks?"
+        },
+        {
+          "character": "PHLOX",
+          "line": "Attitude, Lieutenant. The wound might heal faster if you'd allow me to apply a few more Regulan Blood Worms."
+        },
+        {
+          "character": "REED",
+          "line": "You're not putting any more of those things inside my leg. You still haven't found the last one."
+        },
+        {
+          "character": "PHLOX",
+          "line": "He'll come out on his own, eventually."
+        }
+      ],
+      "location": "Sickbay"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "ARCHER",
+          "line": "Did you hear that? I don't believe it. Trip told me he fixed that squeak. Go ahead."
+        },
+        {
+          "character": "T'POL",
+          "line": "Captain, we're receiving response to the distress call.",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "Ready room"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "T'POL",
+          "line": "It's a Tellarite freighter."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Put them through. This is Captain Archer of the starship Enterprise. Thank you for responding."
+        },
+        {
+          "character": "TELLARITE",
+          "line": "How may we be of assistance?",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "ARCHER",
+          "line": "We need help in repairing some hull damage. If you can rendezvous with us, we'd be happy to diskuss"
+        },
+        {
+          "character": "TELLARITE",
+          "line": "Schedule won't permit it. The signal is",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "HOSHI",
+          "line": "I'm sorry, sir. They're barely within range."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Can you repeat?"
+        },
+        {
+          "character": "TELLARITE",
+          "line": "Transmitting coordinates. Repair station at",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "ARCHER",
+          "line": "Sounded like he said repair station?"
+        },
+        {
+          "character": "T'POL",
+          "line": "We have received a set of co-ordinates."
+        },
+        {
+          "character": "ARCHER",
+          "line": "What do you know about these Tellarites?"
+        },
+        {
+          "character": "T'POL",
+          "line": "They're not the most agreeable species, but they're usually trustworthy. The co-ordinates are three and a half days away at warp two."
+        },
+        {
+          "character": "ARCHER",
+          "line": "I think it's worth a look."
+        },
+        {
+          "character": "TRAVIS",
+          "line": "Aye, sir."
+        },
+        {
+          "character": "ARCHER",
+          "line": "This is Captain Archer of the starship Enterprise. We need to make some repairs. I was told you might be willing to help us. We'd be grateful for any assistance you could offer. Please respond."
+        },
+        {
+          "character": "HOSHI",
+          "line": "Nothing."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Biosigns?"
+        },
+        {
+          "character": "T'POL",
+          "line": "None that I can detect."
+        },
+        {
+          "character": "HOSHI",
+          "line": "Maybe it's abandoned."
+        },
+        {
+          "character": "TUCKER",
+          "line": "We might be able to board it, salvage some of the materials we need."
+        },
+        {
+          "character": "ARCHER",
+          "line": "It doesn't seem that Enterprise could fit inside those docking berths. What's it look like inside?"
+        },
+        {
+          "character": "T'POL",
+          "line": "I'm detecting a liquid helium atmosphere. The temperature's two hundred and seventy degrees below zero. A bio-molecular probe."
+        },
+        {
+          "character": "TRAVIS",
+          "line": "Sir."
+        },
+        {
+          "character": "TUCKER",
+          "line": "It's reconfiguring to fit the saucer section."
+        },
+        {
+          "character": "T'POL",
+          "line": "The liquid helium's being replaced by a warmer oxygen-nitrogen atmosphere."
+        },
+        {
+          "character": "HOSHI",
+          "line": "Still no response to our hails."
+        },
+        {
+          "character": "T'POL",
+          "line": "It appears an invitation's been extended."
+        },
+        {
+          "character": "ARCHER",
+          "line": "They need to work a little on their hospitality."
+        },
+        {
+          "character": "TUCKER",
+          "line": "I don't see that we have a lot of options."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Take us in."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TUCKER",
+          "line": "They've isolated every hull breach, every damaged system. I'll be damned. We scratched the hull right here, a year ago. I bumped it with the inspection pod, remember?"
+        },
+        {
+          "character": "ARCHER",
+          "line": "I thought I told you to have that repainted."
+        },
+        {
+          "character": "TUCKER",
+          "line": "I was getting around to it."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Everything's in English. The ship wasn't the only thing they probed. I think that's Malcolm. That's where his left leg was injured."
+        },
+        {
+          "character": "T'POL",
+          "line": "This facility may have the technology to repair Mister Reed as well."
+        },
+        {
+          "character": "COMPUTER",
+          "line": "The analysis of your vessel is complete. Select a method of compensation to begin the repair process."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Who am I speaking with?"
+        },
+        {
+          "character": "COMPUTER",
+          "line": "Your inquiry was not recognized."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Is there someone here I can speak with?"
+        },
+        {
+          "character": "COMPUTER",
+          "line": "Your inquiry was not recognized."
+        },
+        {
+          "character": "TUCKER",
+          "line": "I don't think there's anyone back there."
+        },
+        {
+          "character": "T'POL",
+          "line": "Perhaps the station's automated."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Are you saying you can repair all our systems?"
+        },
+        {
+          "character": "COMPUTER",
+          "line": "Select a method of compensation to begin the repair process."
+        },
+        {
+          "character": "ARCHER",
+          "line": "We can give them either three warp coils, five deuterium injectors or two hundred liters of warp plasma."
+        },
+        {
+          "character": "TUCKER",
+          "line": "I wouldn't recommend giving up any hardware we can't replace."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Plasma?"
+        },
+        {
+          "character": "TUCKER",
+          "line": "I think we can spare it."
+        },
+        {
+          "character": "ARCHER",
+          "line": "If we agree to these terms, how long will the repairs take?"
+        },
+        {
+          "character": "COMPUTER",
+          "line": "Time to completion, thirty four point two Earth hours."
+        },
+        {
+          "character": "TUCKER",
+          "line": "I'm telling you, the boys at Jupiter Station would take three months."
+        },
+        {
+          "character": "T'POL",
+          "line": "It's a fair exchange."
+        },
+        {
+          "character": "COMPUTER",
+          "line": "Select a method of compensation to begin the repair process."
+        },
+        {
+          "character": "COMPUTER",
+          "line": "Compensation will be due when the repairs are completed. Your vessel will then disengage immediately. All personnel are required to vacate areas that are undergoing reconstruction."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Look at this."
+        },
+        {
+          "character": "T'POL",
+          "line": "It's our repair schedule."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Transmit it to Hoshi and have her inform the crew."
+        },
+        {
+          "character": "TRAVIS",
+          "line": "Enterprise to Captain Archer.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "ARCHER",
+          "line": "Go ahead."
+        }
+      ],
+      "location": "Station"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TRAVIS",
+          "line": "Some kind of mechanical arms are being attached to the outer hull."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "ARCHER",
+          "line": "It's all right, Travis. Stand by."
+        },
+        {
+          "character": "COMPUTER",
+          "line": "The recreation facility is now available to all personnel. Enjoy your visit."
+        }
+      ],
+      "location": "Station diagnostic room"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TUCKER",
+          "line": "If this their idea of a recreation facility you might want to ask for our plasma back."
+        },
+        {
+          "character": "T'POL",
+          "line": "A matter energy converter."
+        },
+        {
+          "character": "TUCKER",
+          "line": "It could be a transporter. An awfully small one."
+        },
+        {
+          "character": "T'POL",
+          "line": "I believe it's a molecular synthesizer of some kind. Similar to a protein resequencer, but far more advanced. Water, cold."
+        },
+        {
+          "character": "T'POL",
+          "line": "I saw a similar device on a Tarkalean vessel. It was capable of replicating almost any inanimate object."
+        },
+        {
+          "character": "TUCKER",
+          "line": "If we had one of these in Engineering we could make all the spare parts we need. I wonder what else is on the menu. One pan-fried catfish."
+        },
+        {
+          "character": "TUCKER",
+          "line": "Smells like the real thing."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Well?"
+        },
+        {
+          "character": "TUCKER",
+          "line": "Not bad."
+        },
+        {
+          "character": "ARCHER",
+          "line": "I doubt there's a catfish within a hundred and thirty light years."
+        },
+        {
+          "character": "T'POL",
+          "line": "It's genome is stored in Enterprise's computer as is the recipe. The station evidently scanned our database."
+        },
+        {
+          "character": "ARCHER",
+          "line": "It would have been nice to have been asked. I can only imagine what else this thing knows about us."
+        },
+        {
+          "character": "TUCKER",
+          "line": "Captain, you've got to try this."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Thanks, but I'll stick with whatever Chef's serving. I'll be on the Bridge."
+        }
+      ],
+      "location": "Recreation area"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "REED",
+          "line": "Are you sure this thing knows what it's doing?"
+        },
+        {
+          "character": "PHLOX",
+          "line": "That's the third time you've asked."
+        },
+        {
+          "character": "REED",
+          "line": "You didn't answer me the first two times."
+        },
+        {
+          "character": "PHLOX",
+          "line": "It's remarkable. Your cells are regenerating at an exponential rate. Do you see how it's using a cytokinetic enzyme to stimulate the cell division?"
+        },
+        {
+          "character": "REED",
+          "line": "Lovely."
+        },
+        {
+          "character": "PHLOX",
+          "line": "I could certainly use a device like this. Perhaps the Captain could negotiate a trade of some sort."
+        },
+        {
+          "character": "PHLOX",
+          "line": "The tissue is completely healed. Even the scar is gone. Try standing up. Any pain?"
+        },
+        {
+          "character": "REED",
+          "line": "None."
+        }
+      ],
+      "location": "Sickbay"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "ARCHER",
+          "line": "Come in."
+        },
+        {
+          "character": "T'POL",
+          "line": "Repairs are currently underway on C deck. Work on Launch Bay one is scheduled to begin at twenty two hundred hours."
+        },
+        {
+          "character": "ARCHER",
+          "line": "They even fixed the squeak in the floor. I was starting to wonder if we had a gremlin under the deck plating."
+        },
+        {
+          "character": "ARCHER",
+          "line": "A mythical creature. British pilots used to blame them for problems they couldn't explain."
+        },
+        {
+          "character": "T'POL",
+          "line": "Perhaps I should scan for one."
+        },
+        {
+          "character": "ARCHER",
+          "line": "That won't be necessary. Is Trip happy with how the repairs are going?"
+        },
+        {
+          "character": "T'POL",
+          "line": "He says they're exceeding Starfleet specifications."
+        },
+        {
+          "character": "ARCHER",
+          "line": "That's good to hear. Anything else?"
+        },
+        {
+          "character": "T'POL",
+          "line": "If I may make an observation?"
+        },
+        {
+          "character": "ARCHER",
+          "line": "Go ahead."
+        },
+        {
+          "character": "T'POL",
+          "line": "You seemed troubled."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Guess I need to do a better job at repressing my emotions. These repairs are one hell of a bargain at only two hundred liters of warp plasma, don't you think?"
+        },
+        {
+          "character": "T'POL",
+          "line": "Not every culture is based on the acquisition of wealth. The station's builders could simply have been interested in helping others."
+        },
+        {
+          "character": "ARCHER",
+          "line": "What happened to them? They could have at least left a message. Thanks for stopping by."
+        },
+        {
+          "character": "T'POL",
+          "line": "Perhaps they prefer anonymity."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Don't you find that a little suspicious? I know you don't put a lot of faith in your feelings, but I've learned to trust mine. Something doesn't smell right."
+        }
+      ],
+      "location": "Ready room"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "REED",
+          "line": "Honestly, I started to feel a little sorry for the Doctor. There wasn't anything for him to do but stand there and watch this thing work."
+        },
+        {
+          "character": "TUCKER",
+          "line": "I know how he must have felt. I saw an entire transtator assembly replaced in fifteen minutes. It would have taken my crew a week. With this kind of technology Starfleet could build ships that maintain themselves. They wouldn't need Chief Engineers. Or Tactical Officers."
+        },
+        {
+          "character": "REED",
+          "line": "A starship without a Tactical Officer? I can't say I see the point."
+        },
+        {
+          "character": "TUCKER",
+          "line": "You'd think a computer that can do all this would have to be pretty big. Our computer's the most advanced in the fleet and it's three decks high."
+        },
+        {
+          "character": "REED",
+          "line": "I suppose you're right."
+        },
+        {
+          "character": "TUCKER",
+          "line": "So where is it?"
+        },
+        {
+          "character": "REED",
+          "line": "I don't follow."
+        },
+        {
+          "character": "TUCKER",
+          "line": "I ran a scan of the station a few hours ago. These are the docking berths. We're here. This is the diagnostic room."
+        },
+        {
+          "character": "REED",
+          "line": "Well, that compartment's the only place it could be, but it's barely half the size of this one."
+        },
+        {
+          "character": "TUCKER",
+          "line": "A machine capable of billions of calculations every nanosecond and it can fit inside the proverbial bread box. I'd love to get a look at that."
+        },
+        {
+          "character": "REED",
+          "line": "You could always ask."
+        },
+        {
+          "character": "TUCKER",
+          "line": "I tried. Your inquiry was not recognized."
+        },
+        {
+          "character": "REED",
+          "line": "Well, I guess that's that."
+        },
+        {
+          "character": "TUCKER",
+          "line": "Not necessarily. This cooling duct runs all the way to the center of the station. I saw an access port in one of the corridors."
+        },
+        {
+          "character": "REED",
+          "line": "This computer might not take kindly to people snooping around."
+        },
+        {
+          "character": "TUCKER",
+          "line": "I haven't seen any no trespassing signs. We're explorers. Where's your spirit of adventure?"
+        },
+        {
+          "character": "REED",
+          "line": "I left it in a Romulan minefield."
+        }
+      ],
+      "location": "Station recreation area"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TUCKER",
+          "line": "Almost. Got it."
+        },
+        {
+          "character": "REED",
+          "line": "If the Captain learns about this we'll both be scrubbing plasma conduits for a month."
+        }
+      ],
+      "location": "Station corridor"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TRAVIS",
+          "line": "Mayweather."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Travis, it's the Captain. Would you mind coming down to Launch Bay one?",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "TRAVIS",
+          "line": "I thought that section was off-limits, sir."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Not anymore. I could use a hand, Ensign.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "TRAVIS",
+          "line": "Aye, sir."
+        }
+      ],
+      "location": "Travis's quarters"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "REED",
+          "line": "Are you sure this is the right direction?"
+        }
+      ],
+      "location": "Station ventilation shaft"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TUCKER",
+          "line": "Evening, Sub-Commander."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TRAVIS",
+          "line": "Captain? Hello? Hello?"
+        }
+      ],
+      "location": "Launch Bay one"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "ARCHER",
+          "line": "Do you know how stupid that little stunt was? You could just as easily been transported out into space. You're senior officers. You're supposed to be setting an example for the rest of the crew."
+        },
+        {
+          "character": "TUCKER",
+          "line": "It was my idea, sir."
+        },
+        {
+          "character": "ARCHER",
+          "line": "I think Lieutenant Reed is old enough to make his own decisions. You've made it clear to me that you think diskipline aboard Enterprise has gotten a little too lax. I'm beginning to agree with you. You're both restricted to quarters until further notice. Dismissed."
+        },
+        {
+          "character": "TUCKER",
+          "line": "Yes, sir."
+        },
+        {
+          "character": "REED",
+          "line": "Aye, sir."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Hold on. Did you notice anything interesting when you were in there?"
+        },
+        {
+          "character": "TUCKER",
+          "line": "Depends on what you mean by interesting."
+        },
+        {
+          "character": "T'POL",
+          "line": "T'Pol to Captain Archer.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "ARCHER",
+          "line": "Go ahead."
+        },
+        {
+          "character": "T'POL",
+          "line": "You're needed in Launch Bay one immediately.",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "Ready room"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "ARCHER",
+          "line": "What happened?"
+        },
+        {
+          "character": "PHLOX",
+          "line": "He's dead, Captain."
+        },
+        {
+          "character": "PHLOX",
+          "line": "The subcutaneous burns are consistent with an isolytic shock but I can't be certain until I perform a full postmortem. I'll keep you apprised."
+        },
+        {
+          "character": "TUCKER",
+          "line": "It looks like he was trying to tap into the EPS grid when this relay overloaded."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Why the hell would he come down here during his off hours and start tampering with the power systems?"
+        },
+        {
+          "character": "TUCKER",
+          "line": "I don't get it. Travis would have checked with me before doing any maintenance."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Did you notify the crew that this section was off-limits?"
+        },
+        {
+          "character": "T'POL",
+          "line": "Yes."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Well, apparently somebody didn't get the message. What time did he go off duty?"
+        },
+        {
+          "character": "T'POL",
+          "line": "Eighteen hundred hours."
+        },
+        {
+          "character": "TUCKER",
+          "line": "Malcolm and I saw him on the station about a half an hour later. He was having dinner with Hoshi."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Talk to her. See if he said anything to her about this. And go over the comm. logs. I want to know if he talked to anyone else."
+        },
+        {
+          "character": "REED",
+          "line": "It might be a good idea to check his quarters as well."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Post a security detail outside every section that's under repair."
+        },
+        {
+          "character": "REED",
+          "line": "Aye, sir."
+        }
+      ],
+      "location": "Launch Bay one"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "ARCHER",
+          "line": "A member of my crew is dead. We don't know what happened."
+        },
+        {
+          "character": "COMPUTER",
+          "line": "Your inquiry was not recognized."
+        },
+        {
+          "character": "ARCHER",
+          "line": "My helmsman was killed in Launch Bay One. We think it happened while that section was off-limits."
+        },
+        {
+          "character": "COMPUTER",
+          "line": "All personnel are required to vacate areas that are undergoing reconstruction."
+        },
+        {
+          "character": "ARCHER",
+          "line": "We're aware of that. You must have some kind of record of what happened."
+        },
+        {
+          "character": "COMPUTER",
+          "line": "All personnel are required to vacate areas that are undergoing reconstruction."
+        },
+        {
+          "character": "ARCHER",
+          "line": "I need to talk to a person. Someone who can access your database and tell me what happened."
+        },
+        {
+          "character": "COMPUTER",
+          "line": "Your inquiry was not recognized."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Who built this station? What species?"
+        },
+        {
+          "character": "COMPUTER",
+          "line": "Your inquiry was not recognized."
+        },
+        {
+          "character": "ARCHER",
+          "line": "What species?"
+        },
+        {
+          "character": "COMPUTER",
+          "line": "Any damage to these facilities will be charged to your vessel."
+        }
+      ],
+      "location": "Station diagnostic room"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "PHLOX",
+          "line": "Computer, begin recording. Subject's name, Ensign Travis Mayweather. Human male. Weight, seventy two kilograms. Age, twenty six Earth years. Far too young to be on this table. Cellular decay suggests that death occurred at approximately twenty three thirty hours. Preliminary cause of death, ventricular fibrillation induced by an isolytic shock. The vascular system appears to have functioned as a conduit for the diskharge. The musculature shows extensive necrosis along the conductive pathway. There are subcutaneous burns over approximately twelve percent of the body. The right phalanges and metacarpus exhibit signs of multiple thermal fractures. Computer, pause. Ensign? This is not an ideal time."
+        },
+        {
+          "character": "HOSHI",
+          "line": "I wanted to say goodbye."
+        },
+        {
+          "character": "PHLOX",
+          "line": "You may find this disturbing."
+        },
+        {
+          "character": "HOSHI",
+          "line": "I've seen a body before. Fifteen of them on that alien ship."
+        },
+        {
+          "character": "PHLOX",
+          "line": "It's different when it's someone you know personally."
+        },
+        {
+          "character": "HOSHI",
+          "line": "I was hoping it was another one of his practical jokes. Travis called me down to decon a few weeks ago. He said that he brought some kind of gelatinous lifeform aboard. He said it might be sentient, that the Captain needed me to figure out how to communicate with it."
+        },
+        {
+          "character": "PHLOX",
+          "line": "I don't recall that."
+        },
+        {
+          "character": "HOSHI",
+          "line": "There was no lifeform. It was only strawberry gelatine. I told him I was going to get him back. I'm sorry."
+        },
+        {
+          "character": "PHLOX",
+          "line": "It might comfort you to know he felt very little pain. An isolytic shock instantly impairs the nervous. That's odd."
+        },
+        {
+          "character": "HOSHI",
+          "line": "What?"
+        },
+        {
+          "character": "PHLOX",
+          "line": "They're dead. All of them. Excuse me, Ensign."
+        }
+      ],
+      "location": "Sickbay"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "ARCHER",
+          "line": "Anything?"
+        },
+        {
+          "character": "REED",
+          "line": "No. It doesn't look like Travis used the comm. system last night. Crewman Hayes says she passed him on his way to the launch bay but they didn't speak. She said he seemed to be in quite a hurry."
+        },
+        {
+          "character": "ARCHER",
+          "line": "What's this?"
+        },
+        {
+          "character": "REED",
+          "line": "It's a letter to his sister. It was on the monitor when I came in. I'm afraid there isn't much here. He mentions something about canceling breakfast with him."
+        },
+        {
+          "character": "ARCHER",
+          "line": "That was last week. I had to postpone it. Have we been able to locate his parents?"
+        },
+        {
+          "character": "REED",
+          "line": "Sub-Commander T'Pol's working on it, but it could take some time. Cargo ships aren't always easy to track down."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Archer."
+        },
+        {
+          "character": "PHLOX",
+          "line": "It's Doctor Phlox, Captain. I need to see you right away.",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "Travis's quarters"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "ARCHER",
+          "line": "Did you find something?"
+        },
+        {
+          "character": "PHLOX",
+          "line": "As a matter of fact, I did. This is not Ensign Mayweather."
+        },
+        {
+          "character": "ARCHER",
+          "line": "What?"
+        },
+        {
+          "character": "PHLOX",
+          "line": "It's a nearly perfect replica. I've never seen a lifeform duplicated in such extraordinary detail, from its epidermis down to its cellular proteins. This is remarkable work."
+        },
+        {
+          "character": "ARCHER",
+          "line": "If it's so perfect, how do you know it's not him?"
+        },
+        {
+          "character": "PHLOX",
+          "line": "You recall what happened to Crewman Fisher last month after our visit to Tessik Prime?"
+        },
+        {
+          "character": "ARCHER",
+          "line": "He came down with Rigelian fever."
+        },
+        {
+          "character": "PHLOX",
+          "line": "I inoculated the entire crew to prevent an outbreak. Would you mind rolling up your sleeve?"
+        },
+        {
+          "character": "PHLOX",
+          "line": "The vaccine contained millions of genetically altered microbes. Most of them are still in your bloodstream. They typically survive for, oh, at least several weeks."
+        },
+        {
+          "character": "PHLOX",
+          "line": "Every one of the alien microbes in this body is dead."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Couldn't they have been killed by the isolytic shock?"
+        },
+        {
+          "character": "PHLOX",
+          "line": "These microbes thrive on isolytic energy. If anything, they would have multiplied. I believe that someone, or something, has abducted Ensign Mayweather and left this facsimile in his place."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Apparently bulkheads aren't the only thing this station can replicate."
+        },
+        {
+          "character": "PHLOX",
+          "line": "It's ironic, in a way. The station can duplicate a dead human body in all its exquisite detail, yet a living, simple, one-celled organism is beyond its capability."
+        }
+      ],
+      "location": "Sickbay"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "T'POL",
+          "line": "I've located Ensign Mayweather's parents."
+        },
+        {
+          "character": "ARCHER",
+          "line": "You'd better hold off. Their son may still be alive. You and Trip managed to get pretty far inside the station. How close do you think you got to the computer core?"
+        },
+        {
+          "character": "REED",
+          "line": "We were within twenty meters when we tripped the sensors."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Think you could find a way to get past them?"
+        },
+        {
+          "character": "REED",
+          "line": "I believe so."
+        },
+        {
+          "character": "T'POL",
+          "line": "Our repairs will be complete in nineteen minutes. The station's expecting us to depart."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Bridge to Engineering."
+        },
+        {
+          "character": "TUCKER",
+          "line": "Tucker here.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "ARCHER",
+          "line": "Trip,"
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "ARCHER",
+          "line": "Have you prepared our payment?",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "TUCKER",
+          "line": "The canisters are almost ready, sir."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Don't be in such a hurry.",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "Engineering"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TUCKER",
+          "line": "Two hundred liters of warp plasma, as promised."
+        },
+        {
+          "character": "COMPUTER",
+          "line": "Please place your compensation on the transport platform."
+        },
+        {
+          "character": "TUCKER",
+          "line": "Hold on. Hold on. There's a couple of problems we need to diskuss first. Now, I'm not real happy with the quality of some of your work. Are you listening to me?"
+        },
+        {
+          "character": "COMPUTER",
+          "line": "Please place your compensation on the transport platform."
+        },
+        {
+          "character": "TUCKER",
+          "line": "I've looked at the bolt couplings you used to attach the new hull plating. I'm afraid they're not up to Starfleet specs. And the subspace amplifier you repaired? We're picking up distortion on all the high-band frequencies."
+        },
+        {
+          "character": "COMPUTER",
+          "line": "Please place your compensation on the transport platform."
+        },
+        {
+          "character": "TUCKER",
+          "line": "We're not paying until we sort this out."
+        },
+        {
+          "character": "TUCKER",
+          "line": "What guarantee do I have that these duranium pins won't fly out the instant we jump to warp?"
+        },
+        {
+          "character": "COMPUTER",
+          "line": "Your inquiry was not recognized."
+        },
+        {
+          "character": "TUCKER",
+          "line": "On my world, we have an expression. The customer's always right. Maybe you should make that part of your program. I want to know how someone files a grievance around here."
+        }
+      ],
+      "location": "Station diagnostic room"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "REED",
+          "line": "It's there, about five meters ahead."
+        }
+      ],
+      "location": "Station ventilation shaft"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TUCKER",
+          "line": "Sounds like you've got more important things to deal with."
+        }
+      ],
+      "location": "Station diagnostic room"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "COMPUTER",
+          "line": "Incursion detected in primary data core. Vacate this section or your vessel will be compromised."
+        },
+        {
+          "character": "T'POL",
+          "line": "I'm detecting one human biosign."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Are they alive?"
+        },
+        {
+          "character": "T'POL",
+          "line": "Their vital organs appear to be functioning. They've suffered severe neurological damage."
+        },
+        {
+          "character": "COMPUTER",
+          "line": "Incursion detected in primary data core. Vacate this section or your vessel will be compromised."
+        },
+        {
+          "character": "T'POL",
+          "line": "Their synaptic pathways have been reconfigured, integrated into the computer core."
+        },
+        {
+          "character": "COMPUTER",
+          "line": "Incursion detected in primary data core. Vacate this section or your vessel will be compromised."
+        },
+        {
+          "character": "T'POL",
+          "line": "Captain."
+        },
+        {
+          "character": "COMPUTER",
+          "line": "Incursion detected in primary data core. Vacate this section or your vessel will be compromised."
+        }
+      ],
+      "location": "Station data core"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "REED",
+          "line": "Three of the station's arms have just clamped on to the hull."
+        },
+        {
+          "character": "TUCKER",
+          "line": "Polarize the hull plating."
+        },
+        {
+          "character": "REED",
+          "line": "There's no effect."
+        },
+        {
+          "character": "TUCKER",
+          "line": "Stand by weapons."
+        },
+        {
+          "character": "REED",
+          "line": "They're going offline."
+        },
+        {
+          "character": "HOSHI",
+          "line": "The station's tapped in to the ship's umbilical ports. It's overriding our command functions."
+        },
+        {
+          "character": "TUCKER",
+          "line": "Try to lock out the main computer."
+        },
+        {
+          "character": "HOSHI",
+          "line": "I can't. Our access codes have been scrambled."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TRAVIS",
+          "line": "Sir?"
+        },
+        {
+          "character": "ARCHER",
+          "line": "It's okay, Travis. We're taking you home."
+        },
+        {
+          "character": "T'POL",
+          "line": "Right here."
+        }
+      ],
+      "location": "Station data core"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "ARCHER",
+          "line": "Archer to the Bridge."
+        },
+        {
+          "character": "PHLOX",
+          "line": "The comm.'s down."
+        }
+      ],
+      "location": "Corridor"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TUCKER",
+          "line": "Travis?"
+        },
+        {
+          "character": "ARCHER",
+          "line": "On his way to Sickbay. What's our status?"
+        },
+        {
+          "character": "TUCKER",
+          "line": "It's been better. The station's got us by the thrusters."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Impulse engines?"
+        },
+        {
+          "character": "TUCKER",
+          "line": "Offline."
+        },
+        {
+          "character": "REED",
+          "line": "We're losing main power."
+        },
+        {
+          "character": "HOSHI",
+          "line": "Life support's failing."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Malcolm, I think it's time we deliver our payment."
+        },
+        {
+          "character": "REED",
+          "line": "It did some heavy damage, sir. Power levels are dropping, but the plasma hasn't ignited the O2 conduits yet."
+        },
+        {
+          "character": "ARCHER",
+          "line": "It needs to reach three thousand degrees, Malcolm. Be patient."
+        },
+        {
+          "character": "REED",
+          "line": "Yes, sir."
+        },
+        {
+          "character": "REED",
+          "line": "I'm reading secondary explosions throughout the station."
+        },
+        {
+          "character": "T'POL",
+          "line": "Command functions are coming back online."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Engines?"
+        },
+        {
+          "character": "TUCKER",
+          "line": "Impulse and thrusters."
+        },
+        {
+          "character": "REED",
+          "line": "One of those arms is still locked onto the hull."
+        },
+        {
+          "character": "T'POL",
+          "line": "If we don't disengage soon, we'll be incinerated."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Full thrusters."
+        },
+        {
+          "character": "TUCKER",
+          "line": "It's no good. And if I fired up the impulse engines we'd probably tear off half the saucer section."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Can you launch a torpedo?"
+        },
+        {
+          "character": "REED",
+          "line": "At this range, sir, I wouldn't recommend it."
+        },
+        {
+          "character": "ARCHER",
+          "line": "I agree, but I don't think we have much choice."
+        },
+        {
+          "character": "ARCHER",
+          "line": "One more, Lieutenant!"
+        },
+        {
+          "character": "ARCHER",
+          "line": "Get us out of here."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "ARCHER",
+          "line": "You look pretty good for a dead guy. How're you feeling?"
+        },
+        {
+          "character": "TRAVIS",
+          "line": "Much better, sir. Thank you. The doctor told me what happened. I'm not sure I understand."
+        },
+        {
+          "character": "ARCHER",
+          "line": "We're still trying to figure that out for ourselves."
+        },
+        {
+          "character": "PHLOX",
+          "line": "I may be able to shed some light on the subject."
+        },
+        {
+          "character": "PHLOX",
+          "line": "It seems to be some kind of interface designed to convert neural impulses into binary code. Essentially, the station was using your brain to enhance its processing power."
+        },
+        {
+          "character": "TRAVIS",
+          "line": "Why would it do that?"
+        },
+        {
+          "character": "T'POL",
+          "line": "The cerebral cortex is the most sophisticated computer known to exist."
+        },
+        {
+          "character": "TRAVIS",
+          "line": "What about all those other people?"
+        },
+        {
+          "character": "PHLOX",
+          "line": "According to T'Pol's scans most of them had been there for years. The damage to their brains was irreversible. Fortunately, you were removed before any permanent injury occurred."
+        },
+        {
+          "character": "ARCHER",
+          "line": "When can I have my helmsman back?"
+        },
+        {
+          "character": "PHLOX",
+          "line": "I'd like to observe him for another twenty four hours, if you don't mind."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Captain's mess, Friday morning, oh eight hundred. Don't be late."
+        },
+        {
+          "character": "TRAVIS",
+          "line": "Sounds good, sir."
+        }
+      ],
+      "location": "Sickbay"
+    }
+  ],
+  "schedule": {
+    "episode": 5,
+    "number": 31,
+    "season": 2
+  },
+  "stardate": "Unknown",
+  "title": "Dead Stop"
+}

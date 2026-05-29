@@ -1,0 +1,1741 @@
+{
+  "airdate": 831960000,
+  "scenes": [
+    {
+      "dialogue": [
+        {
+          "character": "EMH",
+          "line": "Sickbay to the Captain. This is the Doctor speaking.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "JANEWAY",
+          "line": "You've brought us out of stasis. I assume you have news."
+        }
+      ],
+      "location": "Planet surface"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "EMH",
+          "line": "Yes. Our sensors show your vital signs are normal. How are you feeling?"
+        }
+      ],
+      "location": "Doctor's office"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "JANEWAY",
+          "line": "We're fine. How long were we in stasis?"
+        }
+      ],
+      "location": "Planet surface"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "EMH",
+          "line": "A total of seventeen days."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "That long?",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "EMH",
+          "line": "I wanted to exhaust every possibility of finding a cure."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "And?",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "EMH",
+          "line": "I regret to inform you that I have been unsuccessful."
+        }
+      ],
+      "location": "Doctor's office"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "EMH",
+          "line": "I have not been able to develop a counteragent for the virus, and I have no other options to explore.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "What about keeping us in stasis aboard Voyager?"
+        },
+        {
+          "character": "EMH",
+          "line": "Something in the planet's environment is shielding you from the effects of the virus.",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "Planet surface"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "EMH",
+          "line": "If you leave, you risk a recurrence of the disease, which would undoubtedly prove fatal. The only option I can think of at the moment is contacting the Vidiians. They have sophisticated medical technology. It's possible they might be able to help."
+        }
+      ],
+      "location": "Doctor's office"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "JANEWAY",
+          "line": "We'll take it under advisement, Doctor. Thank you for your efforts. Janeway out. What do you think?"
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "It's risky. The Vidiians have never shown any willingness to help us. It's more likely they'd attack Voyager and try to harvest body parts from the crew."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Agreed. I just want to make sure we're not overlooking a possible alternative."
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "Could we live with ourselves, knowing we sent Voyager into that kind of danger?"
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Janeway to Tuvok."
+        },
+        {
+          "character": "TUVOK",
+          "line": "I'm here, Captain.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "JANEWAY",
+          "line": "You must be aware of the Doctor's report."
+        },
+        {
+          "character": "TUVOK",
+          "line": "Yes."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "I'm turning over command of the ship to you on a permanent"
+        }
+      ],
+      "location": "Planet surface"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "JANEWAY",
+          "line": "Basis. Your orders are to resume a course for the Alpha Quadrant.",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "Ready room"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "JANEWAY",
+          "line": "And regardless of the Doctor's suggestion, you are not to make contact with the Vidiians."
+        }
+      ],
+      "location": "Planet surface"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TUVOK",
+          "line": "I understand."
+        }
+      ],
+      "location": "Ready room"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "JANEWAY",
+          "line": "I'll prepare a message for the crew."
+        }
+      ],
+      "location": "Planet surface"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TORRES",
+          "line": "So we're just going to abandon them on this planet?"
+        },
+        {
+          "character": "TUVOK",
+          "line": "Those were Captain Janeway's express orders."
+        },
+        {
+          "character": "PARIS",
+          "line": "But you're captain now. You can rescind them."
+        },
+        {
+          "character": "TUVOK",
+          "line": "To what end?"
+        },
+        {
+          "character": "TORRES",
+          "line": "I can't believe we haven't been able to find a cure for an insect bite."
+        },
+        {
+          "character": "KES",
+          "line": "The Doctor hasn't deactivated himself for a month. He's tried everything. He searched every database, attempted the most drastic research. You can't fault him."
+        },
+        {
+          "character": "NEELIX",
+          "line": "I can tell you, the morale of the crew is going to suffer if we leave them behind."
+        },
+        {
+          "character": "TUVOK",
+          "line": "Not if, Mister Neelix. When we leave them behind. The decision has been made. We will of course, provide them with everything they'll need for their survival and comfort. I am arranging for a modular shelter to be transported to the surface. They'll have all the technology they need. Weapons, tricorders, a replicator."
+        },
+        {
+          "character": "TORRES",
+          "line": "You talk as though it were a camping trip. They have to spend the rest of their lives down there."
+        },
+        {
+          "character": "TUVOK",
+          "line": "That is not a certainty. Captain Janeway intends to continue researching the virus. She is an able scientist, and may eventually be able to effect a cure. They have a type nine shuttlecraft at their disposal if it becomes possible for them to leave the planet."
+        },
+        {
+          "character": "PARIS",
+          "line": "Type nine shuttlecraft has a top speed of warp four. It won't take them more than, oh, about seven hundred years to get home."
+        },
+        {
+          "character": "TUVOK",
+          "line": "I'm not certain what it is you expect me to do, Lieutenant."
+        },
+        {
+          "character": "PARIS",
+          "line": "I guess clearly something you can't do, which is to feel as rotten about this as we do."
+        },
+        {
+          "character": "TUVOK",
+          "line": "You are correct that I am unable to experience that emotion. And frankly, I fail to see what the benefit would be. If there is nothing more, you are all dismissed."
+        }
+      ],
+      "location": "Briefing room"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "JANEWAY",
+          "line": "Janeway to Tuvok.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "TUVOK",
+          "line": "Yes, Captain."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "We've received the transport. We'll check it over and let you know if we're missing anything.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "TUVOK",
+          "line": "I will remain in orbit until I hear from you. And after that, we can still remain in communication for approximately thirty six hours."
+        }
+      ],
+      "location": "Ready room"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "JANEWAY",
+          "line": "I'll contact you before the day is over. Janeway out."
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "It looks like they transported the contents of the whole ship."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "We may have to be here for a while. Petri dishes, protein analyzer, DNA sequencers. Everything I need for my research is here."
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "Do you really think you can find a cure?"
+        },
+        {
+          "character": "JANEWAY",
+          "line": "It may take a while but yes I do. If I can find a specimen of the insect that infected us, I can begin analyzing protein cofactors. That might give us the information we need to find out what it is in this environment that's keeping us from being sick and how to replicate it."
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "Does it matter which way these things go?"
+        },
+        {
+          "character": "JANEWAY",
+          "line": "I guess it depends whether you're in a beige mood or a gray mood."
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "That's not much of a choice. Couldn't Starfleet have come up with something a little more cheerful?"
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Like polka dots?"
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "I was thinking more of a tasteful pinstripe, something in blues and greens. Well, I suggest we put the gray on the outside and the beige inside."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "I like that. I've always looked better in beige. Actually, it might be kind of interesting, roughing it for a while."
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "Roughing it? Let's see, we have shelter, furniture, research equipment, tricorders, a replicator. It's too rough for me."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "We don't have a bathtub."
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "A bathtub?"
+        },
+        {
+          "character": "JANEWAY",
+          "line": "I love a bath. It's my favorite way of relaxing."
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "Captain, I'm sure you can learn to love the sonic shower."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "You know, Chakotay, it occurs to me, we aren't exactly in a command structure anymore. Maybe you should call me Kathryn."
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "Give me a few days on that one, okay?"
+        }
+      ],
+      "location": "Planet surface"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TORRES",
+          "line": "This diagnostic report looks like it was written by a first-year Academy cadet. There are mistakes. It's incomplete."
+        },
+        {
+          "character": "SWINN",
+          "line": "I'm sorry, Lieutenant. I guess I've been distracted."
+        },
+        {
+          "character": "TORRES",
+          "line": "We've all been distracted, Ensign. That's no excuse."
+        },
+        {
+          "character": "SWINN",
+          "line": "Yes, ma'am."
+        },
+        {
+          "character": "TORRES",
+          "line": "I can't get anything done here. Nobody can concentrate."
+        },
+        {
+          "character": "KIM",
+          "line": "I know how they feel."
+        },
+        {
+          "character": "TORRES",
+          "line": "I'm not feeling so terrific myself, but I don't let that get in the way of my work."
+        },
+        {
+          "character": "KIM",
+          "line": "B'Elanna, I've been talking with some of the Starfleet crew. They're not happy about what happened. I was wondering, how are the Maquis taking it?"
+        },
+        {
+          "character": "TORRES",
+          "line": "How do you think they're taking it? This isn't a Starfleet issue, Harry. It's affecting everyone."
+        },
+        {
+          "character": "KIM",
+          "line": "Then why don't we do something about it?"
+        },
+        {
+          "character": "TORRES",
+          "line": "Do what?"
+        },
+        {
+          "character": "KIM",
+          "line": "I don't know. It seems like we shouldn't just accept this."
+        },
+        {
+          "character": "TORRES",
+          "line": "Well, that's all well and good, but frankly, I can't think of anything else we can do. If you have any ideas, I'll listen. Otherwise, I think we should take a deep breath and move on."
+        }
+      ],
+      "location": "Engineering"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "CHAKOTAY",
+          "line": "Catch anything?"
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Just the same ones as yesterday, and they don't seem to carry the pathogen that's infected us. Where have you been?"
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "Oh, in the woods."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "For the past two days, you've been spending a lot of time in the woods. Is something going on I should know about?"
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "Not yet."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Not yet? What's that supposed to mean?"
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "It means when it's time for you to know, I'll tell you."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Don't I even get hints?"
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "I'm building something."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Building. What could you be building? And why can't you tell me?"
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "You can't stand it, can you? You're like a little kid wheedling."
+        },
+        {
+          "character": "TUVOK",
+          "line": "Tuvok to Janeway.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Janeway here."
+        },
+        {
+          "character": "TUVOK",
+          "line": "We're about to move out of communications range. How are you faring?",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "JANEWAY",
+          "line": "We're doing quite well. I'd like to speak to the crew now."
+        },
+        {
+          "character": "TUVOK",
+          "line": "Your comm. link has been put through to the entire ship.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "JANEWAY",
+          "line": "This is Kathryn Janeway. I've never liked saying good bye, so I'll make this brief, but I want you all to know that serving as your captain has been the most extraordinary experience of my life."
+        }
+      ],
+      "location": "Planet surface"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "JANEWAY",
+          "line": "No captain could ask more than what this crew has given. Bravery, compassion and strength of character. But I think what I'll miss most is the fun. The times we joked together, the games on the holodeck. I'll remember the laughter more than anything. Although Commander Chakotay and I won't be with you for the rest of your journey, we know that you'll be the same steadfast crew for Mister Tuvok as you have been for us. We wish you a safe and a speedy journey home. Our thoughts will be with you.",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "Voyager"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "JANEWAY",
+          "line": "Janeway out."
+        },
+        {
+          "character": "TUVOK",
+          "line": "Thank you, Captain, Commander. I am sure I speak for the entire crew when I say we will always remember your grace and courage. And I would like to add, it has been an honor serving with you. Live long and prosper. Kathryn Janeway's personal log, Stardate 49690.1. Day twenty four of our stay on the planet we've named New Earth. As yet I've been unable to make any progress in finding a cure for our illness, but a soak in the tub Chakotay built always helps me focus on possible solutions.",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "Planet surface"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "JANEWAY",
+          "line": "Chakotay, are you there?"
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "No, I left an hour ago.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "JANEWAY",
+          "line": "I was thinking. Maybe looking for protein cofactors is the wrong approach. Even if I can't find a specimen of the insect that infected us, I could try to learn something about the bio-molecular evolution of this planet's ecozystem."
+        }
+      ],
+      "location": "Outside the shelter"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "CHAKOTAY",
+          "line": "Can't hurt to give it a try."
+        }
+      ],
+      "location": "Shelter"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "JANEWAY",
+          "line": "Chakotay!"
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "What?",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Someone's in the woods!"
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Over there. It looks like some kind of primate."
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "I've detected primate life signs here, but I've never seen one."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Hello. Are you hungry? Is that why you came here? I'm Kathryn, he's Chakotay. We've had to move into your neighborhood, but I hope we can be friends."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Maybe he'll come back."
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "Looking for a pet?"
+        },
+        {
+          "character": "JANEWAY",
+          "line": "No. Looking for a clue about primate physiology on this planet. They must have to contend with insect bites too."
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "Well, excuse me."
+        }
+      ],
+      "location": "Outside the shelter"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "JANEWAY",
+          "line": "Maybe we should be out looking for other primates. I might be missing something important."
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "Kathryn, the Doctor worked for weeks trying to find a treatment for this disease."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Yes?"
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "You've been at it twelve hours a day, seven days a week since we got here, and we're still no closer to a cure than we were the day we were infected."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "I'm not sure what you're getting at."
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "My people have a saying. Even the eagle must know when to sleep. Maybe it's time we both considered that."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "You mean quit, give up?"
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "Why do you have to see it as defeat? Maybe it's simply accepting what life has dealt us, finding the good in it."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "There may be a day when I'll come to that, Chakotay, but, I'm a long way from it right now. I need to keep looking. Acting"
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Captain's log, supplemental. After six weeks, the decision to leave Captain Janeway and the First Officer behind still seems to weigh heavily on the crew.",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "Shelter"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "KIM",
+          "line": "Captain Tuvok?"
+        },
+        {
+          "character": "TUVOK",
+          "line": "Yes, Ensign?"
+        },
+        {
+          "character": "KIM",
+          "line": "I'm picking up a convoy on long-range sensors. It's Vidiian, sir."
+        },
+        {
+          "character": "TUVOK",
+          "line": "Distance?"
+        },
+        {
+          "character": "KIM",
+          "line": "Approximately one point five light years."
+        },
+        {
+          "character": "TUVOK",
+          "line": "Lieutenant, alter course to a different heading. I don't want to risk their detecting us."
+        },
+        {
+          "character": "KIM",
+          "line": "Sir, the Vidiians."
+        },
+        {
+          "character": "TUVOK",
+          "line": "Yes?"
+        },
+        {
+          "character": "KIM",
+          "line": "They're within hailing range. We could ask them if they know anything about the Captain's illness."
+        },
+        {
+          "character": "TUVOK",
+          "line": "You're aware that Captain Janeway specifically told us not to risk contacting the Vidiians."
+        },
+        {
+          "character": "KIM",
+          "line": "Yes, but it's not like we went out of our way to find them. We would just be taking advantage of an opportunity that's presented itself."
+        },
+        {
+          "character": "TUVOK",
+          "line": "That bit of sophistry is not terribly persuasive, Ensign."
+        },
+        {
+          "character": "KIM",
+          "line": "Sir, how can we turn our backs on this chance to do something? Don't we have to try? Don't we owe that to the Captain and the Commander?"
+        },
+        {
+          "character": "TUVOK",
+          "line": "The matter is closed, Ensign. Return to your station."
+        },
+        {
+          "character": "KIM",
+          "line": "What's wrong with the rest of you? You know I'm right."
+        },
+        {
+          "character": "TUVOK",
+          "line": "Ensign Kim."
+        },
+        {
+          "character": "KIM",
+          "line": "We have a chance to help them. How can we ignore that?"
+        },
+        {
+          "character": "TUVOK",
+          "line": "Ensign, you are relieved of duty. Leave the Bridge at once or I will have you put in the brig."
+        },
+        {
+          "character": "PARIS",
+          "line": "Harry."
+        },
+        {
+          "character": "TUVOK",
+          "line": "Proceed on the altered course, Lieutenant."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "HOGAN",
+          "line": "Excuse me. Ensign Kim, could we?"
+        },
+        {
+          "character": "KIM",
+          "line": "Sure. Have a seat."
+        },
+        {
+          "character": "SWINN",
+          "line": "We just wanted you to know we heard what happened on the Bridge."
+        },
+        {
+          "character": "HOGAN",
+          "line": "And we think you're absolutely right. We've got to contact the Vidiians."
+        },
+        {
+          "character": "SWINN",
+          "line": "It's a risk, but it's worth it."
+        },
+        {
+          "character": "KIM",
+          "line": "That's what I think, but Captain Tuvok's made his decision. Two ensigns and a crewman won't change his mind."
+        },
+        {
+          "character": "HOGAN",
+          "line": "There are a lot more who agree with us."
+        },
+        {
+          "character": "SWINN",
+          "line": "A lot."
+        },
+        {
+          "character": "KIM",
+          "line": "Really."
+        },
+        {
+          "character": "HOGAN",
+          "line": "Everyone we talk to can't believe that Tuvok won't give this a try."
+        },
+        {
+          "character": "KIM",
+          "line": "Come on."
+        },
+        {
+          "character": "KIM",
+          "line": "Did you hear what happened this morning?"
+        },
+        {
+          "character": "TORRES",
+          "line": "Sure did."
+        },
+        {
+          "character": "KIM",
+          "line": "Three weeks ago, you said if I had an idea about what to do, you'd listen."
+        },
+        {
+          "character": "TORRES",
+          "line": "I'm listening."
+        },
+        {
+          "character": "NEELIX",
+          "line": "Is there something going on that I should know about?"
+        },
+        {
+          "character": "KIM",
+          "line": "Have a seat, Neelix. We might have come up with the biggest morale booster you could possibly imagine."
+        }
+      ],
+      "location": "Mess hall"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TUVOK",
+          "line": "Come in."
+        },
+        {
+          "character": "KIM",
+          "line": "Can I have a moment, sir?"
+        },
+        {
+          "character": "TUVOK",
+          "line": "It's zero one hundred hours, Ensign. Don't you have the early shift this morning?"
+        },
+        {
+          "character": "KIM",
+          "line": "Yes, sir, but this is important."
+        },
+        {
+          "character": "TUVOK",
+          "line": "Very well."
+        },
+        {
+          "character": "KIM",
+          "line": "First of all, I want to apologize for my behavior yesterday."
+        },
+        {
+          "character": "TUVOK",
+          "line": "Apology accepted. I understand that this is a difficult situation for you."
+        },
+        {
+          "character": "KIM",
+          "line": "I'd like to suggest a plan. It's something a lot of people have helped to develop. We have two big bargaining points when it comes to dealing with the Vidiians. First, there's the woman Doc treated, Denara Pel. They were very close, so I'm sure she'd help us if she could. And then there's B'Elanna. Her DNA might lead to a cure for the phage. We could offer them some, in exchange for their help with a cure for the Captain and Chakotay."
+        },
+        {
+          "character": "TUVOK",
+          "line": "Those are, as you say, points in our favor. But there is also the fact that we were recently responsible for the destruction of a Vidiian ship, an act which killed over three hundred of their people. That alone makes it unwise for us to contact them."
+        },
+        {
+          "character": "KIM",
+          "line": "Sir, I think you should know how many people on this ship disagree with you. Everyone I talk to thinks we should give this a try."
+        },
+        {
+          "character": "TUVOK",
+          "line": "The people you talk to do not have the responsibility of commanding this vessel. I do. The safety of this crew is paramount, and I must do whatever I can to ensure that safety."
+        },
+        {
+          "character": "KIM",
+          "line": "But if we're willing to take that risk in order to help the Captain"
+        },
+        {
+          "character": "TUVOK",
+          "line": "Ensign, I'm going to say this once and once only. If you ever question my orders again, you will be relieved of duty permanently. The next words I expect to hear from you are yes sir."
+        },
+        {
+          "character": "KIM",
+          "line": "Yes, sir."
+        }
+      ],
+      "location": "Tuvok's quarters"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "JANEWAY",
+          "line": "I'm going to check the insect traps in beta four. What are you up to now?"
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "Making headboards."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Headboards?"
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "I've noticed you sometimes sit up in your bed to read. I figured you might as well have a comfortable backrest."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "That's very thoughtful of you, Chakotay. You've done so many things to make our lives easier here. The cooking, for example. I hate to cook."
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "But what I do makes you uncomfortable, doesn't it? Every time I do something that adds a personal touch to the shelter, you resist it."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Sometimes it feels as though you've given up, that you're focused on making a home here instead of finding a cure that will let us leave."
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "I can't sacrifice the present waiting for a future that may never happen. The reality of this situation is that we may never leave here. So, yes, I'm trying to make a home. Something that's more than a plain, gray box."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Someday I may have to let go. But not today, okay? I've tried a new glucose bait in the traps. I have a feeling this might be the day I make a breakthrough."
+        }
+      ],
+      "location": "Outside the shelter"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "JANEWAY",
+          "line": "Hello? Chakotay?"
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Hello again. Well, you certainly cover a lot of territory. Or are you following me? Do you understand me?"
+        },
+        {
+          "character": "JANEWAY",
+          "line": "There. Know what that is? That little insect just might be what gets me out of your backyard. What do you think of that, huh?"
+        },
+        {
+          "character": "JANEWAY",
+          "line": "What is it? What's happened to the sky? If you're suggesting I should get out of here, I agree."
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "Kathryn! Kathryn. Are you hurt?"
+        },
+        {
+          "character": "JANEWAY",
+          "line": "No. I couldn't keep my balance and carry the case."
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "Give it to me."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "What's happening?"
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "It seems to be some kind of plasma storm. Our tricorders don't recognize it, but it sure packs a wallop!"
+        }
+      ],
+      "location": "Woods"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TUVOK",
+          "line": "Come in."
+        },
+        {
+          "character": "KES",
+          "line": "Do you have a moment?"
+        },
+        {
+          "character": "TUVOK",
+          "line": "Of course. Please sit down."
+        },
+        {
+          "character": "KES",
+          "line": "I'd like to talk to you about my father."
+        },
+        {
+          "character": "TUVOK",
+          "line": "Your father?"
+        },
+        {
+          "character": "KES",
+          "line": "He was a very wise man. More than anyone, he shaped the person I am. If it hadn't been for him I would have never questioned my people's beliefs. I would have never left our city. I would never have met all of you."
+        },
+        {
+          "character": "TUVOK",
+          "line": "Then we owe him a debt. It is difficult to imagine this journey without you."
+        },
+        {
+          "character": "KES",
+          "line": "When he died, I had just turned one year old. I didn't know how I'd get through the rest of my life without him. But then I started working with you and I didn't miss him so much anymore."
+        },
+        {
+          "character": "TUVOK",
+          "line": "I am honored by the comparison."
+        },
+        {
+          "character": "KES",
+          "line": "As Captain, the well-being of your crew is important to you."
+        },
+        {
+          "character": "TUVOK",
+          "line": "Of course."
+        },
+        {
+          "character": "KES",
+          "line": "Their emotional well-being as well as their physical safety?"
+        },
+        {
+          "character": "TUVOK",
+          "line": "I cannot allow myself to become hostage to their feelings."
+        },
+        {
+          "character": "KES",
+          "line": "Tuvok, they are suffering because of this. Maybe you don't know what it's like."
+        },
+        {
+          "character": "TUVOK",
+          "line": "If you are suggesting that I am not sensitive to the situation, nothing could be further from the truth. I have lost a valued friend. I am not immune to the effects of that loss."
+        },
+        {
+          "character": "KES",
+          "line": "Then try to imagine what it's like for those of us who feel things deeply. A lot of the crew are on the Bridge hoping you'll talk to them."
+        }
+      ],
+      "location": "Ready room"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TUVOK",
+          "line": "None of you can appreciate what it means to be in command of a ship until that responsibility rests squarely on your shoulders, as it does on mine. It has been suggested that I take an action which would require me to disobey an order, and knowingly put this crew into a life threatening situation. In general, I believe it demonstrates faulty leadership to be guided by the emotions of a distraught crew. However, as Captain, I must not ignore the sensibilities of those I command. We will contact the Vidiians. This is my decision and mine alone. You are all absolved of responsibility in the matter. I will accept any consequences which may ensue. Lieutenant, set a course for the Vidiian convoy. Mister Kim, let me know when we're within hailing range."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "JANEWAY",
+          "line": "Oh, no!"
+        }
+      ],
+      "location": "Shelter"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "CHAKOTAY",
+          "line": "Let's check outside. Maybe some of the insect traps are still intact.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "JANEWAY",
+          "line": "None of this is salvageable either. There's no way I can continue to do my research."
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "I'm sorry."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Well, that's one way of letting go. Captain's log, Stardate 49694.2. We have contacted the Vidiian convoy with encouraging results. They have promised to communicate with Doctor Denara Pel and ask if she will help us."
+        }
+      ],
+      "location": "Outside the shelter"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "KIM",
+          "line": "Sir, the Vidiians are hailing us."
+        },
+        {
+          "character": "TUVOK",
+          "line": "On screen."
+        },
+        {
+          "character": "DENARA",
+          "line": "Hello, Lieutenant.",
+          "modifier": "screen"
+        },
+        {
+          "character": "TUVOK",
+          "line": "Dr. Pel. I didn't expect to see you this quickly."
+        },
+        {
+          "character": "DENARA",
+          "line": "When I heard what happened, I boarded the first ship I could. Tell me about this illness.",
+          "modifier": "screen"
+        },
+        {
+          "character": "TUVOK",
+          "line": "They were infected by a virus after being bitten by insects on a planet approximately seventy light years from here, in a system with a yellow dwarf star."
+        },
+        {
+          "character": "DENARA",
+          "line": "The third planet in a system of seven?",
+          "modifier": "screen"
+        },
+        {
+          "character": "TUVOK",
+          "line": "Yes."
+        },
+        {
+          "character": "DENARA",
+          "line": "I know it well. There's a particular kind of burrowing insect that carries the disease. Years ago, we developed an anti-viral agent to combat it.",
+          "modifier": "screen"
+        },
+        {
+          "character": "TUVOK",
+          "line": "Can we get some from you?"
+        },
+        {
+          "character": "DENARA",
+          "line": "Of course. Our captain said we could rendezvous with you. He's transmitted the coordinates.",
+          "modifier": "screen"
+        },
+        {
+          "character": "KIM",
+          "line": "I have them, sir."
+        },
+        {
+          "character": "TUVOK",
+          "line": "Thank you, Doctor. We appreciate your help."
+        },
+        {
+          "character": "DENARA",
+          "line": "I'm glad I can be of assistance.",
+          "modifier": "screen"
+        },
+        {
+          "character": "TUVOK",
+          "line": "Estimated time to the coordinates?"
+        },
+        {
+          "character": "KIM",
+          "line": "Approximately twenty hours."
+        },
+        {
+          "character": "TUVOK",
+          "line": "Until then, I want a series of battle drills. We must be ready for whatever comes."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "CHAKOTAY",
+          "line": "I've been thinking. There's plenty of wood available here. I could probably add rooms to the shelter, give us a little more living space."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "How would you mill it?"
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "I could do a certain amount with a phaser, but I was actually thinking of logs."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "As in log cabin?"
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "I built a few of them when I was growing up. My father thought it was important that I learn how."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "When I was young, my parents took us on backpacking trips. They thought we should all keep a connection to our pioneer roots. I hated it. No bed, no replicator."
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "No bathtub."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "No bathtub. I guess I was always a child of the twenty fourth century."
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "Well, maybe those camping trips helped prepare you for life here."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Oh, no. Life here is much better than that."
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "I think that's the first time I've heard you say anything positive about being here."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Well, hello there. I haven't seen you in a while. Where have you been?"
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "Do you expect him to answer you?"
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Not really. I just sense intelligence in him, and I could swear he came to warn me about the plasma storm. Come here, fellow. Come on."
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "I doubt that he can be domesticated, at least not very easily."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Well, we have plenty of time. The rest of our lives."
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "That's a long time. At least I hope so."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Well, I can't give you orders anymore but I suggest we get back to work."
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "Aye, aye, Captain."
+        }
+      ],
+      "location": "Outside the shelter"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "JANEWAY",
+          "line": "I guess I'm not used to that kind of work. My knots are getting knots."
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "Here, let me help."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Oh, that feels good."
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "I've had a lot of practice at this. My mother used to get sore necks all the time. I was the only one she'd trust not to make it worse."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "That's much better. Thank you. Well, I'm going to go to bed now. I'll see you in the morning."
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "Sleep well, Kathryn."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Yes. You too."
+        }
+      ],
+      "location": "Shelter"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "KIM",
+          "line": "Got something. Vidiian ship, bearing three two five mark five."
+        },
+        {
+          "character": "TUVOK",
+          "line": "Hail them."
+        },
+        {
+          "character": "KIM",
+          "line": "They aren't responding. Trying on alternating frequencies."
+        },
+        {
+          "character": "PARIS",
+          "line": "I'm reading a second ship, one seven seven mark five."
+        },
+        {
+          "character": "KIM",
+          "line": "I've got it. Now a third."
+        },
+        {
+          "character": "PARIS",
+          "line": "They're surrounding us!"
+        },
+        {
+          "character": "KIM",
+          "line": "None of them are answering hails and their weapons are powered."
+        },
+        {
+          "character": "TUVOK",
+          "line": "Red alert."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "JANEWAY",
+          "line": "We have to talk about this."
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "All right."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "I think we need to define some parameters about us."
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "I'm not sure I can define parameters. But I can tell you a story, an ancient legend among my people. It's about an angry warrior who lived his life in conflict with the rest of his tribe, a man who couldn't find peace, even with the help of his spirit guide. For years, he struggled with his diskontent. But the only satisfaction he ever got came when he was in battle. This made him a hero among his tribe, but the warrior still longed for peace within himself. One day he and his war party were captured by a neighboring tribe led by a woman warrior. She called on him to join her because her tribe was too small and weak to defend itself from all its enemies. The woman warrior was brave and beautiful and very wise. The angry warrior swore to himself that he would stay by her side, doing whatever he could to make her burden lighter. From that point on, her needs would come first. And in that way, the warrior began to know the true meaning of peace."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Is that really an ancient legend?"
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "No. But that made it easier to say."
+        }
+      ],
+      "location": "Shelter"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "KIM",
+          "line": "Shields down to fifty eight percent."
+        },
+        {
+          "character": "TUVOK",
+          "line": "Rearm the forward phaser array and fire at will."
+        },
+        {
+          "character": "KIM",
+          "line": "Firing."
+        },
+        {
+          "character": "PARIS",
+          "line": "Shields down to forty seven percent. Sir, there're just too many of them."
+        },
+        {
+          "character": "TUVOK",
+          "line": "Load aft torpedo bays."
+        },
+        {
+          "character": "KIM",
+          "line": "Torpedoes armed."
+        },
+        {
+          "character": "TUVOK",
+          "line": "Fire number one. Report."
+        },
+        {
+          "character": "PARIS",
+          "line": "They're still coming."
+        },
+        {
+          "character": "TUVOK",
+          "line": "Fire number two. Tuvok to Engineering."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TORRES",
+          "line": "Torres here, sir."
+        },
+        {
+          "character": "TUVOK",
+          "line": "Listen carefully.",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "Engineering"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "KES",
+          "line": "She has a broken arm."
+        },
+        {
+          "character": "EMH",
+          "line": "Set it with the osteogenic stimulator."
+        },
+        {
+          "character": "KES",
+          "line": "I think there's someone on the monitor. This way."
+        },
+        {
+          "character": "EMH",
+          "line": "Odd. Why wouldn't they just use the comm. line? I don't think this is coming from our ship."
+        },
+        {
+          "character": "DENARA",
+          "line": "Shmullus. Shmullus, can you hear me?",
+          "modifier": "screen"
+        },
+        {
+          "character": "EMH",
+          "line": "Denara!"
+        },
+        {
+          "character": "DENARA",
+          "line": "Shmullus, I have to do this quickly. I'm on one of the Vidiian ships.",
+          "modifier": "screen"
+        },
+        {
+          "character": "EMH",
+          "line": "Do they know you're contacting me? Are you in any danger?"
+        },
+        {
+          "character": "DENARA",
+          "line": "No. Everyone's too focused on the battle. Oh, Shmullus, I swear I didn't know they planned to attack. I thought we were on an errand of mercy.",
+          "modifier": "screen"
+        },
+        {
+          "character": "EMH",
+          "line": "I believe you."
+        },
+        {
+          "character": "DENARA",
+          "line": "I have the anti-viral serum here. If you can use your transporter to get it to your ship.",
+          "modifier": "screen"
+        },
+        {
+          "character": "EMH",
+          "line": "Our shields are up. We can't transport anything through them."
+        },
+        {
+          "character": "DENARA",
+          "line": "I don't know what else to suggest.",
+          "modifier": "screen"
+        },
+        {
+          "character": "EMH",
+          "line": "All right. I'll see what I can do."
+        },
+        {
+          "character": "KES",
+          "line": "Maybe we can lower the shields long enough to transport the serum."
+        },
+        {
+          "character": "EMH",
+          "line": "Sickbay to Bridge."
+        }
+      ],
+      "location": "Sickbay"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TUVOK",
+          "line": "This is Tuvok. We're rather busy here, Doctor."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "EMH",
+          "line": "Doctor Pel is on one of the Vidiian ships."
+        }
+      ],
+      "location": "Sickbay"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "EMH",
+          "line": "If we can drop our shields briefly, we can beam aboard the serum.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "TUVOK",
+          "line": "Keep this comm. line open, Doctor. When you hear me order the shields down, you must complete a site-to-site transport yourself. We will be busy with the Vidiians."
+        },
+        {
+          "character": "EMH",
+          "line": "Understood.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "TUVOK",
+          "line": "Bridge to Engineering."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TUVOK",
+          "line": "Report.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "TORRES",
+          "line": "We're ready to eject the antimatter container."
+        }
+      ],
+      "location": "Engineering"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TUVOK",
+          "line": "Stand by for my command. Here is the sequence of events. We will drop shields to transport the medicine. At the same moment, the antimatter container will be ejected. As soon as it's clear, Mister Kim will detonate it with a photon torpedo. Simultaneously, Mister Paris will jump to full impulse so that we will not take the brunt of the explosion. Is everyone clear on this? Timing is of the utmost importance. We won't get a second chance."
+        },
+        {
+          "character": "PARIS",
+          "line": "Understood."
+        },
+        {
+          "character": "KIM",
+          "line": "Aye, sir."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TORRES",
+          "line": "We're ready down here."
+        }
+      ],
+      "location": "Engineering"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TUVOK",
+          "line": "Doctor?"
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "EMH",
+          "line": "I've set up to make the transport."
+        }
+      ],
+      "location": "Sickbay"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TUVOK",
+          "line": "Stand ready then. Lower shields."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "EMH",
+          "line": "Initiating transport."
+        }
+      ],
+      "location": "Sickbay"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TORRES",
+          "line": "Ejecting the antimatter container now."
+        }
+      ],
+      "location": "Engineering"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "EMH",
+          "line": "We've got it. Raise shields."
+        }
+      ],
+      "location": "Sickbay"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TUVOK",
+          "line": "Mister Kim, Mister Paris, go."
+        },
+        {
+          "character": "KIM",
+          "line": "Firing torpedo."
+        },
+        {
+          "character": "TUVOK",
+          "line": "Report."
+        },
+        {
+          "character": "KIM",
+          "line": "The Vidiian ships are all disabled, sir. They're not pursuing."
+        },
+        {
+          "character": "PARIS",
+          "line": "Ready to go to warp, sir."
+        },
+        {
+          "character": "TUVOK",
+          "line": "Set a course for the planet where we left the Captain and Commander Chakotay. Warp six."
+        },
+        {
+          "character": "PARIS",
+          "line": "Aye, aye, sir."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "CHAKOTAY",
+          "line": "How are they coming?"
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Very nicely. We should have vine-ripened Talaxian tomatoes in a couple of months, unless this planet has the equivalent of tomato bugs. Oh, they're awful."
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "I would never have thought of you as a gardener."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "I grew up around farmers. My parents insisted we learn some basic gardening skills."
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "Did you hate that as much as camping?"
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Of course. Who wanted to muck around in the dirt when you could be studying quantum mechanics? But I find it very satisfying now, watching the seeds sprout and grow."
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "If your tomatoes could spare you for a minute, I'd like your opinion on something in the house."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Well, you've come to the right person. I always have an opinion."
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "Really?"
+        }
+      ],
+      "location": "Outside the shelter"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "CHAKOTAY",
+          "line": "What do you think?"
+        },
+        {
+          "character": "JANEWAY",
+          "line": "A boat!"
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "You said you wanted to explore the river. I think I could build this."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "We could go on a camping trip."
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "I'm not sure we could fit the bathtub in the boat."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Well, that's all right. I'll have the river."
+        },
+        {
+          "character": "TUVOK",
+          "line": "Do you read me? Repeat.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Do you hear that?"
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "Yes."
+        },
+        {
+          "character": "TUVOK",
+          "line": "To Captain Janeway, do you read me? This is Tuvok calling Captain Janeway and Commander Chakotay. Please respond.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "JANEWAY",
+          "line": "This is Janeway."
+        },
+        {
+          "character": "TUVOK",
+          "line": "Captain, it's good to hear your voice. We have news.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "JANEWAY",
+          "line": "What is it?"
+        },
+        {
+          "character": "TUVOK",
+          "line": "We have medicine which we believe will effectively treat your condition. We plan to be in orbit within thirty hours.",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "Shelter"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "CHAKOTAY",
+          "line": "Ready?"
+        },
+        {
+          "character": "JANEWAY",
+          "line": "There you are. At least I get to say good bye. Feel free to use the house. Janeway to Voyager. Two to beam up."
+        }
+      ],
+      "location": "Outside the shelter"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TUVOK",
+          "line": "Welcome back, Captain, Commander."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "The Doctor tells me you contacted the Vidiians after all."
+        },
+        {
+          "character": "TUVOK",
+          "line": "I disobeyed your order, Captain. I am prepared to accept the consequences."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "If I didn't know you better, I'd say your decision was almost emotional. Thank you all. Well, we've lost time with all this. Let's see if we can make some of it up. Mister Paris, warp eight."
+        },
+        {
+          "character": "PARIS",
+          "line": "Aye, Captain."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Commander, we'll need to review the ship's systems. I'll handle propulsion, environmental and communication. You'll be responsible for sensors, weapons and transporters."
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "Aye, Captain. I'll have a report to you by eighteen hundred hours."
+        },
+        {
+          "character": "JANEWAY",
+          "line": "Check with phaser maintenance. See if they solved that problem with the pre-fire chamber temperature."
+        },
+        {
+          "character": "CHAKOTAY",
+          "line": "Yes, ma'am. I'll see to it."
+        }
+      ],
+      "location": "Bridge"
+    }
+  ],
+  "schedule": {
+    "episode": 25,
+    "number": 41,
+    "season": 2
+  },
+  "stardate": "49690.1",
+  "title": "Resolutions"
+}

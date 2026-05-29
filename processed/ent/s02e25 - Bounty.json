@@ -1,0 +1,1651 @@
+{
+  "airdate": 1052895600,
+  "scenes": [
+    {
+      "dialogue": [
+        {
+          "character": "unknown",
+          "line": "Captain's Starlog, March 21st, 2153. After three days exploring an uninhabited planet, Commander Tucker and I have been called back to Enterprise to greet an unexpected visitor."
+        }
+      ],
+      "location": "unknown"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "ARCHER",
+          "line": "Maybe you were light-headed from the altitude."
+        },
+        {
+          "character": "TUCKER",
+          "line": "I didn't slip. That overhang gave way the moment I put my foot on it."
+        },
+        {
+          "character": "ARCHER",
+          "line": "I walked on the same rocks you did."
+        },
+        {
+          "character": "TUCKER",
+          "line": "Maybe you loosened them. You do weigh a few kilos more than I do."
+        }
+      ],
+      "location": "Turbolift"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "ARCHER",
+          "line": "Report."
+        },
+        {
+          "character": "REED",
+          "line": "It dropped out of warp thirty minutes ago. The pilot sent a brief audio message. He insisted on speaking with you right away."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Any idea what he wants?"
+        },
+        {
+          "character": "REED",
+          "line": "He wouldn't say, but I did manage to find his ship design in the Vulcan database. It's Tellarite."
+        },
+        {
+          "character": "ARCHER",
+          "line": "T'Pol's mentioned them. Open a channel. This is Jonathan Archer of the Enterprise. What can I do for you?"
+        },
+        {
+          "character": "SKALAAR",
+          "line": "You can start by telling me what you're doing here.",
+          "modifier": "screen"
+        },
+        {
+          "character": "ARCHER",
+          "line": "I didn't get your name."
+        },
+        {
+          "character": "SKALAAR",
+          "line": "Captain Skalaar of the Tellarite Mining Consortium.",
+          "modifier": "screen"
+        },
+        {
+          "character": "ARCHER",
+          "line": "We're studying this planet. I have three science teams on the surface. We're also here for a little shore leave."
+        },
+        {
+          "character": "SKALAAR",
+          "line": "Shore leave?",
+          "modifier": "screen"
+        },
+        {
+          "character": "ARCHER",
+          "line": "Vacation. It's been a while since we've had a chance to relax."
+        },
+        {
+          "character": "SKALAAR",
+          "line": "In that case, I recommend you visit the equatorial range. The view from the north summit is inspiring.",
+          "modifier": "screen"
+        },
+        {
+          "character": "ARCHER",
+          "line": "You've been here before?"
+        },
+        {
+          "character": "SKALAAR",
+          "line": "Many times. I prefer to think of it as my own personal retreat. You mustn't leave until you've experienced the hydrothermal pools of Ren-gham.",
+          "modifier": "screen"
+        },
+        {
+          "character": "ARCHER",
+          "line": "Where are they?"
+        },
+        {
+          "character": "SKALAAR",
+          "line": "The polar island chain, two hundred and twenty seven kilometers from the southern tip of the Rykos shoreline. Look for the pyroclastic debris field then follow the lava tubes",
+          "modifier": "screen"
+        },
+        {
+          "character": "TUCKER",
+          "line": "Sounds like we could use a guide."
+        },
+        {
+          "character": "SKALAAR",
+          "line": "I'd be happy to show you.",
+          "modifier": "screen"
+        },
+        {
+          "character": "ARCHER",
+          "line": "Sure we're not intruding?"
+        },
+        {
+          "character": "SKALAAR",
+          "line": "Not at all. I'll meet you at your starboard docking port. I'll help you plan your shore leave.",
+          "modifier": "screen"
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "ARCHER",
+          "line": "T'Pol says they're not the most agreeable species. Apparently they enjoy a good argument. It's considered a sport on their planet."
+        },
+        {
+          "character": "TUCKER",
+          "line": "I've got an old girlfriend this guy might like to meet."
+        }
+      ],
+      "location": "Corridor"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "HOSHI",
+          "line": "I'm picking up weapons fire on E deck, the starboard airlock."
+        },
+        {
+          "character": "REED",
+          "line": "Send a security team. Bridge to Captain Archer."
+        },
+        {
+          "character": "TRAVIS",
+          "line": "The Tellarite ship's trying to undock with the seals locked."
+        },
+        {
+          "character": "REED",
+          "line": "Engage the emergency clamps."
+        },
+        {
+          "character": "TRAVIS",
+          "line": "He's going to warp."
+        },
+        {
+          "character": "REED",
+          "line": "Pursuit course."
+        },
+        {
+          "character": "TRAVIS",
+          "line": "He's disabled our starboard nacelle. We can't follow him, sir."
+        },
+        {
+          "character": "REED",
+          "line": "Get those teams up from the surface."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TUCKER",
+          "line": "We're having trouble isolating his signature. There must have been something masking it.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "T'POL",
+          "line": "How long until we have warp drive."
+        }
+      ],
+      "location": "Sickbay"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TUCKER",
+          "line": "Less than an hour."
+        },
+        {
+          "character": "T'POL",
+          "line": "I'm on my way to the Bridge.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "TUCKER",
+          "line": "Acknowledged."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "PHLOX",
+          "line": "I'm afraid you're not going anywhere for the moment. We brought a stowaway with us, an unusual microbe."
+        },
+        {
+          "character": "T'POL",
+          "line": "Is it contagious?"
+        },
+        {
+          "character": "PHLOX",
+          "line": "I'll have to run some more tests. To be safe, we should both go through Decon."
+        }
+      ],
+      "location": "Sickbay"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "ARCHER",
+          "line": "What do you want? I asked you a question."
+        },
+        {
+          "character": "SKALAAR",
+          "line": "I'd stay clear of those emitters if I were you. The very latest technology. I installled them last month."
+        },
+        {
+          "character": "ARCHER",
+          "line": "I doubt this ship of yours will be a match for Enterprise."
+        },
+        {
+          "character": "SKALAAR",
+          "line": "I've taken appropriate counter-measures. We won't be seeing any more of your starship."
+        },
+        {
+          "character": "ARCHER",
+          "line": "I want to know where you're taking me. My crew's not going to give up until they find me. If you take me back, I'd be willing to forget this ever happened."
+        },
+        {
+          "character": "SKALAAR",
+          "line": "You can either be quiet or spend the rest of this trip unconscious. Which do you prefer?"
+        }
+      ],
+      "location": "Skalaar's ship"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "PHLOX",
+          "line": "This microbe is more resilient than I thought. It doesn't seem to be vulnerable to theta radiation."
+        },
+        {
+          "character": "T'POL",
+          "line": "Perhaps you can increase the dosage."
+        },
+        {
+          "character": "PHLOX",
+          "line": "That wouldn't be advisable. We'd both suffer permanent cellular damage."
+        },
+        {
+          "character": "T'POL",
+          "line": "There must be something else you can try."
+        },
+        {
+          "character": "PHLOX",
+          "line": "Decon gel E may neutralize the microbe, but it will be several hours before we know if it's effective."
+        },
+        {
+          "character": "T'POL",
+          "line": "I can't stay here several hours."
+        },
+        {
+          "character": "PHLOX",
+          "line": "You have little choice. This organism appears to be infectious and humans would be far more vulnerable to it than you or I. Commander Tucker is quite capable. If he needs your help, he knows where to find you."
+        },
+        {
+          "character": "PHLOX",
+          "line": "Fortunately no one else on the surface was exposed to the microbe. I suspect you and I were contaminated when we climbed into the second ravine. Considering the quantity of fauna down there, I'm not at all surprised. We were probably infected by the marsupials I found."
+        },
+        {
+          "character": "T'POL",
+          "line": "I told you to leave them alone."
+        },
+        {
+          "character": "PHLOX",
+          "line": "Their saliva is a natural anti-coagulant. I couldn't return to the ship without a sample. I could use your assistance."
+        },
+        {
+          "character": "T'POL",
+          "line": "I wasn't aware a curtain was installled."
+        },
+        {
+          "character": "PHLOX",
+          "line": "Not everyone is comfortable with the idea of disrobing in front of others."
+        },
+        {
+          "character": "T'POL",
+          "line": "An odd attitude for a physician."
+        },
+        {
+          "character": "PHLOX",
+          "line": "It's a characteristic of Denobulan males. We're more inhibited than our women. It's led to a number of awkward moments. My Starfleet physical was an experience I never hope to repeat."
+        },
+        {
+          "character": "T'POL",
+          "line": "If you wouldn't mind."
+        }
+      ],
+      "location": "Decon chamber"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "REED",
+          "line": "Sensors are picking up a faint warp signature."
+        },
+        {
+          "character": "TUCKER",
+          "line": "Can you get a fix on it?"
+        },
+        {
+          "character": "REED",
+          "line": "Bearing oh seven one mark three two. It's erratic, but it matches our Tellarite friend."
+        },
+        {
+          "character": "TUCKER",
+          "line": "Set a course, maximum warp."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "KLINGON",
+          "line": "You are speaking on a secure channel.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "SKALAAR",
+          "line": "I'm trying to reach Captain Goroth. It's very important that I speak with him."
+        },
+        {
+          "character": "KLINGON",
+          "line": "We're attempting to transfer you. Stand by.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "GOROTH",
+          "line": "This is Goroth. What do you want?",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "SKALAAR",
+          "line": "I have the fugitive."
+        },
+        {
+          "character": "GOROTH",
+          "line": "He's in your custody?",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "SKALAAR",
+          "line": "He's standing about five meters from me. You'll be pleased to know he's still alive. I'm bringing him to Kronos as we agreed."
+        },
+        {
+          "character": "GOROTH",
+          "line": "No. I'm transmitting rendezvous co-ordinates. Be there in two days.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "SKALAAR",
+          "line": "I trust you'll have the full payment?"
+        },
+        {
+          "character": "GOROTH",
+          "line": "You'll get what was promised.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "SKALAAR",
+          "line": "A pleasure doing business with you, Captain."
+        },
+        {
+          "character": "SKALAAR",
+          "line": "As always."
+        },
+        {
+          "character": "ARCHER",
+          "line": "How much are they paying you? You mentioned the Klingon homeworld, Kronos. I assume this has something to do with my escaping prison. You don't even know what I'm accused of."
+        },
+        {
+          "character": "SKALAAR",
+          "line": "You're right, and I don't care to."
+        }
+      ],
+      "location": "Skalaar's ship"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "REED",
+          "line": "The signature's holding steady. Looks like he's orbiting a G-type star."
+        },
+        {
+          "character": "TUCKER",
+          "line": "Go to Tactical Alert."
+        },
+        {
+          "character": "REED",
+          "line": "It appears to be a beacon of some kind. It's generating a warp signature identical to the Tellarites."
+        },
+        {
+          "character": "TUCKER",
+          "line": "A decoy! Anything on sensors?"
+        },
+        {
+          "character": "TUCKER",
+          "line": "We're going to have to start all over."
+        },
+        {
+          "character": "REED",
+          "line": "I'm getting too much interference from that device. It's throwing off our scans."
+        },
+        {
+          "character": "TUCKER",
+          "line": "Then get rid of it."
+        },
+        {
+          "character": "REED",
+          "line": "With pleasure, sir."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "ARCHER",
+          "line": "I have no idea what the Klingons are paying you, but whatever it is, Starfleet will double it."
+        },
+        {
+          "character": "SKALAAR",
+          "line": "I don't take bribes from criminals."
+        },
+        {
+          "character": "ARCHER",
+          "line": "I'm not a criminal."
+        },
+        {
+          "character": "SKALAAR",
+          "line": "Klingon Judiciary says you are."
+        },
+        {
+          "character": "ARCHER",
+          "line": "My crime was helping a ship full of refugees."
+        },
+        {
+          "character": "SKALAAR",
+          "line": "Oh, that was very noble of you. You'll think twice before doing that again."
+        },
+        {
+          "character": "ARCHER",
+          "line": "It's pretty clear I'm never going to get the chance. I was sentenced to life in prison on Rura Penthe. Ever heard of it?"
+        },
+        {
+          "character": "SKALAAR",
+          "line": "I'm familiar with Rura Penthe."
+        },
+        {
+          "character": "ARCHER",
+          "line": "The magistrate isn't going to be so lenient next time. I'll probably be executed."
+        },
+        {
+          "character": "SKALAAR",
+          "line": "That's not my concern."
+        },
+        {
+          "character": "ARCHER",
+          "line": "You don't care that you're sending an innocent man to his death."
+        },
+        {
+          "character": "SKALAAR",
+          "line": "I've captured dozens of fugitives. Every one of them claimed to be an innocent man."
+        },
+        {
+          "character": "ARCHER",
+          "line": "If the Klingons wanted them, they probably were. You don't have to do this."
+        },
+        {
+          "character": "SKALAAR",
+          "line": "Goroth already knows you're aboard. If I don't deliver you he'll offer a reward for both of us. I've learned never to cross a Klingon."
+        },
+        {
+          "character": "ARCHER",
+          "line": "It must be difficult working for people like them."
+        },
+        {
+          "character": "SKALAAR",
+          "line": "I don't answer to those savages. I work for myself."
+        },
+        {
+          "character": "ARCHER",
+          "line": "That's not how it looks from in here."
+        },
+        {
+          "character": "SKALAAR",
+          "line": "If you knew how much they were paying me you'd understand. This has nothing to do with you. I'm sure you're not a bad person, just an unlucky one."
+        }
+      ],
+      "location": "Skalaar's ship"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "T'POL",
+          "line": "You're making it difficult to meditate."
+        },
+        {
+          "character": "PHLOX",
+          "line": "You've developed a slight fever. I'm also reading elevated dopamine levels. The microbe may be affecting your limbic system."
+        },
+        {
+          "character": "T'POL",
+          "line": "I can't concentrate under these conditions."
+        },
+        {
+          "character": "PHLOX",
+          "line": "I don't mean to be intrusive."
+        },
+        {
+          "character": "T'POL",
+          "line": "The Captain's been abducted, he may even be dead. My place is on the Bridge."
+        },
+        {
+          "character": "PHLOX",
+          "line": "Sub-Commander, where are you going?"
+        },
+        {
+          "character": "T'POL",
+          "line": "Open it."
+        },
+        {
+          "character": "PHLOX",
+          "line": "You'll spread the infection."
+        },
+        {
+          "character": "T'POL",
+          "line": "I'll go to my quarters. If I seal off the ventilation system it should minimize the risk of exposing anyone."
+        },
+        {
+          "character": "PHLOX",
+          "line": "Your quarters are on C deck. By the time you reach them you'll contaminate half the ship."
+        },
+        {
+          "character": "T'POL",
+          "line": "Unlock this door. I gave you a direct order."
+        },
+        {
+          "character": "PHLOX",
+          "line": "I'm sorry, but I can't obey it."
+        },
+        {
+          "character": "T'POL",
+          "line": "I can have you court-martialed."
+        },
+        {
+          "character": "PHLOX",
+          "line": "I doubt that very"
+        },
+        {
+          "character": "T'POL",
+          "line": "Open it! I apologize. I'm having trouble suppressing my emotions."
+        },
+        {
+          "character": "PHLOX",
+          "line": "We'll know in a few hours whether the gel is working. Until then, perhaps a mild sedative will help?"
+        }
+      ],
+      "location": "Decon chamber"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "SKALAAR",
+          "line": "The Klingons are paying nine thousand darseks. That's more than enough to get Tezra back."
+        },
+        {
+          "character": "GAAVRIN",
+          "line": "You're not being realistic.",
+          "modifier": "screen"
+        },
+        {
+          "character": "SKALAAR",
+          "line": "I already have the human in custody. The reward is guaranteed."
+        },
+        {
+          "character": "GAAVRIN",
+          "line": "You've made this promise before.",
+          "modifier": "screen"
+        },
+        {
+          "character": "SKALAAR",
+          "line": "In two days you'll see I'm telling the truth."
+        },
+        {
+          "character": "GAAVRIN",
+          "line": "Even if you get the money, which I doubt, it wouldn't change my decision.",
+          "modifier": "screen"
+        },
+        {
+          "character": "SKALAAR",
+          "line": "Do you want to scrub plasma injectors the rest of your life? I'm giving you a chance to"
+        },
+        {
+          "character": "ARCHER",
+          "line": "Who's Tezra?"
+        },
+        {
+          "character": "SKALAAR",
+          "line": "Tezra's not a person, it's a cargo ship. Far more impressive than this antique."
+        },
+        {
+          "character": "ARCHER",
+          "line": "You're going to use the reward to buy your ship back?"
+        },
+        {
+          "character": "SKALAAR",
+          "line": "You'd be wise to keep quiet. The Klingons pay me the same whether you're alive or dead. A vessel's approaching. I wouldn't get too optimistic. It's not your starship. KAGO-"
+        },
+        {
+          "character": "DARR",
+          "line": "You have something I want.",
+          "modifier": "screen"
+        },
+        {
+          "character": "SKALAAR",
+          "line": "Always one step behind me, eh, Kago? KAGO-"
+        },
+        {
+          "character": "DARR",
+          "line": "Drop out of warp and surrender the prisoner.",
+          "modifier": "screen"
+        },
+        {
+          "character": "SKALAAR",
+          "line": "Why would I do that? KAGO-"
+        },
+        {
+          "character": "DARR",
+          "line": "Don't force me to take action.",
+          "modifier": "screen"
+        },
+        {
+          "character": "SKALAAR",
+          "line": "Goroth told you where I was, didn't he. KAGO-"
+        },
+        {
+          "character": "DARR",
+          "line": "You had two months to find the human. Goroth contacted me because you obviously weren't going to succeed. You're incompetent!",
+          "modifier": "screen"
+        },
+        {
+          "character": "SKALAAR",
+          "line": "If I was incompetent Archer would be aboard your ship, wouldn't he? KAGO-"
+        },
+        {
+          "character": "DARR",
+          "line": "The human. Now.",
+          "modifier": "screen"
+        },
+        {
+          "character": "SKALAAR",
+          "line": "Or what, you'll destroy my shuttle? Can't collect on Archer if he's a cloud of vapor."
+        },
+        {
+          "character": "SKALAAR",
+          "line": "You may want to hold on to something."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Let me out. I can help you."
+        },
+        {
+          "character": "SKALAAR",
+          "line": "You must think I'm a fool."
+        },
+        {
+          "character": "ARCHER",
+          "line": "You can't maneuver the ship and make repairs at the same time. I'm a pilot, let me take the helm."
+        },
+        {
+          "character": "SKALAAR",
+          "line": "If you try to escape."
+        },
+        {
+          "character": "SKALARR",
+          "line": "This is the warp field regulator, the impulse throttle."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Navigation sensors."
+        },
+        {
+          "character": "SKALAAR",
+          "line": "There."
+        },
+        {
+          "character": "ARCHER",
+          "line": "There's an L class planet in this system. I'm taking us out of warp."
+        },
+        {
+          "character": "SKALAAR",
+          "line": "What?"
+        },
+        {
+          "character": "ARCHER",
+          "line": "We can't outrun him but he may not be able to navigate as well as we can in the planet's atmosphere."
+        },
+        {
+          "character": "SKALAAR",
+          "line": "This ship wasn't designed for these maneuvers. We've lost the aft cannons."
+        },
+        {
+          "character": "ARCHER",
+          "line": "What about forward cannons?"
+        },
+        {
+          "character": "SKALAAR",
+          "line": "Still online."
+        },
+        {
+          "character": "ARCHER",
+          "line": "What are these?"
+        },
+        {
+          "character": "SKALAAR",
+          "line": "Subspace beacons. They generate a false warp signature. I used one of them to evade your vessel."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Get ready to launch them."
+        },
+        {
+          "character": "SKALAAR",
+          "line": "What good will that do?"
+        },
+        {
+          "character": "ARCHER",
+          "line": "He's flying on sensors, just like we are. He'll only have a one in three chance of targeting us."
+        },
+        {
+          "character": "SKALAAR",
+          "line": "Ready."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Now."
+        },
+        {
+          "character": "ARCHER",
+          "line": "We knocked out his engine. He's making an emergency landing."
+        },
+        {
+          "character": "SKALAAR",
+          "line": "Don't celebrate yet. Our reactor's leaking. The warp drive's offline. I'm never going to make the rendezvous."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Isn't that a shame."
+        },
+        {
+          "character": "SKALAAR",
+          "line": "The reactor also powers life support."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Then you'd better get to work."
+        },
+        {
+          "character": "SKALAAR",
+          "line": "It can only be accessed from the outer hull."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Then we should set down here."
+        },
+        {
+          "character": "SKALAAR",
+          "line": "But Kago's on the surface."
+        },
+        {
+          "character": "ARCHER",
+          "line": "We'll land a thousand kilometers away."
+        }
+      ],
+      "location": "Skalaar's ship"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "PHLOX",
+          "line": "What are you doing?"
+        },
+        {
+          "character": "T'POL",
+          "line": "You said we'd need another treatment."
+        },
+        {
+          "character": "PHLOX",
+          "line": "Not for three hours."
+        },
+        {
+          "character": "T'POL",
+          "line": "Is there any harm in starting now?"
+        },
+        {
+          "character": "PHLOX",
+          "line": "I can apply it myself, thank you. Perhaps you need another sedative."
+        },
+        {
+          "character": "T'POL",
+          "line": "Rest is not what I need."
+        },
+        {
+          "character": "PHLOX",
+          "line": "Sub-Commander, this behavior is hardly appropriate."
+        },
+        {
+          "character": "T'POL",
+          "line": "My name is T'Pol. You don't find me attractive?"
+        },
+        {
+          "character": "PHLOX",
+          "line": "Of course I do, but that is not the issue."
+        },
+        {
+          "character": "T'POL",
+          "line": "I am familiar with Denobulan sexuality. I know that your marriages aren't exclusive."
+        },
+        {
+          "character": "PHLOX",
+          "line": "You and I are colleagues. It's against regulations."
+        },
+        {
+          "character": "T'POL",
+          "line": "Starfleet regulations. There's no reason to be restrained by human morality."
+        },
+        {
+          "character": "PHLOX",
+          "line": "It's obvious you're not well. Please."
+        },
+        {
+          "character": "T'POL",
+          "line": "You have no idea what you're denying yourself."
+        },
+        {
+          "character": "PHLOX",
+          "line": "Your endorphin and hormonal levels are dangerously high."
+        },
+        {
+          "character": "T'POL",
+          "line": "You don't understand. I'm not ill."
+        },
+        {
+          "character": "PHLOX",
+          "line": "These are hardly normal readings."
+        },
+        {
+          "character": "T'POL",
+          "line": "They're normal for a Vulcan in my condition."
+        },
+        {
+          "character": "PHLOX",
+          "line": "You know what's wrong with you?"
+        },
+        {
+          "character": "T'POL",
+          "line": "It's not something we diskuss with others."
+        },
+        {
+          "character": "PHLOX",
+          "line": "I believe it's time for you to amend that policy. You have my assurance it will remain between us."
+        },
+        {
+          "character": "T'POL",
+          "line": "We call it the pon farr, the cycle of mating."
+        },
+        {
+          "character": "PHLOX",
+          "line": "Have you gone through this before?"
+        },
+        {
+          "character": "T'POL",
+          "line": "It's not time."
+        },
+        {
+          "character": "PHLOX",
+          "line": "It's possible the infection acted as a catalyst."
+        },
+        {
+          "character": "T'POL",
+          "line": "What caused it doesn't matter. If I don't mate with a male, Vulcan or otherwise, I'll die."
+        }
+      ],
+      "location": "Decon chamber"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "ARCHER",
+          "line": "That ship you mentioned, the Tezra, sounds pretty important to you."
+        },
+        {
+          "character": "SKALAAR",
+          "line": "More than you know. If Kago collects the reward he'll probably waste it on Orion slave girls. Not me, I'm going to do something useful with it."
+        },
+        {
+          "character": "ARCHER",
+          "line": "I don't understand why you want a cargo ship. It doesn't seem practical in your line of work."
+        },
+        {
+          "character": "SKALAAR",
+          "line": "You think I've been chasing fugitives my entire life? Once I get the money I'll have enough to pay off the impound fees. I'll be a freighter captain again."
+        },
+        {
+          "character": "ARCHER",
+          "line": "My helmsman used to run freight. The two of you would probably have a lot to talk about."
+        },
+        {
+          "character": "SKALAAR",
+          "line": "The Tezra isn't like any other cargo ship. She was the first of her class, the fastest ever built. She could haul a million metric tons at warp four point five. Even your starship isn't capable of that. I retrofitted her engines myself."
+        },
+        {
+          "character": "ARCHER",
+          "line": "You never told me why it was impounded."
+        },
+        {
+          "character": "SKALAAR",
+          "line": "My brother and I were hauling a shipment of fire-salt. I thought I could trim two or three days off our journey by cutting across the most insignificant corner of Klingon space. I learned very quickly there's no thing as an insignificant corner of Klingon space. We were lucky to escape with our lives, though we did pay a price."
+        },
+        {
+          "character": "ARCHER",
+          "line": "They took your ship?"
+        },
+        {
+          "character": "SKALAAR",
+          "line": "And it's cargo too. My brother never forgave me. I've been trying to find a way to get the Tezra back every since. What are you doing!"
+        },
+        {
+          "character": "ARCHER",
+          "line": "Did you really think I wanted this engine fixed? You're taking me to be executed."
+        },
+        {
+          "character": "SKALAAR",
+          "line": "Don't worry, we'll meet Goroth on time."
+        }
+      ],
+      "location": "Planet surface"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "PHLOX",
+          "line": "Feel any better?"
+        },
+        {
+          "character": "T'POL",
+          "line": "I'm hungry."
+        },
+        {
+          "character": "PHLOX",
+          "line": "Our meals will be here soon."
+        },
+        {
+          "character": "T'POL",
+          "line": "I wasn't referring to food."
+        },
+        {
+          "character": "PHLOX",
+          "line": "I'm working as quickly as I can. The serum should help alleviate most of your symptoms."
+        },
+        {
+          "character": "T'POL",
+          "line": "There's a far simpler treatment."
+        },
+        {
+          "character": "PHLOX",
+          "line": "I'd prefer to explore a more conventional approach."
+        },
+        {
+          "character": "T'POL",
+          "line": "You have the cure. It's unethical for you to withhold it, Doctor."
+        },
+        {
+          "character": "PHLOX",
+          "line": "This mating cycle of yours was artificially induced. We can't be certain that a physical encounter would help."
+        },
+        {
+          "character": "T'POL",
+          "line": "I'm willing to try."
+        },
+        {
+          "character": "PHLOX",
+          "line": "Sub-commander."
+        },
+        {
+          "character": "T'POL",
+          "line": "Don't be frightened. I won't hurt you."
+        },
+        {
+          "character": "PHLOX",
+          "line": "You're disturbing my serum! You obviously need to be sedated again."
+        },
+        {
+          "character": "T'POL",
+          "line": "No more hyposprays."
+        },
+        {
+          "character": "PHLOX",
+          "line": "One of us should probably answer that. It could be news about the Captain. This is Phlox."
+        },
+        {
+          "character": "TUCKER",
+          "line": "Anyone hungry in there? I brought you some supper.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "PHLOX",
+          "line": "Just in the nick of time, Commander. It would be best if you remained here."
+        }
+      ],
+      "location": "Decon chamber"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TUCKER",
+          "line": "How are you two holding up?"
+        },
+        {
+          "character": "PHLOX",
+          "line": "Well enough. Have you been able to locate Captain Archer?"
+        },
+        {
+          "character": "TUCKER",
+          "line": "We're tracking another warp signature, hoping this one is the real thing. Are those the ones you wanted?"
+        },
+        {
+          "character": "PHLOX",
+          "line": "Yes, thank you."
+        },
+        {
+          "character": "T'POL",
+          "line": "Is that food?"
+        },
+        {
+          "character": "TUCKER",
+          "line": "Yeah. I had Chef make you some"
+        },
+        {
+          "character": "TUCKER",
+          "line": "Is she all right?"
+        },
+        {
+          "character": "PHLOX",
+          "line": "She developed a slight fever. Nothing to be concerned about."
+        },
+        {
+          "character": "REED",
+          "line": "Bridge to Commander Tucker.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "TUCKER",
+          "line": "Go ahead."
+        },
+        {
+          "character": "REED",
+          "line": "We're approaching the coordinates.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "TUCKER",
+          "line": "On my way. Call if you need anything."
+        }
+      ],
+      "location": "Isolation ward window"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TUCKER",
+          "line": "What have you got?"
+        },
+        {
+          "character": "REED",
+          "line": "Two matching warp signatures, both in the upper atmosphere. More subspace beacons. There is a ship on the surface. It seems to have suffered engine damage, but it's not Tellarite."
+        },
+        {
+          "character": "TUCKER",
+          "line": "Biosigns?"
+        },
+        {
+          "character": "REED",
+          "line": "One."
+        },
+        {
+          "character": "TUCKER",
+          "line": "Open a channel. KAGO-"
+        },
+        {
+          "character": "DARR",
+          "line": "Yes.",
+          "modifier": "screen"
+        },
+        {
+          "character": "TUCKER",
+          "line": "Sorry to bother you, but we're looking for a Tellarite shuttle. Have you seen one? KAGO-"
+        },
+        {
+          "character": "DARR",
+          "line": "How much did the Klingons offer you?",
+          "modifier": "screen"
+        },
+        {
+          "character": "TUCKER",
+          "line": "Klingons? Look, there must be some sort of misunderstanding here. We're looking for our Captain. KAGO-"
+        },
+        {
+          "character": "DARR",
+          "line": "Your Captain. He's got a price on his head. He's probably halfway to Klingon space by now.",
+          "modifier": "screen"
+        },
+        {
+          "character": "TUCKER",
+          "line": "Travis, how close are we to Klingon space?"
+        },
+        {
+          "character": "TRAVIS",
+          "line": "Less than six light years."
+        },
+        {
+          "character": "TUCKER",
+          "line": "If that Tellarite's looking to collect some kind of reward we'd better find him before he gets there. Set a course. Take us back to warp."
+        },
+        {
+          "character": "TRAVIS",
+          "line": "Aye, sir."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "GAAVRIN",
+          "line": "What are you doing here?"
+        },
+        {
+          "character": "SKALAAR",
+          "line": "I need your help."
+        },
+        {
+          "character": "GAAVRIN",
+          "line": "You shouldn't have brought him."
+        },
+        {
+          "character": "SKALAAR",
+          "line": "You think I would have come here if I had a choice? I need an antimatter injector."
+        },
+        {
+          "character": "GAAVRIN",
+          "line": "And I suppose you have no way of paying for it."
+        },
+        {
+          "character": "SKALAAR",
+          "line": "Do you know who this is? He's the only prisoner who's ever escaped from Rura Penthe. The Klingons are offering a fortune to get him back. Tell him. Tell him!"
+        },
+        {
+          "character": "GAAVRIN",
+          "line": "If I give you the injector, you have to promise never to come back here."
+        },
+        {
+          "character": "SKALAAR",
+          "line": "Of course I'm coming back. You're going to be my first officer."
+        },
+        {
+          "character": "GAAVRIN",
+          "line": "That was years ago. I work here now."
+        },
+        {
+          "character": "SKALAAR",
+          "line": "Scrubbing plasma injectors? Is that how you want your children to see you?"
+        },
+        {
+          "character": "GAAVRIN",
+          "line": "It's better than hunting criminals."
+        },
+        {
+          "character": "SKALAAR",
+          "line": "You think that I enjoy spending my time with vermin like him?"
+        },
+        {
+          "character": "GAAVRIN",
+          "line": "I have work to do."
+        },
+        {
+          "character": "SKALAAR",
+          "line": "Please, don't turn your back on me again. We can reclaim the Tezra."
+        },
+        {
+          "character": "GAAVRIN",
+          "line": "You won't want that ship after you see it."
+        },
+        {
+          "character": "SKALAAR",
+          "line": "Why not?"
+        },
+        {
+          "character": "GAAVRIN",
+          "line": "The Klingons cannibalized her. Every power relay, every conduit."
+        },
+        {
+          "character": "SKALAAR",
+          "line": "The engines?"
+        },
+        {
+          "character": "GAAVRIN",
+          "line": "They're gone. I'll give you the injector, but after that I want you to leave."
+        },
+        {
+          "character": "ARCHER",
+          "line": "What do you plan to do now?"
+        },
+        {
+          "character": "SKALAAR",
+          "line": "Get that injector and installl it."
+        },
+        {
+          "character": "ARCHER",
+          "line": "And then? I suppose you'll turn me over to the Klingons. I'll be disemboweled with one of those nasty looking swords of theirs. You'll collect your nine thousand darseks but it won't get you the Tezra back."
+        },
+        {
+          "character": "SKALAAR",
+          "line": "What are you trying to say?"
+        },
+        {
+          "character": "ARCHER",
+          "line": "The Klingons took your freighter, your livelihood, damaged your relationship with your brother, and what do you get in exchange? Nine thousand darseks. Doesn't seem like a very fair trade to me."
+        },
+        {
+          "character": "SKALAAR",
+          "line": "What choice do I have? I told you, if I let you go they'd kill me."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Maybe not. Have you ever been aboard Goroth's ship?"
+        },
+        {
+          "character": "SKALAAR",
+          "line": "Twice. Why?"
+        }
+      ],
+      "location": "Skalaar's ship"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "PHLOX",
+          "line": "I beg your pardon?"
+        },
+        {
+          "character": "T'POL",
+          "line": "Let me out."
+        },
+        {
+          "character": "PHLOX",
+          "line": "You know I can't do that."
+        },
+        {
+          "character": "T'POL",
+          "line": "The heat. It's unbearable."
+        },
+        {
+          "character": "PHLOX",
+          "line": "If I lower the temperature, the serum will start to congeal."
+        },
+        {
+          "character": "T'POL",
+          "line": "I don't want your serum. Open the door."
+        },
+        {
+          "character": "PHLOX",
+          "line": "I assure you, you're going to feel much better in just a few minutes."
+        },
+        {
+          "character": "T'POL",
+          "line": "Open it!"
+        },
+        {
+          "character": "PHLOX",
+          "line": "This will only take a moment. Your biochemical imbalance is growing worse. If we don't treat it now, the damage to your limbic system could be irreversible. You said it yourself, T'Pol, it could kill you."
+        },
+        {
+          "character": "T'POL",
+          "line": "Stay away from me."
+        },
+        {
+          "character": "PHLOX",
+          "line": "One injection, that's all I ask. Very well."
+        },
+        {
+          "character": "PHLOX",
+          "line": "You're free to go. Four two eight six four. That's the locking code. Denobulan medical ethics prevent me from treating patients against their will. Four two eight six four!"
+        },
+        {
+          "character": "PHLOX",
+          "line": "Phlox to the Bridge."
+        },
+        {
+          "character": "TUCKER",
+          "line": "Tucker here.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "PHLOX",
+          "line": "You may want to evacuate D deck."
+        }
+      ],
+      "location": "Decon Chamber"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "REED",
+          "line": "She's still in this section. The doctor says she's irrational, so use caution."
+        },
+        {
+          "character": "SECURITY",
+          "line": "Yes, sir."
+        },
+        {
+          "character": "T'POL",
+          "line": "Malcolm. I need your assistance."
+        },
+        {
+          "character": "REED",
+          "line": "We've been very worried about you, Sub-Commander. Let's get you back to the Doctor."
+        },
+        {
+          "character": "T'POL",
+          "line": "I can't return to the doctor. He's refusing to treat me. How long has it been?"
+        },
+        {
+          "character": "REED",
+          "line": "I beg your pardon"
+        },
+        {
+          "character": "T'POL",
+          "line": "Since you've mated. I've seen the way you look at me on the Bridge."
+        },
+        {
+          "character": "REED",
+          "line": "Why don't we diskuss this in Decon."
+        },
+        {
+          "character": "T'POL",
+          "line": "My quarters would be more comfortable."
+        },
+        {
+          "character": "REED",
+          "line": "Doctor Phlox was very insistent."
+        },
+        {
+          "character": "REED",
+          "line": "Follow me, Sub-Commander."
+        }
+      ],
+      "location": "Corridor"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "SKALAAR",
+          "line": "Welcome."
+        },
+        {
+          "character": "GOROTH",
+          "line": "The Empire never forgets its enemies. Taka!"
+        },
+        {
+          "character": "SKALAAR",
+          "line": "What about my payment?"
+        },
+        {
+          "character": "GOROTH",
+          "line": "Six thousand darseks."
+        },
+        {
+          "character": "SKALAAR",
+          "line": "We agreed to nine."
+        },
+        {
+          "character": "GOROTH",
+          "line": "Did we?"
+        },
+        {
+          "character": "ARCHER",
+          "line": "That's blood money, Skalaar. I hope you enjoy it."
+        }
+      ],
+      "location": "Skalaar's ship"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "HOSHI",
+          "line": "We're being hailed, Commander. It's the Tellarite ship."
+        },
+        {
+          "character": "TUCKER",
+          "line": "What? Put him through."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "REED",
+          "line": "I've got them. Bearing two two six mark seven one."
+        },
+        {
+          "character": "TUCKER",
+          "line": "Set a course. Go to Tactical Alert."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "GOROTH",
+          "line": "Where do you think you can go, human? There isn't a planet within fifty light years."
+        },
+        {
+          "character": "GOROTH",
+          "line": "He won't get far. Drop out of warp."
+        },
+        {
+          "character": "KLINGON",
+          "line": "Should I charge weapons?"
+        },
+        {
+          "character": "GOROTH",
+          "line": "No. I want him alive."
+        }
+      ],
+      "location": "Goroth's ship - Corridor"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TRAVIS",
+          "line": "I see him. Eight hundred thousand kilometers."
+        },
+        {
+          "character": "TUCKER",
+          "line": "What about the Klingons?"
+        },
+        {
+          "character": "REED",
+          "line": "They're closing in on him."
+        },
+        {
+          "character": "REED",
+          "line": "They're charging weapons."
+        },
+        {
+          "character": "TUCKER",
+          "line": "Return fire. Deploy the grappler."
+        },
+        {
+          "character": "TRAVIS",
+          "line": "They're not making it easy."
+        },
+        {
+          "character": "TUCKER",
+          "line": "Malcolm?"
+        },
+        {
+          "character": "REED",
+          "line": "I'm doing the best I can, sir. Their weapon ports are heavily shielded."
+        },
+        {
+          "character": "TRAVIS",
+          "line": "Got it!"
+        },
+        {
+          "character": "TUCKER",
+          "line": "Bring him in."
+        },
+        {
+          "character": "REED",
+          "line": "Their weapons are down."
+        },
+        {
+          "character": "TUCKER",
+          "line": "The pod?"
+        },
+        {
+          "character": "TRAVIS",
+          "line": "Safe and sound, Launch bay two."
+        },
+        {
+          "character": "TUCKER",
+          "line": "Let's get the hell out of here."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "PHLOX",
+          "line": "You'll be pleased to know the microbe's been eliminated from your system. Your premature mating cycle has ended."
+        },
+        {
+          "character": "T'POL",
+          "line": "Did I do anything inappropriate?"
+        },
+        {
+          "character": "PHLOX",
+          "line": "I've had patients treat me far worse."
+        },
+        {
+          "character": "T'POL",
+          "line": "Did we?"
+        },
+        {
+          "character": "PHLOX",
+          "line": "Denobulan males aren't comfortable diskussing such topics."
+        },
+        {
+          "character": "T'POL",
+          "line": "I'd appreciate it if you didn't mention this to anyone."
+        },
+        {
+          "character": "PHLOX",
+          "line": "I'd never violate a patient's privacy."
+        }
+      ],
+      "location": "Decon Chamber"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "TUCKER",
+          "line": "Rough ride?"
+        },
+        {
+          "character": "ARCHER",
+          "line": "What's the status of the Klingons?"
+        },
+        {
+          "character": "TUCKER",
+          "line": "We damaged their port nacelle. They're limping back to Kronos."
+        },
+        {
+          "character": "ARCHER",
+          "line": "Where's T'Pol?"
+        },
+        {
+          "character": "TUCKER",
+          "line": "She's in Decon with Doctor Phlox."
+        },
+        {
+          "character": "ARCHER",
+          "line": "What happened?"
+        },
+        {
+          "character": "REED",
+          "line": "It's a long story."
+        },
+        {
+          "character": "HOSHI",
+          "line": "You're being hailed, Captain."
+        },
+        {
+          "character": "SKALAAR",
+          "line": "I see you made it back safely.",
+          "modifier": "screen"
+        },
+        {
+          "character": "ARCHER",
+          "line": "Do you think the Klingons know you gave me that lock pick?"
+        },
+        {
+          "character": "SKALAAR",
+          "line": "I don't see why they would.",
+          "modifier": "screen"
+        },
+        {
+          "character": "ARCHER",
+          "line": "What are you going to do with your reward?"
+        },
+        {
+          "character": "SKALAAR",
+          "line": "I'm not sure. If you know of an old freighter for sale?",
+          "modifier": "screen"
+        },
+        {
+          "character": "ARCHER",
+          "line": "I'll keep my eyes open."
+        },
+        {
+          "character": "SKALAAR",
+          "line": "Be careful, Captain. It's likely the Klingons will double their bounty.",
+          "modifier": "screen"
+        },
+        {
+          "character": "ARCHER",
+          "line": "I hope you won't be the one to collect it."
+        },
+        {
+          "character": "SKALAAR",
+          "line": "No promises.",
+          "modifier": "screen"
+        }
+      ],
+      "location": "Bridge"
+    }
+  ],
+  "schedule": {
+    "episode": 25,
+    "number": 51,
+    "season": 2
+  },
+  "stardate": "Unknown",
+  "title": "Bounty"
+}

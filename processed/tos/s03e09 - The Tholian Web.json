@@ -1,0 +1,2008 @@
+{
+  "airdate": -35568000,
+  "scenes": [
+    {
+      "dialogue": [
+        {
+          "character": "KIRK",
+          "line": "Captain's log, stardate 5693.2. The Enterprise is approaching the last reported position of the star ship Defiant, which vanished without trace three weeks ago. We are in unsurveyed territory.",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "unknown"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "SPOCK",
+          "line": "Captain, we are registering very curious readings from all sensors."
+        },
+        {
+          "character": "KIRK",
+          "line": "Specify."
+        },
+        {
+          "character": "SPOCK",
+          "line": "I cannot. According to our instruments, space itself is literally breaking up. There is no known phenomenon which would account for these readings."
+        },
+        {
+          "character": "KIRK",
+          "line": "What about sensor failure?"
+        },
+        {
+          "character": "SPOCK",
+          "line": "Negative. I have run a complete check on all systems."
+        },
+        {
+          "character": "SCOTT",
+          "line": "Captain. We're losing power in the warp engines."
+        },
+        {
+          "character": "KIRK",
+          "line": "How bad is it?"
+        },
+        {
+          "character": "SCOTT",
+          "line": "We can barely read it, but I don't like the looks of it. And I cannot find out the cause."
+        },
+        {
+          "character": "CHEKOV",
+          "line": "Captain. Visual detection of an object dead ahead."
+        },
+        {
+          "character": "KIRK",
+          "line": "How about it, Spock?"
+        },
+        {
+          "character": "SPOCK",
+          "line": "Fascinating."
+        },
+        {
+          "character": "KIRK",
+          "line": "Explain."
+        },
+        {
+          "character": "SPOCK",
+          "line": "There is virtually no sensor contact. No mass analysis. No trace of radiation. We see it, but our sensors indicate it is not there."
+        },
+        {
+          "character": "KIRK",
+          "line": "The Defiant! Mister Sulu, impulse engines only. Close to transporter range."
+        },
+        {
+          "character": "SULU",
+          "line": "Aye, aye, sir."
+        },
+        {
+          "character": "KIRK",
+          "line": "Lieutenant, open up a hailing frequency."
+        },
+        {
+          "character": "UHURA",
+          "line": "I've been trying to raise them, sir. There is no response."
+        },
+        {
+          "character": "SULU",
+          "line": "Just within transporter range, sir."
+        },
+        {
+          "character": "KIRK",
+          "line": "Good. Maintain position. Mister Spock, Mister Chekov, come with me. Doctor McCoy, report to the transporter room immediately. Scotty, you have the conn."
+        },
+        {
+          "character": "SCOTT",
+          "line": "Aye, sir."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "O'NEIL",
+          "line": "Locked in on the Defiant Bridge, sir."
+        },
+        {
+          "character": "KIRK",
+          "line": "Energize."
+        }
+      ],
+      "location": "Transporter room"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "CHEKOV",
+          "line": "Has there ever been a mutiny on a starship before?"
+        },
+        {
+          "character": "SPOCK",
+          "line": "Absolutely no record of such an occurrence, Ensign."
+        },
+        {
+          "character": "MCCOY",
+          "line": "Jim. The Captain's neck is broken."
+        },
+        {
+          "character": "SPOCK",
+          "line": "The ship is still functioning, Captain. It is logical to assume the mutineers are somewhere aboard."
+        },
+        {
+          "character": "KIRK",
+          "line": "Use the ship's sensors to locate them. Kirk to Enterprise."
+        },
+        {
+          "character": "SCOTT",
+          "line": "Scott here, sir.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "KIRK",
+          "line": "Prepare to beam over a full security squad on my orders."
+        },
+        {
+          "character": "SCOTT",
+          "line": "Aye, aye, Captain.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "SPOCK",
+          "line": "Captain, there is no sign of life aboard this vessel."
+        },
+        {
+          "character": "KIRK",
+          "line": "Odd, Mister Spock. Very odd. Spock, you stay here with me. Chekov, get down to Engineering and life support systems. Doctor McCoy, check out the Sickbay. Kirk to Enterprise. Cancel the security squad and stand by for further instructions."
+        }
+      ],
+      "location": "Defiant Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "SCOTT",
+          "line": "Aye, aye, Captain. Standing by."
+        },
+        {
+          "character": "SULU",
+          "line": "I can't get an accurate fix on the Defiant, Mister Scott, but I know it's drifting away from us. Shall I correct for range, sir?"
+        },
+        {
+          "character": "SCOTT",
+          "line": "Aye, I think you're right. Keep us within beaming range, but not too close."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "CHEKOV",
+          "line": "Captain."
+        },
+        {
+          "character": "KIRK",
+          "line": "Report, Mister Chekov.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "CHEKOV",
+          "line": "Just like what I found in life support. All dead."
+        }
+      ],
+      "location": "Defiant Engineering"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "KIRK",
+          "line": "Get back up here."
+        },
+        {
+          "character": "KIRK",
+          "line": "Kirk to McCoy."
+        }
+      ],
+      "location": "Defiant Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "MCCOY",
+          "line": "McCoy here."
+        }
+      ],
+      "location": "Defiant Sickbay"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "KIRK",
+          "line": "Bones, can you tell me what they all died of?"
+        },
+        {
+          "character": "MCCOY",
+          "line": "I'd say these people killed each other.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "KIRK",
+          "line": "They what?"
+        }
+      ],
+      "location": "Defiant Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "MCCOY",
+          "line": "You heard correctly, Jim. These people killed each other."
+        }
+      ],
+      "location": "Defiant Sickbay"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "KIRK",
+          "line": "Could mental disease have infected all of the crew?"
+        },
+        {
+          "character": "MCCOY",
+          "line": "According to the ship's log, the medical surgeon down here didn't even know what was going on.",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "Defiant Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "MCCOY",
+          "line": "The best I can do is get all the readings I can get and analyze them later."
+        }
+      ],
+      "location": "Defiant Sickbay"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "MCCOY",
+          "line": "What the devil?"
+        },
+        {
+          "character": "KIRK",
+          "line": "Bones, what is it?",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "Defiant Corridor"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "KIRK",
+          "line": "Bones, what is it? Answer me!"
+        }
+      ],
+      "location": "Defiant Doctor's office"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "KIRK",
+          "line": "Answer me!"
+        }
+      ],
+      "location": "Defiant Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "MCCOY",
+          "line": "Jim, this ship is dissolving. My hand just passed through a man"
+        }
+      ],
+      "location": "Defiant Doctor's office"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "MCCOY",
+          "line": "And a table.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "KIRK",
+          "line": "Get up here on the double."
+        }
+      ],
+      "location": "Defiant Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "SULU",
+          "line": "Mister Scott, the Defiant. It's starting to disappear."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "SCOTT",
+          "line": "Bridge to transporter room.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "O'NEIL",
+          "line": "Transporter room, O'Neil here."
+        },
+        {
+          "character": "SCOTT",
+          "line": "You got that transporter working yet, Mister?",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "O'NEIL",
+          "line": "No, sir. Not yet."
+        }
+      ],
+      "location": "Transporter room"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "SCOTT",
+          "line": "Take over, Mister Sulu. I'll be in the transporter room."
+        },
+        {
+          "character": "SULU",
+          "line": "Aye, aye, sir."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "SPOCK",
+          "line": "Captain, the Defiant's sensors correspond with an extremely high degree of correlation to those of the Enterprise."
+        },
+        {
+          "character": "KIRK",
+          "line": "You mean what happened to the Defiant might be happening to the Enterprise?"
+        },
+        {
+          "character": "SPOCK",
+          "line": "Affirmative."
+        },
+        {
+          "character": "KIRK",
+          "line": "Kirk to Enterprise. Mister Scott."
+        },
+        {
+          "character": "SCOTT",
+          "line": "Scott here.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "KIRK",
+          "line": "Mister Scott, stand by to beam us back."
+        }
+      ],
+      "location": "Defiant Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "SCOTT",
+          "line": "I can't, sir. At least, not all at once."
+        }
+      ],
+      "location": "Transporter room"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "KIRK",
+          "line": "Why not? What's happened?"
+        }
+      ],
+      "location": "Defiant Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "SCOTT",
+          "line": "Everything. That ship you're in is fading out, and it's ripping the innards out of this one."
+        }
+      ],
+      "location": "Transporter room"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "SCOTT",
+          "line": "It's jamming our transporter frequencies. I've only got three of them working, and I'm not sure of those. One of you has got to wait.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "KIRK",
+          "line": "Chekov, McCoy, prepare for transportation. You, too, Spock."
+        },
+        {
+          "character": "SPOCK",
+          "line": "Request permission to remain, Captain. I could be completing the data."
+        },
+        {
+          "character": "KIRK",
+          "line": "Request denied."
+        },
+        {
+          "character": "SPOCK",
+          "line": "Captain, there is a chance"
+        },
+        {
+          "character": "KIRK",
+          "line": "I know what the chances are. Mister Spock, don't argue. Get back with the information. I'll be right there. Scotty, energize transporter."
+        }
+      ],
+      "location": "Defiant Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "SCOTT",
+          "line": "Aye."
+        },
+        {
+          "character": "SPOCK",
+          "line": "Energize."
+        },
+        {
+          "character": "CHEKOV",
+          "line": "It's gone. The Defiant just vanished."
+        },
+        {
+          "character": "SCOTT",
+          "line": "Anything?"
+        },
+        {
+          "character": "SPOCK",
+          "line": "Negative."
+        },
+        {
+          "character": "SCOTT",
+          "line": "That's it. I've done all I can. There's nothing out there to grab a hold of and bring in. When that ship went, it must have taken the Captain with it."
+        }
+      ],
+      "location": "Transporter room"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "COMPUTER",
+          "line": "Computer working."
+        },
+        {
+          "character": "SPOCK",
+          "line": "Compute the next period of spatial interphase."
+        },
+        {
+          "character": "COMPUTER",
+          "line": "Next interphase two hours twelve minutes."
+        },
+        {
+          "character": "SCOTT",
+          "line": "Two hours and twelve minutes? That power leak has unbalanced the ship and she's starting to drift. I can't hold her in place that long."
+        },
+        {
+          "character": "SPOCK",
+          "line": "We must try, Mister Scott. The fabric of space is very weak here. If we disturb it, there will be no chance of retrieving the Captain alive."
+        },
+        {
+          "character": "CHEKOV",
+          "line": "I don't understand what's so special about this region of space."
+        },
+        {
+          "character": "SPOCK",
+          "line": "Well, picture it this way, Mister Chekov. We exist in a universe which co-exists with a multitude of others in the same physical space. At certain brief periods of time, an area of their space overlaps an area of ours. That is a time of interphase, during which we can connect with the Defiant's universe."
+        },
+        {
+          "character": "UHURA",
+          "line": "Mister Spock? We will be able to retrieve the Captain at that time, won't we?"
+        },
+        {
+          "character": "SPOCK",
+          "line": "Yes. However, the dimensional structure of each universe is totally dissimilar. Any use of power disturbs it. If we are not extremely careful, we shall lose the Captain and become trapped ourselves."
+        },
+        {
+          "character": "UHURA",
+          "line": "I see."
+        },
+        {
+          "character": "CHEKOV",
+          "line": "And die like him?"
+        },
+        {
+          "character": "SPOCK",
+          "line": "Chekov! Chekov!"
+        },
+        {
+          "character": "SPOCK",
+          "line": "Security guards to the Bridge."
+        },
+        {
+          "character": "UHURA",
+          "line": "Aye, sir."
+        },
+        {
+          "character": "MCCOY",
+          "line": "What happened, Mister Spock?"
+        },
+        {
+          "character": "SPOCK",
+          "line": "I was attempting to explain to Mister Chekov the nature of our problems in this situation when he attacked."
+        },
+        {
+          "character": "MCCOY",
+          "line": "Did anyone notice anything peculiar in his behavior before this?"
+        },
+        {
+          "character": "SULU",
+          "line": "I think he had several spasms of pain."
+        },
+        {
+          "character": "MCCOY",
+          "line": "Did he seem to be getting hysterical?"
+        },
+        {
+          "character": "UHURA",
+          "line": "Doctor, he seemed more angry than frightened."
+        },
+        {
+          "character": "SCOTT",
+          "line": "He had no cause to be angry."
+        },
+        {
+          "character": "MCCOY",
+          "line": "Take Mister Chekov to Sickbay. Put him under restraint."
+        },
+        {
+          "character": "SPOCK",
+          "line": "Lieutenant Uhura is correct. There was murderous fury in Chekov. The same fury which was evident in the Defiant."
+        },
+        {
+          "character": "MCCOY",
+          "line": "That's what I was afraid of. Whatever it was that drove the crew of the Defiant to murder each other could be communicable."
+        },
+        {
+          "character": "SPOCK",
+          "line": "Is there anything you need to isolate the cause?"
+        },
+        {
+          "character": "MCCOY",
+          "line": "Time. By the way, Mister Spock, I think it might be a wise precaution to put some distance between us and the Defiant."
+        },
+        {
+          "character": "SPOCK",
+          "line": "If we are to recover the Captain, we must not move."
+        },
+        {
+          "character": "MCCOY",
+          "line": "How long will that take?"
+        },
+        {
+          "character": "SPOCK",
+          "line": "Approximately two hours before the attempt can be made."
+        },
+        {
+          "character": "MCCOY",
+          "line": "Spock, are you sure that Jim is still alive?"
+        },
+        {
+          "character": "SPOCK",
+          "line": "The Captain was caught in our transporter beam when the Defiant phased out. It is possible he was spared the shock of transition and survived. However, if we are to recover him, we must catch him at the precise moment during the next interphase, or he will die. And there can be no margin for error. His environmental unit can provide breathable air for no more than three point six two hours."
+        },
+        {
+          "character": "SULU",
+          "line": "Mister Spock. A vessel approaching on an intercept vector."
+        },
+        {
+          "character": "SPOCK",
+          "line": "Status, Mister Sulu."
+        },
+        {
+          "character": "SULU",
+          "line": "Range two hundred thousand kilometers. Velocity zero point five one C."
+        },
+        {
+          "character": "SPOCK",
+          "line": "Lieutenant Uhura, signal Red Alert."
+        },
+        {
+          "character": "UHURA",
+          "line": "Aye, sir. Red Alert. All decks, go to Red Alert."
+        },
+        {
+          "character": "SULU",
+          "line": "They've stopped dead, sir. Range ninety thousand kilometers and holding."
+        },
+        {
+          "character": "UHURA",
+          "line": "Mister Spock? I'm receiving a visual signal."
+        },
+        {
+          "character": "SPOCK",
+          "line": "Transfer to main viewer."
+        },
+        {
+          "character": "UHURA",
+          "line": "Aye, sir. appears against a blue and pink tie-die background.)"
+        },
+        {
+          "character": "LOSKENE",
+          "line": "I am Commander Loskene. You are trespassing in a territorial annex of the Tholian Assembly. You must leave this area immediately.",
+          "modifier": "screen"
+        },
+        {
+          "character": "SPOCK",
+          "line": "Spock, in command of the Federation star ship Enterprise. Commander, according to the Federation, this area is free space."
+        },
+        {
+          "character": "LOSKENE",
+          "line": "We claim this territory and are prepared to use force, if necessary, to protect our property.",
+          "modifier": "screen"
+        },
+        {
+          "character": "SPOCK",
+          "line": "We are not interested in your display of force. The Enterprise is responding to a distress signal from one of our ships and is currently engaged in rescue operations. Do you wish to assist us?"
+        },
+        {
+          "character": "LOSKENE",
+          "line": "I find no evidence of a disabled ship. My instruments indicate ours are the only two vessels in this area.",
+          "modifier": "screen"
+        },
+        {
+          "character": "SPOCK",
+          "line": "The other ship is interspatially trapped. It should reappear in one hour and fifty three minutes. We request you stand by until then."
+        },
+        {
+          "character": "LOSKENE",
+          "line": "Very well, Enterprise. In the interest of interstellar amity, we will wait precisely one hour and fifty three minutes. But be correct. We do not tolerate deceit.",
+          "modifier": "screen"
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "MCCOY",
+          "line": "If we could only find the proper filtering agent, we might be able to solve this problem. Negative. It's the third failure."
+        },
+        {
+          "character": "MCCOY",
+          "line": "Nurse, take this sample and run an analysis on it."
+        },
+        {
+          "character": "CHAPEL",
+          "line": "Yes, Doctor."
+        }
+      ],
+      "location": "Medical Lab"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "SPOCK",
+          "line": "Bridge to transporter room."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "SCOTT",
+          "line": "Transporter room here."
+        },
+        {
+          "character": "SPOCK",
+          "line": "Ready for interphase in twenty seconds.",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "Transporter room"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "CHAPEL",
+          "line": "Doctor McCoy!"
+        },
+        {
+          "character": "MCCOY",
+          "line": "Thank you, nurse. Call security. I want to have some checks run on this man."
+        }
+      ],
+      "location": "Medical Lab"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "SPOCK",
+          "line": "Lock on to Captain Kirk's co-ordinates"
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "SPOCK",
+          "line": "And prepare to bring him aboard, Mister Scott.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "SPOCK",
+          "line": "Bring him aboard, Mister Scott.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "SCOTT",
+          "line": "I'm trying. Captain Kirk is not on his designated co-ordinates, Mister Spock."
+        },
+        {
+          "character": "SPOCK",
+          "line": "Well, keep trying, Mister Scott.",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "Transporter room"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "SPOCK",
+          "line": "Lieutenant Sulu, evaluation."
+        },
+        {
+          "character": "SULU",
+          "line": "Sensor readings are not corresponding to those we received the last time we saw the Defiant."
+        },
+        {
+          "character": "SPOCK",
+          "line": "It's possible the Tholian entry into the area has disturbed the space, and if that has occurred"
+        },
+        {
+          "character": "MCCOY",
+          "line": "McCoy to Bridge.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "SPOCK",
+          "line": "Spock here."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "MCCOY",
+          "line": "Has the Captain been beamed aboard yet?"
+        },
+        {
+          "character": "SPOCK",
+          "line": "Negative, Doctor.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "MCCOY",
+          "line": "When is that interphase going to happen?"
+        }
+      ],
+      "location": "Medical lab"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "SPOCK",
+          "line": "Theoretically it already has happened, Doctor."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "SPOCK",
+          "line": "However, the ship's sensors are not responding as predicted.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "MCCOY",
+          "line": "I thought you had the thing timed out."
+        }
+      ],
+      "location": "Medical lab"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "SPOCK",
+          "line": "I did, Doctor. The space was disturbed by the Tholians."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "MCCOY",
+          "line": "You mean you don't know whether you're going to be able to recover the Captain or not?"
+        },
+        {
+          "character": "SPOCK",
+          "line": "Not at this interphase.",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "Medical lab"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "SPOCK",
+          "line": "I shall have to recalculate to determine when the next interphase will occur. They do not take place at regular intervals."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "MCCOY",
+          "line": "You can't wait for the next one. We've had another case like Chekov."
+        }
+      ],
+      "location": "Medical lab"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "MCCOY",
+          "line": "I had to confine my orderly to sickbay.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "SPOCK",
+          "line": "I have confidence that you will soon isolate the cause, Doctor, and prevent further spread of the affliction."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "MCCOY",
+          "line": "The disease is not transmitted by the men, Mister Spock. The cause is the area of space we're in. It's affecting the whole crew."
+        }
+      ],
+      "location": "Medical lab"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "MCCOY",
+          "line": "The molecular structure of the brain tissues in the central nervous system are distorting.",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "MCCOY",
+          "line": "And the madness that affected the Defiant's crew will soon happen to the Enterprise."
+        }
+      ],
+      "location": "Medical lab"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "MCCOY",
+          "line": "Now you've got to get this ship out of here.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "SULU",
+          "line": "Mister Spock, we're being fired upon."
+        },
+        {
+          "character": "SPOCK",
+          "line": "The renowned Tholian punctuality."
+        },
+        {
+          "character": "UHURA",
+          "line": "Mister Spock, damage control report. Minor structural damage to sections A4 and C13."
+        },
+        {
+          "character": "SPOCK",
+          "line": "Engineering, hold power steady and cut off all unnecessary expenditures. Mister Sulu, divert all but emergency maintenance power to the shields."
+        },
+        {
+          "character": "SULU",
+          "line": "But sir, that'll reduce our phaser power by fifty percent."
+        },
+        {
+          "character": "UHURA",
+          "line": "Mister Spock!"
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "SCOTT",
+          "line": "Scott to Bridge!"
+        }
+      ],
+      "location": "Engineering"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "SPOCK",
+          "line": "Spock here."
+        },
+        {
+          "character": "SCOTT",
+          "line": "I know you don't like to use the phasers, but you've got to do something about that ship out there.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "SPOCK",
+          "line": "Understood. Lieutenant Uhura, open a channel to the Tholian ship. Mister Sulu, lock in phaser tracking controls."
+        },
+        {
+          "character": "SULU",
+          "line": "Phasers locked in, sir."
+        },
+        {
+          "character": "UHURA",
+          "line": "There's no response on any frequency, sir."
+        },
+        {
+          "character": "MCCOY",
+          "line": "What's the use of this battle, Spock? You've lost Jim. Take this ship out of here."
+        },
+        {
+          "character": "SPOCK",
+          "line": "Ready, Mister Sulu?"
+        },
+        {
+          "character": "SULU",
+          "line": "Ready, Mister Spock."
+        },
+        {
+          "character": "SPOCK",
+          "line": "Fire."
+        },
+        {
+          "character": "SULU",
+          "line": "A hit, Mister Spock."
+        },
+        {
+          "character": "SPOCK",
+          "line": "Engineering, status report. Mister Scott?"
+        },
+        {
+          "character": "SCOTT",
+          "line": "Spock, that hit from the Tholians has fused our power supply converters.",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "SCOTT",
+          "line": "I can't do a thing with the Enterprise now."
+        }
+      ],
+      "location": "Engineering"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "SCOTT",
+          "line": "She's bound to drift, maybe right through that doorway out there.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "SPOCK",
+          "line": "Can you estimate minimum time required for repair?"
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "SCOTT",
+          "line": "I don't even know if she can be repaired."
+        }
+      ],
+      "location": "Engineering"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "MCCOY",
+          "line": "Are you satisfied? Spock, why did you do it?"
+        },
+        {
+          "character": "SPOCK",
+          "line": "The decision to fight was logical. Lack of time prevented any other course of action. The Tholian ship had to be disabled."
+        },
+        {
+          "character": "MCCOY",
+          "line": "You should've known what could've happened and done everything in your power to safeguard your crew. That is the mark of a starship Captain, like Jim."
+        },
+        {
+          "character": "SPOCK",
+          "line": "Doctor, I hardly believe this is the time for comparisons. Please go to your laboratory and search for an antidote to the effects of this space. That is your primary task, since we must remain here."
+        },
+        {
+          "character": "SULU",
+          "line": "Mister Spock, something has just entered sensor range. It's another Tholian, sir. Loskene must've contacted them when he tried to intercept us."
+        },
+        {
+          "character": "SPOCK",
+          "line": "Fascinating."
+        },
+        {
+          "character": "SULU",
+          "line": "Shall I lock in remaining phaser power, sir?"
+        },
+        {
+          "character": "SPOCK",
+          "line": "Negative. Lieutenant Uhura, can you open a channel to the approaching vessel?"
+        },
+        {
+          "character": "UHURA",
+          "line": "They're refusing reception. I can't"
+        },
+        {
+          "character": "SPOCK",
+          "line": "Distance, Mister Sulu."
+        },
+        {
+          "character": "SULU",
+          "line": "Just beyond phaser range, sir."
+        },
+        {
+          "character": "UHURA",
+          "line": "What is that?"
+        },
+        {
+          "character": "SPOCK",
+          "line": "Mister Sulu, I shall run an analysis on those filaments. Tie in all sensors to the ship's library computer console. Switch scanners."
+        },
+        {
+          "character": "SULU",
+          "line": "Yes, sir."
+        },
+        {
+          "character": "SPOCK",
+          "line": "There's no analogy to this structure in Federation technology. It is, however, an energy field, and if the Tholians are successful in completing this structure before we have completed our repairs, we shall not see home again."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "SPOCK",
+          "line": "Doctor, your last report on an antidote on the effects of this space was negative."
+        },
+        {
+          "character": "MCCOY",
+          "line": "It's still negative, Mister Spock. Theragen is the most promising substance tested so far. We're progressing."
+        },
+        {
+          "character": "SPOCK",
+          "line": "The urgency requires your personal attention in the laboratory."
+        },
+        {
+          "character": "MCCOY",
+          "line": "My staff is working around the clock. My being there will not affect the biochemistry of any of the tests. This service requires my personal attention, Mister Spock."
+        },
+        {
+          "character": "SPOCK",
+          "line": "A few hours ago, the Captain elected to remain on board the Defiant so that three members of this crew would have the best chance of returning safely to the Enterprise. His concern was not only for them, but for all the members of the crew of this ship. You all know the sequence of events. We were fired upon by the Tholian ship. At that time, Captain Kirk may have been alive. I deemed it necessary to return the Tholian fire for the safety of the Enterprise. The Tholian ship has been disabled. But as a result of the battle, we must accept the fact that Captain Kirk is no longer alive."
+        },
+        {
+          "character": "MCCOY",
+          "line": "Take him to Sickbay. Put him in restraint."
+        },
+        {
+          "character": "SPOCK",
+          "line": "I shall not attempt to voice the quality of respect and admiration which Captain Kirk commanded. Each of you must evaluate the loss in the privacy of your own thoughts."
+        },
+        {
+          "character": "SCOTT",
+          "line": "Attention. Dismissed."
+        },
+        {
+          "character": "MCCOY",
+          "line": "There is a duty to be performed in the Captain's quarters, which requires our presence."
+        },
+        {
+          "character": "SPOCK",
+          "line": "It can wait, Doctor. My duties require my immediate presence on the bridge."
+        },
+        {
+          "character": "MCCOY",
+          "line": "The Captain left a message tape. It was his order that it be reviewed by both of us, should he ever be declared dead. You have just declared Jim dead."
+        },
+        {
+          "character": "SPOCK",
+          "line": "It will wait for a more suitable moment, Doctor."
+        },
+        {
+          "character": "MCCOY",
+          "line": "Why? Are you afraid it'll change your present status?"
+        },
+        {
+          "character": "SPOCK",
+          "line": "The mental and physical state of this crew are your responsibility, Doctor. At the moment, they are your top priority."
+        },
+        {
+          "character": "MCCOY",
+          "line": "The Captain's last order is top priority, and you will honor that order before you take over."
+        }
+      ],
+      "location": "Assembly room"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "MCCOY",
+          "line": "He was a hero in every sense of the word, yet his life was sacrificed for nothing. The one thing that would have given his death meaning is the safety of the Enterprise. Now you've made that impossible, Mister Spock."
+        },
+        {
+          "character": "SPOCK",
+          "line": "We came here for a specific purpose, Doctor."
+        },
+        {
+          "character": "MCCOY",
+          "line": "Maybe not the same one. I really came here to find out why you stayed and fought."
+        },
+        {
+          "character": "SPOCK",
+          "line": "The Captain would have remained to recover a crew member at the risk of his own life or even his own ship."
+        },
+        {
+          "character": "MCCOY",
+          "line": "Yes, he would, Mister Spock, but you didn't have that decision to make. What would you gain by fighting the Tholians? You could have assured yourself of a captaincy by leaving the area. But you chose to stay. Why?"
+        },
+        {
+          "character": "SPOCK",
+          "line": "I need not explain my rationale to you or any other member of this crew. There is a margin of variation in any experiment. While there was a chance, I was bound legally and morally to ascertain the Captain's status."
+        },
+        {
+          "character": "MCCOY",
+          "line": "You mean to be sure if he was dead. Well, you made certain of that."
+        },
+        {
+          "character": "SPOCK",
+          "line": "That is enough, Doctor. We both have other things to do."
+        },
+        {
+          "character": "MCCOY",
+          "line": "Yes, I have something to do. If this crew is to survive, I have to find an antidote to this space you've locked us into."
+        },
+        {
+          "character": "SPOCK",
+          "line": "You will return to your duty as soon as we've diskharged our responsibilities here."
+        },
+        {
+          "character": "MCCOY",
+          "line": "There's no hurry, Mister Spock. The antidote probably doesn't concern you. Vulcans are probably immune, so just take your time."
+        },
+        {
+          "character": "MCCOY",
+          "line": "I must admit I don't understand you, Spock, but I just can't believe that you would want Jim's command. You must know that if you get us out of this situation, they'll pin a medal on your chest and give you command of the Enterprise."
+        },
+        {
+          "character": "SPOCK",
+          "line": "Doctor, I am in command of the Enterprise."
+        },
+        {
+          "character": "MCCOY",
+          "line": "I would like to remedy that situation."
+        },
+        {
+          "character": "SPOCK",
+          "line": "If you believe I have acted irregularly, then relieve me of duty. That is your prerogative as medical officer of this ship."
+        },
+        {
+          "character": "KIRK",
+          "line": "Bones, Spock. since you are playing this tape, we will assume that I am dead, that the tactical situation is critical, and both of you are locked in mortal combat. It means, Spock, that you have control of the ship and are probably making the most difficult decisions of your career. I can offer only one small piece of advice, for whatever it's worth. Use every scrap of knowledge and logic you have to save the ship. But temper your judgment with intuitive insight. I believe you have those qualities, but if you can't find them in yourself, seek out McCoy. Ask his advice. And if you find it sound, take it. Bones, you've heard what I've just told Spock. Help him if you can. But remember he is the Captain. His decisions must be followed without question. You might find that he is capable of human insight and human error. They are most difficult to defend, but you will find that he is deserving of the same loyalty and confidence each of you have given me. Take care.",
+          "modifier": "screen"
+        },
+        {
+          "character": "MCCOY",
+          "line": "Spock, I, er, I'm sorry. It does hurt, doesn't it?"
+        },
+        {
+          "character": "SPOCK",
+          "line": "What would you have me say, Doctor?"
+        },
+        {
+          "character": "SPOCK",
+          "line": "Spock here."
+        },
+        {
+          "character": "SCOTT",
+          "line": "Mister Spock, we have a readout on the Tholian tractor field. I think we can estimate its approximate completion time.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "SPOCK",
+          "line": "I shall be there shortly. Doctor, I believe we each have our respective tasks to complete before the Tholians complete theirs."
+        }
+      ],
+      "location": "Kirk's quarters"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "UHURA",
+          "line": "Captain! Captain Kirk, we thought you were"
+        }
+      ],
+      "location": "Uhura's quarters"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "UHURA",
+          "line": "Spock! Mister. Oh, Doctor I've just seen the Captain."
+        },
+        {
+          "character": "MCCOY",
+          "line": "Of course you have, Uhura. We would all like to"
+        },
+        {
+          "character": "UHURA",
+          "line": "He's alive. He's alive, Doctor."
+        },
+        {
+          "character": "MCCOY",
+          "line": "Of course."
+        },
+        {
+          "character": "UHURA",
+          "line": "Believe me, I did see him. I did. Spock! Mister Spock!"
+        },
+        {
+          "character": "MCCOY",
+          "line": "We're going to Sickbay."
+        },
+        {
+          "character": "UHURA",
+          "line": "Doctor. Doctor, I'm not going mad. I did see Captain Kirk. I've got to get to Mister Spock."
+        }
+      ],
+      "location": "Corridor"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "SCOTT",
+          "line": "Scott to Captain."
+        }
+      ],
+      "location": "Engineering"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "SCOTT",
+          "line": "Scott to Captain.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "SPOCK",
+          "line": "Spock here. Proceed, Mister Scott."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "SCOTT",
+          "line": "One of our crewmen just went berserk, but we have him under control for the moment."
+        }
+      ],
+      "location": "Engineering"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "SPOCK",
+          "line": "Report to Doctor McCoy all symptoms noted prior to the attack."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "SPOCK",
+          "line": "Spock out.",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "Engineering"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "CHAPEL",
+          "line": "Doctor McCoy,"
+        },
+        {
+          "character": "MCCOY",
+          "line": "Yes, Nurse."
+        },
+        {
+          "character": "CHAPEL",
+          "line": "I have the diagnosis of the crewman who attacked engineer Scott. It was definitely due to the deteriorative effects of interspace."
+        },
+        {
+          "character": "MCCOY",
+          "line": "Yes, it's beginning to spread generally throughout the ship."
+        },
+        {
+          "character": "CHAPEL",
+          "line": "Are we any closer, Doctor?"
+        },
+        {
+          "character": "MCCOY",
+          "line": "No, except I'm positive that it's a theragen derivative that's the answer. And it better be the next one."
+        }
+      ],
+      "location": "Medical lab"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "UHURA",
+          "line": "Mister Spock didn't believe me either, did he, Doctor?"
+        },
+        {
+          "character": "MCCOY",
+          "line": "Well, nobody saw him but you, Uhura."
+        },
+        {
+          "character": "UHURA",
+          "line": "Then I didn't really see him, did I?"
+        },
+        {
+          "character": "MCCOY",
+          "line": "I don't think so."
+        },
+        {
+          "character": "UHURA",
+          "line": "Will I become like Chekov, Doctor?"
+        },
+        {
+          "character": "MCCOY",
+          "line": "No, no. We're working hard. We'll find an antidote."
+        }
+      ],
+      "location": "Sickbay"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "SCOTT",
+          "line": "We're beginning to interphase."
+        },
+        {
+          "character": "O'NEIL",
+          "line": "I'm all right."
+        },
+        {
+          "character": "SCOTT",
+          "line": "Scott to Bridge."
+        },
+        {
+          "character": "SPOCK",
+          "line": "Bridge. Spock here.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "SCOTT",
+          "line": "Are we slipping into interspace?"
+        }
+      ],
+      "location": "Engineering"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "SPOCK",
+          "line": "Negative. We are relatively stable at the moment."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "SPOCK",
+          "line": "Why do you ask?",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "SCOTT",
+          "line": "I don't believe it."
+        },
+        {
+          "character": "SPOCK",
+          "line": "What is it, Mister Scott?",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "Engineering"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "SPOCK",
+          "line": "Mister Scott?"
+        },
+        {
+          "character": "SCOTT",
+          "line": "Mister Spock.",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "SCOTT",
+          "line": "I've just seen Captain Kirk. He was standing there as plain as we are."
+        }
+      ],
+      "location": "Engineering"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "SCOTT",
+          "line": "And then he just disappeared.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "SPOCK",
+          "line": "Report to the bridge immediately."
+        },
+        {
+          "character": "MCCOY",
+          "line": "Sounds like a horror story. Suppose there's any truth in it?"
+        },
+        {
+          "character": "SPOCK",
+          "line": "In critical moments, men sometimes see exactly what they wish to see."
+        },
+        {
+          "character": "MCCOY",
+          "line": "Do you suppose they're seeing Jim because they've lost confidence in you?"
+        },
+        {
+          "character": "SPOCK",
+          "line": "I was merely stating a fact, Doctor."
+        },
+        {
+          "character": "MCCOY",
+          "line": "It's getting critical. There have been a number of assaults down on the lower decks. Even Scotty's being affected. If Scotty goes under, that's the finish of whatever chance we have of getting the Enterprise out of here."
+        },
+        {
+          "character": "SPOCK",
+          "line": "Please leave that to me, Doctor McCoy. I realize that the crew are your prime concern. You can best serve them in your laboratory. I urge you to confine yourself to it until a remedy has been found."
+        },
+        {
+          "character": "MCCOY",
+          "line": "Spock! It must be this space. It's getting to me too. I know it's nothing you've done, Spock. I, I'm sorry."
+        },
+        {
+          "character": "SPOCK",
+          "line": "I understand, Doctor. I'm sure the Captain would simply have said forget it, Bones."
+        },
+        {
+          "character": "SCOTT",
+          "line": "Mister Spock, look!"
+        },
+        {
+          "character": "SPOCK",
+          "line": "Captain? Captain? Captain."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "UHURA",
+          "line": "Am I all right, Doctor?"
+        },
+        {
+          "character": "MCCOY",
+          "line": "Yes, Uhura, you're fine."
+        },
+        {
+          "character": "UHURA",
+          "line": "Then what I saw"
+        },
+        {
+          "character": "MCCOY",
+          "line": "It was real."
+        },
+        {
+          "character": "UHURA",
+          "line": "Captain Kirk's alive?"
+        },
+        {
+          "character": "MCCOY",
+          "line": "We all saw him. The Captain's still alive."
+        },
+        {
+          "character": "CHAPEL",
+          "line": "Nurse Chapel to Doctor McCoy.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "MCCOY",
+          "line": "McCoy here."
+        },
+        {
+          "character": "CHAPEL",
+          "line": "Results of the last theragen test are ready for you, Doctor."
+        },
+        {
+          "character": "MCCOY",
+          "line": "I'll be right there."
+        }
+      ],
+      "location": "Sickbay"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "SCOTT",
+          "line": "Then your fears about that phaser were correct. It blasted a hole right through that crazy space fabric, and only heaven knows where it sent the Defiant."
+        },
+        {
+          "character": "SPOCK",
+          "line": "Exactly. But the Captain remained. Only the overlap time changed. The next interphase will occur here."
+        },
+        {
+          "character": "SPOCK",
+          "line": "Can you be ready?"
+        },
+        {
+          "character": "SCOTT",
+          "line": "That'll be about twenty minutes. Aye, she'll be back together. But we'll only have about eighty percent power built up."
+        },
+        {
+          "character": "SPOCK",
+          "line": "It will have to do, Mister Scott. Come."
+        },
+        {
+          "character": "SCOTT",
+          "line": "What have you got there?"
+        },
+        {
+          "character": "MCCOY",
+          "line": "Compliments of the house. To your good health and the health of the crew."
+        },
+        {
+          "character": "SPOCK",
+          "line": "You've found the antidote, Doctor."
+        },
+        {
+          "character": "MCCOY",
+          "line": "Yes, and I've ordered it orally or intravenously for everyone aboard the ship. I would like for you gentlemen to drink it down."
+        },
+        {
+          "character": "SPOCK",
+          "line": "Ensign Chekov was affected so early. Has he responded to it?"
+        },
+        {
+          "character": "MCCOY",
+          "line": "He's his smiling self again. I've diskharged him from Sickbay."
+        },
+        {
+          "character": "SCOTT",
+          "line": "What is it?"
+        },
+        {
+          "character": "MCCOY",
+          "line": "It's a diluted theragen derivative."
+        },
+        {
+          "character": "SPOCK",
+          "line": "Theragen? A nerve gas used by the Klingons."
+        },
+        {
+          "character": "SCOTT",
+          "line": "Aye. And deadly, too. What are you thinking of, Doc? Are you trying to kill us all?"
+        },
+        {
+          "character": "SPOCK",
+          "line": "If I remember correctly, it caused fatality only when used in pure form."
+        },
+        {
+          "character": "MCCOY",
+          "line": "That's right, and in this derivative, mixed with alcohol, it merely deadens certain nerve inputs to the brain."
+        },
+        {
+          "character": "SCOTT",
+          "line": "Oh, well, any decent brand of Scotch will do that."
+        },
+        {
+          "character": "MCCOY",
+          "line": "One good slug of this, and you can hit a man with phaser stun, and he'd never feel it or even know it."
+        },
+        {
+          "character": "SCOTT",
+          "line": "Does it make a good mix with Scotch?"
+        },
+        {
+          "character": "MCCOY",
+          "line": "It should."
+        },
+        {
+          "character": "SCOTT",
+          "line": "I'll let you know."
+        },
+        {
+          "character": "MCCOY",
+          "line": "Well, drink it down, Spock. It's the human thing to do. That's a medical order, Captain."
+        }
+      ],
+      "location": "Spock's quarters"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "SPOCK",
+          "line": "Welcome back, Lieutenant."
+        },
+        {
+          "character": "UHURA",
+          "line": "Thank you, sir."
+        },
+        {
+          "character": "SPOCK",
+          "line": "Your absence was keenly felt, Mister Chekov."
+        },
+        {
+          "character": "CHEKOV",
+          "line": "Thank you, Mister Spock."
+        },
+        {
+          "character": "SPOCK",
+          "line": "Estimated time for completion of the Tholian web."
+        },
+        {
+          "character": "CHEKOV",
+          "line": "Two minutes, sir."
+        },
+        {
+          "character": "SPOCK",
+          "line": "Are the ships computers programd for entry into interspace?"
+        },
+        {
+          "character": "CHEKOV",
+          "line": "Yes, sir. The ship can drive into interspace at any time."
+        },
+        {
+          "character": "SPOCK",
+          "line": "Spock to engineering."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "SCOTT",
+          "line": "Scott here."
+        },
+        {
+          "character": "SPOCK",
+          "line": "Prepare for interphase in",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "Engineering"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "SPOCK",
+          "line": "Fifteen seconds."
+        },
+        {
+          "character": "SCOTT",
+          "line": "Aye, sir. Standing by.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "SULU",
+          "line": "Mister Spock, they're closing the web."
+        },
+        {
+          "character": "CHEKOV",
+          "line": "Interphase in ten seconds. Nine, eight"
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "CHEKOV",
+          "line": "Seven, six, five",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "Transporter room"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "SPOCK",
+          "line": "Stand by with full power."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "CHEKOV",
+          "line": "Four, three",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "SCOTT",
+          "line": "She's only up to seventy six percent."
+        }
+      ],
+      "location": "Engineering"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "SPOCK",
+          "line": "It will have to do."
+        },
+        {
+          "character": "CHEKOV",
+          "line": "One."
+        },
+        {
+          "character": "SPOCK",
+          "line": "Ready to transport on my order."
+        },
+        {
+          "character": "UHURA",
+          "line": "I see him."
+        },
+        {
+          "character": "CHEKOV",
+          "line": "There he is!"
+        },
+        {
+          "character": "SULU",
+          "line": "It's the Captain. Sir, the tractor field is activating."
+        },
+        {
+          "character": "CHEKOV",
+          "line": "We're being pulled out of here."
+        },
+        {
+          "character": "SPOCK",
+          "line": "Try to maintain position Mister Sulu."
+        },
+        {
+          "character": "SULU",
+          "line": "I can't, sir."
+        },
+        {
+          "character": "SPOCK",
+          "line": "Engineering, bring ship's power up to full capability."
+        },
+        {
+          "character": "UHURA",
+          "line": "Where are we now, Mister Spock?"
+        },
+        {
+          "character": "CHEKOV",
+          "line": "Captain, we have destroyed the Tholians' web."
+        },
+        {
+          "character": "SPOCK",
+          "line": "Negative, Ensign. Utilizing ship's power has thrown us clear of it. Compute the distance from the original location."
+        },
+        {
+          "character": "CHEKOV",
+          "line": "At once, sir."
+        },
+        {
+          "character": "UHURA",
+          "line": "Have we lost the Captain?"
+        },
+        {
+          "character": "SPOCK",
+          "line": "We shall soon see, Lieutenant."
+        },
+        {
+          "character": "CHEKOV",
+          "line": "The ship has been thrown exactly two point seven two parsecs distant from our previous position."
+        },
+        {
+          "character": "SPOCK",
+          "line": "Good. Since the Captain was locked into our transporter beam when we were thrown clear of the interphase area, he should've been drawn here with us. Spock to transporter room."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "MCCOY",
+          "line": "McCoy here."
+        },
+        {
+          "character": "SPOCK",
+          "line": "The Captain's oxygen supply is running out now. Are you standing by with a hypo of tri-ox compound for him?",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "MCCOY",
+          "line": "I'm ready, Mister Spock."
+        }
+      ],
+      "location": "Transporter room"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "SPOCK",
+          "line": "Prepare to transport on the Captain's co-ordinates on my order."
+        },
+        {
+          "character": "O'NEIL",
+          "line": "Ready, Mister Spock.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "CHEKOV",
+          "line": "Mister Spock, it's him! It's the Captain!"
+        },
+        {
+          "character": "SPOCK",
+          "line": "I see him, Ensign. I see him. Now, Doctor."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "KIRK",
+          "line": "Bones."
+        },
+        {
+          "character": "MCCOY",
+          "line": "Welcome home, Jim."
+        }
+      ],
+      "location": "Transporter room"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "KIRK",
+          "line": "I had a whole universe to myself after the Defiant was thrown out. There was absolutely no one else in it. I must say I prefer a crowded universe much better. How did you two get along without me?"
+        },
+        {
+          "character": "MCCOY",
+          "line": "Oh, we managed. Mister Spock gave the orders, and I found the answers."
+        },
+        {
+          "character": "KIRK",
+          "line": "Good. No problems between you?"
+        },
+        {
+          "character": "SPOCK",
+          "line": "None worth reporting, Captain."
+        },
+        {
+          "character": "KIRK",
+          "line": "Try me."
+        },
+        {
+          "character": "SPOCK",
+          "line": "Only such minor disturbances as are inevitable when humans are involved."
+        },
+        {
+          "character": "KIRK",
+          "line": "Which humans, Mister Spock?"
+        },
+        {
+          "character": "MCCOY",
+          "line": "He means when humans become involved with Vulcans, Jim."
+        },
+        {
+          "character": "KIRK",
+          "line": "Ah, yes. I understand. Well, I hope my last orders were helpful in solving any problems that you don't feel worth reporting."
+        },
+        {
+          "character": "SPOCK",
+          "line": "Orders, Captain?"
+        },
+        {
+          "character": "MCCOY",
+          "line": "What orders are you referring to, Jim?"
+        },
+        {
+          "character": "KIRK",
+          "line": "My last orders. The last orders that I left for both of you. The last taped orders."
+        },
+        {
+          "character": "MCCOY",
+          "line": "Oh, those orders. Well, there wasn't time. We never had a chance to listen to them."
+        },
+        {
+          "character": "SPOCK",
+          "line": "No. You see, the crisis was upon us, and then passed so quickly, Captain, that we"
+        },
+        {
+          "character": "KIRK",
+          "line": "Good. Good. Well, I hope we won't have similar opportunities to test those orders which you never heard. Ahead warp factor two, Mister Sulu."
+        },
+        {
+          "character": "SULU",
+          "line": "Warp factor two, sir."
+        }
+      ],
+      "location": "Bridge"
+    }
+  ],
+  "schedule": {
+    "episode": 9,
+    "number": 64,
+    "season": 3
+  },
+  "stardate": "5693.2",
+  "title": "The Tholian Web"
+}

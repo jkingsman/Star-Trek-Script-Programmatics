@@ -1,0 +1,1409 @@
+{
+  "airdate": -93110400,
+  "scenes": [
+    {
+      "dialogue": [
+        {
+          "character": "KIRK",
+          "line": "You'll enjoy Commodore Travers. He sets a good table."
+        },
+        {
+          "character": "MCCOY",
+          "line": "I wonder if he brought his personal chef along with him to Cestus Three."
+        },
+        {
+          "character": "KIRK",
+          "line": "Probably. Rank hath its privileges."
+        },
+        {
+          "character": "MCCOY",
+          "line": "How well we both know that."
+        },
+        {
+          "character": "KIRK",
+          "line": "Scotty. Kirk here."
+        },
+        {
+          "character": "TRAVERS",
+          "line": "Travers, Jim. We're waiting.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "KIRK",
+          "line": "Good, Commodore. We're on our way."
+        },
+        {
+          "character": "TRAVERS",
+          "line": "Be sure to bring along your tactical people. I've got an interesting problem for them.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "KIRK",
+          "line": "We'll beam down immediately, Commodore. Kirk out."
+        },
+        {
+          "character": "SPOCK",
+          "line": "Captain. I wonder why he's insistent that our tactical aides come down."
+        },
+        {
+          "character": "KIRK",
+          "line": "This colony is isolated, exposed, out on the edge of now here. He probably wants additional advice."
+        },
+        {
+          "character": "SPOCK",
+          "line": "Perhaps, Captain, but nevertheless"
+        },
+        {
+          "character": "MCCOY",
+          "line": "Spock, isn't it enough the commodore is famous for his hospitality? I, for one, could use a good non-reconstituted meal."
+        },
+        {
+          "character": "SPOCK",
+          "line": "Doctor, you are a sensualist."
+        },
+        {
+          "character": "MCCOY",
+          "line": "You bet your pointed ears I am. Ready whenever you are, Captain."
+        },
+        {
+          "character": "KIRK",
+          "line": "Energize."
+        }
+      ],
+      "location": "Transporter room"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "KIRK",
+          "line": "Kirk to Enterprise. Red alert."
+        },
+        {
+          "character": "SULU",
+          "line": "What is it, Captain?",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "KIRK",
+          "line": "Cestus Three has been destroyed."
+        },
+        {
+          "character": "KIRK",
+          "line": "Full alert. Tricorder readings, Mister Spock. Life detection."
+        },
+        {
+          "character": "SPOCK",
+          "line": "Those messages we got, Captain, the one directing us here yesterday."
+        },
+        {
+          "character": "KIRK",
+          "line": "Faked. All this happened several days ago. Lang, over there. Look for survivors. Kelowitz, that way. O'Herlihy, stick with me."
+        },
+        {
+          "character": "SPOCK",
+          "line": "Captain, impulses that direction. Very weak, possibly a survivor."
+        },
+        {
+          "character": "KIRK",
+          "line": "Come on, Bones."
+        },
+        {
+          "character": "KIRK",
+          "line": "Captain's log, Stardate 3045.6 The Enterprise has responded to a call from Earth observation outpost on Cestus Three. On landing, we have diskovered that the outpost has been destroyed.",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "Planet surface"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "MCCOY",
+          "line": "Captain, over there. Careful, careful. Shock, radiation burns, internal injuries for certain."
+        },
+        {
+          "character": "MCCOY",
+          "line": "Careful, careful. Shock, radiation burns, internal injuries for certain. He's in a bad way, Captain."
+        },
+        {
+          "character": "KIRK",
+          "line": "Keep him alive, Bones. I want to know what's been happening here."
+        },
+        {
+          "character": "SPOCK",
+          "line": "Getting another life reading, Captain."
+        },
+        {
+          "character": "KIRK",
+          "line": "Survivors?"
+        },
+        {
+          "character": "SPOCK",
+          "line": "Not survivors. Not warm-blooded. Living creatures, but not human."
+        },
+        {
+          "character": "KIRK",
+          "line": "Where?"
+        },
+        {
+          "character": "SPOCK",
+          "line": "Azimuth ninety three degrees, range one five seven zero yards."
+        },
+        {
+          "character": "KIRK",
+          "line": "O'Herlihy."
+        },
+        {
+          "character": "O'HERLIHY",
+          "line": "Captain, I see something."
+        },
+        {
+          "character": "KIRK",
+          "line": "Cover! Kirk to Enterprise, lock on transporters. Beam us up."
+        }
+      ],
+      "location": "Ruins"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "SULU",
+          "line": "Captain, we're coming under attack. Unidentified ship quartering in."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "SULU",
+          "line": "We can't beam you up. I've just rigged up defensive screens.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "KIRK",
+          "line": "Keep those screens up. Fire all phasers."
+        }
+      ],
+      "location": "Ruins"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "SULU",
+          "line": "Firing phasers, Captain. The alien has screens up, too."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "KIRK",
+          "line": "Take all action necessary to protect the ship. We'll hold out here."
+        }
+      ],
+      "location": "Ruins"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "SULU",
+          "line": "Are you under attack, Captain?"
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "SULU",
+          "line": "We could drop screens.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "KIRK",
+          "line": "Keep those screens up. Worry about us when the ship is safe."
+        }
+      ],
+      "location": "Ruins"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "KIRK",
+          "line": "Kirk out.",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "KIRK",
+          "line": "If they lower those screens to beam us up, they'll be open to phaser attack."
+        },
+        {
+          "character": "SPOCK",
+          "line": "We're hopelessly outnumbered here, Captain. It's those disruptors versus our hand phasers."
+        },
+        {
+          "character": "KIRK",
+          "line": "We're stuck with it, Mister Spock. We'll have to make do with what we've got."
+        },
+        {
+          "character": "KIRK",
+          "line": "Kelowitz, Lang, flank out. Lay down fire on co-ordinates Mister Spock gave you. Even if you don't see them. Keep your heads down."
+        },
+        {
+          "character": "KIRK",
+          "line": "We're helpless down here. And the Enterprise"
+        },
+        {
+          "character": "SPOCK",
+          "line": "Sulu is an experienced combat officer."
+        },
+        {
+          "character": "KIRK",
+          "line": "It's my ship, Mister Spock. I should be there. We can't even get at them."
+        },
+        {
+          "character": "SPOCK",
+          "line": "Nor can they at us at the moment. Not unless they moved their original position. That intervening high ground."
+        },
+        {
+          "character": "KIRK",
+          "line": "Can you remember the layout of this place? The arsenal?"
+        },
+        {
+          "character": "SPOCK",
+          "line": "About one hundred yards in that direction. But after an attack as thorough as this one"
+        },
+        {
+          "character": "KIRK",
+          "line": "I'll risk it."
+        },
+        {
+          "character": "KIRK",
+          "line": "Kirk here. Report."
+        }
+      ],
+      "location": "Ruins"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "SULU",
+          "line": "Captain, are you all right?"
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "KIRK",
+          "line": "Never mind about me. What about the ship?"
+        }
+      ],
+      "location": "Ruins"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "SULU",
+          "line": "We returned fire with all phaser banks. Negative against its deflector screen."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "KIRK",
+          "line": "Arm your photon torpedoes."
+        }
+      ],
+      "location": "Ruins"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "SULU",
+          "line": "Aye, aye, sir. Arm photon torpedoes. Stand by."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "KIRK",
+          "line": "Any identification on the attacking vessel?"
+        },
+        {
+          "character": "SULU",
+          "line": "No, sir. Doesn't correspond with any configuration we're familiar with.",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "Ruins"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "SULU",
+          "line": "We can't get visual contact. She's too far away."
+        },
+        {
+          "character": "DEPAUL",
+          "line": "Mister Sulu, photon torpedoes locked on."
+        },
+        {
+          "character": "SULU",
+          "line": "Photon torpedoes locked on, Captain."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "unknown",
+          "line": "KIRK; Fire all banks."
+        }
+      ],
+      "location": "Ruins"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "SULU",
+          "line": "All banks fired, sir."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "KIRK",
+          "line": "Sulu. Sulu, our communications are being interfered with. Now get this straight."
+        }
+      ],
+      "location": "Ruins"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "KIRK",
+          "line": "You do anything you think necessary to protect the ship. Leave orbit, maximum warp, anything. Clear?",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "SULU",
+          "line": "Clear, Captain, but you"
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "KIRK",
+          "line": "Never mind about me. Protect my ship!"
+        }
+      ],
+      "location": "Ruins"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "SULU",
+          "line": "Yes, sir. Photon torpedoes negative, Captain. I'm warping out of orbit."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "KIRK",
+          "line": "Good. Contact me when you can. Kirk out."
+        },
+        {
+          "character": "SPOCK",
+          "line": "How is he, Doctor?"
+        },
+        {
+          "character": "MCCOY",
+          "line": "He'll be dead in half an hour if we don't get him some decent care."
+        },
+        {
+          "character": "SPOCK",
+          "line": "They're moving. I've got to get to the Captain."
+        },
+        {
+          "character": "SPOCK",
+          "line": "Locked on to the enemy, Captain. They're moving toward the high ground. They've locked on to my tricorder."
+        },
+        {
+          "character": "SPOCK",
+          "line": "Very ingenious. They fed back my own impulses and built up an overload."
+        },
+        {
+          "character": "KIRK",
+          "line": "We'll see how ingenious they are. Here, give me a hand with this grenade launcher. Lang!"
+        },
+        {
+          "character": "SPOCK",
+          "line": "Any word from the Enterprise?"
+        },
+        {
+          "character": "KIRK",
+          "line": "Sulu's taken her out of orbit."
+        },
+        {
+          "character": "KELOWITZ",
+          "line": "They got Lang, sir."
+        },
+        {
+          "character": "KIRK",
+          "line": "Did you see them?"
+        },
+        {
+          "character": "KELOWITZ",
+          "line": "No, sir."
+        },
+        {
+          "character": "KIRK",
+          "line": "An evaluation, Mister Kelowitz. Where do you think they are?"
+        },
+        {
+          "character": "KELOWITZ",
+          "line": "If I were them, I'd go to the high ground on the right. I make it twelve hundred yards, azimuth eighty seven. It's pretty close for one of these little jewels, Captain."
+        },
+        {
+          "character": "KIRK",
+          "line": "It'll be a lot closer to them. Stand clear."
+        },
+        {
+          "character": "KIRK",
+          "line": "Kirk here."
+        },
+        {
+          "character": "SULU",
+          "line": "Captain, the alien's withdrawing. She's at extreme range, but our sensors indicate she just activated her transporters.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "KIRK",
+          "line": "Lock on to the alien, Mister Sulu. I don't want to lose her."
+        }
+      ],
+      "location": "Ruins"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "SULU",
+          "line": "Aye, aye, sir. Our screens are down. We can beam you up now, sir."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "KIRK",
+          "line": "I want a search party of thirty medical personnel beamed down immediately to search for survivors. Notify the transporter room. Lock onto us. We're beaming up."
+        }
+      ],
+      "location": "Ruins"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "SULU",
+          "line": "Aye, aye, sir."
+        },
+        {
+          "character": "KIRK",
+          "line": "Captain's log, supplement. We have beamed back to the Enterprise and immediately set out in pursuit of the alien vessel. It appears to be headed toward a largely unexplored section of the galaxy.",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "KIRK",
+          "line": "Can you tell me what happened?"
+        },
+        {
+          "character": "MAN",
+          "line": "Scanners reported a ship approaching. We get them now and then. They're all welcome to use our facilities. You know that."
+        },
+        {
+          "character": "KIRK",
+          "line": "Yes, I know."
+        },
+        {
+          "character": "MAN",
+          "line": "They came in space normal speed, using our regular approach route, but they knocked out our phaser batteries with their first salvo. From then on we were helpless. We weren't expecting anything! Why should we? We didn't have anything anyone would want."
+        },
+        {
+          "character": "KIRK",
+          "line": "Easy. Easy."
+        },
+        {
+          "character": "MAN",
+          "line": "They poured it on, like, like phasers, only worse, whatever they were using. I tried to signal them. We called up. Tried to surrender. We had women and children. I told them that! I begged them! They wouldn't listen. They didn't let up for a moment."
+        },
+        {
+          "character": "KIRK",
+          "line": "Lieutenant, the Enterprise received two messages, ostensibly from Cestus Three. One for the Enterprise to go there, and the other for myself and my tactical crew to beam down to the surface."
+        },
+        {
+          "character": "MAN",
+          "line": "They hit us a full day before you got there, Captain. No messages came from us, Captain. Why did they do it? Why? Why did they do it? There has to be a reason. There has to be a reason!"
+        }
+      ],
+      "location": "Sickbay"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "KIRK",
+          "line": "It was a trap. Getting the Enterprise to come to Cestus Three, getting us and our whole crew to come ashore."
+        },
+        {
+          "character": "SPOCK",
+          "line": "Very clever. As to the reason?"
+        },
+        {
+          "character": "KIRK",
+          "line": "The reason is crystal clear. The Enterprise is the only protection in this section of the Federation. Destroy the Enterprise, and everything is wide open."
+        },
+        {
+          "character": "SPOCK",
+          "line": "You allude to invasion, Captain, yet positive proof"
+        },
+        {
+          "character": "KIRK",
+          "line": "I have all the proof I need on Cestus Three."
+        },
+        {
+          "character": "SPOCK",
+          "line": "Not necessarily, sir. Several possible explanations"
+        },
+        {
+          "character": "KIRK",
+          "line": "How can you explain a massacre like that? No, Mister Spock. The threat is clear and immediate. Invasion."
+        },
+        {
+          "character": "SPOCK",
+          "line": "Very well, then. If that's the case, you must make certain that the alien vessel never reaches its home base."
+        },
+        {
+          "character": "KIRK",
+          "line": "I intend to. If we can keep them in the dark as to our strength, they'll never dare move against us. Captain to helmsman."
+        },
+        {
+          "character": "SULU",
+          "line": "Sulu here, sir.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "KIRK",
+          "line": "Is the alien still making warp five?"
+        },
+        {
+          "character": "SULU",
+          "line": "Affirmative, sir.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "KIRK",
+          "line": "Initiate warp six."
+        },
+        {
+          "character": "SULU",
+          "line": "Affirmative, sir.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "KIRK",
+          "line": "Overtake. Phaser banks, lock on to the enemy vessel. Stand by for firing orders. All hands, this is the Captain. We are going into battle. All hands, battle stations. Red alert. I repeat, red alert. This is no drill. This is no drill."
+        },
+        {
+          "character": "KIRK",
+          "line": "Captain's log, Stardate 3046.2. We are in hot pursuit of the alien vessel which destroyed the Earth outpost on Cestus Three.",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "Captain's quarters"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "KIRK",
+          "line": "Mister DePaul."
+        },
+        {
+          "character": "DEPAUL",
+          "line": "Yes, sir."
+        },
+        {
+          "character": "KIRK",
+          "line": "Position."
+        },
+        {
+          "character": "DEPAUL",
+          "line": "Twenty two point three parsecs beyond latest chart limit, sir."
+        },
+        {
+          "character": "KIRK",
+          "line": "All scanners lock into computer banks. I want a complete record of this. Mister Spock, what do we have on this general area?"
+        },
+        {
+          "character": "SPOCK",
+          "line": "Virtually nothing, Captain. No records of any explorations. There are rumors of certain strange signals on subspace channels. However, none has ever been recorded."
+        },
+        {
+          "character": "KIRK",
+          "line": "Anything on intelligent life forms?"
+        },
+        {
+          "character": "SPOCK",
+          "line": "Nothing specific, Captain. Unscientific rumors only. More like space legends."
+        },
+        {
+          "character": "KIRK",
+          "line": "Mister Sulu, status, alien vessel."
+        },
+        {
+          "character": "SULU",
+          "line": "They must be aware we're after them, sir. They've gone to warp six also."
+        },
+        {
+          "character": "KIRK",
+          "line": "Warp factor seven."
+        },
+        {
+          "character": "SULU",
+          "line": "Aye, aye, sir."
+        },
+        {
+          "character": "KIRK",
+          "line": "Something the matter, Mister Spock?"
+        },
+        {
+          "character": "SPOCK",
+          "line": "A sustained warp seven speed will be dangerous, Captain."
+        },
+        {
+          "character": "KIRK",
+          "line": "Thank you, Mister Spock. I mean to catch them."
+        },
+        {
+          "character": "SCOTT",
+          "line": "We'll either catch them or blow up, Captain. They may be faster than we are."
+        },
+        {
+          "character": "KIRK",
+          "line": "They'll have to prove it. Yes, Mister Spock?"
+        },
+        {
+          "character": "SPOCK",
+          "line": "You mean to destroy the alien ship, Captain?"
+        },
+        {
+          "character": "KIRK",
+          "line": "Of course."
+        },
+        {
+          "character": "SPOCK",
+          "line": "I thought perhaps the hot pursuit alone might be sufficient. Destruction might be unnecessary."
+        },
+        {
+          "character": "KIRK",
+          "line": "Colony Cestus Three has been obliterated, Mister Spock."
+        },
+        {
+          "character": "SPOCK",
+          "line": "The destruction of the alien vessel will not help that colony, Jim."
+        },
+        {
+          "character": "KIRK",
+          "line": "If the aliens go unpunished, they'll be back, attacking other Federation installlations."
+        },
+        {
+          "character": "SPOCK",
+          "line": "I merely suggested that a regard for sentient life"
+        },
+        {
+          "character": "KIRK",
+          "line": "There's no time for that. It's a matter of policy. Out here, we're the only policemen around. And a crime has been committed. Do I make myself clear?"
+        },
+        {
+          "character": "SPOCK",
+          "line": "Very clear, Captain."
+        },
+        {
+          "character": "KIRK",
+          "line": "I'm delighted, Mister Spock. Report, Mister Sulu."
+        },
+        {
+          "character": "SULU",
+          "line": "Alien ship maintaining interval, Captain. Now at warp seven."
+        },
+        {
+          "character": "KIRK",
+          "line": "Warp factor eight."
+        },
+        {
+          "character": "SULU",
+          "line": "Aye, aye, sir."
+        },
+        {
+          "character": "KIRK",
+          "line": "Captain to phaser banks. All components at battle ready. All banks primed."
+        },
+        {
+          "character": "CREWMAN",
+          "line": "Aft phaser to Bridge. Alert status. All weapons at operational ready.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "SULU",
+          "line": "Captain."
+        },
+        {
+          "character": "KIRK",
+          "line": "Yes, Mister Sulu."
+        },
+        {
+          "character": "SULU",
+          "line": "Closing on target, sir."
+        },
+        {
+          "character": "KIRK",
+          "line": "Good. Mister DePaul."
+        },
+        {
+          "character": "DEPAUL",
+          "line": "Yes, sir."
+        },
+        {
+          "character": "KIRK",
+          "line": "Our position."
+        },
+        {
+          "character": "DEPAUL",
+          "line": "Two two seven nine pl, sir. Uncharted solar system at two four six six pm."
+        },
+        {
+          "character": "KIRK",
+          "line": "Is it on the alien's course?"
+        },
+        {
+          "character": "DEPAUL",
+          "line": "No, sir. He's headed away from it."
+        },
+        {
+          "character": "UHURA",
+          "line": "Captain, sensors report we're being scanned."
+        },
+        {
+          "character": "KIRK",
+          "line": "By the alien ship?"
+        },
+        {
+          "character": "UHURA",
+          "line": "No, sir. It's from that solar system ahead."
+        },
+        {
+          "character": "KIRK",
+          "line": "Any interference? Resistance?"
+        },
+        {
+          "character": "UHURA",
+          "line": "No, sir, Just scanning beams. It's on an unusual wave length."
+        },
+        {
+          "character": "KIRK",
+          "line": "Mister Spock?"
+        },
+        {
+          "character": "SPOCK",
+          "line": "It would appear someone is curious about us."
+        },
+        {
+          "character": "KIRK",
+          "line": "Mister Sulu, is the alien still heading away from that solar system?"
+        },
+        {
+          "character": "SULU",
+          "line": "Yes, sir. We're closing, sir."
+        },
+        {
+          "character": "KIRK",
+          "line": "Lieutenant Uhura, anything further on those scanning beams?"
+        },
+        {
+          "character": "UHURA",
+          "line": "There's no hostility, sir. They're not tractors or weapons of any sort, Just increasing in intensity. Steady. Regular. It's growing stronger, sir."
+        },
+        {
+          "character": "SULU",
+          "line": "Captain!"
+        },
+        {
+          "character": "KIRK",
+          "line": "Yes, what is it?"
+        },
+        {
+          "character": "SULU",
+          "line": "The alien. It's slowing down. Warp five, four, two. It's going sublight, sir. Sir? It's stopped dead in space."
+        },
+        {
+          "character": "KIRK",
+          "line": "He may be turning to fight."
+        },
+        {
+          "character": "SULU",
+          "line": "No, sir. They're just dead out there."
+        },
+        {
+          "character": "KIRK",
+          "line": "Are you sure?"
+        },
+        {
+          "character": "SULU",
+          "line": "Yes, sir. Unmoving."
+        },
+        {
+          "character": "KIRK",
+          "line": "Then we've got them. Go to Red Alert. Prepare to fire phaser banks. Sensors, lock on. Mister Sulu, continue closing. Mister Spock, lock phasers into computer. Computers will control attack."
+        },
+        {
+          "character": "SPOCK",
+          "line": "Computer lock ready, Captain. All systems standing by."
+        },
+        {
+          "character": "SULU",
+          "line": "Range is one eight one zero. One seven six zero. Range is one seven zero zero. One six four zero. Range is one five nine zero. One five five zero and closing, sir."
+        },
+        {
+          "character": "SULU",
+          "line": "Warp six, warp five, four, warp three, warp one. Sublight, Captain. We're stuck, Captain. It's impossible, but. It's impossible."
+        },
+        {
+          "character": "KIRK",
+          "line": "From warp eight? Have you lost your mind?"
+        },
+        {
+          "character": "SPOCK",
+          "line": "Same as the alien, Captain."
+        },
+        {
+          "character": "KIRK",
+          "line": "Mister Scott, report."
+        },
+        {
+          "character": "SCOTT",
+          "line": "We're dead, Captain. Locked up. Frozen tight. All propulsion systems read zero. KIRK; Life systems?"
+        },
+        {
+          "character": "SCOTT",
+          "line": "They're all normal, sir. Atmosphere, heat, light. No variance."
+        },
+        {
+          "character": "KIRK",
+          "line": "Phaser banks. Report."
+        },
+        {
+          "character": "CREWMAN",
+          "line": "We're all inoperative here, Captain. No power at all. No faulty circuits I can find. Just no power.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "KIRK",
+          "line": "Damage Control, report."
+        },
+        {
+          "character": "SPOCK",
+          "line": "All systems report normal, Captain. No ascertainable damage. KIRK; Then what is it?"
+        },
+        {
+          "character": "SCOTT",
+          "line": "I don't know, sir, but whatever it is, we canna move."
+        },
+        {
+          "character": "SPOCK",
+          "line": "We're being held in place, Captain, apparently from that solar system. KIRK; This far out? That's impossible."
+        },
+        {
+          "character": "SPOCK",
+          "line": "We are being held."
+        },
+        {
+          "character": "KIRK",
+          "line": "Tractor beam?"
+        },
+        {
+          "character": "SPOCK",
+          "line": "No, sir. An unidentifiable power."
+        },
+        {
+          "character": "METRON",
+          "line": "We are the Metrons. You are one of two crafts which have come into our space on a mission of violence. This is not permissible. Yet we have analyzed you and have learned that your violent tendencies are inherent. So be it. We will control them. We will resolve your conflict in the way most suited to your limited mentalities. Captain James Kirk.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "KIRK",
+          "line": "This is Kirk."
+        },
+        {
+          "character": "METRON",
+          "line": "We have prepared a planet with a suitable atmosphere. You will be taken there, as will the Captain of the Gorn ship which you have been pursuing. There you will settle your dispute.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "KIRK",
+          "line": "I don't understand."
+        },
+        {
+          "character": "METRON",
+          "line": "You will be provided with a recording-translating device, in hopes that a chronicle of this contest will serve to dissuade others of your kind from entering our system, but you will not be permitted to communicate with your ship. You will each be totally alone.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "KIRK",
+          "line": "What makes you think you can interfere with"
+        },
+        {
+          "character": "METRON",
+          "line": "It is you who are interfering. We are simply putting a stop to it. The place we have prepared for you contains sufficient elements for either of you to construct weapons lethal enough to destroy the other, which seems to be your intention. The winner of the contest will be permitted to go his way unharmed. The loser, along with his ship, shall be destroyed in the interests of peace. The contest will be one of ingenuity against ingenuity, brute strength against brute strength. The results will be final.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "KIRK",
+          "line": "Just a minute"
+        },
+        {
+          "character": "METRON",
+          "line": "There will be no diskussion. It is done.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "SULU",
+          "line": "He's gone."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "KIRK",
+          "line": "The Enterprise is dead in space, stopped cold during her pursuit of an alien raider by mysterious forces, and I have been somehow whisked off the bridge and placed on the surface of an asteroid, facing the Captain of the alien ship. Weaponless, I face the creature the Metrons called a Gorn. Large, reptilian. Like most humans, I seem to have an instinctive revulsion to reptiles. I must fight to remember that this is an intelligent, highly advanced individual, the Captain of a starship, like myself, undoubtedly a dangerously clever opponent.",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "Planet surface"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "SPOCK",
+          "line": "Have you tried overload?"
+        },
+        {
+          "character": "SCOTT",
+          "line": "Aye, sir. It does no good."
+        },
+        {
+          "character": "SPOCK",
+          "line": "How about bypassing the transformer banks? Feed the impulse engines directly."
+        },
+        {
+          "character": "SCOTT",
+          "line": "I tried that, sir. Nothing."
+        },
+        {
+          "character": "SPOCK",
+          "line": "Lieutenant Uhura, have sensors learned anything about the nature of the force which holds us here?"
+        },
+        {
+          "character": "UHURA",
+          "line": "No, sir. They report they definitely emanate from that solar system ahead."
+        },
+        {
+          "character": "SPOCK",
+          "line": "No indication of its composition? Gravimetric? Magnetic? Electronic?"
+        },
+        {
+          "character": "UHURA",
+          "line": "Nothing, sir."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "KIRK",
+          "line": "This is Captain James Kirk of the Starship Enterprise. Who ever finds this please get it to Starfleet Command. I'm engaged in personal combat with a creature apparently called a Gorn."
+        },
+        {
+          "character": "KIRK",
+          "line": "He's immensely strong. Already he has withstood attacks from me that would have killed a human being. Fortunately, though strong, he is not agile. The agility and, I hope, the cleverness, is mine.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "KIRK",
+          "line": "The Metrons, the creatures that sent us both here, said that the surface of the planet provides the raw material to construct weapons. There's very little here. Scrub brush, rocks, an abundance of mineral deposits, but no weapons in the conventional sense. Still, I need to find one. Bare-handed against the Gorn, I have no chance."
+        }
+      ],
+      "location": "Planet surface"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "SPOCK",
+          "line": "Leave channel one open, Lieutenant, just in case."
+        },
+        {
+          "character": "UHURA",
+          "line": "Aye, aye, sir."
+        },
+        {
+          "character": "MCCOY",
+          "line": "What are you going to do, Mister Spock?"
+        },
+        {
+          "character": "SPOCK",
+          "line": "I'm going to wait, Doctor. There's little else I can do."
+        },
+        {
+          "character": "MCCOY",
+          "line": "What about the Captain?"
+        },
+        {
+          "character": "SPOCK",
+          "line": "If I could help him, I would. I cannot."
+        },
+        {
+          "character": "MCCOY",
+          "line": "Now, you're the one that's always talking about logic. What about some logic now? Where's the Captain, Mister Spock?"
+        },
+        {
+          "character": "SPOCK",
+          "line": "He's out there, Doctor. Out there somewhere in a thousand cubic parsecs of space, and there's absolutely nothing we can do to help him."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "KIRK",
+          "line": "A large deposit of diamonds on the surface. Perhaps the hardest substance known in the universe. Beautifully crystallized and pointed, but too small to be useful as a weapon. An incredible fortune in stones yet I would trade them all for a hand phaser, or a good solid club. Yet the Metrons said there would be weapons, if I could find them. Where? What kind? (From his vantage point on the ridge, Kirk watches the Gorn at work, then spots a lone rock neatly balanced on a pinnacle above his adversary. He pushes it over, the Gorn looks up, then we get the cloud of dust and a view of the reptile under the rock, lying still. Confident, Kirk comes down to check on his kill, just in time to see the Gorn move, grasp his stone dagger, and get up again. The rock continues on its way down the slope. The mammal runs away, straight into reptiles trap of vines and rocks. Now Kirk is pinned under a boulder, and at his enemy's mercy. But the Gorn has to move the boulder to be able to stab him, so once again Kirk is able to dodge away, albeit with a limp."
+        }
+      ],
+      "location": "Planet surface"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "SPOCK",
+          "line": "This is the U.S.S. Enterprise calling the Metrons. Our channels are open. Come in, please. We urgently desire a conference. Please answer."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "KIRK",
+          "line": "This may be my last entry. I am almost exhausted. Unless I find the weapon the Metron mentioned I have very little time left. Native sulfur, diamonds. This place is a mineralogist's dream. Yet there is something about sulfur. Something very old. Something? If only I could remember."
+        }
+      ],
+      "location": "Planet surface"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "MCCOY",
+          "line": "The ship, our engines, our weapons. It's just inconceivable that we are immobilized."
+        },
+        {
+          "character": "SPOCK",
+          "line": "But it has happened, Doctor."
+        },
+        {
+          "character": "METRON",
+          "line": "We are the Metrons. Your Captain is losing his battle. We would suggest you make whatever memorial arrangements, if any, which are customary in your culture. We believe you have very little time left.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "MCCOY",
+          "line": "We appeal to you in the name of civilisation. Put a stop to this."
+        },
+        {
+          "character": "METRON",
+          "line": "Your violent intent and actions demonstrate that you are not civilized. However, we are not without compassion. It is possible you may have feelings toward your Captain. So that you will be able to prepare yourself, we will allow you to see and hear what is now transpiring.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "MCCOY",
+          "line": "If there were only some way we could contact him."
+        },
+        {
+          "character": "SPOCK",
+          "line": "Yes, indeed, Doctor, if only there were. Notice the substance encrusting that rock. Yes. Unless I'm mistaken, it's potassium nitrate."
+        },
+        {
+          "character": "MCCOY",
+          "line": "So?"
+        },
+        {
+          "character": "SPOCK",
+          "line": "Perhaps nothing, Doctor. Perhaps everything."
+        },
+        {
+          "character": "GORN",
+          "line": "Earthling! Captain!",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "KIRK",
+          "line": "Who is this, the Metron?",
+          "modifier": "screen"
+        },
+        {
+          "character": "GORN",
+          "line": "This is your opponent, Earthling. I have heard every word you have said.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "KIRK",
+          "line": "All right. What do you want?",
+          "modifier": "screen"
+        },
+        {
+          "character": "GORN",
+          "line": "I'm weary of the chase. Wait for me. I shall be merciful and quick.",
+          "modifier": "screen"
+        },
+        {
+          "character": "KIRK",
+          "line": "Like you were at Cestus Three?",
+          "modifier": "screen"
+        },
+        {
+          "character": "GORN",
+          "line": "You were intruding! You established an outpost in our space.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "KIRK",
+          "line": "You butchered helpless human beings",
+          "modifier": "screen"
+        },
+        {
+          "character": "GORN",
+          "line": "We destroyed invaders, as I shall destroy you!",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "MCCOY",
+          "line": "Can that be true? Was Cestus Three an intrusion on their space?"
+        },
+        {
+          "character": "SPOCK",
+          "line": "It may well be possible, Doctor. We know very little about that section of the galaxy."
+        },
+        {
+          "character": "MCCOY",
+          "line": "Then we could be in the wrong."
+        },
+        {
+          "character": "SPOCK",
+          "line": "Perhaps. That is something best decided by diplomats."
+        },
+        {
+          "character": "MCCOY",
+          "line": "The Gorn simply might have been trying to protect themselves."
+        },
+        {
+          "character": "SPOCK",
+          "line": "Yes."
+        },
+        {
+          "character": "SPOCK",
+          "line": "Fascinating. Good. Good. He knows, Doctor. He has reasoned it out."
+        },
+        {
+          "character": "SPOCK",
+          "line": "Yes. Yes."
+        },
+        {
+          "character": "MCCOY",
+          "line": "What is it, Spock? SPOCK; An invention, Doctor. First potassium nitrate, and now if he can find some sulfur and a charcoal deposit or ordinary coal."
+        },
+        {
+          "character": "MCCOY",
+          "line": "What's he doing? SPOCK; Diamonds. The hardest known substance. Impelled by sufficient force, they would make formidable projectiles."
+        },
+        {
+          "character": "MCCOY",
+          "line": "What force?"
+        },
+        {
+          "character": "SPOCK",
+          "line": "Recall your basic chemistry, Doctor. Gunpowder."
+        },
+        {
+          "character": "GORN",
+          "line": "Captain, let us be reasonable.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "GORN",
+          "line": "You have lost. Admit it to yourself. Stop running. SPOCK; Coal.",
+          "modifier": "screen"
+        },
+        {
+          "character": "MCCOY",
+          "line": "Can he do it?"
+        },
+        {
+          "character": "SPOCK",
+          "line": "If he has the time, Doctor. If he has the time."
+        },
+        {
+          "character": "KIRK",
+          "line": "No. No, I won't kill you. Maybe you thought you were protecting yourself when you attacked the outpost."
+        },
+        {
+          "character": "KIRK",
+          "line": "No, I won't kill him! Do you hear? You'll have to get your entertainment someplace else!"
+        },
+        {
+          "character": "KIRK",
+          "line": "You're a Metron?"
+        },
+        {
+          "character": "METRON",
+          "line": "Does my appearance surprise you, Captain?"
+        },
+        {
+          "character": "KIRK",
+          "line": "You seem more like a boy."
+        },
+        {
+          "character": "METRON",
+          "line": "I am approximately fifteen hundred of your Earth years old. You surprise me, Captain."
+        },
+        {
+          "character": "KIRK",
+          "line": "How?"
+        },
+        {
+          "character": "METRON",
+          "line": "By sparing your helpless enemy who surely would have destroyed you, you demonstrated the advanced trait of mercy, something we hardly expected. We feel there may be hope for your kind. Therefore, you will not be destroyed. It would not be civilized."
+        },
+        {
+          "character": "KIRK",
+          "line": "What happened to the Gorn?"
+        },
+        {
+          "character": "GORN",
+          "line": "I sent him back to his ship. If you like, I shall destroy him for you."
+        },
+        {
+          "character": "KIRK",
+          "line": "No. That won't be necessary. We can talk. Maybe reach an agreement."
+        },
+        {
+          "character": "METRON",
+          "line": "Very good, Captain. There is hope for you. Perhaps in several thousand years, your people and mine shall meet to reach an agreement. You are still half savage, but there is hope. We will contact you when we are ready."
+        }
+      ],
+      "location": "Bridge"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "UHURA",
+          "line": "Captain! Are you all right?"
+        },
+        {
+          "character": "KIRK",
+          "line": "I don't know. I don't know. All right, everybody. Back to your posts. Let's get out of here."
+        },
+        {
+          "character": "SULU",
+          "line": "Captain."
+        },
+        {
+          "character": "KIRK",
+          "line": "Mister Sulu."
+        },
+        {
+          "character": "SULU",
+          "line": "It's impossible, but there's Sirius over there when it should be here. And Canopus. And Arcanis. We're. All of a sudden, we're clear across the galaxy, five hundred parsecs from where we are I mean, were. I mean"
+        },
+        {
+          "character": "KIRK",
+          "line": "Don't try and figure it out, Mister Sulu. Just plot a course for us back to Cestus Three."
+        },
+        {
+          "character": "SULU",
+          "line": "Aye, aye, sir."
+        },
+        {
+          "character": "SPOCK",
+          "line": "After you touched off your primitive cannon, Captain, we lost the picture the Metron was sending us. KIRK; You saw what happened down there?"
+        },
+        {
+          "character": "SPOCK",
+          "line": "Most of it. I would be interested in knowing what finally happened."
+        },
+        {
+          "character": "KIRK",
+          "line": "We're a most promising species, Mister Spock, as predators go. Did you know that?"
+        },
+        {
+          "character": "SPOCK",
+          "line": "I've frequently had my doubts."
+        },
+        {
+          "character": "KIRK",
+          "line": "I don't. Not anymore. And maybe in a thousand years or so, we'll be able to prove it. Never mind, Mister Spock. It doesn't make much sense to me either. Take us back to where we're supposed to be, Mister Sulu. Warp factor one."
+        },
+        {
+          "character": "SULU",
+          "line": "Warp factor one."
+        },
+        {
+          "character": "SPOCK",
+          "line": "A thousand years, Captain? Well, that gives us a little time."
+        }
+      ],
+      "location": "Bridge"
+    }
+  ],
+  "schedule": {
+    "episode": 19,
+    "number": 19,
+    "season": 1
+  },
+  "stardate": "3045.6",
+  "title": "Arena"
+}

@@ -1,7 +1,4 @@
 season,episode,title,character,line
-1,1,Caretaker,unknown,"Unhappy with a new treaty, Federation Colonists along the Cardassian border have banded together.
-Calling themselves 'The Maquis', they continue to fight the Cardassians.
-Some consider them heroes, but to the governments of the Federation and Cardassia, they are outlaws."
 1,1,Caretaker,CHAKOTAY,Damage report.
 1,1,Caretaker,TUVOK,Shields at sixty percent.
 1,1,Caretaker,TORRES,A fuel line has ruptured. Attempting to compensate. Damn it! We're barely maintaining impulse. I can't get any more out of it.
@@ -6368,7 +6365,6 @@ Some consider them heroes, but to the governments of the Federation and Cardassi
 2,1,The 37's,PARIS,"Yes, ma'am."
 2,1,The 37's,KIM,"All stations report ready, Captain."
 2,1,The 37's,JANEWAY,Then lets do it. Take us up.
-2,2,Initiations,unknown,"First Officer's personal log, stardate 49005.3. The captain has granted me the use of the shuttlecraft so that I may perform the pakra, a solitary ritual commemorating the anniversary of my father's death."
 2,2,Initiations,CHAKOTAY,"A-koo-chee-moya. I pray on this day of memories to speak to my father, the one whom the wind called Kolopak. Though I am far from his bones, perhaps there is a spirit in these unnamed skies who will find him and honor him with my song. A-koo-chee-moya."
 2,2,Initiations,HALIZ,There. You see?
 2,2,Initiations,RAZIK,We should teach them the price of displaying their markings in our space.
@@ -13620,11 +13616,11 @@ Some consider them heroes, but to the governments of the Federation and Cardassi
 2,21,Deadlock,KIM 2,"Captain, there was a minor spatial fluctuation on the Bridge. But it was only there for a millisecond."
 2,21,Deadlock,JANEWAY 2,"Bridge to Engineering. B'Elanna, how long until we can use the main sensor array?"
 2,21,Deadlock,TORRES 2,Another three hours.
-2,21,Deadlock,2,We're only about halfway through the proton burst procedure.
-2,21,Deadlock,2,See if you can speed up the process. We need the sensors as soon
-2,21,Deadlock,2,as possible.
+2,21,Deadlock,JANEWAY 2,We're only about halfway through the proton burst procedure.
+2,21,Deadlock,JANEWAY 2,See if you can speed up the process. We need the sensors as soon
+2,21,Deadlock,JANEWAY 2,as possible.
 2,21,Deadlock,TORRES 2,Understood.
-2,21,Deadlock,2,"Mister Kim, modify a tricorder to scan for spatial anomalies. Go over every centimeter of this Bridge. Examine the sensor logs from our trip through the plasma drift. Look for anything unusual. I'll be in Sickbay."
+2,21,Deadlock,JANEWAY 2,"Mister Kim, modify a tricorder to scan for spatial anomalies. Go over every centimeter of this Bridge. Examine the sensor logs from our trip through the plasma drift. Look for anything unusual. I'll be in Sickbay."
 2,21,Deadlock,CHAKOTAY 2,"Aye, Captain."
 2,21,Deadlock,EMH 2,"Good news, Ensign. Our baby is perfectly healthy. There's no sign of any interspecies abnormalities."
 2,21,Deadlock,WILDMAN 2,Our baby?
@@ -13649,10 +13645,10 @@ Some consider them heroes, but to the governments of the Federation and Cardassi
 2,21,Deadlock,JANEWAY 2,"I'm not sure. Almost everything about the Voyager Kes described is identical to ours. We've had similar experiences, similar personal histories. We both entered a plasma cloud to avoid the Vidiians. Both of our engines stalled as we left the cloud, which caused both of our antimatter supplies to drain. And then we both decided to keep our engines running by emitting proton bursts. But after that, our experiences diverged. We started emitting the proton bursts. They didn't."
 2,21,Deadlock,KES 1,Our ship was being damaged by proton bursts. We couldn't figure out where they were coming from.
 2,21,Deadlock,JANEWAY 2,"That's more than a coincidence. Janeway to Engineering. B'Elanna, I want you to stop the proton bursts immediately."
-2,21,Deadlock,2,"But if we stop now, the power levels will drop"
+2,21,Deadlock,JANEWAY 2,"But if we stop now, the power levels will drop"
 2,21,Deadlock,JANEWAY 2,"I'll explain later, Lieutenant."
 2,21,Deadlock,TORRES 2,Understood.
-2,21,Deadlock,2,"I don't know how, but there's another Voyager out there, and I intend to find it."
+2,21,Deadlock,JANEWAY 2,"I don't know how, but there's another Voyager out there, and I intend to find it."
 2,21,Deadlock,CHAKOTAY 2,We analyzed the sensor logs from our trip through the plasma cloud. We couldn't find anything unusual until we ran a quantum level analysis. Remember that subspace turbulence we hit just before we left the cloud?
 2,21,Deadlock,JANEWAY 2,Yes.
 2,21,Deadlock,CHAKOTAY 2,"Well, watch what happens."
@@ -13673,7 +13669,7 @@ Some consider them heroes, but to the governments of the Federation and Cardassi
 2,21,Deadlock,JANEWAY 2,"The only link we know of is on deck fifteen, the spatial rift. We're going to need a way to send Kes back through safely."
 2,21,Deadlock,KIM 2,We could rig a portable phase diskriminator. It might protect her from the spatial transition.
 2,21,Deadlock,JANEWAY 2,Get on it.
-2,21,Deadlock,2,When can I start breast feeding?
+2,21,Deadlock,JANEWAY 2,When can I start breast feeding?
 2,21,Deadlock,EMH 2,"Right away. However, I should forewarn you that her incisors will erupt within three to four weeks. Since your skin lacks the scales of a Ktarian, we'll have to discuss alternatives."
 2,21,Deadlock,WILDMAN 2,When can I take her home?
 2,21,Deadlock,EMH 2,In twenty four hours. I want observe the infant to make sure there's no more damage to her cell membranes.
@@ -13697,7 +13693,7 @@ Some consider them heroes, but to the governments of the Federation and Cardassi
 2,21,Deadlock,EMH 2,"I'm sorry to hear that. But try to understand, it wasn't your fault. The situation was out of your control."
 2,21,Deadlock,KES,"Doctor, I've got to get back to my ship. They need my help."
 2,21,Deadlock,EMH 2,"The Captain's working on it, Kes. In the meantime, try to get some rest. Besides, I'm sure your Voyager is also equipped with a proficient Emergency Medical Hologram."
-2,21,Deadlock,2,"It's a little harder to establish a comm. link than I thought, Captain. The molecular signature of the second Voyager is slightly out of phase with our own. I can't get visual, audio, nothing."
+2,21,Deadlock,JANEWAY 2,"It's a little harder to establish a comm. link than I thought, Captain. The molecular signature of the second Voyager is slightly out of phase with our own. I can't get visual, audio, nothing."
 2,21,Deadlock,JANEWAY 2,Have you tried remodulating the comm. frequency carrier?
 2,21,Deadlock,TORRES 2,Five times on forty seven different frequencies.
 2,21,Deadlock,JANEWAY 2,"There has to be a way. If they were recalibrating their carrier wave at the same time so we could match phase variance, would that allow us to connect?"
@@ -13712,7 +13708,7 @@ Some consider them heroes, but to the governments of the Federation and Cardassi
 2,21,Deadlock,JANEWAY,Coming from where?
 2,21,Deadlock,TORRES,"Good question. I can't tell, but it's got a Federation signature."
 2,21,Deadlock,JANEWAY,Try recalibrating our frequency carrier to match it.
-2,21,Deadlock,2,That's it! They recalibrated and locked onto our phase variant.
+2,21,Deadlock,JANEWAY 2,That's it! They recalibrated and locked onto our phase variant.
 2,21,Deadlock,JANEWAY 2,What kind of communication can we establish?
 2,21,Deadlock,TORRES 2,Not much at this point. We can use the emergency encryption code for a short message. Not more than five seconds.
 2,21,Deadlock,JANEWAY 2,That should be enough.
@@ -13745,7 +13741,7 @@ Some consider them heroes, but to the governments of the Federation and Cardassi
 2,21,Deadlock,JANEWAY 2,"We're standing by, Captain. I think you should take the lead in this operation since you may have to make allowances for your ship's weakened power systems."
 2,21,Deadlock,JANEWAY,"Acknowledged. Lieutenant Torres and, Lieutenant Torres, charge the deflector dishes."
 2,21,Deadlock,TORRES,Deflector dish charging.
-2,21,Deadlock,2,"Capacitance levels are rising. Sixty percent, eighty five percent, ninety eight percent. We're ready to create the subspace divergence field."
+2,21,Deadlock,JANEWAY 2,"Capacitance levels are rising. Sixty percent, eighty five percent, ninety eight percent. We're ready to create the subspace divergence field."
 2,21,Deadlock,TORRES,"Initiating. Power flow nominal, Captain."
 2,21,Deadlock,JANEWAY,Synchronize computer event timing. Ready to release depolarization pulse on my mark. Now.
 2,21,Deadlock,TORRES,"The pulses have been emitted, Captain. The fields are starting to depolarize."
@@ -13753,15 +13749,15 @@ Some consider them heroes, but to the governments of the Federation and Cardassi
 2,21,Deadlock,JANEWAY,Increase power to the deflector dish.
 2,21,Deadlock,TORRES,"I can't! Too much plasma back flow. If we keep this up, we're going to lose our antimatter connection. We'll both be destroyed!"
 2,21,Deadlock,JANEWAY,Abort!
-2,21,Deadlock,2,Aborting resonance pulse.
+2,21,Deadlock,JANEWAY 2,Aborting resonance pulse.
 2,21,Deadlock,JANEWAY 2,What went wrong?
 2,21,Deadlock,TORRES 2,"I'm not sure. I think the plasma flow became to turbulent. The divergence fields were so chaotic, we couldn't complete the merging. We've lost the comm. link as well. Captain, the antimatter leak? It's becoming a hemorrhage. If we don't start the proton bursts, we'll be completely drained in thirty minutes."
 2,21,Deadlock,JANEWAY 2,The lives of both crews are at stake here. I can't make unilateral decisions that might affect that other ship. Janeway to Kim. Is the spatial rift
-2,21,Deadlock,2,Still stable?
+2,21,Deadlock,JANEWAY 2,Still stable?
 2,21,Deadlock,KIM 2,"I think so, Captain. And I've rigged a phase diskriminator. Kes should be able to go back safely."
-2,21,Deadlock,2,"Rig another one, Ensign. I'm going with her."
+2,21,Deadlock,JANEWAY 2,"Rig another one, Ensign. I'm going with her."
 2,21,Deadlock,KIM 2,This should protect you from the spatial transition.
-2,21,Deadlock,2,Keep trying to re-establish a comm. link between the ships.
+2,21,Deadlock,JANEWAY 2,Keep trying to re-establish a comm. link between the ships.
 2,21,Deadlock,TORRES 2,"I will, but remember, we have fewer than thirty minutes of antimatter left. Whatever you do over there, do it fast."
 2,21,Deadlock,JANEWAY 2,Understood. Are you ready?
 2,21,Deadlock,KES,Yes.
@@ -13827,7 +13823,7 @@ Some consider them heroes, but to the governments of the Federation and Cardassi
 2,21,Deadlock,WILDMAN 2,Mama will see you soon.
 2,21,Deadlock,EMH 2,"Lieutenant, give me a hand. Move this. We're going to have to cut away the internal circuitry to make room"
 2,21,Deadlock,KES 2,Vidiians. They're using some kind of disrupter to break down the forcefield. The forcefield's down.
-2,21,Deadlock,2,Commander?
+2,21,Deadlock,JANEWAY 2,Commander?
 2,21,Deadlock,CHAKOTAY 2,"They've got everything below deck five, and I don't know how much longer we can keep them away from the Bridge."
 2,21,Deadlock,JANEWAY 2,"Mister Kim, how many Vidiians are there on the ship?"
 2,21,Deadlock,KIM 2,"Three hundred and forty seven, and more are boarding."
@@ -16753,7 +16749,6 @@ Some consider them heroes, but to the governments of the Federation and Cardassi
 3,3,The Chute,PARIS,Cherry pie. Don't you remember?
 3,3,The Chute,KIM,What about the fudge ripple pudding?
 3,3,The Chute,PARIS,Ah! Yes.
-3,4,The Swarm,unknown,"Helmsman's log, stardate 50252.3. While Voyager takes on supplies, Lieutenant Torres and I are investigating some intermittent sensor readings we picked up this morning."
 3,4,The Swarm,TORRES,We've been out here almost 5 hours and we haven't seen any sign of those energy signatures. Isn't it time to admit they were nothing more than galactic background noise?
 3,4,The Swarm,PARIS,"I want to keep looking a while longer, just to be sure."
 3,4,The Swarm,TORRES,Ah!
@@ -21596,7 +21591,6 @@ Some consider them heroes, but to the governments of the Federation and Cardassi
 3,16,Blood Fever,JANEWAY,Your call sounded urgent.
 3,16,Blood Fever,CHAKOTAY,"I think there's something you should see, Captain. We found this as we were clearing away the ruins. Undoubtedly, one of the invaders who destroyed this colony."
 3,16,Blood Fever,JANEWAY,The Borg!
-3,17,Unity,unknown,"First Officer's log, stardate 50614.2. Ensign Kaplan and I are returning to Voyager after completing a scouting mission in the Nekrit Expanse."
 3,17,Unity,KAPLAN,The nebula's completely scrambling our navigational readings. I still can't get a fix on our position.
 3,17,Unity,CHAKOTAY,"Are you saying we're lost, Ensign?"
 3,17,Unity,KAPLAN,"That depends what you mean by lost, sir."
@@ -28041,7 +28035,6 @@ Some consider them heroes, but to the governments of the Federation and Cardassi
 4,7,Scientific Method,PARIS,Thank God we found out in time.
 4,7,Scientific Method,TORRES,Thank God.
 4,7,Scientific Method,PARIS,"I don't know about you, but I'm curious to see how this experiment turns out."
-4,8,Year of Hell,unknown,Day 1
 4,8,Year of Hell,OBRIST,Temporal incursion is complete. All organisms and man-made objects have been eradicated.
 4,8,Year of Hell,ANNORAX,Probe the continuum. Has our target event been achieved?
 4,8,Year of Hell,OBRIST,"Negative. Negative target event. I don't understand, sir. We spent months making these calculations."
@@ -28680,7 +28673,7 @@ Some consider them heroes, but to the governments of the Federation and Cardassi
 4,8,Year of Hell,CHAKOTAY,She's alive. Send the message. Transmit our coordinates.
 4,8,Year of Hell,PARIS,Done.
 4,8,Year of Hell,CHAKOTAY,"And, give Kathryn my best. Day"
-4,8,Year of Hell,226JANEWAY,"Captain's log, stardate 51682.2. I've forged a coalition with the Nihydron and the Mawasi. Together, we're preparing to attack the weapon ship."
+4,8,Year of Hell,JANEWAY,"Captain's log, stardate 51682.2. I've forged a coalition with the Nihydron and the Mawasi. Together, we're preparing to attack the weapon ship."
 4,8,Year of Hell,JANEWAY,I've analyzed every carrier frequency of their transmission. It contains a classified Starfleet ID code. It could only have come from Tom Paris. It's real. The coordinates he sent should lead us directly to the weapon ship.
 4,8,Year of Hell,TUVOK,Location?
 4,8,Year of Hell,JANEWAY,"Approximately fifty light years from here. Our new allies are assembling reinforcements. Once we're in range, Tom says he'll try to take the weapon ship's temporal core offline. When that happens they'll be vulnerable to conventional weapons. Tom will then transmit the exact location of the core. Our job will be to disable the ship and get our people out. Is everyone clear?"
@@ -28762,8 +28755,7 @@ Some consider them heroes, but to the governments of the Federation and Cardassi
 4,8,Year of Hell,ANNORAX,In a little while. I still have a few more calculations.
 4,8,Year of Hell,ANNORAX'S WIFE,There are always a few more calculations. It's a beautiful day. Spend it with me.
 4,8,Year of Hell,ANNORAX,I suppose I can make the time.
-4,10,Random Thoughts,JANEWAY,"Captain's log, stardate 51367."
-4,10,Random Thoughts,2,We've spent the last three days on the Mari homeworld. It's been a while since we've had the opportunity to make new friends and the crew seems to be making the most of our stay.
+4,10,Random Thoughts,JANEWAY,"Captain's log, stardate 51367.2 We've spent the last three days on the Mari homeworld. It's been a while since we've had the opportunity to make new friends and the crew seems to be making the most of our stay."
 4,10,Random Thoughts,PARIS,Neelix.
 4,10,Random Thoughts,NEELIX,Tom. Been doing a little shopping?
 4,10,Random Thoughts,PARIS,It's a present for B'Elanna.
@@ -32487,8 +32479,7 @@ Some consider them heroes, but to the governments of the Federation and Cardassi
 4,18,The Killing Game,CHAKOTAY,"All right, but I won't count them in, either. We continue as planned. An assault from the north at first light. So, who was the mademoiselle?"
 4,18,The Killing Game,PARIS,Her name was Brigitte. Great gams. One hell of a temper.
 4,18,The Killing Game,CHAKOTAY,Sounds like your kind of girl.
-4,18,The Killing Game,PARIS,"August 29, 1936,"
-4,18,The Killing Game,12,17 p.m. That's when my train pulled out of Sainte Claire. That's the last time I saw her. We wrote to each other every week for three years. Then the war broke out and I never heard from her again.
+4,18,The Killing Game,PARIS,"August 29, 1936, 12:17 p.m. That's when my train pulled out of Sainte Claire. That's the last time I saw her. We wrote to each other every week for three years. Then the war broke out and I never heard from her again."
 4,18,The Killing Game,CHAKOTAY,Sainte Claire's not a big place. She shouldn't be too hard to find.
 4,18,The Killing Game,PARIS,I'm counting on it.
 4,18,The Killing Game,JANEWAY,"You'll maintain position here, twenty meters from the front doors. Arm yourself with a submachine gun and watch for any sign of trouble."
@@ -33460,7 +33451,7 @@ Some consider them heroes, but to the governments of the Federation and Cardassi
 4,21,The Omega Directive,JANEWAY,"Not just any molecule. The most powerful substance known to exist. 		A single Omega molecule contains the same energy as a warp core. 		In theory, a small chain of them could sustain a civilization. The 		molecule was first synthesized over a hundred years ago, by a Starfleet 		physicist named Ketteract. I think he was hoping to develop an inexhaustible power source."
 4,21,The Omega Directive,SEVEN,Or a weapon.
 4,21,The Omega Directive,JANEWAY,"Ketteract managed to synthesize a single molecule particle of Omega, 		but it only existed for a fraction of a second before it destabilized."
-4,21,The Omega Directive,JAEWAY,This was 		a classified research station in the Lantaru Sector. Ketteract and one hundred 		twenty six of the Federation's leading scientists were lost in the accident. 		Rescue teams attempting to reach the site 		discovered an unexpected secondary effect. There were subspace 		ruptures extending out several light years.
+4,21,The Omega Directive,JANEWAY,This was 		a classified research station in the Lantaru Sector. Ketteract and one hundred 		twenty six of the Federation's leading scientists were lost in the accident. 		Rescue teams attempting to reach the site 		discovered an unexpected secondary effect. There were subspace 		ruptures extending out several light years.
 4,21,The Omega Directive,PARIS,The Lantaru Sector. It's impossible to create a stable warp field there. 		You can only fly through it at sublight speeds. I was always told that 		was a natural phenomenon. You're saying it was caused by a single molecule of this stuff?
 4,21,The Omega Directive,JANEWAY,"Omega destroys subspace. A chain reaction involving a handful of molecules 		could devastate subspace throughout an entire Quadrant. If that were to happen, 		warp travel would become impossible. Space-faring civilization as we know it would 		cease to exist. When Starfleet realized Omega's power, they suppressed all knowledge of it."
 4,21,The Omega Directive,EMH,"Have you detected Omega here, in the Delta Quadrant?"
@@ -37326,7 +37317,7 @@ Some consider them heroes, but to the governments of the Federation and Cardassi
 5,4,In the Flesh,ARCHER,"I hope it was well-placed. Computer, lights."
 5,4,In the Flesh,CHAKOTAY,So this is where they're putting up officers nowadays. Not bad.
 5,4,In the Flesh,ARCHER,Can I get you something to drink?
-5,4,In the Flesh,CHAOTAY,Water's fine.
+5,4,In the Flesh,CHAKOTAY,Water's fine.
 5,4,In the Flesh,ARCHER,I'm beginning to think you're a teetotaller.
 5,4,In the Flesh,CHAKOTAY,I like to stay in control.
 5,4,In the Flesh,ARCHER,"Always at yellow alert, huh?"
@@ -42041,8 +42032,7 @@ Some consider them heroes, but to the governments of the Federation and Cardassi
 5,15,Dark Frontier,ANNIKA,Are they friendly?
 5,15,Dark Frontier,MAGNUS,"Well, they're different. They don't talk like us, or even think like us, but we're hoping to make friends one day."
 5,15,Dark Frontier,ANNIKA,"I hope so, too, Daddy."
-5,15,Dark Frontier,MAGNUS,"Field notes, U.S.S. Raven, Stardate 32623."
-5,15,Dark Frontier,5,"we've been tracking stray readings for nearly eight months now, but there's still no sign of a vessel. I'm beginning to wonder if the Borg are nothing more than rumor and sensor echoes."
+5,15,Dark Frontier,MAGNUS,"Field notes, U.S.S. Raven, Stardate 32623.5 we've been tracking stray readings for nearly eight months now, but there's still no sign of a vessel. I'm beginning to wonder if the Borg are nothing more than rumor and sensor echoes."
 5,15,Dark Frontier,ERIN,Magnus.
 5,15,Dark Frontier,MAGNUS,"We have to keep moving. If we take the replicators offline and run environmental systems at half power, we can go another twenty light years before refueling."
 5,15,Dark Frontier,ERIN,We should refuel now. The nearest dilithium is in an asteroid field just ten days from here.
@@ -42165,8 +42155,7 @@ Some consider them heroes, but to the governments of the Federation and Cardassi
 5,15,Dark Frontier,QUEEN,We've come to make you an offer. Rejoin the Collective and we'll spare Voyager.
 5,15,Dark Frontier,SEVEN,Why me?
 5,15,Dark Frontier,QUEEN,Because you are unique.
-5,15,Dark Frontier,MAGNUS,"Field notes, U.S.S. Raven, Stardate 32629."
-5,15,Dark Frontier,4,"after three months of tracking our Borg cube, the vessel entered a transwarp conduit. We followed in its wake. Our sensors tell us we've traveled all the way to the Delta quadrant, the Borg's native territory."
+5,15,Dark Frontier,MAGNUS,"Field notes, U.S.S. Raven, Stardate 32629.4 after three months of tracking our Borg cube, the vessel entered a transwarp conduit. We followed in its wake. Our sensors tell us we've traveled all the way to the Delta quadrant, the Borg's native territory."
 5,15,Dark Frontier,ERIN,"Magnus, you're breaking up."
 5,15,Dark Frontier,MAGNUS,Just some bio-electric interference. Stand by. Is that better?
 5,15,Dark Frontier,ERIN,Much. How's Junior?
@@ -49376,7 +49365,6 @@ Some consider them heroes, but to the governments of the Federation and Cardassi
 6,5,Alice,PARIS,"From now on, I promise no more affairs with strange ships."
 6,5,Alice,TORRES,What about the Delta Flyer?
 6,5,Alice,PARIS,We're just friends.
-6,6,Riddles,unknown,"Ambassador's log, stardate 53263.2. Though helpful during my negotiations on the Kesat homeworld, Commander Tuvok certainly hasn't been the most sociable of travel companions."
 6,6,Riddles,TUVOK,Mister Neelix.
 6,6,Riddles,NEELIX,"Sorry. How about a game of Species, Starship or Anomaly?"
 6,6,Riddles,TUVOK,Surely you could find something more productive to occupy your time.
@@ -50219,7 +50207,6 @@ Some consider them heroes, but to the governments of the Federation and Cardassi
 6,7,Dragon's Teeth,JANEWAY,"You thought you were acting out of compassion. I might have done the same thing. But that doesn't make it right, Seven. The repercussions of this could be catastrophic."
 6,7,Dragon's Teeth,SEVEN,Their technology is nine centuries out of date. Their plans for conquest are irrelevant.
 6,7,Dragon's Teeth,JANEWAY,"They're a resourceful species, determined. They'll adapt. I doubt we've seen the last of them."
-6,8,One Small Step,unknown,"October 19, 2032. Mars."
 6,8,One Small Step,KELLY,Ares Four to Kumagawa. How was the sunrise from down there?
 6,8,One Small Step,KUMAGAWA,Beautiful. There was a little green mixed in today. It was really quite spectacular.
 6,8,One Small Step,KELLY,Sorry I missed it.
@@ -56236,7 +56223,7 @@ Some consider them heroes, but to the governments of the Federation and Cardassi
 6,22,Muse,SEVEN,An inefficient plan.
 6,22,Muse,CHAKOTAY,And too dangerous. You could be hit by the same spatial eddies that sent the Flyer off course.
 6,22,Muse,JANEWAY,"We need to concentrate our efforts from here, Tom. All right? Dismissed."
-6,22,Muse,1,"Steady-armed Paris, bound by a sleep that brings no rest."
+6,22,Muse,CHORUS 1,"Steady-armed Paris, bound by a sleep that brings no rest."
 6,22,Muse,CHORUS 2,The door opens. The shadow of a woman falls on the helmsman. His eyes open.
 6,22,Muse,JERO,"Seven of Nine, did you find B'Elanna Torres?"
 6,22,Muse,LAYNA,I'm sorry to disappoint you.
@@ -61646,7 +61633,7 @@ Some consider them heroes, but to the governments of the Federation and Cardassi
 7,8,Nightingale,KIM,"You know, Neelix, the truth is, I'm not sure."
 7,8,Nightingale,NEELIX,I thought we talked about this. A captain has to be deci
 7,8,Nightingale,KIM,"I'm not a captain, Neelix. Not yet, anyway."
-7,9,Flesh and Blood,1,How many are there?
+7,9,Flesh and Blood,HIROGEN 1,How many are there?
 7,9,Flesh and Blood,HIROGEN 2,They've deflected our scans.
 7,9,Flesh and Blood,HIROGEN 1,"You must learn to rely on instinct. There are four of them, Perhaps five."
 7,9,Flesh and Blood,HIROGEN 1,No! You'll lead them right to us.
@@ -62243,7 +62230,7 @@ Some consider them heroes, but to the governments of the Federation and Cardassi
 7,9,Flesh and Blood,ALPHA 2,Let her keep the coward.
 7,9,Flesh and Blood,BETA,We can't do that.
 7,9,Flesh and Blood,ALPHA 2,Quiet!
-7,9,Flesh and Blood,2,"We're wasting time. This is my hunt now. If you go anywhere near the hologram ship, you can consider yourselves prey."
+7,9,Flesh and Blood,HIROGEN 2,"We're wasting time. This is my hunt now. If you go anywhere near the hologram ship, you can consider yourselves prey."
 7,9,Flesh and Blood,CHAKOTAY,They've gone to warp.
 7,9,Flesh and Blood,PARIS,"We're not letting them intimidate us, are we?"
 7,9,Flesh and Blood,JANEWAY,"I think you know me a little better than that. Harry, keep a sensor lock on them."
@@ -65782,8 +65769,6 @@ Some consider them heroes, but to the governments of the Federation and Cardassi
 7,16,Workforce,CHAKOTAY,Are you sorry I showed up?
 7,16,Workforce,JANEWAY,"Not for a second. Resume course, Mister Paris."
 7,16,Workforce,PARIS,"Aye, sir."
-7,18,Human Error,unknown,"(The metronome helps the pianist keep time to Chopin's Nocturne no 1 in E
-minor, opus 72. She is revealed to be Annika Hansen, the grown woman with no Borg implants.)"
 7,18,Human Error,TORRES,Feels heavy. Baby's first tricorder?
 7,18,Human Error,TUVOK,Not exactly.
 7,18,Human Error,TORRES,"Thank you, I'm sure she'll love it. What is it?"
@@ -66660,7 +66645,7 @@ minor, opus 72. She is revealed to be Annika Hansen, the grown woman with no Bor
 7,20,"Author, Author",PARIS,"Here, give your mom my best."
 7,20,"Author, Author",KIM,Are you sure?
 7,20,"Author, Author",PARIS,I've waited this long. What's another six weeks?
-7,20,"Author, Author",0BROHT,I can hear the critics already. A new voice has arrived. You could be the next K'Ratak or a modern-day Tolstoy. I'd like to start distribution by the end of the month.
+7,20,"Author, Author",BROHT,I can hear the critics already. A new voice has arrived. You could be the next K'Ratak or a modern-day Tolstoy. I'd like to start distribution by the end of the month.
 7,20,"Author, Author",EMH,The material I sent was only a working draft. I need time to make revisions.
 7,20,"Author, Author",BROHT,"If you insist, but please do it quickly."
 7,20,"Author, Author",EMH,"I will. So tell me, what did you think of the characters?"

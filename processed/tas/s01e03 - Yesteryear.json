@@ -1,0 +1,847 @@
+{
+  "airdate": 116924400,
+  "scenes": [
+    {
+      "dialogue": [
+        {
+          "character": "KIRK",
+          "line": "Captain's log, stardate 5373.4. We are in orbit around the planet of the time vortex, the focus of all the timelines of our galaxy. Our mission is to assist a team of historians in the investigation of Federation history.",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "unknown"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "ALEEK",
+          "line": "The travelers are returning."
+        },
+        {
+          "character": "GREY",
+          "line": "Cease review."
+        },
+        {
+          "character": "KIRK",
+          "line": "What a trip, Bones. Orion, at the dawn of its civilisation. Even just observing, not touching anything for fear of changing some piece of history. What's the matter? Bones?"
+        },
+        {
+          "character": "MCCOY",
+          "line": "Who's he, Jim?"
+        },
+        {
+          "character": "KIRK",
+          "line": "What do you mean, who's he? You know Mister Spock."
+        },
+        {
+          "character": "MCCOY",
+          "line": "Afraid I don't, Jim."
+        },
+        {
+          "character": "KIRK",
+          "line": "Kirk to Enterprise."
+        },
+        {
+          "character": "SCOTT",
+          "line": "Enterprise.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "KIRK",
+          "line": "Beam up."
+        },
+        {
+          "character": "SCOTT",
+          "line": "Aye, sir.",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "Guardian of Forever"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "SCOTT",
+          "line": "Captain, I was expecting there to be one of the historians with you. But a Vulcan?"
+        },
+        {
+          "character": "KIRK",
+          "line": "Explain yourself, Mister Scott."
+        },
+        {
+          "character": "SCOTT",
+          "line": "Sir?"
+        },
+        {
+          "character": "KIRK",
+          "line": "I don't know what's going on, but the first officer of this ship will be treated with respect."
+        },
+        {
+          "character": "THELIN",
+          "line": "Captain, I assure you no one has ever treated me otherwise."
+        },
+        {
+          "character": "KIRK",
+          "line": "Who are you?"
+        },
+        {
+          "character": "MCCOY",
+          "line": "Oh, I thought sure you'd know Thelin by now, Jim. He's been your first officer for five years."
+        },
+        {
+          "character": "SPOCK",
+          "line": "Captain, I have come to the conclusion that this is not a game."
+        },
+        {
+          "character": "KIRK",
+          "line": "No, but if it's reality, what happened?"
+        },
+        {
+          "character": "KIRK",
+          "line": "Captain's log, supplemental. When we were in the time vortex, something appears to have changed the present as we know it. No one aboard recognizes Mister Spock. The only answer is that the past was somehow altered.",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "Transporter room"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "ERIKSON",
+          "line": "Nothing. I can't find one thing we did when we were in the vortex that could possibly have affected the future."
+        },
+        {
+          "character": "KIRK",
+          "line": "But something was changed."
+        },
+        {
+          "character": "SPOCK",
+          "line": "It seems, Captain, I am the only one affected. The mission, the ship, the crew, except for myself, remain the same."
+        },
+        {
+          "character": "KIRK",
+          "line": "But I know who you are, and no one else aboard does. While we were in Orion's past, the time revision that took place here didn't affect me. Kirk here."
+        },
+        {
+          "character": "BATES",
+          "line": "Sir, we've checked the Starfleet records Commander Thelin asked for.",
+          "modifier": "screen"
+        },
+        {
+          "character": "KIRK",
+          "line": "Your findings?"
+        },
+        {
+          "character": "BATES",
+          "line": "There is no Vulcan named Spock serving with the Starfleet in any capacity.",
+          "modifier": "screen"
+        },
+        {
+          "character": "THELIN",
+          "line": "Did you also research the Vulcan family history requested?"
+        },
+        {
+          "character": "BATES",
+          "line": "Yes, sir. I can relay that to your screen. Sarek of Vulcan. Ambassador to seventeen Federation planets in the past thirty years.",
+          "modifier": "screen"
+        },
+        {
+          "character": "SPOCK",
+          "line": "That is not correct."
+        },
+        {
+          "character": "KIRK",
+          "line": "It is in this case."
+        },
+        {
+          "character": "SPOCK",
+          "line": "I wish to ask a question. What of Sarek's family, his wife and son?"
+        },
+        {
+          "character": "BATES",
+          "line": "Amanda, wife of Sarek. Born on Earth as Amanda Grayson. The couple separated after the death of their son. The wife was killed in a shuttle accident at Lunaport on her way home to Earth. Ambassador Sarek has not remarried.",
+          "modifier": "voiceover"
+        },
+        {
+          "character": "SPOCK",
+          "line": "My mother. The son, what was his name and age when he died?"
+        },
+        {
+          "character": "BATES",
+          "line": "Spock. Age seven.",
+          "modifier": "screen"
+        }
+      ],
+      "location": "Briefing room"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "KIRK",
+          "line": "If we didn't change anything while we were in the time vortex, someone else must have. Was the Guardian in use while we were gone?"
+        },
+        {
+          "character": "GREY",
+          "line": "Yes, but it was nothing unusual. We were scanning recent Vulcan history."
+        },
+        {
+          "character": "SPOCK",
+          "line": "What time period?"
+        },
+        {
+          "character": "GREY",
+          "line": "Twenty to thirty Vulcan years past."
+        },
+        {
+          "character": "KIRK",
+          "line": "Was there any notation on the death of Ambassador Sarek's son?"
+        },
+        {
+          "character": "ALEEK",
+          "line": "Yes. The boy is recorded as dying during the maturity test."
+        },
+        {
+          "character": "SPOCK",
+          "line": "The kahs-wan, a survival test traditional for young males."
+        },
+        {
+          "character": "ALEEK",
+          "line": "The date was"
+        },
+        {
+          "character": "SPOCK",
+          "line": "The twentieth day of Tasmeen."
+        },
+        {
+          "character": "THELIN",
+          "line": "How do you know this?"
+        },
+        {
+          "character": "SPOCK",
+          "line": "That was the day my cousin saved my life in the desert when I was attacked by a wild animal."
+        },
+        {
+          "character": "KIRK",
+          "line": "This cousin, what was his name?"
+        },
+        {
+          "character": "SPOCK",
+          "line": "I do not recall clearly. I was very young. He called himself Selek. He was visiting us, but I never saw him after that."
+        },
+        {
+          "character": "KIRK",
+          "line": "Spock, did Selek look like you do now?"
+        },
+        {
+          "character": "SPOCK",
+          "line": "I believe so, Captain. And I know what you're thinking. It was I who saved myself that other time."
+        },
+        {
+          "character": "KIRK",
+          "line": "But this time, you were in Orion's past with us when the historians had the time vortex replay Vulcan history. You couldn't be in two places at once, so you died as a boy. Guardian! Did you hear that?"
+        },
+        {
+          "character": "GUARDIAN",
+          "line": "I hear all."
+        },
+        {
+          "character": "KIRK",
+          "line": "Is it possible for Spock to return to Vulcan and repair the timeline that has been broken so all is the same as before?"
+        },
+        {
+          "character": "GUARDIAN",
+          "line": "It is possible if no other major factor is changed."
+        },
+        {
+          "character": "SPOCK",
+          "line": "I do not remember everything. There is a vague memory from a child's point of view, but the details are not clear."
+        },
+        {
+          "character": "KIRK",
+          "line": "You have to remember, for you and your mother to live."
+        },
+        {
+          "character": "SPOCK",
+          "line": "Yes. I will need a Vulcan desert soft suit and boots, and a small selection of streetwear circa 8877 Vulcan years. The carry bag should be of the same period."
+        },
+        {
+          "character": "KIRK",
+          "line": "You've got it. I'll order the wardrobe section to prepare it now."
+        },
+        {
+          "character": "THELIN",
+          "line": "This change in the timeline will put you in my place, yet I am not aggrieved."
+        },
+        {
+          "character": "SPOCK",
+          "line": "Andorians are not known for their charity."
+        },
+        {
+          "character": "THELIN",
+          "line": "True. A warrior race has few sympathies, but one we do possess is for family. In your time plane, you will live and so will your mother. That is valuable. Live long and prosper in your world, Commander Spock."
+        },
+        {
+          "character": "SPOCK",
+          "line": "And you in yours, Commander Thelin."
+        },
+        {
+          "character": "KIRK",
+          "line": "Nice to know the crew is efficient in this time plane, too. Spock."
+        },
+        {
+          "character": "SPOCK",
+          "line": "I wish to visit the planet Vulcan, thirty years past, the month of Tasmeen. Location, near the city of ShirKahr."
+        },
+        {
+          "character": "GUARDIAN",
+          "line": "The time and place are ready to receive you. Personal log, stardate 5373.5, subjective time. I have returned to the past in an attempt to restore the future. I am home and I had almost forgotten its beauty."
+        }
+      ],
+      "location": "Guardian of Forever"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "BOY",
+          "line": "Earther! Barbarian! Emotional Earther! You're a Terran, Spock. You could never be a true Vulcan."
+        },
+        {
+          "character": "Y SPOCK",
+          "line": "That is not true. My father"
+        },
+        {
+          "character": "BOY 2",
+          "line": "Your father brought shame to Vulcan. He married a human."
+        },
+        {
+          "character": "BOY",
+          "line": "You haven't even mastered a simple Vulcan neck pinch yet, Earther."
+        },
+        {
+          "character": "SAREK",
+          "line": "My apologies, visitor. I regret you were witness to that unfortunate display of emotion on the part of my son."
+        },
+        {
+          "character": "SPOCK",
+          "line": "In the family, all is silence. No more will be said of it. Live long and prosper, Sarek of Vulcan."
+        },
+        {
+          "character": "SAREK",
+          "line": "Peace and long life. You are of my family?"
+        },
+        {
+          "character": "SPOCK",
+          "line": "My name is Selek, an humble cousin descended of T'Pel and Sasak. I am journeying to the family shrine to honor our gods."
+        },
+        {
+          "character": "SAREK",
+          "line": "You have a long way to go. Will you break your journey with us for a while, Cousin?"
+        },
+        {
+          "character": "SPOCK",
+          "line": "I am honored. Is something wrong, Cousin?"
+        },
+        {
+          "character": "SAREK",
+          "line": "No, no. It was only that it seemed I know you."
+        },
+        {
+          "character": "SPOCK",
+          "line": "A family resemblance to our forefathers, no doubt."
+        },
+        {
+          "character": "SAREK",
+          "line": "No doubt. Well, come then. Allow me to welcome you to my home."
+        }
+      ],
+      "location": "Vulcan"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "SAREK",
+          "line": "Spock. Spock, being Vulcan means following diskiplines and philosophies that are difficult and demanding of both mind and body."
+        },
+        {
+          "character": "Y SPOCK",
+          "line": "Yes, father."
+        },
+        {
+          "character": "SAREK",
+          "line": "You constantly display your emotions. You have even been seen fighting in the street."
+        },
+        {
+          "character": "Y SPOCK",
+          "line": "Yes, father."
+        },
+        {
+          "character": "SAREK",
+          "line": "The time draws near when you will have to decide whether you will follow Vulcan or human philosophy. Vulcan offers much. No war, no crime. Order, logic and control in place of raw emotions and instinct. Once on the path you choose, you cannot turn back."
+        },
+        {
+          "character": "Y SPOCK",
+          "line": "Yes, father."
+        }
+      ],
+      "location": "Courtyard"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "AMANDA",
+          "line": "I hope you were not disturbed by my son's behavior, Selek."
+        },
+        {
+          "character": "SPOCK",
+          "line": "No, my lady Amanda. Any child has much to learn. My young cousin has a more difficult road to travel than others."
+        },
+        {
+          "character": "AMANDA",
+          "line": "You seem to understand him better than my husband."
+        },
+        {
+          "character": "SPOCK",
+          "line": "It is difficult for a father to bear less than perfection in his son. Spock will find his way."
+        },
+        {
+          "character": "AMANDA",
+          "line": "I hops so. I respect Vulcan and all its traditions, but it is a demanding life."
+        },
+        {
+          "character": "SPOCK",
+          "line": "The boy goes through the kahs-wan ordeal soon, does he not?"
+        },
+        {
+          "character": "AMANDA",
+          "line": "Next month."
+        },
+        {
+          "character": "SPOCK",
+          "line": "But tomorrow is the twentieth day of Tasmeen."
+        },
+        {
+          "character": "AMANDA",
+          "line": "Yes. Is something wrong?"
+        },
+        {
+          "character": "SPOCK",
+          "line": "I seem to have lost track of time."
+        }
+      ],
+      "location": "Sarek's house"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "SAREK",
+          "line": "Soon you will undergo your test of adulthood in the desert. To survive for ten days without food, water or weapon on Vulcan's Forge will demand more of you than anything ever has. To fail once is not a disgrace for others. If you fail, there will be those who will call you a coward all your life. I do not expect you to fail."
+        },
+        {
+          "character": "Y SPOCK",
+          "line": "What if I do, father?"
+        },
+        {
+          "character": "SAREK",
+          "line": "There is no need to ask that question. You will not disappoint me. Not if your heart and spirit are Vulcan."
+        },
+        {
+          "character": "Y SPOCK",
+          "line": "I-Chaya. what if I'm not a true Vulcan like they say?"
+        }
+      ],
+      "location": "Courtyard"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "SPOCK",
+          "line": "Personal log, stardate 5373.9, subjective time. The timeline seems to have changed again. Yet I do not believe I have done anything to disrupt it. My memory is quite clear regarding the date my cousin saved my life, and it is tomorrow. The kahs-wan ordeal is an ancient rite of warrior days. When Vulcans turned to logic, they reasoned they must maintain the tests of courage and strength to keep pure logic from making them weak and helpless."
+        }
+      ],
+      "location": "Bedroom"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "Y SPOCK",
+          "line": "No, I-Chaya, this is my own test. I have to do it alone. Stay."
+        }
+      ],
+      "location": "Courtyard"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "SPOCK",
+          "line": "Of course. I should have remembered. It wasn't the actual kahs-wan ordeal."
+        }
+      ],
+      "location": "Bedroom"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "Y SPOCK",
+          "line": "I-Chaya, go home. You are too old and too fat for this. That's how you always get around mother, but it does not work with me. Go home, I-Chaya. Personal log. The boy Spock should be moving toward the Llangon Mountains. He, I had much to prove to myself. The personal ordeal upon which I embarked was meant to determine the course my life would take."
+        }
+      ],
+      "location": "Desert"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "AMANDA",
+          "line": "Sarek, our son and the visitor are gone."
+        },
+        {
+          "character": "SAREK",
+          "line": "This cousin, Selek, something strange about him."
+        },
+        {
+          "character": "AMANDA",
+          "line": "You don't think he'd harm Spock?"
+        },
+        {
+          "character": "SAREK",
+          "line": "I don't know, Amanda. I will notify the authorities and ask them to initiate a search."
+        }
+      ],
+      "location": "Sarek's house"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "Y SPOCK",
+          "line": "I-Chaya, good boy."
+        },
+        {
+          "character": "SPOCK",
+          "line": "I suggest we move away from this area before the le-matya regains consciousness."
+        },
+        {
+          "character": "Y SPOCK",
+          "line": "Thank you for helping me and I-Chaya."
+        },
+        {
+          "character": "SPOCK",
+          "line": "It was my duty, Spock."
+        },
+        {
+          "character": "Y SPOCK",
+          "line": "Mother says you should always say thank you."
+        },
+        {
+          "character": "SPOCK",
+          "line": "The lady Amanda is known for her graciousness."
+        },
+        {
+          "character": "Y SPOCK",
+          "line": "Do you think I'll ever be able to do that neck pinch as well as you?"
+        },
+        {
+          "character": "SPOCK",
+          "line": "I dare say you will. Come now."
+        },
+        {
+          "character": "Y SPOCK",
+          "line": "You followed me. Why?"
+        },
+        {
+          "character": "SPOCK",
+          "line": "I suspected you would go. You are worried about the kahs-wan ordeal."
+        },
+        {
+          "character": "Y SPOCK",
+          "line": "I had to see if I could do it. A personal test. I cannot fail."
+        },
+        {
+          "character": "SPOCK",
+          "line": "That is your father's wish?"
+        },
+        {
+          "character": "Y SPOCK",
+          "line": "Yes, and my mother's. They, they confuse me. Father wants me to do things his way, and Mother says I should. But then she goes"
+        },
+        {
+          "character": "SPOCK",
+          "line": "She is a human woman, with strong emotion and sensitivities. She embarrasses you with those traits, and you are afraid when you see them in yourself."
+        },
+        {
+          "character": "Y SPOCK",
+          "line": "How did you know?"
+        },
+        {
+          "character": "SPOCK",
+          "line": "There is some human blood in my family line. It is not fatal. What you do not yet understand, Spock, is that Vulcans do not lack emotion. It is only that ours is controlled. Logic offers a serenity humans seldom experience in full. We have emotions but we deal with them and do not let them control us."
+        },
+        {
+          "character": "Y SPOCK",
+          "line": "I-Chaya!"
+        },
+        {
+          "character": "SPOCK",
+          "line": "The le-matya struck him with its poison claws in the fight."
+        },
+        {
+          "character": "Y SPOCK",
+          "line": "Is he dying?"
+        },
+        {
+          "character": "SPOCK",
+          "line": "Yes. Personal log. Something unexpected has again occurred. The sehlat, I-Chaya, was struck by the poisonous claws of the le-matya he fought. He is dying, unless we can find a healer, and soon."
+        }
+      ],
+      "location": "Mountains"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "SPOCK",
+          "line": "We cannot get him back to the city to a healer. He is too large to move."
+        },
+        {
+          "character": "Y SPOCK",
+          "line": "Then what?"
+        },
+        {
+          "character": "SPOCK",
+          "line": "You are a Vulcan. What is the logical thing to do?"
+        },
+        {
+          "character": "Y SPOCK",
+          "line": "I can bring a healer here."
+        },
+        {
+          "character": "SPOCK",
+          "line": "It is a long journey across the desert. There are many dangers. I will go."
+        },
+        {
+          "character": "Y SPOCK",
+          "line": "No. This is my duty. No one else can do it for me. Will you stay with him?"
+        },
+        {
+          "character": "SPOCK",
+          "line": "This did not happen before. My life decision was made without the sacrifice of yours, old friend. I know there is pain. I can help a little. Sleep now."
+        }
+      ],
+      "location": "Mountains"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "HEALER",
+          "line": "The hour is late. I trust your errand is urgent?"
+        },
+        {
+          "character": "Y SPOCK",
+          "line": "Most urgent, Healer. My sehlat fought a le-matya in the Llangon foothills. He suffered a small wound, but the poison of its claws is working in him now. Please, you must come with me. He needs your healing."
+        },
+        {
+          "character": "HEALER",
+          "line": "You are Spock, son of Sarek, are you not?"
+        },
+        {
+          "character": "Y SPOCK",
+          "line": "Yes, Healer."
+        },
+        {
+          "character": "HEALER",
+          "line": "I have heard of you. I have heard of a tendency toward what humans call practical jokes."
+        },
+        {
+          "character": "Y SPOCK",
+          "line": "I did that once, two years ago. Healer, I would not call you out unless a life was in danger. Have you ever heard the son of Sarek was a liar?"
+        },
+        {
+          "character": "HEALER",
+          "line": "No. That has never been said. Very well. Wait here and I will get my medicines."
+        },
+        {
+          "character": "Y SPOCK",
+          "line": "Healer, please hurry."
+        }
+      ],
+      "location": "Healer's house"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "SPOCK",
+          "line": "It will not be long now, old friend."
+        },
+        {
+          "character": "SPOCK",
+          "line": "You made the desert crossing most efficiently. You will not disappoint Sarek in your kahs-wan."
+        },
+        {
+          "character": "Y SPOCK",
+          "line": "I wanted only to help I-Chaya. He was my father's before he was mine. To lose him"
+        },
+        {
+          "character": "SPOCK",
+          "line": "A Vulcan would face such a loss without tears."
+        },
+        {
+          "character": "Y SPOCK",
+          "line": "How?"
+        },
+        {
+          "character": "SPOCK",
+          "line": "By understanding every life comes to an end when time demands it. Loss of life is to be mourned but only if the life was wasted. I-Chaya's was not."
+        },
+        {
+          "character": "HEALER",
+          "line": "Spock."
+        },
+        {
+          "character": "Y SPOCK",
+          "line": "Yes, sir?"
+        },
+        {
+          "character": "HEALER",
+          "line": "It has been too long. No antidote known will save his life."
+        },
+        {
+          "character": "Y SPOCK",
+          "line": "Is there nothing you can do?"
+        },
+        {
+          "character": "HEALER",
+          "line": "I can prolong his life, but he will be in pain. Or I can release him from life. I will need your decision. He is your pet."
+        },
+        {
+          "character": "Y SPOCK",
+          "line": "Release him. It is fitting he dies with peace and dignity."
+        }
+      ],
+      "location": "Mountains"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "Y SPOCK",
+          "line": "I regret having troubled you in any way, but it was necessary."
+        },
+        {
+          "character": "SAREK",
+          "line": "I trust you can explain why it was necessary?"
+        },
+        {
+          "character": "Y SPOCK",
+          "line": "There was a decision to be made. A direction for my life had to be chosen. I chose Vulcan."
+        },
+        {
+          "character": "SAREK",
+          "line": "It is good then. You have comported yourself with honor. We will see I-Chaya is brought home from the mountains."
+        },
+        {
+          "character": "Y SPOCK",
+          "line": "Thank you, father. If you will excuse me now, I have some business to conduct with schoolmates."
+        },
+        {
+          "character": "SAREK",
+          "line": "Business?"
+        },
+        {
+          "character": "Y SPOCK",
+          "line": "A demonstration of the Vulcan neck pinch. Our cousin taught me."
+        },
+        {
+          "character": "SPOCK",
+          "line": "I too must make my farewells. Your hospitality has been most kind, but I must journey on."
+        },
+        {
+          "character": "SAREK",
+          "line": "You saved my son's life, Selek. There is no way I can fully repay you for that."
+        },
+        {
+          "character": "SPOCK",
+          "line": "Try to understand your son, Sarek of Vulcan. It will be repayment enough for me."
+        },
+        {
+          "character": "SAREK",
+          "line": "A strange request, but I will honor it. My home is yours if you pass this way again."
+        },
+        {
+          "character": "SPOCK",
+          "line": "I think I shall not. Peace and long life."
+        },
+        {
+          "character": "SAREK",
+          "line": "Live long and prosper, cousin."
+        }
+      ],
+      "location": "Sarek's house"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "GUARDIAN",
+          "line": "The traveler is returning."
+        },
+        {
+          "character": "KIRK",
+          "line": "I sent the others up to the ship. What happened?"
+        },
+        {
+          "character": "SPOCK",
+          "line": "One small thing was changed this time. A pet died."
+        },
+        {
+          "character": "KIRK",
+          "line": "A pet? Well, that wouldn't mean much in the course of time."
+        },
+        {
+          "character": "SPOCK",
+          "line": "It might, to some."
+        },
+        {
+          "character": "KIRK",
+          "line": "Enterprise, this is the Captain. Two to beam up."
+        },
+        {
+          "character": "SCOTT",
+          "line": "Two to beam up. Aye, sir.",
+          "modifier": "voiceover"
+        }
+      ],
+      "location": "Guardian of Forever"
+    },
+    {
+      "dialogue": [
+        {
+          "character": "MCCOY",
+          "line": "Well, well, well. So you two finally got back from your vacation. While you've been running all over Orion's creation, I've been running the annual crew physicals. You're the last ones."
+        },
+        {
+          "character": "KIRK",
+          "line": "Welcome aboard, Mister Spock."
+        },
+        {
+          "character": "MCCOY",
+          "line": "Never mind the chit-chat. I've got my medical scanners all set up for a Vulcan. I have to recalibrate every time I run a physical on you, Spock."
+        },
+        {
+          "character": "SPOCK",
+          "line": "Doctor McCoy, you do not know your good fortune. IF the times were different, you would have to recalibrate for an Andorian."
+        },
+        {
+          "character": "MCCOY",
+          "line": "What's that supposed to mean? If that was supposed to be a joke, Spock, I have to remind you Vulcans don't tell jokes."
+        },
+        {
+          "character": "SPOCK",
+          "line": "Times change, Doctor. Times change."
+        }
+      ],
+      "location": "Transporter room"
+    }
+  ],
+  "schedule": {
+    "episode": 3,
+    "number": 3,
+    "season": 1
+  },
+  "stardate": "5373.4",
+  "title": "Yesteryear"
+}
