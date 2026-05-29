@@ -165,6 +165,6 @@ for entry in os.scandir(directory):
                 print("Bad line:")
                 print(dialogue['line'])
 
-    with open("processed/ds9/s%se%s.json" % (str(episode['schedule']['season']).zfill(2), str(episode['schedule']['episode']).zfill(2)), 'w') as outfile:
+    with open("processed/ds9/s%se%s - %s.json" % (str(episode['schedule']['season']).zfill(2), str(episode['schedule']['episode']).zfill(2), safe_filename(episode['title'])), 'w') as outfile:
         string_script = replace(json.dumps(episode))
         json.dump(json.loads(string_script), outfile, indent=2, sort_keys=True)

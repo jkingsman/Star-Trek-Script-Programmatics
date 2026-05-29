@@ -12,6 +12,17 @@ from bs4 import BeautifulSoup
 from gb2en import replace
 
 
+def safe_filename(title):
+    title = title.replace(':', ' -')
+    title = title.replace('/', '-')
+    title = title.replace('?', '')
+    title = title.replace('"', '')
+    title = re.sub(r'[<>|*\\]', '', title)
+    title = re.sub(r'\s+', ' ', title).strip()
+    title = title.rstrip('.')
+    return title
+
+
 def scrubList(list):
     scrubbedList = []
 
@@ -149,6 +160,6 @@ for entry in os.scandir(directory):
                 print(dialogue['character'])
                 print(entry.name)
 
-    with open("processed/tng/s%se%s.json" % (str(episode['schedule']['season']).zfill(2), str(episode['schedule']['episode']).zfill(2)), 'w') as outfile:
+    with open("processed/tng/s%se%s - %s.json" % (str(episode['schedule']['season']).zfill(2), str(episode['schedule']['episode']).zfill(2), safe_filename(episode['title'])), 'w') as outfile:
         string_script = replace(json.dumps(episode))
         json.dump(json.loads(string_script), outfile, indent=2, sort_keys=True)
