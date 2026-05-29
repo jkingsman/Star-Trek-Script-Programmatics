@@ -218,8 +218,8 @@ class ScriptMechanicFlock:
         for episode in self.scripts:
             episode.dumpOnlyScenesWith(chars)
 
-flock = ScriptMechanicFlock('processed/tng')
-# flock = ScriptMechanicFlock('processed/tng')
+flock = ScriptMechanicFlock('json_transcripts/tng')
+# flock = ScriptMechanicFlock('json_transcripts/tng')
 # flock.dumpOnlyScenesWith(chars = ['PICARD', 'RIKER', 'CRUSHER', 'WESLEY', 'DATA', 'WORF', 'TROI', 'GUINAN', 'TASHA', "O'BRIEN", 'KEIKO', 'LAFORGE', 'BARCLAY', 'PULASKI', 'OGAWA', 'Q', 'ALEXANDER'])
 # flock.dump(chars = ['PICARD', 'RIKER', 'CRUSHER', 'DATA', 'WORF', 'TROI', 'LAFORGE'])
 flock.dump(chars = None, show_locations = True)

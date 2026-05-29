@@ -212,7 +212,7 @@ def build_tos_title_map():
 
     # Map JSON files to SRT files by title
     result = {}
-    for jf in glob.glob('processed/tos/*.json'):
+    for jf in glob.glob('json_transcripts/tos/*.json'):
         data = json.load(open(jf))
         tkey = title_key(data['title'])
         srt = mkv_map.get(tkey)
@@ -239,7 +239,7 @@ def get_episode_pairs(series):
 
     if series == 'movies':
         pairs = []
-        for jf in sorted(glob.glob('processed/movies/*.json')):
+        for jf in sorted(glob.glob('json_transcripts/movies/*.json')):
             fn = os.path.basename(jf).replace('.json', '.srt')
             srt = f'srt_dumps/movies/{fn}'
             if os.path.exists(srt):
@@ -248,7 +248,7 @@ def get_episode_pairs(series):
 
     # TNG, DS9 - direct filename match
     pairs = []
-    for jf in sorted(glob.glob(f'processed/{series}/*.json')):
+    for jf in sorted(glob.glob(f'json_transcripts/{series}/*.json')):
         fn = os.path.basename(jf).replace('.json', '.srt')
         srt = f'srt_dumps/{series}/{fn}'
         if os.path.exists(srt):

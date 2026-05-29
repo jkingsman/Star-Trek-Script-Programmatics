@@ -137,6 +137,6 @@ for entry in os.scandir(directory):
 
         episode['scenes'].append(scene)
 
-    with open("processed/movies/movie%s - %s.json" % (str(movie_num).zfill(2), safe_filename(episode['title'])), 'w') as outfile:
+    with open("json_transcripts/movies/movie%s - %s.json" % (str(movie_num).zfill(2), safe_filename(episode['title'])), 'w') as outfile:
         string_script = replace(json.dumps(episode))
         json.dump(json.loads(string_script), outfile, indent=2, sort_keys=True)

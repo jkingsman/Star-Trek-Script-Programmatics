@@ -5,7 +5,7 @@ import glob
 import json
 
 seriesFolder = "voy"
-scriptFolder = f"processed/{seriesFolder}"
+scriptFolder = f"json_transcripts/{seriesFolder}"
 
 collectedRows = []
 for filepath in glob.iglob(scriptFolder + '/*.json'):

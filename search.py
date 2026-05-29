@@ -10,31 +10,45 @@ import sys
 import tempfile
 import subprocess
 
-DATA_DIR = os.path.join(os.path.dirname(os.path.abspath(__file__)), "processed")
+DATA_DIR = os.path.join(os.path.dirname(os.path.abspath(__file__)), "json_transcripts")
 
-SERIES_MAP = {"tng": "TNG", "ds9": "DS9", "voy": "VOY"}
+SERIES_MAP = {"tng": "TNG", "ds9": "DS9", "voy": "VOY", "ent": "ENT", "tos": "TOS", "tas": "TAS", "movies": "Movies"}
+
+MOVIE_ABBREVS = {
+    "movie01": "ST:TMP",
+    "movie02": "ST:TWOK",
+    "movie03": "ST:TSFS",
+    "movie04": "ST:TVH",
+    "movie05": "ST:TFF",
+    "movie06": "ST:TUC",
+    "movie07": "ST:GEN",
+    "movie08": "ST:FC",
+    "movie09": "ST:INS",
+    "movie10": "ST:NEM",
+}
 
 
 def load_all_lines():
     """Load every dialogue line into a flat list for searching."""
     lines = []
-    for series_dir in ("tng", "ds9", "voy"):
+    for series_dir in SERIES_MAP:
         series_label = SERIES_MAP[series_dir]
         pattern = os.path.join(DATA_DIR, series_dir, "*.json")
         for filepath in sorted(glob.glob(pattern)):
-            basename = os.path.basename(filepath)  # e.g. s01e01.json
-            ep_code = basename.replace(".json", "")  # s01e01
+            basename = os.path.basename(filepath)  # e.g. "s01e01 - Title.json"
+            ep_code = basename.split(" - ")[0] if " - " in basename else basename.replace(".json", "")
             with open(filepath) as f:
                 ep = json.load(f)
             title = ep.get("title", "")
             line_num = 0
             for scene in ep["scenes"]:
                 for dial in scene["dialogue"]:
+                    display_series = MOVIE_ABBREVS.get(ep_code, series_label) if series_dir == "movies" else series_label
                     lines.append(
                         {
                             "character": dial["character"],
                             "line": dial["line"],
-                            "series": series_label,
+                            "series": display_series,
                             "ep_code": ep_code,
                             "title": title,
                             "filepath": filepath,
@@ -139,7 +153,7 @@ def main(stdscr):
 
         # Draw results
         if not query.strip():
-            msg = "Type to search across TNG, DS9, and VOY scripts..."
+            msg = "Type to search across all Star Trek scripts..."
             stdscr.addstr(2, 1, msg[:width - 2], curses.A_DIM)
         elif not results:
             stdscr.addstr(2, 1, "No results found.", curses.A_DIM)
@@ -157,7 +171,10 @@ def main(stdscr):
                 is_selected = idx == selected
 
                 # Build the display string piece by piece
-                prefix = f"{entry['character']}, {entry['series']} {entry['ep_code']} {entry['title']}: '"
+                if entry['ep_code'].startswith('movie'):
+                    prefix = f"{entry['character']}, {entry['series']}: '"
+                else:
+                    prefix = f"{entry['character']}, {entry['series']} {entry['ep_code']} {entry['title']}: '"
                 suffix = "'"
 
                 # Find match span in the line for highlighting
@@ -211,7 +228,10 @@ def main(stdscr):
                         # character part
                         char_part = entry["character"] + ", "
                         stdscr.addstr(row, col, char_part, curses.color_pair(2) | curses.A_BOLD)
-                        ep_part = f"{entry['series']} {entry['ep_code']} {entry['title']}: '"
+                        if entry['ep_code'].startswith('movie'):
+                            ep_part = f"{entry['series']}: '"
+                        else:
+                            ep_part = f"{entry['series']} {entry['ep_code']} {entry['title']}: '"
                         stdscr.addstr(row, col + len(char_part), ep_part, curses.color_pair(3))
                 except curses.error:
                     continue

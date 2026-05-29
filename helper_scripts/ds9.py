@@ -2,6 +2,7 @@
 
 import json
 import os
+import pprint
 import re
 import time
 
@@ -11,11 +12,12 @@ from gb2en import replace
 
 
 def extractDate(datestring):
+    result = None
     date_formats = ['%d %b, %Y', '%b %d %Y', '%b %d, %Y', '%d %B, %Y', '%d %b %Y', '%d %B %Y', '%B %d, %Y', '%B %d %Y']
 
-    while date_formats:
+    while not result:
         try:
-            return int(time.mktime(time.strptime(datestring.strip(), date_formats.pop())))
+            return int(time.mktime(time.strptime(matches[2].strip(), date_formats.pop())))
         except Exception as e:
             if len(date_formats) > 0:
                 pass
@@ -30,7 +32,7 @@ def scrubList(list):
 
     for item in list:
         cleaned = item.strip()
-        cleaned = cleaned.replace("Captain's log", "ARCHER [OC]: Captain's log")  # replace log entries
+        cleaned = cleaned.replace("Station log", "SISKO [OC]: Captain's log")  # replace log entries
         # clear line breaks in the middle of lines (last char is a-z.,;?! and then break and then not two capitals)
         cleaned = re.sub(r'(?<=[a-zI\.\,\;\?\!])\n(?![A-Z][A-Z])', ' ', cleaned)
         cleaned = re.sub(' \n', '\n', cleaned)
@@ -44,14 +46,20 @@ def scrubList(list):
 
 
 def getSeasonDataFromEpisode(ep_num):
-    if ep_num <= 26:
-        return {"season": 1, "episode": ep_num, "number": ep_num}
-    elif ep_num <= 52:
-        return {"season": 2, "episode": ep_num - 26, "number": ep_num}
-    elif ep_num <= 76:
-        return {"season": 3, "episode": ep_num - 52, "number": ep_num}
-    elif ep_num <= 98:
-        return {"season": 4, "episode": ep_num - 76, "number": ep_num}
+    if ep_num <= 420:
+        return {"season": 1, "episode": ep_num - 400, "number": ep_num - 400}
+    elif ep_num <= 446:
+        return {"season": 2, "episode": ep_num - 420, "number":  ep_num - 400}
+    elif ep_num <= 472:
+        return {"season": 3, "episode": ep_num - 446, "number":  ep_num - 400}
+    elif ep_num <= 498:
+        return {"season": 4, "episode": ep_num - 472, "number":  ep_num - 400}
+    elif ep_num <= 524:
+        return {"season": 5, "episode": ep_num - 498, "number":  ep_num - 400}
+    elif ep_num <= 550:
+        return {"season": 6, "episode": ep_num - 524, "number":  ep_num - 400}
+    elif ep_num <= 575:
+        return {"season": 7, "episode": ep_num - 550, "number":  ep_num - 400}
 
     print("BAD EP NUM")
     print(ep_num)
@@ -79,48 +87,42 @@ def getLinesFromStringBlock(block):
             line['character'] = char_and_modifier[0].strip()
             modifier = char_and_modifier[1].replace(']', '')
 
-            if modifier in ["on monitor", "on viewscreen", "On viewscreen", "on screen", "on PADD", "text"]:
-                line['modifier'] = "screen"
-            else:
-                # Enterprise uses OC, CO, and location names as modifiers
-                # (e.g., [Bridge], [Sickbay], [Florida]) for off-camera dialogue
+            if modifier in ["OC", "CO", "telepath", "Stargazer log", "telepathically", "outside"]:
                 line['modifier'] = "voiceover"
+            elif modifier in ["on monitor", "on viewscreen", "On viewscreen", "on screen", "on PADD", "on bathroom monitor", "on imagiser", "on TV", "on wall monitor", "on wallscreen"]:
+                line['modifier'] = "screen"
+            elif modifier in ["singing", "both", "Naomi's voice", "as corpse", "memory", "in his mind"]:
+                # line['modifier'] = "modifier"
+                pass
+            else:
+                print("WARNING!!! UNKNOWN LINE MODIFIER")
+                print(modifier)
+                print("for")
+                print(line['character'])
+                print(character_block)
+                exit()
         else:
             line['character'] = character_block.strip()
         lines.append(line)
     return lines
 
-directory = 'www.chakoteya.net/Enterprise'
+directory = 'www.chakoteya.net/DS9'
 for entry in os.scandir(directory):
-    if not entry.name.endswith('.htm'):
-        continue
-    basename = entry.name[:-4]
-    if not basename.isdigit():
-        continue
-
     episode = {}
+    # if entry.name != '426.htm':
+    #     continue
 
-    try:
-        soup = BeautifulSoup(open(entry.path, encoding='utf-8').read(), 'html.parser')
-    except UnicodeDecodeError:
-        soup = BeautifulSoup(open(entry.path, encoding='cp1252').read(), 'html.parser')
+    soup = BeautifulSoup(open(entry.path, encoding='cp1252').read(), 'html.parser')
 
-    title_tag = soup.find('font', {'size': '5'})
-    title = re.sub(r'[\t\r\n]', ' ', title_tag.getText()).strip()
-    title = re.sub(r'  +', ' ', title)
+    title = re.sub(r'[\t\r\n]', ' ', soup.find('font', {'color': '#2867d0'}).getText())
     episode['title'] = title
 
-    episode['stardate'] = 'Unknown'
+    stardate_airdate = re.sub(r'[\t\r\n]', ' ', soup.find('font', {'size': '2'}).getText())
+    matches = re.search(r'Stardate:[ \xa0]?(\d+\.?\d+?|Unknown)[\s \xa0]+Original[\s \xa0]+Airdate:[ \xa0](.*)', stardate_airdate.replace('  ', ' '), re.IGNORECASE)
 
-    metadata_text = title_tag.find_parent('p').getText()
-    airdate_match = re.search(r'Original Airdate:\s*(.*?)(?:[\r\n]|$)', metadata_text)
-    if airdate_match:
-        episode['airdate'] = extractDate(airdate_match[1].strip())
-    else:
-        episode['airdate'] = 0
-
-    ep_num = int(basename)
-    episode['schedule'] = getSeasonDataFromEpisode(ep_num)
+    episode['stardate'] = matches[1]
+    episode['airdate'] = extractDate(matches[2].strip())
+    episode['schedule'] = getSeasonDataFromEpisode(int(entry.name[:-4]))
 
     full_script = soup.find('td', {'width': '85%'}).getText()
 
@@ -129,6 +131,7 @@ for entry in os.scandir(directory):
     cleaned_script = re.sub(r'\)(?=[A-Z])', ') ', cleaned_script)
     scenes = re.split(r'((?<!\w )\[[^:]*?\] *\n)', cleaned_script, flags=re.DOTALL)
     cleaned_scenes = scrubList(scenes)
+    # print(cleaned_scenes)
 
     episode['scenes'] = []
     while len(cleaned_scenes) != 0:
@@ -139,8 +142,6 @@ for entry in os.scandir(directory):
 
         if data[0] == '[':
             scene['location'] = data.replace('[', '').replace(']', '').strip()
-            if len(cleaned_scenes) == 0:
-                continue
             possible_lines = cleaned_scenes.pop(0).strip()
             if len(possible_lines) > 0:
                 scene['dialogue'] = getLinesFromStringBlock(possible_lines)
@@ -152,6 +153,18 @@ for entry in os.scandir(directory):
 
         episode['scenes'].append(scene)
 
-    with open("processed/ent/s%se%s - %s.json" % (str(episode['schedule']['season']).zfill(2), str(episode['schedule']['episode']).zfill(2), safe_filename(episode['title'])), 'w') as outfile:
+    for scene in episode['scenes']:
+        if "." in scene['location'] or ":" in scene['location'] or "[" in scene['location'] or "]" in scene['location']:
+            print("Bad loc:")
+            print(scene['location'])
+        for dialogue in scene['dialogue']:
+            if len(dialogue['character']) > 40 or "." in dialogue['character'] or ":" in dialogue['character'] or "[" in dialogue['character'] or "]" in dialogue['character']:
+                print("Bad char:")
+                print(dialogue['character'])
+            if "[" in dialogue['line'] or "]" in dialogue['line']:
+                print("Bad line:")
+                print(dialogue['line'])
+
+    with open("json_transcripts/ds9/s%se%s - %s.json" % (str(episode['schedule']['season']).zfill(2), str(episode['schedule']['episode']).zfill(2), safe_filename(episode['title'])), 'w') as outfile:
         string_script = replace(json.dumps(episode))
         json.dump(json.loads(string_script), outfile, indent=2, sort_keys=True)
