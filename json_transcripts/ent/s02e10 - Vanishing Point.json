@@ -29,7 +29,7 @@
         },
         {
           "character": "TUCKER",
-          "line": "It is kind of weird. Not a single biosign on the entire planet. Tucker. ARCHER [OC}: You about finished down there, Trip?"
+          "line": "It is kind of weird. Not a single biosign on the entire planet. Tucker."
         },
         {
           "character": "TUCKER",
@@ -78,11 +78,11 @@
         },
         {
           "character": "ARCHER",
-          "line": "Another one? [Situation room]"
+          "line": "Another one?"
         },
         {
           "character": "T'POL",
-          "line": "The diskharges are more intense."
+          "line": "The discharges are more intense."
         },
         {
           "character": "ARCHER",
@@ -102,7 +102,7 @@
         },
         {
           "character": "T'POL",
-          "line": "Less than ten kilometers from the first storm. {Planet surface]"
+          "line": "Less than ten kilometers from the first storm."
         },
         {
           "character": "ARCHER",
@@ -184,7 +184,7 @@
       "dialogue": [
         {
           "character": "T'POL",
-          "line": "That would most likely attract the polaric diskharge."
+          "line": "That would most likely attract the polaric discharge."
         },
         {
           "character": "ARCHER",
@@ -1196,7 +1196,8 @@
         },
         {
           "character": "TRAVIS",
-          "line": "[OC]: Aye, Captain."
+          "line": "Aye, Captain.",
+          "modifier": "voiceover"
         },
         {
           "character": "ARCHER",
@@ -1483,7 +1484,7 @@
         },
         {
           "character": "ARCHER",
-          "line": "Dots and dashes. Morse code. Its been used on Earth for centuries. It's a distress call."
+          "line": "Dots and dashes. Morse code. It's been used on Earth for centuries. It's a distress call."
         },
         {
           "character": "HOSHI",

@@ -10,7 +10,7 @@
         },
         {
           "character": "TRAVIS",
-          "line": "Mayweather. HOSHI [OC] The captain wants you to report to the Bridge. Admiral Forrest called a few minutes ago. We're reversing course."
+          "line": "Mayweather."
         },
         {
           "character": "TRAVIS",
@@ -662,11 +662,11 @@
         },
         {
           "character": "TRAVIS",
-          "line": "Our Chief Engineer, on Enterprise. He showed me how to reconfigure the spatial diskriminators. Shouldn't give you any more trouble."
+          "line": "Our Chief Engineer, on Enterprise. He showed me how to reconfigure the spatial discriminators. Shouldn't give you any more trouble."
         },
         {
           "character": "PAUL",
-          "line": "What's going to happen if these improvements of yours go offline? You'll be back on your Starfleet ship, out of comm. range. Who's going to fix it? I'd prefer it if you didn't modify any more systems without diskussing it with me."
+          "line": "What's going to happen if these improvements of yours go offline? You'll be back on your Starfleet ship, out of comm. range. Who's going to fix it? I'd prefer it if you didn't modify any more systems without discussing it with me."
         },
         {
           "character": "TRAVIS",
@@ -969,7 +969,8 @@
       "dialogue": [
         {
           "character": "DOCTOR F",
-          "line": "[on screen]: Fool. If this storm develops as I hope, you'll have plenty to be afraid of before the night's over. Go on, fix the electrodes. This storm will be magnificent. All the electrical secrets of heaven. This time we're ready, eh, Fritz? Ready. (Phlox is attentive and eating popcorn, but T'Pol is reading a PADD instead.)"
+          "line": "Fool. If this storm develops as I hope, you'll have plenty to be afraid of before the night's over. Go on, fix the electrodes. This storm will be magnificent. All the electrical secrets of heaven. This time we're ready, eh, Fritz? Ready. (Phlox is attentive and eating popcorn, but T'Pol is reading a PADD instead.)",
+          "modifier": "screen"
         },
         {
           "character": "ARCHER",
@@ -1252,7 +1253,7 @@
         },
         {
           "character": "T'POL",
-          "line": "There is something similar. a diskipline known as tarul-etek. It uses disturbing imagery to provoke an emotional response."
+          "line": "There is something similar. a discipline known as tarul-etek. It uses disturbing imagery to provoke an emotional response."
         },
         {
           "character": "ARCHER",

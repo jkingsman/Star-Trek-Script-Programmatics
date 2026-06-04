@@ -197,7 +197,8 @@
         },
         {
           "character": "SHRAN",
-          "line": "[on viewscreen]: I'm sorry, pinkskin, but it was essential certain people believed I had met my demise."
+          "line": "I'm sorry, pinkskin, but it was essential certain people believed I had met my demise.",
+          "modifier": "screen"
         },
         {
           "character": "ARCHER",
@@ -1128,7 +1129,7 @@
         },
         {
           "character": "DATA",
-          "line": "I was wondering if this might be an appropriate time to continue our diskussion on the long-term effects of space travel on my positronic net.",
+          "line": "I was wondering if this might be an appropriate time to continue our discussion on the long-term effects of space travel on my positronic net.",
           "modifier": "voiceover"
         },
         {
@@ -1355,7 +1356,7 @@
         },
         {
           "character": "RIKER",
-          "line": "You've always got a choice. {Captain's mess]"
+          "line": "You've always got a choice."
         },
         {
           "character": "TUCKER",

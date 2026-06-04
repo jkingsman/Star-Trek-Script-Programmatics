@@ -279,7 +279,7 @@
         },
         {
           "character": "ARCHER",
-          "line": "We can't help you unless we can see you, so why don't you diskonnect whatever stealth device you're using."
+          "line": "We can't help you unless we can see you, so why don't you disconnect whatever stealth device you're using."
         }
       ],
       "location": "Bridge, rear"
@@ -389,7 +389,7 @@
         },
         {
           "character": "AH'LEN",
-          "line": "Maintain your normal rate of respiration. The diskomfort will subside.",
+          "line": "Maintain your normal rate of respiration. The discomfort will subside.",
           "modifier": "voiceover"
         }
       ],
@@ -1017,7 +1017,8 @@
         },
         {
           "character": "TRENA'L",
-          "line": "[on viewscreen]: I realize how difficult it must have been, adapting to our environment."
+          "line": "I realize how difficult it must have been, adapting to our environment.",
+          "modifier": "screen"
         },
         {
           "character": "TUCKER",
@@ -1886,7 +1887,7 @@
       "dialogue": [
         {
           "character": "VOROK",
-          "line": "As soon as the installlation is complete, the Xyrillians will be free to go.",
+          "line": "As soon as the installation is complete, the Xyrillians will be free to go.",
           "modifier": "screen"
         },
         {
